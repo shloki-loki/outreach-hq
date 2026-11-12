@@ -10238,7 +10238,21 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Madan Somasundaram",
+     "title": "Co-founder",
+     "role_type": "founder",
+     "linkedin_url": "",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "Co-founder; the role sits in the Founder's Office (YourStory, Indian Startup News)",
+     "found_at": "2026-11-12T22:21:50+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -10258,9 +10272,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 75: qualified"
+    },
+    {
+     "at": "2026-11-12T22:21:50+05:30",
+     "actor": "email-finder",
+     "event": "contact_added",
+     "detail": "Madan Somasundaram (founder)"
     }
    ],
-   "updated_at": "2026-11-12T22:21:17+05:30",
+   "updated_at": "2026-11-12T22:21:50+05:30",
    "reject_reason": null
   },
   {

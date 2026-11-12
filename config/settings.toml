@@ -1,8 +1,8 @@
 # Operating rules for the send, track and follow-up agents.
 
-# dry_run: everything happens except the actual send. Approved emails stay "approved" and the log
-# shows what would have gone out. Switch to "live" only after the test email to yourself works.
-mode = "dry_run"
+# live: an email Shlok approved on the website is sent. dry_run: approved emails are held and nothing is sent.
+# Switched to live on 2026-11-12 at Shlok's instruction, after the test email worked locally and from GitHub.
+mode = "live"
 
 timezone = "Asia/Kolkata"
 

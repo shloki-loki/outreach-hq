@@ -75,7 +75,8 @@ def check_draft(kind: str, subject: str, body: str, *, to_name: str = "", compan
             problems.append(f"must open with \"Hi {first_name},\"")
     elif kind == "cold" and not re.match(r"\s*(hi|hello)\b", body, re.I):
         problems.append("must open with a greeting")
-    if company and kind == "cold" and not word_match(company.split("(")[0].strip().split()[0], text):
+    unnamed = bool(re.match(r"\s*(undisclosed|unnamed|confidential|stealth)\b", company or "", re.I))
+    if company and not unnamed and kind == "cold" and not word_match(company.split("(")[0].strip().split()[0], text):
         problems.append(f"never names the company ({company}); a cold email must be specific to it")
     if re.search(r"https?://", body):
         problems.append("contains a link; the portfolio link is added by the signature")

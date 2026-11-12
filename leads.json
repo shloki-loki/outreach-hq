@@ -10265,10 +10265,10 @@
      "title": "Co-founder",
      "role_type": "founder",
      "linkedin_url": "",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "madan@sugar.fit",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first), not verified",
+     "confidence": 35,
      "why": "Co-founder; the role sits in the Founder's Office (YourStory, Indian Startup News)",
      "found_at": "2026-11-12T22:21:50+05:30"
     }
@@ -10298,9 +10298,15 @@
      "actor": "email-finder",
      "event": "contact_added",
      "detail": "Madan Somasundaram (founder)"
+    },
+    {
+     "at": "2026-11-12T22:22:43+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Madan Somasundaram: madan@sugar.fit (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T22:21:50+05:30",
+   "updated_at": "2026-11-12T22:22:43+05:30",
    "reject_reason": null
   },
   {

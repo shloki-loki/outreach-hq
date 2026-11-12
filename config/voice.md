@@ -59,6 +59,24 @@ timing is wrong, a one-line no is fine"). Nothing after that.
 - A speculative note to a founder (no named opening) says so plainly and asks whether a
   Founder's Office or strategy hire is on their mind in the next quarter.
 
+## Speculative notes (the company has no named opening)
+
+Sometimes all there is, is a company worth working for and a founder's address. The lead is marked
+`type: company` and the email is a different thing from an application:
+
+- Never say or imply there is an opening, and never say he has applied. The draft command refuses both.
+- Open with their business, then say plainly why he is writing: he does not know whether a Founder's
+  Office, Chief of Staff or strategy-and-operations hire is on their mind, and he would like to be the
+  person they think of when it is.
+- One proof that maps to a problem a company at their stage actually has (inventory and working
+  capital for anything physical; planning and dispatch for logistics; process automation for fintech
+  and insurance; working directly with a CEO and COO for any founder).
+- The ask is smaller than for a real opening: a short conversation, or permission to send a one-page
+  note on how he would approach one specific problem of theirs.
+- Only write to the founder or the head of the function. A speculative note to a generic careers
+  address is not worth sending.
+- At most 6 of the day's 15 emails may be speculative; real openings come first.
+
 ## Informal referral notes (LinkedIn, to people Shlok already knows)
 
 These are not cold emails. 120-700 characters, first-name, warm, the way Shlok would text a batchmate

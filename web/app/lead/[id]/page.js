@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import LeadControls from '@/components/LeadControls';
 import MessageCard from '@/components/MessageCard';
+import AddConnection from '@/components/AddConnection';
 import ReferralCard from '@/components/ReferralCard';
 import TopBar from '@/components/TopBar';
 import { requireSignIn } from '@/lib/auth';
@@ -16,7 +17,7 @@ const EVENT = {
   found: 'Found', imported: 'Imported', researched: 'Researched', contact_added: 'Person added', email_found: 'Email found',
   drafted: 'Email drafted', sent: 'Email sent', send_failed: 'Send failed', replied: 'Reply received', auto_reply: 'Auto-reply',
   bounced: 'Bounced', followup_due: 'Follow-up due', applied: 'Applied', applied_undone: 'Applied undone', outcome: 'Outcome',
-  stage: 'Stage', referral_note: 'Referral note drafted', referral_sent: 'Referral asked', referral_replied: 'Referral replied',
+  stage: 'Stage', referral_added: 'Connection added', referral_note: 'Referral note drafted', referral_sent: 'Referral asked', referral_replied: 'Referral replied',
   posting_closed: 'Posting closed', reopened: 'Posting reopened', apply_kit: 'Application answers ready', apply: 'Application',
 };
 const isUrl = (value) => /^https?:\/\//.test(value || '');
@@ -31,6 +32,7 @@ export default async function LeadPage({ params }) {
   const status = STATUS[lead.status];
   const messages = [...lead.messages].sort((a, b) => (a.created_at < b.created_at ? -1 : 1));
   const referrals = lead.referrals || [];
+  const companyName = (lead.company || '').replace(/\(.*?\)/g, '').trim();
   const answers = Object.entries(lead.apply?.answers || {});
   const contactById = Object.fromEntries((lead.contacts || []).map((c) => [c.id, c]));
   const controls = { id: lead.id, apply_url: isUrl(lead.apply_url) ? lead.apply_url : '', applied_at: lead.applied_at, outcome: lead.outcome, stage: lead.stage };
@@ -45,7 +47,7 @@ export default async function LeadPage({ params }) {
             <span className={`pill tone-${status.tone}`}>{status.label}</span>
             {lead.stretch ? <span className="tag">Stretch on seniority</span> : null}
             {lead.open === false ? <span className="tag">Posting closed</span> : null}
-            {lead.type === 'company' ? <span className="tag">No named opening</span> : null}
+            {lead.type === 'company' ? <span className="tag">No named opening: speculative note to the founders</span> : null}
             {lead.legacy_id ? <span className="tag">Old tracker {lead.legacy_id}</span> : null}
           </div>
           <h1>{lead.title}</h1>
@@ -80,9 +82,15 @@ export default async function LeadPage({ params }) {
 
         <section className="section">
           <h2 className="section-label">My LinkedIn connections here<span className="n">{referrals.length}</span></h2>
+          <p className="prose">The list below comes from your last LinkedIn export, so it misses anyone you connected with since. The live search is always current: it opens LinkedIn's own search of your connections for this company.</p>
+          <div className="button-row" style={{ marginBottom: 14 }}>
+            <a className="button primary" target="_blank" rel="noreferrer" href={`https://www.linkedin.com/search/results/people/?keywords=${encodeURIComponent(companyName)}&network=%5B%22F%22%5D&origin=FACETED_SEARCH`}>Search my connections at {companyName} (live)</a>
+            <a className="button" target="_blank" rel="noreferrer" href={`https://www.linkedin.com/search/results/people/?keywords=${encodeURIComponent(companyName)}&network=%5B%22S%22%5D&origin=FACETED_SEARCH`}>Friends of friends there</a>
+          </div>
           {referrals.length === 0 ? (
-            <p className="empty">None of your imported connections lists {lead.company} as their company.</p>
+            <p className="empty">Nobody from your last export lists {companyName} as their company.</p>
           ) : referrals.map((referral) => <ReferralCard key={referral.linkedin_url || referral.name} leadId={lead.id} referral={referral} />)}
+          <AddConnection leadId={lead.id} />
         </section>
 
         <section className="section">

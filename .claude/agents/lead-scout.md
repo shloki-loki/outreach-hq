@@ -44,6 +44,19 @@ Add what you find as JSON (fields in `outreach/sources/__init__.py`; set `source
 The rules run on every lead you add; use `--force` only when a rule is plainly wrong for that posting, and
 say why in a note.
 
+**2b. Companies worth writing to without an opening (once a week, on Mondays, or when asked).** A founder
+who has just raised money or is growing fast often hires a Founder's Office or strategy person before any
+posting exists. Find up to 8 such companies: Bengaluru or remote-India, raised a round in the last 90 days or
+visibly scaling, in a domain where Shlok's facts are directly useful (EV, energy, manufacturing, logistics,
+supply chain, quick commerce operations, fintech or insurance operations). WebSearch funding news
+(`raised seed OR "Series A" Bengaluru <month year>`), Inc42, Entrackr, YourStory, and YC's India companies
+(the scraper already adds the hiring ones). Add each as a lead with `"type": "company"`, the title
+`"Founder's Office (speculative note to founders)"`, the company's site as `company_url`, a `description` saying
+what they do and what they raised with the source, and the founders as `contacts` (role_type `founder`).
+These leads are researched and qualified like any other; reject them when nothing in `profile.toml` maps to
+a problem they plausibly have. A speculative lead is only worth keeping with a named founder or function
+head: never keep one that has just a generic address.
+
 **3. Research the unresearched, best first.** `python3 -m outreach lead list --unresearched --limit 15`,
 then for each `lead show <id>`. Do at most 15 per run and do them properly:
 - Read the real posting (WebFetch the `source_url` or `apply_url`). Is it still open? What does it actually

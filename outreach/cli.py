@@ -41,6 +41,8 @@ def cmd_lead_list(args: argparse.Namespace) -> None:
             continue
         if args.needs_email and (lead.get("stage") != "qualified" or any(c.get("email") for c in lead.get("contacts", []))):
             continue
+        if args.speculative and lead.get("type") != "company":
+            continue
         if args.needs_draft and not (lead.get("stage") == "qualified" and status == "qualified" and lead.get("open", True)
                                      and any(c.get("email") and c.get("email_status") not in ("bounced", "invalid")
                                              for c in lead.get("contacts", []))):
@@ -49,7 +51,7 @@ def cmd_lead_list(args: argparse.Namespace) -> None:
             continue
         rows.append({"id": lead["id"], "score": lead["score"]["total"], "status": status, "company": lead["company"],
                      "title": lead["title"], "location": lead["location"], "pay": lead["pay"]["fit"],
-                     "source": lead["source"], "open": lead.get("open", True),
+                     "source": lead["source"], "open": lead.get("open", True), "type": lead.get("type", "job"),
                      "contacts": len(lead.get("contacts", [])),
                      "emails": sum(1 for c in lead.get("contacts", []) if c.get("email"))})
     rows.sort(key=lambda row: -row["score"])
@@ -298,7 +300,8 @@ def cmd_message_draft(args: argparse.Namespace) -> None:
 
 def cmd_message_check(args: argparse.Namespace) -> None:
     body = sys.stdin.read() if args.body_file == "-" else Path(args.body_file).read_text(encoding="utf-8")
-    problems = messages.check_draft(args.kind, args.subject, body, to_name=args.to_name or "", company=args.company or "")
+    problems = messages.check_draft(args.kind, args.subject, body, to_name=args.to_name or "", company=args.company or "",
+                                    speculative=args.speculative)
     out({"ok": not problems, "problems": problems, "words": messages.word_count(body)})
     sys.exit(0 if not problems else 2)
 
@@ -481,6 +484,7 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--needs-email", action="store_true", help="qualified leads with no email address yet")
     p.add_argument("--needs-draft", action="store_true", help="qualified, has an address, nothing drafted")
     p.add_argument("--followup-due", action="store_true")
+    p.add_argument("--speculative", action="store_true", help="only companies with no named opening")
     p.add_argument("--limit", type=int)
     p.set_defaults(func=cmd_lead_list)
     p = lead.add_parser("show"); p.add_argument("id"); p.set_defaults(func=cmd_lead_show)
@@ -528,6 +532,7 @@ def main(argv: list[str] | None = None) -> None:
             p.add_argument("--by", default="send-track")
         else:
             p.add_argument("--to-name"); p.add_argument("--company")
+            p.add_argument("--speculative", action="store_true", help="the company has no named opening")
         p.set_defaults(func=func)
     p = message.add_parser("list"); p.add_argument("--status"); p.add_argument("--lead"); p.add_argument("--full", action="store_true")
     p.set_defaults(func=cmd_message_list)

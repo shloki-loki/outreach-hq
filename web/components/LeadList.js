@@ -8,6 +8,7 @@ const VIEWS = [
   { id: 'you', label: 'Needs you', test: (s) => ['replied', 'followup_due', 'to_approve'].includes(s) },
   { id: 'qualified', label: 'Qualified, untouched', test: (s) => s === 'qualified' },
   { id: 'captured', label: 'Contacted or applied', test: (s, r) => r.captured },
+  { id: 'spec', label: 'No opening (speculative)', test: (s, r) => r.speculative && !['rejected', 'closed', 'skipped'].includes(s) },
   { id: 'new', label: 'Not researched yet', test: (s) => s === 'new' },
   { id: 'off', label: 'Rejected or closed', test: (s) => ['rejected', 'closed', 'skipped'].includes(s) },
   { id: 'all', label: 'All', test: () => true },
@@ -57,6 +58,7 @@ export default function LeadList({ rows, initialView = 'play' }) {
                 {r.emails ? <span className="tag">{r.emails} email{r.emails > 1 ? 's' : ''} found</span> : null}
                 {r.connections ? <span className="tag">{r.connections} connection{r.connections > 1 ? 's' : ''}</span> : null}
                 {r.applied ? <span className="tag">Applied</span> : null}
+                {r.speculative ? <span className="tag">No opening</span> : null}
                 {r.stretch ? <span className="tag">Stretch</span> : null}
                 <span className="score" title="Fit score out of 100">{r.score}</span>
                 <span className={`pill tone-${r.tone}`}>{r.statusLabel}</span>

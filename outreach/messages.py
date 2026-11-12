@@ -36,7 +36,14 @@ def word_count(text: str) -> int:
     return len(re.findall(r"\b[\w'’-]+\b", text))
 
 
-def check_draft(kind: str, subject: str, body: str, *, to_name: str = "", company: str = "") -> list[str]:
+APPLIED_CLAIM = re.compile(r"\b(i have applied|i've applied|i’ve applied|i applied|have already applied|"
+                           r"applied (for|to|via|through|on)|submitted my application)\b", re.I)
+OPENING_CLAIM = re.compile(r"\b(your|the) (opening|open role|job post|job posting|posting|listing|vacancy|advert(isement)?)\b|"
+                           r"\b(saw|noticed|came across) (your|the|that you).{0,40}\b(hiring|opening|role)\b", re.I)
+
+
+def check_draft(kind: str, subject: str, body: str, *, to_name: str = "", company: str = "",
+                speculative: bool = False, applied: bool | None = None) -> list[str]:
     """Returns the list of problems; empty means the draft may be queued."""
     problems: list[str] = []
     profile = load_config("profile")
@@ -72,6 +79,11 @@ def check_draft(kind: str, subject: str, body: str, *, to_name: str = "", compan
         problems.append(f"never names the company ({company}); a cold email must be specific to it")
     if re.search(r"https?://", body):
         problems.append("contains a link; the portfolio link is added by the signature")
+    if APPLIED_CLAIM.search(text) and (speculative or applied is False):
+        problems.append("says he has applied, but " + ("there is no opening to apply to" if speculative
+                        else "the lead is not marked applied; say he would like to be considered"))
+    if speculative and OPENING_CLAIM.search(text):
+        problems.append("refers to an opening, but this company has no named opening; write it as a speculative note")
     return problems
 
 
@@ -138,7 +150,9 @@ def create_draft(lead_id: str, contact_id: str, kind: str, subject: str, body: s
                 problems.append("they already replied; no follow-up")
         if lead.get("stage") in ("rejected", "skipped") or lead.get("outcome") in ("rejected", "closed"):
             problems.append("lead is closed")
-        problems += check_draft(kind, subject, body, to_name=contact.get("name") or "", company=lead.get("company") or "")
+        speculative = lead.get("type") == "company"
+        problems += check_draft(kind, subject, body, to_name=contact.get("name") or "", company=lead.get("company") or "",
+                                speculative=speculative, applied=bool(lead.get("applied_at")))
         if problems:
             raise ValueError("; ".join(problems))
         message = {
@@ -146,6 +160,7 @@ def create_draft(lead_id: str, contact_id: str, kind: str, subject: str, body: s
             "to": email, "to_name": contact.get("name") or "", "kind": kind,
             "subject": subject if kind == "cold" else f"Re: {_root_subject(mine, contact_id) or subject}",
             "body": body.rstrip() + "\n", "status": "draft", "email_status": contact.get("email_status"),
+            "speculative": speculative,
             "hook": hook, "hook_source": hook_source, "attach_resume": attach_resume,
             "created_at": now_iso(), "created_by": created_by, "approved_at": None, "sending_at": None,
             "sent_at": None, "message_id": None, "thread_parent": thread_parent, "error": None, "reply": None,

@@ -44,7 +44,7 @@ export default async function LeadsPage({ searchParams }) {
     open: lead.open, stretch: lead.stretch, applied: Boolean(lead.applied_at) && lead.status !== 'applied',
     emails: (lead.contacts || []).filter((c) => c.email && !['bounced', 'invalid'].includes(c.email_status)).length,
     connections: (lead.referrals || []).length, note: latestNote(lead),
-    captured: Boolean(lead.first_contacted_at || lead.applied_at),
+    captured: Boolean(lead.first_contacted_at || lead.applied_at), speculative: lead.type === 'company',
     search: `${lead.company} ${lead.title} ${lead.location} ${lead.tier || ''}`.toLowerCase(),
   }));
   const strip = [

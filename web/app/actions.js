@@ -208,6 +208,19 @@ export async function addNote(leadId, text) {
   }, `site: note ${leadId}`);
 }
 
+export async function addReferral(leadId, name, position, linkedinUrl) {
+  const person = clean(name, 120);
+  const url = clean(linkedinUrl, 300);
+  if (!person) return { ok: false, error: 'A name is needed.' };
+  if (url && !/^https:\/\/([a-z]+\.)?linkedin\.com\/in\//i.test(url)) return { ok: false, error: 'That is not a LinkedIn profile link (it should start with https://www.linkedin.com/in/).' };
+  return editLead(leadId, (lead) => {
+    lead.referrals = lead.referrals || [];
+    if (lead.referrals.some((r) => (url && r.linkedin_url === url) || r.name.toLowerCase() === person.toLowerCase())) throw new Abort('They are already listed on this lead.');
+    lead.referrals.push({ name: person, position: clean(position, 160), linkedin_url: url, connected_on: '', status: 'suggested', note: '', sent_at: null, added_by: 'shlok' });
+    addTimeline(lead, 'shlok', 'referral_added', `${person} added from a live LinkedIn search`);
+  }, `site: add connection ${leadId}`);
+}
+
 export async function saveReferral(leadId, linkedinUrl, note, status) {
   if (!['suggested', 'sent', 'replied', 'skipped'].includes(status)) return { ok: false, error: 'Unknown status.' };
   return editLead(leadId, (lead) => {

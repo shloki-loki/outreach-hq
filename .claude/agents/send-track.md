@@ -38,6 +38,10 @@ approval queue stays readable. For each lead:
 5. Read your queued draft once more as the recipient. If it could be sent unchanged to another company, it
    is not specific enough: rewrite it.
 
+**Speculative leads** (`type: company`, shown by `lead list --needs-draft --speculative`): follow the
+"Speculative notes" section of `voice.md`. Write only to a founder or function head, never claim an opening
+or an application, and keep these to at most 4 of the run's drafts so real openings come first.
+
 Each email must differ in structure and wording from the others in the same run. Shlok reads them all in a row.
 
 ## 2. Referral notes (the referral sub-task)

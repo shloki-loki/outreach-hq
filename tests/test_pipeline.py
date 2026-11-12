@@ -6,6 +6,7 @@ may say, and when (and whether) anything is sent. No network and no mailbox are 
 
 from __future__ import annotations
 
+import math
 import os
 import shutil
 import tempfile
@@ -160,6 +161,23 @@ class DraftRulesTest(Base):
         self.assertTrue(any("end with" in p for p in self.check(GOOD_BODY.replace("\nShlok\n", "\nRegards,\nShlok Agrawal\n"))))
         self.assertTrue(any("never names the company" in p for p in self.check(GOOD_BODY.replace("Acme's", "Your"), subject="Founder's Office role")))
 
+    def test_applied_is_only_claimed_when_true(self):
+        body = GOOD_BODY.replace("I saw the Founder's Office opening and would like to be considered.",
+                                 "I have applied for the Founder's Office role.")
+        self.assertTrue(any("not marked applied" in p for p in messages.check_draft(
+            "cold", "Founder's Office at Acme", body, to_name="Priya Nair", company="Acme", applied=False)))
+        self.assertEqual(messages.check_draft("cold", "Founder's Office at Acme", body, to_name="Priya Nair",
+                                              company="Acme", applied=True), [])
+
+    def test_speculative_note_cannot_pretend_there_is_an_opening(self):
+        problems = messages.check_draft("cold", "Strategy help at Acme", GOOD_BODY, to_name="Priya Nair",
+                                        company="Acme", speculative=True)
+        self.assertTrue(any("no named opening" in p for p in problems), problems)
+        honest = GOOD_BODY.replace("I saw the Founder's Office opening and would like to be considered. ",
+                                   "I do not know if a Founder's Office hire is on your mind this quarter. ")
+        self.assertEqual(messages.check_draft("cold", "Strategy help at Acme", honest, to_name="Priya Nair",
+                                              company="Acme", speculative=True), [])
+
     def test_draft_needs_a_deliverable_address_and_respects_do_not_email(self):
         lead = self.add_lead()
         suppression = store.load("suppression")
@@ -274,8 +292,18 @@ class SendTest(Base):
     def test_unverified_guesses_are_capped(self):
         self.queue(6, email_status="guess")
         send.run()
-        cap = max(1, int(self.settings["sending"]["new_emails_per_day"] * self.settings["sending"]["max_guess_share"]))
+        cap = max(1, math.floor(self.settings["sending"]["new_emails_per_day"] * self.settings["sending"]["max_guess_share"]))
         self.assertEqual(len(self.sent), cap)
+
+    def test_speculative_notes_are_capped(self):
+        self.settings["sending"] = dict(self.settings["sending"], speculative_per_day=2, max_per_run=6)
+        made = self.queue(5)
+        data = store.load("messages")
+        for message in data["messages"]:
+            message["speculative"] = True
+        store.save("messages", data)
+        send.run()
+        self.assertEqual(len(self.sent), 2)
 
     def test_outside_window_nothing_goes(self):
         self.queue(1)

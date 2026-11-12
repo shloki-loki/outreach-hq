@@ -37,6 +37,7 @@ export default function MessageCard({ message, emailBadge, leadLabel, showLead =
           </div>
         </div>
         <div className="button-row">
+          {message.speculative ? <span className="tag" title="This company has no named opening. The email asks, it does not apply.">No opening: speculative note</span> : null}
           {emailBadge ? <span className={`pill tone-${emailBadge.tone}`}>{emailBadge.label}</span> : null}
           <span className={`pill tone-${tone}`}>{label}</span>
         </div>

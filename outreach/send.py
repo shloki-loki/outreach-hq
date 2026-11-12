@@ -52,6 +52,7 @@ def pick_next(settings: dict, sent_this_run: int) -> tuple[dict | None, str]:
     follow_done = len(done) - new_done
     guess_done = sum(1 for m in done if m.get("kind") == "cold" and m.get("email_status") in ("guess", "catch-all"))
     guess_cap = max(1, math.floor(cfg["new_emails_per_day"] * cfg["max_guess_share"]))
+    speculative_done = sum(1 for m in done if m.get("kind") == "cold" and m.get("speculative"))
     held = ""
     for message in queue:
         lead = store.find(leads["leads"], message["lead_id"]) or {}
@@ -69,6 +70,9 @@ def pick_next(settings: dict, sent_this_run: int) -> tuple[dict | None, str]:
                 continue
             if message.get("email_status") in ("guess", "catch-all") and guess_done >= guess_cap:
                 held = f"daily cap of {guess_cap} unverified addresses reached"
+                continue
+            if message.get("speculative") and speculative_done >= cfg.get("speculative_per_day", 6):
+                held = f"daily cap of {cfg.get('speculative_per_day', 6)} speculative notes reached"
                 continue
         elif follow_done >= cfg["followups_per_day"]:
             held = f"daily cap of {cfg['followups_per_day']} follow-ups reached"

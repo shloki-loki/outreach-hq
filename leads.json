@@ -6602,7 +6602,8 @@
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-12T23:03:06+05:30",
+    "headline": "Chief of Staff to a Head of Manufacturing in Chennai via a recruiter; closest match to your Ola plant-planning work, but likely wants more years."
    },
    "stage": "qualified",
    "outcome": null,
@@ -6678,9 +6679,15 @@
      "actor": "send-track",
      "event": "drafted",
      "detail": "cold email to Rajalakshmi Subramanian awaiting approval"
+    },
+    {
+     "at": "2026-11-12T23:03:06+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "re-checked: posting is still live"
     }
    ],
-   "updated_at": "2026-11-12T23:03:00+05:30"
+   "updated_at": "2026-11-12T23:03:06+05:30"
   },
   {
    "id": "L0058",

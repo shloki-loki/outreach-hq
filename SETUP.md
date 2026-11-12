@@ -91,6 +91,13 @@ a batch of drafts and the test email in step 1 arrived:
 2. Commit and push that one line.
 3. Anything already approved goes out on the next sender run, inside the daily caps.
 
+## 7. Add the two schedules the app would not let Claude create
+
+Lead scout (09:27 daily) and follow-ups (11:30 Mon-Sat) are scheduled. The email-drafting and supervisor
+runs are not: the app declined to let Claude create them. Their prompts are in
+[docs/scheduled-tasks.md](docs/scheduled-tasks.md); add them from the Scheduled section of the Claude app.
+Until then, start them by asking Claude: "run the send-track agent" or "run the supervisor".
+
 ## Check everything
 
 ```bash

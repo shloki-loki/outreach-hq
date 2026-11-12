@@ -84,19 +84,10 @@ than what is written there.
 
 ## 6. Go live
 
-Sending starts in **dry run**: approving an email marks it approved and sends nothing. When you have read
-a batch of drafts and the test email in step 1 arrived:
+Done on 2026-11-12: `mode = "live"`. To pause all sending, set it back to `"dry_run"`:
 
-1. In `config/settings.toml` change `mode = "dry_run"` to `mode = "live"`.
-2. Commit and push that one line.
-3. Anything already approved goes out on the next sender run, inside the daily caps.
-
-## 7. Add the two schedules the app would not let Claude create
-
-Lead scout (09:27 daily) and follow-ups (11:30 Mon-Sat) are scheduled. The email-drafting and supervisor
-runs are not: the app declined to let Claude create them. Their prompts are in
-[docs/scheduled-tasks.md](docs/scheduled-tasks.md); add them from the Scheduled section of the Claude app.
-Until then, start them by asking Claude: "run the send-track agent" or "run the supervisor".
+1. In `config/settings.toml` change `mode = "live"` to `mode = "dry_run"`.
+2. Commit and push that one line. Approved emails are then held until you switch back.
 
 ## Check everything
 

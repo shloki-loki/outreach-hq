@@ -4143,7 +4143,8 @@
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-12T23:03:09+05:30",
+    "headline": "Remote Founder's Office at Carbon Trail, a climate startup; Rs 25-35 LPA per a jobs roundup, asks 3+ yrs, and the company's own listing was not found."
    },
    "stage": "qualified",
    "outcome": null,
@@ -4213,9 +4214,15 @@
      "actor": "send-track",
      "event": "drafted",
      "detail": "cold email to  awaiting approval"
+    },
+    {
+     "at": "2026-11-12T23:03:09+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "re-checked: posting is still live"
     }
    ],
-   "updated_at": "2026-11-12T22:23:24+05:30"
+   "updated_at": "2026-11-12T23:03:09+05:30"
   },
   {
    "id": "L0037",

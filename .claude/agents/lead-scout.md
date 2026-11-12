@@ -96,6 +96,12 @@ could not open it, say so in `fit_notes` and reject or leave it unresearched; ne
 honest about pay: at 1.3 years, Rs 24.5 LPA fixed is a narrow target and most roles will not clear it.
 Reject with a clear reason; a rejected lead stays visible on the site.
 
+**3b. Re-verify what has gone stale.** `python3 -m outreach lead list --stale --limit 8`: qualified leads not
+checked in the last 10 days (all the old-tracker imports start here). Open each posting. Still live:
+`lead set <id> --verified --by lead-scout`, and give it a `--headline` if it has none. Gone or filled:
+`lead set <id> --closed --note "Posting removed, checked <date>" --by lead-scout`. Shlok should never be
+shown a lead nobody has looked at recently.
+
 **4. Find the people** for every newly qualified lead (and `lead list --needs-email`). In order of value:
 the person the role reports to; a founder (companies under about 200 people); the recruiter or the author of
 the hiring post; then a generic careers address the posting gives. Two people per lead at most. Use

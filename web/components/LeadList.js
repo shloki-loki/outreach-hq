@@ -63,7 +63,7 @@ export default function LeadList({ rows, initialView = 'play' }) {
                   {r.tier ? <span>{r.tier}</span> : null}
                   <span className="sep">{r.source}</span>
                   {r.posted ? <span className="sep">{r.posted}</span> : null}
-                  {r.checked != null ? <span className="sep">Checked {r.checked === 0 ? 'today' : `${r.checked}d ago`}</span> : null}
+                  {r.checked != null ? <span className="sep">Checked {r.checked === 0 ? 'today' : `${r.checked}d ago`}</span> : (r.researched ? <span className="sep">Not re-checked since the old tracker</span> : null)}
                   {r.companyNote ? <span className="sep">{r.companyNote}</span> : null}
                 </p>
                 {r.note ? <p className="lead-note">{r.note}</p> : null}

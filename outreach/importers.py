@@ -76,7 +76,7 @@ def import_legacy() -> dict[str, int]:
             lead = lead_model.new_lead(job, verdict, store.next_id(data["leads"], "L"))
             lead["research"].update(done=True, fit_notes=row.get("Fit Notes") or "",
                                     pay_notes=row.get("Estimated Pay (with source)") or "",
-                                    researched_at=now_iso())
+                                    researched_at=None)  # researched in the old tracker; not re-checked here
             lead["stage"] = "rejected" if fit.startswith("Below") else "qualified"
             if row.get("Contacts (LinkedIn)"):
                 lead["notes"].append({"at": now_iso(), "by": "import", "text": "People found earlier: " + row["Contacts (LinkedIn)"]})

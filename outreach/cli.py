@@ -13,7 +13,7 @@ from typing import Any
 
 from . import digest, emailfinder, importers, leads as lead_model, messages, metrics, scout, send, store, track
 from .rules import Pay, Verdict, judge, pay_fit
-from .util import load_config, load_env, now_iso
+from .util import load_config, load_env, now, now_iso, parse_iso
 
 
 def out(value: Any) -> None:
@@ -43,6 +43,11 @@ def cmd_lead_list(args: argparse.Namespace) -> None:
             continue
         if args.speculative and lead.get("type") != "company":
             continue
+        if args.stale:
+            checked = parse_iso(lead.get("research", {}).get("researched_at"))
+            fresh = checked and (now() - checked).days < 10
+            if lead.get("stage") != "qualified" or fresh or status in ("offer", "interview", "replied"):
+                continue
         if args.needs_draft and not (lead.get("stage") == "qualified" and status == "qualified" and lead.get("open", True)
                                      and any(c.get("email") and c.get("email_status") not in ("bounced", "invalid")
                                              for c in lead.get("contacts", []))):
@@ -197,6 +202,10 @@ def cmd_lead_set(args: argparse.Namespace) -> None:
         if args.closed:
             lead["open"] = False
             store.add_timeline(lead, args.by, "posting_closed", "confirmed closed")
+        if args.verified:
+            lead["research"]["researched_at"] = now_iso()
+            lead["open"] = True
+            store.add_timeline(lead, args.by, "researched", "re-checked: posting is still live")
         if args.headline:
             lead["research"]["headline"] = args.headline.strip()[:170]
             lead["updated_at"] = now_iso()
@@ -506,6 +515,7 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--needs-draft", action="store_true", help="qualified, has an address, nothing drafted")
     p.add_argument("--followup-due", action="store_true")
     p.add_argument("--speculative", action="store_true", help="only companies with no named opening")
+    p.add_argument("--stale", action="store_true", help="qualified leads not re-checked in the last 10 days")
     p.add_argument("--limit", type=int)
     p.set_defaults(func=cmd_lead_list)
     p = lead.add_parser("show"); p.add_argument("id"); p.set_defaults(func=cmd_lead_show)
@@ -522,6 +532,7 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--apply-answers", help="JSON file of prepared application answers")
     p.add_argument("--closed", action="store_true")
     p.add_argument("--headline", help="the one-line verdict shown on the lead's header")
+    p.add_argument("--verified", action="store_true", help="stamp that the posting was opened today and is still live")
     p.add_argument("--note")
     p.add_argument("--by", default="agent")
     p.set_defaults(func=cmd_lead_set)

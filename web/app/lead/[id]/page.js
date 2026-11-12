@@ -54,7 +54,7 @@ export default async function LeadPage({ params }) {
           <p><strong>{lead.company}</strong>{lead.company_note ? ` · ${lead.company_note}` : ''}</p>
           {lead.research?.headline ? <p style={{ color: 'var(--ink)', fontSize: 16 }}>{lead.research.headline}</p> : null}
           <p style={{ fontSize: 13 }}>
-            {lead.research?.done ? `Posting and company checked ${formatDate(lead.research.researched_at)}.` : 'Not researched yet: nothing here has been checked beyond the rules.'}
+            {lead.research?.done ? (lead.research.researched_at ? `Posting and company checked ${formatDate(lead.research.researched_at)}.` : 'Researched in the earlier tracker and not re-checked since: the posting may have closed.') : 'Not researched yet: nothing here has been checked beyond the rules.'}
             {lead.open === false ? ' The posting has since closed.' : ''}
           </p>
         </div>

@@ -9189,8 +9189,8 @@
    "key": "sarvam|product and strategy associate|bengaluru",
    "type": "job",
    "company": "Sarvam",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "sarvam.ai",
+   "company_url": "https://www.sarvam.ai",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product & Strategy Associate",
@@ -9228,8 +9228,8 @@
    },
    "score": {
     "rules": 87,
-    "research": null,
-    "total": 87,
+    "research": 74,
+    "total": 79,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -9239,15 +9239,15 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "fit_notes": "Product & Strategy Associate in the CEO's Office at Sarvam, one of India's best-known AI labs. The role takes ambiguous problems to a result, drives 0-to-1 bets and owns key customer engagements. Asks 2+ years; Shlok has 1.3, so this is a stretch on experience. Matches: the make-to-order to stock-and-sell program, direct work with a CEO and COO, competitive-programming record for the analytical bar. No AI-product or customer-engagement experience.",
+    "pay_notes": "Pay is not stated and no salary evidence has been gathered yet. Treat as unknown until checked.",
+    "culture_notes": "Founded 2023 by Pratyush Kumar (CEO) and Vivek Raghavan; heavily covered in 2026 as India's sovereign-AI lab (Business Today, Feb and Mar 2026). No employee-review data checked yet.",
+    "hook": "The posting's own words: the associate takes an ambiguous problem, gives it structure, and carries it to a result.",
+    "hook_source": "https://jobs.ashbyhq.com/sarvam/786e9a1b-e52d-4075-932d-66e4ad8e06c2",
+    "researched_at": "2026-11-12T22:21:28+05:30"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -9271,9 +9271,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "ashby: rule score 87"
+    },
+    {
+     "at": "2026-11-12T22:21:28+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 79: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T22:21:28+05:30",
+   "reject_reason": null
   },
   {
    "id": "L0086",

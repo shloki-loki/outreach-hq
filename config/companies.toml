@@ -1,0 +1,28 @@
+# Company career boards read directly through their public job-board APIs (free, no login).
+# Slugs below were verified live on 2026-11-12 with `python -m outreach discover`.
+# Add a company: run `python -m outreach discover <name-or-slug> ...` and paste what it prints.
+
+[greenhouse]
+slugs = ["groww", "glance", "inmobi", "slice", "prodigal", "stage", "turing", "porter", "stripe",
+  "databricks", "anthropic", "airbnb", "coinbase", "figma", "gitlab", "brex", "wise"]
+
+[lever]
+slugs = ["cred", "meesho", "fampay", "fi", "pocketfm", "porter"]
+
+[ashby]
+slugs = ["atlan", "atlys", "composio", "ditto", "headout", "kiwi", "navi", "river", "sarvam",
+  "spotdraft", "zeno", "notion", "openai", "perplexity", "elevenlabs", "ramp", "snowflake"]
+
+# Display names where the slug is not the company name.
+[names]
+fi = "Fi Money"
+stage = "STAGE"
+pocketfm = "Pocket FM"
+kiwi = "Kiwi"
+river = "River"
+cred = "CRED"
+inmobi = "InMobi"
+openai = "OpenAI"
+gitlab = "GitLab"
+spotdraft = "SpotDraft"
+elevenlabs = "ElevenLabs"

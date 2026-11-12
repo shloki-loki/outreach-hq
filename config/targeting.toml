@@ -1,0 +1,99 @@
+# What counts as a good lead. Decided with Shlok on 2026-11-12.
+
+[pay]
+floor_lpa = 24.5          # fixed pay floor, Rs lakh per year
+target_max_lpa = 30.0
+# A role whose stated top-of-band is under the floor is dropped. A role with no stated pay is
+# kept as "Unknown" until the lead-scout agent finds evidence and labels it as an estimate.
+
+[experience]
+ideal_max_years = 3       # roles asking up to this are a normal fit
+stretch_max_years = 4     # asked minimum of 3-4 years: kept, flagged as stretch
+# a stated minimum above stretch_max_years is dropped
+
+[location]
+# Scored highest to lowest. Anything outside India is dropped unless it is remote and open to India.
+preferred = ["bengaluru", "bangalore"]
+remote_words = ["remote", "work from home", "wfh", "anywhere"]
+india_words = ["india", "bengaluru", "bangalore", "mumbai", "delhi", "gurgaon", "gurugram", "noida",
+  "hyderabad", "pune", "chennai", "kolkata", "ahmedabad", "jaipur", "thane", "navi mumbai", "ncr",
+  "karnataka", "maharashtra", "telangana", "haryana", "tamil nadu", "kochi", "indore", "chandigarh"]
+
+[companies]
+# Never show or contact these (current employer at least). Whole-word, case-insensitive.
+exclude = ["Beltech", "Beltech AI", "Beltech Artificial Intelligence"]
+# Known for strong pay and culture; a small score bonus. The lead-scout agent may extend this list.
+favourites = ["Stripe", "Razorpay", "CRED", "Zepto", "Meesho", "PhonePe", "Groww", "Swiggy", "Flipkart",
+  "Rippling", "Atlassian", "Uber", "Postman", "BrowserStack", "Atlan", "Sarvam", "Zerodha", "Navi",
+  "Cashfree", "Juspay", "Slice", "Jupiter", "Fi", "Ather", "Rapido", "Porter", "Urban Company",
+  "Headout", "Atlys", "Scapia", "Glean", "Databricks", "Snowflake", "Notion", "OpenAI", "Anthropic",
+  "Composio", "Lyzr", "InMobi", "Glance", "Zomato", "Blinkit", "Zetwerk", "Udaan", "Plum", "Ditto"]
+
+# Role tiers, in Shlok's priority order. Patterns are case-insensitive regexes matched on the title.
+[[tiers]]
+name = "1 - Strategy & Ops"
+points = 40
+patterns = [
+  "founder'?s?[’']?s?\\s*office", "chief of staff", "\\bcos\\b", "ceo[’']?s?\\s*office", "coo[’']?s?\\s*office",
+  "office of the (ceo|coo|founder|md)", "strategy\\s*(&|and)\\s*op", "\\bbiz\\s?ops\\b", "business operations",
+  "entrepreneur[- ]in[- ]residence", "\\beir\\b", "strategic initiatives", "special projects",
+  "corporate strategy", "business strategy", "strategy (manager|associate|lead|analyst)",
+  "(manager|associate|lead|analyst)[ ,-]+strategy", "\\bs&op\\b", "supply (chain )?planning", "central (ops|operations|strategy)",
+  "growth\\s*(&|and)\\s*strategy", "strategy\\s*(&|and)\\s*growth", "generalist",
+]
+
+[[tiers]]
+name = "2 - Product / Program / BD"
+points = 28
+patterns = [
+  "product manager", "program manager", "programme manager", "business development manager",
+  "growth manager", "category manager", "operations manager", "supply chain manager",
+  "partnerships manager", "expansion manager", "city (head|manager|lead)", "launch manager",
+  "product operations", "revenue operations", "strategy & planning", "planning manager",
+]
+
+[[tiers]]
+name = "3 - APM / Analyst"
+points = 18
+patterns = [
+  "associate product manager", "\\bapm\\b", "business analyst", "strategy analyst", "data analyst",
+  "product analyst", "operations analyst", "associate program manager", "investment analyst",
+]
+
+[titles]
+# Dropped outright, whatever else matches.
+exclude = [
+  "\\bintern(ship)?\\b", "\\btrainee\\b", "\\b(director|vp|vice president|svp|avp|head of|principal|partner)\\b",
+  "\\b(software|backend|frontend|front-end|full[- ]?stack|devops|qa|test|ml|ai|data|platform|security|firmware|hardware|mechanical|electrical|design|site reliability) engineer",
+  "\\b(sde|sdet|developer|architect|scientist|designer|recruiter|talent acquisition|accountant|lawyer|counsel)\\b",
+  "\\b(telecaller|tele-?sales|inside sales|sales (executive|officer|associate|representative)|field sales|customer (support|care|success) (executive|associate|agent))\\b",
+  "\\b(content writer|copywriter|video editor|graphic)\\b",
+  "\\b(nurse|doctor|physician|teacher|faculty|driver|technician)\\b",
+]
+# Kept but flagged as a stretch on seniority.
+stretch = ["\\bsenior\\b", "\\bsr\\.?\\b", "\\blead\\b", "\\bgroup\\b", "\\bii\\b", "\\biii\\b"]
+
+[scoring]
+keep_threshold = 45       # rule score at or above this becomes a lead for the scout agent to research
+qualified_threshold = 65  # final score (rules + research) at or above this is shown as Qualified
+
+# Searches run against LinkedIn's public (logged-out) job search.
+[linkedin]
+keywords = [
+  "\"founder's office\"", "\"chief of staff\"", "\"ceo's office\"", "\"strategy and operations\"",
+  "\"entrepreneur in residence\"", "\"business operations\" strategy", "\"strategic initiatives\"",
+  "\"program manager\" strategy", "\"bizops\"", "\"associate product manager\"", "\"S&OP\" planning manager",
+]
+locations = ["Bengaluru, Karnataka, India", "India"]
+posted_within = "r604800"   # seconds: r86400 = 24h, r604800 = 7 days
+pages_per_search = 2        # 10 results per page
+detail_fetches_per_run = 25 # job descriptions read per run (LinkedIn rate-limits these)
+
+[instahyre]
+queries = ["founder's office", "chief of staff", "strategy", "business operations", "program manager", "product manager"]
+locations = ["Bangalore", "Work From Home"]
+
+[yc]
+regions = ["India", "Remote", "Fully Remote", "South Asia"]
+max_team_size = 500
+companies_per_run = 40      # company pages read per run

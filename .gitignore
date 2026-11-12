@@ -1,0 +1,16 @@
+# secrets and private numbers
+.env
+.env.*
+!.env.example
+config/*.local.toml
+# the data branch is checked out here (see scripts/setup_data.sh)
+/data/
+# build output
+__pycache__/
+*.pyc
+web/node_modules/
+web/.next/
+web/.env*.local
+.vercel
+.DS_Store
+/.preview-data/

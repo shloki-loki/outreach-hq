@@ -1,0 +1,36 @@
+name: Lead scout (job boards)
+
+# Reads every free job source and stores what passes the rules. Four times a day (IST 07:10, 12:10,
+# 17:10, 22:10). The research, people-finding and drafting happen in the Claude agents on the Mac.
+on:
+  schedule:
+    - cron: "40 1,6,11,16 * * *"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Sources, comma-separated (blank = all)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scout
+  cancel-in-progress: false
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Scout
+        run: |
+          if [ -n "${{ inputs.only }}" ]; then python -m outreach scout --only "${{ inputs.only }}"; else python -m outreach scout; fi

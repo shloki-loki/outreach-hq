@@ -1,0 +1,61 @@
+# Operating rules for the send, track and follow-up agents.
+
+# dry_run: everything happens except the actual send. Approved emails stay "approved" and the log
+# shows what would have gone out. Switch to "live" only after the test email to yourself works.
+mode = "dry_run"
+
+timezone = "Asia/Kolkata"
+
+[sending]
+new_emails_per_day = 15       # first-touch cold emails
+followups_per_day = 10
+max_per_run = 6               # one sender run never sends more than this
+gap_seconds_min = 60          # human-like pause between two sends
+gap_seconds_max = 120
+window_start = "08:00"        # emails only go out inside this window (IST), Mon-Sat
+window_end = "21:00"
+send_days = ["mon", "tue", "wed", "thu", "fri", "sat"]
+max_guess_share = 0.3         # at most this share of a day's new emails may go to unverified guesses
+one_email_per_person_days = 60  # never cold-email the same address twice inside this many days
+max_contacts_per_company = 2    # people at one company who get a cold email for the same lead
+attach_resume = false         # links land in inboxes more reliably than attachments
+
+[followups]
+max_followups = 2
+first_after_business_days = 4
+second_after_business_days = 7   # counted from the first follow-up
+stop_on = ["replied", "bounced", "lead_closed", "unsubscribed"]
+
+[tracking]
+inbox_lookback_days = 45
+
+[digest]
+send_to = "111shlokagrawal@gmail.com"
+hour_ist = 8
+
+[signature]
+text = """Shlok Agrawal
+IIT Guwahati | ex-Ola Electric (Strategy & Operations)
+Portfolio: https://shlokagrawal-portfolio.vercel.app"""
+
+# Free tiers only. `limit` is what the code will spend per period; keep it under the provider's
+# real free allowance (check the provider's pricing page when you add the key).
+[providers.hunter]
+env = "HUNTER_API_KEY"
+period = "month"
+limit = 45
+
+[providers.quickemailverification]
+env = "QEV_API_KEY"
+period = "day"
+limit = 90
+
+[providers.reoon]
+env = "REOON_API_KEY"
+period = "day"
+limit = 18
+
+[providers.apollo]
+env = "APOLLO_API_KEY"
+period = "month"
+limit = 60

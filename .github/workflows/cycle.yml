@@ -1,0 +1,40 @@
+name: Track and send
+
+# 1. Reads the inbox for replies and bounces and marks follow-ups due.
+# 2. Sends emails Shlok approved on the website (never anything else), inside the caps and window.
+# Runs every 2 hours in the IST day, and immediately when the website dispatches it after an approval.
+on:
+  schedule:
+    - cron: "20 2,4,6,8,10,12,14,16 * * *"
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: "Why this run was started"
+        required: false
+
+permissions:
+  contents: write
+
+# One sender at a time, ever. A second run waits for the first to finish.
+concurrency:
+  group: cycle
+  cancel-in-progress: false
+
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Track, send, refresh numbers
+        run: python -m outreach cycle

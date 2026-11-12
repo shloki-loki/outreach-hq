@@ -1,0 +1,30 @@
+name: Morning digest
+
+# One email to Shlok at about 08:30 IST: replies, approvals waiting, follow-ups due, top new leads.
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      SITE_URL: ${{ vars.SITE_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m outreach metrics
+      - run: python -m outreach digest

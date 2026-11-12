@@ -1,0 +1,106 @@
+# Who the outreach is for. Every email, note and form answer may use ONLY what is in this file
+# (it mirrors the resume dated Nov 2026 and the portfolio). Never invent or inflate anything.
+# Private numbers (CTC, notice period) live in profile.local.toml, which is not committed.
+
+[person]
+name = "Shlok Agrawal"
+first_name = "Shlok"
+email = "111shlokagrawal@gmail.com"
+phone = "+91-9343806463"
+city = "Bengaluru"
+portfolio = "https://shlokagrawal-portfolio.vercel.app"
+resume_url = "https://shlokagrawal-portfolio.vercel.app/resume"
+linkedin = ""            # fill in: your public LinkedIn profile URL
+years_experience = 1.3
+education = "B.Tech, Electrical and Electronics Engineering, IIT Guwahati (2021-2025)"
+
+[positioning]
+# How cold emails and notes present Shlok. Decided 2026-11-12: use resume facts but keep the
+# current employer (Beltech AI) out of cold emails and notes. Application forms that ask for the
+# current employer get the real answer.
+one_liner = "IIT Guwahati grad with a year in Strategy & Operations at Ola Electric, where I ran S&OP planning and worked directly with the CEO and COO"
+hide_in_messages = ["Beltech"]
+never_claim = [
+  "consulting or MBB experience",
+  "an MBA",
+  "quick-commerce, D2C or used-car P&L ownership",
+  "people management of a full-time team",
+]
+never_mention = ["salary or CTC in a cold email", "that a tool or AI wrote the message"]
+
+# Proof points. `tags` let the writer pick the one or two that match the role.
+[[facts]]
+id = "msl"
+text = "Designed Ola Electric's Minimum Stock Limit program, moving from make-to-order to stock-and-sell with a Rs 200 Cr inventory buffer, reaching 70% serviceability across India"
+tags = ["strategy", "operations", "supply-chain", "inventory", "founders-office", "program"]
+
+[[facts]]
+id = "o2d"
+text = "Built a lotting algorithm for truck dispatches that cut Order-to-Delivery time from 32 to 14 days and improved trucking efficiency by 33%"
+tags = ["operations", "logistics", "analytics", "product", "program"]
+
+[[facts]]
+id = "sop"
+text = "Owned S&OP production planning over Rs 200 Cr of inventory and 3-month rolling plans, cutting working capital by 40% in 2.5 months"
+tags = ["strategy", "operations", "planning", "finance", "supply-chain", "bizops"]
+
+[[facts]]
+id = "mrp"
+text = "Implemented SAP MRP from scratch as Raw Material Manager, reducing stock-outs by 20% and raw material inventory by 25%"
+tags = ["operations", "supply-chain", "systems", "program"]
+
+[[facts]]
+id = "ceo-coo"
+text = "Partnered with Ola Electric's COO and CEO on fulfilment operations, owning finished goods inventory end to end; milk-run routes raised first-mile truck utilisation by 45% and cut logistics spend by 34%"
+tags = ["founders-office", "chief-of-staff", "strategy", "logistics", "operations"]
+
+[[facts]]
+id = "rebalance"
+text = "Led a pan-India inventory rebalancing based on sales run rate, unlocking 27% working capital"
+tags = ["operations", "analytics", "retail", "category"]
+
+[[facts]]
+id = "cell"
+text = "Drove backend production planning for the Bharat Cell (4680) and Shakti (BESS) launches; cell yield improved from 42% to 67% in 2 months"
+tags = ["manufacturing", "ev", "energy", "hardware", "launch", "program"]
+
+[[facts]]
+id = "idekho"
+text = "At InsuranceDekho (Technical Product Intern), built a Flask REST API with a Chrome extension that autofilled forms, cutting response times by 40% and saving 30 minutes per instance"
+tags = ["product", "automation", "fintech", "insurance", "tech", "apm"]
+
+[[facts]]
+id = "alcheringa"
+text = "As Sales and Curation Head of Alcheringa (IIT Guwahati), led 280+ executives and built the ticketing portal and app behind a 300% YoY rise in ticket sales"
+tags = ["leadership", "sales", "growth", "product", "zero-to-one"]
+
+[[facts]]
+id = "ranks"
+text = "JEE Advanced AIR 2135; Codeforces Expert; Flipkart Grid top 0.05% of 400,000+; Amex Strategy Track top 2%"
+tags = ["analytics", "problem-solving", "tech", "product"]
+
+[skills]
+business = ["SAP ERP (MM, PP)", "ARIBA SSC", "MS Excel", "PowerPoint", "SQL"]
+programming = ["C++", "C", "Java", "Python", "Flask", "HTML", "CSS", "JavaScript"]
+
+# Real employment history, used ONLY for application forms.
+[[employment]]
+company = "Beltech Artificial Intelligence Pvt Ltd"
+title = "Founder's Office - Business Strategy"
+start = "2026-08"
+end = "present"
+location = "Bengaluru"
+
+[[employment]]
+company = "Ola Electric Technologies"
+title = "Strategy and Operations Planning"
+start = "2025-06"
+end = "2026-07"
+location = "Bengaluru"
+
+[[employment]]
+company = "InsuranceDekho"
+title = "Technical Product Intern"
+start = "2024-05"
+end = "2024-07"
+location = "Gurugram"

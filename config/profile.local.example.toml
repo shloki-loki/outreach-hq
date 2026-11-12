@@ -1,0 +1,11 @@
+# Copy to config/profile.local.toml and fill in. That file is ignored by git and never leaves this Mac.
+# These values are used ONLY to fill application forms. They are never put in an email or note.
+
+[private]
+current_ctc = ""          # e.g. "18 LPA fixed"
+expected_ctc = ""         # e.g. "25-30 LPA fixed"
+notice_period = ""        # e.g. "30 days"
+current_location = "Bengaluru"
+willing_to_relocate = ""  # e.g. "Yes, within India"
+date_of_birth = ""        # only if a form requires it
+gender = ""               # only if a form requires it

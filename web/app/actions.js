@@ -1,0 +1,228 @@
+'use server';
+
+// Everything the site can change. Each action checks the session itself.
+// The site never sends email: approving only marks a message "approved"; the sender workflow
+// (outreach/send.py) does the sending, with its own caps and checks.
+
+import { revalidatePath } from 'next/cache';
+import { redirect } from 'next/navigation';
+import { assertSignedIn, endSession, passwordIsSet, passwordMatches, startSession } from '@/lib/auth';
+import { Abort, addTimeline, dispatchCycle, nowIso, update } from '@/lib/store';
+
+const clean = (value, max) => String(value ?? '').replace(/\r\n/g, '\n').trim().slice(0, max);
+
+function refresh(leadId) {
+  revalidatePath('/');
+  revalidatePath('/approvals');
+  revalidatePath('/progress');
+  if (leadId) revalidatePath(`/lead/${leadId}`);
+}
+
+async function guarded(work) {
+  await assertSignedIn();
+  try {
+    return (await work()) || { ok: true };
+  } catch (error) {
+    if (error instanceof Abort) return { ok: false, error: error.message };
+    console.error(error);
+    return { ok: false, error: `Could not save: ${error.message}` };
+  }
+}
+
+export async function login(_previous, formData) {
+  if (!passwordIsSet()) return { error: 'SITE_PASSWORD is not set on Vercel yet.' };
+  await new Promise((resolve) => setTimeout(resolve, 600)); // slows guessing
+  if (!passwordMatches(formData.get('password') || '')) return { error: 'Wrong password.' };
+  await startSession();
+  redirect('/');
+}
+
+export async function logout() {
+  await endSession();
+  redirect('/login');
+}
+
+// ---- messages -----------------------------------------------------------------------------
+
+function editMessage(message, subject, body) {
+  const nextSubject = clean(subject, 200);
+  const nextBody = clean(body, 6000);
+  if (!nextSubject || nextBody.length < 40) throw new Abort('The subject or body is empty.');
+  if (nextSubject !== message.subject || `${nextBody}\n` !== message.body) {
+    message.subject = nextSubject;
+    message.body = `${nextBody}\n`;
+    message.edited_by_shlok = true;
+  }
+}
+
+export async function saveMessage(id, subject, body) {
+  return guarded(async () => {
+    let leadId;
+    await update('messages', (data) => {
+      const message = data.messages.find((m) => m.id === id);
+      if (!message) throw new Abort('That message no longer exists.');
+      if (message.status !== 'draft') throw new Abort(`This message is already ${message.status}; it can no longer be edited.`);
+      editMessage(message, subject, body);
+      leadId = message.lead_id;
+    }, `site: edit ${id}`);
+    refresh(leadId);
+  });
+}
+
+export async function approveMessage(id, subject, body) {
+  return guarded(async () => {
+    let leadId;
+    await update('messages', (data) => {
+      const message = data.messages.find((m) => m.id === id);
+      if (!message) throw new Abort('That message no longer exists.');
+      if (message.status !== 'draft') throw new Abort(`Already ${message.status}. Nothing was changed.`);
+      editMessage(message, subject, body);
+      message.status = 'approved';
+      message.approved_at = nowIso();
+      message.error = null;
+      leadId = message.lead_id;
+    }, `site: approve ${id}`);
+    const started = await dispatchCycle(`approved ${id}`);
+    refresh(leadId);
+    return { ok: true, note: started.started ? 'Approved. The sender is starting now.' : `Approved. ${started.note || ''}` };
+  });
+}
+
+export async function approveMany(ids) {
+  return guarded(async () => {
+    let count = 0;
+    await update('messages', (data) => {
+      count = 0;
+      for (const id of ids) {
+        const message = data.messages.find((m) => m.id === id);
+        if (message && message.status === 'draft') {
+          message.status = 'approved';
+          message.approved_at = nowIso();
+          message.error = null;
+          count += 1;
+        }
+      }
+      if (!count) throw new Abort('Nothing left to approve.');
+    }, `site: approve ${ids.length} messages`);
+    const started = await dispatchCycle(`approved ${count} messages`);
+    refresh();
+    return { ok: true, note: `${count} approved. ${started.started ? 'The sender is starting now.' : started.note || ''}` };
+  });
+}
+
+export async function unapproveMessage(id) {
+  return guarded(async () => {
+    await update('messages', (data) => {
+      const message = data.messages.find((m) => m.id === id);
+      if (!message || message.status !== 'approved') throw new Abort('Too late: it is no longer waiting to send.');
+      message.status = 'draft';
+      message.approved_at = null;
+    }, `site: pull back ${id}`);
+    refresh();
+  });
+}
+
+export async function skipMessage(id) {
+  return guarded(async () => {
+    let leadId;
+    await update('messages', (data) => {
+      const message = data.messages.find((m) => m.id === id);
+      if (!message || !['draft', 'approved', 'failed'].includes(message.status)) throw new Abort('This message can no longer be skipped.');
+      message.status = 'skipped';
+      message.error = 'Skipped by Shlok.';
+      leadId = message.lead_id;
+    }, `site: skip ${id}`);
+    refresh(leadId);
+  });
+}
+
+export async function retryMessage(id) {
+  return guarded(async () => {
+    await update('messages', (data) => {
+      const message = data.messages.find((m) => m.id === id);
+      if (!message || message.status !== 'failed') throw new Abort('Only a failed message can be retried.');
+      message.status = 'approved';
+      message.approved_at = nowIso();
+      message.error = null;
+      message.message_id = null;
+    }, `site: retry ${id}`);
+    const started = await dispatchCycle(`retry ${id}`);
+    refresh();
+    return { ok: true, note: started.started ? 'Queued again. The sender is starting now.' : `Queued again. ${started.note || ''}` };
+  });
+}
+
+// ---- leads --------------------------------------------------------------------------------
+
+async function editLead(leadId, change, message) {
+  return guarded(async () => {
+    await update('leads', (data) => {
+      const lead = data.leads.find((l) => l.id === leadId);
+      if (!lead) throw new Abort('That lead no longer exists.');
+      change(lead);
+    }, message);
+    refresh(leadId);
+  });
+}
+
+export async function markApplied(leadId) {
+  return editLead(leadId, (lead) => {
+    lead.applied_at = lead.applied_at || nowIso();
+    lead.apply = { ...(lead.apply || {}), status: 'applied' };
+    addTimeline(lead, 'shlok', 'applied', 'application submitted');
+  }, `site: applied ${leadId}`);
+}
+
+export async function undoApplied(leadId) {
+  return editLead(leadId, (lead) => {
+    lead.applied_at = null;
+    lead.apply = { ...(lead.apply || {}), status: 'not_started' };
+    addTimeline(lead, 'shlok', 'applied_undone', '');
+  }, `site: un-applied ${leadId}`);
+}
+
+export async function setOutcome(leadId, outcome) {
+  if (!['interview', 'offer', 'rejected', 'closed', 'none'].includes(outcome)) return { ok: false, error: 'Unknown outcome.' };
+  return editLead(leadId, (lead) => {
+    lead.outcome = outcome === 'none' ? null : outcome;
+    if (lead.outcome) lead.followup = { due: false, kind: null, since: null };
+    addTimeline(lead, 'shlok', 'outcome', outcome);
+  }, `site: outcome ${leadId} ${outcome}`);
+}
+
+export async function setStage(leadId, stage) {
+  if (!['qualified', 'skipped'].includes(stage)) return { ok: false, error: 'Unknown stage.' };
+  return editLead(leadId, (lead) => {
+    lead.stage = stage;
+    addTimeline(lead, 'shlok', 'stage', stage === 'skipped' ? 'not interested' : 'moved back to qualified');
+  }, `site: stage ${leadId} ${stage}`);
+}
+
+export async function addNote(leadId, text) {
+  const note = clean(text, 2000);
+  if (!note) return { ok: false, error: 'The note is empty.' };
+  return editLead(leadId, (lead) => {
+    lead.notes = lead.notes || [];
+    lead.notes.push({ at: nowIso(), by: 'shlok', text: note });
+    lead.updated_at = nowIso();
+  }, `site: note ${leadId}`);
+}
+
+export async function saveReferral(leadId, linkedinUrl, note, status) {
+  if (!['suggested', 'sent', 'replied', 'skipped'].includes(status)) return { ok: false, error: 'Unknown status.' };
+  return editLead(leadId, (lead) => {
+    const referral = (lead.referrals || []).find((r) => (r.linkedin_url || r.name) === linkedinUrl);
+    if (!referral) throw new Abort('That connection is no longer listed on this lead.');
+    referral.note = clean(note, 1500);
+    if (referral.status !== status) {
+      referral.status = status;
+      if (status === 'sent') {
+        referral.sent_at = nowIso();
+        lead.first_contacted_at = lead.first_contacted_at || nowIso();
+        addTimeline(lead, 'shlok', 'referral_sent', `asked ${referral.name} on LinkedIn`);
+      } else if (status === 'replied') {
+        addTimeline(lead, 'shlok', 'referral_replied', `${referral.name} replied`);
+      }
+    }
+  }, `site: referral ${leadId}`);
+}

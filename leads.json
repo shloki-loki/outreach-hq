@@ -10384,10 +10384,10 @@
      "title": "Co-founder and CEO",
      "role_type": "founder",
      "linkedin_url": "",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "vivek@leucine.io",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first), not verified",
+     "confidence": 35,
      "why": "Founder; the Founder's Office role works with him (Inc42, FiercePharma)",
      "found_at": "2026-11-12T22:21:38+05:30"
     }
@@ -10417,9 +10417,15 @@
      "actor": "email-finder",
      "event": "contact_added",
      "detail": "Vivek Gera (founder)"
+    },
+    {
+     "at": "2026-11-12T22:22:32+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Vivek Gera: vivek@leucine.io (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T22:21:38+05:30",
+   "updated_at": "2026-11-12T22:22:32+05:30",
    "reject_reason": null
   },
   {

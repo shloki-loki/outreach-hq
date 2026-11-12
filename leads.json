@@ -10337,7 +10337,21 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Vivek Gera",
+     "title": "Co-founder and CEO",
+     "role_type": "founder",
+     "linkedin_url": "",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "Founder; the Founder's Office role works with him (Inc42, FiercePharma)",
+     "found_at": "2026-11-12T22:21:38+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -10357,9 +10371,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 81: qualified"
+    },
+    {
+     "at": "2026-11-12T22:21:38+05:30",
+     "actor": "email-finder",
+     "event": "contact_added",
+     "detail": "Vivek Gera (founder)"
     }
    ],
-   "updated_at": "2026-11-12T22:21:05+05:30",
+   "updated_at": "2026-11-12T22:21:38+05:30",
    "reject_reason": null
   },
   {

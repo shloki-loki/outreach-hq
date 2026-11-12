@@ -10474,9 +10474,15 @@
      "actor": "send-track",
      "event": "drafted",
      "detail": "cold email to Vivek Gera awaiting approval"
+    },
+    {
+     "at": "2026-11-12T23:01:04+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Vivek Gera: vivek@leucine.io (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T23:00:50+05:30",
+   "updated_at": "2026-11-12T23:01:04+05:30",
    "reject_reason": null
   },
   {

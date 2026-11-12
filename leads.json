@@ -10255,8 +10255,8 @@
    "key": "leucineaiforpharma|founder s office generalist|bengaluru",
    "type": "job",
    "company": "Leucine - AI for Pharma",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "leucine.io",
+   "company_url": "https://www.leucine.io",
    "company_linkedin": "https://www.linkedin.com/company/leucine",
    "company_note": "",
    "title": "Founder's Office - Generalist",
@@ -10294,8 +10294,8 @@
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 78,
+    "total": 81,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -10305,15 +10305,15 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "fit_notes": "Founder's Office Generalist at an AI platform for pharma manufacturing; asks 1-5 years. The JD wants someone who turns shop-floor realities into product requirements and systematises wins. Direct matches from the resume: SAP MRP implemented from scratch as Raw Material Manager (stock-outs -20%), production planning for the 4680 cell line (yield 42% to 67%), and the InsuranceDekho workflow automation. No pharma or SaaS sales experience, which the rotation through sales and customer success will test.",
+    "pay_notes": "Pay is not stated and no salary evidence has been gathered yet. Treat as unknown until checked.",
+    "culture_notes": "Founded 2019 by Vivek Gera (CEO) and Mustaq Singh Bijral. $7M Series A in Oct 2023 led by Ecolab, with Pravega, Axilor and Techstars (Inc42, FiercePharma). The posting says 12 of the top 15 generic pharma companies and 60+ pharma enterprises use it. No employee-review data checked yet.",
+    "hook": "Their own posting: pharma manufacturing still runs on paper, Excel and tribal knowledge; the role translates shop-floor realities into product requirements.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founder-s-office-generalist-at-leucine-ai-for-pharma-4485904600",
+    "researched_at": "2026-11-12T22:21:05+05:30"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -10337,9 +10337,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-12T22:21:05+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 81: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T22:21:05+05:30",
+   "reject_reason": null
   },
   {
    "id": "L0097",

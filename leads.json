@@ -9257,7 +9257,21 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Pratyush Kumar",
+     "title": "Co-founder and CEO",
+     "role_type": "founder",
+     "linkedin_url": "",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "CEO; the role is in the CEO's Office (Business Today, Feb 2026)",
+     "found_at": "2026-11-12T22:22:02+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -9277,9 +9291,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 79: qualified"
+    },
+    {
+     "at": "2026-11-12T22:22:02+05:30",
+     "actor": "email-finder",
+     "event": "contact_added",
+     "detail": "Pratyush Kumar (founder)"
     }
    ],
-   "updated_at": "2026-11-12T22:21:28+05:30",
+   "updated_at": "2026-11-12T22:22:02+05:30",
    "reject_reason": null
   },
   {

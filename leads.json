@@ -9296,7 +9296,13 @@
     "kind": null,
     "since": null
    },
-   "notes": [],
+   "notes": [
+    {
+     "at": "2026-11-12T22:23:49+05:30",
+     "by": "send-track",
+     "text": "Not drafted: the CEO's address (pratyush@sarvam.ai) is on the do-not-email list because the earlier founder pipeline already wrote to it. Apply through the Ashby form, or find the person running the CEO's Office search."
+    }
+   ],
    "timeline": [
     {
      "at": "2026-11-12T21:02:04+05:30",
@@ -9323,7 +9329,7 @@
      "detail": "Pratyush Kumar: pratyush@sarvam.ai (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T22:22:54+05:30",
+   "updated_at": "2026-11-12T22:23:49+05:30",
    "reject_reason": null
   },
   {

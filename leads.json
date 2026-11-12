@@ -6665,9 +6665,15 @@
      "actor": "send-track",
      "event": "drafted",
      "detail": "cold email to Rajalakshmi Subramanian awaiting approval"
+    },
+    {
+     "at": "2026-11-12T23:03:00+05:30",
+     "actor": "send-track",
+     "event": "drafted",
+     "detail": "cold email to Rajalakshmi Subramanian awaiting approval"
     }
    ],
-   "updated_at": "2026-11-12T22:23:21+05:30"
+   "updated_at": "2026-11-12T23:03:00+05:30"
   },
   {
    "id": "L0058",

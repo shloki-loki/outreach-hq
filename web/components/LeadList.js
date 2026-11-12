@@ -3,7 +3,10 @@
 import Link from 'next/link';
 import { useMemo, useState } from 'react';
 
+const TOP = 75;
+
 const VIEWS = [
+  { id: 'top', label: 'Top picks', test: (s, r) => r.researched && r.score >= TOP && r.open !== false && ['qualified', 'to_approve', 'followup_due', 'replied'].includes(s) },
   { id: 'play', label: 'In play', test: (s) => ['offer', 'interview', 'replied', 'followup_due', 'to_approve', 'qualified', 'contacted', 'applied'].includes(s) },
   { id: 'you', label: 'Needs you', test: (s) => ['replied', 'followup_due', 'to_approve'].includes(s) },
   { id: 'qualified', label: 'Qualified, untouched', test: (s) => s === 'qualified' },
@@ -45,21 +48,27 @@ export default function LeadList({ rows, initialView = 'play' }) {
             <li key={r.id} className={`lead s-${r.status}`}>
               <div>
                 <h3><Link href={`/lead/${r.id}`}>{r.title} <span className="at">· {r.company}</span></Link></h3>
+                {r.verdict ? <p className="verdict">{r.verdict}</p> : <p className="verdict muted">Not researched yet: rule-based score only.</p>}
+                <p className="chips-line">
+                  <span className={`pill tone-${r.payTone}`}>{r.pay}</span>
+                  {r.experience ? <span className={`tag ${r.stretch ? 'warn-tag' : ''}`}>{r.experience}{r.stretch ? ' · stretch' : ''}</span> : null}
+                  <span className="tag">{r.location || 'Location not stated'}</span>
+                  <span className={`pill tone-${r.address.tone}`}>{r.address.label}</span>
+                  {r.connections ? <span className="pill tone-done">{r.connections} connection{r.connections > 1 ? 's' : ''} there</span> : null}
+                  {r.speculative ? <span className="tag">No opening</span> : null}
+                  {r.applied ? <span className="tag">Applied</span> : null}
+                  {r.open === false ? <span className="tag warn-tag">Posting closed</span> : null}
+                </p>
                 <p className="lead-meta">
-                  <span>{r.location || 'Location not stated'}</span>
-                  <span className="sep">Pay: {r.pay}</span>
+                  {r.tier ? <span>{r.tier}</span> : null}
                   <span className="sep">{r.source}</span>
                   {r.posted ? <span className="sep">{r.posted}</span> : null}
-                  {r.open === false ? <span className="sep">Posting closed</span> : null}
+                  {r.checked != null ? <span className="sep">Checked {r.checked === 0 ? 'today' : `${r.checked}d ago`}</span> : null}
+                  {r.companyNote ? <span className="sep">{r.companyNote}</span> : null}
                 </p>
                 {r.note ? <p className="lead-note">{r.note}</p> : null}
               </div>
               <div className="lead-side">
-                {r.emails ? <span className="tag">{r.emails} email{r.emails > 1 ? 's' : ''} found</span> : null}
-                {r.connections ? <span className="tag">{r.connections} connection{r.connections > 1 ? 's' : ''}</span> : null}
-                {r.applied ? <span className="tag">Applied</span> : null}
-                {r.speculative ? <span className="tag">No opening</span> : null}
-                {r.stretch ? <span className="tag">Stretch</span> : null}
                 <span className="score" title="Fit score out of 100">{r.score}</span>
                 <span className={`pill tone-${r.tone}`}>{r.statusLabel}</span>
               </div>

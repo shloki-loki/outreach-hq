@@ -24,6 +24,8 @@ For the lead you are given:
    - Any real personal address at that domain reveals the pattern (for example `priya.nair@`): apply it to
      your person and store it with `--email-status pattern --email-source "pattern from <url>"`.
    - An address you read on a page for that exact person: `--email-status published --email-source "<url>"`.
+   A contact that already has a `guess` is skipped unless you pass `--recheck`, which runs the verifiers on it
+   again and moves any waiting draft to the better address.
 5. Grades you may assign: `published`, `verified`, `pattern`, `guess`, `catch-all`. Never mark a guess as
    anything better. Never use a personal Gmail or similar for a work contact unless they publish it as
    their contact address.

@@ -18,6 +18,11 @@ approval queue stays readable. For each lead:
 1. `lead show <id>`: read the JD, the research notes, the hook and the people. Pick who to write to: the
    highest-value person with a usable address (hiring manager or founder before recruiter before a generic
    address). At most 2 people per lead, and write the second only if the first is a recruiter or generic address.
+   **Verified addresses first.** Draft only to an address graded `published`, `verified`, `pattern` or
+   `hunter`. If the best address is a `guess` or `catch-all`, first run
+   `python3 -m outreach find-email --lead <id> --recheck`. Only when it stays unverified AND the lead scores 80
+   or more may you queue it with `--allow-unverified`, at most 2 such drafts per run; otherwise leave the lead
+   undrafted with a note that it needs a verified address.
 2. Check the hook is still true and specific. If the research hook is thin, spend two or three searches on
    the company (launch, funding, a post by this person, a number they published). No real hook, no email:
    `lead set <id> --note "Not drafted: nothing specific to open with; needs <what>." --by send-track`.

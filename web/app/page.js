@@ -7,6 +7,46 @@ import { SOURCE_LABEL, STATUS, daysAgo } from '@/lib/status';
 
 export const dynamic = 'force-dynamic';
 
+function verdict(lead) {
+  if (lead.research?.headline) return lead.research.headline;
+  const notes = (lead.research?.fit_notes || '').trim();
+  if (notes) {
+    const first = notes.split(/(?<=[.!?])\s+/)[0];
+    return first.length > 170 ? `${first.slice(0, 167)}…` : first;
+  }
+  return '';
+}
+
+function payTone(fit = '') {
+  if (fit.startsWith('In range')) return 'done';
+  if (fit.startsWith('Possibly') || fit.startsWith('Likely in range')) return 'ready';
+  if (fit.startsWith('Below') || fit.startsWith('Likely below')) return 'off';
+  return 'new';
+}
+
+function payLabel(pay = {}) {
+  const fit = pay.fit || 'Unknown';
+  const range = pay.min_lpa && pay.max_lpa && pay.min_lpa !== pay.max_lpa ? `₹${pay.min_lpa}–${pay.max_lpa} LPA`
+    : pay.max_lpa ? `₹${pay.max_lpa} LPA` : '';
+  if (fit === 'Unknown') return 'Pay not known';
+  return range ? `${range} · ${fit.replace(/\s*\(.*\)/, '')}` : fit;
+}
+
+function experience(lead) {
+  if (lead.exp_min != null) return `Asks ${lead.exp_min}${lead.exp_max ? `–${lead.exp_max}` : '+'} yrs`;
+  return '';
+}
+
+function address(lead) {
+  const usable = (lead.contacts || []).filter((c) => c.email && !['bounced', 'invalid'].includes(c.email_status));
+  if (usable.some((c) => c.email_status === 'verified')) return { label: 'Verified address', tone: 'done' };
+  if (usable.some((c) => c.email_status === 'published')) return { label: 'Address from the posting', tone: 'done' };
+  if (usable.some((c) => ['pattern', 'hunter'].includes(c.email_status))) return { label: 'Likely address', tone: 'ready' };
+  if (usable.length) return { label: 'Unverified address', tone: 'due' };
+  if ((lead.contacts || []).some((c) => c.name)) return { label: 'Person found, no address', tone: 'new' };
+  return { label: 'No person yet', tone: 'new' };
+}
+
 function latestNote(lead) {
   if (lead.status === 'replied') {
     const reply = lead.messages.find((m) => m.status === 'replied')?.reply;
@@ -39,7 +79,10 @@ export default async function LeadsPage({ searchParams }) {
   const rows = leads.map((lead) => ({
     id: lead.id, title: lead.title, company: lead.company, location: lead.location, status: lead.status,
     statusLabel: STATUS[lead.status].label, tone: STATUS[lead.status].tone, score: lead.score?.total ?? 0,
-    pay: lead.pay?.fit || 'Unknown', source: SOURCE_LABEL[lead.source] || lead.source,
+    pay: payLabel(lead.pay), payTone: payTone(lead.pay?.fit), source: SOURCE_LABEL[lead.source] || lead.source,
+    verdict: verdict(lead), experience: experience(lead), address: address(lead), tier: (lead.tier || '').replace(/^\d\s*-\s*/, ''),
+    companyNote: (lead.company_note || '').replace(/^Not found.*$/i, '').slice(0, 90), researched: Boolean(lead.research?.done),
+    checked: lead.research?.researched_at ? daysAgo(lead.research.researched_at) : null,
     posted: lead.posted_at && daysAgo(lead.posted_at) !== null ? `Posted ${daysAgo(lead.posted_at)}d ago` : '',
     open: lead.open, stretch: lead.stretch, applied: Boolean(lead.applied_at) && lead.status !== 'applied',
     emails: (lead.contacts || []).filter((c) => c.email && !['bounced', 'invalid'].includes(c.email_status)).length,
@@ -62,7 +105,7 @@ export default async function LeadsPage({ searchParams }) {
       <main>
         <div className="page-head">
           <h1>Leads</h1>
-          <p>Every role the scout found that passes your rules, best fit first. A row turns green once you have emailed someone there or applied.</p>
+          <p>Each row carries its own verdict: why it fits, the pay, the experience asked and whether there is a verified address. Top picks are the researched leads scoring 75 or more. A row turns green once you have emailed someone there or applied.</p>
         </div>
         <dl className="highlights six">
           {strip.map((item) => (
@@ -82,7 +125,7 @@ export default async function LeadsPage({ searchParams }) {
             <li><span className="dot" style={{ background: 'var(--win-bar)' }} />Interview or offer</li>
             <li><span className="dot" style={{ background: 'var(--off-bar)' }} />Rejected or closed</li>
           </ul>
-          <LeadList key={view || 'play'} rows={rows} initialView={view || 'play'} />
+          <LeadList key={view || 'top'} rows={rows} initialView={view || 'top'} />
         </section>
       </main>
     </>

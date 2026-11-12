@@ -23,6 +23,7 @@ from .messages import suppressed
 from .util import ROOT, load_config, now, now_iso, parse_iso, today
 
 RESUME = ROOT / "assets" / "Shlok_Agrawal_Resume.pdf"
+UNVERIFIED = ("guess", "catch-all", "none", None)
 
 
 def _sent_today(messages: list[dict]) -> list[dict]:
@@ -50,8 +51,8 @@ def pick_next(settings: dict, sent_this_run: int) -> tuple[dict | None, str]:
     done = _sent_today(messages)
     new_done = sum(1 for m in done if m.get("kind") == "cold")
     follow_done = len(done) - new_done
-    guess_done = sum(1 for m in done if m.get("kind") == "cold" and m.get("email_status") in ("guess", "catch-all"))
-    guess_cap = max(1, math.floor(cfg["new_emails_per_day"] * cfg["max_guess_share"]))
+    guess_done = sum(1 for m in done if m.get("kind") == "cold" and m.get("email_status") in UNVERIFIED)
+    guess_cap = cfg.get("unverified_per_day", 2)
     speculative_done = sum(1 for m in done if m.get("kind") == "cold" and m.get("speculative"))
     held = ""
     for message in queue:
@@ -64,12 +65,19 @@ def pick_next(settings: dict, sent_this_run: int) -> tuple[dict | None, str]:
             held = f"{message['id']}: lead replied or closed since approval"
             _hold(message["id"], "skipped", held)
             continue
+        contact = store.find(lead.get("contacts", []), message.get("contact_id")) or {}
+        if contact.get("email", "").lower() == message["to"].lower() and contact.get("email_status"):
+            message["email_status"] = contact["email_status"]  # the grade may have improved since drafting
+        if message["email_status"] in ("bounced", "invalid"):
+            held = f"{message['id']}: {message['to']} is now marked {message['email_status']}"
+            _hold(message["id"], "skipped", held)
+            continue
         if message.get("kind") == "cold":
             if new_done >= cfg["new_emails_per_day"]:
                 held = f"daily cap of {cfg['new_emails_per_day']} new emails reached"
                 continue
-            if message.get("email_status") in ("guess", "catch-all") and guess_done >= guess_cap:
-                held = f"daily cap of {guess_cap} unverified addresses reached"
+            if message.get("email_status") in UNVERIFIED and guess_done >= guess_cap:
+                held = f"daily cap of {guess_cap} unverified addresses reached; verify the address to send more"
                 continue
             if message.get("speculative") and speculative_done >= cfg.get("speculative_per_day", 6):
                 held = f"daily cap of {cfg.get('speculative_per_day', 6)} speculative notes reached"
@@ -91,7 +99,7 @@ def _hold(message_id: str, status: str, reason: str) -> None:
     store.transact(change, f"send: {message_id} {status}")
 
 
-def claim(message_id: str, rfc_id: str) -> bool:
+def claim(message_id: str, rfc_id: str, email_status: str | None = None) -> bool:
     """Atomically move approved -> sending. False if someone else got there first."""
     won = {"ok": False}
 
@@ -102,6 +110,8 @@ def claim(message_id: str, rfc_id: str) -> bool:
         if not message or message.get("status") != "approved":
             return
         message.update(status="sending", sending_at=now_iso(), message_id=rfc_id, error=None)
+        if email_status:
+            message["email_status"] = email_status
         store.save("messages", data)
         won["ok"] = True
     store.transact(change, f"send: claim {message_id}")
@@ -175,7 +185,7 @@ def run() -> dict[str, Any]:
             summary["note"] = reason
             break
         rfc_id = mailbox.new_message_id(box)
-        if not claim(message["id"], rfc_id):
+        if not claim(message["id"], rfc_id, message.get("email_status")):
             continue
         try:
             attachment: Path | None = RESUME if message.get("attach_resume") and RESUME.exists() else None

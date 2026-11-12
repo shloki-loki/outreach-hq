@@ -104,8 +104,12 @@ def recently_contacted(email: str, messages: list[dict], days: int) -> bool:
     return False
 
 
+TRUSTED = ("published", "verified", "hunter", "pattern")
+
+
 def create_draft(lead_id: str, contact_id: str, kind: str, subject: str, body: str, *, hook: str = "",
-                 hook_source: str = "", created_by: str = "send-track", attach_resume: bool = False) -> dict[str, Any]:
+                 hook_source: str = "", created_by: str = "send-track", attach_resume: bool = False,
+                 allow_unverified: bool = False) -> dict[str, Any]:
     """Validate and queue a draft for approval. Raises ValueError listing every problem."""
     settings = load_config("settings")
     outcome: dict[str, Any] = {}
@@ -127,6 +131,10 @@ def create_draft(lead_id: str, contact_id: str, kind: str, subject: str, body: s
             problems.append(f"{email} is marked {contact['email_status']}")
         elif suppressed(email):
             problems.append(f"{email} is on the do-not-email list: {suppressed(email)}")
+        elif kind == "cold" and contact.get("email_status") not in TRUSTED and not allow_unverified:
+            problems.append(f"{email} is an unverified {contact.get('email_status')}; verify it first "
+                            f"(find-email --lead {lead_id} --recheck). Only for a top lead with no better "
+                            f"address, pass --allow-unverified (at most 2 a day are sent)")
         mine = [m for m in data["messages"] if m.get("lead_id") == lead_id]
         thread_parent = None
         if kind == "cold":

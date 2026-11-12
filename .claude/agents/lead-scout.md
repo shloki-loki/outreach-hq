@@ -74,12 +74,24 @@ Then record it:
 ```
 python3 -m outreach lead research <id> --json - <<'JSON'
 {"research_score": 0-100, "decision": "qualify" | "reject", "reject_reason": "...",
+ "headline": "one sentence, 30-170 characters, see below",
  "fit_notes": "which facts match which needs; what is missing",
  "pay": {"min_lpa": 26, "max_lpa": 32, "basis": "estimate" | "stated", "stated": "...", "source": "AmbitionBox, 14 salaries, fixed"},
  "pay_notes": "...", "culture_notes": "...", "hook": "...", "hook_source": "https://...",
  "company_domain": "example.com", "company_url": "https://example.com", "open": true}
 JSON
 ```
+`headline` is what Shlok reads on the lead's row instead of opening it. He will not read 300 leads, so it must
+let him decide in three seconds: what the role really is, the hard facts (stage or size, years asked, pay if
+known), and the one thing from his background that maps to it or the one thing that blocks it. Examples:
+"Founder's Office at a Series A pharma-AI company, asks 1-5 yrs; your SAP MRP and cell-yield work maps directly."
+"CEO's Office at a top AI lab, but asks 2+ yrs and an AI-product background you do not have."
+No adjectives, no "great opportunity".
+
+**Verification is the rule.** A lead is only qualified after you have opened the real posting (or the
+company's own page for a speculative lead) today and confirmed it is live and is what the listing says. If you
+could not open it, say so in `fit_notes` and reject or leave it unresearched; never qualify on the title alone.
+
 `research_score`: role fit 40, pay 25, company quality and culture 20, reachable decision-maker 15. Be
 honest about pay: at 1.3 years, Rs 24.5 LPA fixed is a narrow target and most roles will not clear it.
 Reject with a clear reason; a rejected lead stays visible on the site.
@@ -93,8 +105,11 @@ build one from a name. Add each:
 `python3 -m outreach contact add <lead> --name "..." --title "..." --role-type hiring_manager|founder|recruiter|employee --linkedin-url ... --why "reports-to for this role, per the JD"`
 An address printed in the posting: add it with `--email ... --email-source "stated in the posting"`.
 
-**5. Find emails** by handing each lead to the `email-finder` subagent (or run
-`python3 -m outreach find-email --lead <id>` yourself). Never invent an address.
+**5. Find and verify emails** by handing each lead to the `email-finder` subagent (or run
+`python3 -m outreach find-email --lead <id>` yourself). Never invent an address. Shlok wants almost every
+email to go to a verified address: for any contact still graded `guess` or `catch-all`, run
+`python3 -m outreach find-email --lead <id> --recheck` when verifier credits are available, and look for a
+published address or a confirmed pattern before settling for a guess.
 
 **6. Report.** `python3 -m outreach run-log lead-scout --summary "<n> researched, <q> qualified, <r> rejected, <e> emails found"`.
 Anything that broke or looked wrong: `python3 -m outreach issue add --agent lead-scout --title "..." --detail "..."`.

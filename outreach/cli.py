@@ -128,6 +128,10 @@ def cmd_lead_research(args: argparse.Namespace) -> None:
             raise ValueError("reject_reason is required when rejecting")
         if not payload.get("fit_notes"):
             raise ValueError("fit_notes is required")
+        headline = (payload.get("headline") or "").strip()
+        if not 30 <= len(headline) <= 170:
+            raise ValueError("headline is required: one sentence of 30-170 characters that tells Shlok at a glance "
+                             "why this is (or is not) for him")
         pay = payload.get("pay")
         if pay:
             basis = pay.get("basis", "estimate")
@@ -145,7 +149,7 @@ def cmd_lead_research(args: argparse.Namespace) -> None:
         if payload.get("jd") and not lead.get("jd"):
             lead["jd"] = payload["jd"][:3000]
         lead["research"] = {
-            "done": True, "fit_notes": payload["fit_notes"], "pay_notes": payload.get("pay_notes", ""),
+            "done": True, "headline": headline, "fit_notes": payload["fit_notes"], "pay_notes": payload.get("pay_notes", ""),
             "culture_notes": payload.get("culture_notes", ""), "hook": payload.get("hook", ""),
             "hook_source": payload.get("hook_source", ""), "researched_at": now_iso()}
         total = round(0.4 * lead["score"]["rules"] + 0.6 * research_score)
@@ -193,6 +197,9 @@ def cmd_lead_set(args: argparse.Namespace) -> None:
         if args.closed:
             lead["open"] = False
             store.add_timeline(lead, args.by, "posting_closed", "confirmed closed")
+        if args.headline:
+            lead["research"]["headline"] = args.headline.strip()[:170]
+            lead["updated_at"] = now_iso()
         if args.note:
             lead.setdefault("notes", []).append({"at": now_iso(), "by": args.by, "text": args.note})
             lead["updated_at"] = now_iso()
@@ -259,28 +266,42 @@ def cmd_find_email(args: argparse.Namespace) -> None:
     for contact in lead.get("contacts", []):
         if args.contact and contact["id"] != args.contact:
             continue
-        if not contact.get("name") or (contact.get("email") and contact.get("email_status") not in ("bounced", "invalid", "none")):
+        settled = ("published", "verified") if args.recheck else ("published", "verified", "hunter", "pattern", "guess", "catch-all")
+        if not contact.get("name") or (contact.get("email") and contact.get("email_status") in settled):
             continue
         found = emailfinder.find_email(contact["name"], domain, contact.get("role_type") or "employee", quota)
         results.append({"contact": contact["id"], "name": contact["name"], **found})
     quota.flush()
 
     def change() -> None:
+        moved.clear()
         data = store.load("leads")
+        message_file = store.load("messages")
+        pending = [m for m in message_file["messages"] if m.get("status") in ("draft", "approved")]
         fresh = store.find(data["leads"], args.lead)
         fresh["company_domain"] = domain if args.domain else (fresh.get("company_domain") or domain)
         for item in results:
             contact = store.find(fresh.get("contacts", []), item["contact"])
             if contact and item["email"]:
+                previous = contact.get("email")
                 contact.update(email=item["email"], email_status=item["email_status"],
                                email_source=item["email_source"], confidence=item["confidence"])
+                # Drafts not yet sent follow the contact to its better address and grade.
+                for message in pending:
+                    if message["lead_id"] == args.lead and message["contact_id"] == contact["id"]:
+                        message["to"], message["email_status"] = item["email"], item["email_status"]
+                        if previous and previous != item["email"]:
+                            moved.append(f"{message['id']}: {previous} -> {item['email']}")
                 store.add_timeline(fresh, "email-finder", "email_found",
                                    f"{contact['name']}: {item['email']} ({item['email_status']}, {item['confidence']})")
         store.save("leads", data)
+        store.save("messages", message_file)
+    moved: list[str] = []
     if results or args.domain:
         store.transact(change, f"emails: {args.lead}")
     published = (store.load("domains")["domains"].get(domain) or {}).get("published") or []
-    out({"lead": args.lead, "domain": domain, "domain_from": how, "company_addresses": published, "results": results})
+    out({"lead": args.lead, "domain": domain, "domain_from": how, "company_addresses": published, "results": results,
+         "drafts_updated": moved})
 
 
 # ---- messages and referrals ---------------------------------------------------------------
@@ -290,7 +311,7 @@ def cmd_message_draft(args: argparse.Namespace) -> None:
     try:
         message = messages.create_draft(args.lead, args.contact, args.kind, args.subject, body, hook=args.hook or "",
                                         hook_source=args.hook_source or "", created_by=args.by,
-                                        attach_resume=args.attach_resume)
+                                        attach_resume=args.attach_resume, allow_unverified=args.allow_unverified)
     except ValueError as exc:
         out({"queued": False, "problems": str(exc).split("; ")})
         sys.exit(2)
@@ -500,6 +521,7 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--apply-status", choices=["not_started", "kit_ready", "prefilled", "applied", "blocked"])
     p.add_argument("--apply-answers", help="JSON file of prepared application answers")
     p.add_argument("--closed", action="store_true")
+    p.add_argument("--headline", help="the one-line verdict shown on the lead's header")
     p.add_argument("--note")
     p.add_argument("--by", default="agent")
     p.set_defaults(func=cmd_lead_set)
@@ -515,6 +537,7 @@ def main(argv: list[str] | None = None) -> None:
 
     p = sub.add_parser("find-email", help="find and grade emails for a lead's contacts")
     p.add_argument("--lead"); p.add_argument("--contact"); p.add_argument("--name"); p.add_argument("--domain")
+    p.add_argument("--recheck", action="store_true", help="verify again addresses that are still guesses or unconfirmed")
     p.add_argument("--role-type")
     p.set_defaults(func=cmd_find_email)
 
@@ -529,6 +552,8 @@ def main(argv: list[str] | None = None) -> None:
             p.add_argument("--hook", help="the specific fact the opener is built on")
             p.add_argument("--hook-source", help="URL where that fact was read")
             p.add_argument("--attach-resume", action="store_true")
+            p.add_argument("--allow-unverified", action="store_true",
+                           help="queue a draft to an unverified address (top leads only; 2 a day are sent)")
             p.add_argument("--by", default="send-track")
         else:
             p.add_argument("--to-name"); p.add_argument("--company")

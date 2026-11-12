@@ -44,6 +44,8 @@ timing is wrong, a one-line no is fine"). Nothing after that.
 - Names the company. Opens with `Hi <first name>,`. Ends with `Shlok`.
 - Never says or implies a tool wrote or sent it.
 - One cold email per person per 60 days; at most 2 people per lead; nothing to the do-not-email list.
+- Verified addresses are the rule: a draft to an unverified guess is refused unless explicitly allowed, and
+  at most 2 unverified emails are sent per day.
 
 ## Soft rules (judgement)
 

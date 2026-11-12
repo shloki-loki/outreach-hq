@@ -236,7 +236,8 @@ class SendTest(Base):
             stored["contacts"][0]["email_status"] = email_status
             store.save("leads", data)
             body = GOOD_BODY.replace("Acme's", f"Acme{index}'s")
-            message = messages.create_draft(lead["id"], "C1", "cold", f"Founder's Office at Acme{index}", body)
+            message = messages.create_draft(lead["id"], "C1", "cold", f"Founder's Office at Acme{index}", body,
+                                            allow_unverified=True)
             data = store.load("messages")
             stored = store.find(data["messages"], message["id"])
             stored["status"] = status
@@ -292,8 +293,27 @@ class SendTest(Base):
     def test_unverified_guesses_are_capped(self):
         self.queue(6, email_status="guess")
         send.run()
-        cap = max(1, math.floor(self.settings["sending"]["new_emails_per_day"] * self.settings["sending"]["max_guess_share"]))
-        self.assertEqual(len(self.sent), cap)
+        self.assertEqual(len(self.sent), self.settings["sending"]["unverified_per_day"])
+
+    def test_verifying_an_address_after_drafting_lifts_the_cap(self):
+        self.queue(5, email_status="guess")
+        data = store.load("leads")
+        for lead in data["leads"]:
+            lead["contacts"][0]["email_status"] = "verified"
+        store.save("leads", data)
+        send.run()
+        self.assertEqual(len(self.sent), 5)
+
+    def test_unverified_address_needs_an_explicit_exception_to_draft(self):
+        lead = self.add_lead()
+        data = store.load("leads")
+        data["leads"][0]["contacts"][0]["email_status"] = "guess"
+        store.save("leads", data)
+        with self.assertRaises(ValueError) as caught:
+            messages.create_draft(lead["id"], "C1", "cold", "Founder's Office at Acme", GOOD_BODY)
+        self.assertIn("unverified", str(caught.exception))
+        self.assertTrue(messages.create_draft(lead["id"], "C1", "cold", "Founder's Office at Acme", GOOD_BODY,
+                                              allow_unverified=True)["id"])
 
     def test_speculative_notes_are_capped(self):
         self.settings["sending"] = dict(self.settings["sending"], speculative_per_day=2, max_per_run=6)

@@ -1,0 +1,25 @@
+{
+ "runs": [
+  {
+   "at": "2026-11-12T21:02:04+05:30",
+   "agent": "lead-scout/scrape",
+   "ok": true,
+   "summary": "6609 jobs read, 264 passed rules, 247 new leads",
+   "stats": {
+    "fetched": 6609,
+    "passed_rules": 264,
+    "new": 247,
+    "updated": 17,
+    "closed": 0,
+    "by_source": {
+     "greenhouse": 3898,
+     "lever": 125,
+     "ashby": 1982,
+     "linkedin": 228,
+     "instahyre": 120,
+     "yc": 256
+    }
+   }
+  }
+ ]
+}

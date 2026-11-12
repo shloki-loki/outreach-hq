@@ -5654,7 +5654,8 @@
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-12T23:03:03+05:30",
+    "headline": "CEO Office at Oleria (Series A identity security): the CEO hires directly and wants an MBA, which you lack; your CEO and COO work at Ola is the pitch."
    },
    "stage": "qualified",
    "outcome": null,
@@ -5724,9 +5725,15 @@
      "actor": "send-track",
      "event": "drafted",
      "detail": "cold email to Jagadeesh Kunda awaiting approval"
+    },
+    {
+     "at": "2026-11-12T23:03:03+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "re-checked: posting is still live"
     }
    ],
-   "updated_at": "2026-11-12T22:23:18+05:30"
+   "updated_at": "2026-11-12T23:03:03+05:30"
   },
   {
    "id": "L0050",

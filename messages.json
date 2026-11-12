@@ -1,3 +1,29 @@
 {
- "messages": []
+ "messages": [
+  {
+   "id": "M0001",
+   "lead_id": "L0049",
+   "contact_id": "C1",
+   "to": "careers@oleria.com",
+   "to_name": "Jagadeesh Kunda",
+   "kind": "cold",
+   "subject": "CEO Office role at Oleria",
+   "body": "Hi Jagadeesh,\n\nYour post about the CEO Office role describes strategy and executive business operations run alongside you. That is close to how I worked at Ola Electric, where I partnered with the CEO and COO on fulfilment operations and owned finished goods inventory end to end.\n\nTwo results from that year: a stock-and-sell program on a Rs 200 Cr inventory buffer that took serviceability to 70% across India, and working capital cut by 40% in 2.5 months through S&OP planning. I do not have an MBA. I am an IIT Guwahati engineer who has done this kind of work for a year.\n\nI would like to be considered. Could we speak for 15 minutes this week?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "published",
+   "speculative": false,
+   "hook": "His own post hiring for the CEO Office: strategy and executive business operations, MBA preferred",
+   "hook_source": "https://www.linkedin.com/posts/jagadeesh-kunda_identity-governance-for-humans-nhis-ai-activity-7525605519022088192-AHiK",
+   "attach_resume": false,
+   "created_at": "2026-11-12T22:23:18+05:30",
+   "created_by": "send-track",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": null,
+   "error": null,
+   "reply": null
+  }
+ ]
 }

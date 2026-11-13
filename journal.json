@@ -152,6 +152,15 @@
    "title": "Supervisor log started",
    "detail": "Every agent run, problem, diagnosis and fix is now written here automatically, and changes to the system are added by whoever makes them. Shown on the site under Log. Earlier runs and issues were copied in from the run and issue history.",
    "ref": ""
+  },
+  {
+   "id": "J0018",
+   "at": "2026-11-13T17:06:29+05:30",
+   "by": "session",
+   "kind": "debug",
+   "title": "Diagnosis: leads file damaged by two agents writing at once",
+   "detail": "The Mac woke at 13:17 and started lead-scout, send-track and follow-up together. At 14:13:44 lead-scout (lead research L0093) and send-track (a note on L0029) both wrote leads.json through the same temporary file. The saved file held send-track's note, a gap of 164,626 empty bytes where leads L0194 to L0266 should be, and none of the L0093 research. Earlier in the same minute the research for L0090 and L0091 was silently discarded when the other process re-synced before they were committed. From 14:13 to about 17:00 the site, the inbox check and every lead command failed.",
+   "ref": "015cf9d"
   }
  ]
 }

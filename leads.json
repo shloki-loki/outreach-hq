@@ -10116,8 +10116,8 @@
    "key": "cube|founder s office associate|bengaluru",
    "type": "job",
    "company": "Cube",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cubehq.ai",
+   "company_url": "https://cubehq.ai",
    "company_linkedin": "https://www.linkedin.com/company/cubehqai",
    "company_note": "",
    "title": "Founder's Office Associate",
@@ -10155,8 +10155,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 30,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -10166,15 +10166,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office (growth) at Cube, Sequoia-backed AI marketing startup; SEO and inbound traffic, US hours, fresh grads.",
+    "fit_notes": "Stored JD: boost online visibility, drive inbound traffic; class of 2024-26. Shlok qualifies on graduation year, but none of his facts are growth-marketing.",
+    "pay_notes": "'As per industry standards'.",
+    "culture_notes": "Sequoia-backed, HSR office, per posting.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-13T16:53:21+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -10198,9 +10199,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-13T16:53:21+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 49: rejected (Role is SEO/online-visibility growth on US hours for recent grads; Shlok's operations facts do not map and pay is 'industry standards'.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-13T16:53:21+05:30",
+   "reject_reason": "Role is SEO/online-visibility growth on US hours for recent grads; Shlok's operations facts do not map and pay is 'industry standards'."
   },
   {
    "id": "L0094",

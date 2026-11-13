@@ -1591,9 +1591,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 1 (2026-10-28) as R03"
+    },
+    {
+     "at": "2026-11-13T14:12:00+05:30",
+     "actor": "send-track",
+     "event": "drafted",
+     "detail": "cold email to  awaiting approval"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-13T14:12:00+05:30"
   },
   {
    "id": "L0015",

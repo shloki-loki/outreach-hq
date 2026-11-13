@@ -1,0 +1,139 @@
+{
+ "entries": [
+  {
+   "id": "J0001",
+   "at": "2026-11-12T21:02:04+05:30",
+   "by": "lead-scout/scrape",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "6609 jobs read, 264 passed rules, 247 new leads",
+   "ref": ""
+  },
+  {
+   "id": "J0002",
+   "at": "2026-11-12T21:26:56+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due (Gmail not connected: follow-up timers only, no reply or bounce detection)",
+   "ref": ""
+  },
+  {
+   "id": "J0003",
+   "at": "2026-11-13T03:46:30+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
+  },
+  {
+   "id": "J0004",
+   "at": "2026-11-13T04:00:44+05:30",
+   "by": "lead-scout/scrape",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "6464 jobs read, 227 passed rules, 16 new leads",
+   "ref": ""
+  },
+  {
+   "id": "J0005",
+   "at": "2026-11-13T13:33:09+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
+  },
+  {
+   "id": "J0006",
+   "at": "2026-11-13T14:14:27+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "leads.json truncated on origin/data by commit 015cf9d (research: L0093)",
+   "detail": "At 14:13:44 on 2026-11-13 commit 015cf9d (research: L0093, from a concurrent lead-scout session) rewrote data/leads.json with 7 insertions and 6608 deletions; the file now stops mid-record around line 19601 (a Stitch Product Manager lead, cut after \"exp_min\") and no longer parses. It is already on origin/data. The previous commit c9891c2 (research: L0092) parses fine. Likely cause: two processes (send-track and lead-scout/scout) wrote leads.json at the same moment while store.sync ran git reset --hard. Every lead command now fails with 'Expecting : delimiter'. Fix: restore leads.json from c9891c2 and re-apply the L0093 research, then add a file lock around store.transact so concurrent agents cannot interleave. send-track stopped writing to leads once this was found.",
+   "ref": "I0001"
+  },
+  {
+   "id": "J0007",
+   "at": "2026-11-13T14:14:36+05:30",
+   "by": "send-track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "7 emails drafted (L0017 WarpDrive, L0014 Helium Air, L0019 Ghost Kitchens, L0024 GBG, L0016 Vianaar, L0048 Deccan AI, L0035 Noida AI via recruiter), 0 referral notes, 0 application kits. Skipped: L0085 Sarvam (CEO on do-not-email), L0050 (needs CS B.Tech or MBA), L0022 (intern role, no COO address), L0029 (same person as L0024), L0032 (address misspelt, only a guess). Stopped early: leads.json was truncated by concurrent commit 015cf9d, so referral and application steps could not run; see issue.",
+   "ref": ""
+  },
+  {
+   "id": "J0008",
+   "at": "2026-11-13T14:14:42+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "leads.json corrupted on data branch by concurrent write (commit 015cf9d)",
+   "detail": "Commit 015cf9d 'research: L0093' (2026-11-13 14:13) truncated leads.json to invalid JSON (7 insertions, 6608 deletions; parse error line 19601 col 13). Cause: lead-scout ran 'outreach scout' in the background while running 'lead research' in the foreground; store.save() writes every process to the same leads.json.tmp path, so the two writes interleaved and transact() committed and pushed the mangled file. Last good commit: c9891c2. Fix: 'git -C data revert 015cf9d && git push origin HEAD:data' (my revert was blocked by the permission classifier), then re-run research for L0093-L0128 from the saved JSON in the run notes. Code fix: give save() a unique temp name (e.g. tempfile.NamedTemporaryFile in DATA_DIR) and validate JSON before commit; also a hung 'git fetch' from 13:17 (pid 62733, another session) and 'cannot lock ref' races when two CLI calls sync at once. Separately: 'lead research' auto-rejected L0090 (AiSteth) with 'score 64 is under 65' although decision was qualify.",
+   "ref": "I0002"
+  },
+  {
+   "id": "J0009",
+   "at": "2026-11-13T14:14:52+05:30",
+   "by": "lead-scout",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "12 researched (2 qualify by judgment: Zamp L0105, AiSteth L0090; 10 rejected), only L0090-L0092 saved before leads.json was corrupted by a concurrent write (commit 015cf9d); remaining research saved in pending-research/2026-11-13; 0 emails found; no Apify used",
+   "ref": ""
+  },
+  {
+   "id": "J0010",
+   "at": "2026-11-13T15:05:24+05:30",
+   "by": "follow-up/track",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "inbox scan failed: JSONDecodeError: Expecting ':' delimiter: line 19601 column 13 (char 723899)",
+   "ref": ""
+  },
+  {
+   "id": "J0011",
+   "at": "2026-11-13T15:05:25+05:30",
+   "by": "follow-up",
+   "kind": "issue",
+   "title": "Inbox scan failed",
+   "detail": "JSONDecodeError: Expecting ':' delimiter: line 19601 column 13 (char 723899)",
+   "ref": "I0003"
+  },
+  {
+   "id": "J0012",
+   "at": "2026-11-13T16:54:32+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
+  },
+  {
+   "id": "J0013",
+   "at": "2026-11-13T16:54:57+05:30",
+   "by": "session",
+   "kind": "fix",
+   "title": "Solved: leads.json truncated on origin/data by commit 015cf9d (research: L0093)",
+   "detail": "Fixed 2026-11-13: leads.json restored from c9891c2 plus the surviving L0029 note; the 11 lost research results re-applied from pending-research. store.transact now holds a cross-process lock, save() uses a unique temp file, git calls time out, and a file that does not parse is never committed.",
+   "ref": "I0001"
+  },
+  {
+   "id": "J0014",
+   "at": "2026-11-13T16:55:06+05:30",
+   "by": "session",
+   "kind": "fix",
+   "title": "Solved: leads.json corrupted on data branch by concurrent write (commit 015cf9d)",
+   "detail": "Fixed 2026-11-13: leads.json restored from c9891c2 plus the surviving L0029 note; the 11 lost research results re-applied from pending-research. store.transact now holds a cross-process lock, save() uses a unique temp file, git calls time out, and a file that does not parse is never committed.",
+   "ref": "I0002"
+  },
+  {
+   "id": "J0015",
+   "at": "2026-11-13T16:55:09+05:30",
+   "by": "session",
+   "kind": "fix",
+   "title": "Solved: Inbox scan failed",
+   "detail": "Fixed 2026-11-13: leads.json restored from c9891c2 plus the surviving L0029 note; the 11 lost research results re-applied from pending-research. store.transact now holds a cross-process lock, save() uses a unique temp file, git calls time out, and a file that does not parse is never committed.",
+   "ref": "I0003"
+  }
+ ]
+}

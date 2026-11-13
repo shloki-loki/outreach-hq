@@ -5,14 +5,22 @@ through `transact`: sync to the latest remote state, apply the change, commit, p
 whole thing if someone else pushed first. A change must therefore be a function that can run again
 on fresh data.
 
+Several agents also run on the same Mac at once and share this one checkout, so `transact` holds a
+cross-process lock for the whole sync-change-commit-push, files are written under unique temporary
+names, and nothing that does not parse is ever committed.
+
 Never edit the JSON by hand or outside `transact`; a sync discards uncommitted edits.
 """
 
 from __future__ import annotations
 
+import contextlib
+import fcntl
 import json
 import os
 import subprocess
+import tempfile
+import time
 from pathlib import Path
 from typing import Any, Callable, TypeVar
 
@@ -40,26 +48,99 @@ def path(name: str) -> Path:
     return DATA_DIR / f"{name}.json"
 
 
+class StoreBusy(Exception):
+    pass
+
+
+class StoreCorrupt(Exception):
+    pass
+
+
+_lock_depth = 0
+
+
+@contextlib.contextmanager
+def locked(wait: float = 600.0):
+    """Hold the store for this process. Agents on the same Mac share one checkout; without this, two
+    of them syncing and writing at the same moment lose each other's changes or mangle a file."""
+    global _lock_depth
+    if _lock_depth:  # already held by this process (a transact inside a transact)
+        _lock_depth += 1
+        try:
+            yield
+        finally:
+            _lock_depth -= 1
+        return
+    lock_path = DATA_DIR.parent / f".{DATA_DIR.name}.lock"  # beside the checkout, so git never sees it
+    lock_path.parent.mkdir(parents=True, exist_ok=True)
+    deadline = time.monotonic() + wait
+    with open(lock_path, "a+") as handle:
+        while True:
+            try:
+                fcntl.flock(handle, fcntl.LOCK_EX | fcntl.LOCK_NB)
+                break
+            except OSError:
+                if time.monotonic() > deadline:
+                    raise StoreBusy(f"another outreach command has held the data store for over {int(wait)} s") from None
+                time.sleep(0.2)
+        _lock_depth = 1
+        try:
+            yield
+        finally:
+            _lock_depth = 0
+            fcntl.flock(handle, fcntl.LOCK_UN)
+
+
 def load(name: str) -> Any:
     target = path(name)
-    if not target.exists():
-        return json.loads(json.dumps(DEFAULTS[name]))
-    with open(target, encoding="utf-8") as handle:
-        return json.load(handle)
+    for attempt in range(6):
+        if not target.exists():
+            return json.loads(json.dumps(DEFAULTS[name]))
+        try:
+            with open(target, encoding="utf-8") as handle:
+                return json.load(handle)
+        except (json.JSONDecodeError, FileNotFoundError):
+            # A reader outside the lock can catch a file while another process's sync is rewriting it.
+            if _lock_depth or attempt == 5:
+                raise
+            time.sleep(0.3)
+    raise AssertionError("unreachable")
 
 
 def save(name: str, value: Any) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    target = path(name)
-    temp = target.with_suffix(".json.tmp")
-    with open(temp, "w", encoding="utf-8") as handle:
-        json.dump(value, handle, ensure_ascii=False, indent=1)
-        handle.write("\n")
-    temp.replace(target)
+    text = json.dumps(value, ensure_ascii=False, indent=1) + "\n"
+    fd, temp = tempfile.mkstemp(dir=DATA_DIR, prefix=f".{name}.", suffix=".tmp")  # unique per writer
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as handle:
+            handle.write(text)
+            handle.flush()
+            os.fsync(handle.fileno())
+        os.replace(temp, path(name))
+    except BaseException:
+        with contextlib.suppress(OSError):
+            os.unlink(temp)
+        raise
 
 
-def _git(*args: str, check: bool = True) -> subprocess.CompletedProcess:
-    return subprocess.run(["git", "-C", str(DATA_DIR), *args], capture_output=True, text=True, check=check)
+def _git(*args: str, check: bool = True, timeout: float = 180) -> subprocess.CompletedProcess:
+    return subprocess.run(["git", "-C", str(DATA_DIR), *args], capture_output=True, text=True, check=check,
+                          timeout=timeout)
+
+
+def _unparseable() -> list[str]:
+    """Changed JSON files that no longer parse. Checked before every commit."""
+    broken = []
+    for line in _git("status", "--porcelain").stdout.splitlines():
+        name = line[3:].strip().strip('"')
+        if not name.endswith(".json") or not (DATA_DIR / name).exists():
+            continue
+        try:
+            with open(DATA_DIR / name, encoding="utf-8") as handle:
+                json.load(handle)
+        except (json.JSONDecodeError, UnicodeDecodeError):
+            broken.append(name)
+    return broken
 
 
 def git_enabled() -> bool:
@@ -86,21 +167,26 @@ def transact(change: Callable[[], T], message: str, attempts: int = 6) -> T:
 
     `change` may run more than once, each time on freshly synced data.
     """
-    if not git_enabled():
-        return change()
-    last = ""
-    for _ in range(attempts):
-        sync()
-        result = change()
-        _git("add", "-A")
-        if not _git("status", "--porcelain").stdout.strip():
-            return result
-        _git("-c", "user.name=outreach-hq", "-c", "user.email=outreach-hq@users.noreply.github.com",
-             "commit", "--quiet", "-m", message)
-        pushed = _git("push", "--quiet", "origin", f"HEAD:{BRANCH}", check=False)
-        if pushed.returncode == 0:
-            return result
-        last = pushed.stderr.strip()
+    with locked():
+        if not git_enabled():
+            return change()
+        last = ""
+        for _ in range(attempts):
+            sync()
+            result = change()
+            _git("add", "-A")
+            if not _git("status", "--porcelain").stdout.strip():
+                return result
+            broken = _unparseable()
+            if broken:
+                _git("reset", "--quiet", "--hard", f"origin/{BRANCH}")
+                raise StoreCorrupt(f"'{message}' left {', '.join(broken)} unreadable; nothing was committed")
+            _git("-c", "user.name=outreach-hq", "-c", "user.email=outreach-hq@users.noreply.github.com",
+                 "commit", "--quiet", "-m", message)
+            pushed = _git("push", "--quiet", "origin", f"HEAD:{BRANCH}", check=False)
+            if pushed.returncode == 0:
+                return result
+            last = pushed.stderr.strip()
     raise PushConflict(f"could not publish '{message}' after {attempts} attempts: {last}")
 
 

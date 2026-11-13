@@ -5,6 +5,8 @@
 config/*.local.toml
 # the data branch is checked out here (see scripts/setup_data.sh)
 /data/
+/.data.lock
+/.*.lock
 # build output
 __pycache__/
 *.pyc
@@ -15,3 +17,5 @@ web/.env*.local
 .DS_Store
 /.preview-data/
 /data.local.*/
+# research an agent saved when a write failed; re-apply with `lead research <id> --json <file>`
+/pending-research/

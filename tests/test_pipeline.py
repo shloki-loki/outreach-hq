@@ -490,5 +490,37 @@ class ImportTest(Base):
         self.assertEqual(importers.match_connections()["suggestions_added"], 0)  # idempotent
 
 
+def _bump(directory: str, times: int) -> None:
+    store.DATA_DIR = Path(directory)
+
+    def change() -> None:
+        data = store.load("runs")
+        data["runs"].append({"pad": "x" * 20000})
+        store.save("runs", data)
+    for _ in range(times):
+        store.transact(change, "bump")
+
+
+class ConcurrentWriteTest(Base):
+    def test_processes_writing_at_once_lose_nothing(self) -> None:
+        import multiprocessing
+        context = multiprocessing.get_context("fork")
+        workers = [context.Process(target=_bump, args=(str(self.dir), 15)) for _ in range(4)]
+        for worker in workers:
+            worker.start()
+        for worker in workers:
+            worker.join(60)
+        self.assertEqual([worker.exitcode for worker in workers], [0, 0, 0, 0])
+        self.assertEqual(len(store.load("runs")["runs"]), 60)
+        self.assertEqual([p.name for p in self.dir.glob("*.tmp")] + [p.name for p in self.dir.glob(".*.tmp")], [])
+
+    def test_lock_is_reentrant_within_a_process(self) -> None:
+        def outer() -> str:
+            store.log_run("test", True, "inner write while the lock is held")
+            return "done"
+        self.assertEqual(store.transact(outer, "outer"), "done")
+        self.assertEqual(len(store.load("runs")["runs"]), 1)
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -10580,7 +10580,7 @@
     "researched_at": "2026-11-12T22:21:05+05:30",
     "headline": "Founder's Office at a Series A pharma-manufacturing AI company, asks 1-5 yrs; your SAP MRP rollout and cell-yield work map directly."
    },
-   "stage": "qualified",
+   "stage": "skipped",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -10654,9 +10654,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Vivek Gera: vivek@leucine.io (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-13T17:20:23+05:30",
+     "actor": "shlok",
+     "event": "stage",
+     "detail": "not interested"
     }
    ],
-   "updated_at": "2026-11-13T16:56:25+05:30",
+   "updated_at": "2026-11-13T17:20:23+05:30",
    "reject_reason": null
   },
   {
@@ -31316,7 +31322,7 @@
    "last_seen": "2026-11-13",
    "open": true,
    "jd": "Description\n Amazon is seeking a Senior Program Manager to enable India and Emerging Markets of Amazon build a fast, reliable, and sustainable customer shopping and delivery experience. The individual in this role will collaborate across a cross-country team of program, product, tech, BI and Science leaders to plan, execute, validate, and deploy complex customer experience capabilities across International Emerging stores. This role will partner with teams across the globe to launch and drive impact through bespoke solutions. The ideal candidate will obsess over customers and have a proven track record of delivering results while managing high level of complexity. Successful candidates will have experience with Program Management in a broad, global organization, have experience working with a variety of cross-organizational stakeholders, and be able to juggle competing priorities. This candidate must have crisp communication skills, and have experience communicating project status and updates across a global audience. Ability to navigate ambiguous programs, influence without authority, and a high bias for action are critical for success in this role.\nThis role requires willingness to travel internationally across our key IES markets, including Latin America (Brazil and Mexico), Australia, and the Middle East (UAE, Saudi Arabia), to engage directly with local teams, understand market-specific customer behavior, and drive alignment.\nKey job responsibilities\nAs a Sr. Program Manager in the team, you will be responsible for\n Managing the programs for international expansion charter for IES DEX. This will entail working with technical partners like PMs, TPMs, SDEs, SDMs, as well as with local counterparts/product managers across Emerging countries.\n You will own delivery and tracking of critical leadership goals to enable capabilities globally, and hold partner teams accountable to drive impact from the enabled capabilities.\n You will establish mechanisms viz. setup and own the Monthly Business Reviews, progress flashes, etc. to socialize with Senior leadership across IES.\n In partnership with local teams, you will identify new problem sets, cost-saving and CX improvement opportunities, missing product/tech capabilities to inform and shape the IES DEX Roadmap.\n About The Team\n As Amazon International Emerging Stores’s DEX team, we are at the forefront of the Customer Experience product thought leadership - working on some of the most difficult Customer Experience problems while partnering with research scientists, software developers, and business leaders. With the focus on driving real impact on Amazon's long-term profitability, we build new analysis from ground up, proposing new concepts and technology to meet business needs, and translating these concepts into robust scalable products that deliver tangible value to our customers and to the IES business.\n Basic Qualifications\n 5+ years of program or project management experience\n Experience using d…",
-   "exp_min": 2.0,
+   "exp_min": 2,
    "exp_max": null,
    "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Retail",
    "stretch": true,
@@ -31500,7 +31506,7 @@
    "last_seen": "2026-11-13",
    "open": true,
    "jd": "About This Role\n Wells Fargo is seeking a Product Manager.\n In This Role, You Will\n Lead or participate in product management initiatives and deliverables for product lines or services\n Contribute to product analysis across applicable markets, conduct market research and market results-oriented analysis\n Review and analyze marketing programs for new products or enhancements including identification of market segments, product positioning, product bundling, pricing and profitability\n Resolve moderately complex issues and lead team to meet project goals, objectives and deliverables\n Ensure programs adhere to compliance, privacy regulations and policies\n Collaborate and consult with managers, analysts and project teams to ensure that goals are achieved\n Lead projects, teams or serve as a mentor\n Required Qualifications\n 2+ years of product management experience, product development experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education\n 2+ years of experience partnering with technology, security, engineering, or infrastructure teams to deliver enterprise solutions.\n 2+ Experience managing product backlogs, roadmaps, prioritization, and stakeholder engagement.\n 2+ Experience translating business requirements into actionable product features and user stories.\n 2+ Experience working within Agile delivery methodologies.\n Desired Qualifications\n Experience executing and delivering on transformational programs\n Experience preparing strategic communications and articulating within presentations\n Experience leading strategic priorities and projects end to end\n Change management and delivery experience\n Experience with Jira/Confluence building Confluence pages, content and/or new boards and reports \n Excellent verbal, written, and interpersonal communication skills\n Ability to execute in a fast-paced, high-demand environment while balancing multiple priorities\n Outstanding problem solving and analytical skills with ability to turn findings into strategic objectives\n Job Expectations\n Ability to develop partnerships and collaborate effectively with other business and technology areas\n Ability to work effectively and lead in a team environment and across all organizational levels, where flexibility, collaboration, and adaptability are important\n Ability to take initiative and respond pro-actively to issues and escalations\n Ability to influence, partner, and negotiate with senior business leaders to gain commitment to accomplish business goals\n Ability to work a hybrid schedule, three (3) days in office and two (2) days remote\n Posting End Date\n 12 Nov 2026\n Job posting may come down early due to volume of applicants.\n We Value Equal Opportunity\n Wells Fargo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, statu…",
-   "exp_min": 2.0,
+   "exp_min": 2,
    "exp_max": null,
    "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Financial Services, Investment Management, and Banking",
    "stretch": false,
@@ -31778,8 +31784,8 @@
    "last_seen": "2026-11-13",
    "open": true,
    "jd": "Position: Technical Product Manager – FX Electronic Trading \n Location: Mumbai \n Experience Range: +2 years \n About us: \n InTrade is a fast-growing trading technology start-up HQ at Melbourne Australia. It specialises in the design and development of high-performance trading systems for institutional participants viz Large Banks, HFTs and Corporations. Our eFX Trading Platform is the backbone of our business, supporting real-time pricing, market making, algorithmic trading, auto-hedging, and risk management.\n Role overview: \n We are looking for an exceptional Technical Product Manager who combines a strong understanding of electronic trading technology with outstanding analytical, functional design, and product management capabilities.\n The successful candidate will work closely with Founder, software architects, developers, and Clients to translate complex FX trading requirements into technically coherent, scalable, and implementation-ready solutions. \n Key Responsibilities \n Product & Technology Architecture \n Develop a thorough understanding of InTrade's existing product capabilities, technical architecture, and functional workflows.\n Understand interactions between services, APIs, messaging systems, databases, and external integrations. \n Evaluate how new functionality should integrate with existing platform components. \n Ensure to reuse existing capabilities rather than introduce unnecessary complexity. \n Collaborate with software devs to evaluate technical feasibility, dependencies, and architectural implications. \n Ensure functional requirements & designs are consistent with the platform's broader architecture and long-term planned evolution \n Work closely with UX designers to develop intuitive and efficient trading interfaces. \n Support engineers throughout development by resolving functional ambiguities and evaluating design alternatives. \n Collaborate with QA teams to establish comprehensive test scenarios and acceptance criteria. \n Validate delivered functionality against intended business requirements. \n Maintain functional consistency and product quality across successive releases. \n Business Analysis & Functional Solution Design \n Translate business objectives and product vision into comprehensive, developer-ready functional specifications.\n Independently analyse requirements, identify gaps, and recommend appropriate solutions. \n Define detailed business rules, validations, workflows, exception scenarios, and state transitions. \n Produce process diagrams, use cases, data requirements, interface specifications, and acceptance criteria. \n Document interactions between existing functionality and proposed enhancements. \n Ensure specifications are sufficiently detailed to minimise ambiguity during development. \n Identify functional and technical dependencies early in the design process. \n The ability to independently produce exceptionally clear and comprehensive functional specifications is fundamental to this role.\n FX Domain Knowledge…",
-   "exp_min": 2.0,
-   "exp_max": 5.0,
+   "exp_min": 2,
+   "exp_max": 5,
    "exp_text": "Seniority level Entry level Employment type Full-time Industries Technology, Information and Internet",
    "stretch": false,
    "pay": {

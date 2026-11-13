@@ -35,12 +35,12 @@
    "severity": "error",
    "title": "Inbox scan failed",
    "detail": "JSONDecodeError: Expecting ':' delimiter: line 19601 column 13 (char 723899)",
-   "status": "open",
+   "status": "resolved",
    "opened_at": "2026-11-13T15:05:25+05:30",
    "last_seen": "2026-11-13T15:05:25+05:30",
    "count": 1,
-   "remedy": "",
-   "resolved_at": null
+   "remedy": "Fixed 2026-11-13: leads.json restored from c9891c2 plus the surviving L0029 note; the 11 lost research results re-applied from pending-research. store.transact now holds a cross-process lock, save() uses a unique temp file, git calls time out, and a file that does not parse is never committed.",
+   "resolved_at": "2026-11-13T16:55:09+05:30"
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

@@ -11414,8 +11414,8 @@
    "key": "zamp|founder s office associate|bengaluru",
    "type": "job",
    "company": "Zamp",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "zamp.ai",
+   "company_url": "https://www.zamp.ai",
    "company_linkedin": "https://www.linkedin.com/company/zamp-ai",
    "company_note": "",
    "title": "Founder's Office - Associate",
@@ -11447,14 +11447,14 @@
     "stated": null,
     "min_lpa": null,
     "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
+    "basis": "estimate",
+    "source": "AmbitionBox Zamp Bengaluru, 3 salaries (one 4-yr band Rs 34-44L); too thin to use",
     "fit": "Unknown"
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 64,
+    "total": 73,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -11464,15 +11464,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office (AI workflows) at Zamp, Sequoia-backed ~100-person agent startup; asks 2-4 yrs incl. internships, IIT/CS + Python preferred.",
+    "fit_notes": "JD (LinkedIn, opened 2026-11-13, posted 1 day ago, 200+ applicants): translate customer finance/ops processes into AI workflows, process modelling, KPI/ROI tracking. Maps: IIT Guwahati (IITs preferred), Python/SQL, InsuranceDekho Flask API + form-autofill automation (idekho), SAP MRP rollout (mrp) and S&OP process design (sop). Gaps: 2-4 yrs asked (Shlok ~1.3 + 3-month internship, stretch); EEE not CS.",
+    "pay_notes": "Not stated. AmbitionBox has 13 company-wide salaries; Bengaluru sample is 3, with a 4-yr band of Rs 34.2-43.7L and a software-engineer band of Rs 27-34.5L. Suggestive of above-floor pay but not reliable for this title. Treat as unknown.",
+    "culture_notes": "Founded 2022 by Amit Jain (ex-Sequoia MD, ex-Uber, per TheOrg/Crunchbase/Yespress). ~$22M seed from Sequoia with Uber and DoorDash CEOs as angels (stated in the posting). PitchBook lists a $17M Series B dated 2026-04-28 (unconfirmed). ~96-99 staff (LeadIQ, PitchBook). AmbitionBox rating 1.9/5 from only 2 reviews.",
+    "hook": "Zamp says it builds digital employees for finance and operations teams and works with 50+ global organisations including DoorDash, Uber and Stripe.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founder-s-office-associate-at-zamp-4489091275",
+    "researched_at": "2026-11-13T16:53:45+05:30"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -11496,9 +11497,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-13T16:53:45+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 73: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-13T16:53:45+05:30",
+   "reject_reason": null
   },
   {
    "id": "L0106",

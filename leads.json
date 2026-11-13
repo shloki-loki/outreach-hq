@@ -10371,7 +10371,7 @@
    "key": "sugarfit|program manager|bengaluru",
    "type": "job",
    "company": "sugar.fit",
-   "company_domain": "sugar.fit",
+   "company_domain": "sugarfit.com",
    "company_url": "https://www.sugarfit.com",
    "company_linkedin": "https://in.linkedin.com/company/sugarfit",
    "company_note": "",
@@ -10447,10 +10447,10 @@
      "title": "Co-founder",
      "role_type": "founder",
      "linkedin_url": "",
-     "email": "msomasundaram@sugar.fit",
-     "email_status": "guess",
-     "email_source": "most likely pattern (flast), not verified",
-     "confidence": 35,
+     "email": "madan@sugarfit.com",
+     "email_status": "verified",
+     "email_source": "already confirmed for this person",
+     "confidence": 92,
      "why": "Co-founder; the role sits in the Founder's Office (YourStory, Indian Startup News)",
      "found_at": "2026-11-12T22:21:50+05:30"
     }
@@ -10498,9 +10498,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Madan Somasundaram: msomasundaram@sugar.fit (guess, 35)"
+    },
+    {
+     "at": "2026-11-13T16:57:24+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Madan Somasundaram: madan@sugarfit.com (verified, 92)"
     }
    ],
-   "updated_at": "2026-11-13T16:56:46+05:30",
+   "updated_at": "2026-11-13T16:57:24+05:30",
    "reject_reason": null
   },
   {

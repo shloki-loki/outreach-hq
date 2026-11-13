@@ -341,6 +341,15 @@
    "title": "Diagnosis: Drafts left waiting on leads Shlok marked not interested (M0004, M0007)",
    "detail": "Cause: setting a lead's stage to skipped on the site changes only the lead, not its waiting drafts. Remedy now: Shlok presses Skip on M0004 and M0007 on the Approvals page. Code fix (left for Shlok, not made in a scheduled run): when a lead moves to skipped or rejected, mark its draft and approved messages skipped with reason 'lead skipped', and add a test for it.",
    "ref": "I0006"
+  },
+  {
+   "id": "J0039",
+   "at": "2026-11-13T20:13:50+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Supervisor 20:11 check: earlier issues I0001-I0003 confirmed fixed",
+   "detail": "leads.json parses (lead list returns 321 leads); data branch commits since 16:55 are clean, one writer at a time, no repair: commits, no large deletions, no same-second interleaving. Track and send ran 4 times between 17:14 and 17:42 IST and sent M0003, M0013, M0001, M0005 with 0 failures. Nothing stuck in sending, nothing failed, no approved message waiting. Site https://outreach-hq-psi.vercel.app/login answers with the password page.",
+   "ref": ""
   }
  ]
 }

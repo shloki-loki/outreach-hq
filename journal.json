@@ -197,6 +197,15 @@
    "title": "Leucine cannot be verified",
    "detail": "leucine.io accepts mail for any address (catch-all), so no service can confirm vivek@leucine.io. Draft M0004 stays graded catch-all and counts against the limit of 2 unverified sends a day.",
    "ref": "L0096"
+  },
+  {
+   "id": "J0023",
+   "at": "2026-11-13T17:06:45+05:30",
+   "by": "session",
+   "kind": "note",
+   "title": "AiSteth missed the qualify bar by one point",
+   "detail": "The scout judged L0090 worth pursuing, but its total score is 64 against a cut-off of 65, so it is stored as rejected. Shlok to decide whether to put it back.",
+   "ref": "L0090"
   }
  ]
 }

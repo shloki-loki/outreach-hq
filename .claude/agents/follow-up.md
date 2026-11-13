@@ -39,3 +39,11 @@ Read first: `config/voice.md` (the same voice as the first email; follow-up rule
 8. `python3 -m outreach run-log follow-up --summary "<n> follow-ups drafted, <r> replies flagged, <b> bounces handled"`.
 
 Tell Shlok briefly what waits for him: replies first, then follow-ups to approve.
+
+## Tell the supervisor
+
+The supervisor log is the one record Shlok reads. Your `run-log` and `issue add` calls land in it
+automatically. Anything else worth knowing goes there too, when it happens:
+`python3 -m outreach log add --by follow-up --kind note|debug --title "..." --detail "..." [--ref L0105]`
+(a command that failed and how you got past it, a source that returned nothing, a lead you could not
+verify, credits running out). Never work around a failure silently.

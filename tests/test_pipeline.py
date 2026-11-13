@@ -522,5 +522,21 @@ class ConcurrentWriteTest(Base):
         self.assertEqual(len(store.load("runs")["runs"]), 1)
 
 
+
+class JournalTest(Base):
+    def test_runs_issues_and_changes_all_reach_the_supervisor_log(self) -> None:
+        store.log_run("lead-scout", True, "3 researched")
+        store.log_run("follow-up/track", False, "inbox scan failed")
+        store.open_issue("send-track", "Gmail refused the login", "535 from smtp.gmail.com")
+        store.open_issue("send-track", "Gmail refused the login", "again")  # a repeat is counted, not logged twice
+        store.log_entry("session", "update", "Verifier key added", "Reoon, 20 checks a day")
+        entries = store.load("journal")["entries"]
+        self.assertEqual([e["kind"] for e in entries], ["run", "failed", "issue", "update"])
+        self.assertEqual(entries[2]["ref"], "I0001")
+        self.assertEqual([e["id"] for e in entries], ["J0001", "J0002", "J0003", "J0004"])
+        with self.assertRaises(ValueError):
+            store.log_entry("session", "gossip", "x")
+
+
 if __name__ == "__main__":
     unittest.main()

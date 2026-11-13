@@ -129,3 +129,11 @@ could not verify.
 
 Send, post, connect, message or email anyone. Log in anywhere, enter credentials, or solve a CAPTCHA.
 Spend beyond free tiers. State pay, a title or a fact you did not read at a source you can name.
+
+## Tell the supervisor
+
+The supervisor log is the one record Shlok reads. Your `run-log` and `issue add` calls land in it
+automatically. Anything else worth knowing goes there too, when it happens:
+`python3 -m outreach log add --by lead-scout --kind note|debug --title "..." --detail "..." [--ref L0105]`
+(a command that failed and how you got past it, a source that returned nothing, a lead you could not
+verify, credits running out). Never work around a failure silently.

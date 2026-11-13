@@ -45,8 +45,15 @@ times a day, `cycle` tracks the inbox and sends approved emails, `digest` emails
 | `config/` | profile (facts), targeting (what a good lead is), settings (caps, cadence), companies (career boards), voice (how emails are written) |
 | `outreach/` | the pipeline, Python standard library only. `python3 -m outreach --help` |
 | `outreach/sources/` | Greenhouse, Lever, Ashby, LinkedIn public search, Instahyre, Y Combinator |
-| `web/` | the Next.js site (Leads, Approvals, Progress), deployed on Vercel |
+| `web/` | the Next.js site (Leads, Approvals, Progress, Log), deployed on Vercel |
 | `data/` | checkout of the `data` branch: the JSON store every part reads and writes |
 | `tests/` | `python3 -m unittest discover -s tests` |
 
 First-time setup is in [SETUP.md](SETUP.md).
+
+## The supervisor log
+
+`data/journal.json`, shown on the site's Log page. Agent runs, new issues, diagnoses (`issue remedy`) and fixes
+(`issue resolve`) are written to it automatically; anything else is added with
+`python3 -m outreach log add --by <who> --kind update|debug|fix|review|note --title "..." --detail "..."`.
+Read it with `python3 -m outreach log list [--only issue,failed,debug,fix] [--since 2026-11-13] [--limit 60]`.

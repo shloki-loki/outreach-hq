@@ -399,8 +399,31 @@ def cmd_issue(args: argparse.Namespace) -> None:
             if args.action == "resolve":
                 issue.update(status="resolved", resolved_at=now_iso())
             store.save("issues", data)
+            if args.action == "resolve":
+                store.journal(args.agent, "fix", f"Solved: {issue['title']}", issue.get("remedy") or "", issue["id"])
+            elif args.remedy:
+                store.journal(args.agent, "debug", f"Diagnosis: {issue['title']}", args.remedy, issue["id"])
         store.transact(change, f"issue {args.action}: {args.id}")
         print(f"{args.action}d {args.id}")
+
+
+def cmd_log(args: argparse.Namespace) -> None:
+    if args.action == "add":
+        if not args.title:
+            sys.exit("give --title (and --detail)")
+        try:
+            store.log_entry(args.by, args.kind, args.title, args.detail or "", args.ref or "")
+        except ValueError as exc:
+            sys.exit(str(exc))
+        print("logged")
+        return
+    store.sync()
+    entries = store.load("journal")["entries"]
+    if args.only:
+        entries = [e for e in entries if e.get("kind") in args.only.split(",")]
+    if args.since:
+        entries = [e for e in entries if e.get("at", "") >= args.since]
+    out(entries[-args.limit:])
 
 
 def cmd_run_log(args: argparse.Namespace) -> None:
@@ -586,6 +609,16 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--severity", default="warn", choices=["info", "warn", "error"]); p.add_argument("--remedy")
     p.add_argument("--all", action="store_true")
     p.set_defaults(func=cmd_issue)
+
+    p = sub.add_parser("log", help="the supervisor's log: every run, problem, diagnosis, fix and change")
+    p.add_argument("action", choices=["add", "list"])
+    p.add_argument("--by", default="supervisor"); p.add_argument("--title"); p.add_argument("--detail")
+    p.add_argument("--kind", default="update", choices=["update", "debug", "fix", "review", "note"])
+    p.add_argument("--ref", help="an issue, lead or commit this is about")
+    p.add_argument("--only", help="list: comma-separated kinds, e.g. issue,failed,debug,fix")
+    p.add_argument("--since", help="list: entries at or after this ISO date or time")
+    p.add_argument("--limit", type=int, default=60)
+    p.set_defaults(func=cmd_log)
 
     p = sub.add_parser("run-log", help="record that an agent ran")
     p.add_argument("agent"); p.add_argument("--summary", required=True); p.add_argument("--fail", action="store_true")

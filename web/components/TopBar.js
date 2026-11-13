@@ -6,6 +6,7 @@ const TABS = [
   { href: '/', label: 'Leads' },
   { href: '/approvals', label: 'Approvals' },
   { href: '/progress', label: 'Progress' },
+  { href: '/log', label: 'Log' },
 ];
 
 export default async function TopBar({ current, toApprove = 0 }) {

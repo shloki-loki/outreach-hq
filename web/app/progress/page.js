@@ -118,6 +118,7 @@ export default async function ProgressPage() {
 
         <section className="section">
           <h2 className="section-label">Open issues<span className="n">{openIssues.length}</span></h2>
+          <p className="prose">Every run, problem, diagnosis and fix is in the <a href="/log" style={{ color: 'var(--accent)' }}>supervisor log</a>.</p>
           {openIssues.length === 0 ? <p className="empty">No open issues.</p> : (
             <ul className="list">{openIssues.map((issue) => (
               <li key={issue.id}><span className="when">{formatDateTime(issue.last_seen)}<br />{issue.agent}{issue.count > 1 ? ` · seen ${issue.count}x` : ''}</span>

@@ -83,3 +83,11 @@ continue once he says it is done. He marks the lead applied on the website.
 `python3 -m outreach run-log send-track --summary "<n> emails drafted, <r> referral notes, <k> application kits; <s> skipped (why)"`.
 Problems go to `python3 -m outreach issue add --agent send-track --title ... --detail ...`.
 Tell Shlok, briefly: how many drafts wait on the Approvals page, and which leads you could not draft and why.
+
+## Tell the supervisor
+
+The supervisor log is the one record Shlok reads. Your `run-log` and `issue add` calls land in it
+automatically. Anything else worth knowing goes there too, when it happens:
+`python3 -m outreach log add --by send-track --kind note|debug --title "..." --detail "..." [--ref L0105]`
+(a command that failed and how you got past it, a source that returned nothing, a lead you could not
+verify, credits running out). Never work around a failure silently.

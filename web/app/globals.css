@@ -176,6 +176,12 @@ a.highlight:hover { background: var(--surface); }
 .list li { display: grid; grid-template-columns: 1fr; gap: 2px 16px; padding: 11px 0; border-top: 1px solid var(--line); color: var(--muted); line-height: 1.6; font-size: 13.5px; }
 .list li:first-child { border-top: 0; }
 .list .when { font-size: 12px; color: var(--faint); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.list.log strong { color: var(--ink); font-weight: 600; }
+.list.log .tag { border-color: transparent; margin-right: 4px; }
+.list.log .ref { font-size: 12px; color: var(--faint); }
+.list.log .detail { display: block; margin-top: 3px; white-space: pre-wrap; overflow-wrap: anywhere; }
+.chip.link { display: inline-flex; align-items: center; }
+.chip[aria-current="true"] { background: var(--ink); border-color: var(--ink); color: #fff; }
 .person { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px 12px; padding: 12px 0; border-top: 1px solid var(--line); }
 .person:first-child { border-top: 0; }
 .person h4 { margin: 0; font-size: 14px; font-weight: 600; }

@@ -40,6 +40,7 @@ DEFAULTS: dict[str, Any] = {
     "quotas": {"usage": {}},
     "issues": {"issues": []},
     "runs": {"runs": []},
+    "journal": {"entries": []},
     "metrics": {"days": {}},
 }
 
@@ -210,6 +211,25 @@ def add_timeline(lead: dict, actor: str, event: str, detail: str = "") -> None:
     lead["updated_at"] = now_iso()
 
 
+JOURNAL_KINDS = ("run", "failed", "issue", "debug", "fix", "update", "review", "note")
+
+
+def journal(by: str, kind: str, title: str, detail: str = "", ref: str = "") -> None:
+    """Append to the supervisor's log from inside a `transact` change. One line per thing that happened:
+    every agent run, every problem, every diagnosis and fix, every change to the system."""
+    data = load("journal")
+    data["entries"].append({"id": next_id(data["entries"], "J"), "at": now_iso(), "by": by, "kind": kind,
+                            "title": title.strip(), "detail": (detail or "").strip(), "ref": ref})
+    data["entries"] = data["entries"][-3000:]
+    save("journal", data)
+
+
+def log_entry(by: str, kind: str, title: str, detail: str = "", ref: str = "") -> None:
+    if kind not in JOURNAL_KINDS:
+        raise ValueError(f"kind must be one of {', '.join(JOURNAL_KINDS)}")
+    transact(lambda: journal(by, kind, title, detail, ref), f"log: {title[:60]}")
+
+
 def log_run(agent: str, ok: bool, summary: str, stats: dict | None = None) -> None:
     """Heartbeat the supervisor and the website read. Keeps the last 300 runs."""
     def change() -> None:
@@ -217,6 +237,7 @@ def log_run(agent: str, ok: bool, summary: str, stats: dict | None = None) -> No
         runs["runs"].append({"at": now_iso(), "agent": agent, "ok": ok, "summary": summary, "stats": stats or {}})
         runs["runs"] = runs["runs"][-300:]
         save("runs", runs)
+        journal(agent, "run" if ok else "failed", "Ran" if ok else "Run failed", summary)
     transact(change, f"run: {agent} {'ok' if ok else 'FAILED'}")
 
 
@@ -232,9 +253,11 @@ def open_issue(agent: str, title: str, detail: str, severity: str = "warn", key:
                 issue["detail"] = detail
                 save("issues", issues)
                 return
+        ident = next_id(issues["issues"], "I")
         issues["issues"].append({
-            "id": next_id(issues["issues"], "I"), "key": key_value, "agent": agent, "severity": severity,
+            "id": ident, "key": key_value, "agent": agent, "severity": severity,
             "title": title, "detail": detail, "status": "open", "opened_at": now_iso(),
             "last_seen": now_iso(), "count": 1, "remedy": "", "resolved_at": None})
         save("issues", issues)
+        journal(agent, "issue", title, detail, ident)
     transact(change, f"issue: {title}")

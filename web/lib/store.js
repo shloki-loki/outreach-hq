@@ -10,7 +10,7 @@ import path from 'path';
 const API = 'https://api.github.com';
 const DEFAULTS = {
   leads: { leads: [] }, messages: { messages: [] }, issues: { issues: [] }, runs: { runs: [] },
-  metrics: { days: {} }, connections: { imported_at: null, connections: [] },
+  metrics: { days: {} }, connections: { imported_at: null, connections: [] }, journal: { entries: [] },
 };
 
 function localDir() {

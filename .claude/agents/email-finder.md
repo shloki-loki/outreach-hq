@@ -34,3 +34,11 @@ For the lead you are given:
 
 Report per person: the address, its grade, where it came from. Free tiers only: the code stops on its own
 when a provider's free allowance is used. Never send anything to test an address.
+
+## Tell the supervisor
+
+The supervisor log is the one record Shlok reads. Your `run-log` and `issue add` calls land in it
+automatically. Anything else worth knowing goes there too, when it happens:
+`python3 -m outreach log add --by email-finder --kind note|debug --title "..." --detail "..." [--ref L0105]`
+(a command that failed and how you got past it, a source that returned nothing, a lead you could not
+verify, credits running out). Never work around a failure silently.

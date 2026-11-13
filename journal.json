@@ -179,6 +179,15 @@
    "title": "Data store now lets only one command write at a time",
    "detail": "store.transact holds a lock across sync, change, commit and push, so agents that start together queue instead of colliding. Each write uses its own temporary file, git calls time out after 3 minutes, and a file that does not parse is never committed. Tests pass, including four processes writing at once.",
    "ref": "0f06537"
+  },
+  {
+   "id": "J0021",
+   "at": "2026-11-13T17:06:38+05:30",
+   "by": "session",
+   "kind": "update",
+   "title": "Sugar.fit: founder address verified on the right domain",
+   "detail": "Reoon returned invalid for madan@, madan.somasundaram@ and madansomasundaram@sugar.fit. The company's mail runs on sugarfit.com; madan@sugarfit.com is valid. Lead L0095 and draft M0005 now use it.",
+   "ref": "L0095"
   }
  ]
 }

@@ -170,6 +170,15 @@
    "title": "Leads file restored; 11 lost research results re-applied",
    "detail": "Rebuilt leads.json from the last good commit (c9891c2, 321 leads) plus the surviving L0029 note. Re-applied the scout's saved research for L0090, L0091, L0093, L0094, L0097, L0098, L0102, L0103, L0105, L0128 and L0302 from pending-research/2026-11-13. Result: Zamp (L0105) qualified at 73; the rest rejected. Inbox check runs again.",
    "ref": "db043bc"
+  },
+  {
+   "id": "J0020",
+   "at": "2026-11-13T17:06:35+05:30",
+   "by": "session",
+   "kind": "update",
+   "title": "Data store now lets only one command write at a time",
+   "detail": "store.transact holds a lock across sync, change, commit and push, so agents that start together queue instead of colliding. Each write uses its own temporary file, git calls time out after 3 minutes, and a file that does not parse is never committed. Tests pass, including four processes writing at once.",
+   "ref": "0f06537"
   }
  ]
 }

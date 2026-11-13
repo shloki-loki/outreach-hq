@@ -143,6 +143,15 @@
    "title": "Reoon email verifier connected",
    "detail": "Free plan: 20 checks a day (the system uses at most 18) plus 100 one-time credits. QuickEmailVerification was dropped because it gives no free credits to a Gmail signup. Reoon is only asked about addresses the system had to work out itself; addresses printed in a posting are never sent to it.",
    "ref": ""
+  },
+  {
+   "id": "J0017",
+   "at": "2026-11-13T17:05:53+05:30",
+   "by": "session",
+   "kind": "update",
+   "title": "Supervisor log started",
+   "detail": "Every agent run, problem, diagnosis and fix is now written here automatically, and changes to the system are added by whoever makes them. Shown on the site under Log. Earlier runs and issues were copied in from the run and issue history.",
+   "ref": ""
   }
  ]
 }

@@ -9955,8 +9955,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 18,
+    "total": 42,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -9966,15 +9966,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff at Smartagro Farms, an early Bengaluru agribusiness; generic JD, no pay, no funding info.",
+    "fit_notes": "Stored JD only (strategic planning, leadership meetings). Supply-chain facts would map, but the posting gives no specifics. Live status not checked.",
+    "pay_notes": "Not stated.",
+    "culture_notes": "No funding or headcount found in the posting.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-13T16:53:17+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -9998,9 +9999,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-13T16:53:17+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 42: rejected (Generic CoS posting from an early agribusiness with no stated years, pay or funding; nothing verifiable about the company to justify outreach.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-13T16:53:17+05:30",
+   "reject_reason": "Generic CoS posting from an early agribusiness with no stated years, pay or funding; nothing verifiable about the company to justify outreach."
   },
   {
    "id": "L0092",

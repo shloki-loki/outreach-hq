@@ -69,6 +69,20 @@
    "count": 1,
    "remedy": "Cause: GitHub Actions cron on a free account is best-effort; under load it delays or skips scheduled runs, worst on a new repo with little activity. Remedy (for Shlok to choose): trigger the workflows from an external scheduler (e.g. a cron-job.org call or the Mac's launchd running 'gh workflow run'), or move the digest cron earlier so a late run still lands in the morning. Until then, after approving emails press Run workflow on 'Track and send' to send them right away.",
    "resolved_at": null
+  },
+  {
+   "id": "I0006",
+   "key": "supervisor:Drafts left waiting on leads Shlok marked not interested (M0004, M0007)",
+   "agent": "supervisor",
+   "severity": "warn",
+   "title": "Drafts left waiting on leads Shlok marked not interested (M0004, M0007)",
+   "detail": "Shlok set L0096 Leucine to not interested at 17:20 IST (note: post says 8-18 LPA) and L0017 WarpDrive at 18:15 IST. Their drafts M0004 (vivek@leucine.io) and M0007 (atrayee@warpdrivetech.in) are still in 'draft' and count in the Approvals queue, so the site shows 8 to approve when only 6 are live. Nothing was sent.",
+   "status": "open",
+   "opened_at": "2026-11-13T20:13:33+05:30",
+   "last_seen": "2026-11-13T20:13:33+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

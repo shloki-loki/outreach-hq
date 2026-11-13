@@ -323,6 +323,15 @@
    "title": "Diagnosis: GitHub scheduled workflows run hours late or are dropped",
    "detail": "Cause: GitHub Actions cron on a free account is best-effort; under load it delays or skips scheduled runs, worst on a new repo with little activity. Remedy (for Shlok to choose): trigger the workflows from an external scheduler (e.g. a cron-job.org call or the Mac's launchd running 'gh workflow run'), or move the digest cron earlier so a late run still lands in the morning. Until then, after approving emails press Run workflow on 'Track and send' to send them right away.",
    "ref": "I0005"
+  },
+  {
+   "id": "J0037",
+   "at": "2026-11-13T20:13:33+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "Drafts left waiting on leads Shlok marked not interested (M0004, M0007)",
+   "detail": "Shlok set L0096 Leucine to not interested at 17:20 IST (note: post says 8-18 LPA) and L0017 WarpDrive at 18:15 IST. Their drafts M0004 (vivek@leucine.io) and M0007 (atrayee@warpdrivetech.in) are still in 'draft' and count in the Approvals queue, so the site shows 8 to approve when only 6 are live. Nothing was sent.",
+   "ref": "I0006"
   }
  ]
 }

@@ -27,6 +27,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0003",
+   "key": "inbox-scan-failed",
+   "agent": "follow-up",
+   "severity": "error",
+   "title": "Inbox scan failed",
+   "detail": "JSONDecodeError: Expecting ':' delimiter: line 19601 column 13 (char 723899)",
+   "status": "open",
+   "opened_at": "2026-11-13T15:05:25+05:30",
+   "last_seen": "2026-11-13T15:05:25+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

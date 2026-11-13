@@ -1,5 +1,7 @@
 # Outreach HQ
 
+> New here, human or model? Read [HANDOFF.md](HANDOFF.md), then [AGENTS.md](AGENTS.md) and [config/voice.md](config/voice.md).
+
 Shlok's job-search pipeline: find well-paid roles that fit, find the right person, write a personal
 email, send it only after approval, follow up, and show where every lead stands.
 

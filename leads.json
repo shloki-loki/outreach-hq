@@ -4102,7 +4102,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-13T17:28:31+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-13T23:17:21+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -4124,7 +4124,7 @@
      "role_type": "generic",
      "linkedin_url": "",
      "email": "sumit@maharishibahugygroup.com",
-     "email_status": "published",
+     "email_status": "verified",
      "email_source": "stated in the hiring post",
      "confidence": 95,
      "why": "",
@@ -4167,9 +4167,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to sumit@maharishibahugygroup.com"
+    },
+    {
+     "at": "2026-11-13T23:17:21+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "sumit@maharishibahugygroup.com: Yes, I would be interested. i tried to call you but your no seems to be unreachable. On Fri, 13 Nov 2026 at 17:28, Shlok Agrawal <111shlokagrawal@gmail.com> wro"
     }
    ],
-   "updated_at": "2026-11-13T17:28:31+05:30"
+   "updated_at": "2026-11-13T23:17:21+05:30"
   },
   {
    "id": "L0036",

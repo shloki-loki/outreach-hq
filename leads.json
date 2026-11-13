@@ -10261,17 +10261,17 @@
    "exp_text": "Seniority level Not Applicable Employment type Full-time Industries Business Consulting and Services, IT Services and IT Consulting, and Professional Training and Coaching",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "Rs 1.2M-1.5M + ESOPs",
+    "min_lpa": 12,
+    "max_lpa": 15,
+    "basis": "stated",
+    "source": "YC job page cQZdv5Q",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 35,
+    "total": 52,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -10281,15 +10281,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office at Weekday (YC W21, 38 people, AI recruiting); YC lists Rs 12-15L + ESOPs, under your floor.",
+    "fit_notes": "LinkedIn posting opened 2026-11-13 (3 days old, 200+ applicants); generalist hands-on FO, no years bar. Fit is good, pay is not. YC page lists Indiranagar while LinkedIn says remote.",
+    "pay_notes": "Stated on https://www.ycombinator.com/companies/weekday/jobs/cQZdv5Q-founder-s-office",
+    "culture_notes": "YC W21, team 38, founders Amit Singh (CEO), Chetan Dalal (CPO), Anubhav Malik.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-13T16:53:26+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -10353,9 +10354,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-13T16:53:26+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 52: rejected (Weekday's own YC listing for this Founder's Office role states Rs 12-15L cash plus ESOPs, under the floor.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-13T16:53:26+05:30",
+   "reject_reason": "Weekday's own YC listing for this Founder's Office role states Rs 12-15L cash plus ESOPs, under the floor."
   },
   {
    "id": "L0095",

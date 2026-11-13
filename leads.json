@@ -3964,9 +3964,9 @@
    },
    "stage": "qualified",
    "outcome": null,
-   "applied_at": null,
+   "applied_at": "2026-11-13T18:09:56+05:30",
    "apply": {
-    "status": "not_started",
+    "status": "applied",
     "notes": "",
     "answers": {}
    },
@@ -4011,9 +4011,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 3 (2026-11-09) as R34"
+    },
+    {
+     "at": "2026-11-13T18:09:56+05:30",
+     "actor": "shlok",
+     "event": "applied",
+     "detail": "application submitted"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-13T18:09:56+05:30"
   },
   {
    "id": "L0035",

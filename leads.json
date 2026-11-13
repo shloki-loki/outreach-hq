@@ -10447,9 +10447,9 @@
      "title": "Co-founder",
      "role_type": "founder",
      "linkedin_url": "",
-     "email": "madan@sugar.fit",
+     "email": "msomasundaram@sugar.fit",
      "email_status": "guess",
-     "email_source": "most likely pattern (first), not verified",
+     "email_source": "most likely pattern (flast), not verified",
      "confidence": 35,
      "why": "Co-founder; the role sits in the Founder's Office (YourStory, Indian Startup News)",
      "found_at": "2026-11-12T22:21:50+05:30"
@@ -10492,9 +10492,15 @@
      "actor": "send-track",
      "event": "drafted",
      "detail": "cold email to Madan Somasundaram awaiting approval"
+    },
+    {
+     "at": "2026-11-13T16:56:46+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Madan Somasundaram: msomasundaram@sugar.fit (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T23:00:53+05:30",
+   "updated_at": "2026-11-13T16:56:46+05:30",
    "reject_reason": null
   },
   {

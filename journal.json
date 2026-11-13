@@ -134,6 +134,15 @@
    "title": "Solved: Inbox scan failed",
    "detail": "Fixed 2026-11-13: leads.json restored from c9891c2 plus the surviving L0029 note; the 11 lost research results re-applied from pending-research. store.transact now holds a cross-process lock, save() uses a unique temp file, git calls time out, and a file that does not parse is never committed.",
    "ref": "I0003"
+  },
+  {
+   "id": "J0016",
+   "at": "2026-11-13T17:05:49+05:30",
+   "by": "session",
+   "kind": "update",
+   "title": "Reoon email verifier connected",
+   "detail": "Free plan: 20 checks a day (the system uses at most 18) plus 100 one-time credits. QuickEmailVerification was dropped because it gives no free credits to a Gmail signup. Reoon is only asked about addresses the system had to work out itself; addresses printed in a posting are never sent to it.",
+   "ref": ""
   }
  ]
 }

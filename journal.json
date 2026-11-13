@@ -215,6 +215,15 @@
    "title": "Log page added to the site; supervisor writes a daily review",
    "detail": "New Log tab shows this record with filters for problems and fixes, changes, and agent runs. The supervisor's instructions and its 20:10 schedule now require a diagnosis for every problem and a daily review entry. Every agent is told to report anything unusual here.",
    "ref": "762c5b6"
+  },
+  {
+   "id": "J0025",
+   "at": "2026-11-13T17:14:12+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

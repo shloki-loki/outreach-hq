@@ -21,12 +21,12 @@
    "severity": "warn",
    "title": "leads.json corrupted on data branch by concurrent write (commit 015cf9d)",
    "detail": "Commit 015cf9d 'research: L0093' (2026-11-13 14:13) truncated leads.json to invalid JSON (7 insertions, 6608 deletions; parse error line 19601 col 13). Cause: lead-scout ran 'outreach scout' in the background while running 'lead research' in the foreground; store.save() writes every process to the same leads.json.tmp path, so the two writes interleaved and transact() committed and pushed the mangled file. Last good commit: c9891c2. Fix: 'git -C data revert 015cf9d && git push origin HEAD:data' (my revert was blocked by the permission classifier), then re-run research for L0093-L0128 from the saved JSON in the run notes. Code fix: give save() a unique temp name (e.g. tempfile.NamedTemporaryFile in DATA_DIR) and validate JSON before commit; also a hung 'git fetch' from 13:17 (pid 62733, another session) and 'cannot lock ref' races when two CLI calls sync at once. Separately: 'lead research' auto-rejected L0090 (AiSteth) with 'score 64 is under 65' although decision was qualify.",
-   "status": "open",
+   "status": "resolved",
    "opened_at": "2026-11-13T14:14:42+05:30",
    "last_seen": "2026-11-13T14:14:42+05:30",
    "count": 1,
-   "remedy": "",
-   "resolved_at": null
+   "remedy": "Fixed 2026-11-13: leads.json restored from c9891c2 plus the surviving L0029 note; the 11 lost research results re-applied from pending-research. store.transact now holds a cross-process lock, save() uses a unique temp file, git calls time out, and a file that does not parse is never committed.",
+   "resolved_at": "2026-11-13T16:55:06+05:30"
   },
   {
    "id": "I0003",

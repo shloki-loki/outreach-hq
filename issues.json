@@ -1,4 +1,19 @@
 {
- "issues": [],
+ "issues": [
+  {
+   "id": "I0001",
+   "key": "send-track:leads.json truncated on origin/data by commit 015cf9d (research: L0093)",
+   "agent": "send-track",
+   "severity": "warn",
+   "title": "leads.json truncated on origin/data by commit 015cf9d (research: L0093)",
+   "detail": "At 14:13:44 on 2026-11-13 commit 015cf9d (research: L0093, from a concurrent lead-scout session) rewrote data/leads.json with 7 insertions and 6608 deletions; the file now stops mid-record around line 19601 (a Stitch Product Manager lead, cut after \"exp_min\") and no longer parses. It is already on origin/data. The previous commit c9891c2 (research: L0092) parses fine. Likely cause: two processes (send-track and lead-scout/scout) wrote leads.json at the same moment while store.sync ran git reset --hard. Every lead command now fails with 'Expecting : delimiter'. Fix: restore leads.json from c9891c2 and re-apply the L0093 research, then add a file lock around store.transact so concurrent agents cannot interleave. send-track stopped writing to leads once this was found.",
+   "status": "open",
+   "opened_at": "2026-11-13T14:14:27+05:30",
+   "last_seen": "2026-11-13T14:14:27+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
+  }
+ ],
  "checked_at": "2026-11-12T15:57:46.254Z"
 }

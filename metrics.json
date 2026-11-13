@@ -48,7 +48,8 @@
     "skipped": 3,
     "rejected": 13,
     "applied": 1,
-    "contacted": 4,
+    "replied": 1,
+    "contacted": 3,
     "new": 248
    },
    "by_source": {
@@ -72,9 +73,9 @@
    "emails_sent_total": 4,
    "emails_sent_today": 4,
    "cold_sent_total": 4,
-   "people_replied": 0,
+   "people_replied": 1,
    "bounces_total": 0,
-   "reply_rate": 0.0,
+   "reply_rate": 0.25,
    "bounce_rate": 0.0,
    "applied_total": 1,
    "referrals_sent": 0,

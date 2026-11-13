@@ -4083,7 +4083,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-13T17:28:31+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -4143,9 +4143,15 @@
      "actor": "send-track",
      "event": "drafted",
      "detail": "cold email to  awaiting approval"
+    },
+    {
+     "at": "2026-11-13T17:28:31+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to sumit@maharishibahugygroup.com"
     }
    ],
-   "updated_at": "2026-11-13T14:12:51+05:30"
+   "updated_at": "2026-11-13T17:28:31+05:30"
   },
   {
    "id": "L0036",

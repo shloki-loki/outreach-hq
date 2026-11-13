@@ -11261,8 +11261,8 @@
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 28,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -11272,15 +11272,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "First Founder's Office (Growth & GTM) at Prosessed, ~20-person AI for wholesalers; cold outbound, paid ads, content.",
+    "fit_notes": "JD: build outbound sequences, own CRM pipeline, run Meta/LinkedIn ads, write content. Only Alcheringa sales maps loosely. Asks 1-5 yrs.",
+    "pay_notes": "Not stated.",
+    "culture_notes": "Team of ~20 across Melbourne and India, per the posting.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-13T16:53:41+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -11304,9 +11305,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-13T16:53:41+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 51: rejected (Role is hands-on outbound sales, paid Meta/LinkedIn ads and content for a ~20-person company; none of Shlok's operations facts map, and nothing suggests pay near the floor.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-13T16:53:41+05:30",
+   "reject_reason": "Role is hands-on outbound sales, paid Meta/LinkedIn ads and content for a ~20-person company; none of Shlok's operations facts map, and nothing suggests pay near the floor."
   },
   {
    "id": "L0104",

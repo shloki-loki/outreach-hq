@@ -368,6 +368,15 @@
    "title": "Daily review 2026-11-13",
    "detail": "Agents: lead-scout/scrape last ok 04:00 IST, its 14:15 run failed (stale, I0004); lead-scout ok 14:14; send-track ok 14:14; follow-up/track ok, last 17:41; send-track/send ok 4 times 17:14-17:42; morning digest failed at 15:54 and did not re-run (I0004). Problems: I0001-I0003 leads.json corruption by concurrent write, fixed 16:55 with a store lock (0f06537), confirmed gone; I0004 scout and digest failed on the corrupt file, diagnosed, open; I0005 GitHub schedules hours late or skipped, diagnosed, open; I0006 drafts M0004 and M0007 still waiting on leads Shlok skipped, diagnosed, open. Changes today: store lock and safe writes, Reoon verifier connected, supervisor log and Log page added, mode live. Funnel: 321 found, 73 researched, 57 qualified, 4 cold emails sent + 1 applied, 0 replied, 0 interviews, 0 offers. Reply rate 0% (all sent today), bounce rate 0%. Verifier credits: not reported by the system (free plan 20/day). Needs Shlok: Skip M0004 and M0007; review 6 live drafts (M0006, M0008-M0012); decide AiSteth L0090; re-run scout and digest by hand; import LinkedIn connections.",
    "ref": ""
+  },
+  {
+   "id": "J0042",
+   "at": "2026-11-13T20:14:08+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "3 open issues (I0004 scout/digest failed on corrupt file, I0005 late GitHub schedules, I0006 drafts on skipped leads), 3 confirmed fixed (I0001-I0003), reply rate 0%, bounce rate 0%",
+   "ref": ""
   }
  ]
 }

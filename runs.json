@@ -206,6 +206,13 @@
     "sent": 1,
     "failed": 0
    }
+  },
+  {
+   "at": "2026-11-13T20:14:08+05:30",
+   "agent": "supervisor",
+   "ok": true,
+   "summary": "3 open issues (I0004 scout/digest failed on corrupt file, I0005 late GitHub schedules, I0006 drafts on skipped leads), 3 confirmed fixed (I0001-I0003), reply rate 0%, bounce rate 0%",
+   "stats": {}
   }
  ]
 }

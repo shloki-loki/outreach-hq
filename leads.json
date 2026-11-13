@@ -1906,7 +1906,7 @@
     "hook_source": "",
     "researched_at": null
    },
-   "stage": "qualified",
+   "stage": "skipped",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -1974,9 +1974,15 @@
      "actor": "send-track",
      "event": "drafted",
      "detail": "cold email to  awaiting approval"
+    },
+    {
+     "at": "2026-11-13T18:15:13+05:30",
+     "actor": "shlok",
+     "event": "stage",
+     "detail": "not interested"
     }
    ],
-   "updated_at": "2026-11-13T14:11:49+05:30"
+   "updated_at": "2026-11-13T18:15:13+05:30"
   },
   {
    "id": "L0018",

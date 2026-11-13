@@ -287,6 +287,15 @@
    "title": "Ran",
    "detail": "sent 1, failed 0. nothing approved is waiting",
    "ref": ""
+  },
+  {
+   "id": "J0033",
+   "at": "2026-11-13T20:13:02+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "Morning digest and job-board scout failed today; scrape now 16 hours stale",
+   "detail": "Three scheduled GitHub runs failed on the damaged leads.json (error: Expecting ':' delimiter, line 19601 col 13): Lead scout 43395657994 at 14:15 IST, Track and send 43402564516 at 15:05 IST, Morning digest 43408781439 at 15:54 IST. The file was repaired at about 16:55 and Track and send has run fine since, but scout and digest were not re-run. Result: no morning digest today, and the last good job-board scrape is 04:00 IST (16 hours ago, limit is 8).",
+   "ref": "I0004"
   }
  ]
 }

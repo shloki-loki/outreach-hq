@@ -624,6 +624,22 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("agent"); p.add_argument("--summary", required=True); p.add_argument("--fail", action="store_true")
     p.set_defaults(func=cmd_run_log)
 
+    from . import supervisor
+    p = sub.add_parser("supervisor", help="shared deterministic supervisor report")
+    p.add_argument("--record", action="store_true", help="record health check in shared log")
+    p.set_defaults(func=lambda a: out(supervisor.report(a.record)))
+    p = sub.add_parser("packet", help="assemble existing research, drafts and answers for a lead")
+    p.add_argument("id")
+    p.set_defaults(func=lambda a: out(supervisor.packet(a.id)))
+    p = sub.add_parser("work", help="shared Codex/Claude ownership and handoff queue")
+    p.add_argument("action", choices=["list", "add", "claim", "assign", "release", "done"])
+    p.add_argument("--id"); p.add_argument("--lead"); p.add_argument("--kind", choices=supervisor.KINDS)
+    p.add_argument("--owner", choices=supervisor.WORKERS)
+    p.add_argument("--title", default=""); p.add_argument("--detail", default=""); p.add_argument("--ref", default="")
+    p.set_defaults(func=lambda a: out(supervisor.queue(a.action, ident=a.id, kind=a.kind, lead=a.lead,
+        owner=a.owner or (supervisor.routing().get(a.kind) if a.action == "add" else None),
+        title=a.title, detail=a.detail, ref=a.ref)))
+
     args = parser.parse_args(argv)
     try:
         args.func(args)

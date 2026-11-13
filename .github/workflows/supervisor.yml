@@ -1,0 +1,24 @@
+name: Supervisor checks
+on:
+  schedule:
+    - cron: '15 3,9,15 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: supervisor-checks
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m outreach supervisor --record

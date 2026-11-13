@@ -31,6 +31,7 @@ BRANCH = "data"
 T = TypeVar("T")
 
 DEFAULTS: dict[str, Any] = {
+    "work": {"items": []},
     "leads": {"leads": []},
     "messages": {"messages": []},
     "connections": {"imported_at": None, "connections": []},

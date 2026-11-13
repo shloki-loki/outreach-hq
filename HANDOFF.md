@@ -110,7 +110,18 @@ approve, skip, approve several), Progress (funnel, reply and bounce rates, by so
 Local `.env` (gitignored) has the Gmail pair, `SITE_URL` and `REOON_API_KEY`. **GitHub does not yet have
 `REOON_API_KEY` or an Apify token**; both are needed for section 6.
 
-## 4. Where things stand (2026-11-13 evening)
+## 4. Where things stand
+
+### 2026-11-14 shared supervisor update (branch implementation; rollout pending)
+
+Read SUPERVISOR.md first for cross-model ownership, changes, commands and current dependencies.
+Implemented work queue with claims and handoffs, configurable preferred owners, packet assembly,
+deterministic GitHub supervisor workflow and PR test trigger. No model workers were connected and no
+Claude desktop schedules were changed. Codex is the preferred owner for new queued research/writing;
+Claude remains the existing scheduled worker until a replacement is verified. Both models accept user
+issues as supervisor and share improvements via PRs, the work queue and journal.
+
+### Historical snapshot: 2026-11-13 evening
 
 - 321 leads: 248 not yet researched, 46 qualified and untouched, 13 rejected, 4 contacted, 1 applied.
   Sources: LinkedIn job search 125, Instahyre 62, old tracker of LinkedIn hiring posts 58, YC 45, Ashby 17,
@@ -129,6 +140,8 @@ Local `.env` (gitignored) has the Gmail pair, `SITE_URL` and `REOON_API_KEY`. **
   email list he will provide (companies with no opening) for the speculative track.
 
 ## 5. What has been done so far
+
+- 2026-11-14: Shared supervisor implementation prepared; see SUPERVISOR.md for validation and rollout boundaries.
 
 1. Built the pipeline, data store, website and five agent definitions; imported 58 roles from his old
    tracker and a do-not-email list; went live on Vercel and GitHub Actions (2026-11-12).
@@ -225,6 +238,9 @@ note (at most 200 characters) and a message / InMail (40-80 words). Rules are in
 
 ### E. Move research and writing to GitHub, off Claude, without losing quality
 
+Coordination foundation implemented 2026-11-14. Hosted model workers, website packet UI, approved-answer
+library and 20-packet quality/time evaluation remain pending. Existing schedules must not be removed yet.
+
 Today research, drafting, follow-up drafting and the supervisor are Claude scheduled tasks on his Mac. He
 wants every scheduled job on GitHub and nothing drawing on his Claude plan. The mechanical parts (B, C, D's
 search, verification, sending, tracking) are plain code. The judgement parts need a model:
@@ -236,7 +252,7 @@ search, verification, sending, tracking) are plain code. The judgement parts nee
   consistency); a model only helps summarise.
 
 Options for a model on GitHub at no cost, **none verified yet** (verify limits and terms before building):
-GitHub Models with the workflow's own token, or a free API tier such as Google Gemini's. Running Claude
+GitHub Models is retired (official docs checked 2026-11-14), so do not build on that option. A free API tier such as Google's requires fresh verification. Running Claude
 itself on GitHub with his subscription token would still draw on his plan, which is what he wants to avoid.
 
 Design that protects quality regardless of the model:

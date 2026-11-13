@@ -68,3 +68,9 @@ Write in plain words with the specifics: times, ids, numbers. A reader should no
 
 End with a short report for Shlok: what is healthy, what broke and its remedy, the numbers, and the one or two
 things only he can do (for example approve drafts, renew a key, sign in somewhere).
+
+## Shared coordination
+
+Before taking work, read `SUPERVISOR.md`, inspect `work list`, and claim the relevant item as claude.
+Respect active Codex claims. Reuse `packet <lead>`; record completion or release with evidence.
+The same supervisor protocol applies regardless of which model receives Shlok's request.

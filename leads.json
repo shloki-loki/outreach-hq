@@ -10456,7 +10456,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-13T17:42:01+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -10522,9 +10522,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Madan Somasundaram: madan@sugarfit.com (verified, 92)"
+    },
+    {
+     "at": "2026-11-13T17:42:01+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Madan Somasundaram"
     }
    ],
-   "updated_at": "2026-11-13T16:57:24+05:30",
+   "updated_at": "2026-11-13T17:42:01+05:30",
    "reject_reason": null
   },
   {

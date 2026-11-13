@@ -188,6 +188,15 @@
    "title": "Sugar.fit: founder address verified on the right domain",
    "detail": "Reoon returned invalid for madan@, madan.somasundaram@ and madansomasundaram@sugar.fit. The company's mail runs on sugarfit.com; madan@sugarfit.com is valid. Lead L0095 and draft M0005 now use it.",
    "ref": "L0095"
+  },
+  {
+   "id": "J0022",
+   "at": "2026-11-13T17:06:42+05:30",
+   "by": "session",
+   "kind": "note",
+   "title": "Leucine cannot be verified",
+   "detail": "leucine.io accepts mail for any address (catch-all), so no service can confirm vivek@leucine.io. Draft M0004 stays graded catch-all and counts against the limit of 2 unverified sends a day.",
+   "ref": "L0096"
   }
  ]
 }

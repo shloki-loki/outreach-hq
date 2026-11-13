@@ -350,6 +350,15 @@
    "title": "Supervisor 20:11 check: earlier issues I0001-I0003 confirmed fixed",
    "detail": "leads.json parses (lead list returns 321 leads); data branch commits since 16:55 are clean, one writer at a time, no repair: commits, no large deletions, no same-second interleaving. Track and send ran 4 times between 17:14 and 17:42 IST and sent M0003, M0013, M0001, M0005 with 0 failures. Nothing stuck in sending, nothing failed, no approved message waiting. Site https://outreach-hq-psi.vercel.app/login answers with the password page.",
    "ref": ""
+  },
+  {
+   "id": "J0040",
+   "at": "2026-11-13T20:13:53+05:30",
+   "by": "supervisor",
+   "kind": "note",
+   "title": "Pipeline backlog and pending items",
+   "detail": "248 of 321 leads are still 'new' (not researched). Zamp L0105 qualified at 73 with no people found yet (qualified today, inside the 2-day limit). AiSteth L0090 still rejected at 64 vs cut-off 65; waiting on Shlok's call. PayPal L0164/L0167 share a title but are Bengaluru and Chennai postings, not duplicates. Shlok marked L0034 applied at 18:09. LinkedIn connections not imported (doctor TODO: 0 connections), so no referral notes can be drafted. Verifier credit use is not reported by any command; Reoon free plan is 20 checks a day.",
+   "ref": ""
   }
  ]
 }

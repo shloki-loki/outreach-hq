@@ -9816,8 +9816,8 @@
    "key": "aisteth|chief of staff|bengaluru",
    "type": "job",
    "company": "AiSteth",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "aihighway.org",
+   "company_url": "https://aisteth.com",
    "company_linkedin": "https://www.linkedin.com/company/ai-health-highway",
    "company_note": "",
    "title": "Chief of Staff",
@@ -9855,8 +9855,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 55,
+    "total": 64,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -9866,15 +9866,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Chief of Staff to AiSteth's founder (AI stethoscope, ~$1.5M raised, pre-Series A); asks 2-4 yrs incl. founder's office or S&O.",
+    "fit_notes": "LinkedIn post by the founder, opened 2026-11-13 (1 day old, 200+ applicants). Needs: run CEO operating rhythm, OKRs/MBRs/board pack, fundraising data room, cross-team coordination incl. hardware. Maps: CEO/COO partnership at Ola Electric (ceo-coo), S&OP and working-capital planning (sop), hardware launch planning for Bharat Cell/Shakti (cell). Gaps: 2-4 yrs asked (stretch); no healthcare background (a plus, not required). On-site with travel.",
+    "pay_notes": "Only 'competitive startup compensation with ESOPs'. No salary data found; at ~$1.5M total raised (CB Insights) the floor is uncertain.",
+    "culture_notes": "Ai Health Highway, IISc SID incubatee; Turbostart-led ~$1M pre-Series A in Oct 2024 with Rainmatter (Entrackr). Posting cites US FDA 510(k) Class II clearance and 160,000+ patients screened. Founder Dr (Maj) Satish S Jeevannavar.",
+    "hook": "AiSteth holds US FDA 510(k) Class II clearance and has screened 160,000+ patients across 20+ states, and is now heading toward a Series A.",
+    "hook_source": "https://in.linkedin.com/jobs/view/chief-of-staff-at-aisteth-4489081111",
+    "researched_at": "2026-11-13T16:53:13+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -9898,9 +9899,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-13T16:53:13+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 64: rejected (score 64 is under 65)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-13T16:53:13+05:30",
+   "reject_reason": "score 64 is under 65"
   },
   {
    "id": "L0091",

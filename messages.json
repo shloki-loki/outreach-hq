@@ -299,6 +299,31 @@
    "thread_parent": null,
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0013",
+   "lead_id": "L0035",
+   "contact_id": "C2",
+   "to": "sumit@maharishibahugygroup.com",
+   "to_name": "",
+   "kind": "cold",
+   "subject": "Founder's Office role, AI company in Noida",
+   "body": "Hi Sumit,\n\nYour client's Founder's Office hire would take a new product or business vertical from first business case to execution, testing early prototypes with AI tools along the way. I have not worked in consulting, but I have owned that arc end to end: at Ola Electric I designed the Minimum Stock Limit program that moved the company from make-to-order to stock-and-sell, and at InsuranceDekho I built a Flask REST API with a Chrome extension that cut response times by 40%.\n\nI would like to be considered for the role at your AI client in Noida. If consulting is a hard filter, a one-line no is fine; otherwise, could we speak for 15 minutes this week?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "published",
+   "speculative": false,
+   "hook": "Sumit's post: the Founder's Office hire finds and prioritises new product and business verticals, builds business cases, and tests early prototypes with AI tools",
+   "hook_source": "https://www.linkedin.com/posts/sumitabhishek_hiring-founder-opportunity-activity-7523278835774119937-BtE4",
+   "attach_resume": true,
+   "created_at": "2026-11-13T14:12:51+05:30",
+   "created_by": "send-track",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": null,
+   "error": null,
+   "reply": null
   }
  ]
 }

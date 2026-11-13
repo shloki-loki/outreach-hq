@@ -30429,7 +30429,7 @@
    "key": "explorex|founders office product manager|bengaluru",
    "type": "job",
    "company": "Explorex",
-   "company_domain": "",
+   "company_domain": "explorex.co",
    "company_url": "https://explorex.co",
    "company_linkedin": "https://www.linkedin.com/company/explorexinc",
    "company_note": "YC Summer 2020 · team of 25 · Ecosystem Platform for Restaurants in India",
@@ -30459,17 +30459,17 @@
    "exp_text": "1+ years experience",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "Rs 1.2M-1.5M",
+    "min_lpa": 12,
+    "max_lpa": 15,
+    "basis": "stated",
+    "source": "YC job page",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 81,
-    "research": null,
-    "total": 81,
+    "research": 25,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -30478,15 +30478,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office PM at Explorex (YC S20, 25 people, restaurant OS); YC lists Rs 12-15L, under your floor.",
+    "fit_notes": "YC page opened 2026-11-13: header 1+ yrs, requirements 2+ yrs PM; on-field user research. Product facts (idekho) partially map.",
+    "pay_notes": "Stated on YC jobs page.",
+    "culture_notes": "YC S20, team 25, says it operates at breakeven (posting).",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-13T16:54:02+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -30537,9 +30538,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 81"
+    },
+    {
+     "at": "2026-11-13T16:54:02+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 47: rejected (Stated salary Rs 12-15L on the YC listing, well under the Rs 24.5L floor; also asks 2+ yrs product management.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-13T16:54:02+05:30",
+   "reject_reason": "Stated salary Rs 12-15L on the YC listing, well under the Rs 24.5L floor; also asks 2+ yrs product management."
   },
   {
    "id": "L0303",

@@ -81,7 +81,7 @@
    "opened_at": "2026-11-13T20:13:33+05:30",
    "last_seen": "2026-11-13T20:13:33+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: setting a lead's stage to skipped on the site changes only the lead, not its waiting drafts. Remedy now: Shlok presses Skip on M0004 and M0007 on the Approvals page. Code fix (left for Shlok, not made in a scheduled run): when a lead moves to skipped or rejected, mark its draft and approved messages skipped with reason 'lead skipped', and add a test for it.",
    "resolved_at": null
   }
  ],

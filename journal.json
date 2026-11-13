@@ -314,6 +314,15 @@
    "title": "GitHub scheduled workflows run hours late or are dropped",
    "detail": "Morning digest is set for 03:00 UTC (08:30 IST) but ran at 10:24 UTC, 7.4 hours late. Lead scout's 06:40 UTC slot ran at 08:45 UTC. Track and send is set every 2 hours (02:20-16:20 UTC) but no scheduled run appears for the 10:20 or 12:20 UTC slots; the four successful runs after 11:44 UTC were all manual (workflow_dispatch). Yesterday's 16:20 UTC Track and send ran at 22:16 UTC. With hourly delays the digest arrives in the afternoon and approved emails can wait hours before sending.",
    "ref": "I0005"
+  },
+  {
+   "id": "J0036",
+   "at": "2026-11-13T20:13:27+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: GitHub scheduled workflows run hours late or are dropped",
+   "detail": "Cause: GitHub Actions cron on a free account is best-effort; under load it delays or skips scheduled runs, worst on a new repo with little activity. Remedy (for Shlok to choose): trigger the workflows from an external scheduler (e.g. a cron-job.org call or the Mac's launchd running 'gh workflow run'), or move the digest cron earlier so a late run still lands in the morning. Until then, after approving emails press Run workflow on 'Track and send' to send them right away.",
+   "ref": "I0005"
   }
  ]
 }

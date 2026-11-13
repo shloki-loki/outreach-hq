@@ -206,6 +206,15 @@
    "title": "AiSteth missed the qualify bar by one point",
    "detail": "The scout judged L0090 worth pursuing, but its total score is 64 against a cut-off of 65, so it is stored as rejected. Shlok to decide whether to put it back.",
    "ref": "L0090"
+  },
+  {
+   "id": "J0024",
+   "at": "2026-11-13T17:07:32+05:30",
+   "by": "session",
+   "kind": "update",
+   "title": "Log page added to the site; supervisor writes a daily review",
+   "detail": "New Log tab shows this record with filters for problems and fixes, changes, and agent runs. The supervisor's instructions and its 20:10 schedule now require a diagnosis for every problem and a daily review entry. Every agent is told to report anything unusual here.",
+   "ref": "762c5b6"
   }
  ]
 }

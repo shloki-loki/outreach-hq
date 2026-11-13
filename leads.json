@@ -4364,7 +4364,7 @@
     "hook_source": "",
     "researched_at": null
    },
-   "stage": "qualified",
+   "stage": "skipped",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -4418,9 +4418,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 3 (2026-11-09) as R37"
+    },
+    {
+     "at": "2026-11-13T18:12:43+05:30",
+     "actor": "shlok",
+     "event": "stage",
+     "detail": "not interested"
     }
    ],
-   "updated_at": "2026-11-12T21:57:17+05:30"
+   "updated_at": "2026-11-13T18:12:43+05:30"
   },
   {
    "id": "L0038",

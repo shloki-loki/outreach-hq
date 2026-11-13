@@ -44,10 +44,11 @@
    "leads_total": 321,
    "by_status": {
     "qualified": 48,
-    "to_approve": 11,
+    "to_approve": 9,
     "rejected": 13,
-    "contacted": 1,
-    "new": 248
+    "contacted": 2,
+    "new": 248,
+    "skipped": 1
    },
    "by_source": {
     "linkedin_post": 58,
@@ -64,12 +65,12 @@
     "4 - Other": 4,
     "3 - APM / Analyst": 10
    },
-   "qualified_total": 60,
+   "qualified_total": 59,
    "researched_total": 73,
    "with_email_total": 18,
-   "emails_sent_total": 1,
-   "emails_sent_today": 1,
-   "cold_sent_total": 1,
+   "emails_sent_total": 2,
+   "emails_sent_today": 2,
+   "cold_sent_total": 2,
    "people_replied": 0,
    "bounces_total": 0,
    "reply_rate": 0.0,
@@ -78,7 +79,7 @@
    "referrals_sent": 0,
    "interviews": 0,
    "offers": 0,
-   "to_approve": 11,
+   "to_approve": 10,
    "followups_due": 0,
    "new_leads_7d": 321
   }

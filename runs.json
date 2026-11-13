@@ -87,6 +87,13 @@
    "ok": true,
    "summary": "7 emails drafted (L0017 WarpDrive, L0014 Helium Air, L0019 Ghost Kitchens, L0024 GBG, L0016 Vianaar, L0048 Deccan AI, L0035 Noida AI via recruiter), 0 referral notes, 0 application kits. Skipped: L0085 Sarvam (CEO on do-not-email), L0050 (needs CS B.Tech or MBA), L0022 (intern role, no COO address), L0029 (same person as L0024), L0032 (address misspelt, only a guess). Stopped early: leads.json was truncated by concurrent commit 015cf9d, so referral and application steps could not run; see issue.",
    "stats": {}
+  },
+  {
+   "at": "2026-11-13T14:14:52+05:30",
+   "agent": "lead-scout",
+   "ok": true,
+   "summary": "12 researched (2 qualify by judgment: Zamp L0105, AiSteth L0090; 10 rejected), only L0090-L0092 saved before leads.json was corrupted by a concurrent write (commit 015cf9d); remaining research saved in pending-research/2026-11-13; 0 emails found; no Apify used",
+   "stats": {}
   }
  ]
 }

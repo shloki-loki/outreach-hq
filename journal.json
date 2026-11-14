@@ -1088,6 +1088,15 @@
    "title": "Schedule check 14 Nov: Track and send skipped 3 slots, others in limits",
    "detail": "Checked at 20:11 IST with gh run list (shloki-loki/outreach-hq, last 25 runs) and status. lead-scout/scrape last ok 13:33 IST (6.6 h, within 8 h). follow-up/digest ran 15:12 IST (GitHub run 43581774051 at 09:41 UTC, 6.7 h after its 03:00 UTC slot). follow-up/track last 15:48 IST, 4h23m old (over the 4 h limit) because the 10:20, 12:20 and 14:20 UTC Track and send slots never fired. lead-scout 15:25, send-track 15:23, follow-up 12:26 all ran today. No failed GitHub runs; six Track and send runs at 10:09 UTC were cancelled within 5-25 s, which is the workflow's concurrency group cancelling duplicate manual dispatches, not a fault. Recorded against I0005.",
    "ref": ""
+  },
+  {
+   "id": "J0122",
+   "at": "2026-11-14T20:13:19+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "16 live-check runs 18:59-19:03 were a re-verification, not a loop",
+   "detail": "Log J0087-J0110 show 16 live-check runs in 4 minutes. git -C data show 2605ce1 and 396265a: each lead binned by the 18:46 run was reopened (lead set --reopen) and checked again alone; e.g. L0338 StoreHQ binned 18:46 for HTTP 404, reopened 19:03:08, binned again 19:03:15 for the same 404. End state: 16 leads in the Bin (L0356, L0067, L0331, L0111, L0120, L0133, L0171, L0307, L0338, L0108, L0345, L0248, L0097, L0102, L0175, L0306), none qualified or contacted, none with a waiting draft. No collided writes: 178 data commits since the last review, no repair/merge commits, no duplicate timestamps, no mass deletions.",
+   "ref": ""
   }
  ]
 }

@@ -303,3 +303,7 @@ to `.env` (he fills in the secrets). The site: `cd web && npm install && DATA_DI
 - The LinkedIn-notes card on the lead page has been built but not seen with real data.
 
 Rollout: PR #1 merged; GitHub supervisor run 43584199808 succeeded. Website packet added in follow-on PR; see SUPERVISOR.md for current limits.
+
+## Founder re-outreach (Nov 15)
+
+Imported 1,353 unverified contacts across 644 speculative company leads after excluding two Beltech addresses. Up to 60 approved first emails daily and 10 separate follow-ups, with the cycle checking hourly from 08:20 to 20:20 IST. Existing verification and suppression rules apply. Review prior replies before re-contact.

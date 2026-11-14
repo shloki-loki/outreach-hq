@@ -122,7 +122,13 @@
      "detail": "application submitted"
     }
    ],
-   "updated_at": "2026-11-14T15:37:43+05:30"
+   "updated_at": "2026-11-14T15:37:43+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0002",
@@ -257,7 +263,13 @@
      "detail": "application answers prepared"
     }
    ],
-   "updated_at": "2026-11-14T15:14:05+05:30"
+   "updated_at": "2026-11-14T15:14:05+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0003",
@@ -370,7 +382,13 @@
      "detail": "from tracker batch 2 (2026-11-01) as R25"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0004",
@@ -488,7 +506,13 @@
      "detail": "from tracker batch 2 (2026-11-01) as R26"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0005",
@@ -601,7 +625,13 @@
      "detail": "from tracker batch 2 (2026-11-01) as R27"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0006",
@@ -750,7 +780,13 @@
      "detail": "application answers prepared"
     }
    ],
-   "updated_at": "2026-11-14T15:14:08+05:30"
+   "updated_at": "2026-11-14T15:14:08+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0007",
@@ -863,7 +899,13 @@
      "detail": "from tracker batch 2 (2026-11-01) as R29"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0008",
@@ -976,7 +1018,12 @@
      "detail": "from tracker batch 2 (2026-11-01) as R30"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0009",
@@ -1089,7 +1136,12 @@
      "detail": "from tracker batch 2 (2026-11-01) as R31"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0010",
@@ -1202,7 +1254,12 @@
      "detail": "from tracker batch 2 (2026-11-01) as R32"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "HTTP 401 for https://docs.google.com/forms/d/e/1FAIpQLSculBC-aynbjwJ06B96xiTqdSeSCSE3m4d_Kiq7NY8KSrqA0w/viewform"
+   }
   },
   {
    "id": "L0011",
@@ -1315,7 +1372,12 @@
      "detail": "from tracker batch 2 (2026-11-01) as R33"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0012",
@@ -1433,7 +1495,13 @@
      "detail": "from tracker batch 1 (2026-10-28) as R01"
     }
    ],
-   "updated_at": "2026-11-14T15:14:14+05:30"
+   "updated_at": "2026-11-14T15:14:14+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0013",
@@ -1546,7 +1614,13 @@
      "detail": "from tracker batch 1 (2026-10-28) as R02"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0014",
@@ -1684,7 +1758,12 @@
      "detail": "cold email to hr@heliumair.in"
     }
    ],
-   "updated_at": "2026-11-14T15:41:29+05:30"
+   "updated_at": "2026-11-14T15:41:29+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0015",
@@ -1797,7 +1876,12 @@
      "detail": "from tracker batch 1 (2026-10-28) as R04"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0016",
@@ -1935,7 +2019,12 @@
      "detail": "cold email to shivam.balve@vianaar.com"
     }
    ],
-   "updated_at": "2026-11-14T15:46:28+05:30"
+   "updated_at": "2026-11-14T15:46:28+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0017",
@@ -2192,7 +2281,13 @@
      "detail": "from tracker batch 1 (2026-10-28) as R07"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0019",
@@ -2330,7 +2425,12 @@
      "detail": "cold email to aryan@ghostkitchensindia.com"
     }
    ],
-   "updated_at": "2026-11-14T15:43:31+05:30"
+   "updated_at": "2026-11-14T15:43:31+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0020",
@@ -2443,7 +2543,12 @@
      "detail": "from tracker batch 1 (2026-10-28) as R09"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0021",
@@ -2569,7 +2674,12 @@
      "detail": "from tracker batch 1 (2026-10-28) as R10"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0022",
@@ -2723,7 +2833,12 @@
      "detail": "cold email to Kanika Dang"
     }
    ],
-   "updated_at": "2026-11-14T15:48:11+05:30"
+   "updated_at": "2026-11-14T15:48:11+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0023",
@@ -2836,7 +2951,13 @@
      "detail": "from tracker batch 1 (2026-10-28) as R12"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0024",
@@ -2974,7 +3095,12 @@
      "detail": "cold email to akash.ceo@gbgev.com"
     }
    ],
-   "updated_at": "2026-11-14T15:44:55+05:30"
+   "updated_at": "2026-11-14T15:44:55+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0025",
@@ -3087,7 +3213,13 @@
      "detail": "from tracker batch 1 (2026-10-28) as R14"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0026",
@@ -3200,7 +3332,12 @@
      "detail": "from tracker batch 1 (2026-10-28) as R15"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0027",
@@ -3313,7 +3450,12 @@
      "detail": "from tracker batch 1 (2026-10-28) as R16"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0028",
@@ -3426,7 +3568,13 @@
      "detail": "from tracker batch 1 (2026-10-28) as R17"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0029",
@@ -3557,7 +3705,12 @@
      "detail": "from tracker batch 1 (2026-10-28) as R18"
     }
    ],
-   "updated_at": "2026-11-13T14:13:44+05:30"
+   "updated_at": "2026-11-13T14:13:44+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0030",
@@ -3670,7 +3823,13 @@
      "detail": "from tracker batch 1 (2026-10-28) as R19"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0031",
@@ -3783,7 +3942,12 @@
      "detail": "from tracker batch 1 (2026-10-28) as R20"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0032",
@@ -3931,7 +4095,12 @@
      "detail": "Ragina N.: ragina@haystackanalytics.in (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-14T15:23:05+05:30"
+   "updated_at": "2026-11-14T15:23:05+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0033",
@@ -4044,7 +4213,13 @@
      "detail": "from tracker batch 1 (2026-10-28) as R22"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0034",
@@ -4163,7 +4338,13 @@
      "detail": "application submitted"
     }
    ],
-   "updated_at": "2026-11-13T18:09:56+05:30"
+   "updated_at": "2026-11-13T18:09:56+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0035",
@@ -4468,7 +4649,12 @@
      "detail": "cold email to hello@carbontrail.net"
     }
    ],
-   "updated_at": "2026-11-13T17:14:17+05:30"
+   "updated_at": "2026-11-13T17:14:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0037",
@@ -4710,7 +4896,12 @@
      "detail": "from tracker batch 3 (2026-11-09) as R38"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0039",
@@ -4828,7 +5019,12 @@
      "detail": "from tracker batch 3 (2026-11-09) as R39"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0040",
@@ -4941,7 +5137,12 @@
      "detail": "from tracker batch 3 (2026-11-09) as R40"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "apply link is not a usable URL: https://lnkd.in/gNCQmxyV (didn't resolve in a script; open in browser)"
+   }
   },
   {
    "id": "L0041",
@@ -5054,7 +5255,12 @@
      "detail": "from tracker batch 3 (2026-11-09) as R41"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0042",
@@ -5167,7 +5373,12 @@
      "detail": "from tracker batch 3 (2026-11-09) as R42"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0043",
@@ -5280,7 +5491,13 @@
      "detail": "from tracker batch 3 (2026-11-09) as R43"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0044",
@@ -5393,7 +5610,12 @@
      "detail": "from tracker batch 3 (2026-11-09) as R44"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "apply link is not a usable URL: https://forms.gle/bugG8CktXaS6hL7K8 (from Rajat Kumar Jain's reshare)"
+   }
   },
   {
    "id": "L0045",
@@ -5506,7 +5728,12 @@
      "detail": "from tracker batch 3 (2026-11-09) as R45"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0046",
@@ -5619,7 +5846,12 @@
      "detail": "from tracker batch 3 (2026-11-09) as R46"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0047",
@@ -5732,7 +5964,12 @@
      "detail": "from tracker batch 3 (2026-11-09) as R47"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0048",
@@ -5870,7 +6107,12 @@
      "detail": "cold email to careers@deccan.ai"
     }
    ],
-   "updated_at": "2026-11-14T15:47:44+05:30"
+   "updated_at": "2026-11-14T15:47:44+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0049",
@@ -6015,7 +6257,12 @@
      "detail": "cold email to Jagadeesh Kunda"
     }
    ],
-   "updated_at": "2026-11-13T17:39:15+05:30"
+   "updated_at": "2026-11-13T17:39:15+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0050",
@@ -6146,7 +6393,12 @@
      "detail": "from tracker batch 4 (2026-11-12) as R50"
     }
    ],
-   "updated_at": "2026-11-13T14:13:30+05:30"
+   "updated_at": "2026-11-13T14:13:30+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0051",
@@ -6259,7 +6511,12 @@
      "detail": "from tracker batch 4 (2026-11-12) as R51"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0052",
@@ -6372,7 +6629,12 @@
      "detail": "from tracker batch 4 (2026-11-12) as R52"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0053",
@@ -6490,7 +6752,12 @@
      "detail": "from tracker batch 4 (2026-11-12) as R53"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "apply link is not a usable URL: https://lnkd.in/d8Tz6Meu (didn't resolve in a script; open in browser)"
+   }
   },
   {
    "id": "L0054",
@@ -6603,7 +6870,12 @@
      "detail": "from tracker batch 4 (2026-11-12) as R54"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0055",
@@ -6716,7 +6988,12 @@
      "detail": "from tracker batch 4 (2026-11-12) as R55"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0056",
@@ -6829,7 +7106,12 @@
      "detail": "from tracker batch 4 (2026-11-12) as R56"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0057",
@@ -6980,7 +7262,12 @@
      "detail": "cold email to Rajalakshmi Subramanian"
     }
    ],
-   "updated_at": "2026-11-14T15:39:37+05:30"
+   "updated_at": "2026-11-14T15:39:37+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0058",
@@ -7098,7 +7385,12 @@
      "detail": "from tracker batch 4 (2026-11-12) as R58"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-12T20:56:06+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a LinkedIn post with no outside apply link; it needs a signed-in look"
+   }
   },
   {
    "id": "L0059",
@@ -7190,7 +7482,12 @@
      "detail": "greenhouse: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0060",
@@ -7284,7 +7581,12 @@
      "detail": "greenhouse: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0061",
@@ -7376,7 +7678,12 @@
      "detail": "greenhouse: rule score 65"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0062",
@@ -7468,7 +7775,12 @@
      "detail": "greenhouse: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0063",
@@ -7559,7 +7871,12 @@
      "detail": "greenhouse: rule score 65"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0064",
@@ -7652,7 +7969,12 @@
      "detail": "greenhouse: rule score 62"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0065",
@@ -7744,7 +8066,12 @@
      "detail": "greenhouse: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0066",
@@ -7836,7 +8163,12 @@
      "detail": "greenhouse: rule score 53"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0067",
@@ -8037,7 +8369,12 @@
      "detail": "lever: rule score 56"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0069",
@@ -8131,7 +8468,12 @@
      "detail": "lever: rule score 65"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0070",
@@ -8224,7 +8566,12 @@
      "detail": "lever: rule score 56"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0071",
@@ -8316,7 +8663,12 @@
      "detail": "lever: rule score 53"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0072",
@@ -8408,7 +8760,12 @@
      "detail": "lever: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0073",
@@ -8500,7 +8857,12 @@
      "detail": "ashby: rule score 52"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0074",
@@ -8593,7 +8955,12 @@
      "detail": "ashby: rule score 68"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0075",
@@ -8686,7 +9053,12 @@
      "detail": "ashby: rule score 68"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0076",
@@ -8778,7 +9150,12 @@
      "detail": "ashby: rule score 52"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0077",
@@ -8871,7 +9248,12 @@
      "detail": "ashby: rule score 57"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0078",
@@ -8965,7 +9347,12 @@
      "detail": "ashby: rule score 53"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0079",
@@ -9058,7 +9445,12 @@
      "detail": "ashby: rule score 56"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0080",
@@ -9151,7 +9543,12 @@
      "detail": "ashby: rule score 56"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0081",
@@ -9244,7 +9641,12 @@
      "detail": "ashby: rule score 59"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0082",
@@ -9337,7 +9739,12 @@
      "detail": "ashby: rule score 59"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0083",
@@ -9430,7 +9837,12 @@
      "detail": "ashby: rule score 47"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0084",
@@ -9523,7 +9935,12 @@
      "detail": "ashby: rule score 59"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0085",
@@ -9677,7 +10094,13 @@
     }
    ],
    "updated_at": "2026-11-14T15:14:02+05:30",
-   "reject_reason": null
+   "reject_reason": null,
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0086",
@@ -9768,7 +10191,12 @@
      "detail": "ashby: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0087",
@@ -9860,7 +10288,12 @@
      "detail": "ashby: rule score 53"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0088",
@@ -9952,7 +10385,12 @@
      "detail": "ashby: rule score 65"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0089",
@@ -10044,7 +10482,12 @@
      "detail": "ashby: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0090",
@@ -10144,7 +10587,12 @@
     }
    ],
    "updated_at": "2026-11-13T16:53:13+05:30",
-   "reject_reason": "score 64 is under 65"
+   "reject_reason": "score 64 is under 65",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0091",
@@ -10244,7 +10692,12 @@
     }
    ],
    "updated_at": "2026-11-13T16:53:17+05:30",
-   "reject_reason": "Generic CoS posting from an early agribusiness with no stated years, pay or funding; nothing verifiable about the company to justify outreach."
+   "reject_reason": "Generic CoS posting from an early agribusiness with no stated years, pay or funding; nothing verifiable about the company to justify outreach.",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0092",
@@ -10344,7 +10797,12 @@
     }
    ],
    "updated_at": "2026-11-13T14:13:40+05:30",
-   "reject_reason": "Requires 2+ yrs tier-1 consulting and an MBA from a tier-1 institute; Shlok has neither (never_claim)."
+   "reject_reason": "Requires 2+ yrs tier-1 consulting and an MBA from a tier-1 institute; Shlok has neither (never_claim).",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0093",
@@ -10444,7 +10902,12 @@
     }
    ],
    "updated_at": "2026-11-13T16:53:21+05:30",
-   "reject_reason": "Role is SEO/online-visibility growth on US hours for recent grads; Shlok's operations facts do not map and pay is 'industry standards'."
+   "reject_reason": "Role is SEO/online-visibility growth on US hours for recent grads; Shlok's operations facts do not map and pay is 'industry standards'.",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0094",
@@ -10599,7 +11062,12 @@
     }
    ],
    "updated_at": "2026-11-13T16:53:26+05:30",
-   "reject_reason": "Weekday's own YC listing for this Founder's Office role states Rs 12-15L cash plus ESOPs, under the floor."
+   "reject_reason": "Weekday's own YC listing for this Founder's Office role states Rs 12-15L cash plus ESOPs, under the floor.",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0095",
@@ -10749,7 +11217,13 @@
     }
    ],
    "updated_at": "2026-11-13T17:42:01+05:30",
-   "reject_reason": null
+   "reject_reason": null,
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0096",
@@ -10936,7 +11410,7 @@
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "Job Title: Manager – Business Integration | CEO Office \n Yelahanka, Bangalore\n Budget: 36 Lacs (All Inclusive)\n Job Overview \n We are looking for a highly organised and strategic professional to work closely with the CEO, supporting executive management, business integration, strategic initiatives and cross-functional coordination.\n The role requires strong capabilities in management reviews, business planning, performance monitoring, stakeholder management and executive communication, ensuring effective implementation of key business priorities.\n Key Responsibilities \n Facilitate management control, reviews and implementation of agreed action plans.\n Coordinate strategic planning, annual operating plan (AOP) reviews and half-yearly reviews.\n Monitor operational matters and key projects being implemented across the organisation.\n Ensure timely and accurate data availability for CEO reviews and management discussions.\n Track action points and follow up with departments to ensure timely closure.\n Monitor implementation of strategic and business initiatives from the CEO's office.\n Provide regular updates on sector developments, industry issues, opportunities and challenges.\n Support special projects and cross-functional business initiatives.\n Identify and escalate critical, urgent, sensitive and confidential matters.\n Support CEO approvals relating to purchase orders, NFA and other business requirements.\n Draft and review executive communications, emails, memos and announcements.\n Prepare briefing documents, management updates and strategic discussion materials.\n Coordinate with department heads and external stakeholders to ensure effective communication and execution.\n Candidate Profile \n MBA or equivalent qualification.\n Minimum 8 years of experience, including at least 4 years assisting CEOs of large organisations.\n Strong exposure to CEO Office operations, business integration and executive coordination.\n Experience in management reviews, strategic planning, AOP and performance monitoring.\n Strong PMO, MIS, data integration and change management capabilities.\n Excellent stakeholder management and communication skills.\n High emotional maturity, integrity and confidentiality.\n Strong analytical, presentation and problem-solving skills.\n Ability to work with senior leadership and manage multiple strategic priorities.\n Location: To be confirmed.\n Interested candidates can share their updated profiles through LinkedIn or at priyap@livecjobs.com",
    "exp_min": 4,
    "exp_max": null,
@@ -11002,10 +11476,26 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 43: rejected (Asks minimum 8 years incl. 4 assisting CEOs, plus an MBA; Shlok has 1.3 years and no MBA.)"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
     }
    ],
-   "updated_at": "2026-11-13T16:53:30+05:30",
-   "reject_reason": "Asks minimum 8 years incl. 4 assisting CEOs, plus an MBA; Shlok has 1.3 years and no MBA."
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "reject_reason": "Asks minimum 8 years incl. 4 assisting CEOs, plus an MBA; Shlok has 1.3 years and no MBA.",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page says \"closed-job__flavor--closed\""
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page says \"closed-job__flavor--closed\"",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0098",
@@ -11110,7 +11600,12 @@
     }
    ],
    "updated_at": "2026-11-13T16:53:33+05:30",
-   "reject_reason": "Pay evidence says it will not reach the floor: AmbitionBox Vedantu Program Manager Rs 6.5-27L across 2-7 yrs (92 salaries), 32% below the India average; this role asks 1-2 yrs."
+   "reject_reason": "Pay evidence says it will not reach the floor: AmbitionBox Vedantu Program Manager Rs 6.5-27L across 2-7 yrs (92 salaries), 32% below the India average; this role asks 1-2 yrs.",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0099",
@@ -11210,7 +11705,12 @@
     }
    ],
    "updated_at": "2026-11-14T15:23:38+05:30",
-   "reject_reason": "score 64 is under 65"
+   "reject_reason": "score 64 is under 65",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0100",
@@ -11302,7 +11802,12 @@
      "detail": "linkedin: rule score 75"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0101",
@@ -11394,7 +11899,12 @@
      "detail": "linkedin: rule score 75"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0102",
@@ -11425,7 +11935,7 @@
    "posted_at": "2026-11-11",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "Executive Assistant (Founder’s Office) \n Location: Bangalore\n Reporting To: Founder\n Experience: 1–2 Years\n Employment Type: Full-Time\n 1. Role Overview \n BrandStory is looking for a proactive, organised, and detail-oriented Executive Assistant to support the Founder’s Office.\n The role involves coordinating daily activities, managing schedules, tracking important tasks, preparing reports, and ensuring smooth communication between the Founder and various teams.\n The ideal candidate should have excellent communication skills, a strong sense of responsibility, good follow-up skills, and the ability to manage multiple tasks efficiently.\n 2. Key Roles and Responsibilities \n A. Founder’s Office Coordination \n Assist the Founder with daily schedules, meetings, appointments, and calendar management.\n Coordinate internal and external meetings.\n Prepare meeting agendas and record minutes of meetings.\n Follow up with team members and department heads on assigned tasks.\n Maintain records of important discussions, decisions, and pending activities.\n B. Task Management and Follow-ups \n Track tasks assigned by the Founder across departments.\n Coordinate with Marketing, SEO, Design, Development, Content, and Video Production teams.\n Monitor task progress, identify delays, and escalate important issues.\n Maintain trackers and dashboards.\n Ensure deadlines and commitments are followed up regularly.\n C. Reports and Documentation \n Prepare daily, weekly, and monthly status reports.\n Assist in preparing presentations, meeting notes, and business documents.\n Collect updates from different teams and consolidate them into summaries.\n Maintain organised project and management documentation.\n D. Communication and Coordination \n Draft professional emails, internal announcements, and follow-up messages.\n Coordinate with internal teams, clients, vendors, and stakeholders.\n Ensure timely communication between the Founder’s Office and departments.\n Handle confidential information responsibly.\n Follow up on pending responses, approvals, and decisions.\n E. Business and Operational Support \n Assist the Founder with routine business operations and administrative activities.\n Coordinate with Finance, HR, Sales, and Project Management teams.\n Track client deliverables, billing updates, and collections.\n Assist with research and competitor analysis.\n Support internal events, leadership meetings, and training sessions.\n F. Organisation and Time Management \n Prioritise tasks based on urgency and instructions from the Founder.\n Manage multiple assignments with accuracy.\n Identify pending approvals and follow-up requirements.\n Take ownership of assigned tasks and provide regular status updates.\n 3. Required Skills and Competencies \n Excellent written and verbal communication skills.\n Strong organisational and coordination skills.\n Good proficiency in MS Excel, Word, PowerPoint, and Google Workspace.\n Familiarity with Monday.com, Trello, or similar task management tools.\n Ability to pre…",
    "exp_min": 1,
    "exp_max": 2,
@@ -11491,10 +12001,26 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 43: rejected (Executive assistant role (calendars, MoMs, follow-ups) at a digital-marketing agency; administrative, not strategy, and unlikely near the pay floor.)"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
     }
    ],
-   "updated_at": "2026-11-13T16:53:37+05:30",
-   "reject_reason": "Executive assistant role (calendars, MoMs, follow-ups) at a digital-marketing agency; administrative, not strategy, and unlikely near the pay floor."
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "reject_reason": "Executive assistant role (calendars, MoMs, follow-ups) at a digital-marketing agency; administrative, not strategy, and unlikely near the pay floor.",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page says \"closed-job__flavor--closed\""
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page says \"closed-job__flavor--closed\"",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0103",
@@ -11594,7 +12120,12 @@
     }
    ],
    "updated_at": "2026-11-13T16:53:41+05:30",
-   "reject_reason": "Role is hands-on outbound sales, paid Meta/LinkedIn ads and content for a ~20-person company; none of Shlok's operations facts map, and nothing suggests pay near the floor."
+   "reject_reason": "Role is hands-on outbound sales, paid Meta/LinkedIn ads and content for a ~20-person company; none of Shlok's operations facts map, and nothing suggests pay near the floor.",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0104",
@@ -11694,7 +12225,12 @@
     }
    ],
    "updated_at": "2026-11-14T15:23:29+05:30",
-   "reject_reason": "Executive Assistant/secretary role, not strategy"
+   "reject_reason": "Executive Assistant/secretary role, not strategy",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0105",
@@ -11845,7 +12381,13 @@
     }
    ],
    "updated_at": "2026-11-14T15:24:53+05:30",
-   "reject_reason": null
+   "reject_reason": null,
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0106",
@@ -11945,7 +12487,12 @@
     }
    ],
    "updated_at": "2026-11-14T15:22:56+05:30",
-   "reject_reason": "Stated pay Rs 15-20 LPA is below the 24.5 LPA floor"
+   "reject_reason": "Stated pay Rs 15-20 LPA is below the 24.5 LPA floor",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0107",
@@ -12042,7 +12589,12 @@
      "detail": "linkedin: rule score 63"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0108",
@@ -12073,7 +12625,7 @@
    "posted_at": "2026-11-10",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "Experience: 3+ Years\n Location: Hyderabad\n Work Mode: On-site (5 Days WFO, Monday to Friday)\n Shift Timings: 9 :00 PM – 6:00 AM (Night Shift)\n Employment Type: Full-Time\n Job Summary \n The Chief of Staff (CoS) serves as a strategic advisor and trusted partner to the CEO, ensuring the seamless execution of high-priority initiatives while optimizing executive operations. This role is responsible for driving cross-functional projects, aligning organizational strategy, enabling effective decision-making, and ensuring the successful execution of the CEO's vision across the organization.\n Key Responsibilities \n Strategic Leadership & Execution \n • Act as a trusted advisor and sounding board to the CEO on key business initiatives.\n • Drive strategic planning, goal setting, and execution of high-priority projects.\n • Ensure alignment between the CEO's vision and company-wide objectives.\n Operational Excellence \n • Oversee day-to-day operations and ensure the smooth execution of CEO-driven initiatives.\n • Identify operational inefficiencies and recommend process improvements across departments.\n • Serve as a bridge between the CEO and senior leadership, ensuring clear communication, collaboration, and accountability.\n Decision Support & Analysis \n • Conduct research, gather business insights, and prepare reports to support executive decision-making.\n • Monitor key business metrics, track organizational performance, and provide data-driven recommendations.\n • Lead special projects and strategic initiatives, ensuring timely execution and measurable impact.\n Stakeholder & Communication Management \n • Represent the CEO in meetings, negotiations, and high-level discussions as required.\n • Act as a liaison between internal teams, board members, investors, and external partners.\n • Draft executive-level presentations, communications, reports, and briefing materials.\n People & Culture Development \n • Partner with HR and business leaders to support organizational growth and strengthen company culture.\n • Drive leadership development initiatives to enhance executive and team effectiveness.\n • Support the hiring, onboarding, and retention of key leadership talent.\n The Chief of Staff is responsible for: \n Strategic planning and execution\n CEO advisory and executive support\n Cross-functional project management\n Operational efficiency and process improvement\n Business analysis and performance tracking\n Executive communications and stakeholder management\n Leadership and culture development\n Organizational alignment and execution of company priorities",
    "exp_min": 3,
    "exp_max": null,
@@ -12132,9 +12684,25 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page says \"closed-job__flavor--closed\""
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page says \"closed-job__flavor--closed\"",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0109",
@@ -12226,7 +12794,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0110",
@@ -12318,7 +12891,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0111",
@@ -12349,7 +12927,7 @@
    "posted_at": "2026-11-11",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -12408,9 +12986,25 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page says \"closed-job__flavor--closed\""
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page says \"closed-job__flavor--closed\"",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0112",
@@ -12503,7 +13097,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0113",
@@ -12595,7 +13194,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0114",
@@ -12687,7 +13291,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0115",
@@ -12779,7 +13388,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0116",
@@ -12871,7 +13485,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0117",
@@ -12963,7 +13582,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0118",
@@ -13063,7 +13687,12 @@
     }
    ],
    "updated_at": "2026-11-14T15:22:59+05:30",
-   "reject_reason": "Asks 12-15 yrs and an MBA"
+   "reject_reason": "Asks 12-15 yrs and an MBA",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0119",
@@ -13155,7 +13784,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0120",
@@ -13186,7 +13820,7 @@
    "posted_at": "2026-11-11",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-14",
-   "open": true,
+   "open": false,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -13245,9 +13879,25 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page says \"closed-job__flavor--closed\""
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page says \"closed-job__flavor--closed\"",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0121",
@@ -13340,7 +13990,12 @@
      "detail": "linkedin: rule score 48"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0122",
@@ -13432,7 +14087,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0123",
@@ -13524,7 +14184,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0124",
@@ -13621,7 +14286,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0125",
@@ -13713,7 +14383,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0126",
@@ -13806,7 +14481,12 @@
      "detail": "linkedin: rule score 72"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0127",
@@ -13899,7 +14579,12 @@
      "detail": "linkedin: rule score 72"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0128",
@@ -14000,7 +14685,12 @@
     }
    ],
    "updated_at": "2026-11-13T16:53:54+05:30",
-   "reject_reason": "Asks 4+ years total, 2-4 in strategy/consulting/program management and 2-3 in startups; Shlok has 1.3."
+   "reject_reason": "Asks 4+ years total, 2-4 in strategy/consulting/program management and 2-3 in startups; Shlok has 1.3.",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0129",
@@ -14093,7 +14783,12 @@
      "detail": "linkedin: rule score 72"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0130",
@@ -14185,7 +14880,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0131",
@@ -14279,7 +14979,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0132",
@@ -14372,7 +15077,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0133",
@@ -14403,7 +15113,7 @@
    "posted_at": "2026-11-06",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -14462,9 +15172,25 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page says \"closed-job__flavor--closed\""
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page says \"closed-job__flavor--closed\"",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0134",
@@ -14556,7 +15282,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0135",
@@ -14648,7 +15379,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0136",
@@ -14740,7 +15476,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0137",
@@ -14832,7 +15573,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0138",
@@ -14924,7 +15670,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0139",
@@ -15016,7 +15767,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0140",
@@ -15108,7 +15864,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0141",
@@ -15200,7 +15961,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0142",
@@ -15292,7 +16058,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0143",
@@ -15384,7 +16155,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0144",
@@ -15477,7 +16253,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0145",
@@ -15570,7 +16351,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0146",
@@ -15663,7 +16449,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0147",
@@ -15755,7 +16546,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0148",
@@ -15848,7 +16644,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0149",
@@ -15941,7 +16742,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0150",
@@ -16034,7 +16840,12 @@
      "detail": "linkedin: rule score 72"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0151",
@@ -16126,7 +16937,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0152",
@@ -16218,7 +17034,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0153",
@@ -16310,7 +17131,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0154",
@@ -16403,7 +17229,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0155",
@@ -16495,7 +17326,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0156",
@@ -16587,7 +17423,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0157",
@@ -16679,7 +17520,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0158",
@@ -16772,7 +17618,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0159",
@@ -16864,7 +17715,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0160",
@@ -16956,7 +17812,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0161",
@@ -17048,7 +17909,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0162",
@@ -17140,7 +18006,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0163",
@@ -17232,7 +18103,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0164",
@@ -17337,7 +18213,12 @@
     }
    ],
    "updated_at": "2026-11-14T15:23:02+05:30",
-   "reject_reason": "Asks 5+ yrs"
+   "reject_reason": "Asks 5+ yrs",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0165",
@@ -17429,7 +18310,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0166",
@@ -17521,7 +18407,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0167",
@@ -17613,7 +18504,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0168",
@@ -17705,7 +18601,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0169",
@@ -17798,7 +18699,12 @@
      "detail": "linkedin: rule score 72"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0170",
@@ -17890,7 +18796,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0171",
@@ -17921,7 +18832,7 @@
    "posted_at": "2026-11-09",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -17980,9 +18891,25 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page says \"closed-job__flavor--closed\""
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page says \"closed-job__flavor--closed\"",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0172",
@@ -18074,7 +19001,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0173",
@@ -18166,7 +19098,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0174",
@@ -18258,7 +19195,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0175",
@@ -18451,7 +19393,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0177",
@@ -18543,7 +19490,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0178",
@@ -18635,7 +19587,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0179",
@@ -18727,7 +19684,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0180",
@@ -18819,7 +19781,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0181",
@@ -18911,7 +19878,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0182",
@@ -19004,7 +19976,12 @@
      "detail": "linkedin: rule score 72"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0183",
@@ -19096,7 +20073,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0184",
@@ -19188,7 +20170,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0185",
@@ -19280,7 +20267,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0186",
@@ -19372,7 +20364,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0187",
@@ -19464,7 +20461,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0188",
@@ -19556,7 +20558,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0189",
@@ -19648,7 +20655,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0190",
@@ -19740,7 +20752,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0191",
@@ -19832,7 +20849,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0192",
@@ -19924,7 +20946,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0193",
@@ -20021,7 +21048,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0194",
@@ -20113,7 +21145,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0195",
@@ -20205,7 +21242,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0196",
@@ -20298,7 +21340,12 @@
      "detail": "linkedin: rule score 48"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0197",
@@ -20390,7 +21437,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0198",
@@ -20482,7 +21534,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0199",
@@ -20574,7 +21631,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0200",
@@ -20666,7 +21728,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0201",
@@ -20758,7 +21825,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0202",
@@ -20850,7 +21922,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0203",
@@ -20942,7 +22019,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0204",
@@ -21034,7 +22116,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0205",
@@ -21125,7 +22212,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0206",
@@ -21216,7 +22308,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0207",
@@ -21307,7 +22404,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0208",
@@ -21398,7 +22500,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0209",
@@ -21489,7 +22596,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0210",
@@ -21580,7 +22692,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0211",
@@ -21671,7 +22788,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0212",
@@ -21762,7 +22884,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0213",
@@ -21853,7 +22980,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0214",
@@ -21944,7 +23076,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0215",
@@ -22040,7 +23177,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0216",
@@ -22131,7 +23273,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0217",
@@ -22223,7 +23370,12 @@
      "detail": "instahyre: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0218",
@@ -22315,7 +23467,12 @@
      "detail": "instahyre: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0219",
@@ -22406,7 +23563,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0220",
@@ -22497,7 +23659,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0221",
@@ -22588,7 +23755,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0222",
@@ -22679,7 +23851,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0223",
@@ -22770,7 +23947,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0224",
@@ -22861,7 +24043,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0225",
@@ -22952,7 +24139,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0226",
@@ -23043,7 +24235,12 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0227",
@@ -23134,7 +24331,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0228",
@@ -23225,7 +24427,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0229",
@@ -23317,7 +24524,12 @@
      "detail": "instahyre: rule score 67"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0230",
@@ -23409,7 +24621,12 @@
      "detail": "instahyre: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0231",
@@ -23500,7 +24717,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0232",
@@ -23591,7 +24813,12 @@
      "detail": "instahyre: rule score 49"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0233",
@@ -23682,7 +24909,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0234",
@@ -23773,7 +25005,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0235",
@@ -23864,7 +25101,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0236",
@@ -23955,7 +25197,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0237",
@@ -24046,7 +25293,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0238",
@@ -24137,7 +25389,12 @@
      "detail": "instahyre: rule score 49"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0239",
@@ -24228,7 +25485,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0240",
@@ -24334,7 +25596,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0241",
@@ -24425,7 +25692,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0242",
@@ -24516,7 +25788,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0243",
@@ -24608,7 +25885,12 @@
      "detail": "instahyre: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0244",
@@ -24700,7 +25982,12 @@
      "detail": "instahyre: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0245",
@@ -24792,7 +26079,12 @@
      "detail": "instahyre: rule score 67"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0246",
@@ -24883,7 +26175,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0247",
@@ -24975,7 +26272,12 @@
      "detail": "instahyre: rule score 67"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0248",
@@ -25006,7 +26308,7 @@
    "posted_at": null,
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "Honest financial products to improve lives AWS, Databricks, Program, Project, Redash",
    "exp_min": null,
    "exp_max": null,
@@ -25064,9 +26366,25 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 49"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page says \"This job is no longer accepting\""
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page says \"This job is no longer accepting\""
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page says \"This job is no longer accepting\"",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0249",
@@ -25157,7 +26475,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0250",
@@ -25253,7 +26576,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0251",
@@ -25344,7 +26672,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0252",
@@ -25435,7 +26768,12 @@
      "detail": "instahyre: rule score 49"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0253",
@@ -25526,7 +26864,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0254",
@@ -25617,7 +26960,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0255",
@@ -25713,7 +27061,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0256",
@@ -25804,7 +27157,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0257",
@@ -25895,7 +27253,12 @@
      "detail": "instahyre: rule score 49"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0258",
@@ -25986,7 +27349,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0259",
@@ -26077,7 +27445,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0260",
@@ -26168,7 +27541,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0261",
@@ -26264,7 +27642,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0262",
@@ -26356,7 +27739,12 @@
      "detail": "instahyre: rule score 67"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0263",
@@ -26447,7 +27835,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0264",
@@ -26538,7 +27931,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0265",
@@ -26634,7 +28032,12 @@
      "detail": "instahyre: rule score 49"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0266",
@@ -26725,7 +28128,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0267",
@@ -26844,7 +28252,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0268",
@@ -26976,7 +28389,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0269",
@@ -27095,7 +28513,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0270",
@@ -27214,7 +28637,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0271",
@@ -27333,7 +28761,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0272",
@@ -27452,7 +28885,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0273",
@@ -27583,7 +29021,12 @@
      "detail": "yc: rule score 70"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0274",
@@ -27715,7 +29158,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0275",
@@ -27833,7 +29281,12 @@
      "detail": "yc: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0276",
@@ -27952,7 +29405,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0277",
@@ -28071,7 +29529,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0278",
@@ -28202,7 +29665,12 @@
      "detail": "yc: rule score 58"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0279",
@@ -28307,7 +29775,12 @@
      "detail": "yc: rule score 58"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0280",
@@ -28412,7 +29885,12 @@
      "detail": "yc: rule score 49"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0281",
@@ -28531,7 +30009,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0282",
@@ -28649,7 +30132,12 @@
      "detail": "yc: rule score 69"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0283",
@@ -28768,7 +30256,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0284",
@@ -28886,7 +30379,12 @@
      "detail": "yc: rule score 58"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0285",
@@ -29004,7 +30502,12 @@
      "detail": "yc: rule score 69"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0286",
@@ -29122,7 +30625,12 @@
      "detail": "yc: rule score 58"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0287",
@@ -29241,7 +30749,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0288",
@@ -29346,7 +30859,12 @@
      "detail": "yc: rule score 46"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0289",
@@ -29451,7 +30969,12 @@
      "detail": "yc: rule score 58"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0290",
@@ -29556,7 +31079,12 @@
      "detail": "yc: rule score 58"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0291",
@@ -29688,7 +31216,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0292",
@@ -29794,7 +31327,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0293",
@@ -29912,7 +31450,12 @@
      "detail": "yc: rule score 61"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0294",
@@ -30031,7 +31574,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0295",
@@ -30150,7 +31698,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0296",
@@ -30269,7 +31822,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0297",
@@ -30387,7 +31945,12 @@
      "detail": "yc: rule score 46"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0298",
@@ -30492,7 +32055,12 @@
      "detail": "yc: rule score 69"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0299",
@@ -30598,7 +32166,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0300",
@@ -30689,7 +32262,12 @@
      "detail": "yc: rule score 58"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0301",
@@ -30807,7 +32385,12 @@
      "detail": "yc: rule score 48"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0302",
@@ -30933,7 +32516,12 @@
     }
    ],
    "updated_at": "2026-11-13T16:54:02+05:30",
-   "reject_reason": "Stated salary Rs 12-15L on the YC listing, well under the Rs 24.5L floor; also asks 2+ yrs product management."
+   "reject_reason": "Stated salary Rs 12-15L on the YC listing, well under the Rs 24.5L floor; also asks 2+ yrs product management.",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0303",
@@ -31052,7 +32640,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0304",
@@ -31158,7 +32751,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0305",
@@ -31277,7 +32875,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-12T21:02:04+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0306",
@@ -31408,7 +33011,7 @@
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "Work with one of India's top HR Tech Co. \n Be a part of the rocketship - report to the Co founder\n About Our Client\n The company is a globally recognized HR Tech organization backed by prominent investors. With a strong international presence and continued growth momentum, it has established itself as one of the category leaders in modern human capital management solutions.\n Job Description\n Act with ownership. Establish direction even when the brief is incomplete, drive momentum through ambiguity, and remain responsible until results are achieved.\n Exercise sound judgment. Evaluate options objectively, question conventional thinking, distinguish meaningful insights from distractions, and recognize when to decide independently versus seek guidance.\n Create scalable ways of working. Design processes, frameworks, and operating rhythms that strengthen the organization and reduce reliance on individual contributors.\n Navigate seamlessly across functions. Transition effortlessly between strategic thinking and hands-on execution, engaging effectively in both executive discussions and operational realities.\n Embed AI into the business. Look beyond individual efficiency gains and identify opportunities where AI can transform workflows, decision-making, and organizational effectiveness.\n Serve as a trusted proxy for the Co-Founder. Drive key priorities with context, judgment, and discretion, act with urgency, and bring the confidence to challenge perspectives when it benefits the business. \n The Successful Applicant\n You could come from consulting, business strategy, product management, operations, investment banking, or any other fast-paced, high-performance setting. What matters most is a demonstrated ability to navigate ambiguity, tackle complex business challenges, and drive meaningful outcomes through both people and processes.\nYou are naturally curious, relentlessly resourceful, and comfortable engaging with senior stakeholders. You are energized by solving difficult problems and have little tolerance for inefficient or outdated ways of working. You balance analytical depth with commercial awareness, ensuring that detailed execution always remains connected to broader business objectives. Most importantly, you view AI not simply as a productivity enhancer, but as a lever to redesign how teams operate, make decisions, and scale impact.\n What's On Offer\n What makes this role unique\n While many Chief of Staff roles are designed to support leaders through complexity, this one is centered on eliminating and redesigning it. You will sit at the intersection of founder priorities, artificial intelligence, enterprise-scale business, and organizational growth, building capabilities, processes, and systems that create lasting, compounding impact across the company. Quote job ref: JN-112026-7144583",
    "exp_min": null,
    "exp_max": null,
@@ -31467,9 +33070,25 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page returns HTTP 404"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page returns HTTP 404"
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page returns HTTP 404",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0308",
@@ -31561,7 +33180,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0309",
@@ -31661,7 +33285,12 @@
     }
    ],
    "updated_at": "2026-11-14T15:23:17+05:30",
-   "reject_reason": "Requires having launched and scaled an app 0-1 and shipping production code"
+   "reject_reason": "Requires having launched and scaled an app 0-1 and shipping production code",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0310",
@@ -31753,7 +33382,12 @@
      "detail": "linkedin: rule score 74"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0311",
@@ -31845,7 +33479,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0312",
@@ -31937,7 +33576,12 @@
      "detail": "linkedin: rule score 74"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0313",
@@ -32031,7 +33675,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0314",
@@ -32123,7 +33772,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0315",
@@ -32215,7 +33869,12 @@
      "detail": "linkedin: rule score 62"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0316",
@@ -32321,7 +33980,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0317",
@@ -32440,7 +34104,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0318",
@@ -32559,7 +34228,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0319",
@@ -32679,7 +34353,12 @@
      "detail": "yc: rule score 61"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0320",
@@ -32798,7 +34477,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0321",
@@ -32917,7 +34601,12 @@
      "detail": "yc: rule score 55"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-13T04:00:41+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "unknown",
+    "why": "a company with no posting; nothing to check"
+   }
   },
   {
    "id": "L0322",
@@ -33010,7 +34699,12 @@
      "detail": "ashby: rule score 57"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0323",
@@ -33110,7 +34804,12 @@
     }
    ],
    "updated_at": "2026-11-14T15:23:23+05:30",
-   "reject_reason": "Requires having founded/built and run something yourself; Director-level CoS to CTO"
+   "reject_reason": "Requires having founded/built and run something yourself; Director-level CoS to CTO",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0324",
@@ -33202,7 +34901,12 @@
      "detail": "linkedin: rule score 75"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0325",
@@ -33302,7 +35006,12 @@
     }
    ],
    "updated_at": "2026-11-14T15:23:26+05:30",
-   "reject_reason": "MBA and consulting experience both stated as required"
+   "reject_reason": "MBA and consulting experience both stated as required",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0326",
@@ -33422,7 +35131,13 @@
     }
    ],
    "updated_at": "2026-11-14T15:24:04+05:30",
-   "reject_reason": null
+   "reject_reason": null,
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   },
+   "verified_at": "2026-11-14T18:46:33+05:30"
   },
   {
    "id": "L0327",
@@ -33514,7 +35229,12 @@
      "detail": "linkedin: rule score 63"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0328",
@@ -33614,7 +35334,12 @@
     }
    ],
    "updated_at": "2026-11-14T15:23:42+05:30",
-   "reject_reason": "score 61 is under 65"
+   "reject_reason": "score 61 is under 65",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0329",
@@ -33711,7 +35436,12 @@
      "detail": "linkedin: rule score 63"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0330",
@@ -33803,7 +35533,12 @@
      "detail": "linkedin: rule score 74"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0331",
@@ -33834,7 +35569,7 @@
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-14",
-   "open": true,
+   "open": false,
    "jd": "Job description \n Job Description- Manager Strategy and Operations\n Work Location: Hyderabad\n Working Days: 6 Days\n Role Overview\n We are looking for a high-impact Manager Strategy & Operations to work closely with the Founders Office and leadership team. This role will drive strategic initiatives, solve critical business problems, and ensure execution across cross-functional teams in a fast-paced B2C startup environment.\n Key Responsibilities\n 1. Founders Office & Strategic Initiatives\n Partner directly with founders to drive high-priority business initiatives\n Translate ambiguous problems into structured strategies and execution plans\n Own end-to-end delivery of key projects impacting growth, revenue, and efficiency\n 2. Data-Driven Decision Making\n Analyze large datasets to derive actionable insights for business decisions\n Build dashboards, track KPIs, and identify performance gaps\n Act as an Individual Contributor (IC) on critical analytical problem statements\n 3. Business Operations & Execution\n Drive operational excellence across functions (Sales, Product, Marketing, Ops)\n Identify bottlenecks and implement scalable processes\n Ensure timely execution and measurable outcomes of initiatives\n 4. Cross-Functional Leadership\n Lead and manage cross-functional projects across teams\n Align stakeholders and drive accountability without direct authority\n Collaborate with leadership to prioritize initiatives\n 5. Team Management\n Manage and mentor a small, high-performance team\n Ensure strong ownership, output quality, and execution speed\n Ideal Candidate Profile\n Education: B.Tech from IIT / BITS and/or MBA from IIM (preferred)\n Experience:\n 3+ years of total experience\n 2+ years in Strategy / Operations / Founders Office roles in Series A+ B2C startups\n 2+ years of strong hands-on experience working with data as an IC\n Proven experience managing teams and delivering business outcomes\n Strong exposure to cross-functional project leadership\n High ownership, structured thinking, and problem-solving ability\n Ability to thrive in ambiguity and high-growth environments\n What Success Looks Like\n High-impact projects delivered with measurable business outcomes\n Improved operational efficiency and faster decision-making\n Strong alignment across teams and leadership\n Data-backed strategy influencing key business decisions",
    "exp_min": 2,
    "exp_max": null,
@@ -33893,9 +35628,25 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page says \"closed-job__flavor--closed\""
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page says \"closed-job__flavor--closed\"",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0332",
@@ -33987,7 +35738,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0333",
@@ -34079,7 +35835,12 @@
      "detail": "linkedin: rule score 63"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0334",
@@ -34173,7 +35934,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0335",
@@ -34265,7 +36031,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0336",
@@ -34357,7 +36128,12 @@
      "detail": "linkedin: rule score 56"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0337",
@@ -34449,7 +36225,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0338",
@@ -34480,7 +36261,7 @@
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-14",
-   "open": true,
+   "open": false,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -34539,9 +36320,25 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page returns HTTP 404"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page returns HTTP 404"
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page returns HTTP 404",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0339",
@@ -34634,7 +36431,12 @@
      "detail": "linkedin: rule score 72"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0340",
@@ -34726,7 +36528,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0341",
@@ -34819,7 +36626,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0342",
@@ -34912,7 +36724,12 @@
      "detail": "linkedin: rule score 60"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0343",
@@ -35004,7 +36821,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0344",
@@ -35096,7 +36918,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0345",
@@ -35127,7 +36954,7 @@
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-14",
-   "open": true,
+   "open": false,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -35186,9 +37013,25 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page says \"closed-job__flavor--closed\""
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page says \"closed-job__flavor--closed\"",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0346",
@@ -35280,7 +37123,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0347",
@@ -35372,7 +37220,12 @@
      "detail": "linkedin: rule score 54"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0348",
@@ -35468,7 +37321,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0349",
@@ -35559,7 +37417,12 @@
      "detail": "instahyre: rule score 49"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0350",
@@ -35650,7 +37513,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0351",
@@ -35741,7 +37609,12 @@
      "detail": "instahyre: rule score 49"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0352",
@@ -35832,7 +37705,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0353",
@@ -35923,7 +37801,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0354",
@@ -36014,7 +37897,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0355",
@@ -36105,7 +37993,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T00:19:17+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0356",
@@ -36136,7 +38029,7 @@
    "posted_at": "2026-11-10",
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-14",
-   "open": true,
+   "open": false,
    "jd": "📍 Location: Jayanagar, Bangalore | Full-time\n 🕒 Experience: 0–2 Years (Freshers Welcome)\n MKGlobo Solutions Private Limited is a fast-growing digital marketing and technology company. We are looking for a proactive and highly organised Founder's Office Executive to work directly with supporting business operations, administration, accounts, HR and day-to-day coordination.\n Key Responsibilities\n Assist the Founder in day-to-day business operations.\n Manage office administration and vendor coordination.\n Prepare quotations, purchase orders (POs), invoices and support client onboarding.\n Maintain basic accounts, bookkeeping, expense records and documentation.\n Coordinate GST, TDS, payroll and other finance-related activities with the accountant.\n Support HR activities, including attendance, leave management, onboarding and employee documentation.\n Coordinate meetings, follow-ups, schedules and internal communication.\n Track tasks, ensure timely execution and support cross-functional teams.\n Maintain reports, MIS and business documentation.\n What We're Looking For\n Strong organisational and communication skills.\n Basic knowledge of MS Excel and accounting concepts.\n Willingness to learn finance, HR, administration and business operations.\n High level of ownership, professionalism and attention to detail.\n Ability to multitask in a fast-paced environment.",
    "exp_min": 0,
    "exp_max": 2,
@@ -36195,9 +38088,25 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-14T18:46:33+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
     }
    ],
-   "updated_at": "2026-11-14T13:33:29+05:30"
+   "updated_at": "2026-11-14T18:46:33+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "closed",
+    "why": "page says \"closed-job__flavor--closed\""
+   },
+   "bin": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "reason": "page says \"closed-job__flavor--closed\"",
+    "by": "live-check"
+   }
   },
   {
    "id": "L0357",
@@ -36289,7 +38198,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-14T13:33:29+05:30"
+   "updated_at": "2026-11-14T13:33:29+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0358",
@@ -36381,7 +38295,12 @@
      "detail": "linkedin: rule score 75"
     }
    ],
-   "updated_at": "2026-11-14T13:33:29+05:30"
+   "updated_at": "2026-11-14T13:33:29+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0359",
@@ -36473,7 +38392,12 @@
      "detail": "linkedin: rule score 66"
     }
    ],
-   "updated_at": "2026-11-14T13:33:29+05:30"
+   "updated_at": "2026-11-14T13:33:29+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   },
   {
    "id": "L0360",
@@ -36564,7 +38488,12 @@
      "detail": "instahyre: rule score 49"
     }
    ],
-   "updated_at": "2026-11-14T13:33:29+05:30"
+   "updated_at": "2026-11-14T13:33:29+05:30",
+   "live_check": {
+    "at": "2026-11-14T18:46:33+05:30",
+    "state": "live",
+    "why": ""
+   }
   }
  ]
 }

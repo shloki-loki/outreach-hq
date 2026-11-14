@@ -32926,13 +32926,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "not stated",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 20,
+    "total": 43,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -32942,15 +32942,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Chief of Staff to Exotel's CTO; requires having founded and run something and hands-on technical building, which you lack.",
+    "fit_notes": "Posting opened 2026-11-14, live (16h, 55 applicants), poster Vivek Kumar. Requires 'founded or built something and run it yourself', more technical than a typical CoS, builds prototypes. Director seniority.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-14T15:23:23+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -32974,9 +32975,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-14T15:23:23+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 43: rejected (Requires having founded/built and run something yourself; Director-level CoS to CTO)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T15:23:23+05:30",
+   "reject_reason": "Requires having founded/built and run something yourself; Director-level CoS to CTO"
   },
   {
    "id": "L0324",

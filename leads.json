@@ -9450,9 +9450,14 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Name": "Shlok Agrawal",
+     "Email": "111shlokagrawal@gmail.com",
+     "Phone number": "+91-9343806463",
+     "Resume": "Attach the current resume PDF (Nov 2026) yourself; nothing attached by the agent."
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -9482,6 +9487,11 @@
      "at": "2026-11-12T22:23:49+05:30",
      "by": "send-track",
      "text": "Not drafted: the CEO's address (pratyush@sarvam.ai) is on the do-not-email list because the earlier founder pipeline already wrote to it. Apply through the Ashby form, or find the person running the CEO's Office search."
+    },
+    {
+     "at": "2026-11-14T15:14:02+05:30",
+     "by": "send-track",
+     "text": "Application kit ready: the Ashby form asks only name, email, phone and resume. Same posting as L0002."
     }
    ],
    "timeline": [
@@ -9508,9 +9518,21 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Pratyush Kumar: pratyush@sarvam.ai (guess, 35)"
+    },
+    {
+     "at": "2026-11-14T15:14:02+05:30",
+     "actor": "send-track",
+     "event": "apply",
+     "detail": "kit_ready"
+    },
+    {
+     "at": "2026-11-14T15:14:02+05:30",
+     "actor": "send-track",
+     "event": "apply_kit",
+     "detail": "application answers prepared"
     }
    ],
-   "updated_at": "2026-11-12T23:00:57+05:30",
+   "updated_at": "2026-11-14T15:14:02+05:30",
    "reject_reason": null
   },
   {

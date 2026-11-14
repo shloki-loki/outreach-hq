@@ -335,6 +335,16 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-14T15:38:56+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 0, failed 0. M0004: lead replied or closed since approval",
+   "stats": {
+    "sent": 0,
+    "failed": 0
+   }
   }
  ]
 }

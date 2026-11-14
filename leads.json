@@ -33118,13 +33118,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "not stated",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 5,
+    "total": 34,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -33134,15 +33134,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Chief of Staff to Applied Materials India head; MBA and consulting both listed as required, which you do not have.",
+    "fit_notes": "Posting opened 2026-11-14, live, 26 applicants. 'Three essentials - all required': engineering degree + hardware org experience (fits), an MBA, consulting experience.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-14T15:23:26+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -33166,9 +33167,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-14T15:23:26+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 34: rejected (MBA and consulting experience both stated as required)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T15:23:26+05:30",
+   "reject_reason": "MBA and consulting experience both stated as required"
   },
   {
    "id": "L0326",

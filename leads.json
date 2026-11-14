@@ -12627,7 +12627,7 @@
    "posted_at": "2026-11-10",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "Experience: 3+ Years\n Location: Hyderabad\n Work Mode: On-site (5 Days WFO, Monday to Friday)\n Shift Timings: 9 :00 PM – 6:00 AM (Night Shift)\n Employment Type: Full-Time\n Job Summary \n The Chief of Staff (CoS) serves as a strategic advisor and trusted partner to the CEO, ensuring the seamless execution of high-priority initiatives while optimizing executive operations. This role is responsible for driving cross-functional projects, aligning organizational strategy, enabling effective decision-making, and ensuring the successful execution of the CEO's vision across the organization.\n Key Responsibilities \n Strategic Leadership & Execution \n • Act as a trusted advisor and sounding board to the CEO on key business initiatives.\n • Drive strategic planning, goal setting, and execution of high-priority projects.\n • Ensure alignment between the CEO's vision and company-wide objectives.\n Operational Excellence \n • Oversee day-to-day operations and ensure the smooth execution of CEO-driven initiatives.\n • Identify operational inefficiencies and recommend process improvements across departments.\n • Serve as a bridge between the CEO and senior leadership, ensuring clear communication, collaboration, and accountability.\n Decision Support & Analysis \n • Conduct research, gather business insights, and prepare reports to support executive decision-making.\n • Monitor key business metrics, track organizational performance, and provide data-driven recommendations.\n • Lead special projects and strategic initiatives, ensuring timely execution and measurable impact.\n Stakeholder & Communication Management \n • Represent the CEO in meetings, negotiations, and high-level discussions as required.\n • Act as a liaison between internal teams, board members, investors, and external partners.\n • Draft executive-level presentations, communications, reports, and briefing materials.\n People & Culture Development \n • Partner with HR and business leaders to support organizational growth and strengthen company culture.\n • Drive leadership development initiatives to enhance executive and team effectiveness.\n • Support the hiring, onboarding, and retention of key leadership talent.\n The Chief of Staff is responsible for: \n Strategic planning and execution\n CEO advisory and executive support\n Cross-functional project management\n Operational efficiency and process improvement\n Business analysis and performance tracking\n Executive communications and stakeholder management\n Leadership and culture development\n Organizational alignment and execution of company priorities",
    "exp_min": 3,
    "exp_max": null,
@@ -12698,13 +12698,24 @@
      "actor": "live-check",
      "event": "reopened",
      "detail": "taken out of the Bin"
+    },
+    {
+     "at": "2026-11-14T19:02:03+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-14T18:59:58+05:30",
+   "updated_at": "2026-11-14T19:02:03+05:30",
    "live_check": {
-    "at": "2026-11-14T18:46:33+05:30",
+    "at": "2026-11-14T19:02:03+05:30",
     "state": "closed",
-    "why": "page says \"closed-job__flavor--closed\""
+    "why": "the posting says \"No longer accepting applications\""
+   },
+   "bin": {
+    "at": "2026-11-14T19:02:03+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "live-check"
    }
   },
   {

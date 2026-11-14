@@ -2,6 +2,7 @@ import Link from 'next/link';
 import ApplicationPacket from '@/components/ApplicationPacket';
 import { notFound } from 'next/navigation';
 import LeadControls from '@/components/LeadControls';
+import LinkedInNotes from '@/components/LinkedInNotes';
 import MessageCard from '@/components/MessageCard';
 import AddConnection from '@/components/AddConnection';
 import ReferralCard from '@/components/ReferralCard';
@@ -19,7 +20,7 @@ const EVENT = {
   drafted: 'Email drafted', sent: 'Email sent', send_failed: 'Send failed', replied: 'Reply received', auto_reply: 'Auto-reply',
   bounced: 'Bounced', followup_due: 'Follow-up due', applied: 'Applied', applied_undone: 'Applied undone', outcome: 'Outcome',
   stage: 'Stage', referral_added: 'Connection added', referral_note: 'Referral note drafted', referral_sent: 'Referral asked', referral_replied: 'Referral replied',
-  posting_closed: 'Posting closed', reopened: 'Posting reopened', apply_kit: 'Application answers ready', apply: 'Application',
+  posting_closed: 'Posting closed', reopened: 'Posting reopened', people: 'People found', linkedin_draft: 'LinkedIn note drafted', apply_kit: 'Application answers ready', apply: 'Application',
 };
 const isUrl = (value) => /^https?:\/\//.test(value || '');
 
@@ -47,7 +48,8 @@ export default async function LeadPage({ params }) {
           <div className="button-row" style={{ marginBottom: 12 }}>
             <span className={`pill tone-${status.tone}`}>{status.label}</span>
             {lead.stretch ? <span className="tag">Stretch on seniority</span> : null}
-            {lead.open === false ? <span className="tag">Posting closed</span> : null}
+            {lead.open === false ? <span className="tag">{lead.bin ? 'In the Bin: posting closed' : 'Posting closed'}</span> : null}
+            {lead.research?.by === 'research-worker' ? <span className="tag" title="Researched on GitHub by the free model; every claim passed code checks, and Claude reviews a sample">Researched by the free model{lead.research.review === 'pending' ? ' · not yet reviewed' : ''}</span> : null}
             {lead.type === 'company' ? <span className="tag">No named opening: speculative note to the founders</span> : null}
             {lead.legacy_id ? <span className="tag">Old tracker {lead.legacy_id}</span> : null}
           </div>
@@ -56,7 +58,7 @@ export default async function LeadPage({ params }) {
           {lead.research?.headline ? <p style={{ color: 'var(--ink)', fontSize: 16 }}>{lead.research.headline}</p> : null}
           <p style={{ fontSize: 13 }}>
             {lead.research?.done ? (lead.research.researched_at ? `Posting and company checked ${formatDate(lead.research.researched_at)}.` : 'Researched in the earlier tracker and not re-checked since: the posting may have closed.') : 'Not researched yet: nothing here has been checked beyond the rules.'}
-            {lead.open === false ? ' The posting has since closed.' : ''}
+            {lead.open === false ? (lead.bin ? ` Moved to the Bin ${formatDate(lead.bin.at)}: ${lead.bin.reason}.` : ' The posting has since closed.') : ''}
           </p>
         </div>
 
@@ -86,6 +88,18 @@ export default async function LeadPage({ params }) {
             <MessageCard key={`${message.id}-${message.status}`} message={message} mode={mode}
               emailBadge={EMAIL_BADGE[contactById[message.contact_id]?.email_status || message.email_status]} />
           ))}
+        </section>
+
+        <section className="section">
+          <h2 className="section-label">LinkedIn notes to send yourself<span className="n">{(lead.linkedin_drafts || []).length}</span></h2>
+          {(lead.linkedin_drafts || []).length === 0 ? (
+            <p className="empty">{lead.stage === 'qualified' ? 'None yet. People at the company are looked up on LinkedIn and a note and a message are drafted for each.' : 'Drafted once the lead is qualified.'}</p>
+          ) : (
+            <>
+              <p className="prose">Drafted for you to copy. Nothing is sent on LinkedIn by this system. Free accounts get a few personalised notes a month, so the message is drafted too.</p>
+              <LinkedInNotes drafts={lead.linkedin_drafts} />
+            </>
+          )}
         </section>
 
         <section className="section">
@@ -130,6 +144,11 @@ export default async function LeadPage({ params }) {
           {lead.research?.fit_notes ? <p className="prose">{lead.research.fit_notes}</p> : <p className="prose">Not researched yet. Rule-based score only.</p>}
           {lead.research?.pay_notes || lead.pay?.source ? <p className="prose"><strong>Pay evidence:</strong> {lead.research?.pay_notes || lead.pay.source}</p> : null}
           {lead.research?.culture_notes ? <p className="prose"><strong>Company:</strong> {lead.research.culture_notes}</p> : null}
+          {(lead.research?.sources || []).length ? (
+            <p className="prose"><strong>Sources:</strong> {lead.research.sources.map((source, index) => (
+              <span key={source.url}>{index ? ' · ' : ''}<a className="link" href={source.url} target="_blank" rel="noreferrer">{source.title || source.id}</a></span>
+            ))}</p>
+          ) : null}
           {lead.reject_reason ? <p className="prose"><strong>Dropped because:</strong> {lead.reject_reason}</p> : null}
           <ul className="reasons">{(lead.score?.reasons || []).map((reason) => <li key={reason}>{reason}</li>)}</ul>
         </section>

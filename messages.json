@@ -161,7 +161,7 @@
    "kind": "cold",
    "subject": "EA to COO | Shlok Agrawal",
    "body": "Hi Atrayee,\n\nYour post is clear that the EA to the COO at WarpDrive is not an admin job: it means driving initiatives to closure, building dashboards and using AI tools every day. That is close to my last year at Ola Electric, where I partnered with the COO and CEO on fulfilment operations and owned finished goods inventory end to end. Before that, at InsuranceDekho, I built a Flask REST API with a Chrome extension that autofilled forms and cut response times by 40%.\n\nI would like to be considered for the role in Jayanagar. Is there anything you need from me beyond the resume?\n\nShlok\n",
-   "status": "approved",
+   "status": "skipped",
    "email_status": "published",
    "speculative": false,
    "hook": "WarpDrive's post says the EA to the COO is not an admin role: track initiatives to closure, build dashboards, use AI tools daily",
@@ -174,7 +174,7 @@
    "sent_at": null,
    "message_id": null,
    "thread_parent": null,
-   "error": null,
+   "error": "M0007: lead replied or closed since approval",
    "reply": null
   },
   {

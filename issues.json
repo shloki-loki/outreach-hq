@@ -97,6 +97,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0008",
+   "key": "lead-scout:outreach commands hang on git fetch inside the Claude Code sandbox",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "outreach commands hang on git fetch inside the Claude Code sandbox",
+   "detail": "2026-11-14 scheduled lead-scout: every python3 -m outreach call hung indefinitely at 'git -C data fetch origin data' when run in the sandboxed shell (store.sync, no timeout reached in 30+ min; leftover git-remote-https processes from another session at 11:55 were also stuck). Same fetch completed in ~1s with the sandbox disabled. Run continued unsandboxed. Fix idea: add github.com to the sandbox network allowlist for this project, or make _git fetch fail fast with a short timeout and GIT_TERMINAL_PROMPT=0.",
+   "status": "open",
+   "opened_at": "2026-11-14T15:25:17+05:30",
+   "last_seen": "2026-11-14T15:25:17+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

@@ -476,6 +476,15 @@
    "title": "Ran",
    "detail": "1 email drafted (L0022 TheCardCompany COO, address newly verified), 0 referral notes (no connections matched), 3 application kits (L0085 and L0002 Sarvam Ashby, same posting; L0006 Meesho Lever); skipped: L0085 CEO on do-not-email list, L0050 fails the post's degree filter, L0029 same person as L0024, L0032 only a catch-all address at score 42; L0001 and L0012 Google Forms need sign-in. git fetch hangs slowed the run (issue logged).",
    "ref": ""
+  },
+  {
+   "id": "J0054",
+   "at": "2026-11-14T15:25:17+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "outreach commands hang on git fetch inside the Claude Code sandbox",
+   "detail": "2026-11-14 scheduled lead-scout: every python3 -m outreach call hung indefinitely at 'git -C data fetch origin data' when run in the sandboxed shell (store.sync, no timeout reached in 30+ min; leftover git-remote-https processes from another session at 11:55 were also stuck). Same fetch completed in ~1s with the sandbox disabled. Run continued unsandboxed. Fix idea: add github.com to the sandbox network allowlist for this project, or make _git fetch fail fast with a short timeout and GIT_TERMINAL_PROMPT=0.",
+   "ref": "I0008"
   }
  ]
 }

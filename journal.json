@@ -1016,6 +1016,15 @@
    "title": "Naukri, Wellfound and Hiring Cafe added as lead sources (needs APIFY_TOKEN)",
    "detail": "Read through Apify actors chosen by a test run each: valig/naukri-jobs-scraper, clearpath/wellfound-api-ppe, memo23/apify-hiring-cafe-scraper. Hiring Cafe's test found Exotel's Chief of Staff to the CTO in Bengaluru. Each call has its own cost cap and the month stops at USD 3.50, checked against Apify's real usage before every call. They stay off until APIFY_TOKEN is added as a GitHub secret.",
    "ref": "PR4"
+  },
+  {
+   "id": "J0114",
+   "at": "2026-11-14T19:06:36+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "LinkedIn people and notes for every qualified lead",
+   "detail": "people-run finds up to 3 people per qualified lead on LinkedIn without logging in (the person the role reports to, a founder, the recruiter), about USD 0.04 a company. The writer drafts a connection note (under 200 characters) and a message for each; they appear on the lead page with copy buttons. Nothing is ever sent on LinkedIn by the system. Test on GoKwik found the co-founder, CTO, Director and Chief of Staff, and the recruiters.",
+   "ref": "PR4"
   }
  ]
 }

@@ -26313,7 +26313,7 @@
    "posted_at": null,
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
-   "open": false,
+   "open": true,
    "jd": "Honest financial products to improve lives AWS, Databricks, Program, Project, Redash",
    "exp_min": null,
    "exp_max": null,
@@ -26377,18 +26377,19 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: page says \"This job is no longer accepting\""
+    },
+    {
+     "at": "2026-11-14T19:00:20+05:30",
+     "actor": "live-check",
+     "event": "reopened",
+     "detail": "taken out of the Bin"
     }
    ],
-   "updated_at": "2026-11-14T18:46:33+05:30",
+   "updated_at": "2026-11-14T19:00:20+05:30",
    "live_check": {
     "at": "2026-11-14T18:46:33+05:30",
     "state": "closed",
     "why": "page says \"This job is no longer accepting\""
-   },
-   "bin": {
-    "at": "2026-11-14T18:46:33+05:30",
-    "reason": "page says \"This job is no longer accepting\"",
-    "by": "live-check"
    }
   },
   {

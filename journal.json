@@ -413,6 +413,15 @@
    "title": "Shared supervisor prepared in PR 1",
    "detail": "Commit e38226f adds SUPERVISOR.md, configurable Codex/Claude ownership, transactional work queue with claims and handoffs, application packet CLI and deterministic GitHub health checks. Both assistant entry files updated. 48 tests pass. PR not merged: schedules unchanged; no hosted model worker connected. Read SUPERVISOR.md on codex/shared-supervisor before picking up this work. Website packet UI, answer library and 20-packet evaluation remain pending.",
    "ref": "https://github.com/shloki-loki/outreach-hq/pull/1"
+  },
+  {
+   "id": "J0047",
+   "at": "2026-11-14T11:55:34+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

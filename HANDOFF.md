@@ -112,12 +112,11 @@ Local `.env` (gitignored) has the Gmail pair, `SITE_URL` and `REOON_API_KEY`. **
 
 ## 4. Where things stand
 
-### 2026-11-14 shared supervisor update (branch implementation; rollout pending)
+### 2026-11-14 shared supervisor rollout
 
 Read SUPERVISOR.md first for cross-model ownership, changes, commands and current dependencies.
 Implemented work queue with claims and handoffs, configurable preferred owners, packet assembly,
-deterministic GitHub supervisor workflow and PR test trigger. No model workers were connected and no
-Claude desktop schedules were changed. Codex is the preferred owner for new queued research/writing;
+deterministic GitHub supervisor workflow and PR test trigger. A local Codex app worker is now scheduled daily at 12:15 IST for explicitly assigned work; its first scheduled run is unverified. Claude desktop schedules are unchanged. Codex is the preferred owner for new queued research/writing;
 Claude remains the existing scheduled worker until a replacement is verified. Both models accept user
 issues as supervisor and share improvements via PRs, the work queue and journal.
 
@@ -238,7 +237,7 @@ note (at most 200 characters) and a message / InMail (40-80 words). Rules are in
 
 ### E. Move research and writing to GitHub, off Claude, without losing quality
 
-Coordination foundation implemented 2026-11-14. Hosted model workers, website packet UI, approved-answer
+Coordination foundation implemented 2026-11-14. Hosted model workers, approved-answer
 library and 20-packet quality/time evaluation remain pending. Existing schedules must not be removed yet.
 
 Today research, drafting, follow-up drafting and the supervisor are Claude scheduled tasks on his Mac. He
@@ -329,3 +328,5 @@ to `.env` (he fills in the secrets). The site: `cd web && npm install && DATA_DI
 - `REOON_API_KEY` is not in GitHub Actions, so address verification only works from his Mac today.
 - The site's Log page was checked on a local copy, not signed in on the live site.
 - Reddit cannot be read by ordinary fetch tools; the research used an Apify Reddit scraper.
+
+Rollout: PR #1 merged; GitHub supervisor run 43584199808 succeeded. Website packet added in follow-on PR; see SUPERVISOR.md for current limits.

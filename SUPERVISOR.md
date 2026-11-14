@@ -62,7 +62,7 @@ Save answers through the existing `lead set --apply-answers` command and emails 
 Company-specific claims must not be copied between companies. Reuse verified profile facts and approved
 wording only. Capture Shlok's corrections as specific writing guidance, never invented biography.
 Target 5–10 minutes of personal review/submission time; measure the first 20 packets and rewrite effort.
-The packet currently appears in CLI output; a consolidated website packet and answer-library UI remain pending.
+The packet is available in CLI output and at the top of each website lead page, with source links, draft preview, copyable answers and missing-item flags. A reusable approved-answer library remains pending.
 
 ## Improvements raised with either model
 
@@ -94,3 +94,14 @@ remain binding. Playbook v2's pending validator work remains separately tracked 
 48 unit tests pass (45 existing plus three shared-supervisor scenarios covering claims, handoffs,
 duplicate work, completion evidence, missing packets and expired leases). CLI help and diff whitespace
 checks pass. Live scheduled execution and hosted model invocation have not been tested.
+
+## Rollout update: 2026-11-14
+
+PR #1 merged as a6e7d3f. The GitHub supervisor workflow was manually dispatched and completed
+successfully (run 43584199808). Codex app heartbeat `outreach-hq-codex-worker` is active daily
+at 12:15 IST and processes at most three explicitly assigned queued items. It does not take
+unassigned leads or duplicate the Claude batch. This is a local app worker, not hosted GitHub
+model execution, and requires the app/Mac to be available. Its first scheduled run remains
+unverified. Claude's checkout was checked and synced to the shared instructions. Existing
+Claude schedules remain active; the 20-packet evaluation is still required before replacement.
+Website packet production build passes; 49 Python tests pass.

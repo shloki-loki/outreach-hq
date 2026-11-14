@@ -1043,6 +1043,15 @@
    "title": "Claude's Mac tasks stay on until the free-model workers pass a quality comparison",
    "detail": "Plan: once GEMINI_API_KEY is set, run research-run --compare on about 20 leads Claude already researched and read the first 20 drafts against voice.md. Switch off the Claude research and drafting tasks only if they hold up. Both can run together: duplicate drafts are refused by create_draft.",
    "ref": "PR4"
+  },
+  {
+   "id": "J0117",
+   "at": "2026-11-14T19:07:07+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Work W0004: done",
+   "detail": "check_draft enforces v2; voice.md examples are a test; 68 tests pass",
+   "ref": "PR4"
   }
  ]
 }

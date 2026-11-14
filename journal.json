@@ -1106,6 +1106,15 @@
    "title": "Data checks 14 Nov: no stuck, failed or waiting messages",
    "detail": "message list: 14 messages. 11 sent (M0001, M0003, M0005, M0006, M0008-M0012, M0014; M0013 replied), 3 skipped (M0002 replaced by M0006, M0004 and M0007 closed leads). 0 sending, 0 failed, 0 approved waiting, 0 drafts waiting. Bounces 0 of 11. 45 qualified leads, all open, all with at least one contact. 6 qualified leads have an email but no draft, each explained: L0085 CEO on do-not-email list, L0050 fails degree filter, L0029 same person as L0024 (already emailed), L0032 only catch-all at score 42, L0105 Zamp founders added as catch-all by lead-scout at 15:25 after send-track ran at 15:23, L0326 GoKwik qualified at 15:25 with a recruiter address from the posting. L0105 and L0326 should be drafted on the next send-track run. Only duplicate: PayPal L0164/L0167, Bengaluru vs Chennai, not a real duplicate. Site: outreach-hq-psi.vercel.app/login answered 200 in 1.4 s.",
    "ref": ""
+  },
+  {
+   "id": "J0124",
+   "at": "2026-11-14T20:13:35+05:30",
+   "by": "supervisor",
+   "kind": "note",
+   "title": "GitHub workers waiting on keys; reply from L0035 needs a call back",
+   "detail": "Research worker skipped at 18:53 IST: GEMINI_API_KEY is not a GitHub secret, so research.yml (07:00, 13:00, 19:00 IST) does nothing. Naukri, Wellfound and Hiring Cafe sources stay off until APIFY_TOKEN is added. Codex's daily 12:15 IST worker has not run yet (set up 15:45); W0002 MKGlobo is moot (L0356 binned), W0003 ULOOK still queued. L0035 (Sumit, recruiter for an AI company in Noida) replied on M0013 saying interested but could not reach Shlok by phone; lead is at interview stage and needs Shlok to call or reply. 39 of 45 qualified leads have no email (mostly LinkedIn posts); they depend on the new LinkedIn people/notes flow, which needs APIFY_TOKEN. 275 leads still 'new' (instahyre 71, linkedin 129, yc 44): research is the bottleneck. Reoon credit use is still not reported by any command (free plan 20/day).",
+   "ref": ""
   }
  ]
 }

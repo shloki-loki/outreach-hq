@@ -11569,13 +11569,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "n/a",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 10,
+    "total": 37,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -11585,15 +11585,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Executive Secretary/EA to CynLr's founder; an admin and coordination role, not strategy or operations ownership.",
+    "fit_notes": "Live posting could not be opened on 2026-11-14 (fetch timed out); rejected on the stored JD, which describes an Executive Secretary/EA to the Founder's Office (calendar, communication, coordination, confidentiality).",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-14T15:23:29+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -11617,9 +11618,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-14T15:23:29+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 37: rejected (Executive Assistant/secretary role, not strategy)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-14T15:23:29+05:30",
+   "reject_reason": "Executive Assistant/secretary role, not strategy"
   },
   {
    "id": "L0105",

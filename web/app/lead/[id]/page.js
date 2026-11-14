@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import ApplicationPacket from '@/components/ApplicationPacket';
 import { notFound } from 'next/navigation';
 import LeadControls from '@/components/LeadControls';
 import MessageCard from '@/components/MessageCard';
@@ -59,6 +60,8 @@ export default async function LeadPage({ params }) {
           </p>
         </div>
 
+        <ApplicationPacket lead={lead} />
+
         <dl className="facts">
           <div><dt>Fit score</dt><dd>{lead.score?.total ?? 0} / 100</dd></div>
           <div><dt>Location</dt><dd>{lead.location || 'Not stated'}{lead.work_mode ? ` · ${lead.work_mode}` : ''}</dd></div>
@@ -76,7 +79,7 @@ export default async function LeadPage({ params }) {
         </section>
 
         <section className="section">
-          <h2 className="section-label">Emails<span className="n">{messages.length}</span></h2>
+          <h2 id="emails" className="section-label">Emails<span className="n">{messages.length}</span></h2>
           {messages.length === 0 ? (
             <p className="empty">No email drafted yet. {lead.stage === 'qualified' ? 'The send agent drafts one once a person and an address are found.' : 'This lead has not been qualified.'}</p>
           ) : messages.map((message) => (

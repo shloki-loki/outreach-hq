@@ -11752,17 +11752,17 @@
    "exp_text": "Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "Rs 1,500,000-2,000,000 per year (LinkedIn, provided by Origin)",
+    "min_lpa": 15,
+    "max_lpa": 20,
+    "basis": "stated",
+    "source": "LinkedIn posting",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 30,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -11772,15 +11772,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office deployment role at Origin (construction robotics); fit is good but stated pay 15-20 LPA is under your floor.",
+    "fit_notes": "Posting opened 2026-11-14, live, 200+ applicants, entry level, frequent site travel. Hardware program and pilot execution would map to cell and sop facts, but pay blocks it.",
+    "pay_notes": "Stated top of band 20 LPA < 24.5 floor.",
+    "culture_notes": "Previously 10xConstruction; autonomous robots for US construction.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-14T15:22:56+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -11804,9 +11805,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-14T15:22:56+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 49: rejected (Stated pay Rs 15-20 LPA is below the 24.5 LPA floor)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-14T15:22:56+05:30",
+   "reject_reason": "Stated pay Rs 15-20 LPA is below the 24.5 LPA floor"
   },
   {
    "id": "L0107",

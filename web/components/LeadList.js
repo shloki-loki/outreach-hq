@@ -6,6 +6,7 @@ import { useMemo, useState } from 'react';
 const TOP = 75;
 
 const VIEWS = [
+  { id: 'apply', label: 'Apply today', test: (s, r) => r.canApply },
   { id: 'top', label: 'Top picks', test: (s, r) => r.researched && r.score >= TOP && r.open !== false && ['qualified', 'to_approve', 'followup_due', 'replied'].includes(s) },
   { id: 'play', label: 'In play', test: (s) => ['offer', 'interview', 'replied', 'followup_due', 'to_approve', 'qualified', 'contacted', 'applied'].includes(s) },
   { id: 'you', label: 'Needs you', test: (s) => ['replied', 'followup_due', 'to_approve'].includes(s) },
@@ -25,7 +26,8 @@ export default function LeadList({ rows, initialView = 'play' }) {
   const shown = useMemo(() => {
     const active = VIEWS.find((v) => v.id === view) || VIEWS[0];
     const needle = query.trim().toLowerCase();
-    return rows.filter((r) => active.test(r.status, r) && (!needle || r.search.includes(needle)));
+    const list = rows.filter((r) => active.test(r.status, r) && (!needle || r.search.includes(needle)));
+    return active.id === 'apply' ? [...list].sort((a, b) => b.score - a.score) : list;
   }, [rows, view, query]);
 
   return (
@@ -73,6 +75,7 @@ export default function LeadList({ rows, initialView = 'play' }) {
               <div className="lead-side">
                 <span className="score" title="Fit score out of 100">{r.score}</span>
                 <span className={`pill tone-${r.tone}`}>{r.statusLabel}</span>
+                {r.canApply ? <a className="button primary" href={r.applyUrl} target="_blank" rel="noreferrer">Apply</a> : null}
               </div>
             </li>
           ))}

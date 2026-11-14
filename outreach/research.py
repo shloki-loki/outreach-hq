@@ -163,7 +163,7 @@ def gather_evidence(lead: dict, models: dict[str, str | None]) -> tuple[dict, li
             if not re.search(r"HTTP (400|403|404)|no longer available|not supported|not enabled", str(exc), re.I):
                 raise
             _GROUNDING_OFF = True  # this key cannot ground; use fetched evidence for the rest of the run
-    return _fetched_evidence(lead, models["judge"])
+    return _fetched_evidence(lead, models.get("reader") or models["judge"])
 
 
 _GROUNDING_OFF = False
@@ -360,7 +360,13 @@ def pick_models() -> dict[str, str]:
         grounding = llm.pick(cfg.get("research_models", ["gemini-2.5-flash"]))
     except llm.LlmUnavailable:
         grounding = None  # no free grounding model for this key: evidence is fetched instead
-    return {"research": grounding, "judge": llm.pick(cfg.get("judge_models", ["gemini-3.8-flash"]))}
+    judge = llm.pick(cfg.get("judge_models", ["gemini-3.8-flash"]))
+    try:
+        reader = llm.pick(cfg.get("reader_models", [])) if cfg.get("reader_models") else judge
+    except llm.LlmUnavailable:
+        reader = judge
+    # the reader only extracts facts from fetched pages; a lighter model has its own daily quota
+    return {"research": grounding, "judge": judge, "reader": reader}
 
 
 def queue(limit: int) -> list[dict]:

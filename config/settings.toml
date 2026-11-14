@@ -74,6 +74,7 @@ monthly_cap_usd = 3.5
 seconds_between_calls = 7
 research_models = ["gemini-2.5-flash", "gemini-2.5-flash-lite"]  # only 2.5 has free Google Search grounding; if the key
                                                                # cannot use either, evidence is fetched (website + Google News)
+reader_models = ["gemini-3.5-flash-lite", "gemini-3.6-flash"]  # reads fetched pages into evidence (own quota)
 writer_models = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash"]
 judge_models = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash"]
 

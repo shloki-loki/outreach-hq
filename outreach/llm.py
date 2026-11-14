@@ -8,9 +8,9 @@ Key: GEMINI_API_KEY (Shlok creates it at aistudio.google.com and adds it as a Gi
 free tier: Google may use free-tier prompts to improve its products. Prompts carry public job postings and
 the facts in config/profile.toml, nothing else (no emails, no inbox, no keys).
 
-Spend is counted in the store's quotas per day (settings.toml [providers.gemini] and
-[providers.gemini_search]) so a run never goes past what is configured, and a 429 that says the daily
-quota is used stops the run cleanly instead of retrying.
+The free tier costs nothing, so the limit is Google's own: a 429 that says the daily quota is used stops
+the run cleanly instead of retrying, and the next scheduled run picks up where it stopped. (The
+[providers.gemini*] numbers in settings.toml are not enforced here.)
 """
 
 from __future__ import annotations

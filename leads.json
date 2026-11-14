@@ -31477,13 +31477,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "not stated",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 15,
+    "total": 40,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -31493,15 +31493,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "EIR at Triplespeed (consumer-app venture studio); requires an app you launched and scaled plus full-stack production code.",
+    "fit_notes": "Posting opened 2026-11-14, live, 43 applicants. Hard requirement: launched an app 0-1 with users/revenue; shipped production code across mobile, web, backend. Alcheringa ticketing portal is not a scaled consumer app Shlok owned; no production full-stack shipping.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-14T15:23:17+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -31525,9 +31526,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-14T15:23:17+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 40: rejected (Requires having launched and scaled an app 0-1 and shipping production code)"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-14T15:23:17+05:30",
+   "reject_reason": "Requires having launched and scaled an app 0-1 and shipping production code"
   },
   {
    "id": "L0310",

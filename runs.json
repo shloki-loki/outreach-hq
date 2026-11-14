@@ -260,6 +260,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-14T12:26:22+05:30",
+   "agent": "follow-up",
+   "ok": true,
+   "summary": "0 follow-ups drafted (none due), 1 reply flagged (L0035 Sumit: interested, couldn't reach phone), 0 bounces. lead list sync failed once on git reset in data/ (exit 128), passed on retry.",
+   "stats": {}
   }
  ]
 }

@@ -1160,6 +1160,15 @@
    "title": "Founder re-outreach imported",
    "detail": "Four tabs yielded 2915 email entries, 1355 distinct addresses, two Beltech matches excluded. Imported 644 speculative company records with 1353 unverified contacts. PR 5 schedules up to 60 approved new emails daily plus 10 follow-ups; suppression and address gates retained. No sends performed.",
    "ref": "https://github.com/shloki-loki/outreach-hq/pull/5"
+  },
+  {
+   "id": "J0130",
+   "at": "2026-11-15T01:00:49+05:30",
+   "by": "claude",
+   "kind": "fix",
+   "title": "Solved: Application packet deployment blocked by Vercel build limit",
+   "detail": "Cause: Vercel's free (Hobby) plan limits how many deployments a project can make per day; today's many pushes (PR 1, PR 3, PR 4 merges plus previews) used it up, so PR 3's preview was refused with 'Deployment rate limited, retry in 24 hours'. The live site still answers (outreach-hq-psi.vercel.app/login returned 200 at 20:11 IST) but runs the older build without the packet page. Remedy: after about 15:45 IST on 2026-11-15, redeploy main once from the Vercel dashboard (Deployments > Redeploy) or push one commit, then open the packet page to confirm before resolving. Batch site changes into fewer pushes to stay under the limit; no paid upgrade needed.",
+   "ref": "I0009"
   }
  ]
 }

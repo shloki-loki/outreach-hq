@@ -221,7 +221,7 @@ class WriterTest(Base):
         draft = {"subject": "dispatch lots at Acme", "body": GOOD_BODY, "promise": ""}
         critic = {"would_reply": 8, "reads_mass_produced": False, "unsupported_claims": [], "unclear": [], "fix": ""}
         with mock.patch.object(llm, "generate", side_effect=FakeModel(draft, critic)):
-            result = writer.run(linkedin_limit=0)
+            result = writer.run(linkedin_limit=0, apply_limit=0)
         self.assertEqual(result["cold"], 1, result)
         message = store.load("messages")["messages"][0]
         self.assertEqual((message["status"], message["play"], message["created_by"]), ("draft", "question", "writer"))
@@ -229,7 +229,7 @@ class WriterTest(Base):
     def test_a_weak_draft_never_reaches_the_queue(self):
         weak = {"subject": "Application for Founder's Office", "body": GOOD_BODY.replace("I'm interested", "I am excited"), "promise": ""}
         with mock.patch.object(llm, "generate", side_effect=FakeModel(weak, weak, weak)):
-            result = writer.run(linkedin_limit=0)
+            result = writer.run(linkedin_limit=0, apply_limit=0)
         self.assertEqual((result["cold"], result["dropped"]), (0, 1))
         self.assertEqual(store.load("messages")["messages"], [])
         self.assertIn("could not produce", store.load("leads")["leads"][0]["notes"][-1]["text"])
@@ -238,8 +238,25 @@ class WriterTest(Base):
         draft = {"subject": "dispatch lots at Acme", "body": GOOD_BODY, "promise": ""}
         harsh = {"would_reply": 4, "reads_mass_produced": True, "unsupported_claims": [], "unclear": [], "fix": "be specific"}
         with mock.patch.object(llm, "generate", side_effect=FakeModel(draft, harsh, draft, harsh, draft, harsh)):
-            result = writer.run(linkedin_limit=0)
+            result = writer.run(linkedin_limit=0, apply_limit=0)
         self.assertEqual(result["cold"], 0)
+
+    def test_application_note_is_saved_as_a_kit(self):
+        data = store.load("leads")
+        stored = store.find(data["leads"], self.lead["id"])
+        stored["apply_url"] = "https://acme.com/jobs/1"
+        store.save("leads", data)
+        note = {"note": ("Acme is taking same-day dispatch to 2,000 stores in Bengaluru, and this role runs the weekly plan "
+                         "behind it. At Ola Electric I rebuilt the S&OP review the leadership team used every week, so a "
+                         "decision that took days came down to one meeting. That's the work this posting describes, and "
+                         "Acme's pace is why I'd like to do it there, from the founder's office, with the team that owns it.")}
+        critic = {"would_reply": 8, "reads_mass_produced": False, "unsupported_claims": [], "unclear": [], "fix": ""}
+        with mock.patch.object(llm, "generate", side_effect=FakeModel(note, critic)):
+            result = writer.run(cold_limit=0, followup_limit=0, linkedin_limit=0)
+        self.assertEqual(result["apply_notes"], 1, result)
+        stored = store.find(store.load("leads")["leads"], self.lead["id"])
+        self.assertEqual(stored["apply"]["status"], "kit_ready")
+        self.assertIn("Ola Electric", stored["apply"]["answers"][writer.COVER_NOTE])
 
     def test_play_choice(self):
         self.assertEqual(writer.choose_play({"type": "company"}, {"role_type": "founder"}), "offer")
@@ -300,3 +317,17 @@ class ParseTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class CoverNoteTest(Base):
+    def test_cover_note_rules(self):
+        from outreach import messages
+        good = ("Acme is moving same-day dispatch to forty cities, and the posting asks for someone who can run the weekly "
+                "plan across ops and finance. At Ola Electric I built the S&OP review that the leadership team used every "
+                "week, and it cut the time to a decision from days to one meeting. Acme's push into new cities is the kind "
+                "of messy, cross-team work I've done and want more of, so I'd like to help run it from the founder's office.")
+        self.assertEqual(messages.check_cover_note(good, company="Acme"), [])
+        self.assertTrue(messages.check_cover_note("I am excited to apply. " + good, company="Acme"))
+        self.assertTrue(messages.check_cover_note(good + " My notice period is 30 days.", company="Acme"))
+        self.assertTrue(messages.check_cover_note(good, company="Zeta"))
+

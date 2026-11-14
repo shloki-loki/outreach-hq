@@ -459,7 +459,9 @@ def main(argv: list[str] | None = None) -> None:
     p = sub.add_parser("write-run", help="draft cold emails, follow-ups and LinkedIn notes with the free model, for approval")
     p.add_argument("--cold", type=int, default=6); p.add_argument("--followups", type=int, default=10)
     p.add_argument("--linkedin", type=int, default=8)
-    p.set_defaults(func=lambda a: out(writer.run(cold_limit=a.cold, followup_limit=a.followups, linkedin_limit=a.linkedin)))
+    p.add_argument("--apply", type=int, default=25, help="application cover notes for qualified jobs not yet applied to")
+    p.set_defaults(func=lambda a: out(writer.run(cold_limit=a.cold, followup_limit=a.followups, linkedin_limit=a.linkedin,
+                                                 apply_limit=a.apply)))
 
     p = sub.add_parser("people-run", help="find up to 3 people per qualified lead on LinkedIn (Apify, capped)")
     p.add_argument("--limit", type=int, default=8); p.add_argument("--lead", help="comma-separated lead ids")

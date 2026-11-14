@@ -117,6 +117,44 @@ class ResearchWorkerTest(Base):
         self.assertNotIn("9343806463", model.prompts[1])   # contact details never reach the model
         self.assertNotIn("Beltech", model.prompts[1])
 
+    def test_without_grounding_evidence_is_fetched_and_still_sourced(self):
+        lead = self.new_lead()
+        data = store.load("leads")
+        store.find(data["leads"], lead["id"])["company_url"] = "https://acme.com"
+        store.save("leads", data)
+        site = b"<html><body>" + b"Acme runs same-day dispatch for D2C brands across 40 Indian cities. " * 6 + b"</body></html>"
+        feed = (b"<rss><channel><item><title>Acme raises Series B</title><link>https://news.example.com/a</link>"
+                b"<pubDate>Mon, 02 Nov 2026 10:00:00 GMT</pubDate><source url='https://x.com'>ET</source></item></channel></rss>")
+        fetched = json.dumps({"what_they_do": "same-day dispatch", "recent_fact": {"fact": "raised Series B",
+                                                                                  "url": "https://news.example.com/a"}})
+        model = FakeModel(llm.Reply(text=fetched, model="j"), judged(hook_source="https://news.example.com/a"))
+        get = lambda url, **kw: feed if "news.google.com" in url else site
+        with mock.patch.object(research, "pick_models", return_value={"research": None, "judge": "j"}), \
+                mock.patch.object(research, "http_get", side_effect=get), mock.patch.object(llm, "generate", side_effect=model):
+            result = research.run(limit=5)
+        self.assertEqual(result["qualified"], 1, result)
+        stored = store.find(store.load("leads")["leads"], lead["id"])
+        self.assertEqual([s["url"] for s in stored["research"]["sources"]], ["https://acme.com", "https://news.example.com/a"])
+        self.assertIn("fetched", stored["research"]["evidence_model"])
+        self.assertIn("[S2]", model.prompts[0])
+
+    def test_a_key_without_grounding_falls_back_to_fetched_evidence(self):
+        research._GROUNDING_OFF = False
+        self.addCleanup(setattr, research, "_GROUNDING_OFF", False)
+        calls = []
+        def generate(prompt, **kw):
+            calls.append(kw.get("search"))
+            if kw.get("search"):
+                raise llm.LlmError("Gemini HTTP 404: This model models/gemini-2.5-flash is no longer available to new users")
+            return llm.Reply(text="{}", model="j")
+        with mock.patch.object(llm, "generate", side_effect=generate), \
+                mock.patch.object(research, "http_get", return_value=b"<rss><channel></channel></rss>"):
+            evidence, sources = research.gather_evidence({"company": "Acme", "title": "x", "company_note": "AmbitionBox 4.1"},
+                                                         {"research": "gemini-2.5-flash", "judge": "j"})
+        self.assertEqual(calls, [True, None])
+        self.assertTrue(research._GROUNDING_OFF)
+        self.assertEqual(sources, [])
+
     def test_invented_source_and_seniority_are_caught_and_retried(self):
         self.new_lead()
         bad = judged(hook_source="https://made-up.example.com/news")

@@ -48,6 +48,7 @@ jobs:
           python-version: "3.12"
       - name: Compare with Claude's research (stores nothing)
         if: inputs.compare_ids != ''
+        shell: bash   # bash -eo pipefail, so a failure is not hidden by tee
         run: python -m outreach research-run --compare "${{ inputs.compare_ids }}" | tee compare.json
       - name: Keep the comparison
         if: inputs.compare_ids != ''

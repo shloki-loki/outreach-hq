@@ -1223,6 +1223,15 @@
    "title": "Run failed",
    "detail": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
    "ref": ""
+  },
+  {
+   "id": "J0137",
+   "at": "2026-11-15T01:50:31+05:30",
+   "by": "research-worker",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "0 researched (0 qualified, 0 rejected), 0 closed postings binned, 3 left for a person",
+   "ref": ""
   }
  ]
 }

@@ -779,6 +779,24 @@
     "alerts": 3,
     "open_work": 5
    }
+  },
+  {
+   "at": "2026-11-15T01:50:31+05:30",
+   "agent": "research-worker",
+   "ok": false,
+   "summary": "0 researched (0 qualified, 0 rejected), 0 closed postings binned, 3 left for a person",
+   "stats": {
+    "researched": 0,
+    "qualified": 0,
+    "rejected": 0,
+    "binned": 0,
+    "left_for_a_person": 3,
+    "errors": 27,
+    "models": {
+     "research": "gemini-2.5-flash",
+     "judge": "gemini-3.8-flash"
+    }
+   }
   }
  ]
 }

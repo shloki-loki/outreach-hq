@@ -1151,6 +1151,15 @@
    "title": "Ran",
    "detail": "6530 jobs read, 215 passed rules, 6 new leads",
    "ref": ""
+  },
+  {
+   "id": "J0129",
+   "at": "2026-11-15T00:59:49+05:30",
+   "by": "codex",
+   "kind": "update",
+   "title": "Founder re-outreach imported",
+   "detail": "Four tabs yielded 2915 email entries, 1355 distinct addresses, two Beltech matches excluded. Imported 644 speculative company records with 1353 unverified contacts. PR 5 schedules up to 60 approved new emails daily plus 10 follow-ups; suppression and address gates retained. No sends performed.",
+   "ref": "https://github.com/shloki-loki/outreach-hq/pull/5"
   }
  ]
 }

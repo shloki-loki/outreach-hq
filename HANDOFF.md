@@ -108,11 +108,18 @@ approve, skip, approve several), Progress (funnel, reply and bounce rates, by so
 
 **Secrets that exist:** GitHub Actions has `GMAIL_ADDRESS`, `GMAIL_APP_PASSWORD` and variable `SITE_URL`.
 Local `.env` (gitignored) has the Gmail pair, `SITE_URL` and `REOON_API_KEY`. **GitHub does not yet have
-`REOON_API_KEY` or an Apify token**; both are needed for section 6.
+`GEMINI_API_KEY`, `APIFY_TOKEN` or `REOON_API_KEY`**; the workflows skip each step cleanly until its key is
+added (he adds them himself).
 
 ## 4. Where things stand
 
-- Nov 15 founder re-outreach: four user-supplied tabs staged as speculative Strategy and Operations leads, not confirmed openings. Exclude Beltech AI. Target up to 60 approved first emails per IST day, with the existing separate 10 follow-up allowance. Hourly cycle 08:20–20:20 IST. Keep existing suppression, address grading, approval, and follow-up safeguards. Prior replies and outcomes need review before any re-contact.
+### 2026-11-14 evening: v2 enforced, live check, new sources, GitHub workers
+
+Built in one change (section 6 A-E): playbook v2 in code, daily live check with a Bin (13 binned on the first
+run), Naukri/Wellfound/Hiring Cafe through Apify, LinkedIn people and notes, research and writing on GitHub
+with Gemini's free tier. 360 leads: 264 unresearched and open, 58 qualified, 13 in the Bin. 6 emails sent,
+1 reply (a recruiter for an undisclosed AI company; he has a call on Monday 2026-11-16), 0 bounces.
+Waiting on him: `GEMINI_API_KEY`, `APIFY_TOKEN`, `REOON_API_KEY` as GitHub secrets.
 
 ### 2026-11-14 shared supervisor rollout
 
@@ -161,110 +168,63 @@ issues as supervisor and share improvements via PRs, the work queue and journal.
 
 Each item says what done looks like. Where a design choice is already made, follow it.
 
-### A. Make the email playbook real (highest priority)
+### A-E: built on 2026-11-14 (branch `claude/playbook-live-research`), what remains
 
-`config/voice.md` v2 is written. Still to do:
+All five are code with tests (`tests/test_workers.py`, plus the v2 cases in `tests/test_pipeline.py`).
+What is still open in each is listed; do not rebuild what exists.
 
-1. **Enforce it in `outreach/messages.py:check_draft`** (every rule marked **[to enforce]** in voice.md),
-   with tests in `tests/test_pipeline.py`:
-   - first-email body 50-120 words; subject 2-6 words and at most 45 characters, no pipe, no "application
-     for", not his name;
-   - the first sentence after the greeting may not start with "I", "My", "Your post", "Your posting",
-     "The role";
-   - exactly one question mark in a first email; at most four numbers in the body;
-   - the new banned phrases and shapes; no self-disqualifying lines in a first email; stiff
-     non-contracted forms ("I am", "I have", "do not", "I would");
-   - a first email is refused without `hook` and `hook_source`;
-   - add `play` (question / offer / direct / story) and `promise` (for the offer play) fields to a draft,
-     with `--play` and `--promise` on `message draft`, shown on the site's message card.
-   Tighten only. If an old test fails because the bar rose, update the test's sample email to meet the new
-   bar; never lower the bar.
-2. **Rewrite the 8 waiting drafts under v2** (skip the old one, queue the new one with
-   `python3 -m outreach message draft ...`). Each needs a real observation about the company with a source
-   URL; re-read the posting first. A generic inbox gets the direct play, and a named decision-maker should
-   be found for the real note.
-3. Follow-up timing: second follow-up about 5 business days after the first (`config/settings.toml`
-   `[followups] second_after_business_days`, currently 7). Optional and unproven: prefer Tuesday to
-   Thursday mornings for first emails.
-4. Metrics by play on the Progress page once 30 emails have gone out.
+**A. Playbook v2 enforced.** `check_draft` refuses every v2 violation (50-120 words, subject 2-6 words and
+45 characters with no digits, opener not on himself except the direct play, exactly one question, at most 4
+numbers, the v2 banned phrases and shapes, stiff forms, self-disqualifying lines, more than 1.3 years
+claimed, missing hook or hook URL, missing play, offer without promise). `message draft --play --promise`;
+the site shows play and promise. voice.md's own worked examples are a test, so the two cannot drift.
+Open: metrics by play on the Progress page once 30 emails are out; follow-up timing change (optional).
+The 5 drafts approved on 2026-11-14 were written under v1 and were approved before v2; leave them.
 
-**Done when:** a v1-style email is refused by the command with clear reasons, the v2 worked examples in
-voice.md pass, tests are green, and the Approvals page holds only v2 drafts.
+**B. Daily live check and Bin.** `verify-live` (`outreach/live.py`, `live.yml` daily 05:40 IST). Bins only on
+a clear signal: board API 404/410, LinkedIn's "No longer accepting applications", a page that says the job
+is closed/filled/expired, a closed Google Form. "Until the position is filled" is not a closure (a test).
+Rate limits and login walls are "could not check". Conversations are never binned. `lead set <id>
+--reopen` undoes it. First run 2026-11-14: 353 checked, 13 binned, 65 not checkable (34 LinkedIn posts
+with no outside apply link, 27 companies with no posting). Site: Bin view on Leads.
+Open: LinkedIn hiring posts with no outside link cannot be checked without a login.
 
-### B. Daily live check with a Bin
+**C. Naukri, Wellfound, Hiring Cafe.** `outreach/sources/apify.py`, run inside the scout workflow when
+`APIFY_TOKEN` is a secret: `valig/naukri-jobs-scraper`, `clearpath/wellfound-api-ppe`,
+`memo23/apify-hiring-cafe-scraper` (each test-run on 2026-11-14; Hiring Cafe found Exotel's Chief of Staff
+to the CTO). Searches and cadence in `config/targeting.toml [apify.*]`. Budget: `maxTotalChargeUsd` per call
+and `settings.toml [apify] monthly_cap_usd = 3.5`, checked against Apify's own monthly usage figure before
+every call. Open: needs `APIFY_TOKEN` in GitHub secrets; YC not widened.
 
-He wants every lead checked once a day; anything no longer open goes to a bin.
+**D. LinkedIn people and notes.** `people-run` (`outreach/people.py`, harvestapi/linkedin-company-employees,
+Short mode, about $0.044 a company) adds up to 3 people per qualified lead: reports-to (Chief of Staff,
+strategy/business head, COO), founder/CEO, recruiter. `write-run` drafts a connection note (<=200 chars)
+and a message/InMail for each, checked by `messages.check_linkedin`; shown on the lead page with copy
+buttons. Never sent by the system. Open: needs `APIFY_TOKEN`; leads without `company_linkedin` are skipped.
 
-- New command `python3 -m outreach verify-live [--limit N]` and a daily GitHub workflow (`live.yml`).
-- Per source: Greenhouse/Lever/Ashby: the posting is gone from the board API. LinkedIn job: the guest
-  posting page 404s or says it no longer accepts applications (expect 429s from GitHub's IPs; back off,
-  and treat "could not check" as unknown, never as closed). Instahyre and YC: the job is gone from the
-  API or page. LinkedIn hiring posts: the post URL is gone, or the post is over 30 days old with no
-  contact made. Naukri/Wellfound/Hiring Cafe: the apply URL or the next scrape no longer has it.
-  Speculative leads: the company site still answers.
-- A closed lead gets `open: false`, stage `closed`, a timeline entry, and any unsent draft is skipped
-  with a note. A lead he has already emailed or applied to stays visible with a "posting closed" tag.
-- Site: a **Bin** view on Leads (closed postings), separate from Rejected; "last checked" on each row.
-- Record each run in the supervisor log (`store.log_run`), with counts checked / closed / unknown.
-
-### C. More lead sources: Hiring Cafe, Naukri, Wellfound, wider YC
-
-Direct requests are blocked (Naukri recaptcha, Wellfound and Hiring Cafe behind Cloudflare), so use Apify
-actors through the Apify API from GitHub Actions. Candidates found 2026-11-13 (free-tier prices):
-`blackfalcondata/naukri-jobs-feed` (about $0.39 per 1,000 jobs), `valig/naukri-jobs-scraper` ($0.40),
-`blackfalcondata/hiringcafe-scraper` ($1.15) or `memo23/apify-hiring-cafe-scraper` ($1.25),
-`romy/wellfound-jobs-scraper` (about $1-3) or `clearpath/wellfound-api-ppe` ($3). Read each actor's input
-schema before use. YC is already a source (`outreach/sources/yc.py`); widen it beyond companies flagged as
-hiring in India if useful.
-
-- Add `outreach/sources/apify.py` (run actor, wait, read dataset) and one small module per site that maps
-  items to the job shape in `outreach/sources/__init__.py`. Every job still passes `rules.judge`.
-- **Budget guard:** Apify's free plan is about $5 of credit a month and it is shared with section D. Track
-  spend in `data/quotas.json`, cap each run (`maxTotalChargeUsd`), and stop for the month when the cap is
-  reached, with an issue logged. Suggested split: about $3 a month for job sources, $1.50 for people.
-- Needs `APIFY_TOKEN` as a GitHub Actions secret (he adds it himself).
-
-### D. People at each company, with LinkedIn drafts
-
-For every qualified lead, find up to 3 people at the company (not his connections): the person the role
-reports to or a founder, someone already doing the job, and the recruiter. Draft for each a connection
-note (at most 200 characters) and a message / InMail (40-80 words). Rules are in voice.md under LinkedIn.
-
-- People search without logging in: Apify actors such as `johnvc/linkedin-company-employees-api` (about
-  $0.0012 per person found) or `harvestapi/linkedin-company-employees` ($0.003 basic profile plus $0.02
-  per run). Only record a LinkedIn URL that a source returned; never build one from a name.
-- Store them as contacts with `channel: linkedin`; show on the lead page with "copy note and open
-  profile". Nothing is sent by the system.
-- Email stays at 2 people per lead; LinkedIn may reach 3.
-
-### E. Move research and writing to GitHub, off Claude, without losing quality
-
-Coordination foundation implemented 2026-11-14. Hosted model workers, approved-answer
-library and 20-packet quality/time evaluation remain pending. Existing schedules must not be removed yet.
-
-Today research, drafting, follow-up drafting and the supervisor are Claude scheduled tasks on his Mac. He
-wants every scheduled job on GitHub and nothing drawing on his Claude plan. The mechanical parts (B, C, D's
-search, verification, sending, tracking) are plain code. The judgement parts need a model:
-
-- **Research** a lead: read the real posting, decide fit against `profile.toml` and `targeting.toml`,
-  write the one-sentence headline, find a hook with its URL, record pay only with evidence.
-- **Write** first emails, follow-ups and LinkedIn notes to voice.md v2.
-- **Supervise:** most checks are deterministic code (stale runs, stuck sends, bounce rate, data
-  consistency); a model only helps summarise.
-
-Options for a model on GitHub at no cost, **none verified yet** (verify limits and terms before building):
-GitHub Models is retired (official docs checked 2026-11-14), so do not build on that option. A free API tier such as Google's requires fresh verification. Running Claude
-itself on GitHub with his subscription token would still draw on his plan, which is what he wants to avoid.
-
-Design that protects quality regardless of the model:
-1. Facts first, then the angle, in two steps, each fact with a source URL. "No hook found" is a valid
-   result and means no draft.
-2. The model gets voice.md, the facts allowed, and the worked examples; it returns structured JSON.
-3. `check_draft` gates every draft; on failure the problems are fed back, at most 3 tries, then the lead is
-   left undrafted with a note.
-4. A second pass reads the draft as the recipient (the checklist at the end of voice.md) and may reject it.
-5. He still approves every email. Log each run and each refusal to the supervisor log.
-6. Compare the first 20 model drafts against the v2 worked examples before switching the Claude tasks off.
+**E. Research and writing on GitHub.** GitHub Models was retired on 2026-07-30 (docs checked), so the
+workers use **Google's Gemini free tier** (`outreach/llm.py`, key `GEMINI_API_KEY`): Gemini 2.5 Flash with
+Google Search grounding (free up to 500 grounded requests a day) for evidence, and the best available free
+Flash model for judging and writing (`settings.toml [llm]`, picked from what the key can use). Free-tier
+prompts may be used by Google to improve its products; prompts carry public postings and the facts in
+profile.toml only (no contact details, no employment list, no Beltech; a test checks this).
+- `research-run` (`outreach/research.py`, prompts in `config/prompts/`): reads the real posting, gathers
+  sourced evidence, judges with the lead-scout rubric, then **code checks** the answer: hook URL must be
+  the posting or a numbered search source, years asked re-read from the posting (over 4 = reject), an
+  estimated pay must name a site the evidence reported, a qualify must cite real profile fact ids. One
+  retry; otherwise the lead is left for a person with a note. Stored through the same `record` path as
+  `lead research`, marked `by: research-worker`, `review: pending`.
+- `write-run` (`outreach/writer.py`): cold emails, follow-ups, LinkedIn notes. Gates: voice.md in the
+  prompt, play chosen in code, `check_draft`, an invented-number guard (`fact_check`), and a recipient-read
+  critic (below 7/10, mass-produced, or any unsupported claim sends it back; 3 tries, then dropped with a
+  note). At most 20 drafts wait for approval at once.
+- `research.yml` runs research, people, email finding and writing at 07:00, 13:00, 19:00 IST.
+- **Quality gate before retiring the Claude tasks:** run `research-run --compare <20 Claude-researched
+  ids>` and compare decisions, scores and headlines; read the first 20 writer drafts against voice.md.
+  Only then switch off the Mac's Claude research/drafting tasks. Until then both run; `create_draft`
+  refuses duplicates, so they cannot double-email.
+Open: `GEMINI_API_KEY` secret (he creates it in Google AI Studio); the compare run; the supervisor still
+runs on Claude (its checks are mostly deterministic already in `outreach/supervisor.py`).
 
 ### F. Smaller open items
 
@@ -274,7 +234,8 @@ Design that protects quality regardless of the model:
 - An auto-approve switch for a narrow class of emails, only when he asks.
 - Pay evidence is missing for several researched leads. AiSteth (L0090) missed the qualify bar by one
   point (64 vs 65); he has not said whether to put it back.
-- 248 leads are unresearched and about 50 old-tracker leads have not been re-verified.
+- 264 leads are unresearched (2026-11-14, after the Bin); research-run works through them best first once
+  `GEMINI_API_KEY` is set (about 80 a day on the free tier).
 
 ## 7. How to contribute without lowering quality
 
@@ -313,6 +274,10 @@ python3 -m outreach contact add <lead> --name ... --title ... --role-type ... [-
 python3 -m outreach find-email --lead <id> [--recheck] [--domain example.com]
 python3 -m outreach message check|draft|list ...            # draft is refused unless check_draft passes
 python3 -m outreach track | send | cycle | digest --print
+python3 -m outreach verify-live [--limit N] [--lead L0123] [--dry]   # daily live check, closed -> Bin
+python3 -m outreach research-run [--limit N] [--lead ids] [--compare ids]   # Gemini research worker
+python3 -m outreach people-run [--limit N] [--lead ids]             # LinkedIn people via Apify (capped)
+python3 -m outreach write-run [--cold N --followups N --linkedin N]  # drafts for approval, never sends
 python3 -m outreach issue list|add|remedy|resolve ...
 python3 -m outreach log add|list ...
 python3 -m unittest discover -s tests
@@ -330,5 +295,15 @@ to `.env` (he fills in the secrets). The site: `cd web && npm install && DATA_DI
 - `REOON_API_KEY` is not in GitHub Actions, so address verification only works from his Mac today.
 - The site's Log page was checked on a local copy, not signed in on the live site.
 - Reddit cannot be read by ordinary fetch tools; the research used an Apify Reddit scraper.
+- The Gemini workers (`research-run`, `write-run`) are tested with a fake model only; they have never run
+  against the real API (no key yet). Model names in `settings.toml [llm]` are matched against the key's
+  model list at run time. The Apify job sources and people search were test-run through Apify's own tools,
+  not yet through `sources/apify.py` with a token. `users/me/limits` (Apify usage read) is unverified; if it
+  fails the code falls back to its own spend ledger.
+- The LinkedIn-notes card on the lead page has been built but not seen with real data.
 
 Rollout: PR #1 merged; GitHub supervisor run 43584199808 succeeded. Website packet added in follow-on PR; see SUPERVISOR.md for current limits.
+
+## Founder re-outreach (Nov 15)
+
+Imported 1,353 unverified contacts across 644 speculative company leads after excluding two Beltech addresses. Up to 60 approved first emails daily and 10 separate follow-ups, with the cycle checking hourly from 08:20 to 20:20 IST. Existing verification and suppression rules apply. Review prior replies before re-contact.

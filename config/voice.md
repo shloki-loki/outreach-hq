@@ -7,7 +7,7 @@ considered", ask for a 15-minute call. Shlok rejected that. Version 2 is built f
 gets replies (sources at the end).
 
 `python3 -m outreach message draft` refuses a draft that breaks a rule marked **[enforced]**. Rules marked
-**[to enforce]** are binding on the writer now and are being added to `outreach/messages.py:check_draft`.
+**[enforced]** rules are checked in `outreach/messages.py:check_draft` (all of playbook v2 since 2026-11-14).
 Never loosen a check to make a draft pass. Fix the draft.
 
 ## What the research says (the short version)
@@ -42,7 +42,7 @@ meetings. Their inbox is a to-do list other people can add to. They owe Shlok no
 
 ## Shape of a first email: three short paragraphs, 60-100 words
 
-**[enforced]** 50-150 words today. **[to enforce]** 50-120, and the writer should aim for 60-100.
+**[enforced]** 50-120 words, and the writer should aim for 60-100.
 
 1. **Greeting:** `Hi <first name>,` **[enforced]**
 2. **Their world (1-2 sentences).** Something specific and true about their business *right now*, and what
@@ -50,14 +50,14 @@ meetings. Their inbox is a to-do list other people can add to. They owe Shlok no
    - It must pass "so what?": it tells them something about their own situation that shows understanding.
    - It must **not** restate their job post back to them ("Your post says the role involves..."). They
      wrote the post. Use the problem behind the post.
-   - It must not be praise, and it must not be about Shlok. **[to enforce]** the first sentence may not
+   - It must not be praise, and it must not be about Shlok. **[enforced]** the first sentence may not
      start with "I", "My", "Your post", "Your posting" or "The role".
 3. **Impact (1-2 sentences).** One result from `config/profile.toml`, as before and after, with scale, in
    words a person outside Ola Electric understands at first read. At most one more fact, and only if it
    is the reason he can be trusted with *their* problem (for example that he worked directly with a CEO
-   and COO). **[to enforce]** at most four numbers in the body, so results cannot be stacked.
+   and COO). **[enforced]** at most four numbers in the body, so results cannot be stacked.
 4. **The reason to reply + one question (1-2 sentences).** Choose one play below. Exactly one question
-   mark in the whole email. **[to enforce]**
+   mark in the whole email. **[enforced]**
 5. **Sign-off:** a last line that is just `Shlok`. **[enforced]** The sender adds the signature with the
    portfolio link; the body carries no link. **[enforced]**
 
@@ -70,12 +70,12 @@ meetings. Their inbox is a to-do list other people can add to. They owe Shlok no
 | **direct** | Recruiter, or an address the posting says to apply to | Say plainly which role, give the one result, attach the resume if the posting asks for it, and ask what else they need or who the hiring manager is. Clear beats clever here. |
 | **story** | When one result is itself the hook (a launch, a turnaround) | Open paragraph 2 on the before state, end on the after, then tie it to their line in one sentence and ask "Worth a conversation?" |
 
-Record which play was used in the draft's `--hook` text for now (for example "play: offer. ..."); a
-`--play` field on drafts is to be added so reply rates can be compared by play.
+Every first email records its play (`--play`), and an offer records its `--promise`, so reply rates can be
+compared by play. **[enforced]**
 
 ### Subject
 
-**[enforced]** 2-9 words today. **[to enforce]** 2-6 words and at most 45 characters. Lowercase is fine.
+**[enforced]** 2-6 words and at most 45 characters. Lowercase is fine.
 About their thing or the role: `dispatch before summer`, `founder's office, one page`, `chief of staff,
 manufacturing`, `quick question about Helium`. Never his name, a pipe, "application for", a number, or a
 benefit claim.
@@ -111,15 +111,15 @@ truck dispatches into lots, and it came down to 14."
 - No pay, CTC or notice period. **[enforced]**
 - No filler openers, buzzwords, flattery, exclamation marks, emojis, em dashes, links, placeholders,
   "just following up". **[enforced]**
-- **[to enforce]** Also banned: "I would like to be considered", "I am writing to", "I'd love to",
+- **[enforced]** Also banned: "I would like to be considered", "I am writing to", "I'd love to",
   "excited", "keen to", "resonates", "great fit", "perfect fit", "pick your brain", "touch base",
   "reaching out", "my name is", "quick call", "15 minutes", "hop on", "Here's the thing", and the shapes
   "It's not X, it's Y" and "The result? ...".
-- **[to enforce]** No self-disqualifying lines in a first email ("I don't have an MBA", "if you need
+- **[enforced]** No self-disqualifying lines in a first email ("I don't have an MBA", "if you need
   someone more senior"). Do not claim more than 1.3 years either. The easy "no" belongs in the last
   follow-up.
-- **[to enforce]** Use contractions ("I'm", "I've", "didn't"). "I am", "I have", "do not" read stiff.
-- **[to enforce]** A first email needs a hook and its source URL. No source, no draft: leave the lead
+- **[enforced]** Use contractions ("I'm", "I've", "didn't"). "I am", "I have", "do not" read stiff.
+- **[enforced]** A first email needs a hook and its source URL. No source, no draft: leave the lead
   undrafted with a note saying what research is missing.
 - Names the company (unless undisclosed). **[enforced]** Never says or implies a tool wrote it. **[enforced]**
 - Never says he has applied unless the lead is marked applied. **[enforced]**

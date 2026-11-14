@@ -12,7 +12,7 @@ from typing import Any
 from . import leads as lead_model
 from . import store
 from .rules import judge
-from .sources import ALL, linkedin
+from .sources import ALL, PAID, linkedin
 from .util import HttpError, load_config, today
 
 
@@ -168,7 +168,8 @@ def run(only: list[str] | None = None, dry: bool = False) -> dict[str, Any]:
                   f"{summary['fetched']} jobs read, {summary['passed_rules']} passed rules, {summary['new']} new leads",
                   {k: summary[k] for k in ("fetched", "passed_rules", "new", "updated", "closed", "by_source")})
     for name, count in report["sources"].items():
-        if count == 0:
+        has_error = any(e.startswith(name) for e in report["errors"])
+        if count == 0 and (name not in PAID or has_error):
             store.open_issue("lead-scout", f"Source '{name}' returned no jobs",
                              "; ".join(e for e in report["errors"] if e.startswith(name))[:600] or "No error, just empty.",
                              key=f"source-empty:{name}")

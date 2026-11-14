@@ -1,0 +1,32 @@
+name: Live check (daily)
+
+# Opens every lead's posting once a day and moves the closed ones to the Bin (outreach/live.py).
+# Only a clear signal bins a lead: the board says the job is gone (404/410) or the page says it stopped taking
+# applications. Leads in a conversation are never binned. Undo with: python -m outreach lead set <id> --reopen
+on:
+  schedule:
+    - cron: "10 0 * * *"      # 05:40 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live
+  cancel-in-progress: false
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check every posting
+        run: python -m outreach verify-live

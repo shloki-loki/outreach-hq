@@ -26,13 +26,18 @@ approval queue stays readable. For each lead:
 2. Check the hook is still true and specific. If the research hook is thin, spend two or three searches on
    the company (launch, funding, a post by this person, a number they published). No real hook, no email:
    `lead set <id> --note "Not drafted: nothing specific to open with; needs <what>." --by send-track`.
-3. Choose one or two facts from `profile.toml` whose tags match the role. Write the email to `voice.md`:
-   their side first, proof with numbers, one easy ask, a last line that is just `Shlok`.
-   Say "I have applied" only if the lead's `applied_at` is set. Otherwise say he would like to be considered.
+3. Choose the play (voice.md, "The four plays"): offer for a company with no opening or a score of 80+,
+   direct for a recruiter or a generic apply address, otherwise question. Choose the one fact from
+   `profile.toml` that answers what the role needs. Write the email to `voice.md` (playbook v2, enforced in
+   code since 2026-11-14): their world first, one result as before and after, exactly one question, a last
+   line that is just `Shlok`. Say "I've applied" only if the lead's `applied_at` is set; otherwise name the
+   role you are interested in (never "would like to be considered", which is now refused).
 4. Queue it:
    ```
    python3 -m outreach message draft --lead <id> --contact <Cn> --kind cold \
-     --subject "<2-9 words>" --hook "<the fact the opener rests on>" --hook-source "<url>" --body-file - <<'EOF_BODY'
+     --subject "<2-6 words, max 45 characters, no digits>" --play question|offer|direct|story \
+     [--promise "<what he delivers if they say yes; required for the offer play>"] \
+     --hook "<the fact the opener rests on>" --hook-source "<url>" --body-file - <<'EOF_BODY'
    Hi <first name>,
    ...
    Shlok

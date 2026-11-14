@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 from typing import Any
 
-from . import digest, emailfinder, importers, leads as lead_model, messages, metrics, scout, send, store, track
+from . import digest, emailfinder, importers, leads as lead_model, live, messages, metrics, people, research, scout, send, store, track, writer
 from .rules import Pay, Verdict, judge, pay_fit
 from .util import load_config, load_env, now, now_iso, parse_iso
 
@@ -114,67 +114,8 @@ def cmd_lead_add(args: argparse.Namespace) -> None:
 
 
 def cmd_lead_research(args: argparse.Namespace) -> None:
-    """Record the scout agent's research on one lead and decide qualified / rejected."""
-    payload = read_json(args.json)
-    targeting = load_config("targeting")
-    result: dict[str, Any] = {}
-
-    def change() -> None:
-        data = store.load("leads")
-        lead = store.find(data["leads"], args.id)
-        if not lead:
-            raise ValueError(f"no lead {args.id}")
-        research_score = payload.get("research_score")
-        if not isinstance(research_score, (int, float)) or not 0 <= research_score <= 100:
-            raise ValueError("research_score (0-100) is required")
-        if payload.get("decision") not in ("qualify", "reject"):
-            raise ValueError("decision must be 'qualify' or 'reject'")
-        if payload["decision"] == "reject" and not payload.get("reject_reason"):
-            raise ValueError("reject_reason is required when rejecting")
-        if not payload.get("fit_notes"):
-            raise ValueError("fit_notes is required")
-        headline = (payload.get("headline") or "").strip()
-        if not 30 <= len(headline) <= 170:
-            raise ValueError("headline is required: one sentence of 30-170 characters that tells Shlok at a glance "
-                             "why this is (or is not) for him")
-        pay = payload.get("pay")
-        if pay:
-            basis = pay.get("basis", "estimate")
-            if basis == "estimate" and not pay.get("source"):
-                raise ValueError("an estimated pay needs its source (site, sample size, total or fixed)")
-            lead["pay"] = {"stated": pay.get("stated") or lead["pay"].get("stated"),
-                           "min_lpa": pay.get("min_lpa"), "max_lpa": pay.get("max_lpa"), "basis": basis,
-                           "source": pay.get("source") or "",
-                           "fit": pay_fit(pay.get("min_lpa"), pay.get("max_lpa"), targeting["pay"]["floor_lpa"], basis)}
-        for field in ("company_domain", "company_url", "company_linkedin", "work_mode", "apply_url"):
-            if payload.get(field):
-                lead[field] = payload[field]
-        if "open" in payload:
-            lead["open"] = bool(payload["open"])
-        if payload.get("jd") and not lead.get("jd"):
-            lead["jd"] = payload["jd"][:3000]
-        lead["research"] = {
-            "done": True, "headline": headline, "fit_notes": payload["fit_notes"], "pay_notes": payload.get("pay_notes", ""),
-            "culture_notes": payload.get("culture_notes", ""), "hook": payload.get("hook", ""),
-            "hook_source": payload.get("hook_source", ""), "researched_at": now_iso()}
-        total = round(0.4 * lead["score"]["rules"] + 0.6 * research_score)
-        lead["score"].update(research=research_score, total=total)
-        below = lead["pay"]["fit"].startswith("Below")
-        qualifies = payload["decision"] == "qualify" and total >= targeting["scoring"]["qualified_threshold"] \
-            and not below and lead.get("open", True)
-        if lead.get("stage") in ("new", "qualified", "rejected"):
-            lead["stage"] = "qualified" if qualifies else "rejected"
-        reason = payload.get("reject_reason") or ("pay is below the floor" if below else
-                                                  "posting is closed" if not lead.get("open", True) else
-                                                  f"score {total} is under {targeting['scoring']['qualified_threshold']}")
-        lead["reject_reason"] = None if qualifies else reason
-        store.add_timeline(lead, "lead-scout", "researched",
-                           f"score {total}: " + ("qualified" if qualifies else f"rejected ({reason})"))
-        store.save("leads", data)
-        result.update(id=lead["id"], total=total, stage=lead["stage"], pay_fit=lead["pay"]["fit"],
-                      reject_reason=lead["reject_reason"])
-    store.transact(change, f"research: {args.id}")
-    out(result)
+    """Record research on one lead and decide qualified / rejected (same code path as the GitHub worker)."""
+    out(research.record(args.id, read_json(args.json), by=args.by))
 
 
 def cmd_lead_set(args: argparse.Namespace) -> None:
@@ -202,6 +143,10 @@ def cmd_lead_set(args: argparse.Namespace) -> None:
         if args.closed:
             lead["open"] = False
             store.add_timeline(lead, args.by, "posting_closed", "confirmed closed")
+        if args.reopen:
+            lead["open"] = True
+            lead.pop("bin", None)
+            store.add_timeline(lead, args.by, "reopened", "taken out of the Bin")
         if args.verified:
             lead["research"]["researched_at"] = now_iso()
             lead["open"] = True
@@ -320,7 +265,8 @@ def cmd_message_draft(args: argparse.Namespace) -> None:
     try:
         message = messages.create_draft(args.lead, args.contact, args.kind, args.subject, body, hook=args.hook or "",
                                         hook_source=args.hook_source or "", created_by=args.by,
-                                        attach_resume=args.attach_resume, allow_unverified=args.allow_unverified)
+                                        attach_resume=args.attach_resume, allow_unverified=args.allow_unverified,
+                                        play=args.play, promise=args.promise or "")
     except ValueError as exc:
         out({"queued": False, "problems": str(exc).split("; ")})
         sys.exit(2)
@@ -331,7 +277,8 @@ def cmd_message_draft(args: argparse.Namespace) -> None:
 def cmd_message_check(args: argparse.Namespace) -> None:
     body = sys.stdin.read() if args.body_file == "-" else Path(args.body_file).read_text(encoding="utf-8")
     problems = messages.check_draft(args.kind, args.subject, body, to_name=args.to_name or "", company=args.company or "",
-                                    speculative=args.speculative)
+                                    speculative=args.speculative, play=args.play, hook=args.hook,
+                                    hook_source=args.hook_source, promise=args.promise)
     out({"ok": not problems, "problems": problems, "words": messages.word_count(body)})
     sys.exit(0 if not problems else 2)
 
@@ -503,6 +450,25 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--dry", action="store_true", help="print what would be stored, store nothing")
     p.set_defaults(func=lambda a: out(scout.run(a.only.split(",") if a.only else None, a.dry)))
 
+    p = sub.add_parser("research-run", help="research unresearched leads with the free model (GitHub worker)")
+    p.add_argument("--limit", type=int, default=25); p.add_argument("--lead", help="comma-separated lead ids")
+    p.add_argument("--compare", help="comma-separated researched lead ids: shadow run, prints both verdicts, stores nothing")
+    p.set_defaults(func=lambda a: out(research.compare(a.compare.split(",")) if a.compare
+                                      else research.run(limit=a.limit, ids=a.lead.split(",") if a.lead else None)))
+
+    p = sub.add_parser("write-run", help="draft cold emails, follow-ups and LinkedIn notes with the free model, for approval")
+    p.add_argument("--cold", type=int, default=6); p.add_argument("--followups", type=int, default=10)
+    p.add_argument("--linkedin", type=int, default=8)
+    p.set_defaults(func=lambda a: out(writer.run(cold_limit=a.cold, followup_limit=a.followups, linkedin_limit=a.linkedin)))
+
+    p = sub.add_parser("people-run", help="find up to 3 people per qualified lead on LinkedIn (Apify, capped)")
+    p.add_argument("--limit", type=int, default=8); p.add_argument("--lead", help="comma-separated lead ids")
+    p.set_defaults(func=lambda a: out(people.run(limit=a.limit, ids=a.lead.split(",") if a.lead else None)))
+
+    p = sub.add_parser("verify-live", help="open every lead's posting; move the closed ones to the Bin")
+    p.add_argument("--limit", type=int); p.add_argument("--dry", action="store_true"); p.add_argument("--lead")
+    p.set_defaults(func=lambda a: out(live.run(limit=a.limit, dry=a.dry, only=a.lead)))
+
     sub.add_parser("track", help="read the inbox for replies and bounces, mark follow-ups due").set_defaults(func=lambda a: out(track.run()))
     sub.add_parser("send", help="send approved emails (respects mode, caps and window)").set_defaults(func=lambda a: out(send.run()))
 
@@ -546,6 +512,7 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--force", action="store_true", help="keep it even if a rule would drop it")
     p.set_defaults(func=cmd_lead_add)
     p = lead.add_parser("research"); p.add_argument("id"); p.add_argument("--json", required=True)
+    p.add_argument("--by", default="lead-scout")
     p.set_defaults(func=cmd_lead_research)
     p = lead.add_parser("set"); p.add_argument("id")
     p.add_argument("--stage", choices=lead_model.STAGES)
@@ -554,6 +521,7 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--apply-status", choices=["not_started", "kit_ready", "prefilled", "applied", "blocked"])
     p.add_argument("--apply-answers", help="JSON file of prepared application answers")
     p.add_argument("--closed", action="store_true")
+    p.add_argument("--reopen", action="store_true", help="take a lead out of the Bin")
     p.add_argument("--headline", help="the one-line verdict shown on the lead's header")
     p.add_argument("--verified", action="store_true", help="stamp that the posting was opened today and is still live")
     p.add_argument("--note")
@@ -581,6 +549,10 @@ def main(argv: list[str] | None = None) -> None:
         p.add_argument("--kind", required=True, choices=messages.KINDS)
         p.add_argument("--subject", required=True)
         p.add_argument("--body-file", required=True, help="file path or - for stdin")
+        p.add_argument("--play", choices=messages.PLAYS, help="cold emails: which play from config/voice.md")
+        p.add_argument("--promise", help="offer play: what Shlok will deliver if they say yes")
+        if name == "check":
+            p.add_argument("--hook"); p.add_argument("--hook-source")
         if name == "draft":
             p.add_argument("--lead", required=True); p.add_argument("--contact", required=True)
             p.add_argument("--hook", help="the specific fact the opener is built on")

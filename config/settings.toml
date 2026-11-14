@@ -60,3 +60,28 @@ limit = 18
 env = "APOLLO_API_KEY"
 period = "month"
 limit = 60
+
+# Apify (Naukri, Wellfound, Hiring Cafe, LinkedIn people). Apify's free plan gives $5 of credit a month and
+# Claude's own lead-scout runs (LinkedIn posts) use the same account, so the GitHub jobs stop at this figure.
+# Checked against Apify's real usage for the month before every call.
+[apify]
+env = "APIFY_TOKEN"
+monthly_cap_usd = 3.5
+
+# The free model the GitHub research and writing jobs use (outreach/llm.py). Both are Google's free tier.
+# Model names are matched against what the key can use; the first available one is taken.
+[llm]
+seconds_between_calls = 7
+research_models = ["gemini-2.5-flash"]                       # has free Google Search grounding
+writer_models = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash"]
+judge_models = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash"]
+
+[providers.gemini]
+env = "GEMINI_API_KEY"
+period = "day"
+limit = 220             # calls a day across research and writing; under the free daily limit
+
+[providers.gemini_search]
+env = "GEMINI_API_KEY"
+period = "day"
+limit = 150             # grounded (Google Search) calls a day; free up to 500

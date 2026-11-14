@@ -137,3 +137,9 @@ automatically. Anything else worth knowing goes there too, when it happens:
 `python3 -m outreach log add --by lead-scout --kind note|debug --title "..." --detail "..." [--ref L0105]`
 (a command that failed and how you got past it, a source that returned nothing, a lead you could not
 verify, credits running out). Never work around a failure silently.
+
+## Shared coordination
+
+Before taking work, read `SUPERVISOR.md`, inspect `work list`, and claim the relevant item as claude.
+Respect active Codex claims. Reuse `packet <lead>`; record completion or release with evidence.
+The same supervisor protocol applies regardless of which model receives Shlok's request.

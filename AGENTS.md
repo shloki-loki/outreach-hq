@@ -23,3 +23,9 @@ quality contract). This file is the short list you must not break.
   it works, and say plainly what you did not test.
 - When you finish or start something listed in `HANDOFF.md` section 6, update sections 4 to 6 of that file.
 - Site: `web/` (Next.js), deployed by Vercel from `main`.
+
+## Shared supervisor entry point
+
+Read `SUPERVISOR.md` and `config/routing.toml` at the start of every session. The assistant receiving
+Shlok's request is the supervisor, regardless of provider. Use the shared `work` queue and journal;
+claim work before execution, reuse `packet <lead>`, and record tested changes and handoffs.

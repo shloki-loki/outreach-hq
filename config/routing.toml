@@ -1,0 +1,8 @@
+# Preferred owners, not automatic model invocation. Per-item assignment is authoritative.
+# Changes go through a reviewed PR and the shared supervisor log.
+[owners]
+research = "codex"
+draft = "codex"
+followup = "codex"
+review = "claude"
+engineering = "codex"

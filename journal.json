@@ -1007,6 +1007,15 @@
    "title": "Daily live check: closed postings go to the Bin",
    "detail": "New verify-live command and a daily 05:40 IST workflow. Only clear signals bin a lead (job board says the job is gone, LinkedIn shows No longer accepting applications, the page says closed/filled/expired). First run checked 353 leads: 13 moved to the Bin, 275 live, 65 not checkable (34 LinkedIn posts with no outside apply link, 27 companies with no posting). A dry run first caught one false match (Microsoft: until the position is filled), fixed before the real run. Undo any bin with lead set <id> --reopen.",
    "ref": "PR4"
+  },
+  {
+   "id": "J0113",
+   "at": "2026-11-14T19:06:33+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Naukri, Wellfound and Hiring Cafe added as lead sources (needs APIFY_TOKEN)",
+   "detail": "Read through Apify actors chosen by a test run each: valig/naukri-jobs-scraper, clearpath/wellfound-api-ppe, memo23/apify-hiring-cafe-scraper. Hiring Cafe's test found Exotel's Chief of Staff to the CTO in Bengaluru. Each call has its own cost cap and the month stops at USD 3.50, checked against Apify's real usage before every call. They stay off until APIFY_TOKEN is added as a GitHub secret.",
+   "ref": "PR4"
   }
  ]
 }

@@ -1124,6 +1124,15 @@
    "title": "Daily review 2026-11-14",
    "detail": "Agents: lead-scout/scrape ok 00:19 and 13:33 IST (39 new leads); lead-scout ok 15:25 (12 researched, 1 qualified); send-track ok 15:23 (1 draft, 3 application kits); send-track/send ok 15:38-15:48 (7 sent, 0 failed); follow-up ok 12:26; follow-up/track ok, last 15:48 (stale 4h23m at 20:11 because 3 GitHub slots did not fire); follow-up/digest ok 15:12 (6.7 h late); live-check ok 18:46 (353 checked, 13 binned) then re-verified per lead to 19:03, 16 in Bin; supervisor/check ok 15:43; research-worker skipped (no GEMINI_API_KEY); Codex worker not yet run. Problems: I0004, I0006, I0007, I0008 fixed today by the session (store git timeouts 6ebb3bd), confirmed in log; I0005 GitHub schedules late/dropped, seen again, diagnosed, open; I0009 Vercel deploy rate limit, diagnosed today, open until redeploy after ~15:45 IST 15 Nov. Changes today: store git timeout fix, shared supervisor and work queue (PR 1), packet CLI (PR 3), playbook v2 enforced, daily live check and Bin, Naukri/Wellfound/Hiring Cafe sources, LinkedIn people and notes, Gemini research/write workers (PR 4). Funnel: 360 found, 85 researched, 58 qualified, 11 cold emails sent + 2 applied, 1 replied, 1 interview stage (L0035), 0 offers. Reply rate 9.1% (1/11), bounce rate 0% (0/11). Best source so far: LinkedIn posts (58 leads, 9 contacted, 2 applied, 1 interview); job boards mostly unresearched. Verifier credits: not reported by the system. Needs Shlok: call/reply to Sumit (L0035); add GEMINI_API_KEY and APIFY_TOKEN as GitHub secrets; redeploy site after Vercel limit resets; choose an external trigger for GitHub schedules (I0005); import LinkedIn connections.",
    "ref": ""
+  },
+  {
+   "id": "J0126",
+   "at": "2026-11-14T20:13:53+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "2 open issues (I0005 late GitHub schedules, seen again; I0009 Vercel deploy limit, remedy written), 4 confirmed fixed earlier today (I0004, I0006-I0008), reply rate 9.1%, bounce rate 0%",
+   "ref": ""
   }
  ]
 }

@@ -1277,6 +1277,15 @@
    "title": "Why applications are not moving (2026-11-15)",
    "detail": "45 qualified jobs ready, 2 applied: the site had no apply list. New matching jobs 20-45 a day (searches only covered Founder's Office/CoS titles). 261 job leads unresearched: the free worker was stuck (Gemini 2.5 Flash retired for new keys). Only 3 of 58 qualified leads have a verified email, so 11 emails sent in total. Applications have no follow-up because no person is attached.",
    "ref": "PR6"
+  },
+  {
+   "id": "J0143",
+   "at": "2026-11-15T02:07:35+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "PR 6: Apply today view, cover notes, wider search, free-model fixes",
+   "detail": "Apply today list with an Apply button per row; free-model cover note per qualified job saved as the apply kit (checked: 60-150 words, names the company, no pay/notice, number guard, critic); LinkedIn 23 searches, Instahyre 12, Naukri daily; research 5 runs a day x 40; evidence fetched from posting, website and Google News when grounding is unavailable; model fallback chain; critic fails closed. 73 tests pass. Waiting for Shlok's OK to merge.",
+   "ref": "https://github.com/shloki-loki/outreach-hq/pull/6"
   }
  ]
 }

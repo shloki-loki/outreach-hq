@@ -16,6 +16,10 @@ on:
         description: "Leads to research this run"
         required: false
         default: "40"
+      llm_check:
+        description: "Only check which free models work today and their limits (one tiny call each)"
+        type: boolean
+        default: false
       compare_ids:
         description: "Quality check only: comma-separated lead ids Claude already researched. Prints both verdicts, stores nothing, skips every other step."
         required: false
@@ -46,6 +50,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Check the free models
+        if: inputs.llm_check
+        run: python -m outreach llm-check
       - name: Compare with Claude's research (stores nothing)
         if: inputs.compare_ids != ''
         shell: bash   # bash -eo pipefail, so a failure is not hidden by tee
@@ -57,17 +64,17 @@ jobs:
           name: compare
           path: compare.json
       - name: Research leads
-        if: ${{ !inputs.compare_ids }}
+        if: ${{ !inputs.compare_ids && !inputs.llm_check }}
         run: python -m outreach research-run --limit "${{ inputs.research_limit || '40' }}"
       - name: Find people on LinkedIn
-        if: ${{ always() && !inputs.compare_ids }}
+        if: ${{ always() && !inputs.compare_ids && !inputs.llm_check }}
         run: python -m outreach people-run --limit 6
       - name: Find email addresses for new people
-        if: ${{ always() && !inputs.compare_ids }}
+        if: ${{ always() && !inputs.compare_ids && !inputs.llm_check }}
         run: |
           for id in $(python -c "from outreach import store; print(' '.join([l['id'] for l in store.load('leads')['leads'] if l.get('stage') == 'qualified' and l.get('open') is not False and any(c.get('name') and not c.get('email') for c in l.get('contacts', []))][:6]))"); do
             python -m outreach find-email --lead "$id" || echo "find-email failed for $id"
           done
       - name: Draft emails, follow-ups and LinkedIn notes
-        if: ${{ always() && !inputs.compare_ids }}
+        if: ${{ always() && !inputs.compare_ids && !inputs.llm_check }}
         run: python -m outreach write-run

@@ -357,14 +357,15 @@ def research_one(lead: dict, models: dict[str, str]) -> dict[str, Any]:
 def pick_models() -> dict[str, str]:
     cfg = load_config("settings").get("llm", {})
     try:
-        grounding = llm.pick(cfg.get("research_models", ["gemini-2.5-flash"]))
+        grounding = llm.chain(cfg.get("research_models", ["gemini-2.5-flash"]))
     except llm.LlmUnavailable:
         grounding = None  # no free grounding model for this key: evidence is fetched instead
-    judge = llm.pick(cfg.get("judge_models", ["gemini-3.8-flash"]))
+    judge = llm.chain(cfg.get("judge_models", ["gemini-3.8-flash"]))
     try:
-        reader = llm.pick(cfg.get("reader_models", [])) if cfg.get("reader_models") else judge
+        reader = llm.chain(cfg.get("reader_models", [])) if cfg.get("reader_models") else []
     except llm.LlmUnavailable:
-        reader = judge
+        reader = []
+    reader = reader + [m for m in judge if m not in reader]
     # the reader only extracts facts from fetched pages; a lighter model has its own daily quota
     return {"research": grounding, "judge": judge, "reader": reader}
 
@@ -430,7 +431,8 @@ def run(limit: int = 25, ids: list[str] | None = None) -> dict[str, Any]:
         else:
             payload = outcome["payload"]
             extra = {"sources": outcome["sources"], "matched_facts": payload.get("matched_facts", []),
-                     "review": "pending", "model": models["judge"], "evidence_model": (outcome.get("evidence") or {}).get("evidence_mode") or models["research"]}
+                     "review": "pending", "model": llm.first(models["judge"]),
+                     "evidence_model": (outcome.get("evidence") or {}).get("evidence_mode") or llm.first(models["research"])}
             try:
                 result = record(lead["id"], payload, by="research-worker", extra=extra)
             except ValueError as exc:
@@ -459,8 +461,9 @@ def compare(ids: list[str]) -> list[dict]:
         copy["jd"] = lead.get("jd")
         try:
             outcome = research_one(copy, models)
-        except llm.LlmUnavailable:
-            raise
+        except llm.LlmUnavailable as exc:
+            rows.append({"id": lead["id"], "stopped": str(exc)[:300]})
+            break
         except (llm.LlmError, HttpError, ValueError) as exc:
             outcome = {"skip": f"error: {exc}"[:300]}
         payload = outcome.get("payload") or {}

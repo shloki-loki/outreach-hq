@@ -331,3 +331,19 @@ class CoverNoteTest(Base):
         self.assertTrue(messages.check_cover_note(good + " My notice period is 30 days.", company="Acme"))
         self.assertTrue(messages.check_cover_note(good, company="Zeta"))
 
+
+
+class FallbackTest(unittest.TestCase):
+    def test_a_model_out_of_quota_hands_over_to_the_next(self):
+        llm._SPENT.clear()
+        self.addCleanup(llm._SPENT.clear)
+        def one(prompt, **kw):
+            if kw["model"] == "a":
+                raise llm.LlmUnavailable("Gemini free quota used for today (a)")
+            return llm.Reply(text="ok", model=kw["model"])
+        with mock.patch.object(llm, "_generate_one", side_effect=one), mock.patch.object(llm, "key", return_value="k"):
+            self.assertEqual(llm.generate("x", model=["a", "b"]).model, "b")
+            self.assertEqual(llm.generate("x", model=["a", "b"]).model, "b")   # 'a' is skipped for the rest of the run
+            self.assertIn("a", llm._SPENT)
+            with self.assertRaises(llm.LlmUnavailable):
+                llm.generate("x", model=["a"])

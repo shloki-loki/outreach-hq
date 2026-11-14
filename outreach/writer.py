@@ -333,8 +333,8 @@ def write_cover_note(lead: dict, models: dict[str, str]) -> str | None:
 
 def pick_models() -> dict[str, str]:
     cfg = load_config("settings").get("llm", {})
-    return {"writer": llm.pick(cfg.get("writer_models", ["gemini-2.5-flash"])),
-            "judge": llm.pick(cfg.get("judge_models", ["gemini-2.5-flash"]))}
+    return {"writer": llm.chain(cfg.get("writer_models", ["gemini-3.8-flash"])),
+            "judge": llm.chain(cfg.get("judge_models", ["gemini-3.8-flash"]))}
 
 
 def run(cold_limit: int = 6, followup_limit: int = 10, linkedin_limit: int = 8, apply_limit: int = 25) -> dict[str, Any]:

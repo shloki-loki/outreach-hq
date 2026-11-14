@@ -998,6 +998,15 @@
    "title": "Email playbook v2 is now enforced in code",
    "detail": "Every new email is refused unless it meets voice.md v2: 50-120 words, subject 2-6 words and 45 characters without digits, opener on their world (not on himself, except to a recruiter), exactly one question, at most 4 numbers, contractions, none of the v2 banned phrases, no self-disqualifying lines, no claim over 1.3 years, a hook with its source URL, a named play, and a promise for the offer play. The playbook's own six examples pass as a test. The 5 emails approved earlier today were written before this and are left as approved.",
    "ref": "PR4"
+  },
+  {
+   "id": "J0112",
+   "at": "2026-11-14T19:06:30+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Daily live check: closed postings go to the Bin",
+   "detail": "New verify-live command and a daily 05:40 IST workflow. Only clear signals bin a lead (job board says the job is gone, LinkedIn shows No longer accepting applications, the page says closed/filled/expired). First run checked 353 leads: 13 moved to the Bin, 275 live, 65 not checkable (34 LinkedIn posts with no outside apply link, 27 companies with no posting). A dry run first caught one false match (Microsoft: until the position is filled), fixed before the real run. Undo any bin with lead set <id> --reopen.",
+   "ref": "PR4"
   }
  ]
 }

@@ -11719,10 +11719,10 @@
      "title": "Co-founder & CEO, Zamp",
      "role_type": "founder",
      "linkedin_url": "",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "amit@zamp.ai",
+     "email_status": "catch-all",
+     "email_source": "pattern first on a catch-all domain",
+     "confidence": 55,
      "why": "CEO of a startup hiring into the Founder's Office; title per Peak XV founders page and Crunchbase",
      "found_at": "2026-11-14T15:24:31+05:30"
     },
@@ -11732,10 +11732,10 @@
      "title": "Co-founder, Zamp",
      "role_type": "founder",
      "linkedin_url": "",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "raghav@zamp.ai",
+     "email_status": "catch-all",
+     "email_source": "pattern first on a catch-all domain",
+     "confidence": 55,
      "why": "Co-founder, per AWS Startups case study linking zamp.ai",
      "found_at": "2026-11-14T15:24:35+05:30"
     }
@@ -11771,9 +11771,21 @@
      "actor": "email-finder",
      "event": "contact_added",
      "detail": "Raghav Saraf (founder)"
+    },
+    {
+     "at": "2026-11-14T15:24:53+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Amit Jain: amit@zamp.ai (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-14T15:24:53+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Raghav Saraf: raghav@zamp.ai (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-14T15:24:35+05:30",
+   "updated_at": "2026-11-14T15:24:53+05:30",
    "reject_reason": null
   },
   {

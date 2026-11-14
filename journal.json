@@ -1097,6 +1097,15 @@
    "title": "16 live-check runs 18:59-19:03 were a re-verification, not a loop",
    "detail": "Log J0087-J0110 show 16 live-check runs in 4 minutes. git -C data show 2605ce1 and 396265a: each lead binned by the 18:46 run was reopened (lead set --reopen) and checked again alone; e.g. L0338 StoreHQ binned 18:46 for HTTP 404, reopened 19:03:08, binned again 19:03:15 for the same 404. End state: 16 leads in the Bin (L0356, L0067, L0331, L0111, L0120, L0133, L0171, L0307, L0338, L0108, L0345, L0248, L0097, L0102, L0175, L0306), none qualified or contacted, none with a waiting draft. No collided writes: 178 data commits since the last review, no repair/merge commits, no duplicate timestamps, no mass deletions.",
    "ref": ""
+  },
+  {
+   "id": "J0123",
+   "at": "2026-11-14T20:13:32+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Data checks 14 Nov: no stuck, failed or waiting messages",
+   "detail": "message list: 14 messages. 11 sent (M0001, M0003, M0005, M0006, M0008-M0012, M0014; M0013 replied), 3 skipped (M0002 replaced by M0006, M0004 and M0007 closed leads). 0 sending, 0 failed, 0 approved waiting, 0 drafts waiting. Bounces 0 of 11. 45 qualified leads, all open, all with at least one contact. 6 qualified leads have an email but no draft, each explained: L0085 CEO on do-not-email list, L0050 fails degree filter, L0029 same person as L0024 (already emailed), L0032 only catch-all at score 42, L0105 Zamp founders added as catch-all by lead-scout at 15:25 after send-track ran at 15:23, L0326 GoKwik qualified at 15:25 with a recruiter address from the posting. L0105 and L0326 should be drafted on the next send-track run. Only duplicate: PayPal L0164/L0167, Bengaluru vs Chennai, not a real duplicate. Site: outreach-hq-psi.vercel.app/login answered 200 in 1.4 s.",
+   "ref": ""
   }
  ]
 }

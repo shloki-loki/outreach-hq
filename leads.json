@@ -2639,7 +2639,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-14T15:48:11+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -2715,9 +2715,15 @@
      "actor": "send-track",
      "event": "drafted",
      "detail": "cold email to Kanika Dang awaiting approval"
+    },
+    {
+     "at": "2026-11-14T15:48:11+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Kanika Dang"
     }
    ],
-   "updated_at": "2026-11-14T15:22:52+05:30"
+   "updated_at": "2026-11-14T15:48:11+05:30"
   },
   {
    "id": "L0023",

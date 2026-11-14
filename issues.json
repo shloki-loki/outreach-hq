@@ -77,12 +77,12 @@
    "severity": "warn",
    "title": "Drafts left waiting on leads Shlok marked not interested (M0004, M0007)",
    "detail": "Shlok set L0096 Leucine to not interested at 17:20 IST (note: post says 8-18 LPA) and L0017 WarpDrive at 18:15 IST. Their drafts M0004 (vivek@leucine.io) and M0007 (atrayee@warpdrivetech.in) are still in 'draft' and count in the Approvals queue, so the site shows 8 to approve when only 6 are live. Nothing was sent.",
-   "status": "open",
+   "status": "resolved",
    "opened_at": "2026-11-13T20:13:33+05:30",
    "last_seen": "2026-11-13T20:13:33+05:30",
    "count": 1,
-   "remedy": "Cause: setting a lead's stage to skipped on the site changes only the lead, not its waiting drafts. Remedy now: Shlok presses Skip on M0004 and M0007 on the Approvals page. Code fix (left for Shlok, not made in a scheduled run): when a lead moves to skipped or rejected, mark its draft and approved messages skipped with reason 'lead skipped', and add a test for it.",
-   "resolved_at": null
+   "remedy": "M0004 (Leucine) and M0007 (WarpDrive) were skipped by the sender on 2026-11-14 15:38 because their leads were closed. Still open as a code change: skip waiting drafts automatically when a lead is marked not interested.",
+   "resolved_at": "2026-11-14T15:42:20+05:30"
   },
   {
    "id": "I0007",

@@ -557,6 +557,15 @@
    "title": "Solved: Morning digest and job-board scout failed today; scrape now 16 hours stale",
    "detail": "Verified gone 2026-11-14: job-board scout ran at 00:19 and 13:33 (39 new leads) and the digest ran at 15:12.",
    "ref": "I0004"
+  },
+  {
+   "id": "J0063",
+   "at": "2026-11-14T15:42:20+05:30",
+   "by": "session",
+   "kind": "fix",
+   "title": "Solved: Drafts left waiting on leads Shlok marked not interested (M0004, M0007)",
+   "detail": "M0004 (Leucine) and M0007 (WarpDrive) were skipped by the sender on 2026-11-14 15:38 because their leads were closed. Still open as a code change: skip waiting drafts automatically when a lead is marked not interested.",
+   "ref": "I0006"
   }
  ]
 }

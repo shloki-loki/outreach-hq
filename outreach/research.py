@@ -159,8 +159,12 @@ def gather_evidence(lead: dict, models: dict[str, str | None]) -> tuple[dict, li
     if models.get("research") and not _GROUNDING_OFF:
         try:
             return _grounded_evidence(lead, models["research"])
+        except llm.LlmUnavailable as exc:
+            if "spend cap" in str(exc):
+                raise
+            _GROUNDING_OFF = True  # grounding models out of quota today: fetched evidence instead
         except llm.LlmError as exc:
-            if not re.search(r"HTTP (400|403|404)|no longer available|not supported|not enabled", str(exc), re.I):
+            if not re.search(r"HTTP (400|403|404)|no longer available|not supported|not enabled|not available", str(exc), re.I):
                 raise
             _GROUNDING_OFF = True  # this key cannot ground; use fetched evidence for the rest of the run
     return _fetched_evidence(lead, models.get("reader") or models["judge"])
@@ -174,7 +178,7 @@ def _grounded_evidence(lead: dict, model: str) -> tuple[dict, list[dict]]:
         company=lead.get("company"), title=lead.get("title"), location=lead.get("location") or "India",
         website=lead.get("company_url") or lead.get("company_domain") or "unknown",
         linkedin=lead.get("company_linkedin") or "unknown", today=today())
-    reply = llm.generate(ask, model=model, search=True, temperature=0.2, max_tokens=3000)
+    reply = llm.generate(ask, model=model, search=True, temperature=0.2, max_tokens=8000)
     try:
         evidence = reply.json()
     except (llm.LlmError, json.JSONDecodeError):
@@ -245,7 +249,7 @@ def _fetched_evidence(lead: dict, model: str) -> tuple[dict, list[dict]]:
         return {"notes": "no company website or news found"}, []
     ask = _prompt("evidence_fetched").format(
         company=lead.get("company"), title=lead.get("title"), today=today(), material="\n\n".join(material)[:9000])
-    reply = llm.generate(ask, model=model, json_mode=True, temperature=0.1, max_tokens=2500)
+    reply = llm.generate(ask, model=model, json_mode=True, temperature=0.1, max_tokens=6000)
     try:
         evidence = reply.json()
     except (llm.LlmError, json.JSONDecodeError):
@@ -335,7 +339,7 @@ def research_one(lead: dict, models: dict[str, str]) -> dict[str, Any]:
     for attempt in range(2):
         prompt = ask if attempt == 0 else ask + "\n\nYour previous answer broke these rules; fix them and answer again:\n- " \
             + "\n- ".join(problems) + "\nPrevious answer:\n" + json.dumps(payload, ensure_ascii=False)
-        reply = llm.generate(prompt, model=models["judge"], json_mode=True, temperature=0.2, max_tokens=3000)
+        reply = llm.generate(prompt, model=models["judge"], json_mode=True, temperature=0.2, max_tokens=8000)
         try:
             payload = reply.json()
         except (llm.LlmError, json.JSONDecodeError) as exc:

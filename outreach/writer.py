@@ -73,9 +73,10 @@ def critique(message: str, lead: dict, contact: dict, model: str) -> list[str]:
         person=f"{contact.get('name')}, {contact.get('title') or contact.get('role_type')} at {lead.get('company')}",
         profile=public_profile(), lead=lead_brief(lead), message=message)
     try:
-        verdict = llm.generate(ask, model=model, json_mode=True, temperature=0.1, max_tokens=800).json()
-    except (llm.LlmError, json.JSONDecodeError):
-        return []  # the critic is an extra gate; the code checks above still hold
+        verdict = llm.generate(ask, model=model, json_mode=True, temperature=0.1, max_tokens=4000).json()
+    except (llm.LlmError, json.JSONDecodeError) as exc:
+        # an unread draft must not pass as approved by the reader: send it round again
+        return [f"the reader check could not run ({str(exc)[:120]}); rewrite and resubmit"]
     problems = []
     if int(verdict.get("would_reply") or 0) < MIN_WOULD_REPLY:
         problems.append(f"a reader rated it {verdict.get('would_reply')}/10 for replying; {verdict.get('fix', '')}")
@@ -98,7 +99,7 @@ def _write(what: str, lead: dict, contact: dict, task: str, limits: str, schema:
         prompt = ask if attempt == 0 else ask + "\n\nYour previous draft was rejected for these reasons. Rewrite it so " \
             "none of them applies:\n- " + "\n- ".join(problems) + "\nPrevious draft:\n" + json.dumps(draft, ensure_ascii=False)
         try:
-            draft = llm.generate(prompt, model=models["writer"], json_mode=True, temperature=0.6, max_tokens=1500).json()
+            draft = llm.generate(prompt, model=models["writer"], json_mode=True, temperature=0.6, max_tokens=6000).json()
         except (llm.LlmError, json.JSONDecodeError) as exc:
             problems = [f"answer was not valid JSON: {exc}"]
             continue

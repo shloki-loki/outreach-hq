@@ -173,6 +173,41 @@ def generate(prompt: str, *, system: str = "", model: str | list[str], search: b
                          + (f" (last: {str(last)[:200]})" if last else ""))
 
 
+def _meter(model: str, usage: dict, search: bool) -> None:
+    """Count what this call would cost on the paid tier. With [llm] paid = true, a daily cap applies."""
+    cfg = load_config("settings").get("llm", {})
+    prices = cfg.get("prices_usd_per_million", {}).get(model) or cfg.get("prices_usd_per_million", {}).get("default", [0.75, 3.75])
+    out_tokens = int(usage.get("candidatesTokenCount", 0)) + int(usage.get("thoughtsTokenCount", 0))
+    usd = int(usage.get("promptTokenCount", 0)) / 1e6 * prices[0] + out_tokens / 1e6 * prices[1]
+    global _spent_usd
+    _spent_usd += usd
+    if not cfg.get("paid"):
+        return
+    from . import store
+    from .util import today
+
+    def change() -> None:
+        quotas = store.load("quotas")
+        bucket = f"gemini_usd:{today()}"
+        quotas["usage"][bucket] = round(float(quotas["usage"].get(bucket, 0)) + usd, 4)
+        store.save("quotas", quotas)
+    store.transact(change, "quotas: gemini spend")
+
+
+_spent_usd = 0.0   # this process, priced as if paid (shown in run logs)
+
+
+def _check_cap() -> None:
+    cfg = load_config("settings").get("llm", {})
+    if not cfg.get("paid"):
+        return
+    from . import store
+    from .util import today
+    used = float(store.load("quotas")["usage"].get(f"gemini_usd:{today()}", 0))
+    if used >= float(cfg.get("daily_cap_usd", 2)):
+        raise LlmUnavailable(f"Gemini daily spend cap reached (${used:.2f} of ${cfg.get('daily_cap_usd')})")
+
+
 def _quota_note(detail: str) -> str:
     value = re.search(r'"quotaValue":\s*"?(\d+)', detail)
     metric = re.search(r'"quotaId":\s*"([^"]+)"', detail)
@@ -185,6 +220,7 @@ def _generate_one(prompt: str, *, system: str = "", model: str, search: bool = F
     global _last_call
     if not key():
         raise LlmUnavailable("GEMINI_API_KEY is not set")
+    _check_cap()
     pace = float(load_config("settings").get("llm", {}).get("seconds_between_calls", 7))
     wait = _last_call + pace - time.time()
     if wait > 0:
@@ -221,6 +257,7 @@ def _generate_one(prompt: str, *, system: str = "", model: str, search: bool = F
             if attempt == 2:
                 raise LlmError(f"Gemini unreachable: {exc}") from None
             time.sleep(15)
+    _meter(model, data.get("usageMetadata") or {}, search)
     candidates = data.get("candidates") or []
     if not candidates:
         raise LlmError(f"Gemini returned no candidate: {json.dumps(data.get('promptFeedback', {}))[:300]}")
@@ -261,7 +298,7 @@ def check_models(prefixes: tuple[str, ...] = ("gemini-3", "gemini-2.5", "gemma-3
     for name in [n for n in available_models() if n.startswith(prefixes) and "preview" not in n and "exp" not in n
                  and not re.search(r"image|tts|audio|live|embedding", n)]:
         try:
-            reply = _generate_one("Answer with the single word OK.", model=name, temperature=0, max_tokens=10)
+            reply = _generate_one("Answer with the single word OK.", model=name, temperature=0, max_tokens=2000)
             rows.append({"model": name, "ok": True, "said": reply.text.strip()[:20]})
         except (LlmUnavailable, LlmError) as exc:
             rows.append({"model": name, "ok": False, "why": str(exc)[:300]})

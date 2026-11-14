@@ -1214,6 +1214,15 @@
    "title": "Founder address checks recorded",
    "detail": "{'confirmed': 1931, 'suppressed': 40, 'already_graded': 0, 'legacy_cleared': 1931}",
    "ref": ""
+  },
+  {
+   "id": "J0136",
+   "at": "2026-11-15T01:27:21+05:30",
+   "by": "supervisor/check",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
+   "ref": ""
   }
  ]
 }

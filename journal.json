@@ -773,6 +773,15 @@
    "title": "Research worker skipped: GEMINI_API_KEY is not set",
    "detail": "Add the Gemini key as a GitHub secret to start research on GitHub.",
    "ref": ""
+  },
+  {
+   "id": "J0087",
+   "at": "2026-11-14T18:59:11+05:30",
+   "by": "live-check",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 postings checked: 0 live, 0 moved to the Bin, 0 could not be checked",
+   "ref": ""
   }
  ]
 }

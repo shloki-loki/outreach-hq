@@ -1205,6 +1205,15 @@
    "title": "Ran",
    "detail": "6579 jobs read, 239 passed rules, 19 new leads",
    "ref": ""
+  },
+  {
+   "id": "J0135",
+   "at": "2026-11-15T01:25:21+05:30",
+   "by": "codex",
+   "kind": "update",
+   "title": "Founder address checks recorded",
+   "detail": "{'confirmed': 1931, 'suppressed': 40, 'already_graded': 0, 'legacy_cleared': 1931}",
+   "ref": ""
   }
  ]
 }

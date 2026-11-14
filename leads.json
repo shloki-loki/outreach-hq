@@ -17148,13 +17148,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "not checked; rejected on experience",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 20,
+    "total": 43,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -17164,15 +17164,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Manager, Business Operations at PayPal (reports to CoS, Core Platforms Tech); asks 5+ yrs, beyond stretch.",
+    "fit_notes": "Posting opened 2026-11-14, Apply active, 200+ applicants, hybrid. 5+ yrs in biz ops/planning/analytics; SQL/BI tools fit but years block it.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-14T15:23:02+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -17196,9 +17197,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-14T15:23:02+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 43: rejected (Asks 5+ yrs)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-14T15:23:02+05:30",
+   "reject_reason": "Asks 5+ yrs"
   },
   {
    "id": "L0165",

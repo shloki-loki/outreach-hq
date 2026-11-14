@@ -44,6 +44,21 @@
    "confirmed": [
     "sumit@maharishibahugygroup.com"
    ]
+  },
+  "thecardcompany.in": {
+   "provider": "microsoft",
+   "published": [
+    "hr@thecardcompany.in",
+    "info@thecardcompany.in"
+   ],
+   "site_personal": [
+    "care@thecardcompany.in"
+   ],
+   "pattern": "first",
+   "confirmed": [
+    "kanika@thecardcompany.in"
+   ],
+   "checked_at": "2026-11-14T15:22:03+05:30"
   }
  }
 }

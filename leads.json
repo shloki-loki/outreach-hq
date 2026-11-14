@@ -35419,6 +35419,45 @@
      "confidence": 95,
      "why": "Named job poster on the LinkedIn posting, which gives this address",
      "found_at": "2026-11-14T15:24:04+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "Vivek Premnath",
+     "title": "Director, Chief of Staff",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAABBpw7oBOspOVySkxngvmJcHwbsAg6_DEYw",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "likely reports-to or runs the function this role sits in (LinkedIn title)",
+     "found_at": "2026-11-15T01:50:58+05:30"
+    },
+    {
+     "id": "C3",
+     "name": "Ankush Talwar",
+     "title": "Co-Founder",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAACgUoWwB5-HbNgtwgiZpQ10r_TVhrPozxpI",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "founder or CEO (LinkedIn title)",
+     "found_at": "2026-11-15T01:50:58+05:30"
+    },
+    {
+     "id": "C4",
+     "name": "Gurveen Kaur",
+     "title": "Senior Talent Acquisition Specialist",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAAD8t0aQBWN9ME8GDci08pPaF9jM0cZR3c-I",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "recruits for the company (LinkedIn title)",
+     "found_at": "2026-11-15T01:50:58+05:30"
     }
    ],
    "referrals": [],
@@ -35446,16 +35485,23 @@
      "actor": "email-finder",
      "event": "contact_added",
      "detail": "Komal Rathee (recruiter)"
+    },
+    {
+     "at": "2026-11-15T01:50:58+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "3 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-14T15:24:04+05:30",
+   "updated_at": "2026-11-15T01:50:58+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-14T18:46:33+05:30",
     "state": "live",
     "why": ""
    },
-   "verified_at": "2026-11-14T18:46:33+05:30"
+   "verified_at": "2026-11-14T18:46:33+05:30",
+   "people_searched_at": "2026-11-15T01:50:58+05:30"
   },
   {
    "id": "L0327",

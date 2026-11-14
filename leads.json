@@ -18871,7 +18871,7 @@
    "posted_at": "2026-11-09",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -18942,13 +18942,24 @@
      "actor": "live-check",
      "event": "reopened",
      "detail": "taken out of the Bin"
+    },
+    {
+     "at": "2026-11-14T19:01:52+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-14T18:59:49+05:30",
+   "updated_at": "2026-11-14T19:01:52+05:30",
    "live_check": {
-    "at": "2026-11-14T18:46:33+05:30",
+    "at": "2026-11-14T19:01:52+05:30",
     "state": "closed",
-    "why": "page says \"closed-job__flavor--closed\""
+    "why": "the posting says \"No longer accepting applications\""
+   },
+   "bin": {
+    "at": "2026-11-14T19:01:52+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "live-check"
    }
   },
   {

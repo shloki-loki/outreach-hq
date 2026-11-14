@@ -125,6 +125,20 @@
    "count": 1,
    "remedy": "Cause: Vercel's free (Hobby) plan limits how many deployments a project can make per day; today's many pushes (PR 1, PR 3, PR 4 merges plus previews) used it up, so PR 3's preview was refused with 'Deployment rate limited, retry in 24 hours'. The live site still answers (outreach-hq-psi.vercel.app/login returned 200 at 20:11 IST) but runs the older build without the packet page. Remedy: after about 15:45 IST on 2026-11-15, redeploy main once from the Vercel dashboard (Deployments > Redeploy) or push one commit, then open the packet page to confirm before resolving. Batch site changes into fewer pushes to stay under the limit; no paid upgrade needed.",
    "resolved_at": "2026-11-15T01:00:49+05:30"
+  },
+  {
+   "id": "I0010",
+   "key": "provider-fail:reoon",
+   "agent": "email-finder",
+   "severity": "warn",
+   "title": "reoon verification call failed",
+   "detail": "HTTP 401 for https://emailverifier.reoon.com/api/v1/verify?email=aishwarya%40flipkart.com&key=Im85VNvxTSAqyvoAW3d08IfiIjbOoSOY++++++%23+reoon.com+email+verifier%3A+free+daily+credits&mode=power",
+   "status": "open",
+   "opened_at": "2026-11-15T01:51:11+05:30",
+   "last_seen": "2026-11-15T01:51:11+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

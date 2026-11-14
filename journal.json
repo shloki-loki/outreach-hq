@@ -1241,6 +1241,15 @@
    "title": "Ran",
    "detail": "3 companies searched on LinkedIn, 8 people added",
    "ref": ""
+  },
+  {
+   "id": "J0139",
+   "at": "2026-11-15T01:51:11+05:30",
+   "by": "email-finder",
+   "kind": "issue",
+   "title": "reoon verification call failed",
+   "detail": "HTTP 401 for https://emailverifier.reoon.com/api/v1/verify?email=aishwarya%40flipkart.com&key=Im85VNvxTSAqyvoAW3d08IfiIjbOoSOY++++++%23+reoon.com+email+verifier%3A+free+daily+credits&mode=power",
+   "ref": "I0010"
   }
  ]
 }

@@ -1196,6 +1196,15 @@
    "title": "Prior outreach checks confirmed by Shlok",
    "detail": "Shlok confirmed prior checks across Main Sheet, AI Startup, Other Funded startup, Boot strap and HR direct (Large Cos). Method and date unspecified; do not present as fresh mailbox verification. Boot strap had 618 addresses not in the other four tabs, staged as 339 speculative company leads. Approval and suppression remain. No sends performed.",
    "ref": ""
+  },
+  {
+   "id": "J0134",
+   "at": "2026-11-15T01:20:56+05:30",
+   "by": "lead-scout/scrape",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "6579 jobs read, 239 passed rules, 19 new leads",
+   "ref": ""
   }
  ]
 }

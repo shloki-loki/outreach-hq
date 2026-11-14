@@ -656,9 +656,28 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Resume/CV": "Attach the current resume PDF (Nov 2026) yourself.",
+     "Full name": "Shlok Agrawal",
+     "Email": "111shlokagrawal@gmail.com",
+     "Phone": "+91-9343806463",
+     "Current location": "Bengaluru",
+     "Current company": "Beltech Artificial Intelligence Pvt Ltd (Founder's Office - Business Strategy, since Aug 2026); before that Ola Electric Technologies, Strategy and Operations Planning (Jun 2025 - Jul 2026)",
+     "LinkedIn URL": "https://www.linkedin.com/in/shlok-agrawal-iitg/",
+     "Portfolio URL": "https://shlokagrawal-portfolio.vercel.app",
+     "Naukri URL": "(leave blank)",
+     "GitHub URL": "(leave blank)",
+     "Gender (voluntary)": "Optional: your choice whether to disclose",
+     "Total Years of experience": "1.3",
+     "Are you based out of Bangalore ?": "Yes",
+     "Are you willing to relocate to Bangalore?": "Yes (already based there)",
+     "Current Compensation (Yearly)": "20 LPA fixed",
+     "Expected Compensation (Yearly)": "24-30 LPA fixed",
+     "Notice Period (In days)": "Immediate",
+     "How did you get to know about this role?": "LinkedIn post by Meesho's talent acquisition team (Pradipta Jamaiyar)"
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -693,6 +712,11 @@
      "at": "2026-11-12T20:56:06+05:30",
      "by": "import",
      "text": "Earlier draft (LinkedIn (connection note, then DM after accept)), not sent:\nHi Pradipta, I've applied via the link for Assistant Manager, Fulfilment & Experience at Meesho. Finding operational gaps is close to my work in Ola Electric's Founder's Office, with ~$20M of inventory and production planning. Happy to share anything needed for screening.\n\n--- To Tajinder Kaur (LinkedIn note) ---\nHi Tajinder, you were tagged in Pradipta Jamaiyar's post on the Assistant Manager, Fulfilment & Experience role at Meesho, and I've applied via the link. I was in Ola Electric's Founder's Office owning ~$20M of inventory and production planning. Could I ask what the team needs most in this hire?\n\n--- To shashank vikram (LinkedIn note) ---\nHi Shashank, you were tagged in Pradipta Jamaiyar's post on Meesho's Assistant Manager, Fulfilment & Experience role, and I've applied via the link. IIT Guwahati, then Ola Electric's Founder's Office with the CEO and COO. If someone else is closer to this hire, could you point me to them?"
+    },
+    {
+     "at": "2026-11-14T15:14:08+05:30",
+     "by": "send-track",
+     "text": "Application kit ready for the Lever form (18 fields; CTC, notice and location filled from profile.local.toml). Posting asks 3-5 years; Shlok has 1.3."
     }
    ],
    "timeline": [
@@ -701,9 +725,21 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 2 (2026-11-01) as R28"
+    },
+    {
+     "at": "2026-11-14T15:14:08+05:30",
+     "actor": "send-track",
+     "event": "apply",
+     "detail": "kit_ready"
+    },
+    {
+     "at": "2026-11-14T15:14:08+05:30",
+     "actor": "send-track",
+     "event": "apply_kit",
+     "detail": "application answers prepared"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30"
+   "updated_at": "2026-11-14T15:14:08+05:30"
   },
   {
    "id": "L0007",

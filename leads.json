@@ -6864,7 +6864,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-14T15:39:37+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -6936,9 +6936,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "re-checked: posting is still live"
+    },
+    {
+     "at": "2026-11-14T15:39:37+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Rajalakshmi Subramanian"
     }
    ],
-   "updated_at": "2026-11-12T23:03:06+05:30"
+   "updated_at": "2026-11-14T15:39:37+05:30"
   },
   {
    "id": "L0058",

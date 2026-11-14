@@ -308,6 +308,13 @@
    "ok": true,
    "summary": "Outreach HQ 14 Nov: 1 reply, 8 to approve",
    "stats": {}
+  },
+  {
+   "at": "2026-11-14T15:23:20+05:30",
+   "agent": "send-track",
+   "ok": true,
+   "summary": "1 email drafted (L0022 TheCardCompany COO, address newly verified), 0 referral notes (no connections matched), 3 application kits (L0085 and L0002 Sarvam Ashby, same posting; L0006 Meesho Lever); skipped: L0085 CEO on do-not-email list, L0050 fails the post's degree filter, L0029 same person as L0024, L0032 only a catch-all address at score 42; L0001 and L0012 Google Forms need sign-in. git fetch hangs slowed the run (issue logged).",
+   "stats": {}
   }
  ]
 }

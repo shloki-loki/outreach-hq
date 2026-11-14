@@ -539,6 +539,15 @@
    "title": "Solved: git fetch of data branch hangs for hours",
    "detail": "Fixed in 6ebb3bd: git now runs in its own process group that is killed on timeout along with git-remote-https; a stalled connection gives up after 30 s; fetch and push fail after 90 s with a clear 'no answer from GitHub' error instead of holding the store lock. Inside a sandboxed shell with no network the commands now fail in 90 s; run them outside the sandbox.",
    "ref": "I0007"
+  },
+  {
+   "id": "J0061",
+   "at": "2026-11-14T15:42:14+05:30",
+   "by": "session",
+   "kind": "fix",
+   "title": "Solved: outreach commands hang on git fetch inside the Claude Code sandbox",
+   "detail": "Fixed in 6ebb3bd: git now runs in its own process group that is killed on timeout along with git-remote-https; a stalled connection gives up after 30 s; fetch and push fail after 90 s with a clear 'no answer from GitHub' error instead of holding the store lock. Inside a sandboxed shell with no network the commands now fail in 90 s; run them outside the sandbox.",
+   "ref": "I0008"
   }
  ]
 }

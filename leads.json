@@ -33107,7 +33107,7 @@
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "Work with one of India's top HR Tech Co. \n Be a part of the rocketship - report to the Co founder\n About Our Client\n The company is a globally recognized HR Tech organization backed by prominent investors. With a strong international presence and continued growth momentum, it has established itself as one of the category leaders in modern human capital management solutions.\n Job Description\n Act with ownership. Establish direction even when the brief is incomplete, drive momentum through ambiguity, and remain responsible until results are achieved.\n Exercise sound judgment. Evaluate options objectively, question conventional thinking, distinguish meaningful insights from distractions, and recognize when to decide independently versus seek guidance.\n Create scalable ways of working. Design processes, frameworks, and operating rhythms that strengthen the organization and reduce reliance on individual contributors.\n Navigate seamlessly across functions. Transition effortlessly between strategic thinking and hands-on execution, engaging effectively in both executive discussions and operational realities.\n Embed AI into the business. Look beyond individual efficiency gains and identify opportunities where AI can transform workflows, decision-making, and organizational effectiveness.\n Serve as a trusted proxy for the Co-Founder. Drive key priorities with context, judgment, and discretion, act with urgency, and bring the confidence to challenge perspectives when it benefits the business. \n The Successful Applicant\n You could come from consulting, business strategy, product management, operations, investment banking, or any other fast-paced, high-performance setting. What matters most is a demonstrated ability to navigate ambiguity, tackle complex business challenges, and drive meaningful outcomes through both people and processes.\nYou are naturally curious, relentlessly resourceful, and comfortable engaging with senior stakeholders. You are energized by solving difficult problems and have little tolerance for inefficient or outdated ways of working. You balance analytical depth with commercial awareness, ensuring that detailed execution always remains connected to broader business objectives. Most importantly, you view AI not simply as a productivity enhancer, but as a lever to redesign how teams operate, make decisions, and scale impact.\n What's On Offer\n What makes this role unique\n While many Chief of Staff roles are designed to support leaders through complexity, this one is centered on eliminating and redesigning it. You will sit at the intersection of founder priorities, artificial intelligence, enterprise-scale business, and organizational growth, building capabilities, processes, and systems that create lasting, compounding impact across the company. Quote job ref: JN-112026-7144583",
    "exp_min": null,
    "exp_max": null,
@@ -33178,13 +33178,24 @@
      "actor": "live-check",
      "event": "reopened",
      "detail": "taken out of the Bin"
+    },
+    {
+     "at": "2026-11-14T19:03:02+05:30",
+     "actor": "live-check",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting page no longer exists (HTTP 404)"
     }
    ],
-   "updated_at": "2026-11-14T19:02:55+05:30",
+   "updated_at": "2026-11-14T19:03:02+05:30",
    "live_check": {
-    "at": "2026-11-14T18:46:33+05:30",
+    "at": "2026-11-14T19:03:02+05:30",
     "state": "closed",
-    "why": "page returns HTTP 404"
+    "why": "the posting page no longer exists (HTTP 404)"
+   },
+   "bin": {
+    "at": "2026-11-14T19:03:02+05:30",
+    "reason": "the posting page no longer exists (HTTP 404)",
+    "by": "live-check"
    }
   },
   {

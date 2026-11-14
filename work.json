@@ -7,12 +7,12 @@
    "owner": "codex",
    "title": "Deploy application packet and connect Codex worker",
    "detail": "",
-   "status": "queued",
+   "status": "working",
    "created_at": "2026-11-14T15:42:55+05:30",
-   "lease_until": null,
+   "lease_until": "2026-11-14T17:42:58.457895+05:30",
    "result": "",
    "ref": "",
-   "updated_at": "2026-11-14T15:42:55+05:30"
+   "updated_at": "2026-11-14T15:42:58+05:30"
   }
  ]
 }

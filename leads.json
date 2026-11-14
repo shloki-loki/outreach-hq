@@ -11173,6 +11173,32 @@
      "confidence": 92,
      "why": "Co-founder; the role sits in the Founder's Office (YourStory, Indian Startup News)",
      "found_at": "2026-11-12T22:21:50+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "GAURAV AGARWAL",
+     "title": "Business Head",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAAAxCpGcB9B0qbq1h-xJspIeYX7BTaAWxQAQ",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "likely reports-to or runs the function this role sits in (LinkedIn title)",
+     "found_at": "2026-11-15T01:50:40+05:30"
+    },
+    {
+     "id": "C3",
+     "name": "Nehal Singh",
+     "title": "Talent Acquisition Specialist",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAACYYhdoBOPYago0P5TeDbtUmfEQ6vO7rXzc",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "recruits for the company (LinkedIn title)",
+     "found_at": "2026-11-15T01:50:40+05:30"
     }
    ],
    "referrals": [],
@@ -11230,16 +11256,23 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Madan Somasundaram"
+    },
+    {
+     "at": "2026-11-15T01:50:40+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "2 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-13T17:42:01+05:30",
+   "updated_at": "2026-11-15T01:50:40+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-14T18:46:33+05:30",
     "state": "live",
     "why": ""
    },
-   "verified_at": "2026-11-14T18:46:33+05:30"
+   "verified_at": "2026-11-14T18:46:33+05:30",
+   "people_searched_at": "2026-11-15T01:50:40+05:30"
   },
   {
    "id": "L0096",

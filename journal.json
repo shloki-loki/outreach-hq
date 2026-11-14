@@ -629,6 +629,15 @@
    "title": "Application packet deployment blocked by Vercel build limit",
    "detail": "PR 3 builds locally but Vercel rejected its preview with Deployment rate limited — retry in 24 hours. No paid upgrade authorized. Retry deployment after provider limit resets and verify packet before calling it live.",
    "ref": "I0009"
+  },
+  {
+   "id": "J0071",
+   "at": "2026-11-14T15:45:55+05:30",
+   "by": "codex",
+   "kind": "update",
+   "title": "Work W0001: done",
+   "detail": "PR 1 merged; GitHub supervisor run 43584199808 succeeded. Codex local worker active daily 12:15 IST, first run unverified; two research tasks queued. Packet PR 3 merged, local build and 49 tests pass. Vercel rate limit prevents verified UI deployment; issue recorded.",
+   "ref": "https://github.com/shloki-loki/outreach-hq/pull/3"
   }
  ]
 }

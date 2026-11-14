@@ -1250,6 +1250,15 @@
    "title": "reoon verification call failed",
    "detail": "HTTP 401 for https://emailverifier.reoon.com/api/v1/verify?email=aishwarya%40flipkart.com&key=Im85VNvxTSAqyvoAW3d08IfiIjbOoSOY++++++%23+reoon.com+email+verifier%3A+free+daily+credits&mode=power",
    "ref": "I0010"
+  },
+  {
+   "id": "J0140",
+   "at": "2026-11-15T01:51:13+05:30",
+   "by": "email-finder",
+   "kind": "issue",
+   "title": "hunter verification call failed",
+   "detail": "HTTP 401 for https://api.hunter.io/v2/email-verifier?email=aishwarya%40flipkart.com&api_key=+++++++%23+hunter.io%3A+free+finder+%2B+verifier+credits+each+month",
+   "ref": "I0011"
   }
  ]
 }

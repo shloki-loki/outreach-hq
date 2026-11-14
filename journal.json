@@ -1268,6 +1268,15 @@
    "title": "Ran",
    "detail": "0 cold emails, 0 follow-ups and 0 LinkedIn note sets drafted for approval; 0 dropped for failing checks; stopped early: Gemini free quota used for today (gemini-3.8-flash)",
    "ref": ""
+  },
+  {
+   "id": "J0142",
+   "at": "2026-11-15T02:07:32+05:30",
+   "by": "claude",
+   "kind": "debug",
+   "title": "Why applications are not moving (2026-11-15)",
+   "detail": "45 qualified jobs ready, 2 applied: the site had no apply list. New matching jobs 20-45 a day (searches only covered Founder's Office/CoS titles). 261 job leads unresearched: the free worker was stuck (Gemini 2.5 Flash retired for new keys). Only 3 of 58 qualified leads have a verified email, so 11 emails sent in total. Applications have no follow-up because no person is attached.",
+   "ref": "PR6"
   }
  ]
 }

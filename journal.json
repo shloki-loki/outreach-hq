@@ -1286,6 +1286,15 @@
    "title": "PR 6: Apply today view, cover notes, wider search, free-model fixes",
    "detail": "Apply today list with an Apply button per row; free-model cover note per qualified job saved as the apply kit (checked: 60-150 words, names the company, no pay/notice, number guard, critic); LinkedIn 23 searches, Instahyre 12, Naukri daily; research 5 runs a day x 40; evidence fetched from posting, website and Google News when grounding is unavailable; model fallback chain; critic fails closed. 73 tests pass. Waiting for Shlok's OK to merge.",
    "ref": "https://github.com/shloki-loki/outreach-hq/pull/6"
+  },
+  {
+   "id": "J0144",
+   "at": "2026-11-15T02:07:38+05:30",
+   "by": "claude",
+   "kind": "note",
+   "title": "Gemini free tier is 20 requests a day per Flash model",
+   "detail": "llm-check on 2026-11-15: gemini-3.8-flash and 3.7-flash allow 20 requests a day each (GenerateRequestsPerDayPerProjectPerModel-FreeTier); 2.5 models return 404 for new users; 3.5/3.6 Flash and the Flash-Lite models work. That is enough for about 20-25 leads a day, not 100. The paid tier (3.8 Flash at 0.75/3.75 USD per million tokens, Search grounding with 5,000 free a month) is behind [llm] paid = true with a daily cap; off until Shlok decides.",
+   "ref": "llm-check"
   }
  ]
 }

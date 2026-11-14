@@ -485,6 +485,15 @@
    "title": "outreach commands hang on git fetch inside the Claude Code sandbox",
    "detail": "2026-11-14 scheduled lead-scout: every python3 -m outreach call hung indefinitely at 'git -C data fetch origin data' when run in the sandboxed shell (store.sync, no timeout reached in 30+ min; leftover git-remote-https processes from another session at 11:55 were also stuck). Same fetch completed in ~1s with the sandbox disabled. Run continued unsandboxed. Fix idea: add github.com to the sandbox network allowlist for this project, or make _git fetch fail fast with a short timeout and GIT_TERMINAL_PROMPT=0.",
    "ref": "I0008"
+  },
+  {
+   "id": "J0055",
+   "at": "2026-11-14T15:25:20+05:30",
+   "by": "lead-scout",
+   "kind": "note",
+   "title": "Kepler (L0099) and Aspire (L0328) researched as qualify but scored 64 and 61, under the 65 cut",
+   "detail": "Both postings live 2026-11-14. Kepler: ops/program Founder's Office at an $8M-seed defence-satellite startup, 1-5 yrs, pay unknown. Aspire: S&O onboarding, ~4+ yrs stretch, pay unknown. Left rejected by the threshold rather than forced; worth a look if Shlok wants hardware/fintech stretch roles.",
+   "ref": "L0099"
   }
  ]
 }

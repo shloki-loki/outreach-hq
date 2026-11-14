@@ -2553,7 +2553,7 @@
    "key": "thecardcompany|founder s office intern|india",
    "type": "job",
    "company": "TheCardCompany",
-   "company_domain": "",
+   "company_domain": "thecardcompany.in",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Not found",
@@ -2624,10 +2624,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/kanika-dang-01583b15",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "kanika@thecardcompany.in",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     },
@@ -2679,9 +2679,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 1 (2026-10-28) as R11"
+    },
+    {
+     "at": "2026-11-14T15:22:10+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Kanika Dang: kanika@thecardcompany.in (verified, 90)"
     }
    ],
-   "updated_at": "2026-11-13T14:13:36+05:30"
+   "updated_at": "2026-11-14T15:22:10+05:30"
   },
   {
    "id": "L0023",

@@ -1025,6 +1025,15 @@
    "title": "LinkedIn people and notes for every qualified lead",
    "detail": "people-run finds up to 3 people per qualified lead on LinkedIn without logging in (the person the role reports to, a founder, the recruiter), about USD 0.04 a company. The writer drafts a connection note (under 200 characters) and a message for each; they appear on the lead page with copy buttons. Nothing is ever sent on LinkedIn by the system. Test on GoKwik found the co-founder, CTO, Director and Chief of Staff, and the recruiters.",
    "ref": "PR4"
+  },
+  {
+   "id": "J0115",
+   "at": "2026-11-14T19:06:40+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Research and writing moved to GitHub on Gemini's free tier (needs GEMINI_API_KEY)",
+   "detail": "GitHub Models was retired on 2026-07-30, so the GitHub workers use Google's free Gemini tier (Google Search grounding free up to 500 a day). research-run reads the real posting, gathers sourced evidence, judges with the lead-scout rubric, then code checks the answer before storing it (hook URL must be a real source, years re-read from the posting, pay only from a named source, qualify must cite real profile facts). write-run drafts emails, follow-ups and LinkedIn notes through check_draft, an invented-number guard and a recipient-read critic. research.yml runs at 07:00, 13:00 and 19:00 IST. Prompts never include his phone, email, or employment list. Not yet run against the real API: no key.",
+   "ref": "PR4"
   }
  ]
 }

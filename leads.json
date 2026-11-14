@@ -2685,9 +2685,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Kanika Dang: kanika@thecardcompany.in (verified, 90)"
+    },
+    {
+     "at": "2026-11-14T15:22:52+05:30",
+     "actor": "send-track",
+     "event": "drafted",
+     "detail": "cold email to Kanika Dang awaiting approval"
     }
    ],
-   "updated_at": "2026-11-14T15:22:10+05:30"
+   "updated_at": "2026-11-14T15:22:52+05:30"
   },
   {
    "id": "L0023",

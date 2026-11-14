@@ -1079,6 +1079,15 @@
    "title": "Diagnosis: Application packet deployment blocked by Vercel build limit",
    "detail": "Cause: Vercel's free (Hobby) plan limits how many deployments a project can make per day; today's many pushes (PR 1, PR 3, PR 4 merges plus previews) used it up, so PR 3's preview was refused with 'Deployment rate limited, retry in 24 hours'. The live site still answers (outreach-hq-psi.vercel.app/login returned 200 at 20:11 IST) but runs the older build without the packet page. Remedy: after about 15:45 IST on 2026-11-15, redeploy main once from the Vercel dashboard (Deployments > Redeploy) or push one commit, then open the packet page to confirm before resolving. Batch site changes into fewer pushes to stay under the limit; no paid upgrade needed.",
    "ref": "I0009"
+  },
+  {
+   "id": "J0121",
+   "at": "2026-11-14T20:13:12+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Schedule check 14 Nov: Track and send skipped 3 slots, others in limits",
+   "detail": "Checked at 20:11 IST with gh run list (shloki-loki/outreach-hq, last 25 runs) and status. lead-scout/scrape last ok 13:33 IST (6.6 h, within 8 h). follow-up/digest ran 15:12 IST (GitHub run 43581774051 at 09:41 UTC, 6.7 h after its 03:00 UTC slot). follow-up/track last 15:48 IST, 4h23m old (over the 4 h limit) because the 10:20, 12:20 and 14:20 UTC Track and send slots never fired. lead-scout 15:25, send-track 15:23, follow-up 12:26 all ran today. No failed GitHub runs; six Track and send runs at 10:09 UTC were cancelled within 5-25 s, which is the workflow's concurrency group cancelling duplicate manual dispatches, not a fault. Recorded against I0005.",
+   "ref": ""
   }
  ]
 }

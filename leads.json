@@ -11093,13 +11093,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "No salary on the posting; no AmbitionBox/Glassdoor data found for Kepler Aerospace",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 55,
+    "total": 64,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -11109,15 +11109,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office (Ops & Program) at Kepler Aerospace, $8M-seed defence-satellite maker; asks 1-5 yrs + engineering degree; cell-launch planning maps; pay unknown.",
+    "fit_notes": "Posting opened 2026-11-14 (posted 1 day earlier, 200+ applicants, Apply active). Two openings; the Operations, Technology & Program Management Associate fits (the Finance/IR one does not). Needs: engineering degree (Shlok: EEE, IIT Guwahati), 1-5 yrs in TPM/eng ops/product ops/consulting/biz ops, multi-stakeholder timelines, spreadsheets and structured reporting, talking with RF and firmware engineers; preferred government program reporting and milestone delivery. Matches: cell (backend production planning for Bharat Cell and Shakti BESS launches), mrp (SAP MRP from scratch), sop (3-month rolling plans). Missing: defence/government program reporting experience.",
+    "pay_notes": "No evidence. Seed-stage hardware company with a 1-5 yr band; clearing 24.5 LPA fixed is uncertain and should be asked early.",
+    "culture_notes": "Founded 2018 (Navneet Singh, Kiran Sharma per Inc42); first external round $8M seed Sep 2026 led by Blue Ashva Capital, co-led by Finvolve and India Accelerator; ~$4M iDEX contract for a 6-satellite ISR swarm for the Defence Space Agency, launch planned 2027; reports say ~40 hires over 12-24 months. No employee-review data found.",
+    "hook": "Kepler raised an $8M seed in September 2026 to build six autonomous swarming ISR satellites under iDEX contracts, with launch planned for 2027.",
+    "hook_source": "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites",
+    "researched_at": "2026-11-14T15:23:38+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -11141,9 +11142,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-14T15:23:38+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 64: rejected (score 64 is under 65)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30"
+   "updated_at": "2026-11-14T15:23:38+05:30",
+   "reject_reason": "score 64 is under 65"
   },
   {
    "id": "L0100",

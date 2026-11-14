@@ -33109,8 +33109,8 @@
    "key": "gokwik|senior manager strategy and growth|bengaluru",
    "type": "job",
    "company": "GoKwik",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "gokwik.co",
+   "company_url": "https://www.gokwik.co",
    "company_linkedin": "https://in.linkedin.com/company/gokwik",
    "company_note": "",
    "title": "Senior Manager - Strategy & Growth",
@@ -33140,16 +33140,16 @@
    "stretch": true,
    "pay": {
     "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "min_lpa": 21.6,
+    "max_lpa": 27.6,
+    "basis": "estimate",
+    "source": "AmbitionBox GoKwik Senior Manager (seen via search result summary; page 403 to direct fetch): 2 salaries, ~9 yrs exp, low confidence, last updated Jul 2024; fixed vs total not confirmed",
+    "fit": "Possibly in range (estimate)"
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 58,
+    "total": 69,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -33159,15 +33159,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Strategy & Growth partner to GoKwik's KwikEngage business head; asks 3-5 yrs incl 1-2 in CoS/FO (stretch); your Ola S&OP + CEO/COO work maps.",
+    "fit_notes": "Posting opened 2026-11-14 (posted 18h earlier, 120 applicants, no closed notice). Needs: P&L/contribution-margin tracking, SQL or Metabase, cross-functional execution as strategic partner to a Business Head. Matches: sop (Rs 200 Cr inventory, 40% working-capital cut), ceo-coo (partnered CEO/COO), rebalance (27% WC unlock), SQL in skills. Missing: asks 3-5 yrs overall and 1-2 yrs in a CoS/Founder's Office/Business Head office role; Shlok has 1.3 yrs (FO tenure only since Aug 2026). Senior Manager title = seniority stretch. No MBA/consulting asked.",
+    "pay_notes": "Band straddles the 24.5 LPA floor but the sample is 2 salaries at ~9 yrs experience; a 1.3-yr candidate would likely be offered at the low end or below. GoKwik Senior Product Manager on AmbitionBox shows 27.4-43 L.",
+    "culture_notes": "Glassdoor 3.2/5 (191 reviews, 55% recommend) with critical May 2026 reviews (WLB, layoffs/politics in a Business Operations review); AmbitionBox 2.9/5 (41 reviews), WLB 2.5, career growth 2.5. Culture is a real risk.",
+    "hook": "KwikEngage is being run as its own P&L under a Business Head who wants a strategy partner to drive merchant acquisition, retention and churn work; GoKwik cites 15,000+ merchants and $2B+ annual GMV.",
+    "hook_source": "https://in.linkedin.com/jobs/view/senior-manager-strategy-growth-at-gokwik-4489568695",
+    "researched_at": "2026-11-14T15:22:42+05:30"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -33191,9 +33192,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-14T15:22:42+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 69: qualified"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30"
+   "updated_at": "2026-11-14T15:22:42+05:30",
+   "reject_reason": null
   },
   {
    "id": "L0327",

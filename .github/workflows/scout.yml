@@ -1,7 +1,8 @@
 name: Lead scout (job boards)
 
 # Reads every free job source and stores what passes the rules. Four times a day (IST 07:10, 12:10,
-# 17:10, 22:10). The research, people-finding and drafting happen in the Claude agents on the Mac.
+# 17:10, 22:10). Naukri, Wellfound and Hiring Cafe (Apify) run inside this job when APIFY_TOKEN is set and
+# they are due. Research, people and drafting run in research.yml.
 on:
   schedule:
     - cron: "40 1,6,11,16 * * *"
@@ -21,7 +22,9 @@ concurrency:
 jobs:
   scout:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
+    env:
+      APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/checkout@v4

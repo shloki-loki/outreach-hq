@@ -97,3 +97,31 @@ locations = ["Bangalore", "Work From Home"]
 regions = ["India", "Remote", "Fully Remote", "South Asia"]
 max_team_size = 500
 companies_per_run = 40      # company pages read per run
+
+# Sites read through Apify (outreach/sources/apify.py). Skipped until APIFY_TOKEN is a GitHub secret.
+# Cost per run is capped by max_usd_per_call x searches; the month is capped in settings.toml [apify].
+[apify.naukri]
+enabled = true
+every_days = 3
+keywords = ["founders office", "chief of staff", "strategy and operations", "business operations", "ceo office"]
+locations = ["bengaluru"]
+experience_years = 1      # Naukri's own experience filter: jobs open to 1 year
+job_age_days = 7
+per_search = 25
+max_usd_per_call = 0.03   # 25 jobs x $0.0004 + start fee
+
+[apify.wellfound]
+enabled = true
+every_days = 14
+urls = ["https://wellfound.com/role/l/chief-of-staff/bangalore", "https://wellfound.com/role/l/chief-of-staff/india",
+  "https://wellfound.com/role/l/product-manager/bangalore"]
+max_usd_per_call = 0.3    # up to 30 jobs per URL x $0.003, with full descriptions
+
+[apify.hiringcafe]
+enabled = true
+every_days = 3
+keywords = ["chief of staff", "founders office", "strategy operations"]
+location = "India"
+days = 7
+per_search = 20
+max_usd_per_call = 0.04   # 20 jobs x $0.00125 + $0.005 start

@@ -1,0 +1,58 @@
+name: Research and write (free model)
+
+# The work that used to need Claude on the Mac, now on GitHub with Google's free Gemini tier:
+#   1. research unresearched leads (outreach/research.py), best first
+#   2. find people on LinkedIn for qualified leads (outreach/people.py, Apify, capped)
+#   3. find and verify their email addresses (outreach/emailfinder.py)
+#   4. draft cold emails, follow-ups and LinkedIn notes for Shlok's approval (outreach/writer.py)
+# Each step stops cleanly when its key is missing or its free quota for the day is used.
+# Nothing here sends anything: drafts wait for approval on the site.
+on:
+  schedule:
+    - cron: "30 1,7,13 * * *"   # 07:00, 13:00, 19:00 IST
+  workflow_dispatch:
+    inputs:
+      research_limit:
+        description: "Leads to research this run"
+        required: false
+        default: "30"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: research
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+      REOON_API_KEY: ${{ secrets.REOON_API_KEY }}
+      HUNTER_API_KEY: ${{ secrets.HUNTER_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Research leads
+        run: python -m outreach research-run --limit "${{ inputs.research_limit || '30' }}"
+      - name: Find people on LinkedIn
+        if: always()
+        run: python -m outreach people-run --limit 6
+      - name: Find email addresses for new people
+        if: always()
+        run: |
+          for id in $(python -c "from outreach import store; print(' '.join([l['id'] for l in store.load('leads')['leads'] if l.get('stage') == 'qualified' and l.get('open') is not False and any(c.get('name') and not c.get('email') for c in l.get('contacts', []))][:6]))"); do
+            python -m outreach find-email --lead "$id" || echo "find-email failed for $id"
+          done
+      - name: Draft emails, follow-ups and LinkedIn notes
+        if: always()
+        run: python -m outreach write-run

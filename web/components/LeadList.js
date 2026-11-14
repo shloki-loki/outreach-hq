@@ -12,8 +12,9 @@ const VIEWS = [
   { id: 'qualified', label: 'Qualified, untouched', test: (s) => s === 'qualified' },
   { id: 'captured', label: 'Contacted or applied', test: (s, r) => r.captured },
   { id: 'spec', label: 'No opening (speculative)', test: (s, r) => r.speculative && !['rejected', 'closed', 'skipped'].includes(s) },
-  { id: 'new', label: 'Not researched yet', test: (s) => s === 'new' },
-  { id: 'off', label: 'Rejected or closed', test: (s) => ['rejected', 'closed', 'skipped'].includes(s) },
+  { id: 'new', label: 'Not researched yet', test: (s, r) => s === 'new' && !r.binned },
+  { id: 'bin', label: 'Bin (posting closed)', test: (s, r) => r.binned },
+  { id: 'off', label: 'Rejected', test: (s, r) => ['rejected', 'closed', 'skipped'].includes(s) && !r.binned },
   { id: 'all', label: 'All', test: () => true },
 ];
 
@@ -57,7 +58,8 @@ export default function LeadList({ rows, initialView = 'play' }) {
                   {r.connections ? <span className="pill tone-done">{r.connections} connection{r.connections > 1 ? 's' : ''} there</span> : null}
                   {r.speculative ? <span className="tag">No opening</span> : null}
                   {r.applied ? <span className="tag">Applied</span> : null}
-                  {r.open === false ? <span className="tag warn-tag">Posting closed</span> : null}
+                  {r.open === false ? <span className="tag warn-tag">{r.binned ? 'In the Bin' : 'Posting closed'}</span> : null}
+                  {r.machine ? <span className="tag" title="Researched on GitHub by the free model">Free-model research</span> : null}
                 </p>
                 <p className="lead-meta">
                   {r.tier ? <span>{r.tier}</span> : null}

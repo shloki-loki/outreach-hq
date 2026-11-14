@@ -25,12 +25,18 @@ TARGETING = load_config("targeting")
 
 GOOD_BODY = """Hi Priya,
 
-Acme's move into same-day dispatch is the kind of problem I spent the last year on. At Ola Electric I built a lotting algorithm for truck dispatches that cut Order-to-Delivery time from 32 to 14 days, and I ran S&OP planning with the COO.
+Acme's move into same-day dispatch means every truck has to leave full and on time. At Ola Electric a scooter took 32 days from order to delivery. I built the algorithm that groups truck dispatches into lots, and it came down to 14.
 
-I saw the Founder's Office opening and would like to be considered. Could we speak for 15 minutes this week, or could you point me to the right person?
+I'm interested in the Founder's Office role. How are you planning dispatch lots today, by hand or with a tool?
 
 Shlok
 """
+
+LETTER = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"  # company names in tests (subjects may not carry digits)
+
+# What every first email must carry under playbook v2 besides its text.
+V2 = {"play": "question", "hook": "Acme is moving into same-day dispatch in Bengaluru",
+      "hook_source": "https://acme.com/blog/same-day"}
 
 
 class Base(unittest.TestCase):
@@ -131,8 +137,8 @@ class RulesTest(Base):
 
 
 class DraftRulesTest(Base):
-    def check(self, body=GOOD_BODY, subject="Founder's Office at Acme", kind="cold"):
-        return messages.check_draft(kind, subject, body, to_name="Priya Nair", company="Acme")
+    def check(self, body=GOOD_BODY, subject="Founder's Office at Acme", kind="cold", **extra):
+        return messages.check_draft(kind, subject, body, to_name="Priya Nair", company="Acme", **{**V2, **extra})
 
     def test_a_good_email_passes(self):
         self.assertEqual(self.check(), [])
@@ -151,7 +157,7 @@ class DraftRulesTest(Base):
             "Read more at https://example.com today.": "link",
         }
         for extra, label in cases.items():
-            body = GOOD_BODY.replace("I saw the Founder's Office opening", extra + " I saw the Founder's Office opening")
+            body = GOOD_BODY.replace("I'm interested in", extra + " I'm interested in")
             problems = " | ".join(self.check(body))
             self.assertIn(label, problems, f"{extra!r} was not refused: {problems}")
 
@@ -162,21 +168,90 @@ class DraftRulesTest(Base):
         self.assertTrue(any("never names the company" in p for p in self.check(GOOD_BODY.replace("Acme's", "Your"), subject="Founder's Office role")))
 
     def test_applied_is_only_claimed_when_true(self):
-        body = GOOD_BODY.replace("I saw the Founder's Office opening and would like to be considered.",
-                                 "I have applied for the Founder's Office role.")
+        body = GOOD_BODY.replace("I'm interested in the Founder's Office role.",
+                                 "I've applied for the Founder's Office role.")
         self.assertTrue(any("not marked applied" in p for p in messages.check_draft(
-            "cold", "Founder's Office at Acme", body, to_name="Priya Nair", company="Acme", applied=False)))
+            "cold", "Founder's Office at Acme", body, to_name="Priya Nair", company="Acme", applied=False, **V2)))
         self.assertEqual(messages.check_draft("cold", "Founder's Office at Acme", body, to_name="Priya Nair",
-                                              company="Acme", applied=True), [])
+                                              company="Acme", applied=True, **V2), [])
 
     def test_speculative_note_cannot_pretend_there_is_an_opening(self):
-        problems = messages.check_draft("cold", "Strategy help at Acme", GOOD_BODY, to_name="Priya Nair",
-                                        company="Acme", speculative=True)
+        pretend = GOOD_BODY.replace("I'm interested in the Founder's Office role.", "I saw the Founder's Office opening.")
+        offer = {**V2, "play": "offer", "promise": "a one-page note on dispatch lotting for Acme"}
+        problems = messages.check_draft("cold", "Strategy help at Acme", pretend, to_name="Priya Nair",
+                                        company="Acme", speculative=True, **offer)
         self.assertTrue(any("no named opening" in p for p in problems), problems)
-        honest = GOOD_BODY.replace("I saw the Founder's Office opening and would like to be considered. ",
-                                   "I do not know if a Founder's Office hire is on your mind this quarter. ")
+        honest = GOOD_BODY.replace("I'm interested in the Founder's Office role. How are you planning dispatch lots today, by hand or with a tool?",
+                                   "I don't know if a Founder's Office hire is on your mind. I could write one page on how "
+                                   "to lot your dispatches. Want me to send it?")
         self.assertEqual(messages.check_draft("cold", "Strategy help at Acme", honest, to_name="Priya Nair",
-                                              company="Acme", speculative=True), [])
+                                              company="Acme", speculative=True, **offer), [])
+        self.assertTrue(any("offer play" in p for p in messages.check_draft(
+            "cold", "Strategy help at Acme", honest, to_name="Priya Nair", company="Acme", speculative=True, **V2)))
+
+    def test_playbook_v2_rules(self):
+        cases = {
+            "subject": (GOOD_BODY, {"subject": "Application for the Founder's Office role at Acme"}, "subject"),
+            "long subject": (GOOD_BODY, {"subject": "founder's office and dispatch planning thoughts"}, "characters"),
+            "two questions": (GOOD_BODY.replace("by hand or with a tool?", "by hand? Or with a tool?"), {}, "question marks"),
+            "no question": (GOOD_BODY.replace("by hand or with a tool?", "by hand or with a tool."), {}, "question marks"),
+            "opens on himself": (GOOD_BODY.replace("Acme's move", "I saw that Acme's move"), {}, "first sentence"),
+            "opens on the role": (GOOD_BODY.replace("Acme's move", "The role at Acme's move"), {}, "first sentence"),
+            "stacked numbers": (GOOD_BODY.replace("came down to 14.", "came down to 14, saved 40% of Rs 200 Cr in 2.5 months."), {}, "numbers"),
+            "stiff": (GOOD_BODY.replace("I'm interested", "I am interested"), {}, "stiff"),
+            "considered": (GOOD_BODY.replace("I'm interested in the Founder's Office role.", "I'd like to be considered for the Founder's Office role."), {}, "considered"),
+            "15 minutes": (GOOD_BODY.replace("How are you planning", "Could we take 15 minutes on how you plan"), {}, "banned ask"),
+            "excited": (GOOD_BODY.replace("I'm interested", "I'm excited"), {}, "excited"),
+            "not x but y": (GOOD_BODY.replace("I'm interested", "It's not a job, it's a mission. I'm interested"), {}, "It's not X"),
+            "self-disqualifying": (GOOD_BODY.replace("I'm interested", "I don't have an MBA, but I'm interested"), {}, "self-disqualifying"),
+            "inflated experience": (GOOD_BODY.replace("I'm interested", "With 3 years of experience, I'm interested"), {}, "1.3 years"),
+            "no hook": (GOOD_BODY, {"hook": "", "hook_source": ""}, "hook"),
+            "hook without url": (GOOD_BODY, {"hook_source": "their blog"}, "hook_source"),
+            "no play": (GOOD_BODY, {"play": None}, "play must be"),
+            "offer without promise": (GOOD_BODY, {"play": "offer"}, "promise"),
+        }
+        for name, (body, extra, label) in cases.items():
+            subject = extra.pop("subject", "Founder's Office at Acme")
+            problems = " | ".join(self.check(body, subject=subject, **extra))
+            self.assertIn(label, problems, f"{name}: not refused: {problems}")
+
+    def test_the_playbook_worked_examples_pass(self):
+        """config/voice.md's own examples must pass the code that enforces it, or the two have drifted."""
+        import re
+        text = (Path(__file__).resolve().parent.parent / "config" / "voice.md").read_text(encoding="utf-8")
+        section = text[text.index("## Worked examples"):]
+        blocks = re.findall(r"\*\*(.+?)\*\*\n\n((?:>.*\n)+)", section)
+        self.assertGreaterEqual(len(blocks), 6)
+        for title, block in blocks:
+            body = "\n".join(re.sub(r"^> ?", "", line) for line in block.splitlines()).strip()
+            subject = ""
+            if body.startswith("Subject:"):
+                subject, body = body.split("\n", 1)
+                subject, body = subject[9:].strip(), body.strip()
+            body = re.sub(r"(?<=[^\n])\n(?=[^\n])", " ", body) + "\n"
+            name = re.match(r"Hi (\w+)", body).group(1)
+            kind = "cold" if "follow-up" not in title else ("followup1" if "first" in title else "followup2")
+            extra = {}
+            if kind == "cold":
+                play = title.split()[0]
+                extra = {**V2, "play": play, "promise": "one page on their dispatch" if play == "offer" else ""}
+            problems = messages.check_draft(kind, subject or "Re: x", body, to_name=f"{name} K",
+                                            company="Acme" if "Acme" in body else "", speculative="no opening" in title,
+                                            **extra)
+            self.assertEqual(problems, [], title)
+
+    def test_followups_and_linkedin_notes(self):
+        second = ("Hi Priya,\n\nIf the seat is filled or the timing is off, a one-word no is fine. "
+                  "If it's open, I'd like to be in the running for the Acme role.\n\nShlok\n")
+        self.assertEqual(messages.check_draft("followup2", "Re: x", second, to_name="Priya Nair", company="Acme"), [])
+        self.assertTrue(any("question marks" in p for p in messages.check_draft(
+            "followup1", "Re: x", second.replace("fine.", "fine? Or not?"), to_name="Priya Nair")))
+        note = "Hi Priya, I ran dispatch planning at Ola Electric (delivery time 32 to 14 days). Acme's BizOps role is the same problem. Glad to connect."
+        self.assertEqual(messages.check_linkedin("connect", note, to_name="Priya Nair"), [])
+        self.assertTrue(any("200" in p for p in messages.check_linkedin("connect", note + " " + note, to_name="Priya Nair")))
+        inmail = GOOD_BODY.replace("\n\nShlok\n", "\n\nShlok")
+        self.assertEqual(messages.check_linkedin("inmail", inmail, to_name="Priya Nair", subject="dispatch lots"), [])
+        self.assertTrue(any("subject" in p for p in messages.check_linkedin("inmail", inmail, to_name="Priya Nair")))
 
     def test_draft_needs_a_deliverable_address_and_respects_do_not_email(self):
         lead = self.add_lead()
@@ -184,14 +259,14 @@ class DraftRulesTest(Base):
         suppression["emails"]["priya.nair@acme.com"] = {"reason": "already emailed by the earlier founder pipeline"}
         store.save("suppression", suppression)
         with self.assertRaises(ValueError) as caught:
-            messages.create_draft(lead["id"], "C1", "cold", "Founder's Office at Acme", GOOD_BODY)
+            messages.create_draft(lead["id"], "C1", "cold", "Founder's Office at Acme", GOOD_BODY, **V2)
         self.assertIn("do-not-email", str(caught.exception))
 
     def test_one_cold_email_per_person(self):
         lead = self.add_lead()
-        messages.create_draft(lead["id"], "C1", "cold", "Founder's Office at Acme", GOOD_BODY)
+        messages.create_draft(lead["id"], "C1", "cold", "Founder's Office at Acme", GOOD_BODY, **V2)
         with self.assertRaises(ValueError) as caught:
-            messages.create_draft(lead["id"], "C1", "cold", "Founder's Office at Acme", GOOD_BODY)
+            messages.create_draft(lead["id"], "C1", "cold", "Founder's Office at Acme", GOOD_BODY, **V2)
         self.assertIn("already has a cold email", str(caught.exception))
 
     def test_followup_needs_a_sent_cold_email(self):
@@ -229,15 +304,15 @@ class SendTest(Base):
     def queue(self, count: int, status: str = "approved", email_status: str = "verified") -> list[dict]:
         made = []
         for index in range(count):
-            lead = self.add_lead(company=f"Acme{index}", source_id=str(index))
+            lead = self.add_lead(company=f"Acme{LETTER[index]}", source_id=str(index))
             data = store.load("leads")
             stored = store.find(data["leads"], lead["id"])
             stored["contacts"][0]["email"] = f"priya.nair@acme{index}.com"
             stored["contacts"][0]["email_status"] = email_status
             store.save("leads", data)
-            body = GOOD_BODY.replace("Acme's", f"Acme{index}'s")
-            message = messages.create_draft(lead["id"], "C1", "cold", f"Founder's Office at Acme{index}", body,
-                                            allow_unverified=True)
+            body = GOOD_BODY.replace("Acme's", f"Acme{LETTER[index]}'s")
+            message = messages.create_draft(lead["id"], "C1", "cold", f"Founder's Office at Acme{LETTER[index]}", body,
+                                            allow_unverified=True, **V2)
             data = store.load("messages")
             stored = store.find(data["messages"], message["id"])
             stored["status"] = status
@@ -310,10 +385,10 @@ class SendTest(Base):
         data["leads"][0]["contacts"][0]["email_status"] = "guess"
         store.save("leads", data)
         with self.assertRaises(ValueError) as caught:
-            messages.create_draft(lead["id"], "C1", "cold", "Founder's Office at Acme", GOOD_BODY)
+            messages.create_draft(lead["id"], "C1", "cold", "Founder's Office at Acme", GOOD_BODY, **V2)
         self.assertIn("unverified", str(caught.exception))
         self.assertTrue(messages.create_draft(lead["id"], "C1", "cold", "Founder's Office at Acme", GOOD_BODY,
-                                              allow_unverified=True)["id"])
+                                              allow_unverified=True, **V2)["id"])
 
     def test_speculative_notes_are_capped(self):
         self.settings["sending"] = dict(self.settings["sending"], speculative_per_day=2, max_per_run=6)

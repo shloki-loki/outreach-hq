@@ -65,6 +65,7 @@ function latestNote(lead) {
     if (sent) return `Emailed ${sent.to_name || sent.to} ${daysAgo(sent.sent_at) === 0 ? 'today' : `${daysAgo(sent.sent_at)}d ago`}.`;
     return 'Referral request sent.';
   }
+  if (lead.bin && lead.open === false) return `In the Bin since ${daysAgo(lead.bin.at) === 0 ? 'today' : `${daysAgo(lead.bin.at)}d ago`}: ${lead.bin.reason}.`;
   if (lead.status === 'rejected' && lead.reject_reason) return `Dropped: ${lead.reject_reason}`;
   if (lead.status === 'qualified' && !lead.contacts?.some((c) => c.email)) return 'Qualified. No email address found yet.';
   return '';
@@ -84,7 +85,8 @@ export default async function LeadsPage({ searchParams }) {
     companyNote: (lead.company_note || '').replace(/^Not found.*$/i, '').slice(0, 90), researched: Boolean(lead.research?.done),
     checked: lead.research?.researched_at ? daysAgo(lead.research.researched_at) : null,
     posted: lead.posted_at && daysAgo(lead.posted_at) !== null ? `Posted ${daysAgo(lead.posted_at)}d ago` : '',
-    open: lead.open, stretch: lead.stretch, applied: Boolean(lead.applied_at) && lead.status !== 'applied',
+    open: lead.open, binned: Boolean(lead.bin) && lead.open === false && !['replied', 'interview', 'offer'].includes(lead.status),
+    machine: lead.research?.by === 'research-worker', stretch: lead.stretch, applied: Boolean(lead.applied_at) && lead.status !== 'applied',
     emails: (lead.contacts || []).filter((c) => c.email && !['bounced', 'invalid'].includes(c.email_status)).length,
     connections: (lead.referrals || []).length, note: latestNote(lead),
     captured: Boolean(lead.first_contacted_at || lead.applied_at), speculative: lead.type === 'company',

@@ -38,6 +38,8 @@ export default function MessageCard({ message, emailBadge, leadLabel, showLead =
         </div>
         <div className="button-row">
           {message.speculative ? <span className="tag" title="This company has no named opening. The email asks, it does not apply.">No opening: speculative note</span> : null}
+          {message.play ? <span className="tag" title="Which play from the email playbook this draft uses">Play: {message.play}</span> : null}
+          {message.created_by === 'writer' ? <span className="tag" title="Written on GitHub by the free model; passed every code check and a recipient read">Free-model draft</span> : null}
           {emailBadge ? <span className={`pill tone-${emailBadge.tone}`}>{emailBadge.label}</span> : null}
           <span className={`pill tone-${tone}`}>{label}</span>
         </div>
@@ -46,6 +48,7 @@ export default function MessageCard({ message, emailBadge, leadLabel, showLead =
       {message.status === 'draft' ? (
         <>
           {unverified ? <p className="warn">This address is an unverified guess, so it may bounce. At most 3 of these are sent per day.</p> : null}
+          {message.promise ? <p className="hook">If they say yes, you deliver: {message.promise}</p> : null}
           {message.hook ? (
             <p className="hook">Opener is based on: {message.hook}
               {message.hook_source ? <> (<a href={message.hook_source} target="_blank" rel="noreferrer">source</a>)</> : null}

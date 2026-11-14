@@ -620,6 +620,15 @@
    "title": "Work W0003: add",
    "detail": "Verify role and prepare sourced personalization for ULOOK",
    "ref": "W0003"
+  },
+  {
+   "id": "J0070",
+   "at": "2026-11-14T15:45:52+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "Application packet deployment blocked by Vercel build limit",
+   "detail": "PR 3 builds locally but Vercel rejected its preview with Deployment rate limited — retry in 24 hours. No paid upgrade authorized. Retry deployment after provider limit resets and verify packet before calling it live.",
+   "ref": "I0009"
   }
  ]
 }

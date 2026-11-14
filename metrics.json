@@ -88,14 +88,14 @@
   "2026-11-14": {
    "leads_total": 360,
    "by_status": {
-    "qualified": 46,
-    "to_approve": 6,
+    "applied": 2,
+    "qualified": 45,
+    "to_approve": 7,
     "skipped": 3,
-    "rejected": 13,
-    "applied": 1,
-    "replied": 1,
+    "rejected": 24,
+    "interview": 1,
     "contacted": 3,
-    "new": 287
+    "new": 275
    },
    "by_source": {
     "linkedin_post": 58,
@@ -112,9 +112,9 @@
     "4 - Other": 4,
     "3 - APM / Analyst": 12
    },
-   "qualified_total": 57,
-   "researched_total": 73,
-   "with_email_total": 18,
+   "qualified_total": 58,
+   "researched_total": 85,
+   "with_email_total": 20,
    "emails_sent_total": 4,
    "emails_sent_today": 0,
    "cold_sent_total": 4,
@@ -122,9 +122,9 @@
    "bounces_total": 0,
    "reply_rate": 0.25,
    "bounce_rate": 0.0,
-   "applied_total": 1,
+   "applied_total": 2,
    "referrals_sent": 0,
-   "interviews": 0,
+   "interviews": 1,
    "offers": 0,
    "to_approve": 8,
    "followups_due": 0,

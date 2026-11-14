@@ -38029,7 +38029,7 @@
    "posted_at": "2026-11-10",
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-14",
-   "open": false,
+   "open": true,
    "jd": "📍 Location: Jayanagar, Bangalore | Full-time\n 🕒 Experience: 0–2 Years (Freshers Welcome)\n MKGlobo Solutions Private Limited is a fast-growing digital marketing and technology company. We are looking for a proactive and highly organised Founder's Office Executive to work directly with supporting business operations, administration, accounts, HR and day-to-day coordination.\n Key Responsibilities\n Assist the Founder in day-to-day business operations.\n Manage office administration and vendor coordination.\n Prepare quotations, purchase orders (POs), invoices and support client onboarding.\n Maintain basic accounts, bookkeeping, expense records and documentation.\n Coordinate GST, TDS, payroll and other finance-related activities with the accountant.\n Support HR activities, including attendance, leave management, onboarding and employee documentation.\n Coordinate meetings, follow-ups, schedules and internal communication.\n Track tasks, ensure timely execution and support cross-functional teams.\n Maintain reports, MIS and business documentation.\n What We're Looking For\n Strong organisational and communication skills.\n Basic knowledge of MS Excel and accounting concepts.\n Willingness to learn finance, HR, administration and business operations.\n High level of ownership, professionalism and attention to detail.\n Ability to multitask in a fast-paced environment.",
    "exp_min": 0,
    "exp_max": 2,
@@ -38094,18 +38094,19 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
+    },
+    {
+     "at": "2026-11-14T18:59:05+05:30",
+     "actor": "live-check",
+     "event": "reopened",
+     "detail": "taken out of the Bin"
     }
    ],
-   "updated_at": "2026-11-14T18:46:33+05:30",
+   "updated_at": "2026-11-14T18:59:05+05:30",
    "live_check": {
     "at": "2026-11-14T18:46:33+05:30",
     "state": "closed",
     "why": "page says \"closed-job__flavor--closed\""
-   },
-   "bin": {
-    "at": "2026-11-14T18:46:33+05:30",
-    "reason": "page says \"closed-job__flavor--closed\"",
-    "by": "live-check"
    }
   },
   {

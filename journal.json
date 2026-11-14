@@ -458,6 +458,15 @@
    "title": "Ran",
    "detail": "Outreach HQ 14 Nov: 1 reply, 8 to approve",
    "ref": ""
+  },
+  {
+   "id": "J0052",
+   "at": "2026-11-14T15:23:11+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "git fetch of data branch hangs for hours",
+   "detail": "On 2026-11-14 several 'git -C data fetch origin data' calls (from store.sync) hung for 2+ hours with no timeout, while github.com answered normally. One hung fetch held the store lock and blocked every write until the process was killed. store._git passes timeout=180 but child git-remote-https processes outlived it; consider GIT_HTTP_LOW_SPEED_LIMIT/TIME env and killing the process group on timeout. Also seen once: 'git reset --hard origin/data' exit 128 while another session was syncing.",
+   "ref": "I0007"
   }
  ]
 }

@@ -83,6 +83,20 @@
    "count": 1,
    "remedy": "Cause: setting a lead's stage to skipped on the site changes only the lead, not its waiting drafts. Remedy now: Shlok presses Skip on M0004 and M0007 on the Approvals page. Code fix (left for Shlok, not made in a scheduled run): when a lead moves to skipped or rejected, mark its draft and approved messages skipped with reason 'lead skipped', and add a test for it.",
    "resolved_at": null
+  },
+  {
+   "id": "I0007",
+   "key": "send-track:git fetch of data branch hangs for hours",
+   "agent": "send-track",
+   "severity": "warn",
+   "title": "git fetch of data branch hangs for hours",
+   "detail": "On 2026-11-14 several 'git -C data fetch origin data' calls (from store.sync) hung for 2+ hours with no timeout, while github.com answered normally. One hung fetch held the store lock and blocked every write until the process was killed. store._git passes timeout=180 but child git-remote-https processes outlived it; consider GIT_HTTP_LOW_SPEED_LIMIT/TIME env and killing the process group on timeout. Also seen once: 'git reset --hard origin/data' exit 128 while another session was syncing.",
+   "status": "open",
+   "opened_at": "2026-11-14T15:23:11+05:30",
+   "last_seen": "2026-11-14T15:23:11+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

@@ -1070,6 +1070,15 @@
    "title": "MKGlobo (L0356) posting is closed; Codex's queued research item W0002 is moot",
    "detail": "LinkedIn shows No longer accepting applications for L0356; the live check moved it to the Bin on 2026-11-14. Its JD also describes an admin/accounts executive role, not strategy. Codex can close W0002 without researching it.",
    "ref": "W0002"
+  },
+  {
+   "id": "J0120",
+   "at": "2026-11-14T20:13:04+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Application packet deployment blocked by Vercel build limit",
+   "detail": "Cause: Vercel's free (Hobby) plan limits how many deployments a project can make per day; today's many pushes (PR 1, PR 3, PR 4 merges plus previews) used it up, so PR 3's preview was refused with 'Deployment rate limited, retry in 24 hours'. The live site still answers (outreach-hq-psi.vercel.app/login returned 200 at 20:11 IST) but runs the older build without the packet page. Remedy: after about 15:45 IST on 2026-11-15, redeploy main once from the Vercel dashboard (Deployments > Redeploy) or push one commit, then open the packet page to confirm before resolving. Batch site changes into fewer pushes to stay under the limit; no paid upgrade needed.",
+   "ref": "I0009"
   }
  ]
 }

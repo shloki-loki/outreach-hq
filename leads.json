@@ -33269,7 +33269,21 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Komal Rathee",
+     "title": "Recruiter / job poster, GoKwik",
+     "role_type": "recruiter",
+     "linkedin_url": "",
+     "email": "komal.rathee@gokwik.co",
+     "email_status": "published",
+     "email_source": "stated in the posting",
+     "confidence": 95,
+     "why": "Named job poster on the LinkedIn posting, which gives this address",
+     "found_at": "2026-11-14T15:24:04+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -33289,9 +33303,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 69: qualified"
+    },
+    {
+     "at": "2026-11-14T15:24:04+05:30",
+     "actor": "email-finder",
+     "event": "contact_added",
+     "detail": "Komal Rathee (recruiter)"
     }
    ],
-   "updated_at": "2026-11-14T15:22:42+05:30",
+   "updated_at": "2026-11-14T15:24:04+05:30",
    "reject_reason": null
   },
   {

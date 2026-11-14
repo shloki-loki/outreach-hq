@@ -35569,7 +35569,7 @@
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-14",
-   "open": false,
+   "open": true,
    "jd": "Job description \n Job Description- Manager Strategy and Operations\n Work Location: Hyderabad\n Working Days: 6 Days\n Role Overview\n We are looking for a high-impact Manager Strategy & Operations to work closely with the Founders Office and leadership team. This role will drive strategic initiatives, solve critical business problems, and ensure execution across cross-functional teams in a fast-paced B2C startup environment.\n Key Responsibilities\n 1. Founders Office & Strategic Initiatives\n Partner directly with founders to drive high-priority business initiatives\n Translate ambiguous problems into structured strategies and execution plans\n Own end-to-end delivery of key projects impacting growth, revenue, and efficiency\n 2. Data-Driven Decision Making\n Analyze large datasets to derive actionable insights for business decisions\n Build dashboards, track KPIs, and identify performance gaps\n Act as an Individual Contributor (IC) on critical analytical problem statements\n 3. Business Operations & Execution\n Drive operational excellence across functions (Sales, Product, Marketing, Ops)\n Identify bottlenecks and implement scalable processes\n Ensure timely execution and measurable outcomes of initiatives\n 4. Cross-Functional Leadership\n Lead and manage cross-functional projects across teams\n Align stakeholders and drive accountability without direct authority\n Collaborate with leadership to prioritize initiatives\n 5. Team Management\n Manage and mentor a small, high-performance team\n Ensure strong ownership, output quality, and execution speed\n Ideal Candidate Profile\n Education: B.Tech from IIT / BITS and/or MBA from IIM (preferred)\n Experience:\n 3+ years of total experience\n 2+ years in Strategy / Operations / Founders Office roles in Series A+ B2C startups\n 2+ years of strong hands-on experience working with data as an IC\n Proven experience managing teams and delivering business outcomes\n Strong exposure to cross-functional project leadership\n High ownership, structured thinking, and problem-solving ability\n Ability to thrive in ambiguity and high-growth environments\n What Success Looks Like\n High-impact projects delivered with measurable business outcomes\n Improved operational efficiency and faster decision-making\n Strong alignment across teams and leadership\n Data-backed strategy influencing key business decisions",
    "exp_min": 2,
    "exp_max": null,
@@ -35634,18 +35634,19 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
+    },
+    {
+     "at": "2026-11-14T18:59:14+05:30",
+     "actor": "live-check",
+     "event": "reopened",
+     "detail": "taken out of the Bin"
     }
    ],
-   "updated_at": "2026-11-14T18:46:33+05:30",
+   "updated_at": "2026-11-14T18:59:14+05:30",
    "live_check": {
     "at": "2026-11-14T18:46:33+05:30",
     "state": "closed",
     "why": "page says \"closed-job__flavor--closed\""
-   },
-   "bin": {
-    "at": "2026-11-14T18:46:33+05:30",
-    "reason": "page says \"closed-job__flavor--closed\"",
-    "by": "live-check"
    }
   },
   {

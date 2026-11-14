@@ -1,6 +1,6 @@
 # Outreach HQ: handoff for any person or model contributing
 
-Last updated 2026-11-13 (evening, IST). Repository: `github.com/shloki-loki/outreach-hq` (private).
+Last updated 2026-11-14 15:45 IST. Repository: `github.com/shloki-loki/outreach-hq` (private).
 Live site: https://outreach-hq-psi.vercel.app (password-protected).
 
 Read this file, then `CLAUDE.md` / `AGENTS.md` (the short rules), then `config/voice.md` (the email quality
@@ -122,6 +122,14 @@ Claude remains the existing scheduled worker until a replacement is verified. Bo
 issues as supervisor and share improvements via PRs, the work queue and journal.
 
 ### Historical snapshot: 2026-11-13 evening
+
+**Update 2026-11-14 15:45 IST:** 360 leads (275 not yet researched). 6 emails sent so far and **one reply**:
+the recruiter for the undisclosed AI company (L0035) said yes and Shlok has a meeting on Monday 2026-11-16.
+He approved the remaining old-style drafts on 2026-11-14, so they are going out as written; playbook v2
+applies to everything drafted from now on and to all follow-ups. Pull request #1 from Codex was merged
+on 2026-11-14 (shared supervisor protocol in `SUPERVISOR.md`, a work queue, an application packet command,
+a health-check workflow). The store's git calls now fail cleanly after 90 s instead of hanging (commit 6ebb3bd). Open
+issue: GitHub's scheduled workflows run late or get dropped (I0005). Nothing in section 6 is built yet.
 
 - 321 leads: 248 not yet researched, 46 qualified and untouched, 13 rejected, 4 contacted, 1 applied.
   Sources: LinkedIn job search 125, Instahyre 62, old tracker of LinkedIn hiring posts 58, YC 45, Ashby 17,

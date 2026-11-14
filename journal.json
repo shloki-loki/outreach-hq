@@ -566,6 +566,15 @@
    "title": "Solved: Drafts left waiting on leads Shlok marked not interested (M0004, M0007)",
    "detail": "M0004 (Leucine) and M0007 (WarpDrive) were skipped by the sender on 2026-11-14 15:38 because their leads were closed. Still open as a code change: skip waiting drafts automatically when a lead is marked not interested.",
    "ref": "I0006"
+  },
+  {
+   "id": "J0064",
+   "at": "2026-11-14T15:42:55+05:30",
+   "by": "codex",
+   "kind": "update",
+   "title": "Work W0001: add",
+   "detail": "Deploy application packet and connect Codex worker",
+   "ref": "W0001"
   }
  ]
 }

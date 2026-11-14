@@ -431,6 +431,15 @@
    "title": "Ran",
    "detail": "0 follow-ups drafted (none due), 1 reply flagged (L0035 Sumit: interested, couldn't reach phone), 0 bounces. lead list sync failed once on git reset in data/ (exit 128), passed on retry.",
    "ref": ""
+  },
+  {
+   "id": "J0049",
+   "at": "2026-11-14T13:33:31+05:30",
+   "by": "lead-scout/scrape",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "6542 jobs read, 215 passed rules, 5 new leads",
+   "ref": ""
   }
  ]
 }

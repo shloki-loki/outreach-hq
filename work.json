@@ -63,12 +63,12 @@
    "owner": "claude",
    "title": "Daily live check of every lead, closed ones to a Bin",
    "detail": "HANDOFF 6B",
-   "status": "working",
+   "status": "done",
    "created_at": "2026-11-14T18:24:24+05:30",
-   "lease_until": "2026-11-14T20:24:42.778293+05:30",
-   "result": "",
-   "ref": "",
-   "updated_at": "2026-11-14T18:24:42+05:30"
+   "lease_until": null,
+   "result": "verify-live ran on real data: 353 checked, 13 binned; live.yml daily",
+   "ref": "PR4",
+   "updated_at": "2026-11-14T19:07:11+05:30"
   },
   {
    "id": "W0006",

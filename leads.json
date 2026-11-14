@@ -13821,7 +13821,7 @@
    "posted_at": "2026-11-11",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-14",
-   "open": false,
+   "open": true,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -13886,18 +13886,19 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
+    },
+    {
+     "at": "2026-11-14T18:59:32+05:30",
+     "actor": "live-check",
+     "event": "reopened",
+     "detail": "taken out of the Bin"
     }
    ],
-   "updated_at": "2026-11-14T18:46:33+05:30",
+   "updated_at": "2026-11-14T18:59:32+05:30",
    "live_check": {
     "at": "2026-11-14T18:46:33+05:30",
     "state": "closed",
     "why": "page says \"closed-job__flavor--closed\""
-   },
-   "bin": {
-    "at": "2026-11-14T18:46:33+05:30",
-    "reason": "page says \"closed-job__flavor--closed\"",
-    "by": "live-check"
    }
   },
   {

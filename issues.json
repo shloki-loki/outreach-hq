@@ -146,11 +146,11 @@
    "agent": "email-finder",
    "severity": "warn",
    "title": "hunter verification call failed",
-   "detail": "HTTP 401 for https://api.hunter.io/v2/email-verifier?email=swaroop.saju%40mensabrands.com&api_key=+++++++%23+hunter.io%3A+free+finder+%2B+verifier+credits+each+month",
+   "detail": "HTTP 401 for https://api.hunter.io/v2/email-verifier?email=pradipta.jamaiyar%40meesho.com&api_key=+++++++%23+hunter.io%3A+free+finder+%2B+verifier+credits+each+month",
    "status": "open",
    "opened_at": "2026-11-15T01:51:13+05:30",
-   "last_seen": "2026-11-15T01:51:50+05:30",
-   "count": 4,
+   "last_seen": "2026-11-15T01:51:58+05:30",
+   "count": 5,
    "remedy": "",
    "resolved_at": null
   }

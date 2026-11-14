@@ -808,6 +808,22 @@
     "people_added": 8,
     "skipped": ""
    }
+  },
+  {
+   "at": "2026-11-15T01:54:56+05:30",
+   "agent": "writer",
+   "ok": true,
+   "summary": "0 cold emails, 0 follow-ups and 0 LinkedIn note sets drafted for approval; 0 dropped for failing checks; stopped early: Gemini free quota used for today (gemini-3.8-flash)",
+   "stats": {
+    "cold": 0,
+    "followups": 0,
+    "linkedin": 0,
+    "dropped": 0,
+    "models": {
+     "writer": "gemini-3.8-flash",
+     "judge": "gemini-3.8-flash"
+    }
+   }
   }
  ]
 }

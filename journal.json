@@ -1259,6 +1259,15 @@
    "title": "hunter verification call failed",
    "detail": "HTTP 401 for https://api.hunter.io/v2/email-verifier?email=aishwarya%40flipkart.com&api_key=+++++++%23+hunter.io%3A+free+finder+%2B+verifier+credits+each+month",
    "ref": "I0011"
+  },
+  {
+   "id": "J0141",
+   "at": "2026-11-15T01:54:56+05:30",
+   "by": "writer",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 cold emails, 0 follow-ups and 0 LinkedIn note sets drafted for approval; 0 dropped for failing checks; stopped early: Gemini free quota used for today (gemini-3.8-flash)",
+   "ref": ""
   }
  ]
 }

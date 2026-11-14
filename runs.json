@@ -677,6 +677,18 @@
     "binned": 1,
     "unknown": 0
    }
+  },
+  {
+   "at": "2026-11-14T19:03:05+05:30",
+   "agent": "live-check",
+   "ok": true,
+   "summary": "1 postings checked: 0 live, 1 moved to the Bin, 0 could not be checked",
+   "stats": {
+    "checked": 1,
+    "live": 0,
+    "binned": 1,
+    "unknown": 0
+   }
   }
  ]
 }

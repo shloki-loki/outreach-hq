@@ -602,6 +602,15 @@
    "title": "Data sync can no longer hang and block the pipeline",
    "detail": "A stalled git fetch held the store lock for hours on 2026-11-14 because the timeout killed git but not its network helper. Git calls now run in their own process group, are killed together on timeout, and fetch/push fail after 90 s with a clear message. 46 tests pass. Closed I0004, I0006, I0007, I0008 after checking each. Still open: I0005 (GitHub runs schedules late). Note: this fix went to main directly before the PR rule from SUPERVISOR.md was merged; the handoff update is in a PR.",
    "ref": "6ebb3bd"
+  },
+  {
+   "id": "J0068",
+   "at": "2026-11-14T15:45:45+05:30",
+   "by": "codex",
+   "kind": "update",
+   "title": "Work W0002: add",
+   "detail": "Verify role and prepare sourced personalization for MKGlobo",
+   "ref": "W0002"
   }
  ]
 }

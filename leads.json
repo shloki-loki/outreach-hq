@@ -11725,6 +11725,19 @@
      "confidence": 0,
      "why": "CEO of a startup hiring into the Founder's Office; title per Peak XV founders page and Crunchbase",
      "found_at": "2026-11-14T15:24:31+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "Raghav Saraf",
+     "title": "Co-founder, Zamp",
+     "role_type": "founder",
+     "linkedin_url": "",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "Co-founder, per AWS Startups case study linking zamp.ai",
+     "found_at": "2026-11-14T15:24:35+05:30"
     }
    ],
    "referrals": [],
@@ -11752,9 +11765,15 @@
      "actor": "email-finder",
      "event": "contact_added",
      "detail": "Amit Jain (founder)"
+    },
+    {
+     "at": "2026-11-14T15:24:35+05:30",
+     "actor": "email-finder",
+     "event": "contact_added",
+     "detail": "Raghav Saraf (founder)"
     }
    ],
-   "updated_at": "2026-11-14T15:24:31+05:30",
+   "updated_at": "2026-11-14T15:24:35+05:30",
    "reject_reason": null
   },
   {

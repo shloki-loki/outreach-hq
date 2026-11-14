@@ -11936,7 +11936,7 @@
    "posted_at": "2026-11-11",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
-   "open": false,
+   "open": true,
    "jd": "Executive Assistant (Founder’s Office) \n Location: Bangalore\n Reporting To: Founder\n Experience: 1–2 Years\n Employment Type: Full-Time\n 1. Role Overview \n BrandStory is looking for a proactive, organised, and detail-oriented Executive Assistant to support the Founder’s Office.\n The role involves coordinating daily activities, managing schedules, tracking important tasks, preparing reports, and ensuring smooth communication between the Founder and various teams.\n The ideal candidate should have excellent communication skills, a strong sense of responsibility, good follow-up skills, and the ability to manage multiple tasks efficiently.\n 2. Key Roles and Responsibilities \n A. Founder’s Office Coordination \n Assist the Founder with daily schedules, meetings, appointments, and calendar management.\n Coordinate internal and external meetings.\n Prepare meeting agendas and record minutes of meetings.\n Follow up with team members and department heads on assigned tasks.\n Maintain records of important discussions, decisions, and pending activities.\n B. Task Management and Follow-ups \n Track tasks assigned by the Founder across departments.\n Coordinate with Marketing, SEO, Design, Development, Content, and Video Production teams.\n Monitor task progress, identify delays, and escalate important issues.\n Maintain trackers and dashboards.\n Ensure deadlines and commitments are followed up regularly.\n C. Reports and Documentation \n Prepare daily, weekly, and monthly status reports.\n Assist in preparing presentations, meeting notes, and business documents.\n Collect updates from different teams and consolidate them into summaries.\n Maintain organised project and management documentation.\n D. Communication and Coordination \n Draft professional emails, internal announcements, and follow-up messages.\n Coordinate with internal teams, clients, vendors, and stakeholders.\n Ensure timely communication between the Founder’s Office and departments.\n Handle confidential information responsibly.\n Follow up on pending responses, approvals, and decisions.\n E. Business and Operational Support \n Assist the Founder with routine business operations and administrative activities.\n Coordinate with Finance, HR, Sales, and Project Management teams.\n Track client deliverables, billing updates, and collections.\n Assist with research and competitor analysis.\n Support internal events, leadership meetings, and training sessions.\n F. Organisation and Time Management \n Prioritise tasks based on urgency and instructions from the Founder.\n Manage multiple assignments with accuracy.\n Identify pending approvals and follow-up requirements.\n Take ownership of assigned tasks and provide regular status updates.\n 3. Required Skills and Competencies \n Excellent written and verbal communication skills.\n Strong organisational and coordination skills.\n Good proficiency in MS Excel, Word, PowerPoint, and Google Workspace.\n Familiarity with Monday.com, Trello, or similar task management tools.\n Ability to pre…",
    "exp_min": 1,
    "exp_max": 2,
@@ -12008,19 +12008,20 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: page says \"closed-job__flavor--closed\""
+    },
+    {
+     "at": "2026-11-14T19:00:38+05:30",
+     "actor": "live-check",
+     "event": "reopened",
+     "detail": "taken out of the Bin"
     }
    ],
-   "updated_at": "2026-11-14T18:46:33+05:30",
+   "updated_at": "2026-11-14T19:00:38+05:30",
    "reject_reason": "Executive assistant role (calendars, MoMs, follow-ups) at a digital-marketing agency; administrative, not strategy, and unlikely near the pay floor.",
    "live_check": {
     "at": "2026-11-14T18:46:33+05:30",
     "state": "closed",
     "why": "page says \"closed-job__flavor--closed\""
-   },
-   "bin": {
-    "at": "2026-11-14T18:46:33+05:30",
-    "reason": "page says \"closed-job__flavor--closed\"",
-    "by": "live-check"
    }
   },
   {

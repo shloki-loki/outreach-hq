@@ -408,7 +408,7 @@
    "key": "rupeek|manager ceo s office|bengaluru",
    "type": "job",
    "company": "Rupeek",
-   "company_domain": "",
+   "company_domain": "rupeek.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "INR 51 Cr down round from 360 ONE and BlackSoil, ~$213M valuation (date not confirmed)",
@@ -484,10 +484,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/sonali-verma-",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "sonali.verma@rupeek.com",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first.last), not verified",
+     "confidence": 35,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -516,9 +516,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 2 (2026-11-01) as R26"
+    },
+    {
+     "at": "2026-11-15T01:51:39+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Sonali Verma: sonali.verma@rupeek.com (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-15T01:51:39+05:30",
    "live_check": {
     "at": "2026-11-14T18:46:33+05:30",
     "state": "live",

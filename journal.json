@@ -521,6 +521,15 @@
    "title": "Ran",
    "detail": "sent 0, failed 0. M0004: lead replied or closed since approval",
    "ref": ""
+  },
+  {
+   "id": "J0059",
+   "at": "2026-11-14T15:39:30+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

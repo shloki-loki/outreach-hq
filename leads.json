@@ -12416,6 +12416,45 @@
      "confidence": 55,
      "why": "Co-founder, per AWS Startups case study linking zamp.ai",
      "found_at": "2026-11-14T15:24:35+05:30"
+    },
+    {
+     "id": "C3",
+     "name": "Prabhu Sachdeva",
+     "title": "CEO's Office - Strategy",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAABor3KQBAySFLO7rNK5ALcZHEV8Lmc1M0ME",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "likely reports-to or runs the function this role sits in (LinkedIn title)",
+     "found_at": "2026-11-15T01:50:49+05:30"
+    },
+    {
+     "id": "C4",
+     "name": "Vaibhav Jaitwal",
+     "title": "Founder’s Office - Startegy & Operations",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAADdlFeEB-1F6_YATIHVlWZsTT0vnvXIfNaw",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "founder or CEO (LinkedIn title)",
+     "found_at": "2026-11-15T01:50:49+05:30"
+    },
+    {
+     "id": "C5",
+     "name": "Linson Thomas",
+     "title": "Head of Talent Acquisition",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAABEtHuIBEqzij28Y4zQc7CqwVyc5NM4wh7s",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "recruits for the company (LinkedIn title)",
+     "found_at": "2026-11-15T01:50:49+05:30"
     }
    ],
    "referrals": [],
@@ -12461,16 +12500,23 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Raghav Saraf: raghav@zamp.ai (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-15T01:50:49+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "3 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-14T15:24:53+05:30",
+   "updated_at": "2026-11-15T01:50:49+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-14T18:46:33+05:30",
     "state": "live",
     "why": ""
    },
-   "verified_at": "2026-11-14T18:46:33+05:30"
+   "verified_at": "2026-11-14T18:46:33+05:30",
+   "people_searched_at": "2026-11-15T01:50:49+05:30"
   },
   {
    "id": "L0106",

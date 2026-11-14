@@ -6,7 +6,7 @@
    "key": "flipkart|program manager operations supply chain strategy|bengaluru",
    "type": "job",
    "company": "Flipkart (Flipkart Minutes)",
-   "company_domain": "",
+   "company_domain": "flipkart.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Established - n/a (Walmart-majority-owned)",
@@ -77,10 +77,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/aishwarya-m-0a3593135",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "aishwarya@flipkart.com",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first), not verified",
+     "confidence": 35,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -120,9 +120,15 @@
      "actor": "shlok",
      "event": "applied",
      "detail": "application submitted"
+    },
+    {
+     "at": "2026-11-15T01:51:16+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Aishwarya M.: aishwarya@flipkart.com (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-14T15:37:43+05:30",
+   "updated_at": "2026-11-15T01:51:16+05:30",
    "live_check": {
     "at": "2026-11-14T18:46:33+05:30",
     "state": "live",

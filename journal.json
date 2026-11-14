@@ -665,6 +665,15 @@
    "title": "Ran",
    "detail": "sent 1, failed 0. nothing approved is waiting",
    "ref": ""
+  },
+  {
+   "id": "J0075",
+   "at": "2026-11-14T18:24:20+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Work W0004: add",
+   "detail": "HANDOFF 6A, asked by Shlok 2026-11-14",
+   "ref": "W0004"
   }
  ]
 }

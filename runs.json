@@ -708,6 +708,19 @@
    "ok": true,
    "summary": "2 open issues (I0005 late GitHub schedules, seen again; I0009 Vercel deploy limit, remedy written), 4 confirmed fixed earlier today (I0004, I0006-I0008), reply rate 9.1%, bounce rate 0%",
    "stats": {}
+  },
+  {
+   "at": "2026-11-14T22:07:40+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
+   }
   }
  ]
 }

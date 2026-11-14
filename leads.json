@@ -31182,7 +31182,7 @@
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-13",
-   "open": true,
+   "open": false,
    "jd": "StoreHQ helps Shopify brands grow through SEO, AEO, paid ads, email marketing, social media, CRO, and AI discoverability. We bring growth channels together to help brands get found, convert more traffic, and retain more customers.\n StoreHQ is looking for a Founder’s Office Associate to work closely with the founders across strategy, growth, research, and business operations. This is a full-time role with real ownership. You’ll lead high-impact projects across functions, drive key initiatives from idea to results, and help shape how a fast-moving B2B SaaS and e-commerce growth company scales.\n What you’ll do: \n Work directly with the founders to plan and drive strategic and business-critical projects\n Own market, competitor, and customer research, and turn findings into clear recommendations\n Lead growth initiatives across SEO, AEO, AI discoverability, paid acquisition, and partnerships\n Analyze business and customer data to track performance, spot trends, and find areas to improve\n Build presentations, reports, and strategic plans for leadership, clients, and partners\n Run experiments and new initiatives end to end, from research and planning through execution and reporting\n Work cross-functionally with product, marketing, sales, and operations teams to get things done\n Set up processes, track key metrics, and keep priorities moving across the business\n Take ownership of high-priority problems that need structured thinking and fast execution\n What you’ll bring: \n Class of 2026 or 2027, currently pursuing or recently completed a degree, any discipline\n Strong analytical and problem-solving skills\n Curious about startups, e-commerce, SaaS, and how businesses grow\n Comfortable with ambiguity and taking full ownership without being told exactly what to do\n Strong written and verbal communication skills\n Comfortable working with data, research, spreadsheets, and presentations\n Ability to move quickly, learn independently, and take projects from idea to execution\n Based in Bangalore and open to working from the office\n Experience working with founders or on growth, SEO, or e-commerce projects is a plus\n If you enjoy solving problems, working closely with founders, and owning work across different parts of a growing business, StoreHQ would love to hear from you. \n Employment type: Full-time\n Location: HSR Layout, Bangalore\n Compensation: Competitive, based on experience",
    "exp_min": null,
    "exp_max": null,
@@ -31193,13 +31193,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "n/a",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 0,
+    "total": 31,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -31209,15 +31209,16 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Founder's Office Associate at StoreHQ (Shopify growth agency); posting returns 404, removed.",
+    "fit_notes": "Both LinkedIn URLs for job 4489095836 returned HTTP 404 on 2026-11-14; stored JD asked for a recent graduate class. Treated as closed.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-14T15:23:14+05:30"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -31241,9 +31242,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-14T15:23:14+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 31: rejected (Posting removed (LinkedIn 404))"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30"
+   "updated_at": "2026-11-14T15:23:14+05:30",
+   "reject_reason": "Posting removed (LinkedIn 404)"
   },
   {
    "id": "L0307",

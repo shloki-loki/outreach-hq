@@ -3747,9 +3747,9 @@
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/ragina-n-87867729",
      "email": "ragina@haystackanalytics.in",
-     "email_status": "guess",
-     "email_source": "most likely pattern (first), not verified",
-     "confidence": 35,
+     "email_status": "catch-all",
+     "email_source": "pattern first on a catch-all domain",
+     "confidence": 55,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     },
@@ -3802,9 +3802,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Ragina N.: ragina@haystackanalytics.in (guess, 35)"
+    },
+    {
+     "at": "2026-11-14T12:26:18+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Ragina N.: ragina@haystackanalytics.in (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-13T14:13:26+05:30"
+   "updated_at": "2026-11-14T12:26:18+05:30"
   },
   {
    "id": "L0033",

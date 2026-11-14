@@ -764,6 +764,15 @@
    "title": "Ran",
    "detail": "353 postings checked: 275 live, 13 moved to the Bin, 65 could not be checked",
    "ref": ""
+  },
+  {
+   "id": "J0086",
+   "at": "2026-11-14T18:53:57+05:30",
+   "by": "research-worker",
+   "kind": "note",
+   "title": "Research worker skipped: GEMINI_API_KEY is not set",
+   "detail": "Add the Gemini key as a GitHub secret to start research on GitHub.",
+   "ref": ""
   }
  ]
 }

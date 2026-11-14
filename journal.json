@@ -1178,6 +1178,15 @@
    "title": "Vercel deploy cleared; stale handoff PR closed",
    "detail": "I0009 resolved: main dd7409c (PR 4: Bin view, LinkedIn notes, play tags) deployed successfully on 2026-11-14. PR 2 closed as superseded by HANDOFF.md on main. Still blocked on keys: GEMINI_API_KEY (GitHub + .env), APIFY_TOKEN, REOON_API_KEY and HUNTER_API_KEY as GitHub secrets. PR 5 (Codex, hourly sending at 60/day) conflicts and needs Shlok's decision.",
    "ref": "dd7409c"
+  },
+  {
+   "id": "J0132",
+   "at": "2026-11-15T01:04:35+05:30",
+   "by": "codex",
+   "kind": "debug",
+   "title": "Approved send queue checked",
+   "detail": "Current shared data has zero approved and zero failed. Nov 14 dispatch batch sent seven; two earlier approvals were skipped because leads had replied or closed. Latest scheduled run completed with nothing approved waiting. Imported addresses were user-reported as previously checked; source tabs contain no per-address verification status/date. Keep suppression and grades until prior checks can be reconciled.",
+   "ref": "43616615038"
   }
  ]
 }

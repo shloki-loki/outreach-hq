@@ -27,6 +27,20 @@
    "result": "",
    "ref": "",
    "updated_at": "2026-11-14T15:45:45+05:30"
+  },
+  {
+   "id": "W0003",
+   "kind": "research",
+   "lead_id": "L0100",
+   "owner": "codex",
+   "title": "Verify role and prepare sourced personalization for ULOOK",
+   "detail": "",
+   "status": "queued",
+   "created_at": "2026-11-14T15:45:48+05:30",
+   "lease_until": null,
+   "result": "",
+   "ref": "",
+   "updated_at": "2026-11-14T15:45:48+05:30"
   }
  ]
 }

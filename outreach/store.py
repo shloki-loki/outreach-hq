@@ -18,6 +18,7 @@ import contextlib
 import fcntl
 import json
 import os
+import signal
 import subprocess
 import tempfile
 import time
@@ -124,9 +125,45 @@ def save(name: str, value: Any) -> None:
         raise
 
 
-def _git(*args: str, check: bool = True, timeout: float = 180) -> subprocess.CompletedProcess:
-    return subprocess.run(["git", "-C", str(DATA_DIR), *args], capture_output=True, text=True, check=check,
-                          timeout=timeout)
+class StoreOffline(Exception):
+    pass
+
+
+def _run(command: list[str], timeout: float, env: dict[str, str] | None = None) -> subprocess.CompletedProcess:
+    """Run a command and, on timeout, kill it and everything it started. `subprocess.run(timeout=)` kills
+    only the direct child; git's network helper (git-remote-https) survives, keeps the pipes open, and the
+    caller waits for ever. That held the store lock for hours on 2026-11-14."""
+    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True,
+                               start_new_session=True, env=env)
+    try:
+        out, err = process.communicate(timeout=timeout)
+    except subprocess.TimeoutExpired:
+        with contextlib.suppress(ProcessLookupError, PermissionError):
+            os.killpg(process.pid, signal.SIGKILL)
+        with contextlib.suppress(Exception):
+            process.communicate(timeout=10)
+        raise
+    return subprocess.CompletedProcess(command, process.returncode, out, err)
+
+
+NETWORK = ("fetch", "push", "pull", "clone", "ls-remote")
+
+
+def _git(*args: str, check: bool = True, timeout: float | None = None) -> subprocess.CompletedProcess:
+    network = any(arg in NETWORK for arg in args)
+    # A stalled connection gives up after 30 s under 1 kB/s; nothing ever waits on a password prompt.
+    command = ["git", "-c", "http.lowSpeedLimit=1000", "-c", "http.lowSpeedTime=30", "-C", str(DATA_DIR), *args]
+    env = {**os.environ, "GIT_TERMINAL_PROMPT": "0"}
+    try:
+        done = _run(command, timeout or (90 if network else 180), env)
+    except subprocess.TimeoutExpired:
+        if network:
+            raise StoreOffline(f"git {args[0]} got no answer from GitHub in {int(timeout or 90)} s; nothing was "
+                               f"changed. Check the network (a sandboxed shell has none) and run the command again.") from None
+        raise
+    if check and done.returncode:
+        raise subprocess.CalledProcessError(done.returncode, command, done.stdout, done.stderr)
+    return done
 
 
 def _unparseable() -> list[str]:

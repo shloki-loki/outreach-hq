@@ -627,7 +627,7 @@ def main(argv: list[str] | None = None) -> None:
     args = parser.parse_args(argv)
     try:
         args.func(args)
-    except ValueError as exc:
+    except (ValueError, store.StoreOffline, store.StoreBusy, store.StoreCorrupt, store.PushConflict) as exc:
         sys.exit(f"error: {exc}")
 
 

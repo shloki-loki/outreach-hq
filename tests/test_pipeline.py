@@ -538,5 +538,22 @@ class JournalTest(Base):
             store.log_entry("session", "gossip", "x")
 
 
+
+class TimeoutTest(Base):
+    def test_a_timed_out_command_dies_with_the_helpers_it_started(self) -> None:
+        import subprocess
+        import time
+        marker = self.dir / "still-running"
+        # The shell starts a background helper that would write the marker after 3 s, as git starts
+        # git-remote-https. The helper must be killed along with its parent.
+        script = f"(sleep 3; touch '{marker}') & wait"
+        started = time.monotonic()
+        with self.assertRaises(subprocess.TimeoutExpired):
+            store._run(["sh", "-c", script], timeout=0.5)
+        self.assertLess(time.monotonic() - started, 2.5)
+        time.sleep(3.2)
+        self.assertFalse(marker.exists())
+
+
 if __name__ == "__main__":
     unittest.main()

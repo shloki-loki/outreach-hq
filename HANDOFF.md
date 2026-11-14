@@ -112,6 +112,8 @@ Local `.env` (gitignored) has the Gmail pair, `SITE_URL` and `REOON_API_KEY`. **
 
 ## 4. Where things stand
 
+- Nov 15 founder re-outreach: four user-supplied tabs staged as speculative Strategy and Operations leads, not confirmed openings. Exclude Beltech AI. Target up to 60 approved first emails per IST day, with the existing separate 10 follow-up allowance. Hourly cycle 08:20–20:20 IST. Keep existing suppression, address grading, approval, and follow-up safeguards. Prior replies and outcomes need review before any re-contact.
+
 ### 2026-11-14 shared supervisor rollout
 
 Read SUPERVISOR.md first for cross-model ownership, changes, commands and current dependencies.

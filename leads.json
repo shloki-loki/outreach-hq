@@ -283,7 +283,7 @@
    "key": "blinkit|program manager generalist|india",
    "type": "job",
    "company": "Blinkit (Eternal)",
-   "company_domain": "",
+   "company_domain": "blinkit.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Public (parent Eternal)",
@@ -354,10 +354,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/himanshigupta1102",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "himanshi.gupta@blinkit.com",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first.last), not verified",
+     "confidence": 35,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -386,9 +386,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 2 (2026-11-01) as R25"
+    },
+    {
+     "at": "2026-11-15T01:51:25+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Himanshi Gupta: himanshi.gupta@blinkit.com (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-15T01:51:25+05:30",
    "live_check": {
     "at": "2026-11-14T18:46:33+05:30",
     "state": "live",

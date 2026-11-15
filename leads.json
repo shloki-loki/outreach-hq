@@ -14713,7 +14713,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "New Delhi, Delhi, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488295030",
    "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-reputed-university-in-delhi-ncr-at-fyndbridge-consultants-advisors-4488295030",
@@ -14729,7 +14729,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "The position is a senior, embedded role, designed for an experienced professional who can independently own work streams, manage cross-functional coordination and operate as a trusted institutional partner to the leadership team.\n Role and Responsibilities \n • Independently manage the domestic fundraising pipeline, i.e. UHNI prospects, family offices, corporate foundations, and CSR desks, from prospect research through cultivation and stewardship.\n • Own the fundraising CRM – data integrity, pipeline hygiene, relationship health flags, and reporting.\n • Own preparation of all decks for board presentations, donor pitches, leadership reviews, external conferences, and internal town halls.\n • Design, build, and own the MIS – providing a consolidated, accurate, and real-time view of\n performance across Fundraising, Careers, and Communications.\n • Bring structured thinking and project management discipline to unstructured, high-priority asks that cut across verticals.\n Qualifications \n • 10+ years of professional experience with demonstrated progression in responsibility.\n • Demonstrated ability to own and deliver complex, multi-stakeholder work streams independently.\n • Strong analytical ability – comfortable with data, dashboards, and MIS design.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Staffing and Recruiting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -14744,8 +14744,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -14755,15 +14755,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff at a university via FyndBridge, asks 10+ yrs and New Delhi location, but you have 1.3 yrs.",
+    "fit_notes": "The posting asks for '10+ years of professional experience with demonstrated progression in responsibility' and is located in New Delhi. Shlok has about 1.3 years of experience and is based in Bengaluru. While his strategy and execution work [sop, ceo-coo] aligns with project management and MIS needs, the 10+ years requirement is an insurmountable gap.",
+    "pay_notes": "Pay not stated in the posting; no evidence found.",
+    "culture_notes": "FyndBridge Consultants & Advisors is a staffing and recruiting firm; no company website or reviews found in search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-15T22:01:22+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -14787,14 +14794,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-15T22:01:22+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 35: rejected (The posting requires 10+ years of professional experience, but Shlok has only about 1.3 years; also, the location is New Delhi (not Bengaluru or remote), and the company is a staffing and recruiting firm hiring for a university, not a top-tier startup.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T22:01:22+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting requires 10+ years of professional experience, but Shlok has only about 1.3 years; also, the location is New Delhi (not Bengaluru or remote), and the company is a staffing and recruiting firm hiring for a university, not a top-tier startup."
   },
   {
    "id": "L0124",

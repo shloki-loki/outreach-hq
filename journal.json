@@ -1493,6 +1493,15 @@
    "title": "Claude founder batch review",
    "detail": "Reviewed Claude local branch founder-daily-60 while in progress. Before enabling runner: filter candidate contacts against suppression, recent-send history and founder/function-head rules before creating work; report drafted versus researched/rejected separately (current done count includes rejections); retain batch identity separate from mutable detail on reassignment. The worker instructions and routing do not themselves launch a daily job. Keep approval and free-tier limits. Codex did not change Claude working files.",
    "ref": "claude/founder-daily-60"
+  },
+  {
+   "id": "J0167",
+   "at": "2026-11-15T20:22:12+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "Research worker has not run since 01:50 IST",
+   "detail": "runs.json: last research-worker 2026-11-15 01:50 IST (failed: 0 researched, 3 left for a person; that run was the pre-PR6 branch run 43636836996, cause already found in J0142: Gemini 2.5 Flash retired). PR 6 merged 13:06 IST and research.yml is scheduled 06:00/10:00/14:00/18:00/22:00 IST, but gh run list shows no scheduled run of it at all (14:00 and 18:00 IST slots dropped). Writer last ran 01:54 IST and stopped on Gemini free quota. Effect: 1,426 leads still new (443 job leads plus 983 founder companies); only the Mac lead-scout researched today (10 leads).",
+   "ref": "I0013"
   }
  ]
 }

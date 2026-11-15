@@ -7804,15 +7804,15 @@
    "key": "prodigal|strategy and operations lead|bengaluru",
    "type": "job",
    "company": "Prodigal",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "prodigaltech.com",
+   "company_url": "https://www.prodigaltech.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy and Operations Lead",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "greenhouse",
    "source_id": "prodigal:4320165007",
    "source_url": "https://job-boards.greenhouse.io/prodigal/jobs/4320165007",
@@ -7843,8 +7843,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 45,
+    "total": 56,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -7854,15 +7854,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Strategy & Operations Lead at Prodigalis the consulting arm for financial institutions, asks 1+ yrs; lacks pay and consulting proof.",
+    "fit_notes": "The posting asks for 1+ years of experience and describes the team as \"the consulting and services arm of the company\" partnering with lenders and debt collection agencies. While Shlok has strong S&OP and execution experience at Ola Electric ([sop], [ceo-coo]), he does not have consulting experience, and this role explicitly functions as a consulting/services arm for financial clients. Furthermore, pay is completely unstated.",
+    "pay_notes": "Pay is not stated in the job posting, and no pay evidence was found in the search results.",
+    "culture_notes": "Backed by Y Combinator, Accel, and Menlo Ventures; works with 100+ financial institutions across North America. No formal review ratings or specific culture flags found in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T02:50:44+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "The Prodigal Son’s Older Brother - Reformed Journal",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2a1I1UktzdWdYbkoyb282SUxuZlVCVGNEZHpKYzY4WkkyVm1oNEZ4aXphaURJNjJmVFpTdTZjT0EzZGlJT3Y2S3V5cDI0TTR3RmxuT0hJNVRPYXMzV2lmNmRoeDJvbmdmc2JfemhBRWRnX1hZWk10OVd5VQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Even Now, God Can Rescue Your Prodigal - Desiring God",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCYV9NOG1fZ3A4ZFdvVnhTZTN0RGlJajVsY3dLbXpEWWc0MU9YWUJzYnNFTGRGY1I4bnNwT0FvVTJsTS10bmxZNjVES1hIMmNLcUFrVW1PVkV3SmVjOWhLa0R4T3ppV080bWtJWVBuTnNBZ05tanA3elk4aXFNUVU?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Return of the prodigal: Hardik’s homecoming at the birthplace of his dreams - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0JiZDdxQzYzSzBIS0l1bktqSFBtMnlyNFdlTjQ3a1hHaDlqVEt3Z0Q3c1dBOFZOQlBwZ185QWhYQzBEWG5RUmNmWG9UeWxWdVEyd1d2MFlCY1VRdmtwd2kwNDZmR0FNSGdCX29fczFaTDF5cnhPQ0xjT3o3TlJUSW84cHF1X1NaQjA2TGhsMFZMR05TNW05OWNHMzJZMGlLVkV1aEVIckpnMV9mZ0l0eFNQdGZJRDFVelNtQUplQXVtd9IByAFBVV95cUxNVE5TWm4xYzAydDIwdW1fQzhRTWllWm5RNHhwLWJtaFJUZUZ1YUFKNTZyUkw4WFItblpqYVhWTDh4b25ucGc3YW5XbGVSUVlQMFQwNThCeDZ5TFJKbF81OEZGQ1N4N0RuYlVqeVc4b1NraHNnejZKRDBTUkhJMzJGcTJoaFZ1emkyVEFrOFhBaDh6V001N0J2d05QVnd2UzVCb2xkNEdZbGF2YmkxMEdBbDM5eUdZTGdiaW9OdkNXUTB3VEpQVzI4UA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Prodigal Prince Harry’s Return to U.K. Poses Dilemma for William - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ05zVlRqek83SnBoVGhlTmFHRllCT09KLWFacGxfa0t5aGtQNk9NVjBlYWxPVU9ockNTV3hnZURyOENtXzJkZkhaX19xQkg4WHJQaTI2ZHV5YnhXcHVVNWo3a0QyeXRuU0hKd3k4X1ZqT1VkY3E4aklRZG1kWDdFMFVjUWFsUDYxendpV3RrVl9ja05seEdIRVF2aHExdHZwZ3c?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "A Legacy of Ministry, Prodigal Prayers, and Faith - Billy Graham Evangelistic Association",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGpiZmM1Y0dzT09La25xLTctNDdwYXJaOXpkSDhoMDllRlk1aHVPdzhCaHhMamJzWlpsbFVKV29UTXF6VERLdndCV1czTExKOEVWZ0R1bG1RX0JFTnEyUU11NWl2V0tiN3lqcVRkTVBaMEZtVnIybFRwV3lCaTU2d21WcjZsY0U?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "The Prodigal Son (1981) - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1R3TDI1dlhIYnZ5SDZpaHAtRXZ4blBzUkd0NHFuQVdDQ0lDR1ZLYWJWWlZ1N2RtX1puVV9Ba0tqS2l2QzJIb2lUVWhWaG5KYkZpM1lCN2xRdnVqang2TFc3RGdIMHJMNFBQT2d0akNaMTk4QzR0YUhDN1JKWUc5TExBZw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -7886,9 +7927,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "greenhouse: rule score 73"
+    },
+    {
+     "at": "2026-11-16T02:50:44+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 56: rejected (Pay is unstated and the role is explicitly the consulting and services arm of the company (calling itself the consulting and services arm, targeting banks and debt collection agencies), requiring consulting-style client management without clear proof of clearing the Rs 24.5 LPA fixed threshold.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:50:44+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -7898,7 +7945,8 @@
     "at": "2026-11-15T01:48:39+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Pay is unstated and the role is explicitly the consulting and services arm of the company (calling itself the consulting and services arm, targeting banks and debt collection agencies), requiring consulting-style client management without clear proof of clearing the Rs 24.5 LPA fixed threshold."
   },
   {
    "id": "L0063",

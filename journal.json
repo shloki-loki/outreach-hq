@@ -1592,6 +1592,15 @@
    "title": "Website and data branch agree",
    "detail": "WebFetch https://outreach-hq-psi.vercel.app/login at 20:15 IST answers with the Outreach HQ password page, no error. git -C data log -40: no interleaved same-second commits from two agents, no repair: commits, no mass deletions. Site writes today: 18:17 outcome L0006 rejected, 18:21 applied L0012. GitHub API timed out once at 20:09 IST (read timeout from this Mac) and worked on retry.",
    "ref": ""
+  },
+  {
+   "id": "J0178",
+   "at": "2026-11-15T20:24:30+05:30",
+   "by": "supervisor",
+   "kind": "note",
+   "title": "Mode is live; local repo has uncommitted founder-batch work",
+   "detail": "status and doctor at 20:07 IST show mode = live (only approved messages are sent). The local checkout is on branch claude/founder-daily-60 with uncommitted edits to SUPERVISOR.md, config/routing.toml, config/voice.md, outreach/cli.py, messages.py, supervisor.py, writer.py, two test files and a new config/prompts/founder-email-worker.md. Codex reviewed it at 19:32 (J0166) and asked that candidates be filtered against suppression and send history before work is created. Scheduled agents running from this checkout run this unmerged code.",
+   "ref": "claude/founder-daily-60"
   }
  ]
 }

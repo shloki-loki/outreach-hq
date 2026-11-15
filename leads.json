@@ -13987,8 +13987,8 @@
     "why": ""
    },
    "research_attempt": {
-    "at": "2026-11-15T22:00:40+05:30",
-    "why": "model answer failed the checks: an estimated pay must name a site that the evidence reported pay from",
+    "at": "2026-11-16T02:54:52+05:30",
+    "why": "model answer failed the checks: pay basis is 'stated' but the posting states no figure; use estimate or unknown",
     "by": "research-worker"
    }
   },

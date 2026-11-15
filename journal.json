@@ -1412,6 +1412,15 @@
    "title": "Work W0009: done",
    "detail": "10 researched, 1 qualified (L1359), 9 rejected; Instahyre 403 issue filed",
    "ref": "L1359"
+  },
+  {
+   "id": "J0158",
+   "at": "2026-11-15T13:06:55+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "PR 6 merged: Apply today view, cover notes, wider searches",
+   "detail": "Merged with his OK on 2026-11-15. Tests pass on main (73). The site gets the Apply today view once Vercel's daily deploy limit resets. Tonight's research runs use the model chain and fetched evidence. 100 a day still needs his budget decision on paid Gemini and Apify people search (HANDOFF 6G).",
+   "ref": "b4831bb"
   }
  ]
 }

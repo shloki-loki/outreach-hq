@@ -1439,6 +1439,15 @@
    "title": "Why founder cold emails are not going out (2026-11-15)",
    "detail": "983 founder_reoutreach company leads (1,931 verified addresses) are all stage new with no research or hook. write-run only drafts for qualified leads, and check_draft refuses a cold email without a sourced hook, so 0 founder drafts have ever been written. The free Gemini writer gets about 20 calls a day per model and hit quota on 2026-11-15; MAX_OPEN_DRAFTS=20 and new_emails_per_day=60 also cap volume below 100. Two sample founder drafts queued for approval (M0015 Shipsy, Unicommerce).",
    "ref": ""
+  },
+  {
+   "id": "J0161",
+   "at": "2026-11-15T14:03:20+05:30",
+   "by": "lead-scout/scrape",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "6974 jobs read, 369 passed rules, 1 new leads",
+   "ref": ""
   }
  ]
 }

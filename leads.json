@@ -16013,7 +16013,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4475891987",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-id-%23-927-at-aviate-4475891987",
@@ -16029,7 +16029,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "About the Company \n Our Client is India's leading Voice AI platform for consumer sales. Their AI agents run 50 lakh+ calls a day for 60+ leading brands including Kotak Mahindra Bank, AngelOne, PhonePe, IndiaMART, TATA Digital, Amazon, Swiggy and Eureka Forbes, giving every lead the best pitch, in their language, on their preferred channel, at the right time. Their customers see up to 90% lead connectivity, 40% more conversions and 2-3x lower CAC. They own the stack we run on. Their speech-to-text model, is trained on 600M+ minutes of real Indian sales conversations and, on our own benchmark of noisy Hinglish telephony audio, comes out ahead of every other model. Developed by them, the world's first Sales LLM, is trained on 400M+ real sales interactions and their outcomes, so it learns what actually closes, not just what sounds fluent. We process over a trillion tokens a month at under 0.8 second median latency, and every conversation makes the next one better. Driven by 200+ builders and backed by Blume Ventures, Chiratae Ventures and Bertelsmann India Investments, we believe how we build matters as much as what we build. Ownership is real, trust is the default, and there is room for deep work. Careers here are not one-size-fits-all. Growth can be linear or non-linear, leadership can be quiet or bold, and people build, lead and challenge without being pushed into a single mould. If you're excited by AI, driven by purpose, and want your work to truly matter, there is space for you here.\n About the Role \n The client is looking for a someone in their Founders' Office to shape their next set of products and business verticals. Working closely with the founders, you will identify and shape new initiatives, build the case for them, and take them from concept to launch and early traction. The role combines strategy, product and business ownership, and offers a path to leading a new product and business line.\n Responsibilities \n What you will do Identify, evaluate and prioritise new product and business opportunities with the founding team\n Lead primary and secondary research, including customer discovery with enterprise decision-makers\n Develop hypotheses, business models, pricing and go-to-market plans, and drive them to decision\n Build and test early product prototypes using AI tools, working with product, engineering and design\n Represent the client with senior stakeholders and secure early adopters\n Own execution end to end, from first milestones to a scalable verticals\n Qualifications \n 2-3 years in a client-facing role at a top-tier management consulting firm (McKinsey, BCG, Bain), with experience leading engagements\n Required Skills \n Exceptional structured problem solving, with rigour and attention to detail\n A genuine passion for building, and the energy to take ideas from concept to results\n Comfort with ambiguity, and a track record of creating structure where there is none\n Strong business judgement, and the ability to bring senior stakehold",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -16044,8 +16044,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -16055,15 +16055,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office at Aviate, asks 2-3 yrs at MBB consulting; you lack management consulting experience.",
+    "fit_notes": "The posting asks for \"2-3 years in a client-facing role at a top-tier management consulting firm (McKinsey, BCG, Bain), with experience leading engagements\". Shlok has 1.3 years of experience in Strategy & Operations at Ola Electric ([ceo-coo], [sop]), but he does not have consulting or MBB experience, which is a hard requirement for this role.",
+    "pay_notes": "Logistics compensation stated as \"Competitive, based on experience!\", with no specific numbers provided.",
+    "culture_notes": "Backed by Blume Ventures, Chiratae Ventures and Bertelsmann India Investments; ratings and detailed culture reviews were not found in the evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-15T22:02:39+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Aviate, Android’s answer to Flighty, is now available to download - 9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY3JNZGZMUGxnYVNpNzdWaF9xbEE1Vk5XRGFxS1dQdlJ1MWFCWU4tTzNuZ3ZiT3NreXptTWNGcWJ5enZ2ZlpWdHdaUHlpb2Z1SEpTQ2h0cTJ0cWticEY0NmlfbTN0R0lDT01FajNjMDlJMlZ4ZTJzaWpjbHl2UWJ4a2NOa2xSMEJDeEVabWRiVDVWZms2M3VwLTFGVVJpUQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "6 Cool Aviate Features That Make It The Best Flighty Alternative For Android Phones - BGR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0hOeV9qamVkLVdyXzljOFkxUlVnaXJVQnktYzI2TXhkdVVnd2lCY3NfajAyTTJlb1JCZUFLempmZ0wtS0lfT0JlRkMza0UwS2FkS2E2bGlRX1dNdzlwcEpDemVJb0FVbUw0QTc1b201SE9BcVFGSTV5MnpSZ3RldWI2VVBUWHRvLXUyUVFqSVktQQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "India Needs More Pilots. Aviate Aero Academy Is Working to Build the Talent Pipeline - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGJMcnNhYlJ0dUh4VDRGdUVfUXlEMzAxOFdTc0gyUC1uYnR1RE5ucXVKNnl5QTN3akJ5dVlYVVpiVnBpSUttT0RHRzE4RUFLQUFRTW5TR3g2UUR1TlUtSk5fUExSQWMzVEc3ZXVWSWFoTW9GeENYOHZ2SmxVUmVIRnoyWFhLenpWa3l2MXlzazhOQ0stY1F1YU5ZZlY4SlBsbl9BcDlxT25RRkV0UFYxeWdmQXo5WEktT2psdWFRSFB3Z1JBV19XOFZoV0NmMTg?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Aviate Just Launched on Android, and Frequent Flyers Need to Download It Now - Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMlpaeGZGNWExeE5YZWxqYjlvOVhaVGg5VzlHQU5CVllSLVJpSVJDbnpDN2RJRmJ0TkFnTmFZMm1CSUdTSWRocmFqNF9mUVlvdVRYSm5pd01ibF95MU1rMlVCTUFlWGI1YzJHQjVOQzYzV01Tcmd0YUFmTFZUT2p0Q19HT2lWN0JPSm1ZREFJTG5vT0p4ckU5UDM5cno5TXNRMk8wLVlJSW4yTm1jYkJBWEl1Q1lCc2pHYThIbUtn?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Aviate Pro ME LLC Group and SkyConnect Form Partnership Linking Middle East and East Asia Aviation Markets - Avi-Go",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZkRLR3hiYmhpNzNqb3ExWGQwdlFnX1RLMnV0TnpSZTlXbFB2ME1SMDNIMWE5U0lhN1RkOUhId2RmSEUxOHpfR2ZUS2JxZXBEZHJLa3h1bVdZblVvTlY1dWthN21sQTdteVVtdGpOSjNBVG8?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Phoenix East Aviation Visits United Airlines Flight Training Center During 2026 Aviate Network Leadership Summit - afm.aero",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQlUyQmM0Y3M1dG1qVXNuUF9wNUluUklDMWF1MWtfejczTzNTWVRQUzBrSEVfa2RFLXBqclY2dnZGYXJoZlNDd3FselhIM3dTTlY0a3pMYzUyREFDRVIxZ1p4U2pwcXlRMWFwT1BwSklmWFZfMGhlXzNUMHJDSFdUYlg4MjIybXU2aHMyNHdtWGh4Z2lWTzZiY3NXbnlkZkVpS3ktTUFobUFhNm1xY1Y4RkxXTGRoUjdiM3lTbFJEXzBKX1E2TTZqRw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -16087,14 +16125,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-15T22:02:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The posting requires 2-3 years at a top-tier management consulting firm (McKinsey, BCG, Bain), which Shlok lacks.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T22:02:39+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting requires 2-3 years at a top-tier management consulting firm (McKinsey, BCG, Bain), which Shlok lacks."
   },
   {
    "id": "L0135",

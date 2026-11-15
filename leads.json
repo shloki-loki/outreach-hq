@@ -166404,7 +166404,21 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Shruti Kumar",
+     "title": "Head of Strategy & Operations, AI Programs, gTech Ads",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAAAMCanQBEW592DuwlSEcgkE3W4UBljYmE68",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "likely reports-to or runs the function this role sits in (LinkedIn title)",
+     "found_at": "2026-11-16T02:58:34+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -166424,15 +166438,22 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 66: qualified"
+    },
+    {
+     "at": "2026-11-16T02:58:34+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "1 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-16T02:49:00+05:30",
+   "updated_at": "2026-11-16T02:58:34+05:30",
    "research_attempt": {
     "at": "2026-11-15T21:23:34+05:30",
     "why": "error: Gemini unreachable: The read operation timed out",
     "by": "research-worker"
    },
-   "reject_reason": null
+   "reject_reason": null,
+   "people_searched_at": "2026-11-16T02:58:34+05:30"
   },
   {
    "id": "L1417",

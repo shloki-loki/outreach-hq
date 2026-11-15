@@ -1203,7 +1203,7 @@
    "key": "zepto|category manager sell side|bengaluru",
    "type": "job",
    "company": "Zepto",
-   "company_domain": "",
+   "company_domain": "zeptonow.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Series H at $7B (Nov 2025); pre-IPO ~Rs 1,000 Cr at ~$4.5B reported Jul 2026; IPO delayed",
@@ -1274,10 +1274,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/muskan-gupta-3bab83268",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "muskan.gupta@zeptonow.com",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first.last), not verified",
+     "confidence": 35,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -1306,9 +1306,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 2 (2026-11-01) as R32"
+    },
+    {
+     "at": "2026-11-15T22:05:15+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Muskan Gupta: muskan.gupta@zeptonow.com (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-15T22:05:15+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "unknown",

@@ -160793,7 +160793,7 @@
    "key": "seismic|senior deal strategy and operations analyst|india",
    "type": "job",
    "company": "Seismic",
-   "company_domain": "",
+   "company_domain": "seismic.com",
    "company_url": "https://seismic.com/",
    "company_linkedin": "",
    "company_note": "A go-to-market performance company that helps organizations turn strategy into revenue through an AI revenue execution platform.",
@@ -160801,7 +160801,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "hiringcafe",
    "source_id": "icims2___in-careers-seismic___2438",
    "source_url": "https://in-careers-seismic.icims.com/jobs/2438/senior-deal-strategy-%26-operations-analyst/job?in_iframe=1",
@@ -160832,8 +160832,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 20,
+    "total": 42,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -160843,15 +160843,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Deal Strategy & Ops Analyst at Seismic in Hyderabad; requires 5+ years experience, exceeding Shlok's 4-year maximum limit.",
+    "fit_notes": "The posting asks for '5+ years of experience in Deal Desk, Deal Strategy, Sales Operations, or similar roles, with at least 2+ years in a leadership capacity' and expert hands-on experience with Salesforce and CPQ tools. Shlok has 1.3 years of experience in S&OP and operations at Ola Electric [sop, ceo-coo] and lacks CPQ / Deal Desk experience, making this a hard experience reject (>4 years).",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary data for Seismic India was found in evidence.",
+    "culture_notes": "No specific Glassdoor or AmbitionBox ratings were found in the evidence.",
+    "hook": "Seismic brings together signals from customer engagement and seller behavior through its AI revenue execution platform, trusted by over 2,500 organizations worldwide.",
+    "hook_source": "https://seismic.com/",
+    "researched_at": "2026-11-16T02:49:50+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Seismic website",
+      "url": "https://seismic.com/"
+     },
+     {
+      "id": "S2",
+      "title": "Seismic performance assessment and strengthening of a residential RC building damaged in the 2023 Türkiye Earthquakes: A case study - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lU1pfMzR1dld4T2Y0cXExOE42aThFM0kwSGI1bWVlN2lKcmlaQkFpTFp6YTFSQ2pHdzdZQWZBMERxNHlXVmRTbmFZNkYyLTgzTTlaOWVXNGVGdklWbUhR?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Shaking-Induced Small Seismic Velocity Changes as Revealed From Seismic Interferometry Analysis of Distributed Acoustic Sensing Data - AGU Publications",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ob1UzSlpYZTdIaUlnSlIwcXlyOEdFbkQtY2c4ek1xOVF0SVRBLUpvOGdqblhMMm83NkhOWDYtTXVldExGc3FaSzdoemJHRTQ1VzI0Z2lzUWNyYW10Skk3MGJUcHdxVUtWZVptWk9NckFMd0VFckdIWA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "The Seismic-Highspot Merger Raises The Bar. Will GTM Teams Clear It? - Forrester",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDlRRnFjSmU5UDkxd3Q3bVdoNFRqSTdab196cDk5TkJNVDl2X2VVOWhFaVNTOTJBN0NGS3ltb013S00yVklKTzVHMFo1Q0x4Z09TS25heFF1eVpkLVNxRzVpTUJwRjFkaWtzcDlDeW9FZ1gwY3ZhSVRhWi1BU0gwQkhNazUwbWtjTDduRlJIYTQyVlhFVDZIbENNY3JCa29z?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Earthquakes and Seismic Waves Explained - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ncXNka0llT3dXRmRWUVRISTRRRDMyN2xtMXJUQUg5N001RC0tOG5JVUVRSTdVWTNYeXBJM09XWWlFeWpXdXZ0Z29mRXBmVEhxbHNlWW5kbkRIMlBaX0VMTGJWS0l6UVBzSkdtN1B0eUo2cDhRTFI3amxB?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Advancing seismic input motion methods for nuclear installations - Nuclear Energy Agency (NEA)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamdQSXIwRnotMEtuZ0prNUxvb1RmYjQwUFhFVUJaSFFoMmJMRVlqY3NzVGRySzVMcWlmdk0wa3dHcmpkeWNCUXE0blc5V3RWYnJWTEllbERjaVFVOThaYW1qQnFBVFpuaGN6SFZBUkd0UWdmVGZ3MG9FMnpFV19fSUl0c24zUjVZTDJUTXNLS0hfZE5aUnpoNjRWUXppWE13?oc=5"
+     },
+     {
+      "id": "S7",
+      "title": "Powerful seismic waves from Japan’s 2011 earthquake struck Earth’s core and bounced back up, moving island eastward - University of Chicago News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcExiSmZtS1o1Z1NFSTVObkJ2bE9EZWZWQ2JOQ0V1UXpqXzhHMW96WnpjS3h3eGFxQ0k3RkFyUUdQc01ISW5FdXpTOFpCMjd1SXZEODNuQy1vLVR2Smt0RkxrX3duaFhoWWpiWldaTEdMN1JIb2RrWVo3NU50T2Q5QkhHd0Qtc1ZfcVhGbmIxRWc0NW5EYTlGR2tnSVpiZk9oVmprVnpMbHk3TXAyNjRzM2tKZjJBSjFFVGkxMA?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -160875,9 +160918,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 74"
+    },
+    {
+     "at": "2026-11-16T02:49:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 42: rejected (The posting explicitly requires 5+ years of experience in Deal Desk / Sales Operations (exceeding Shlok's 4-year upper limit for 1.3 years of experience).)"
     }
    ],
-   "updated_at": "2026-11-15T01:20:54+05:30",
+   "updated_at": "2026-11-16T02:49:50+05:30",
    "research_attempt": {
     "at": "2026-11-15T01:48:32+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
@@ -160887,7 +160936,8 @@
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly requires 5+ years of experience in Deal Desk / Sales Operations (exceeding Shlok's 4-year upper limit for 1.3 years of experience)."
   },
   {
    "id": "L1369",

@@ -17336,15 +17336,15 @@
    "key": "cisco|strategy and planning manager|bengaluru",
    "type": "job",
    "company": "Cisco",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cisco.com",
+   "company_url": "https://www.cisco.com",
    "company_linkedin": "https://www.linkedin.com/company/cisco",
    "company_note": "",
    "title": "Strategy & Planning Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4489615423",
    "source_url": "https://in.linkedin.com/jobs/view/strategy-planning-manager-at-cisco-4489615423",
@@ -17360,7 +17360,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "About The Role\n At Cisco, we connect and secure the world's leading organizations while powering the global infrastructure for the AI era. As a Strategy & Planning Manager, you will serve as a strategic co-pilot and internal advisor—translating multi-year executive visions into concrete business priorities, competitive market positioning, and enterprise transformation roadmaps.\nIn this high-visibility position, you will sit at the intersection of business strategy, commercial transformation, and advanced analytics. You will harness internal and external data signals, prompt engineering, and predictive scenario modeling to guide strategic investment decisions, apply rigorous prioritization to optimize resource allocation, and accelerate a holistic 'OneCisco' AI and recurring software revenue growth strategy.\n What You'll Do (Key Responsibilities)\n Strategic Vision & Transformation: Translate overarching executive vision into structured multi-year business roadmaps, measurable milestones, and recurring revenue models, defining clear success criteria for all initiatives.\n AI-Augmented Scenario Modeling: Set targets, build multi-variable forecasts, and conduct scenario modeling by integrating advanced analytics and AI-driven signals into daily workflows to evaluate trade-offs and long-term feasibility.\n Executive Advisory & Prioritization: Advise senior leaders on business unit strategies, investment priorities, and capability alignment, applying disciplined prioritization to identify low-value initiatives for sunsetting or outsourcing.\n Market & Competitive Analysis: Lead competitive intelligence and market dynamics research using AI-enabled synthesis tools to uncover emerging growth vectors, disruptive trends, and shifts in customer buying priorities.\n Annual & Multi-Year Planning (S&P): Facilitate global and regional Strategy & Planning cycles, embedding feedback loops and AI-driven anomaly detection to measure execution impact and implement timely course corrections.\n Cross-Functional Dependency Mapping: Coordinate cross-functional agendas across Sales, Product Engineering, Finance/FP&A, and Customer Experience, ensuring deliverables reflect end-to-end organizational interdependencies.\n Executive Storylining: Synthesize complex multifaceted quantitative and qualitative analyses into compelling, C-suite-ready presentations and narratives that drive executive consensus.\n Who You'll Work With\n You will partner directly with Cisco’s executive leadership, Regional Sales Directors, General Managers, and global Strategy & Planning peers. Operating as a strategic advisor, you will collaborate closely with Finance, Operations, Corporate Development, and Marketing teams to resolve operational friction, sequence strategic investments, and drive unified Go-To-Market execution across diverse global markets.\n Minimum Qualifications\n Education: Master’s in Business Administration (MBA) or equivalent advanced degree from a premier business school.\n Experience: 7",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -17375,8 +17375,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -17386,15 +17386,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Strategy & Planning Manager at Cisco, but requires an MBA and 7+ years of management consulting experience.",
+    "fit_notes": "The posting asks for a 'Master’s in Business Administration (MBA) or equivalent advanced degree from a premier business school' and '7+ years of progressive experience in management consulting (Tier-1 / top-tier strategy firm) and/or Corporate Strategy' [posting]. Shlok has 1.3 years of experience, no MBA, and no consulting background. While he has execution and planning experience such as [sop] and [ceo-coo], the experience and credential gap is absolute.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Ratings, headcount, and detailed glassdoor/culture data were not found in the provided evidence, though Cisco is a well-established global enterprise software and networking company.",
+    "hook": "Cisco lifted its annual revenue forecast on strong AI networking demand.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDgteG5IeXZjU1k1UDdhbFkyZlVCaHI1d0pPdGp2elFReVRRclN6dWhTM2NuSUk3cGdUSnRRU2c4aWpCcS14blFsN3hLTTNCSktQbXpTUVgxRjVJV1R1YldHdEVYMXJvVHg3TzJiOXhEM0owM08ySlI1bmNkMG5GQXhnQl9iVExNWlN1Z0ZweFk3YldGWDltNFpnekdDZWpVcTJ3QTFlUUxNWXlLX0NjLUhvTjRtNzlrYnlXdXJiTmc?oc=5",
+    "researched_at": "2026-11-16T02:56:30+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Deploying AI You Control Doesn’t Need to be So Hard - Cisco Blogs",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXg3UlBaUk5Ebl9CaU1FUzRnSmduVXpsMDBkUTNDX1FhQWg1THg4SVJJUDQ2RnZ0XzlmNnBDb09VZWI3OFFlS1pzSVBkYk02aGE2anFYd2ZhTXZrUnhuM3B5THliLVAtNk9VeF9KYS1ndFQ4WjUwTEZlT1ZxdkoweU1jQklkdw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Two critical RCEs in PHP core - Cisco Talos Blog",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zN3ZxNXRYbmtlVzVQNU53dTAwLXk1WUxZckEyZ0RaU1pvNXVDQnctWGE3anY3MUt1NGdsUlB2bzhsQXBkcXljdmtTWFFENkVacVFnUF9kdmp2aXNkWmw1dWkxX2IzMERMa2g5TlJOWlJPVE0?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1hZmJNOVJBYUN6ZHFnVzk0d1g1Yi1iUFJLM2cwdzNJQmpoVzRBM2ZvdXRJMGlzQU5IeFZRT3RVSEMtcHZnQ3c?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUNtMjcyRmFaWHoweVhWT2wzelpGOU1TbldKRkVYdWNUT0JuRUcxYkx6clU0a1Z1dE5DNlNYQTQxOUZSS2pzaU94eVFIOW5OWEtnZk54NWhrN0FZdS1TSGYtWlo4Z2stMVZjNF9TZXBCRGRIY3BPOGw3UHNIMDdZZUJKRQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Cisco lifts annual revenue forecast on strong AI networking demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDgteG5IeXZjU1k1UDdhbFkyZlVCaHI1d0pPdGp2elFReVRRclN6dWhTM2NuSUk3cGdUSnRRU2c4aWpCcS14blFsN3hLTTNCSktQbXpTUVgxRjVJV1R1YldHdEVYMXJvVHg3TzJiOXhEM0owM08ySlI1bmNkMG5GQXhnQl9iVExNWlN1Z0ZweFk3YldGWDltNFpnekdDZWpVcTJ3QTFlUUxNWXlLX0NjLUhvTjRtNzlrYnlXdXJiTmc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXZ1VHS3FlM0xwR1ctNVZGd255am4zdHdQUUhBVjdyRmVoRy05RkZPcGQ2RUgzUFVsSlk1YTQ5aUZTM1lhZmFPT2lXUXY4NzcwanBweWVNN3RMSklUdzBfdDg5MUtfMzY0Qi1FMmpHT19sZ9IBd0FVX3lxTFB0dFNlWHZZSG04enVwQmRHZ3J3LUtIT3ZUdF9ESkVzZExBaWJFSTVjcGZxbkFxUVl2VFZ3dkFBTVFVc0dWTG5INTRlMDBqT1VudEJYZ0xOX0NiUzVPSEtoUzhfRlh5bmlMMWZjaHExV0dPTVBra2hv?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -17418,14 +17456,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T02:56:30+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (The posting requires an MBA from a premier business school and 7+ years in management consulting or corporate strategy, far exceeding Shlok's 1.3 years and lack of MBA/consulting background.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:56:30+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting requires an MBA from a premier business school and 7+ years in management consulting or corporate strategy, far exceeding Shlok's 1.3 years and lack of MBA/consulting background."
   },
   {
    "id": "L0144",

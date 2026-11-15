@@ -132,11 +132,11 @@
   "2026-11-15": {
    "leads_total": 1524,
    "by_status": {
-    "applied": 3,
-    "qualified": 45,
+    "applied": 4,
+    "qualified": 43,
+    "rejected": 35,
     "contacted": 10,
     "skipped": 3,
-    "rejected": 34,
     "interview": 1,
     "new": 1426,
     "to_approve": 2
@@ -169,7 +169,7 @@
    "bounces_total": 0,
    "reply_rate": 0.091,
    "bounce_rate": 0.0,
-   "applied_total": 3,
+   "applied_total": 4,
    "referrals_sent": 0,
    "interviews": 1,
    "offers": 0,

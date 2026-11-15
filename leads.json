@@ -160519,15 +160519,15 @@
    "key": "enterpret|founders office revenue operations and systems|bengaluru",
    "type": "job",
    "company": "Enterpret",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "enterpret.com",
+   "company_url": "https://enterpret.com",
    "company_linkedin": "",
    "company_note": "A company building customer feedback intelligence for product development teams.",
    "title": "Founder’s Office: Revenue Operations & Systems (RevOps)",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "hiringcafe",
    "source_id": "grnhse___enterpret___8194486003",
    "source_url": "https://job-boards.greenhouse.io/enterpret/jobs/8194486003",
@@ -160558,8 +160558,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 75,
+    "total": 74,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -160568,15 +160568,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office RevOps role at Enterpret in Bengaluru, asks experienced IC; your S&OP and data systems work maps directly.",
+    "fit_notes": "The posting asks for a 'sharp, data-driven operator' as a 'hands-on, high-autonomy role for an experienced individual contributor' reporting to the Chief of Staff to the Co-Founder. It requires owning core revenue workflows, CRM systems, and ensuring reliable data. No specific years of experience, MBA, or consulting background are requested in the posting. Your experience building systems, managing operations, and handling complex data workflows maps directly to this via [sop] and [mrp].",
+    "pay_notes": "Pay is not stated in the job posting or evidence; requires screening to confirm it meets the Rs 24.5 LPA threshold.",
+    "culture_notes": "Company builds customer feedback intelligence for product development teams with customers including Canva, Harvey, Zapier, and F500 companies. No specific ratings or culture flags found in evidence.",
+    "hook": "As Enterpret scales its AI-native customer feedback intelligence platform across PLG decacorns and F500 customers, I'd love to bring my operational systems background to help scale your revenue workflows.",
+    "hook_source": "https://job-boards.greenhouse.io/enterpret/jobs/8194486003",
+    "researched_at": "2026-11-16T02:53:39+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -160600,9 +160610,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 73"
+    },
+    {
+     "at": "2026-11-16T02:53:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 74: qualified"
     }
    ],
-   "updated_at": "2026-11-15T01:20:54+05:30",
+   "updated_at": "2026-11-16T02:53:39+05:30",
    "research_attempt": {
     "at": "2026-11-15T01:50:10+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
@@ -160612,7 +160628,8 @@
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1362",

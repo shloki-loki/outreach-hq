@@ -26857,15 +26857,15 @@
    "key": "cashfree|technical program manager|bengaluru",
    "type": "job",
    "company": "Cashfree",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cashfree.com",
+   "company_url": "https://www.cashfree.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Technical Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "449975",
    "source_url": "https://www.instahyre.com/job-449975-technical-program-manager-at-cashfree-bangalore/",
@@ -26896,8 +26896,8 @@
    },
    "score": {
     "rules": 67,
-    "research": null,
-    "total": 67,
+    "research": 61,
+    "total": 63,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -26907,15 +26907,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "TPM at Cashfree (Bangalore, 1-5 yrs); your IIT Guwahati degree, SQL, REST API work [idekho], and S&OP execution [sop] make you eligible despite an Ops background.",
+    "fit_notes": "Cashfree asks for 1-5 years in TPM, solutions engineering, or software development, with graduation from a tier-1 engineering college, clear technical communication (API docs, JSON, curl), and basic SQL. Shlok satisfies the tier-1 requirement via IIT Guwahati EEE [ranks], has coding skills and built a Flask REST API [idekho], and demonstrates program execution tracking [sop, msl]. However, his full-time experience is in hardware/operations strategy rather than fintech software development or payment gateways.",
+    "pay_notes": "No salary figures were mentioned in the posting or web evidence sources.",
+    "culture_notes": "Cashfree is backed by Y Combinator, PayPal, and SBI, processing $80B annually. Benefits listed on Instahyre include medical insurance, Sodexo coupons, and work-from-home options.",
+    "hook": "Cashfree Payments reached Rs 1,000 crore in revenue in FY26 while targeting operational profitability in FY27.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVUMtTjRfWWNTZW5TdGNvRk1fYzB2dExwdEZveU9tdjM3bVBDWlIzc2lLb2tDQWJnZ3VWQUhCNHdLRXB4cWRENF9fTk4wOUZkS3FhRUs4cGhQZ05Yd1ZjOXV6REpEZzBfbjZBVkVMUG5XTnQ0UVpWSEFuWnR0emhhNG9rSURXUmV3OHIyczBxcVVVT0tCaFFkYjNoTzdrMU9qQnJqOTUtWFRGcDJrMlgzVDhTOVZTemV1NElhWE5RV0swSXhQYWtZNldIOTkyTk9YVldvWExpNnFYbTFMOTRnVGd2MWk0RGFWejlqb3ZqSUcwZ9IB9wFBVV95cUxQeC1lcDFwLUlBN01PT3dHSVBmd0NYb2FsMDE5LXJ5ZEloeFk1b1VwMzNGd0V6OTFwOTF0Z1B6WVlaX0FxbFRLRVZuQmRXUjVyMmQxUXZiWV94YnJuTlMwdmhhYWJ0ZHBqMERHQ05VQlBZTWh5MTJjdEw4Rk9MdU9hbVEweW1hSjVKWGpJNTFDcWxWU19xUEVCWXJGMUwzY1hTV21hR0Q0ZHVfNkNncm5xSzFtc29tYVZKNld0Z0VpUjYyVlRzTjlDYzNhUkZGZVQ0OWNJcmFFanBCUDdBMnRoeDVkbGNrQWtwVzZCR1NwTnhlenZKQlN3?oc=5",
+    "researched_at": "2026-11-15T21:58:22+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "India's SBI-backed Cashfree Payments bets on cross-border push with travel, investment payments - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzc1REwzOXVfMTQwNU5Zd3MzaGZra1pFSjFiNk13dmM3c0I2V0ZzbE9PaUpkT2I4SnBTYVVPYi1OOEhqSWFIaV9wckdWa3IwTGJIWjFzbzBHNHFiODFieTdiUlU1MEtKZURiaHNNMFh6MXdBX2lHNUlvNkpQcWpwYlZ6LXNicHBkVnJSekZyczh6cGtxazEtM01oN2tVUlRKYjJVeVh4aw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Cashfree Payments offers zero payment gateway fees to woo new merchants - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcWgtSGxqRVBtc2FuNFhPeXpiVVVicDBmSllOSFY4TGtUelZ1NVplYU5GZnI1WjRHYS14eVNzbTJrei1yTlFnNDBjZjdRWk5Xd3FvZjBGTEp2anRhWkZaVE5Pa0hfTjlkQkMxa0NESW1MZ2lOT3FKYXZDdGw5XzZ3bTdRZDRPOU9UVnlPdDJ0UXNxYmdFSFdzalBYc2xySnhBT2JzNE01cXdBMzJCTTVWUXR2WklVeTZqcjNXOEo4bk9iZThFTG52T05RUndlc0JEamRET3dhdkg1QmJ4bHfSAeMBQVVfeXFMT3I5azZXRVBSM29xbkN5LXVmcHdEZ254aVlSWU9YbkdreVRza1lHVXpaX3BHS3ZKNlMwNF9hcFBnZ01zQlk2WWZqSlVDYTE5Z09fSGRVYVUxamxfOXZOazZUdkd1VUFtaGxOTUNuMEVUSFNtRmNISExrTkNPSFdseDd4cHFQTi16UW9RZExCUVp3ZXhuOC1nYXplWFFNbmFHa1VBSktNV3ZFX1ZRRUZ1ckprTlJ3ekZieGhuZENJTTZpcUM3TkN3YXl3bVRPdEhpb1Z4U2FUemdlckcyZ1ByNjNUTVk?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Cashfree Payments revenue hits Rs 1,000 crore in FY26; company eyes operational profit in FY27 - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVUMtTjRfWWNTZW5TdGNvRk1fYzB2dExwdEZveU9tdjM3bVBDWlIzc2lLb2tDQWJnZ3VWQUhCNHdLRXB4cWRENF9fTk4wOUZkS3FhRUs4cGhQZ05Yd1ZjOXV6REpEZzBfbjZBVkVMUG5XTnQ0UVpWSEFuWnR0emhhNG9rSURXUmV3OHIyczBxcVVVT0tCaFFkYjNoTzdrMU9qQnJqOTUtWFRGcDJrMlgzVDhTOVZTemV1NElhWE5RV0swSXhQYWtZNldIOTkyTk9YVldvWExpNnFYbTFMOTRnVGd2MWk0RGFWejlqb3ZqSUcwZ9IB9wFBVV95cUxQeC1lcDFwLUlBN01PT3dHSVBmd0NYb2FsMDE5LXJ5ZEloeFk1b1VwMzNGd0V6OTFwOTF0Z1B6WVlaX0FxbFRLRVZuQmRXUjVyMmQxUXZiWV94YnJuTlMwdmhhYWJ0ZHBqMERHQ05VQlBZTWh5MTJjdEw4Rk9MdU9hbVEweW1hSjVKWGpJNTFDcWxWU19xUEVCWXJGMUwzY1hTV21hR0Q0ZHVfNkNncm5xSzFtc29tYVZKNld0Z0VpUjYyVlRzTjlDYzNhUkZGZVQ0OWNJcmFFanBCUDdBMnRoeDVkbGNrQWtwVzZCR1NwTnhlenZKQlN3?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "How Cashfree Payments is helping India’s next wave of SMBs build and scale - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWF9MM3BaVUlubnBMWV9vWENnTFkxT0cwZXdwbnF5Q2RWVTc1eVZQZW5DNUxWVWM0cElqOVFjY0t4b2pyejZCNkVwUmg3eE5sR3Bya3J4LW56MHMyM2NZakRJWHZsM2xnZ0lHSTVmUGtMQXU3d2g4MktKSmk2VkhGcW5LU2Z5QURYVklEbzJybnY0ak0?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Cashfree FY26: Revenue Inches Closer To ₹1,000 Cr Mark, Loss Narrows - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSklFV1FjT09yX3N6YkpzN1FEVGFuTmUyeFZBZGxlbVoxUnpXelpzVzk4ZzgtcW9ZYXlzVDNxSDl1SDVkNEZHa3Y3N0hWNFJweEI0b1Q2bVdqLU9tdVpYT1J3VHR1Q2hLNGxBSHNELVNsRENmQ3hnUmg3WGhqSHE4RUFndUpDYkM5UmNQT2xBMHE3MWdUU0QzVnR0TnRJQQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Cashfree Payments Announces zero percent Payment Gateway Fees for its New Businesses Till March 2027 - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUGs3aGxWRy1NZjN6MzBtREV6bnZ1QzZ4bktJYUVvNk5vY2NRMHZXZHl2T1JYNkhvRHFrVy1xMEtGMUEtUGJ4dWdBQmxoRnFIZm5YV3ZwakVrYUJqLS16SGdvOFh6N21WVUd5aXNDOVlxeHJZT2JUZUs4YlZJbUtCdmh4TTZ4b1diR2tUaVozX254UW02UmF6dWJDYjJiaEZNdi1GQWg0ZGNWemZMUlZJemRURXRnLVUwZzVmYWE4ZmhPUDVZRFRUS25xeFNMQUFVb1ZiTVFicEJWb3BSbFZNOHZuY1RXUQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ranks",
+     "idekho",
+     "sop",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -26939,14 +26982,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 67"
+    },
+    {
+     "at": "2026-11-15T21:58:22+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 63: rejected (score 63 is under 65)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T21:58:22+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "score 63 is under 65"
   },
   {
    "id": "L0248",

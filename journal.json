@@ -1556,6 +1556,15 @@
    "title": "Diagnosis: Research worker has not run since 01:50 IST",
    "detail": "Cause: GitHub dropped every scheduled slot of research.yml (see I0005), and the free Gemini tier allows about 20 requests a day per Flash model, which the 01:54 writer run already used up. Remedy: trigger research.yml by hand or from the Mac (gh workflow run research.yml) once the daily quota resets after 05:30 IST, and fix I0005 so it runs on time. On free tiers (Shlok's 15 Nov decision) expect about 20-25 leads a day.",
    "ref": "I0013"
+  },
+  {
+   "id": "J0174",
+   "at": "2026-11-15T20:24:02+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Work items W0006-W0008 left in working after the work shipped",
+   "detail": "Cause: the Claude session that shipped PR 4 and PR 6 closed W0004/W0005 but never marked W0006-W0008 done, so their claims expired. Remedy (not done by a scheduled run, which may not change work state): in the next interactive session mark W0006, W0007 and W0008 done with evidence PR 4 (dd7409c) and PR 6 (b4831bb); W0008's last part (research the 275 unresearched leads) can be split into a new research item if wanted. supervisor/check should then pass.",
+   "ref": "I0014"
   }
  ]
 }

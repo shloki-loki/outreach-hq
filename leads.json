@@ -160219,7 +160219,12 @@
      "detail": "linkedin: rule score 74"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30"
+   "updated_at": "2026-11-15T13:09:51+05:30",
+   "research_attempt": {
+    "at": "2026-11-15T21:41:33+05:30",
+    "why": "error: Gemini unreachable: The read operation timed out",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L1375",

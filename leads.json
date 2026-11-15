@@ -24265,15 +24265,15 @@
    "key": "dify|chief of staff|bengaluru",
    "type": "job",
    "company": "Dify",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "dify.ai",
+   "company_url": "https://dify.ai",
    "company_linkedin": "",
    "company_note": "",
    "title": "Chief of Staff",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "428319",
    "source_url": "https://www.instahyre.com/job-428319-chief-of-staff-at-dify-bangalore/",
@@ -24304,8 +24304,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 45,
+    "total": 56,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -24314,15 +24314,48 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Chief of Staff at Dify, asks 5-10 yrs and an MBA; you have 1.3 years and no MBA.",
+    "fit_notes": "The posting asks for 'MBA from Tier One College' and '5-10 years of experience in Founder's Office, Chief of Staff, Strategy, Investor Relations, Business Operations, Consulting, or Program Management roles'. Shlok has about 1.3 years of experience and no MBA. While he has relevant Strategy & Operations experience at Ola Electric [ceo-coo, sop], the experience and MBA gaps are absolute blockers.",
+    "pay_notes": "Pay not stated in the posting, and no company-specific salary evidence found.",
+    "culture_notes": "No glassdoor ratings, employee count, or funding stage found in the posting or evidence. Recent news mentions security flaws (DifyTap) associated with the platform [S1, S2, S4].",
+    "hook": "I noticed recent discussions around the DifyTap security vulnerabilities affecting AI app deployments, and wanted to connect on how the CEO office is managing platform resilience.",
+    "hook_source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGVid0lqRFFjaFFMOWRBTmdTcXUwYXhQUGo0WU8tSllJQXdTdGZFWGFPa3V3bnZYMnEzbHEydkNfSmlNX0V1bmJzRkxmLXczcXVoV05HbE1xVk1vdkNSSHRaX01IZUlhcU1ZaUdqd0lGWG5qTHJXUUVZcmdhNVFMZ2NkVWpBZlB0enRtTVozTnBwSGVGV19paTZSOVNDX3Vyb2hxSXE0d9IBrAFBVV95cUxQRFRxZk8tbnhMb19rNWFRN0pSQ1N0NnZxY09ZYnExTFFFOGVuVHZOTVROQXprR0szT0VPcUhkc2NpalJhV3ZpUjMtUzh3Z25TN19tTFlFNlYzN0R0bmRpUWJNb1pqZk80VVVqaC11YTk1OG5tSXZJMzU5TUlKUzZ1bHlZNmhjdWFXdTFkVVREQmpNeDdPMF95UllVY2UxTFBCcXFGbWJ2ejFJdC1f?oc=5",
+    "researched_at": "2026-11-16T02:51:41+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGVid0lqRFFjaFFMOWRBTmdTcXUwYXhQUGo0WU8tSllJQXdTdGZFWGFPa3V3bnZYMnEzbHEydkNfSmlNX0V1bmJzRkxmLXczcXVoV05HbE1xVk1vdkNSSHRaX01IZUlhcU1ZaUdqd0lGWG5qTHJXUUVZcmdhNVFMZ2NkVWpBZlB0enRtTVozTnBwSGVGV19paTZSOVNDX3Vyb2hxSXE0d9IBrAFBVV95cUxQRFRxZk8tbnhMb19rNWFRN0pSQ1N0NnZxY09ZYnExTFFFOGVuVHZOTVROQXprR0szT0VPcUhkc2NpalJhV3ZpUjMtUzh3Z25TN19tTFlFNlYzN0R0bmRpUWJNb1pqZk80VVVqaC11YTk1OG5tSXZJMzU5TUlKUzZ1bHlZNmhjdWFXdTFkVVREQmpNeDdPMF95UllVY2UxTFBCcXFGbWJ2ejFJdC1f?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1dmpzcFV6Wl94djJ2Nmg0dmgzc250VlhzRVpqOG9EdTdLa2I2eEJCVWQxaTlpSEhiUjRtb0VpLVhkUG5kOFhURWZQOXlpQ3RHMXpKYkdXVGFkdDBIVkExcnVvTTdVbGdka2FXRWZLcVRONFB2NGNiT2ZUc1BsN1E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Dify vs n8n: Which Platform to Choose for AI Apps (and How to Use It with OpenRouter) - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53SElUQUUyb1ZpSGRTQUdLRkxpRDVub0EwOW00QzZuNW5PTWhGbTk5aUdfRURtYkNRcFpEaUJFOTZxcVBtS0I0N1FUZ0IwTkVWSFVMUUM1M29XZ1gxU3Axc2V3SmJtSEtCLTVuV0VWY2dScDVjYl9nOWllRQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "DifyTap: four Dify flaws that let attackers wiretap 1M apps - OrcaRouter",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rQ2ItSE9EZFJfakVRaXdPQjg4OTJOZ3VzSGdsMHFEYTg4S2V6T0R6WENiVXRRTFBMZVc1SVY4Y01aR1hockhFbko3N3J2WXhlV2Rnc05uSDdjbmhZUUxMVDlvRG5lUnptNl9YV2JGSjdmM2lTcnc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Apple and Google Ordered to Remove Non-Consensual Deepfake 'N*dify' AI Apps by San Francisco - LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTFJN2I5YWRnajVONmhKemVxUUFhelFBTlR5Q2hndWQxUlJPVFo2OTFjZ0ZrS3RUYklFckdXMFY2aDd0eUJfRkd4WTFVT0x6R1JVQmtDQTExRktDNUs1Sk5uMWk0NU9Yd09tc2JabmhBb2x3WFdDbVRoWG1PTlB0ZWZqOUFyNXBKcjA4aEt6NHRUdjM4QWo4QjYxTU9UZnduYUlDclJSN0tzTVBJRG9YcmxjdlpUQ013eEhBU05Na0VDcWRSa2hWX0ln0gHPAUFVX3lxTE5iUmlFQlhoM3VpS0hVWTB5LUxKbkJxQ1o5a24xSzN0M3h6ZVNNRmVFbkZtMW5TMDJuM1ppTnBNWFBBbFFlNzc3MV9nOHdtbEpHMVJ6MmFLTjg5cGZ5Q3VpS3VJMktqTEhUWFFHLUUyODItWkQxZ3piTkpPTlNrYTBCSk1PcWc5dUlHMEU3UlF4cmFfX2VVRlpvdFRkc0VHVFV2TlRUTGZBdjNBa1dFbDc4M1MzR0luT2NLWEI3VlFpS1JjQlJyMXh3a3dCQl83WQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -24346,9 +24379,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-16T02:51:41+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 56: rejected (The posting explicitly requires an MBA from a Tier One College and 5-10 years of experience, both of which exceed Shlok's background (1.3 years, no MBA).)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:51:41+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -24358,7 +24397,8 @@
     "at": "2026-11-15T01:49:14+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting explicitly requires an MBA from a Tier One College and 5-10 years of experience, both of which exceed Shlok's background (1.3 years, no MBA)."
   },
   {
    "id": "L0214",

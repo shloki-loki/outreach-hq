@@ -8938,15 +8938,15 @@
    "key": "atlys|partnerships manager|india",
    "type": "job",
    "company": "Atlys",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "atlys.com",
+   "company_url": "https://atlys.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Partnerships Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Delhi HQ",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "ashby",
    "source_id": "atlys:31336d03-d3ca-46b4-ab65-682b6e48927c",
    "source_url": "https://jobs.ashbyhq.com/atlys/31336d03-d3ca-46b4-ab65-682b6e48927c",
@@ -8977,8 +8977,8 @@
    },
    "score": {
     "rules": 68,
-    "research": null,
-    "total": 68,
+    "research": 42,
+    "total": 52,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -8989,15 +8989,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Partnerships Manager at Atlys in Delhi HQ, asks 0-2 yrs; non-Bengaluru location and cold-outreach BD focus do not align with your S&OP background.",
+    "fit_notes": "Posting asks for 0-2 years experience to own live partnerships, conduct cold outreach, and build commercial constructs with banks/airlines. Writing is listed as the highest-weighted skill. Shlok's college leadership [alcheringa] touches sales, but his corporate experience at Ola Electric ([sop], [ceo-coo], [msl]) is strictly S&OP, logistics, and supply chain operations. Furthermore, the role is based in Delhi HQ whereas Shlok requires Bengaluru or remote roles.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary benchmark for Atlys was found in evidence. A 0-2 YOE BD/partnerships role is unlikely to meet Shlok's fixed target of Rs 24.5 LPA.",
+    "culture_notes": "No Glassdoor/AmbitionBox ratings or culture flags were present in the provided evidence.",
+    "hook": "Atlys's recent long-term partnership with Thomas Cook India to integrate Forex into the visa application journey illustrates the exact long-term commercial construct this role manages.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdkdoa21HLTdJQW1sWjRPRkRidmNIN2pqVlBIc05DTUFlZWNBNkdHa1lwVWJuZ3hpc1F6dVJMdzlKaEZzeFI4Mks3NUNtdmN6Qy1Ud3pFa0J4MDVodUxDWnNFUXp5dmRHTEtiaUVIbk0wcXhJc3FfeVZGbE12NXZTUXVVM0RVZnhUNjB6Q1F0LVRkbzNQRTNRMmZMV19BZTBBMldhWUVId18yZ1dhNUhMWmRwalpWMUU4SE9vTEYxcG90UFhLOEVLQUliSVM1MnhXMEg2dEdLRDUySGNQZndTYWVnZ09ZNjNuaFJnWGY4ZTRFQdIB9wFBVV95cUxPYzZwZGZIcFJuRlZHbm9scXotUFl6alR4ckpnMnlwUlh2bVZiRzUzRlZUek5HZHA2bXZQVmd2akJYei1JQlRqUGlUUWhjRk54VEU4SUFBUkQwUU93cVEtcF9NTjFOOExlNXBBSjZvRzcycXVNV1BWclFIMWhoZU4zbm5nWkNkWEJjR0xIUXpDeFYyYURPUFBGYVNjSkFtN0FxNjRkOTRUWkcwa016Zk43WE9vV3J5MTFOTmFIYS1KcnZ6eEpKc0d6T0VfNEFqMVJHNUdNZmY3QXdNZ1c0RG0zeEpkQWRHSlhpZ3ZJUjk3Umthb2hod1Br?oc=5",
+    "researched_at": "2026-11-15T21:56:15+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "How Atlys is engineering certainty into the visa experience - ET BrandEquity",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmI4MVIxcXY2UnlMMFBycHg3UEtCN2lEcEVMZVI5MEloMzFaTmdmRFRxbXkxMmFFdDhqQkV4SnlJU2pCLXlFNmdVYzdUbEhVNlA2T1QtVXlVTlhNSFdoMnJRa2Yta2pRbDFCSDNxWXh4bEFrcHViYWh6MDdqS0pzUHZ5akhUSjY1UlBCOEFjQlpGRkVCR3YyN3k1c2szSnY0UnFxRE1Eci1qRmlrTVlyS3ZFdXE1dVJsa010LWNMdWY1ZXpnVlZuYVJMbk5LUdIB0wFBVV95cUxNcFlQX2NicTgxOF82QnFySGRLTlBvcnNiYjFGMFIwdDFJZ2Mwd2xYc0JEb0xqUHJ6Nk53OHBpOVRleWhxS0trVjZlcGp4TXFTQnd2cE5ZQlRIcUdVei1hS1AzMmR0VWlzZmZhdVBXSlI1c1J6TV9kZHMyd3dXZTN6V0dJYm9yeUJlSUE4a3MtdXlLR3dMcUZMcmVnU0EwX2xtYnNleWx0U1ZIRVEzOXlPX2g1d2RUU2RYRzZRRXAtR2pIY1BJQnpoRmdYY3BRd2JfWW04?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Thomas Cook, Atlys ink long-term deal to offer forex to leisure & student travellers - TravelBiz Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNi16TzFPWlNoelVCSkNHQnF4VElPMmgzd3N4RndzdUlybUJramFQN3phQ05rLVFyZFhfaEhWRzdPdW1jbjd2R3lVaVc2MkhSOUdVb3ExdGtjQVFYMUREYUV2VldSQm5OWmlDTkZmWU01UlNPQmdjLUVnOExhUUhodGpDMDVteHpQMXIwR2NZNjdseHc4a0M5X0ZQOXM2RkhLdEhFbFNMeXRoZ09aSW9XOF9uUEZiei1hNWRRU2NrdFo?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Order a Cocktail, Win an International Getaway: Atlys and SOCIAL Launch 'The Great Escape' - Adgully",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcV91TUVvU0hOMmFtc1BOeXpOU3JBdlV6VTlUWnlfQi1GMHA2S0wwY1cwalJRc2I2dl9hck5feTRhWnF0SUhDdExyaWlXenE3Nk1RU3NjTTV2dkVES0w2eGVhRmoxZ0REYTFDYjBEemduT3FvT3EwMXdqbDg3S0p0c3VZanoyT0ZQYng3dVpBSnhGUkgteVczVEhiTmplSzRBcHctU05yWHV6NHR3WGY1aEo0V2E1OWVSZjdudml3?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Atlys launches visa rejection recovery, travel-cost protection products - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcEgybjJReVc1dUtYUkRnVW9JbHoyMmd2NzMyQlYyWHFIUFNnNC1CRU10RnZnaU9SUVJvRFFRNlhWdlNOQ2NQd3BqQWYzdE9UcDBYdFF5RF9kU1I5ODJoM3Z2VU9WMDVEU3ptSGxnNUZuZUF6SmxoMC1QQnM3bVdEbWdWVHNCZG1TNXVJQVVxbmNCZ2lFMm5qNE40NDc4dW8yM0RmV1lHUlduVzZZMkVkcjJ6ZVhnRU03cktEbVdIeDlaRnZzYkIw0gHMAUFVX3lxTE8yakZseVNfRVVsTEZWU1oxN3dqNTZoeUk5SjkzVl9HOS1mMHF5QkhFMjVWMzVhaFVfRG5sd25Md2Z5aWdUMmRRR2hWN296NzJ5QkpjTnRIQ202cFBnUFpqWE01azhwOHlpSnV1VTJ1VGk1Zm41U1JDM0VyYzZzVlEteWVCOTJtbnEtNFhobm0xZFRUMmpOSy16RDgwckpaSkE1YnFMSjFMVzN1NENQQ1doQk15RmpHREFYTlNQQ2w0cm54eENaZW1xakN2eQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Thomas Cook India and Atlys partner to integrate Forex into visa application journey - ET TravelWorld",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdkdoa21HLTdJQW1sWjRPRkRidmNIN2pqVlBIc05DTUFlZWNBNkdHa1lwVWJuZ3hpc1F6dVJMdzlKaEZzeFI4Mks3NUNtdmN6Qy1Ud3pFa0J4MDVodUxDWnNFUXp5dmRHTEtiaUVIbk0wcXhJc3FfeVZGbE12NXZTUXVVM0RVZnhUNjB6Q1F0LVRkbzNQRTNRMmZMV19BZTBBMldhWUVId18yZ1dhNUhMWmRwalpWMUU4SE9vTEYxcG90UFhLOEVLQUliSVM1MnhXMEg2dEdLRDUySGNQZndTYWVnZ09ZNjNuaFJnWGY4ZTRFQdIB9wFBVV95cUxPYzZwZGZIcFJuRlZHbm9scXotUFl6alR4ckpnMnlwUlh2bVZiRzUzRlZUek5HZHA2bXZQVmd2akJYei1JQlRqUGlUUWhjRk54VEU4SUFBUkQwUU93cVEtcF9NTjFOOExlNXBBSjZvRzcycXVNV1BWclFIMWhoZU4zbm5nWkNkWEJjR0xIUXpDeFYyYURPUFBGYVNjSkFtN0FxNjRkOTRUWkcwa016Zk43WE9vV3J5MTFOTmFIYS1KcnZ6eEpKc0d6T0VfNEFqMVJHNUdNZmY3QXdNZ1c0RG0zeEpkQWRHSlhpZ3ZJUjk3Umthb2hod1Br?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Atlys opens first global visa experience centre in Dubai - Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQREZVcEtwOTNwYXNMQjZWSFhiajVuT3VTdlk4WHpuUjk2aU5qdXpzTmhIbGk2MWZ0NTFRaDlKbzJmNWZ1TEc4b0tsYUxFTnNEU0JCSGZQRUJYR2JHcUFCN3BMM0N0OU9qR0FsQWRRSlBXZWtTakdhYlh0MmRYSnN5MmFWYjQyeTIwTWw2bmc1eUROeXZSTldCWWxB?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -9021,14 +9061,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "ashby: rule score 68"
+    },
+    {
+     "at": "2026-11-15T21:56:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (Location is Delhi HQ (Shlok requires Bengaluru or Remote), and the role requires B2B cold outreach and written communication for partnerships, which does not leverage his S&OP and operations engineering experience at Ola Electric.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T21:56:15+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Location is Delhi HQ (Shlok requires Bengaluru or Remote), and the role requires B2B cold outreach and written communication for partnerships, which does not leverage his S&OP and operations engineering experience at Ola Electric."
   },
   {
    "id": "L0075",

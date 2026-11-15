@@ -18330,15 +18330,15 @@
    "key": "cisco|product lifecycle program manager|bengaluru",
    "type": "job",
    "company": "Cisco",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cisco.com",
+   "company_url": "https://www.cisco.com",
    "company_linkedin": "https://www.linkedin.com/company/cisco",
    "company_note": "",
    "title": "Product Lifecycle Program Manager(12-18 Years)",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4480509665",
    "source_url": "https://in.linkedin.com/jobs/view/product-lifecycle-program-manager-12-18-years-at-cisco-4480509665",
@@ -18354,7 +18354,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-14",
    "open": true,
-   "jd": "",
+   "jd": "Meet the Team\n The Product Operations team plays a critical role in delivering Cisco’s next-generation hardware products on a scale. Working at the intersection of engineering, supply chain, and manufacturing, the team ensures seamless product lifecycle execution—from new product introduction to high-volume production and customer delivery. With a strong focus on reliability, efficiency, and operational excellence, the team drives impact across global operations and enables successful product outcomes.\n Your Impact\n The Cisco Product Operations team is seeking a seasoned Product Lifecycle Program Manager (PLPM) to provide strategic leadership over global cost management and the end-to-end product lifecycle from inception to End-of-Life (EOL). This is a high-visibility, senior-level role that requires the ability to influence cross-functional stakeholders—including Manufacturing, Engineering, Marketing, and Executive Leadership—to align on strategy and execution for a portfolio of complex product solutions. You will be responsible for defining and implementing the frameworks that ensure operational efficiency and market competitiveness across our global manufacturing footprint.\n Key Responsibilities\n Strategic Cost Management & Lifecycle Oversight: Serve as the primary architect for end-to-end product lifecycle strategy, driving rigorous cost management protocols from launch through EOL to ensure sustained profitability. \n Engineering Change Governance: Provide authoritative oversight for Engineering Change Management, ensuring seamless technical transitions and minimal operational disruption. \n Product Quality & Financial Stewardship: Maintain stringent control over product quality benchmarks and cost structures, ensuring alignment with organizational financial targets. \n Complex Problem Resolution: Lead the mitigation of critical sustaining issues, including line-stop resolutions, CAP account management, AVL optimization, and continuous manufacturing process improvement. \n EOL Strategy & Orchestration: Direct the development and execution of holistic EOL strategies, partnering with integrated product teams to ensure smooth sunsetting of legacy solutions. \n Enterprise Risk Management: Oversee proactive risk assessment, including multi-source technology evaluation, component-level analysis, cost variance mitigation, and comprehensive supply chain reviews throughout the lifecycle. \n Field Performance & Margin Optimization: Lead strategic action planning for product field performance and spearhead initiatives to drive continuous improvement in gross margins. \n Minimum Qualifications\n Bachelor’s degree in Engineering, Supply Chain Management, or related technical field. \n 12+ years of progressive experience in Supply Chain management within the high-tech sector. \n Proven track record in complex Program Management and executive-level stakeholder management. \n Deep expertise in supply chain dynamics, specifically within high-tech environments, product ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -18369,8 +18369,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -18380,15 +18380,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Lifecycle Program Manager at Cisco; asks 12+ years of experience which exceeds your 1.3 years.",
+    "fit_notes": "The posting asks for \"12+ years of progressive experience in Supply Chain management within the high-tech sector\" and a Bachelor's degree. While Shlok has relevant supply chain and inventory experience at Ola Electric ([sop], [mrp], [ceo-coo]), his 1.3 years of total experience is far below the mandatory 12+ years required.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "Headcount, ratings, and specific culture reviews were not found in the provided evidence.",
+    "hook": "Cisco lifted its annual revenue forecast on strong AI networking demand.",
+    "hook_source": "https://in.linkedin.com/jobs/view/product-lifecycle-program-manager-12-18-years-at-cisco-4480509665",
+    "researched_at": "2026-11-16T02:57:35+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Deploying AI You Control Doesn’t Need to be So Hard - Cisco Blogs",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXg3UlBaUk5Ebl9CaU1FUzRnSmduVXpsMDBkUTNDX1FhQWg1THg4SVJJUDQ2RnZ0XzlmNnBDb09VZWI3OFFlS1pzSVBkYk02aGE2anFYd2ZhTXZrUnhuM3B5THliLVAtNk9VeF9KYS1ndFQ4WjUwTEZlT1ZxdkoweU1jQklkdw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Two critical RCEs in PHP core - Cisco Talos Blog",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zN3ZxNXRYbmtlVzVQNU53dTAwLXk1WUxZckEyZ0RaU1pvNXVDQnctWGE3anY3MUt1NGdsUlB2bzhsQXBkcXljdmtTWFFENkVacVFnUF9kdmp2aXNkWmw1dWkxX2IzMERMa2g5TlJOWlJPVE0?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1hZmJNOVJBYUN6ZHFnVzk0d1g1Yi1iUFJLM2cwdzNJQmpoVzRBM2ZvdXRJMGlzQU5IeFZRT3RVSEMtcHZnQ3c?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUNtMjcyRmFaWHoweVhWT2wzelpGOU1TbldKRkVYdWNUT0JuRUcxYkx6clU0a1Z1dE5DNlNYQTQxOUZSS2pzaU94eVFIOW5OWEtnZk54NWhrN0FZdS1TSGYtWlo4Z2stMVZjNF9TZXBCRGRIY3BPOGw3UHNIMDdZZUJKRQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Cisco lifts annual revenue forecast on strong AI networking demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDgteG5IeXZjU1k1UDdhbFkyZlVCaHI1d0pPdGp2elFReVRRclN6dWhTM2NuSUk3cGdUSnRRU2c4aWpCcS14blFsN3hLTTNCSktQbXpTUVgxRjVJV1R1YldHdEVYMXJvVHg3TzJiOXhEM0owM08ySlI1bmNkMG5GQXhnQl9iVExNWlN1Z0ZweFk3YldGWDltNFpnekdDZWpVcTJ3QTFlUUxNWXlLX0NjLUhvTjRtNzlrYnlXdXJiTmc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXZ1VHS3FlM0xwR1ctNVZGd255am4zdHdQUUhBVjdyRmVoRy05RkZPcGQ2RUgzUFVsSlk1YTQ5aUZTM1lhZmFPT2lXUXY4NzcwanBweWVNN3RMSklUdzBfdDg5MUtfMzY0Qi1FMmpHT19sZ9IBd0FVX3lxTFB0dFNlWHZZSG04enVwQmRHZ3J3LUtIT3ZUdF9ESkVzZExBaWJFSTVjcGZxbkFxUVl2VFZ3dkFBTVFVc0dWTG5INTRlMDBqT1VudEJYZ0xOX0NiUzVPSEtoUzhfRlh5bmlMMWZjaHExV0dPTVBra2hv?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -18412,14 +18450,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T02:57:35+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 35: rejected (The posting asks for 12+ years of progressive experience, which far exceeds Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:57:35+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 12+ years of progressive experience, which far exceeds Shlok's 1.3 years."
   },
   {
    "id": "L0153",

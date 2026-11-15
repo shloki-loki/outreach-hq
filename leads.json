@@ -13911,7 +13911,7 @@
    "key": "growthvalleycommunity|founders office|india",
    "type": "job",
    "company": "Growth Valley Community",
-   "company_domain": "",
+   "company_domain": "growthvalleycommunity.com",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/growthvalleycommunity",
    "company_note": "",
@@ -13919,7 +13919,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489096796",
    "source_url": "https://in.linkedin.com/jobs/view/founders%E2%80%99-office-business-builder-at-growth-valley-community-4489096796",
@@ -13935,7 +13935,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "Founder's Office | Growth Valley Community \n Gurugram (in-office) | Full-time | 1-5 years experience | Reports directly to the Founder\n Tier One IIT/IIM Preferred.\n Do not apply if you are looking for structured job with work life balance. Apply if you are mentally young, want to prove to yourself, want to grow and behave like growth. A consistent growth story will be awarded.\n We are looking forward to growth focussed team members, who just are obsessed about making things bigger and better for themselves and people around them. And that MUST reflect in their past journey. You will thoroughly fail in our environment if you are looking for a generic job/work life balance/ multi focus life. \n We are fanatic about what we do. What we are building. It takes intent and energy. It takes time. It takes focus. If you are one already, it could be one of the best place to work together and building something big and beautiful for the world. \n About GVC. \n Growth Valley Community is a global entrepreneurship programme where teenagers build real ventures: real inventory, real customers, real profit and loss. Our students run live businesses through TecTeenShop and are mentored by professionals and alumni from Harvard, MIT, Stanford and Columbia, supported by IITians. Today we stand at 1000+ students across 12 countries with roughly 95% retention, which is among the hardest numbers to earn in education.\n Product-market fit is proven. Parents renew, students stay, and the transformation is visible in the room. What we have not yet built at scale is distribution: the systems, partnerships and engines that take this from X students to 100X. That is the frontier, and that is exactly where this role operates.\n The role. \n You sit beside the founder and function as a force multiplier. Not an assistant, not an analyst producing decks for other people to act on. You take a mandate, own it end to end, and leave behind a running system. You will be in rooms most people wait years to enter: pricing calls, investor material reviews, partnership negotiations, hiring decisions. The compensation for that access is simple: everything you touch must move.\n This is the highest-leverage seat in the company for someone who wants to compress five years of operator learning into one.\n What you will actually own. These are live mandates, not hypotheticals: \n Enrollment engine. Our enrollment function is being rebuilt from the ground up as a system: one shared pipeline, a daily operating cadence, written playbooks, zero dependence on any single person. You will build and run it, starting with the fastest lever we own, a referral programme into our 100s of existing families.\n Admissions product. We have designed a full admission journey (application, staged review, live status tracking, WhatsApp and email automation on an Airtable backbone). You will take it from tested prototype to daily operations.\n AI Founder Programme, Cohort 1. A new one-year product where teens ship their own ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -13950,8 +13950,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 60,
+    "total": 62,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -13961,15 +13961,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Growth Valley Community in Gurugram asks 1-5 yrs, but requires relocation and pay is unstated.",
+    "fit_notes": "The posting asks for '1-3 years in a startup operating role, or in consulting/banking' and a 'Tier-1 institute background (IIT, IIM, BITS...)'. Shlok is an IIT Guwahati grad with 1.3 years at Ola Electric, fitting the background and experience criteria. His facts [sop, ceo-coo] match the ownership and execution mindset requested. However, he wants Bengaluru or remote-first and this role is in Gurugram.",
+    "pay_notes": "Pay is not stated in the posting ('cash is competitive for our stage, not FAANG-level'), and at an early-stage edtech startup, it is unlikely to meet his Rs 24.5 LPA fixed requirement.",
+    "culture_notes": "No external culture ratings or review counts found in web search. The posting describes an intense, high-ownership environment ('You will thoroughly fail in our environment if you are looking for a generic job/work life balance').",
+    "hook": "Today we stand at 1000+ students across 12 countries with roughly 95% retention, which is among the hardest numbers to earn in education.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founders%E2%80%99-office-business-builder-at-growth-valley-community-4489096796",
+    "researched_at": "2026-11-15T22:00:47+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -13993,14 +14003,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-15T22:00:47+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 62: rejected (Role is based in Gurugram (onsite) against his Bengaluru or remote-first preference, and pay is unstated with early-stage edtech cash likely below his Rs 24.5 LPA fixed floor.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T22:00:47+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role is based in Gurugram (onsite) against his Bengaluru or remote-first preference, and pay is unstated with early-stage edtech cash likely below his Rs 24.5 LPA fixed floor."
   },
   {
    "id": "L0117",

@@ -16818,15 +16818,15 @@
    "key": "2070health|entrepreneur in residence|india",
    "type": "job",
    "company": "2070 Health",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "beatoapp.com",
+   "company_url": "https://www.beatoapp.com",
    "company_linkedin": "https://in.linkedin.com/company/2070health",
    "company_note": "",
    "title": "Entrepreneur In Residence",
    "tier": "1 - Strategy & Ops",
    "location": "Delhi, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489941251",
    "source_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-2070-health-4489941251",
@@ -16842,7 +16842,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "*Please note this role is not for 2070 Health*\n BeatO (Health Arx Technologies Pvt. Ltd.) is India's most trusted digital platform for diabetes and metabolic health, built by founders Gautam Chopra, Yash Sehgal and Kunal Kinalekar to close a very real gap: over 200 million Indians live with or are at risk of diabetes, and most have no continuous, affordable way to manage it.\nBeatO addresses this with a full-stack model. It combines smart connected devices (glucometers, CGMs, BP monitors), doctor- and coach-led care programs, and a growing range of own-label nutrition and food products, all integrated into a single app experience.\nThe scale speaks for itself:\n 3 million+ users\n 10 lakh+ connected devices\n Network of 100+ doctors and 200+ coaches\n Published clinical outcomes, including an average HbA1c reduction of :2.2 percentage points across managed users\n More than 70% of users from Tier 2 cities and beyond\n BeatO has raised over $33 million from Lightrock India, HealthQuad, Flipkart Ventures, Orios Venture Partners, W Health Ventures and Blume Ventures, enabling it to strengthen its care programs and leadership team.\nBeatO has built the foundations most founders spend years chasing: millions of users who trust the brand, distribution across its app, marketplaces and offline retail, and in-house manufacturing and fulfilment. The next chapter is about using those foundations to build entirely new businesses.\n The opportunity\n BeatO is hiring an Entrepreneur in Residence (EIR) to build and lead a new business vertical from 0 to 1, and then scale it into one of the company's next major growth engines.\nYou'll start with a clear mandate, real resources and a direct line to the founders. What you build, how it reaches customers and how big it becomes will be shaped by you.\nThis is not a strategy or support role. It is a founder-style mandate inside a scaled company: you'll own the vertical end to end, including its P&L, its growth and its results. If it works, you'll have built a business, not just contributed to one.\n Key Responsibilities\n Take a new vertical from 0 to 1: define the customer, the problem, the offering, the pricing and the\n go-to-market\n Find early proof quickly through scrappy, low-cost experiments, and scale only what the evidence\n supports\n Own the complete P&L, including revenue, margins, unit economics and burn\n Once traction is proven, drive growth from 1 to 10 across acquisition, conversion, retention, pricing and expansion\n Assemble and lead the team you need, drawing on BeatO's product, clinical, supply chain and operations capabilities\n Work directly with the founders to shape where BeatO goes nexth-growth business\n Why this role?\n Building something from zero is usually a lonely and under-resourced job. At BeatO, you get to build from zero without starting from nothing.\nThis opportunity offers:\n A true 0 to 1 mandate, with ownership similar to running your own startup\n Millions of existing users, established distribution a",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -16857,8 +16857,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -16868,15 +16868,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "EIR at BeatO (Health Arx), asks 5+ yrs and P&L ownership; your 1.3 yrs and supply chain background fall short.",
+    "fit_notes": "The posting asks for '5+ years of experience, including ownership of a P&L or business unit' and experience taking a business from zero to meaningful revenue. While Shlok has strong execution experience at Ola Electric with supply chain and S&OP planning ([sop], [ceo-coo]), he has 1.3 years of experience and no direct P&L ownership or consumer health/D2C background.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "BeatO (Health Arx Technologies) has raised over $33 million from notable investors like Lightrock India and Blume Ventures, but specific employee culture ratings were not found in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T02:55:12+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -16900,14 +16907,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T02:55:12+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role asks for 5+ years of experience including P&L ownership, whereas Shlok has 1.3 years and lacks prior P&L ownership.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:55:12+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 5+ years of experience including P&L ownership, whereas Shlok has 1.3 years and lacks prior P&L ownership."
   },
   {
    "id": "L0140",

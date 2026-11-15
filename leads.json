@@ -25213,15 +25213,15 @@
    "key": "standardcharteredbank|manager strategy and governance|bengaluru",
    "type": "job",
    "company": "Standard Chartered Bank",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "sc.com",
+   "company_url": "https://www.sc.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Manager Strategy & Governance",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "457315",
    "source_url": "https://www.instahyre.com/job-457315-manager-strategy-governance-at-standard-chartered-bank-bangalore/",
@@ -25252,8 +25252,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 35,
+    "total": 50,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -25262,15 +25262,41 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Manager Strategy & Governance at Standard Chartered Bank, asks 5-9 yrs; your 1.3 yrs of experience falls short.",
+    "fit_notes": "The posting asks for \"5-9 Years\" of experience in \"Collections, Recoveries, Credit Risk, portfolio strategy, governance, analytics\". Shlok has about 1.3 years of experience. While his inventory and S&OP work at Ola Electric covers analytics and forecasting [sop, ceo-coo], the 5-9 years experience requirement is well above his 3-4 year stretch limit.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures were found in the company research evidence.",
+    "culture_notes": "Ratings and specific culture scores were not found in the search evidence. One recent news flag noted a court order involving Standard Chartered Bank funds freeze [S2], and another noted the sale of its Ugandan Wealth and Retail business [S3].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T02:52:43+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "AIIB and Standard Chartered Bank Sign USD100 million Agreement to Support Infrastructure-related Trade in Emerging and Frontier Markets - Asian Infrastructure Investment Bank (AIIB)",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMnhPNjVQNUw3S2JWR3JvaGozOFNDY2Fzc2RvOUhwZnhIY3BlVVhOc0xka2h3cUJxRFVmanlZVnBWZnhLMTJZV1hxcDdGX2h6a3ZMM2NNYjVETjVjVjNOZW53NTRjakJPTUFpVkx1SE9acFhzVU5pdThQU1hONm9hWFlGY2IwbHFkTTJTZEZLR24yTi1DRnlaNExSZGpxUEhBalJHSHhXdkdDcEhROW9kVlJrd1d4WWYwam54SkFzNXVBejZoTFZIUGRzY3dNNkhyNFpvOF9pN1V2ZGFZZjRkWGZpM05HeWpEQjhqaHlMWnFldVNubloxd3l3VFRTLXRFb3c?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "US Court Orders Polaris Bank To Pay Danish Firm 6.21m From Funds Frozen In Standard Chartered Bank - Nigerian Voice",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3gwSVRvSXBfX09CRDFzSHlfRUFyUmdGRUpyTHFnNnJSNXZ3aE9SR1RzalZ1RkRTYmdGY1ZUZGI2dlQ0R3lWYUlCcldFWHpJNjViY2hKU2s2N01PcUlYd3dLOVZ3bVU0M0RvbEhiUWxGQkl2VERfSk1wYTlOU3pjUVF2WThhTnByUDlFOEZHVXhSN2dZX0F0eVVxZUxKbWZUcDF4NWszcFFWR1XSAbABQVVfeXFMTlBWWGU1MVVROEg1OWNLYjZaV2E2RnkyWVJLa19VWFI4T3NiZG1lVE1ESkt3engtRUhpWWNhdTJCQWdYbDIyMWk4OFZLamN3RE45LWkwNEZUMXQwZFcxS21NU3FLYnlIZ3paekNfUUZfVkZaS0U5LU5RVWYwdjU1a0pzTV9BLW84WXpBWVhxV24xcjFqUTNCYnZ5d1FSMGhlR1laSll1ZUQ3TDVLQ3djeFc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Standard Chartered Bank Sells its Ugandan Wealth and Retail Business to Absa - Business Today Kenya",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2VWZEI2VlZTbmN6SHZ2VmM1eVZzZUw2ZDI4ME5iMHc0RGI1Ync1ODFlelRFVTlNMjFJeUJTR3o1X2JlcTMxeXVKb2FCOVVqX0JEbjJkNnQzdWNGTHYyTUJudklMUEd2QnNySXNzUTdlcGtuV2pRSmxhcHBlUEJCSkdaX0NtVmZROW9OTXphN3JGbnc?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -25294,9 +25320,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-16T02:52:43+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (The role asks for 5-9 years of experience, which exceeds Shlok's 1.3 years and is a hard block for a senior manager-level bank role.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:52:43+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -25306,7 +25338,8 @@
     "at": "2026-11-15T01:49:42+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 5-9 years of experience, which exceeds Shlok's 1.3 years and is a hard block for a senior manager-level bank role."
   },
   {
    "id": "L0223",

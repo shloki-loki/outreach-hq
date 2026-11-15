@@ -1637,6 +1637,15 @@
    "title": "Run failed",
    "detail": "30 researched (5 qualified, 25 rejected), 1 closed postings binned, 4 left for a person",
    "ref": ""
+  },
+  {
+   "id": "J0183",
+   "at": "2026-11-15T22:04:27+05:30",
+   "by": "people-finder",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "4 companies searched on LinkedIn, 7 people added",
+   "ref": ""
   }
  ]
 }

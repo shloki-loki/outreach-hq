@@ -963,6 +963,17 @@
      ]
     }
    }
+  },
+  {
+   "at": "2026-11-15T22:04:27+05:30",
+   "agent": "people-finder",
+   "ok": true,
+   "summary": "4 companies searched on LinkedIn, 7 people added",
+   "stats": {
+    "leads": 4,
+    "people_added": 7,
+    "skipped": ""
+   }
   }
  ]
 }

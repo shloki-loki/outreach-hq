@@ -1484,6 +1484,15 @@
    "title": "Budget: stay on free tiers for now",
    "detail": "Shlok's decision on 2026-11-15. Gemini paid tier stays off ([llm] paid = false) and the Apify cap stays at $3.50 a month. Research and cover notes run at about 20-25 leads a day; he applies from the Apply today list. Revisit only when he asks.",
    "ref": "PR7"
+  },
+  {
+   "id": "J0166",
+   "at": "2026-11-15T19:32:28+05:30",
+   "by": "codex",
+   "kind": "review",
+   "title": "Claude founder batch review",
+   "detail": "Reviewed Claude local branch founder-daily-60 while in progress. Before enabling runner: filter candidate contacts against suppression, recent-send history and founder/function-head rules before creating work; report drafted versus researched/rejected separately (current done count includes rejections); retain batch identity separate from mutable detail on reassignment. The worker instructions and routing do not themselves launch a daily job. Keep approval and free-tier limits. Codex did not change Claude working files.",
+   "ref": "claude/founder-daily-60"
   }
  ]
 }

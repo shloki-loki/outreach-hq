@@ -911,6 +911,16 @@
    "ok": true,
    "summary": "Outreach HQ 15 Nov: 2 to approve",
    "stats": {}
+  },
+  {
+   "at": "2026-11-15T16:31:56+05:30",
+   "agent": "supervisor/check",
+   "ok": false,
+   "summary": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
+   "stats": {
+    "alerts": 3,
+    "open_work": 4
+   }
   }
  ]
 }

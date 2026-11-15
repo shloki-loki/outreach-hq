@@ -18472,15 +18472,15 @@
    "key": "globalfoundries|internal ip program manager|bengaluru",
    "type": "job",
    "company": "GlobalFoundries",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "gf.com",
+   "company_url": "https://www.gf.com",
    "company_linkedin": "https://www.linkedin.com/company/globalfoundries",
    "company_note": "",
    "title": "Internal IP Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore Urban, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4483667399",
    "source_url": "https://in.linkedin.com/jobs/view/internal-ip-program-manager-at-globalfoundries-4483667399",
@@ -18496,7 +18496,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12",
    "open": true,
-   "jd": "",
+   "jd": "Title: IP Program Manager\n About GF\n GlobalFoundries (GF) is a leading manufacturer of essential semiconductors, enabling AI at scale from the cloud to the physical world. Through deep partnerships with customers, GF delivers differentiated, power efficient and high-performance solutions for high growth markets. With global manufacturing operations across the U.S., Europe and Asia, GF is a trusted and holistic technology partner for customers around the world. GF’s talented, global team remains focused every day on security, longevity, and sustainability. For more information, visit www.gf.com.\n Your Job\n The Internal IP Program Manager partners with Design, Product Lines, QA, Validation, Release, Operations, and Customer teams to drive execution across the IP lifecycle. The role requires strong program management skills, technical understanding, and the ability to influence across a matrixed organization.\nThe successful candidate will balance business, technical, operational, and customer priorities while navigating ambiguity, competing objectives, and stakeholder challenges. This position requires a combination of structure, adaptability, and strong interpersonal skills.\nKey Responsibilities\n Lead end-to-end planning, execution, and delivery of internal IP programs.\n Manage schedules, milestones, risks, dependencies, and escalations.\n Drive alignment across global, cross-functional teams and stakeholders.\n Coordinate IP lifecycle governance, compliance, quality reviews, and release readiness.\n Lead customer escalations and support resolution of critical issues.\n Establish and track KPIs, program metrics, and management dashboards.\n Identify risks, remove blockers, and drive timely decision-making.\n Manage cross-team dependencies, resource conflicts, and competing priorities.\n Facilitate effective communication, documentation, and program reviews.\n Drive continuous improvement of processes, tools, and operational practices.\n Support Environmental, Health, Safety & Security requirements and programs.\n Required Qualifications\n Bachelor's or Master's degree in Engineering, Physics, Computer Science, or related technical field.\n 8+ years of program management, technical program management, or semiconductor product development experience.\n Proven experience leading complex cross-functional initiatives.\n Strong stakeholder management and executive communication skills.\n Experience managing customer-facing issues and escalations.\n Demonstrated ability to drive alignment without direct authority.\n Preferred Qualifications\n Program Management: Applies disciplined planning, governance, risk management, and execution practices to deliver business commitments.\n Technical Acumen: Understands the end-to-end IP lifecycle and can effectively engage with technical teams across development, verification, validation, QA, release, and customer deployment.\n Stakeholder Management: Builds trusted relationships, aligns diverse perspectives, and influences outcomes acr",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -18511,8 +18511,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -18522,15 +18522,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Internal IP Program Manager at GlobalFoundries, asks 8+ yrs; your 1.3 yrs fall short of the experience requirement.",
+    "fit_notes": "The posting asks for a Bachelor's or Master's degree in Engineering and '8+ years of program management, technical program management, or semiconductor product development experience'. While Shlok has a B.Tech in Electrical and Electronics Engineering from IIT Guwahati, his total experience is about 1.3 years, making an 8+ year requirement a major blocker. Although he has heavy operational and backend manufacturing planning experience like [cell] and [mrp], the experience gap is too large.",
+    "pay_notes": "Pay not stated in the posting; no reliable estimate available from company evidence for this specific role in Bengaluru.",
+    "culture_notes": "GlobalFoundries is a major semiconductor manufacturer with recent high-profile deals including a $2 billion AI chip components agreement with TSMC [S2], but specific employee ratings, work culture reviews, and headcount details were not found in the provided research data.",
+    "hook": "GlobalFoundries recently secured a major $2 billion deal to make key AI chip components for TSMC [S2].",
+    "hook_source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWtrQ0tHODFtaXl1NlEybzVfUzhkVUxXWWl0V1pSYTZ2VENWX2ZYc3pZZWVrc0thclRQbkNmaUxJOEpIZzlvZ19CbEJIdkM1c21HemxmMXdhdXZzNWE0NEFwdUdpbnM1cWRWR3hPZ1BBVFRPNlBmTkV4RWlCUDhiZnNXSnhlTFFFXzdnaDZYSURhV1pKVWdsNERRbHRJSWowOHVRMg?oc=5",
+    "researched_at": "2026-11-16T02:57:50+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "GF and Marvell expand collaboration for next-generation optical connectivity - GlobalFoundries",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG4tS2t5aVZIbmFuTGptNDBfZG1wS01fRDVENk5pWGstOENzM2xfeGFBWXA0N3dHa21kWkt0RUlMdU9yZzVZaVRQc01YQ2s3ZlZOOWh6V21ObXhwRnBNSFZnTm9PMXdQVzFQcDZHUFNUN0lzUkpuMEl2Y2gzT3VSODUzNWwwQVVIMGlVaWlMcmhSdGNxWkVwZnpXczFCSm9hZG1Bbk9Nd0E2Ni1Cc0MzZm1ORG9UdFhMV2JnNVpWZThrbUE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWtrQ0tHODFtaXl1NlEybzVfUzhkVUxXWWl0V1pSYTZ2VENWX2ZYc3pZZWVrc0thclRQbkNmaUxJOEpIZzlvZ19CbEJIdkM1c21HemxmMXdhdXZzNWE0NEFwdUdpbnM1cWRWR3hPZ1BBVFRPNlBmTkV4RWlCUDhiZnNXSnhlTFFFXzdnaDZYSURhV1pKVWdsNERRbHRJSWowOHVRMg?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Department of Commerce Announces Finalization of CHIPS R&D Award with GlobalFoundries - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaGZvamI5akozaHE3Wk1vRWdrT1ZaeTg2anluWmJVZUg1eEFFRldDSVlJbnJsR3BJV3I0RmtpbkROODFjT2p5cnQwbEoxZ01tSE5jZGk1d3F0NDhvTFRVeUNaME9zNXNxbDhJeE9vUE9ZdGVmWFRfak1peWF2Rk84eDhmWFdNT3I3bXp4XzFrLUtBZk9TQU8ycE5jN0RnMEwxb25PdGJFd0ZGSGVCNFZPWE1MTTQyRGE0VEpz?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "GF unveils roadmap to deliver the world’s most advanced FD-SOI platform for Physical AI - GlobalFoundries",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdXBCZ0NFaDA1aGxYd1ZYcWhHSlU0WkQyVGQ4eWxrT3FUb1hJdUJDTnFhT0RObkR4SjdQUzVJVWx0Q0RyMHpZcjNpRXNqbkt1d0VMTXRLMnZqRjNXOVQ1dUVoMmlrZG5Oenk1eFUyYXpJRWZ6Q0hQbVBvSDJ1eWNIbE9ZRU9yS1RxMElmQXFLVG9fUFdTeTZjTmdIZzZ0bGJZRnY5QjJHNUhxNGFEQmFNdnhR?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Department of Commerce Announces Agreement with GlobalFoundries to Amend Its Existing CHIPS Program Award and Reallocate $955 Million to Accelerate Investments in Silicon Photonics, Silicon-Germanium, and Advanced Packaging - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRjBZUTJxTXN0ZkhxNHZKcGVsWHgzU1p0R3BSTFNmeTRhM0x2WFRaTUFMejNEbXdlZnlCVHlFa1Y1aHNYa0ZEUnFkU1ZMRWd3NEpvMUEzNnRhVEhJemR2ZTRvNlB0RTNmLXhLYy1FbVhPWFJhS2d0VFdZX0xQZUlUckJOelU5QWVxdGZSV0RsUDFqTnVKLXNPNUp5T1pULTZHMXRCVlVRT1htVl96QnM5SGs3R2lWN2tCX2NzOA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "GlobalFoundries, Marvell expand chip capacity deal for AI data center connectivity - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb1NsT3J3UjhYTXNQVVBxa0RNdDcyTlFvMk1fYXNKVmtzS2FmSy02QjJxdTR0SXY5OHJycnVGT1R3aDRyVXUwV2pyYWRfSnM3dkRUQjVwRHc2RE9NY3FzVzc1OUFKbFI4TS1VNDVaaXB4RTI1VU5IbEVOeTV2TUMzbGpXYWRHbjZBaDdIZVpLaTI0RW9RbU85cnlMV0ZocmJ4SDNTb1g4alh0QmxlMHpudVd5SVpXWmhiWjV4Y2dhaw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -18554,14 +18592,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T02:57:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The posting explicitly asks for '8+ years of program management, technical program management, or semiconductor product development experience', vastly exceeding Shlok's ~1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:57:50+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly asks for '8+ years of program management, technical program management, or semiconductor product development experience', vastly exceeding Shlok's ~1.3 years of experience."
   },
   {
    "id": "L0154",

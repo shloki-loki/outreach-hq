@@ -1619,6 +1619,15 @@
    "title": "Daily review 2026-11-15",
    "detail": "Agents that ran (IST): lead-scout/scrape ok 01:20 (19 new), 13:09 (155 new), 14:03 (1 new); lead-scout ok 13:06 (10 researched, 1 qualified L1359 Lenskart, 9 rejected); live-check ok 11:56 (1,348 checked, 3 binned); follow-up/track ok 15:28 (0 replies, 0 bounces); follow-up/digest ok 15:44 (2 to approve, 7 h late); people-finder ok 01:51 (8 people); writer 01:54 stopped on Gemini quota; Claude drafted M0015/M0016 at 13:10. Did not run or failed: research-worker (last 01:50, failed; no scheduled run since), send-track and send-track/send (last 14 Nov 15:23/15:48, nothing approved to send), follow-up agent (last 14 Nov 12:26), supervisor/check failed 01:27 and 16:31. Problems: I0005 GitHub schedules late/dropped, worse today (Track and send 1 of 12 slots), open with remedy; I0010 Reoon 401, GitHub secret has the .env comment pasted in and the key is exposed in stored text, diagnosed, needs rotation; I0011 Hunter 401, no Hunter key, diagnosed; I0012 Instahyre 403, diagnosed; I0013 research worker not running, new, diagnosed; I0014 W0006-W0008 stale claims break supervisor/check, new, diagnosed. Changes to the system today: PR 6 merged 13:06 (Apply today, cover notes, wider search); budget decision stay on free tiers (19:31); founder import and address checks by Codex (00:59-01:25); founder-daily-60 branch in progress, uncommitted. No changes by this run. Funnel: found 1,524 (155+ new today), researched 96, qualified 59, contacted 10, applied 4, emails sent 11 (0 today), replied 1, interviews 1, offers 0. Reply rate 9.1% (1/11), bounce rate 0% (0/11). Verifier credits: Reoon 5 today all failed, Hunter 9 this month all failed. Needs Shlok: approve or skip drafts M0015/M0016; rotate the Reoon key and fix the REOON/HUNTER GitHub secrets; pick a fix for late GitHub schedules; call back Sumit (L0035).",
    "ref": ""
+  },
+  {
+   "id": "J0181",
+   "at": "2026-11-15T20:24:55+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "6 open issues (I0005 late schedules, I0010/I0011 verifier keys 401, I0012 Instahyre 403, new I0013 research worker idle, new I0014 stale work claims), all diagnosed, 0 fixed, reply rate 9.1%, bounce rate 0%",
+   "ref": ""
   }
  ]
 }

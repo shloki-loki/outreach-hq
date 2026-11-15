@@ -23826,15 +23826,15 @@
    "key": "origin|founder s office marketing associate|bengaluru",
    "type": "job",
    "company": "Origin",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "originrobotics.ai",
+   "company_url": "https://www.instahyre.com/job-452073-founders-office-marketing-associate-at-origin-2-bangalore/",
    "company_linkedin": "",
    "company_note": "",
    "title": "Founder's Office, Marketing Associate",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "452073",
    "source_url": "https://www.instahyre.com/job-452073-founders-office-marketing-associate-at-origin-2-bangalore/",
@@ -23870,8 +23870,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 45,
+    "total": 56,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -23880,15 +23880,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office Marketing Associate at Origin, asks 2-4 yrs, but requires B2B marketing and PR experience you do not have.",
+    "fit_notes": "The posting asks for '2-4 years in B2B marketing, content, growth, consulting or a founder's office role at a startup' and heavy PR, content writing, and event management. Shlok has 1.3 years of experience in S&OP planning, inventory, and supply chain execution at Ola Electric ([sop], [ceo-coo]), not marketing. While it falls under Strategy & Ops tier broadly, the functional requirement of marketing, content, and PR makes it a poor fit for his profile.",
+    "pay_notes": "Pay is not stated in the posting, and no evidence of compensation was found in the search results or company profile.",
+    "culture_notes": "No Glassdoor ratings, employee reviews, or company size/stage details found in the posting or web search.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T02:51:26+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "BGP ORIGIN attribute manipulation and its impact on the Internet - Cloudflare Blog",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NV0VHYVZJMGxDOUNyeklHVXl2Y01ld01peUF6eVBXX0ZEZkk5Z002Y0JMYXdDWlRpN2tyeGt3ejhQd05PWkRHNE56VFlCMmN2VXFMbkU5RWtaS1V5Y3c?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent - Science | AAAS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4UzF6dV9qQlJ5UU5JbWRYX0JLa1VGSHQwbnY2STJIaUlheEV4bGpiXzhlRWx3Q1lzOXFJZHpSLTRMZG12Vm95QmNQX08zUjFHV3VrSzBweS1uWGNSNjZn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "The origin and domestication of modern cultivated Chrysanthemum morifolium - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNazJ3R0hFZzk3OWtOci1CSExmTVk4Q0Y4Vm9OWWw3OFI5WjhKNjZaZ2QtdzhQUlJRTTE0YzZTVUVJUGRuWGN4aGJIUkRIYW03cVhyTElKZ0NKVnBYWllv?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3JoTFFYRGM5RHo2a3dkYW9TMjRQc29mMzNsendkVV90QnlGaGI0dV9OLTA1R2JoVWxFbGhkMVJGVDdsQ2pLRHZYcHlVNThBQ2twMmxOTW9FMlBLbjZiTjhmRDJwM0JlMWF2dUp1MkxuWVBQRDlHT1lXNmxkbUpSNTFOLXo4Wm5qQmdrVlZDdWJYTE1lVjRDclE2N2laOEVBcjd2V3pR?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "The Origin Energy breach has been unusual – but there are ways to better protect your data - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXptN3QzVFhxN0YxbVlCcHBEclA1WXNfeWJIdkhVcU5HTGRpbFNaaHB6Z0pYekxMWi0zdmRiaE1KMzVVaUJXUGpWbDZPN0xQdWtIQXNfRnphUlpmNWo1eHQ3bldrYUgtTEpPTU5zdEpuWFBuVmFheUhvN29GaEliblEzLS1tV1pqSWFYT0lndGpsbkNHeXVlUE9YYXJydnlLdlB6aXVLVkhRUkxvUWJRWUkyTlVPN2J2UU5rZ2lKOHA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Cursor launches Origin code hosting service to compete with GitHub - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVpDV3F1VWFLNUtnVFZjUDRpT19Jc3piUU1aTzljem04Uy1HMk0tMW5QQ01yQUhFM0Z6Q2ExQ1NXY1l2aVl4SGpXbWNnTFJlMnEwTFV4OW96ZjdhZ09xT2F0UTVna054UU9kVkFWbnZqaWdYcWh1a2Jxa3lCbXdfdFVIZ014ZFY4VEZ1OV9WbHFMdENFZGRuT0ZBb3JPay12aXlCX01B?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -23912,9 +23950,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-16T02:51:26+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 56: rejected (Marketing Associate role requires B2B marketing, content, growth, or PR experience, which does not match Shlok's S&OP and supply chain execution background, and pay is unstated.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:51:26+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -23924,7 +23968,8 @@
     "at": "2026-11-15T01:49:07+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Marketing Associate role requires B2B marketing, content, growth, or PR experience, which does not match Shlok's S&OP and supply chain execution background, and pay is unstated."
   },
   {
    "id": "L0210",

@@ -153,6 +153,20 @@
    "count": 5,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0012",
+   "key": "lead-scout:Instahyre job pages return 403 to WebFetch and curl",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "Instahyre job pages return 403 to WebFetch and curl",
+   "detail": "2026-11-15: L0206 Arrowhead, L0207 Tailored AI, L0213 Dify (all score 73) could not be opened, so they stay unresearched. Stored JD for Instahyre leads is only tag lists, so they cannot be verified from data either. 72 instahyre leads affected; needs a different reader (Apify actor or browser).",
+   "status": "open",
+   "opened_at": "2026-11-15T13:06:32+05:30",
+   "last_seen": "2026-11-15T13:06:32+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

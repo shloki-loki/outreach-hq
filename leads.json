@@ -35272,13 +35272,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "AmbitionBox TerraTern salaries (12 salaries total): Operations Manager Rs 7.2-9.2L, BDE Rs 3-4L",
     "fit": "Unknown"
    },
    "score": {
     "rules": 75,
-    "research": null,
-    "total": 75,
+    "research": 25,
+    "total": 45,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -35288,15 +35288,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office at TerraTern (visa/relocation startup); asks 4-5 yrs in EdTech or immigration, pay bands on AmbitionBox far below Rs 24.5L.",
+    "fit_notes": "LinkedIn posting opened 2026-11-15, open, 200+ applicants. Prefers 4-5 yrs in EdTech or immigration startups; Excel/Slides/Notion, SQL a bonus. Generic FO work; no domain overlap.",
+    "pay_notes": "No figure for Founder's Office. Highest band seen on AmbitionBox (Operations Manager) is Rs 7.2-9.2L; small samples.",
+    "culture_notes": "AmbitionBox 4.8-4.9/5 on ~33 reviews (cached pages differ).",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-15T13:04:42+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -35320,9 +35322,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 75"
+    },
+    {
+     "at": "2026-11-15T13:04:42+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 45: rejected (Prefers 4-5 years in EdTech/immigration; small visa-services startup where reported pay bands are far below the floor.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-15T13:04:42+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -35332,7 +35340,8 @@
     "at": "2026-11-15T01:47:36+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Prefers 4-5 years in EdTech/immigration; small visa-services startup where reported pay bands are far below the floor."
   },
   {
    "id": "L0325",

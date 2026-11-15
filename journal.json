@@ -1313,6 +1313,15 @@
    "title": "Work W0009: add",
    "detail": "Scheduled lead-scout run 2026-11-15: research up to 12 leads",
    "ref": "W0009"
+  },
+  {
+   "id": "J0147",
+   "at": "2026-11-15T12:29:55+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Work W0009: assign",
+   "detail": "Scheduled Claude lead-scout run",
+   "ref": "W0009"
   }
  ]
 }

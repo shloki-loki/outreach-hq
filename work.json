@@ -116,15 +116,15 @@
    "id": "W0009",
    "kind": "research",
    "lead_id": null,
-   "owner": "codex",
+   "owner": "claude",
    "title": "Scheduled lead-scout run 2026-11-15: research up to 12 leads",
-   "detail": "",
+   "detail": "Scheduled Claude lead-scout run",
    "status": "queued",
    "created_at": "2026-11-15T12:14:43+05:30",
    "lease_until": null,
    "result": "",
    "ref": "",
-   "updated_at": "2026-11-15T12:14:43+05:30"
+   "updated_at": "2026-11-15T12:29:55+05:30"
   }
  ]
 }

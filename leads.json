@@ -14284,7 +14284,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Chennai, Tamil Nadu, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488514595",
    "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-at-pathnsitu-biotechnologies-4488514595",
@@ -14300,7 +14300,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12",
    "open": true,
-   "jd": "",
+   "jd": "Company Description PathnSitu Biotechnologies focuses on the study of disease in its original state, with a strong emphasis on carcinoma in situ to support accurate and early cancer diagnosis. The company develops novel techniques and high-quality reagents for tissue diagnostics, backed by world-class scientific and technical advisors with more than two decades of global experience. PathnSitu is driven by a dynamic, patient-centered perspective, aiming to improve staining workflows, reduce turnaround times, and keep solutions affordable for laboratories. With ISO 9001:2008 and ISO 13485:2003 certifications and adherence to USFDA, GMP, GDP, and GLP practices, the organization prioritizes quality, regulatory compliance, and effective, accessible cancer diagnosis.\n We are seeking a highly strategic, analytical, and articulate Chief of Staff to act as the primary liaison between our Board of Directors/Executive Leadership and our Investors. In this role, you will serve as a trusted advisor and force-multiplier for the leadership team. You will translate complex operational data into high-level strategic insights, manage investor relations, and ensure seamless communication between external stakeholders and internal executives.\n Key Responsibilities \n 1 . Investor Relations & Board Governance\n Liaison: Act as the central point of contact and bridge between investors, shareholders, and the Board of Directors.\n Reporting: Prepare high-impact board decks, investor presentations, quarterly updates, and financial/operational performance reports.\n Meeting Management: Organize, attend, and facilitate Board and investor meetings; track action items and ensure follow-through from executive leaders.\n 2. Strategic Data Analysis & Insights\n Diagnostic Reporting: Analyze sales, financial, and market data to diagnose business health and identify growth opportunities or bottlenecks.\n Metrics Tracking: Develop and monitor key performance indicators (KPIs) required by investors and executive leadership.\n Market Intelligence: Conduct research on industry trends, competitor movements, and market shifts to support board-level decisions.\n 3. Executive Operations & Communications\n Strategic Communication: Draft executive communications, briefing papers, and speeches for the Directors.\n Cross-Functional Alignment: Ensure that internal department heads (Sales, Finance, Operations) are aligned with the strategic goals promised to investors.\n Special Projects: Lead high-priority, cross-functional initiatives tasked directly by the Board or CEO.\n Requirements & Qualifications\n Experience: 3–6 years of experience in Business Development, Corporate Strategy, Sales Operations, Management Consulting, or Investment Banking.\n Education: Bachelor’s degree in Business Administration, Finance, Economics, or a related analytical field (MBA is a plus).\n Data Skills: Strong analytical capabilities with experience in data modeling, dashboard creation (Tableau/PowerBI), and CRM tools (Salesf",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -14315,8 +14315,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -14326,15 +14326,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff at PathnSitu Biotechnologies in Chennai, asks 3-6 yrs, but requires on-site and more experience than you have.",
+    "fit_notes": "The posting asks for \"3–6 years of experience in Business Development, Corporate Strategy, Sales Operations, Management Consulting, or Investment Banking\" and an analytical bachelor's degree (MBA is a plus). Shlok has 1.3 years of experience and is based in Bengaluru, whereas this role requires on-site work in Chennai, Tamil Nadu. His operational planning and board-facing background at Ola Electric ([ceo-coo], [sop]) match the strategy and investor relations duties, but the experience gap (asking 3-6 years) and location mismatch make this a reject.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company website, reviews, or culture data found in web search.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-15T22:01:15+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -14358,14 +14368,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-15T22:01:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires 3-6 years of experience while Shlok has 1.3 years (making it a heavy stretch/reject based on the experience band), demands on-site work in Chennai when he wants Bengaluru or remote, and does not state pay.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T22:01:15+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 3-6 years of experience while Shlok has 1.3 years (making it a heavy stretch/reject based on the experience band), demands on-site work in Chennai when he wants Bengaluru or remote, and does not state pay."
   },
   {
    "id": "L0120",

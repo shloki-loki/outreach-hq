@@ -13186,7 +13186,21 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Pravin Tiwari",
+     "title": "Co-Founder",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAAAE0hqoBY_MGlIJYQ6xc7gCKrY5NsRyNaf8",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "founder or CEO (LinkedIn title)",
+     "found_at": "2026-11-15T22:04:25+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -13206,15 +13220,22 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 65: qualified"
+    },
+    {
+     "at": "2026-11-15T22:04:25+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "1 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-15T21:59:29+05:30",
+   "updated_at": "2026-11-15T22:04:25+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
    },
-   "reject_reason": null
+   "reject_reason": null,
+   "people_searched_at": "2026-11-15T22:04:25+05:30"
   },
   {
    "id": "L0110",

@@ -1538,6 +1538,15 @@
    "title": "Diagnosis: hunter verification call failed",
    "detail": "Cause: there is no Hunter key. In .env HUNTER_API_KEY is empty (only a comment), and the GitHub secret holds just the comment text, so the URL has api_key='       # hunter.io: free finder + verifier credits each month' and Hunter returns 401. Remedy: either add a real Hunter key (bare value, in .env and as the GitHub secret) or delete the HUNTER_API_KEY secret so the finder skips Hunter instead of failing; also redact api_key in error text as for I0010.",
    "ref": "I0011"
+  },
+  {
+   "id": "J0172",
+   "at": "2026-11-15T20:22:44+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Instahyre job pages return 403 to WebFetch and curl",
+   "detail": "Cause: Instahyre blocks plain HTTP readers (403) and our stored JD for Instahyre leads is only tag lists, so the rule 'never qualify on title alone' leaves them unresearched; 114 Instahyre leads, 42 never live-checked. Remedy: read Instahyre postings through the built-in browser while signed in (or a low-cost Apify actor within the 3.50 USD cap), or down-rank Instahyre in research order so the free model quota goes to readable postings.",
+   "ref": "I0012"
   }
  ]
 }

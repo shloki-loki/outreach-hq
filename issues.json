@@ -165,7 +165,7 @@
    "opened_at": "2026-11-15T13:06:32+05:30",
    "last_seen": "2026-11-15T13:06:32+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: Instahyre blocks plain HTTP readers (403) and our stored JD for Instahyre leads is only tag lists, so the rule 'never qualify on title alone' leaves them unresearched; 114 Instahyre leads, 42 never live-checked. Remedy: read Instahyre postings through the built-in browser while signed in (or a low-cost Apify actor within the 3.50 USD cap), or down-rank Instahyre in research order so the free model quota goes to readable postings.",
    "resolved_at": null
   },
   {

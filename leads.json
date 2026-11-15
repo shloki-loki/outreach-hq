@@ -38064,7 +38064,47 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Satyendra Kumar",
+     "title": "CEO's Office",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAABcLYggBGn-v5SZFHpPPT1sWCssDRj53SfE",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "likely reports-to or runs the function this role sits in (LinkedIn title)",
+     "found_at": "2026-11-15T22:04:02+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "Aadit Palicha",
+     "title": "Co-Founder & CEO",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAACwx0VsBGLkpqJUC1YQ2HrAojgTg75BnVyM",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "founder or CEO (LinkedIn title)",
+     "found_at": "2026-11-15T22:04:02+05:30"
+    },
+    {
+     "id": "C3",
+     "name": "Sushant Koul",
+     "title": "Associate Director - Talent Acquisition",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAAAcztMQBye-s3n19WdpJRmmf0YDUVa9aOwE",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "recruits for the company (LinkedIn title)",
+     "found_at": "2026-11-15T22:04:02+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -38084,15 +38124,22 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 68: qualified"
+    },
+    {
+     "at": "2026-11-15T22:04:02+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "3 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-15T21:53:44+05:30",
+   "updated_at": "2026-11-15T22:04:02+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
    },
-   "reject_reason": null
+   "reject_reason": null,
+   "people_searched_at": "2026-11-15T22:04:02+05:30"
   },
   {
    "id": "L0340",

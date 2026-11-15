@@ -16147,7 +16147,7 @@
    "key": "30sundays|entrepreneur in residence|india",
    "type": "job",
    "company": "30 Sundays",
-   "company_domain": "",
+   "company_domain": "30sundays.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/30-sundays",
    "company_note": "",
@@ -16155,7 +16155,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490305149",
    "source_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-30-sundays-4490305149",
@@ -16171,7 +16171,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "About 30 Sundays \n 30 Sundays is a travel company based in Gurugram that specializes in creating unforgettable vacations exclusively for couples. We Founded by alumni from Apple, BCG, University of Michigan, IIT, and IIM. We are Backed by investors like Bessemer Venture Partners and InfoEdge Ventures.\n Location: Gurugram\n Role Overview - EIR Operations \n This is a chance to work directly with the leadership on key operations excellence projects.\n Our goal is to have the best customer experience in the travel Industry and this role will help build the foundation. You will operate at the intersection of strategy and execution, analysing data, identifying gaps and directly driving improvements. To succeed in this role you should have exceptional executional skills and be great at leveraging new age AI tools like Claude.\n Key Responsibilities \n Own multiple projects to improve customer experience\n Build analytical data streams to identify key areas for improvement\n Leverage AI to build Proof of Concept tools to improve productivity, efficiency and accuracy\n Work with product and tech to turn successful POCs into scalable deployed systems\n Define and improve SOPs and Processes; work with cross-functional teams to drive implementation\n Preferred Background \n 2+ years of experience in consulting, analytics or a high growth organisation\n High on energy, Willing to go above and beyond whenever needed\n Undergraduate degree from top Tier 1 IITs/ NITS/ Bits Pilani or Delhi University colleges (e.g., LSR, SRCC, St. Stephen’s)\nSeniority level Mid-Senior level | Employment type Full-time | Industries Travel Arrangements",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -16186,8 +16186,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 55,
+    "total": 59,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -16197,15 +16197,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Entrepreneur in Residence at 30 Sundays in Gurugram, asks 2+ yrs; your S&OP and fulfilment work maps well, but it is outside Bengaluru.",
+    "fit_notes": "The posting asks for '2+ years of experience in consulting, analytics or a high growth organisation' and an 'Undergraduate degree from top Tier 1 IITs/ NITS/ Bits Pilani'. Shlok has about 1.3 years of experience, making 2+ years a slight stretch. His work on S&OP planning and fulfilment operations [sop, ceo-coo] maps to the operational project requirements. However, the location is Gurugram, which is outside Bengaluru.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures were found in the company's Series A funding news [S1].",
+    "culture_notes": "No ratings, review counts, or culture flags were found in the available evidence.",
+    "hook": "Congratulations on raising the Series A funding led by Bessemer Venture Partners to expand your AI-powered holiday planning platform.",
+    "hook_source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd05MVVUtaTBNMHJLX2FhMkZkYVZkelk5VlJqRDl6RGhUN1pYaGNVcDBSU2doV0s5TXNJUFRrZ095LVVCOC10RnZPOTVTSnh5MVBKNEtHWF9yX29MQXk0QmxfZlhMUl9DamJoeDhULXNBWXA2cFFNT3ZiQjBZb0xMRjl6US1LZw?oc=5",
+    "researched_at": "2026-11-15T22:03:00+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "30 Sundays raises $6.7M Series A for AI travel in India - Bessemer Venture Partners",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd05MVVUtaTBNMHJLX2FhMkZkYVZkelk5VlJqRDl6RGhUN1pYaGNVcDBSU2doV0s5TXNJUFRrZ095LVVCOC10RnZPOTVTSnh5MVBKNEtHWF9yX29MQXk0QmxfZlhMUl9DamJoeDhULXNBWXA2cFFNT3ZiQjBZb0xMRjl6US1LZw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Traveltech Startup 30 Sundays Raises ₹61 Cr To Expand AI-Powered Holiday Planning - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQam9fZ2Z4RFY2Z3JyZ1g2QmdkN3UxdjNCWEhQaThXWTJCWVJpUXZ1NGlwc1dvTzhtWnBRNzM4NExnMmpXYk9QdXY0X0c5eHVCcVo4ZzdwcXpGemtTNGNyMUJaSGJmMWktV3d2bWJSa2k1ZU5BaVVHMnFwZFAyay01cWgwVE9hSFY4QjZ6LWd6Q3lsaGc1bGJHX2RZdl83V0pqMmpMSHRVWTZjZVR2RnEzdGg3WQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Traveltech startup 30 Sundays raises Rs 61 Cr led by Bessemer Venture Partners - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaXQzbEN5NFV2bFppSmhQaWdwbE9fZlIxMlFfbnN0bmxqbEpYNTVHbW56RUk1VkJoeGd3ekd6NzZ1V2pUbEJ1T3IyNzItU0xYcDNDYTBkdk8ydXExelI0VVdnbWl0QmR6blVLaU9panZsZ3R6a3VxcWJyTXAtRDJTbG9USmxkR3ZNOU80ZFVsZVRqeW96dWhHa2FZQk9WUQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "AI travel startup 30 Sundays raises $6.7 million in Bessemer-led round - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSE9INVNFZzAzcGt6ZWI4VFcwSV9GNERxYklpc0piQ3N2U1RURDNnd01NeWlHeXVOWjhBT2VhOS11anpXbzFlVF9VLURzZlBPTXM0MlA5eU1mUkJ3UzktcjY4dUstYVd5NlB5U0Q1MEJCMTkyV3dKdVloS0tvZ3F0TGprZnRNVDVxRndmLUZzdTNRbkltQUJsM0p6WlVCM0FnbTZkSUVPWklOQktTQ3d3WjhZMGYzLUprSXBsdXBiSkx3ejZDMGUzcVp3SS1mdEdoMVhVaFV0d0ZGVXPSAeABQVVfeXFMTS1JY2lxdmVtenhrT1dKZjdPOXdoVmVMU3BETlNWcU1IcHNLTmxrakw4WlA2WWFiaXdoSW4tQ2VCa1RTcXBraTdGREJMYVA2WEJzd3VtTlZwMmdzbkVFYk5fX1plazl5Z3N4dGZBSXBQRDZ5NnpiXzVKM3ZodldsT3FmMVRxWmZPQmE5bnBBVHdHSkM1cXh2b1N1RjdSSk1UMzlWd1pfUFdOSk9paHpIcGdhenVaRjZtMDdLWlBaTDlCSlZhMzNYclBHb3M1anp3SEJ5dnNWWTRWaTJTQmd4TmU?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "30 Sundays Raises ₹61 Crore to Expand AI-Powered Travel Platform - CXO Digitalpulse",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVMtOFBFUVNkdnVTQlhCbG5ram1GQW4xNFNtcktKN3d3Z2Jjb2JtWG5rc01oSTRoQ3BRbWc1TmVnbzc4aDdLVC1MLXA4SGREOGJGOFBTOEVseUFMdzFGWm12R2hFSTJfc1BQMHpKMlF6cUdsZDNKdjB5ZGdyeG1ZWUY5X1pobUY3TEpqMjM3N05FcXg3ZHZ5Vkh1ZXMxV2RGcnRUbUxsMGE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Travel-tech startup 30 Sundays raises Rs 61 crore led by Bessemer Venture - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekNXOVJIdlVGTWRNbVE2Yk1NdC1TZjFkc1gyVGNiVmlQZzVvdG1XQnlkeEc2aDNxcGJRYnl3bFhuVW8zcmZ2bE1nbzI0WkU2WGtpejZuemVwS3NVMFpUS0FDM3QwbGVJT1VwbGVYaklNWUptd1c5VkxJdGRrbXh4MGpzNzF0aDUxTnFpeVZTTFYxTVF4OEJjMnRsSm5LVXY2R214d0RZM2Z2TlFzTWNQREoxaGduWjVwbWNJdW9RcHkzN1hVRUgyS09HbUF1eXBz0gHWAUFVX3lxTE9TWU94dXhDX2pVdWRMVkVtR21kUGk4V2dja0VlMmY4MXJNMUZLbW1BWnRZMDJJT3E1X09tdW9GdzdNRmp1VmI0SnJ1Wng3TnJ5eFdKM1BBTkxGeWp5X2xubXpWLXIzQ1VTYkMtNUxnUTZyeXpQYS1pTXlSSzhtR25vVUt1THVrekJBZTFjcXBMWk5zNzNJS28tU3lYS3FHeE5wM0RnWENqSFBTNWRiR3dsbllHWlVTUkxUMU9ra2JnNFZtaGJabk1rVnJ3TTJHSEZ0N1FPZEE?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -16229,14 +16270,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-15T22:03:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 59: rejected (The role is based in Gurugram, violating Shlok's strict location preference for Bengaluru or remote-first.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T22:03:00+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role is based in Gurugram, violating Shlok's strict location preference for Bengaluru or remote-first."
   },
   {
    "id": "L0136",

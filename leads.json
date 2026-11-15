@@ -175258,7 +175258,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490207718",
    "source_url": "https://in.linkedin.com/jobs/view/founders-office-business-at-talkinglands-4490207718",
@@ -175289,8 +175289,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 35,
+    "total": 52,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -175300,15 +175300,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office (Business) at TalkingLands focuses on ground real estate sales, site visits, and reels; does not leverage your S&OP operations background.",
+    "fit_notes": "The posting calls for a business generalist to do field sales, site visits, social media reels, and broker onboarding for land discovery. It does not require an MBA or consulting experience, nor specifies years of experience. None of your core supply chain, manufacturing, and S&OP planning achievements ([sop], [mrp], [o2d], [ceo-coo], [cell]) map to real estate field outreach and marketing reels; only college sales experience ([alcheringa]) loosely overlaps.",
+    "pay_notes": "Pay is unstated. An early-stage startup role encompassing ground sales, site visits, and making reels is unlikely to hit the Rs 24.5 LPA fixed threshold.",
+    "culture_notes": "No public company ratings or reviews found. The posting explicitly highlights weekend work, long hours, and fluid responsibilities.",
+    "hook": "Talkinglands' mission to digitize land discovery and transactions for developers, landowners, and buyers through maps and visual storytelling.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founders-office-business-at-talkinglands-4490207718",
+    "researched_at": "2026-11-16T02:49:27+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -175332,14 +175341,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-16T02:49:27+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The role requires ground real estate sales, broker onboarding, site visits, and social media reels, which does not map to your S&OP and operations background, and pay is unstated at an early-stage startup unlikely to reach Rs 24.5 LPA.)"
     }
    ],
-   "updated_at": "2026-11-15T14:03:18+05:30",
+   "updated_at": "2026-11-16T02:49:27+05:30",
    "research_attempt": {
     "at": "2026-11-15T21:30:07+05:30",
     "why": "error: Gemini unreachable: The read operation timed out",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role requires ground real estate sales, broker onboarding, site visits, and social media reels, which does not map to your S&OP and operations background, and pay is unstated at an early-stage startup unlikely to reach Rs 24.5 LPA."
   },
   {
    "id": "L1525",

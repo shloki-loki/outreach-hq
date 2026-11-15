@@ -133,12 +133,12 @@
    "leads_total": 1524,
    "by_status": {
     "applied": 4,
-    "qualified": 43,
-    "rejected": 35,
+    "qualified": 48,
+    "rejected": 60,
     "contacted": 10,
     "skipped": 3,
     "interview": 1,
-    "new": 1426,
+    "new": 1396,
     "to_approve": 2
    },
    "by_source": {
@@ -159,9 +159,9 @@
     "4 - Other": 4,
     "3 - APM / Analyst": 34
    },
-   "qualified_total": 59,
-   "researched_total": 96,
-   "with_email_total": 1008,
+   "qualified_total": 64,
+   "researched_total": 126,
+   "with_email_total": 1011,
    "emails_sent_total": 11,
    "emails_sent_today": 0,
    "cold_sent_total": 11,

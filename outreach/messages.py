@@ -174,6 +174,26 @@ def check_draft(kind: str, subject: str, body: str, *, to_name: str = "", compan
     return problems
 
 
+def check_cover_note(text: str, *, company: str = "") -> list[str]:
+    """The short 'why this role' note pasted into an application form (written for Shlok to submit himself)."""
+    problems: list[str] = []
+    words = word_count(text)
+    if not 60 <= words <= 150:
+        problems.append(f"cover note is {words} words; 60-150")
+    if company and not word_match(company.split("(")[0].strip(), text):
+        problems.append(f"does not name {company}")
+    if re.match(r"\s*(i|my|i'm|i am)\b", text, re.I):
+        problems.append("opens on himself; open on what they are building or what the role needs")
+    _common(text, text, problems)
+    if SELF_DISQUALIFY.search(text):
+        problems.append("self-disqualifying line")
+    if len(NUMBER.findall(text)) > 4:
+        problems.append("more than 4 numbers")
+    if re.search(r"\b(ctc|lpa|notice period|salary)\b", text, re.I):
+        problems.append("mentions pay or notice period")
+    return problems
+
+
 def check_linkedin(kind: str, text: str, *, to_name: str = "", company: str = "", subject: str = "") -> list[str]:
     """A LinkedIn note or InMail, drafted for Shlok to copy and send by hand (voice.md, LinkedIn)."""
     problems: list[str] = []

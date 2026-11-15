@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 from typing import Any
 
-from . import digest, emailfinder, importers, leads as lead_model, live, messages, metrics, people, research, scout, send, store, track, writer
+from . import digest, emailfinder, importers, leads as lead_model, live, llm, messages, metrics, people, research, scout, send, store, track, writer
 from .rules import Pay, Verdict, judge, pay_fit
 from .util import load_config, load_env, now, now_iso, parse_iso
 
@@ -456,10 +456,15 @@ def main(argv: list[str] | None = None) -> None:
     p.set_defaults(func=lambda a: out(research.compare(a.compare.split(",")) if a.compare
                                       else research.run(limit=a.limit, ids=a.lead.split(",") if a.lead else None)))
 
+    p = sub.add_parser("llm-check", help="one tiny call per free model: which work today, and which limits were hit")
+    p.set_defaults(func=lambda a: out(llm.check_models()))
+
     p = sub.add_parser("write-run", help="draft cold emails, follow-ups and LinkedIn notes with the free model, for approval")
     p.add_argument("--cold", type=int, default=6); p.add_argument("--followups", type=int, default=10)
     p.add_argument("--linkedin", type=int, default=8)
-    p.set_defaults(func=lambda a: out(writer.run(cold_limit=a.cold, followup_limit=a.followups, linkedin_limit=a.linkedin)))
+    p.add_argument("--apply", type=int, default=25, help="application cover notes for qualified jobs not yet applied to")
+    p.set_defaults(func=lambda a: out(writer.run(cold_limit=a.cold, followup_limit=a.followups, linkedin_limit=a.linkedin,
+                                                 apply_limit=a.apply)))
 
     p = sub.add_parser("people-run", help="find up to 3 people per qualified lead on LinkedIn (Apify, capped)")
     p.add_argument("--limit", type=int, default=8); p.add_argument("--lead", help="comma-separated lead ids")

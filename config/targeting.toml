@@ -83,6 +83,11 @@ keywords = [
   "\"founder's office\"", "\"chief of staff\"", "\"ceo's office\"", "\"strategy and operations\"",
   "\"entrepreneur in residence\"", "\"business operations\" strategy", "\"strategic initiatives\"",
   "\"program manager\" strategy", "\"bizops\"", "\"associate product manager\"", "\"S&OP\" planning manager",
+  # Added 2026-11-15 for volume (target: 100 applications a day). These are tier 2/3 roles the scorer already
+  # accepts; seniority and experience rules still drop what does not fit.
+  "\"program manager\"", "\"category manager\"", "\"business analyst\" strategy", "\"product operations\"",
+  "\"revenue operations\"", "\"growth manager\"", "\"demand planning\"", "\"supply chain planning\"",
+  "\"strategy analyst\"", "\"business operations\" manager", "\"expansion manager\"", "\"planning manager\"",
 ]
 locations = ["Bengaluru, Karnataka, India", "India"]
 posted_within = "r604800"   # seconds: r86400 = 24h, r604800 = 7 days
@@ -90,7 +95,8 @@ pages_per_search = 2        # 10 results per page
 detail_fetches_per_run = 25 # job descriptions read per run (LinkedIn rate-limits these)
 
 [instahyre]
-queries = ["founder's office", "chief of staff", "strategy", "business operations", "program manager", "product manager"]
+queries = ["founder's office", "chief of staff", "strategy", "business operations", "program manager", "product manager",
+  "category manager", "operations manager", "business analyst", "growth manager", "supply chain planning", "revenue operations"]
 locations = ["Bangalore", "Work From Home"]
 
 [yc]
@@ -102,8 +108,9 @@ companies_per_run = 40      # company pages read per run
 # Cost per run is capped by max_usd_per_call x searches; the month is capped in settings.toml [apify].
 [apify.naukri]
 enabled = true
-every_days = 3
-keywords = ["founders office", "chief of staff", "strategy and operations", "business operations", "ceo office"]
+every_days = 1            # daily since 2026-11-15 (volume); about $0.07 a day, inside the monthly cap
+keywords = ["founders office", "chief of staff", "strategy and operations", "business operations", "ceo office",
+  "program manager strategy"]
 locations = ["bengaluru"]
 experience_years = 1      # Naukri's own experience filter: jobs open to 1 year
 job_age_days = 7

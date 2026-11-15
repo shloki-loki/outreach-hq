@@ -73,9 +73,10 @@ def critique(message: str, lead: dict, contact: dict, model: str) -> list[str]:
         person=f"{contact.get('name')}, {contact.get('title') or contact.get('role_type')} at {lead.get('company')}",
         profile=public_profile(), lead=lead_brief(lead), message=message)
     try:
-        verdict = llm.generate(ask, model=model, json_mode=True, temperature=0.1, max_tokens=800).json()
-    except (llm.LlmError, json.JSONDecodeError):
-        return []  # the critic is an extra gate; the code checks above still hold
+        verdict = llm.generate(ask, model=model, json_mode=True, temperature=0.1, max_tokens=4000).json()
+    except (llm.LlmError, json.JSONDecodeError) as exc:
+        # an unread draft must not pass as approved by the reader: send it round again
+        return [f"the reader check could not run ({str(exc)[:120]}); rewrite and resubmit"]
     problems = []
     if int(verdict.get("would_reply") or 0) < MIN_WOULD_REPLY:
         problems.append(f"a reader rated it {verdict.get('would_reply')}/10 for replying; {verdict.get('fix', '')}")
@@ -98,7 +99,7 @@ def _write(what: str, lead: dict, contact: dict, task: str, limits: str, schema:
         prompt = ask if attempt == 0 else ask + "\n\nYour previous draft was rejected for these reasons. Rewrite it so " \
             "none of them applies:\n- " + "\n- ".join(problems) + "\nPrevious draft:\n" + json.dumps(draft, ensure_ascii=False)
         try:
-            draft = llm.generate(prompt, model=models["writer"], json_mode=True, temperature=0.6, max_tokens=1500).json()
+            draft = llm.generate(prompt, model=models["writer"], json_mode=True, temperature=0.6, max_tokens=6000).json()
         except (llm.LlmError, json.JSONDecodeError) as exc:
             problems = [f"answer was not valid JSON: {exc}"]
             continue
@@ -277,17 +278,69 @@ def write_linkedin(lead: dict, contact: dict, models: dict[str, str]) -> dict | 
     return record
 
 
+# ---- application cover notes -------------------------------------------------------------------------
+
+COVER_NOTE = "Why this role (cover note)"
+
+
+def apply_targets(leads: list[dict]) -> list[dict]:
+    """Qualified job leads Shlok can apply to, with no cover note yet, best first."""
+    targets = [lead for lead in leads
+               if lead.get("type") == "job" and lead.get("stage") == "qualified" and lead.get("open") is not False
+               and not lead.get("applied_at") and re.match(r"https?://", lead.get("apply_url") or "")
+               and COVER_NOTE not in ((lead.get("apply") or {}).get("answers") or {})]
+    targets.sort(key=lambda lead: -(lead.get("score") or {}).get("total", 0))
+    return targets
+
+
+def write_cover_note(lead: dict, models: dict[str, str]) -> str | None:
+    reader = {"name": "", "title": "hiring team", "role_type": "hiring_manager",
+              "why": "reads the application for this role"}
+    research = lead.get("research") or {}
+    task = ("Write the short note Shlok pastes into this job's application form (the 'why you / why this role / cover "
+            "letter' box). Open on what this team is building or what the posting says the role must do, then the one or "
+            "two results from his facts that answer it, told as before and after in plain words, then one line on why "
+            "this company, from the research" + (f" (true and sourced: \"{research.get('hook')}\")" if research.get("hook") else "")
+            + ". No greeting, no sign-off, no question.")
+    limits = ("60-150 words; names " + (lead.get("company") or "the company") + "; does not open with I or My; contractions; "
+              "no links; no em dashes; no exclamation marks; at most 4 numbers; never mentions pay, CTC or notice period")
+    schema = '{"note": "..."}'
+
+    def validate(draft: dict) -> list[str]:
+        return messages.check_cover_note(draft.get("note", ""), company=lead.get("company") or "") \
+            + fact_check(draft.get("note", ""), lead)
+
+    draft, problems = _write("application cover note", lead, reader, task, limits, schema, validate, models,
+                             lambda d: d.get("note", ""))
+    if not draft:
+        _note(lead["id"], "Writer could not produce an application note that passes every check: " + "; ".join(problems)[:400])
+        return None
+    note = draft["note"].strip()
+
+    def change() -> None:
+        data = store.load("leads")
+        stored = store.find(data["leads"], lead["id"])
+        apply = stored.setdefault("apply", {"status": "not_started", "notes": "", "answers": {}})
+        apply.setdefault("answers", {})[COVER_NOTE] = note
+        if apply.get("status") in (None, "not_started"):
+            apply["status"] = "kit_ready"
+        store.add_timeline(stored, "writer", "apply_kit", "application note written (free model)")
+        store.save("leads", data)
+    store.transact(change, f"writer: application note for {lead['id']}")
+    return note
+
+
 # ---- the run ---------------------------------------------------------------------------------------
 
 def pick_models() -> dict[str, str]:
     cfg = load_config("settings").get("llm", {})
-    return {"writer": llm.pick(cfg.get("writer_models", ["gemini-2.5-flash"])),
-            "judge": llm.pick(cfg.get("judge_models", ["gemini-2.5-flash"]))}
+    return {"writer": llm.chain(cfg.get("writer_models", ["gemini-3.8-flash"])),
+            "judge": llm.chain(cfg.get("judge_models", ["gemini-3.8-flash"]))}
 
 
-def run(cold_limit: int = 6, followup_limit: int = 10, linkedin_limit: int = 8) -> dict[str, Any]:
+def run(cold_limit: int = 6, followup_limit: int = 10, linkedin_limit: int = 8, apply_limit: int = 25) -> dict[str, Any]:
     store.sync()
-    stats = {"cold": 0, "followups": 0, "linkedin": 0, "dropped": 0}
+    stats = {"cold": 0, "followups": 0, "linkedin": 0, "apply_notes": 0, "dropped": 0}
     if not llm.key():
         return {**stats, "skipped": "GEMINI_API_KEY is not set"}
     models = pick_models()
@@ -305,6 +358,8 @@ def run(cold_limit: int = 6, followup_limit: int = 10, linkedin_limit: int = 8) 
             except ValueError as exc:  # create_draft refused (cap, unverified, duplicate): note it and move on
                 _note(lead["id"], f"Draft refused when queuing: {exc}")
                 stats["dropped"] += 1
+        for lead in apply_targets(store.load("leads")["leads"])[:apply_limit]:
+            stats["apply_notes" if write_cover_note(lead, models) else "dropped"] += 1
         for lead, contact in linkedin_targets(store.load("leads")["leads"])[:linkedin_limit]:
             stats["linkedin" if write_linkedin(lead, contact, models) else "dropped"] += 1
     except llm.LlmUnavailable as exc:

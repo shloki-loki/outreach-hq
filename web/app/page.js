@@ -90,13 +90,17 @@ export default async function LeadsPage({ searchParams }) {
     emails: (lead.contacts || []).filter((c) => c.email && !['bounced', 'invalid'].includes(c.email_status)).length,
     connections: (lead.referrals || []).length, note: latestNote(lead),
     captured: Boolean(lead.first_contacted_at || lead.applied_at), speculative: lead.type === 'company',
+    applyUrl: /^https?:\/\//.test(lead.apply_url || '') ? lead.apply_url : '',
+    canApply: lead.type === 'job' && lead.status === 'qualified' && lead.open !== false && !lead.applied_at
+      && /^https?:\/\//.test(lead.apply_url || ''),
     search: `${lead.company} ${lead.title} ${lead.location} ${lead.tier || ''}`.toLowerCase(),
   }));
+  const readyToApply = rows.filter((r) => r.canApply).length;
   const strip = [
+    { label: 'Ready to apply', value: readyToApply, href: '/?view=apply', tone: 'hot' },
     { label: 'Emails to approve', value: toApprove, href: '/approvals', tone: 't-approve' },
     { label: 'Follow-ups due', value: tally.followup_due || 0, href: '/?view=you', tone: 't-due' },
     { label: 'Replies', value: tally.replied || 0, href: '/?view=you', tone: 't-reply' },
-    { label: 'Qualified, untouched', value: tally.qualified || 0, href: '/?view=qualified', tone: '' },
     { label: 'Contacted or applied', value: leads.filter((l) => l.first_contacted_at || l.applied_at).length, href: '/?view=captured', tone: 'hot' },
     { label: 'Interviews and offers', value: (tally.interview || 0) + (tally.offer || 0), href: '/?view=captured', tone: 'hot' },
   ];

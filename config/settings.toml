@@ -72,9 +72,18 @@ monthly_cap_usd = 3.5
 # Model names are matched against what the key can use; the first available one is taken.
 [llm]
 seconds_between_calls = 7
-research_models = ["gemini-2.5-flash"]                       # has free Google Search grounding
-writer_models = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash"]
-judge_models = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash"]
+# Free tier (checked 2026-11-15 with llm-check): 20 requests a day PER MODEL for the Flash models, so ~80 good
+# calls a day across the chain; enough for about 20-25 leads. paid = true turns on Google billing-side use with
+# a hard daily cap counted from each reply's token usage (prices below, from the pricing page 2026-11-15).
+paid = false
+daily_cap_usd = 3.0
+prices_usd_per_million = { default = [0.75, 3.75], "gemini-3.8-flash" = [0.75, 3.75], "gemini-3.7-flash" = [0.75, 3.75], "gemini-3.6-flash" = [0.75, 3.75], "gemini-3.5-flash-lite" = [0.30, 2.50], "gemini-3.1-flash-lite" = [0.25, 1.50] }
+research_models = ["gemini-2.5-flash", "gemini-3.8-flash"]  # grounded search: 2.5 is free but gone for new keys; 3.x grounds on the paid tier only  # only 2.5 has free Google Search grounding; if the key
+                                                               # cannot use either, evidence is fetched (website + Google News)
+reader_models = ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite"]  # reads fetched pages into evidence (own quota)
+writer_models = ["gemini-3.8-flash", "gemini-3.7-flash", "gemini-3.6-flash", "gemini-3.5-flash"]   # each list is a fallback chain:
+judge_models = ["gemini-3.8-flash", "gemini-3.7-flash", "gemini-3.6-flash", "gemini-3.5-flash", "gemini-3.5-flash-lite"]  # a model out of
+# free quota for the day is skipped and the next one is used (outreach/llm.py generate)
 
 [providers.gemini]
 env = "GEMINI_API_KEY"

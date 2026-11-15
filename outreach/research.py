@@ -22,6 +22,8 @@ from __future__ import annotations
 
 import json
 import re
+import urllib.parse
+import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import Any
 
@@ -146,13 +148,37 @@ def _prompt(name: str) -> str:
     return (PROMPTS / f"{name}.md").read_text(encoding="utf-8")
 
 
-def gather_evidence(lead: dict, model: str) -> tuple[dict, list[dict]]:
-    """Grounded search for company and pay evidence. Returns (evidence, numbered sources)."""
+def gather_evidence(lead: dict, models: dict[str, str | None]) -> tuple[dict, list[dict]]:
+    """Company and pay evidence with numbered sources. Returns (evidence, sources).
+
+    Google Search grounding is free only on the 2.5 models, and Google no longer offers Gemini 2.5 Flash to new
+    keys (2026-11). So: grounded search when a grounding model is available; otherwise the evidence is fetched
+    here (the company's own site and Google News) and a model only reads it. Either way every fact must come
+    with one of the numbered source URLs, which `check` enforces."""
+    global _GROUNDING_OFF
+    if models.get("research") and not _GROUNDING_OFF:
+        try:
+            return _grounded_evidence(lead, models["research"])
+        except llm.LlmUnavailable as exc:
+            if "spend cap" in str(exc):
+                raise
+            _GROUNDING_OFF = True  # grounding models out of quota today: fetched evidence instead
+        except llm.LlmError as exc:
+            if not re.search(r"HTTP (400|403|404)|no longer available|not supported|not enabled|not available", str(exc), re.I):
+                raise
+            _GROUNDING_OFF = True  # this key cannot ground; use fetched evidence for the rest of the run
+    return _fetched_evidence(lead, models.get("reader") or models["judge"])
+
+
+_GROUNDING_OFF = False
+
+
+def _grounded_evidence(lead: dict, model: str) -> tuple[dict, list[dict]]:
     ask = _prompt("evidence").format(
         company=lead.get("company"), title=lead.get("title"), location=lead.get("location") or "India",
         website=lead.get("company_url") or lead.get("company_domain") or "unknown",
         linkedin=lead.get("company_linkedin") or "unknown", today=today())
-    reply = llm.generate(ask, model=model, search=True, temperature=0.2, max_tokens=3000)
+    reply = llm.generate(ask, model=model, search=True, temperature=0.2, max_tokens=8000)
     try:
         evidence = reply.json()
     except (llm.LlmError, json.JSONDecodeError):
@@ -164,6 +190,72 @@ def gather_evidence(lead: dict, model: str) -> tuple[dict, list[dict]]:
             seen.add(url)
             sources.append({"id": f"S{len(sources) + 1}", "title": source.get("title", ""), "url": url})
     return evidence, sources[:15]
+
+
+def company_site(lead: dict) -> str:
+    url = (lead.get("company_url") or "").strip()
+    if not url and lead.get("company_domain"):
+        url = f"https://{lead['company_domain']}"
+    if not re.match(r"https?://[^\s/]+\.[^\s]+$", url) or re.search(r"linkedin\.com|wellfound\.com|naukri\.com", url):
+        return ""
+    return url
+
+
+def news(company: str, limit: int = 6) -> list[dict]:
+    """Recent Google News items for the company (free RSS, no key): title, date, publisher, link."""
+    name = re.sub(r"\s*\(.*?\)|\b(pvt|private|ltd|limited|inc|technologies|india)\b\.?", "", company, flags=re.I).strip(" .,-")
+    if len(name) < 3:
+        return []
+    query = urllib.parse.quote(f'"{name}" when:180d')
+    try:
+        root = ET.fromstring(http_get(f"https://news.google.com/rss/search?q={query}&hl=en-IN&gl=IN&ceid=IN:en",
+                                      retries=1, timeout=20))
+    except (HttpError, ET.ParseError):
+        return []
+    items = []
+    for item in root.iter("item"):
+        title, link = (item.findtext("title") or "").strip(), (item.findtext("link") or "").strip()
+        if not title or not link.startswith("http"):
+            continue
+        if not re.search(rf"\b{re.escape(name)}\b", title, re.I):
+            continue  # a headline that does not name this employer is about someone else
+        source = item.find("source")
+        items.append({"title": title, "link": link, "date": (item.findtext("pubDate") or "")[5:16],
+                      "publisher": (source.text or "") if source is not None else ""})
+        if len(items) >= limit:
+            break
+    return items
+
+
+def _fetched_evidence(lead: dict, model: str) -> tuple[dict, list[dict]]:
+    sources: list[dict] = []
+    material: list[str] = []
+    site = company_site(lead)
+    if site:
+        try:
+            text = clip(re.sub(r"\n{2,}", "\n", strip_html(http_get(site, retries=1, timeout=20).decode("utf-8", "replace"))), 3500)
+            if len(text) > 200:
+                sources.append({"id": "S1", "title": f"{lead.get('company')} website", "url": site})
+                material.append(f"[S1] {site}\n{text}")
+        except HttpError:
+            pass
+    for item in news(lead.get("company") or ""):
+        sid = f"S{len(sources) + 1}"
+        sources.append({"id": sid, "title": item["title"], "url": item["link"]})
+        material.append(f"[{sid}] {item['date']} {item['publisher']}: {item['title']}")
+    if lead.get("company_note"):
+        material.append(f"[board note, from the job board itself] {lead['company_note']}")
+    if not material:
+        return {"notes": "no company website or news found"}, []
+    ask = _prompt("evidence_fetched").format(
+        company=lead.get("company"), title=lead.get("title"), today=today(), material="\n\n".join(material)[:9000])
+    reply = llm.generate(ask, model=model, json_mode=True, temperature=0.1, max_tokens=6000)
+    try:
+        evidence = reply.json()
+    except (llm.LlmError, json.JSONDecodeError):
+        evidence = {"notes": clip(reply.text, 2500)}
+    evidence["evidence_mode"] = "fetched (website + Google News; no web search)"
+    return evidence, sources
 
 
 # ---- checks ------------------------------------------------------------------------------------
@@ -232,7 +324,7 @@ def research_one(lead: dict, models: dict[str, str]) -> dict[str, Any]:
     posting, url = posting_text(lead)
     if not posting and lead.get("type") != "company":
         return {"skip": url}
-    evidence, sources = gather_evidence(lead, models["research"])
+    evidence, sources = gather_evidence(lead, models)
     numbered = "\n".join(f"[{s['id']}] {s['title']} {s['url']}" for s in sources) or "(no web sources returned)"
     lead_view = {k: lead.get(k) for k in ("company", "title", "location", "type", "source", "company_url", "company_note",
                                          "posted_at", "exp_min", "exp_max", "stretch", "tier")}
@@ -247,7 +339,7 @@ def research_one(lead: dict, models: dict[str, str]) -> dict[str, Any]:
     for attempt in range(2):
         prompt = ask if attempt == 0 else ask + "\n\nYour previous answer broke these rules; fix them and answer again:\n- " \
             + "\n- ".join(problems) + "\nPrevious answer:\n" + json.dumps(payload, ensure_ascii=False)
-        reply = llm.generate(prompt, model=models["judge"], json_mode=True, temperature=0.2, max_tokens=3000)
+        reply = llm.generate(prompt, model=models["judge"], json_mode=True, temperature=0.2, max_tokens=8000)
         try:
             payload = reply.json()
         except (llm.LlmError, json.JSONDecodeError) as exc:
@@ -268,8 +360,18 @@ def research_one(lead: dict, models: dict[str, str]) -> dict[str, Any]:
 
 def pick_models() -> dict[str, str]:
     cfg = load_config("settings").get("llm", {})
-    return {"research": llm.pick(cfg.get("research_models", ["gemini-2.5-flash"])),
-            "judge": llm.pick(cfg.get("judge_models", ["gemini-2.5-flash"]))}
+    try:
+        grounding = llm.chain(cfg.get("research_models", ["gemini-2.5-flash"]))
+    except llm.LlmUnavailable:
+        grounding = None  # no free grounding model for this key: evidence is fetched instead
+    judge = llm.chain(cfg.get("judge_models", ["gemini-3.8-flash"]))
+    try:
+        reader = llm.chain(cfg.get("reader_models", [])) if cfg.get("reader_models") else []
+    except llm.LlmUnavailable:
+        reader = []
+    reader = reader + [m for m in judge if m not in reader]
+    # the reader only extracts facts from fetched pages; a lighter model has its own daily quota
+    return {"research": grounding, "judge": judge, "reader": reader}
 
 
 def queue(limit: int) -> list[dict]:
@@ -333,7 +435,8 @@ def run(limit: int = 25, ids: list[str] | None = None) -> dict[str, Any]:
         else:
             payload = outcome["payload"]
             extra = {"sources": outcome["sources"], "matched_facts": payload.get("matched_facts", []),
-                     "review": "pending", "model": models["judge"], "evidence_model": models["research"]}
+                     "review": "pending", "model": llm.first(models["judge"]),
+                     "evidence_model": (outcome.get("evidence") or {}).get("evidence_mode") or llm.first(models["research"])}
             try:
                 result = record(lead["id"], payload, by="research-worker", extra=extra)
             except ValueError as exc:
@@ -360,12 +463,19 @@ def compare(ids: list[str]) -> list[dict]:
                   "headline": (lead.get("research") or {}).get("headline"), "pay": (lead.get("pay") or {}).get("fit")}
         copy = json.loads(json.dumps(lead))
         copy["jd"] = lead.get("jd")
-        outcome = research_one(copy, models)
+        try:
+            outcome = research_one(copy, models)
+        except llm.LlmUnavailable as exc:
+            rows.append({"id": lead["id"], "stopped": str(exc)[:300]})
+            break
+        except (llm.LlmError, HttpError, ValueError) as exc:
+            outcome = {"skip": f"error: {exc}"[:300]}
         payload = outcome.get("payload") or {}
         rows.append({"id": lead["id"], "company": lead["company"], "title": lead["title"], "claude": before,
                      "worker": {"decision": payload.get("decision"), "score": payload.get("research_score"),
                                 "headline": payload.get("headline"), "pay": payload.get("pay"),
                                 "reject_reason": payload.get("reject_reason"), "hook": payload.get("hook"),
                                 "hook_source": payload.get("hook_source"), "skip": outcome.get("skip"),
-                                "closed": outcome.get("closed")}})
+                                "closed": outcome.get("closed"), "sources": len(outcome.get("sources") or []),
+                                "evidence_mode": (outcome.get("evidence") or {}).get("evidence_mode", "grounded search")}})
     return rows

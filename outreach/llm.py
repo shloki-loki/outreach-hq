@@ -8,9 +8,9 @@ Key: GEMINI_API_KEY (Shlok creates it at aistudio.google.com and adds it as a Gi
 free tier: Google may use free-tier prompts to improve its products. Prompts carry public job postings and
 the facts in config/profile.toml, nothing else (no emails, no inbox, no keys).
 
-Spend is counted in the store's quotas per day (settings.toml [providers.gemini] and
-[providers.gemini_search]) so a run never goes past what is configured, and a 429 that says the daily
-quota is used stops the run cleanly instead of retrying.
+The free tier costs nothing, so the limit is Google's own: a 429 that says the daily quota is used stops
+the run cleanly instead of retrying, and the next scheduled run picks up where it stopped. (The
+[providers.gemini*] numbers in settings.toml are not enforced here.)
 """
 
 from __future__ import annotations
@@ -122,15 +122,105 @@ def pick(preferences: list[str]) -> str:
     raise LlmUnavailable(f"none of {preferences} is available to this key")
 
 
+def chain(preferences: list[str]) -> list[str]:
+    """Every preferred model this key can use, in order: when one runs out of free quota, the next is used."""
+    names = available_models()
+    out: list[str] = []
+    for wanted in preferences:
+        if wanted in names:
+            found = [wanted]
+        else:
+            found = sorted(n for n in names if n.startswith(wanted) and "preview" not in n and "exp" not in n)[:1]
+        out += [n for n in found if n not in out]
+    if not out:
+        raise LlmUnavailable(f"none of {preferences} is available to this key")
+    return out
+
+
+def first(models: str | list[str] | None) -> str:
+    return (models[0] if models else "") if isinstance(models, list) else (models or "")
+
+
+_SPENT: dict[str, str] = {}   # model -> why it is skipped for the rest of this process (daily quota, retired)
 _last_call = 0.0
 
 
-def generate(prompt: str, *, system: str = "", model: str, search: bool = False, json_mode: bool = False,
+def generate(prompt: str, *, system: str = "", model: str | list[str], search: bool = False, json_mode: bool = False,
              temperature: float = 0.3, max_tokens: int = 4096) -> Reply:
+    """One call on the first model in `model` that still has free quota today; falls through the list."""
+    names = [model] if isinstance(model, str) else list(model)
+    last: Exception | None = None
+    for name in names:
+        if name in _SPENT:
+            continue
+        try:
+            return _generate_one(prompt, system=system, model=name, search=search, json_mode=json_mode,
+                                 temperature=temperature, max_tokens=max_tokens)
+        except LlmUnavailable as exc:
+            if not key():
+                raise
+            _SPENT[name] = str(exc)
+            last = exc
+        except LlmError as exc:
+            if re.search(r"HTTP 404|no longer available", str(exc)) and len(names) > 1:
+                _SPENT[name] = str(exc)
+                last = exc
+                continue
+            raise
+    if isinstance(last, LlmError) and len(names) == 1:
+        raise last
+    raise LlmUnavailable("free quota used for today on " + ", ".join(names)
+                         + (f" (last: {str(last)[:200]})" if last else ""))
+
+
+def _meter(model: str, usage: dict, search: bool) -> None:
+    """Count what this call would cost on the paid tier. With [llm] paid = true, a daily cap applies."""
+    cfg = load_config("settings").get("llm", {})
+    prices = cfg.get("prices_usd_per_million", {}).get(model) or cfg.get("prices_usd_per_million", {}).get("default", [0.75, 3.75])
+    out_tokens = int(usage.get("candidatesTokenCount", 0)) + int(usage.get("thoughtsTokenCount", 0))
+    usd = int(usage.get("promptTokenCount", 0)) / 1e6 * prices[0] + out_tokens / 1e6 * prices[1]
+    global _spent_usd
+    _spent_usd += usd
+    if not cfg.get("paid"):
+        return
+    from . import store
+    from .util import today
+
+    def change() -> None:
+        quotas = store.load("quotas")
+        bucket = f"gemini_usd:{today()}"
+        quotas["usage"][bucket] = round(float(quotas["usage"].get(bucket, 0)) + usd, 4)
+        store.save("quotas", quotas)
+    store.transact(change, "quotas: gemini spend")
+
+
+_spent_usd = 0.0   # this process, priced as if paid (shown in run logs)
+
+
+def _check_cap() -> None:
+    cfg = load_config("settings").get("llm", {})
+    if not cfg.get("paid"):
+        return
+    from . import store
+    from .util import today
+    used = float(store.load("quotas")["usage"].get(f"gemini_usd:{today()}", 0))
+    if used >= float(cfg.get("daily_cap_usd", 2)):
+        raise LlmUnavailable(f"Gemini daily spend cap reached (${used:.2f} of ${cfg.get('daily_cap_usd')})")
+
+
+def _quota_note(detail: str) -> str:
+    value = re.search(r'"quotaValue":\s*"?(\d+)', detail)
+    metric = re.search(r'"quotaId":\s*"([^"]+)"', detail)
+    return f" [limit {value.group(1) if value else '?'}: {metric.group(1) if metric else 'unknown quota'}]"
+
+
+def _generate_one(prompt: str, *, system: str = "", model: str, search: bool = False, json_mode: bool = False,
+                  temperature: float = 0.3, max_tokens: int = 4096) -> Reply:
     """One call. Paced to stay under the free per-minute limit; retries a per-minute 429 once."""
     global _last_call
     if not key():
         raise LlmUnavailable("GEMINI_API_KEY is not set")
+    _check_cap()
     pace = float(load_config("settings").get("llm", {}).get("seconds_between_calls", 7))
     wait = _last_call + pace - time.time()
     if wait > 0:
@@ -155,7 +245,7 @@ def generate(prompt: str, *, system: str = "", model: str, search: bool = False,
             detail = exc.read()[:1500].decode("utf-8", "replace")
             if exc.code == 429:
                 if re.search(r"PerDay|per day|daily", detail, re.I) or attempt == 2:
-                    raise LlmUnavailable(f"Gemini free quota used for today ({model})") from None
+                    raise LlmUnavailable(f"Gemini free quota used for today ({model}){_quota_note(detail)}") from None
                 delay = re.search(r'"retryDelay":\s*"(\d+)s"', detail)
                 time.sleep(min(int(delay.group(1)) + 2 if delay else 30, 90))
                 continue
@@ -167,6 +257,7 @@ def generate(prompt: str, *, system: str = "", model: str, search: bool = False,
             if attempt == 2:
                 raise LlmError(f"Gemini unreachable: {exc}") from None
             time.sleep(15)
+    _meter(model, data.get("usageMetadata") or {}, search)
     candidates = data.get("candidates") or []
     if not candidates:
         raise LlmError(f"Gemini returned no candidate: {json.dumps(data.get('promptFeedback', {}))[:300]}")
@@ -199,3 +290,17 @@ def resolve(url: str) -> str:
     except Exception:  # noqa: BLE001 - an unresolved link is dropped by the caller
         pass
     return url
+
+
+def check_models(prefixes: tuple[str, ...] = ("gemini-3", "gemini-2.5", "gemma-3")) -> list[dict]:
+    """One tiny call per usable model: says which work today and, for a 429, which free limit was hit."""
+    rows = []
+    for name in [n for n in available_models() if n.startswith(prefixes) and "preview" not in n and "exp" not in n
+                 and not re.search(r"image|tts|audio|live|embedding", n)]:
+        try:
+            reply = _generate_one("Answer with the single word OK.", model=name, temperature=0, max_tokens=2000)
+            rows.append({"model": name, "ok": True, "said": reply.text.strip()[:20]})
+        except (LlmUnavailable, LlmError) as exc:
+            rows.append({"model": name, "ok": False, "why": str(exc)[:300]})
+    return rows
+

@@ -961,7 +961,7 @@
    "key": "swiggy|associate program manager strategic product initiatives|bengaluru",
    "type": "job",
    "company": "Swiggy (Instamart)",
-   "company_domain": "",
+   "company_domain": "swiggy.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Public (NSE/BSE)",
@@ -1032,10 +1032,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/preetham-ks-55216956",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "preetham.ks@swiggy.com",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first.last), not verified",
+     "confidence": 35,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -1064,9 +1064,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 2 (2026-11-01) as R30"
+    },
+    {
+     "at": "2026-11-15T22:05:04+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Preetham KS: preetham.ks@swiggy.com (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-15T22:05:04+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "unknown",

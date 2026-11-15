@@ -161221,15 +161221,15 @@
    "key": "amazon|sr program manager rbs speg automations|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.jobs",
+   "company_url": "https://amazon.jobs",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Sr. Program Manager, RBS SPEG Automations",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4455904782",
    "source_url": "https://in.linkedin.com/jobs/view/sr-program-manager-rbs-speg-automations-at-amazon-4455904782",
@@ -161260,8 +161260,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 45,
+    "total": 57,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -161271,15 +161271,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sr. Program Manager at Amazon asks 5+ yrs and an MBA, exceeding your 1.3 yrs and lacking a Master's degree.",
+    "fit_notes": "The posting asks for \"5+ years of working cross functionally with tech and non-tech teams experience\" and a \"Master's degree, or MBA in business, operations... related field\". Shlok has ~1.3 years of experience and no MBA. While his facts like [sop] and [ceo-coo] show cross-functional program management, the experience gap and hard degree preference make this a strict misfit.",
+    "pay_notes": "Pay is not stated in the posting, and no specific compensation data for this role was found in the search evidence.",
+    "culture_notes": "Company quality is high (Amazon), but specific work culture ratings and reviews were not found in the evidence.",
+    "hook": "Amazon announced it will invest $48 billion in India by 2030, scaling its operations significantly.",
+    "hook_source": "https://in.linkedin.com/jobs/view/sr-program-manager-rbs-speg-automations-at-amazon-4455904782",
+    "researched_at": "2026-11-16T02:50:15+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUJReUY4aWVzV1dsSmNsdDlBQ29HTTBlZEFTaFRGSmlPX0FnOWZwZTdwTHRBNmY0bV9kYWRKU0hVaDdTOFdDcFF6Ty1SVEZUMFdDWUJqNjFQcnMyTk1vR2QyM3lvZXk3RXlqVzhpR2NFZXFkY1NYcnNnOVJyYlU1dlJnaVI?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement - Federal Trade Commission (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLXJVZEYtT0JDUmdPeUZxdjlXaHZSQzZFbGFraVRFeVIyYXRFLXN4bzhnZUUtZl9ZdXJlUERrOEY0eXFMZnNvSno2aVpPZTN1SlJDTUtqYUJka3BKV2JubFBuajloYU15b2VPWUlEUmNzX3RGX1NEVE9QQTlNRmRUbWRUbjQtU1o3MHE2amZfdDlJRmhNLTdMRm5DT09SSzFYNjNqYWpSWnVXU09Yc3BPLWlTVzVnMzhaOG12T2xZQUtxd2twNjRZNHlWNTc4OWFnSDlnMlJVWUc?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -161303,14 +161341,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-16T02:50:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 57: rejected (The role asks for 5+ years of experience and a Master's/MBA, whereas Shlok has ~1.3 years of experience and no MBA.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-16T02:50:15+05:30",
    "research_attempt": {
     "at": "2026-11-15T21:34:52+05:30",
     "why": "error: Gemini unreachable: The read operation timed out",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 5+ years of experience and a Master's/MBA, whereas Shlok has ~1.3 years of experience and no MBA."
   },
   {
    "id": "L1373",

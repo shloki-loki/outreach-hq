@@ -1581,7 +1581,7 @@
    "key": "univest|growth and operations associate|india",
    "type": "job",
    "company": "Univest",
-   "company_domain": "",
+   "company_domain": "univest.net",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Series A, $10M (Dec 2024)",
@@ -1652,10 +1652,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/sakshi-aggarwal-aab333208",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "sakshi.aggarwal@univest.net",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first.last), not verified",
+     "confidence": 35,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -1684,9 +1684,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 1 (2026-10-28) as R02"
+    },
+    {
+     "at": "2026-11-16T02:59:03+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Sakshi Aggarwal: sakshi.aggarwal@univest.net (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-16T02:59:03+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",

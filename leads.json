@@ -29435,7 +29435,7 @@
    "key": "shortloop|founder s office gtm and partnerships|bengaluru",
    "type": "job",
    "company": "ShortLoop",
-   "company_domain": "",
+   "company_domain": "shortloop.dev",
    "company_url": "https://shortloop.dev/",
    "company_linkedin": "https://www.linkedin.com/company/shortloop/",
    "company_note": "YC Winter 2023 · team of 8 · Phone AI that Captures Every Dealership Revenue Opportunity",
@@ -29443,7 +29443,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, KA, IN",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "shortloop:120266",
    "source_url": "https://www.ycombinator.com/companies/shortloop/jobs/auaDPwt-founder-s-office-gtm-partnerships",
@@ -29474,8 +29474,8 @@
    },
    "score": {
     "rules": 70,
-    "research": null,
-    "total": 70,
+    "research": 65,
+    "total": 67,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -29484,15 +29484,37 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office GTM role at YC W23 startup ShortLoop asks 3+ yrs; stretch fit for 1.3 yrs exp, but sales leadership at Alcheringa maps.",
+    "fit_notes": "The posting asks for 3+ years experience to drive GTM & Partnerships for an AI phone agent platform serving US auto dealerships. Shlok has 1.3 years of experience, making 3+ years a stretch fit. While his primary experience at Ola Electric is in operations [sop] [ceo-coo], his leadership running sales and curation at Alcheringa [alcheringa] and technical product background [idekho] demonstrate relevant drive, though US B2B SaaS GTM experience is missing.",
+    "pay_notes": "Pay is not stated in the job posting or evidence. Needs clarification during outreach.",
+    "culture_notes": "YC Winter 2023 company with a small team of ~8 employees. No glassdoor or public review data found.",
+    "hook": "ShortLoop handles thousands of calls weekly for U.S. dealerships integrated directly with tools like CDK, Reynolds, Tekion, and VinSolutions.",
+    "hook_source": "https://www.ycombinator.com/companies/shortloop/jobs/auaDPwt-founder-s-office-gtm-partnerships",
+    "researched_at": "2026-11-15T21:54:09+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "ShortLoop website",
+      "url": "https://shortloop.dev/"
+     },
+     {
+      "id": "S2",
+      "title": "Shortloop Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTlBJdHBSQmlSSEprZTVFRnpuaDY3NkVoUExBRklGaTNhamMtQ3RHcFR1WWtvanpkVGRyUXdJd2Y3Q1VNWWtMOFlDTEtUMTN3a2NwcHRCMU83Mk9sc05uLVdhX2dCODd1?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "alcheringa",
+     "ceo-coo",
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -29556,14 +29578,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 70"
+    },
+    {
+     "at": "2026-11-15T21:54:09+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T21:54:09+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0274",

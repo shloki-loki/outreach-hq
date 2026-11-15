@@ -14961,15 +14961,15 @@
    "key": "airbound|strategy and operations associate|india",
    "type": "job",
    "company": "Airbound",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "airbound.co",
+   "company_url": "https://airbound.co",
    "company_linkedin": "https://in.linkedin.com/company/airbound-co",
    "company_note": "",
    "title": "Strategy & Operations Associate",
    "tier": "1 - Strategy & Ops",
    "location": "Hoskote, Karnataka, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4482093165",
    "source_url": "https://in.linkedin.com/jobs/view/strategy-operations-associate-at-airbound-4482093165",
@@ -14985,7 +14985,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "About Airbound\n Our mission is to make a world where everyone has access to delivery. Where goods move as freely as information moves today.\n This is possible. Today the cost of moving on a scooter is ₹2/km. That’s the cost of moving a 150kg mass from point A to B. We’re bringing that mass down to less than 5kgs, concurrently bringing the cost down to 10 paise/km. This is how we make deliveries a reality. This is how we create a world where we’re doing billions of deliveries per day.\nThe tech is not there. The current cost of drone delivery is ₹100/km. We need to completely redefine the way things are done here. We’re building the world’s most efficient aircraft from the ground-up, and scaling that up to beyond anything the aerospace sector has ever seen. This cannot be an iterative process. We have to tear down all conventions and build everything up from scratch.\nTo do this, we need nothing less than the best engineers. The ones who care about building something fundamentally different, who are deeply curious about understanding the fundamentals of everything they’re working on, who are dreamers that believe in the impossible.\n About Operations\n Operations run Airbound's fleet and makes sure every flight is safe, on time and cost-effective. At our stage it is a strategic pillar, not a support function: it drives growth and shapes what we build. The team owns launch-site selection and setup, flight planning, fleet utilisation and client onboarding. We monitor weather, collate flight data and mine historical patterns for predictive analytics, and we write the SOPs that keep the network safe. We also own the big-ticket problems, such as cost optimization and pricing strategy. Operations is the glue that holds Airbound together. We work with engineering to turn growth ambitions into a detailed operations roadmap that directly informs product design and engineering priorities. We decide with data, not instinct. We form hypotheses, then prove or disprove them with flight logs, delivery times and cost metrics. We are process-obsessed and biased toward fast execution, always asking how we can deliver better, faster and cheaper.\n About The Role\n The Strategy & Operations Associate works directly with the Chief of Staff and the Head of Operations on high-impact projects across the Ops team. A core part of the role is building operational and financial models that project costs under different scenarios and inform how we price our delivery services. The role is full-time and on-site (no remote work), with substantial room to grow within the company.\nKey Responsibilities\n Financial modelling and pricing: Build and maintain Excel models that forecast operational costs (airframe, motor and servo life, maintenance, manpower) under different growth scenarios, and use them to guide pricing and resource allocation\n Operations roadmap: Work with R&D, Manufacturing and Software to turn growth plans into an operations roadmap, with clear problem statements, constra",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -15000,8 +15000,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 85,
+    "total": 77,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -15011,15 +15011,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Strategy & Operations Associate at Airbound, recently raised $37M, asks 1-2 yrs; your Ola logistics and S&OP work maps directly.",
+    "fit_notes": "The posting asks for \"1–2 years at a management consulting firm, an investment bank... or in strategy/operations at a deep-tech startup\" and \"Proven financial modelling and advanced Excel skills\". Shlok has 1.3 years of experience in S&OP planning, financial and operational modelling, and fulfilment operations at Ola Electric ([sop], [ceo-coo]), which directly answers the core requirements. An MBA is explicitly not required (\"An MBA is not required\"), fitting Shlok's profile.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures are provided in the available evidence. At 1.3 years of experience, achieving the Rs 24.5 LPA fixed threshold is a narrow target and will need verification during initial discussions, though the company recently raised a $37 million funding round in August 2026 ([S1]).",
+    "culture_notes": "Airbound recently raised $37 million on 24/25 Aug 2026 to expand its autonomous aircraft and drone delivery business ([S1], [S3]). No specific employee ratings or culture flags were found in the available evidence.",
+    "hook": "Noticed Airbound recently raised $37 million to scale its drone delivery network, and with my experience owning end-to-end fulfilment operations and S&OP planning at Ola Electric, I'd love to help drive your operational roadmap.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGlFakJmZFJ0dmtxOVJELVNzSkJYMUlpZ1JHVFRfMDVBUmFpTXVvZERCUjJ6MlhGUnBZd1Nzb0M1OXNZYWprTEZoSU50QjViNWtZWGlXem9oUDV2Q1g5WU5XOXZ6NGNZWUZPOHdZRV8zSEx0OHhPeHRSX21sY29Hc3RJSHZSRG1IQjJ2Qi13U0MzTmYxaWxRc0xDZjYzREF4SlJJ?oc=5",
+    "researched_at": "2026-11-15T22:01:50+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGlFakJmZFJ0dmtxOVJELVNzSkJYMUlpZ1JHVFRfMDVBUmFpTXVvZERCUjJ6MlhGUnBZd1Nzb0M1OXNZYWprTEZoSU50QjViNWtZWGlXem9oUDV2Q1g5WU5XOXZ6NGNZWUZPOHdZRV8zSEx0OHhPeHRSX21sY29Hc3RJSHZSRG1IQjJ2Qi13U0MzTmYxaWxRc0xDZjYzREF4SlJJ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Drone startup Airbound raises $37 million to take quick commerce to the skies, and eventually move people - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNWlVZE90T0wtNjVJWFZZcW1RdHEyWktuSTNRdDdyTm5JNl9nN3p0dXB4d3NwYjBHTlFGbFhCbXlsT2RldWRoWHhUdUFCZzd4cXZwN2xzZXJkZVBNaXkxR0d0VGl3V29helo3NkNCMmd5OXJoNWlZTDcxWUZWNkl3X05vNk1WYlJPZmQtV3l6TUxOZDY3OXRsam5aR194R0w4SVhoZG5WOExnSzM2U3JtelNPajdicGpfcG1LS2FwN3BHTFhkeG4zREpQbXBsQTBTM3d3Vmo0RVJjTWNESmp2cGNSWDU3SUd3Y293THRuYVNvQXdZbGN4VUVkakHSAYICQVVfeXFMTjZCUEpHeTdkWUdmZ04yVEExQTNXMElaNl9abnpuYnNoUUxmOC1WYXBrWjE1ZmwxVjczVkhmMHBzV2E5RWJfVnUwNFVaQUJkOFRROGdPSmtoWDFoS3psTlZWbnUtc0NzV2pOdnJBdk5MZ1FnZ01fUjV6NlFIRFFQZ0ZLdUhfcHJsM1hwMEVNWFUzd2hBY0d6STEyMm9OZTUwZklqLVhpNUMtSHhxamFFR0ltOWFjVUpIRHp4VjZGeEg4cXpPcktCTVJ3bHZBbFc1dG9HTVdVbzFNdnFkem52MWVHdG5MMGhNQWwwZGRtT1VadzhOeGJLWEo5YTc5VTR5RHVB?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Aerospace startup Airbound raises $37 mn to expand autonomous aircraft biz - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmZqLW9LSmt5YjRxdzJ5TWY0eFJFdFYxWVgzbmZVbEl1MHhieEpQSlk3QzdUa0lGeG5CTG9lUk5jS0NUSlJmNXB6SmUzS3RGUy1aMTg3MldWZm5KenlKLV9MZmZJaElzVjBlcWQ1cm51el9UYjRVeVI2UVNQVnBMbGJJUTVZdWhuNU9VbWd2ekE5TnZ5UlRmazF0SDJTSWZwMUhTMkk4aUh5X29hZGRmbkdPdGxqNUduNFhVZEcxR1VXMy1lYkpLUGZsVl_SAdIBQVVfeXFMTjViTzQ3WVM4UGRSQi0xX2U4Y1loV2VqSFJQNHB1SzA4czBzeUxjengwSllUeE5GRTd2OFhJZHljczN5TDlxcUlaR2xHeVBhdG9JRnB6VFB5Snl1dm9rQnJDeEcwUDFranNDWjRZSXp3MEw2dUlmODFLdkVGVnkwZHRsMDZzcWRZRldzU2lOQThFa2NaTWwyRmVHYWNfYXo3cE1nZnNvZ2ZydXY3SHJMSWd4VGJENUNNcFEtdU1PNUpuTV9mNy1ndW1aT3dla3JtTkFR?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "India's Airbound raises $37M to make drone delivery as cheap as trucking - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRm5DMlVvd0d6QW14WjFSVFQxNUJuOEdQbG5lR2J2SXNGcEZJVTU1ZlJsamFBWW5qR2ZHTUpVV0gtOXpYVXQ3c3FqV3BvRnJZWXFJSkh0MFlDVFRJZDlRLXVrc3ppZkZYd2xlRjBJVFJNTXlhSlpxWnlaNWZMNWN0OWEyR2h1SzFNRGxpYWxsQXZWT2ZSRDF0d0V6RlAyNzlfaGpjM2pvako?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Airbound raises $37 million to take drone delivery one delivery commercial - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbkdtNk5iLUgzUUxMV1pVWU9HVndjUXZDTENySk1LTGpKQTdnMVRtcFZVNDJEbmVicHF5a3NmR1FzRkZnY2lXWDFYTERfbGphSmp5WDJKNHZxVmY4bG01cEhVQ25NM0lQdS16WkJ1WTI1WWNVYmNOeWM2VmJibDZnblRCQXNNSXotTlRseWJ0bjhpYURISU1qQ1BDaURhQ1I0TTZKQ3VQcjJLQ0gycXVkOG5uUHlxay0yU1o0aTlmOFljcnloMUJLM0JFUC1KQXhSOVpyQ3NqdHNPTWpuTmlj0gHmAUFVX3lxTE9WMFJQOEJhSnNzX0RWaWtIWTlGUlI1bnRGXzRTTjBlSEtSVkdaTWFzdXpkVFBXQVNPdkltQkFKbU44R3kyaG5fVTdFZG1rMUtNS1podkxib0c2VDA1c3lEcmF4ckR6MlBpRWtYbkh2WWlWUmtIbkZSTlRtc3Q1U0p5VV96bXRSN3dkUi1fZlpadnpLYkRIMWNyeXR2TGhsSThWeU92eWNRTVBOTVpuTmJwb29kT0F3OHgtVEVnbG1pMl9Xb2VqZE9ySTdrR1g0RGRIczNBZlprWXh3YVNGdlpNeGhVRHlB?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Bengaluru-based aerospace company Airbound, Andhra Pradesh sign drone delivery pact - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUldCS0ZQcjVrUnpXNkoySlZHaUpVcFpkV1pEMU0xUE12YnB0QnNLcTVkdDNiUmtjbWowQnNBWTQ3VVFfNEVRZ25vTUdzMXlsalpGZkV5U3Y4b2daZGpDTmpqNmVlNkwxaURJbUhzeDJPNEh6Sm9nRDVTeUJiSWhnTkViVU5HSTJOZ3BROHNXVUw1WmZycVRsbmkwd0hPTDF2UHo2QVdmVGlmbjFHMmgyWGw2U245LVNpWXV5N1A1VS1OWFRGaVVVSWNGY1ZqZjFlTkU1ZnhEZmE4eF9kSzRlYVotVdIB8AFBVV95cUxPX0JYQkxxY0JQbGtsOTlNbFE5QzZNMVNrNWd0MkJlUUFFWUo2d2ZNeXZHaVdONGJJSjFnZDFveUYtdjJMWUJBZVBkUUtscExlRHZHanpJZVo1cVZGR2RZWTlFUEpRSkFzbWVnRnR6a3RLS09yemlSU2MzLTF5amZTWmEzcmhVTGRWWWlod1c3SDBQWWt2b1R2bVdiZEJBRzBWbVZPeU5oWW51M3ZMamQ0OG5WWHlMUzladFZsWU9nUm9HeHQ3Mk9hdjYzemVQVEdUVWpGRmZib2cwd1ZnVE1XSmxzWGQ5ckp0VzN3UHY2SmY?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "msl",
+     "o2d"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -15043,14 +15086,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-15T22:01:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 77: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T22:01:50+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0126",

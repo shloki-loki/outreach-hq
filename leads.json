@@ -7543,15 +7543,15 @@
    "key": "glance|senior product manager glance tv gtm|bengaluru",
    "type": "job",
    "company": "Glance",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "glance.com",
+   "company_url": "https://glance.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Senior Product Manager - Glance TV - GTM",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "greenhouse",
    "source_id": "glance:8337703",
    "source_url": "https://job-boards.greenhouse.io/glance/jobs/8337703",
@@ -7582,8 +7582,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -7595,15 +7595,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior/Group PM role at Glance in Bangalore; targets senior PM leaders far beyond your 1.3 years of experience.",
+    "fit_notes": "The posting seeks a 'Senior Product Manager / Group Product Manager — GTM, TV' to end-to-end own TV OEM/operator integrations and strategic partnerships across global markets. GPM and Senior PM roles at tier-1 product companies require 5-8+ years of core product management experience. Candidate has 1.3 years total experience in S&OP at Ola Electric ([sop], [ceo-coo]) and an intern API project ([idekho]), making this a major seniority mismatch.",
+    "pay_notes": "Pay not stated in the posting. No verified salary data found in fetched search results for this specific role.",
+    "culture_notes": "Glance is operated by Glance InMobi Pte. Ltd. No specific culture ratings or employee review flags were found in the fetched evidence.",
+    "hook": "InMobi plans to integrate Glance with Siri AI to enable personalized shopping experiences across screens.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdEZjdzRuSWlEUnFDdEUwOE1RYjlMT3B6Z2FoZ1JlQk1JcUNZUmJDQTdMV0VQZVI0c1ZZcUVlUHc0UTBxRWNsa0xXaTZqQzY3MDI3U2F3dW5oeF93WG02bWhNeGZBUDVvRzg1Nkt1ejRoWlR1WlVpS09lVUlidDcteUpqYTVDZ09YOUxQYko5S0lyanZDamtBa1pLR3R2c0xhZ0FRVmNZUUdNanZ6RUJUYWprSEFQV2tLc1JqYUxvUjhVQldzaW9WNlQ3RUdJMlkzNE9BUnkyTkZ3Q3dDTUlGYVU2U3lJMHE1bkR6Rk4ycTVtRTJNanBIRWZSb9IBgAJBVV95cUxNRGJBdDE2NFBjWXVLUVZFRk13b1RfR0FkYmZUMjlvTG5HT3ZIbjllMWtlTTNJcHJvS2hOcDhJMlByNGxqcWR6MFBHMFlmaUhJN1ZKOXRDZnFSRHZhZFN1bGhYR05tcl9RazJVNVVieGR6SlhVVVJzbkFTVU1RSmNzTENMdkhfUksxZFhkbmxTVmlIYjhIaHl0RnBlazlJeVFVNmFqd3pxY0hXUVVsREhjTGpBeFhUVXlkSktxZ0V2cXRaU2tqM3VUYVQtQUx5UmdFZWI5OE8yaXphQzdQbFI1bWlkSG94bmhmTE9qQkE4ZDNNdjEzWkxMRVZvV09DYklU?oc=5",
+    "researched_at": "2026-11-15T21:59:01+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Commodities at a Glance: Palm oil trade at a crossroads | - UN Trade and Development (UNCTAD)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0wxNDA5Q0FaTW00TkdhRXM0YUM1WFYzLWw4bHktQzZLb2J0UU41el93SlhOWk84aGNBOWxFeTdGWDJ4SUNobFVqanVGQm5KS0FLVHl3ODV4cFlrOUhYNkZoRDdGRUFtVXF0VFpoSTZuTEhrbmxBTXJBYmN2MzVhZg?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "InMobi to integrate Glance with Siri AI to enable personalised shopping experiences - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdEZjdzRuSWlEUnFDdEUwOE1RYjlMT3B6Z2FoZ1JlQk1JcUNZUmJDQTdMV0VQZVI0c1ZZcUVlUHc0UTBxRWNsa0xXaTZqQzY3MDI3U2F3dW5oeF93WG02bWhNeGZBUDVvRzg1Nkt1ejRoWlR1WlVpS09lVUlidDcteUpqYTVDZ09YOUxQYko5S0lyanZDamtBa1pLR3R2c0xhZ0FRVmNZUUdNanZ6RUJUYWprSEFQV2tLc1JqYUxvUjhVQldzaW9WNlQ3RUdJMlkzNE9BUnkyTkZ3Q3dDTUlGYVU2U3lJMHE1bkR6Rk4ycTVtRTJNanBIRWZSb9IBgAJBVV95cUxNRGJBdDE2NFBjWXVLUVZFRk13b1RfR0FkYmZUMjlvTG5HT3ZIbjllMWtlTTNJcHJvS2hOcDhJMlByNGxqcWR6MFBHMFlmaUhJN1ZKOXRDZnFSRHZhZFN1bGhYR05tcl9RazJVNVVieGR6SlhVVVJzbkFTVU1RSmNzTENMdkhfUksxZFhkbmxTVmlIYjhIaHl0RnBlazlJeVFVNmFqd3pxY0hXUVVsREhjTGpBeFhUVXlkSktxZ0V2cXRaU2tqM3VUYVQtQUx5UmdFZWI5OE8yaXphQzdQbFI1bWlkSG94bmhmTE9qQkE4ZDNNdjEzWkxMRVZvV09DYklU?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Poultry & Eggs - Sector at a Glance - USDA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0hKRVZXMGRfN1BNdmlNbnltQnA0NklaZEZaZENtNmxab2dzNmk0OVprOVVlRUxERVMxSldhOEtpc1lkLUZUS01tSFY0MkVQSHF5V1UwckZlVDRjRERockhTUzljVDdiOG5uSHJSeDNjczl0eGxQV1hYZWV2Z2FIRk1UcE8?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Tajikistan at a glance | FAO in Tajikistan | The Food and Agriculture Organization of the United Nations - Food and Agriculture Organization",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81QkNXM28wMTlmNVZXUmtNUkM0a1BYQjA5M0FDendHRGhTS0Q5U3ZpWTJzT0h1STQzNzBwM3dMRHIxRGpBNjVRY0RiMW5PWkdlZVF3amlZOE01VjBIeVlCdHBVZTgzX2M?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "ILO PROSPECTS: Results at a glance - International Labour Organization",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RR09oU2pDdm0yT3pqTVNiUGZiMmpMdWswUWE4WDk3VkpFT05HNkNxLTBBcUh5RXlPV2VsdTJEUDZORHZRQzNKNVlYMHFNRmJzdkt0c3ExQ0NQajZNSXBjZGpra0I3dTdmbFpLc0xoX29iVTQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "West and Central Africa: Latest Events at a glance (15-21 September 2026) - ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWpHQ2VDamV5WjZ5bGpIcGVuQW5GLW5FNjcwb1JiWXVZZ0pLbHlxTV9tTDFvS1h3ZWFOeWdoZFB4eGUyQjJuYms5c0hDSjJEY2kzZG5zbTBLTjJ2d09LQjgtMVY4T29lUDR3d1hRV1ZNOHBFMjdlazhzZTQzbzJhdktLLUtsS1BQVmRYeTctOEJ5R0hpMWg3ZXN5LTZuSFZfX0I5R253?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -7627,14 +7667,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "greenhouse: rule score 66"
+    },
+    {
+     "at": "2026-11-15T21:59:01+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (Role title is Senior Product Manager / Group Product Manager (GTM, TV), which requires far more than 4 years of experience and product management seniority that exceeds candidate's 1.3 years in S&OP.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T21:59:01+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role title is Senior Product Manager / Group Product Manager (GTM, TV), which requires far more than 4 years of experience and product management seniority that exceeds candidate's 1.3 years in S&OP."
   },
   {
    "id": "L0061",

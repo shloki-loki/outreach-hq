@@ -13898,6 +13898,11 @@
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
+   },
+   "research_attempt": {
+    "at": "2026-11-15T22:00:40+05:30",
+    "why": "model answer failed the checks: an estimated pay must name a site that the evidence reported pay from",
+    "by": "research-worker"
    }
   },
   {

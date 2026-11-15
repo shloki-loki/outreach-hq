@@ -1565,6 +1565,15 @@
    "title": "Diagnosis: Work items W0006-W0008 left in working after the work shipped",
    "detail": "Cause: the Claude session that shipped PR 4 and PR 6 closed W0004/W0005 but never marked W0006-W0008 done, so their claims expired. Remedy (not done by a scheduled run, which may not change work state): in the next interactive session mark W0006, W0007 and W0008 done with evidence PR 4 (dd7409c) and PR 6 (b4831bb); W0008's last part (research the 275 unresearched leads) can be split into a new research item if wanted. supervisor/check should then pass.",
    "ref": "I0014"
+  },
+  {
+   "id": "J0175",
+   "at": "2026-11-15T20:24:14+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Data checks 15 Nov: nothing stuck, 2 fresh drafts, duplicates are separate cities",
+   "detail": "At 20:10 IST, message list --full: 16 messages; 11 sent, 1 replied (M0013), 3 skipped, 2 drafts (M0015 Shipsy L0488 and M0016 Unicommerce L0908, founder_reoutreach, drafted 13:10 today, verified addresses, sourced hooks). 0 sending, 0 failed, 0 approved waiting. Bounces 0 of 11. Follow-ups due 0. Qualified leads 59, only 1 without people and it is under 2 days old. Two apparent duplicates are separate postings in different cities: NVIDIA Senior TPM L1375 Bengaluru / L1379 Hyderabad, Thrillophilia Category Manager L1386 Bangalore / L1393 Gurugram. No address drafted twice.",
+   "ref": ""
   }
  ]
 }

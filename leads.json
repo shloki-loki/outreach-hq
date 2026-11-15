@@ -18185,15 +18185,15 @@
    "key": "renesaselectronics|program manager evaluation board programs|bengaluru",
    "type": "job",
    "company": "Renesas Electronics",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "renesas.com",
+   "company_url": "https://www.renesas.com",
    "company_linkedin": "https://jp.linkedin.com/company/renesas",
    "company_note": "",
    "title": "Program Manager, Evaluation Board Programs",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4462131883",
    "source_url": "https://in.linkedin.com/jobs/view/program-manager-evaluation-board-programs-at-renesas-electronics-4462131883",
@@ -18209,7 +18209,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12",
    "open": true,
-   "jd": "",
+   "jd": "Renesas is one of the top global semiconductor companies in the world. We strive to develop a safer, healthier, greener, and smarter world, and our goal is to make every endpoint intelligent by offering product solutions in the automotive, industrial, infrastructure and IoT markets. Our robust product portfolio includes world-leading MCUs, SoCs, Analog and Power products, plus winning combination solutions that curate these complementary products. We are a key supplier to the world’s leading manufacturers of electronics you rely on every day; you may not see our products, but they are all around you. \nRenesas employs roughly 21,000 people in more than 30 countries worldwide. As a global team, our employees actively embody the Renesas Culture, our guiding principles based on five key elements: Transparent, Agile, Global, Innovative, and Entrepreneurial. Renesas believes in, and has a commitment to, diversity and inclusion, with initiatives and a leadership team dedicated to its resources and values. At Renesas, we want to build a sustainable future where technology helps make our lives easier. Join us and build your future by being part of what’s next in electronics and the world. \n Job Description\n The High Performance Compute (HPC) organization is seeking a detailed oriented Program Manager to lead and coordinate the global Evaluation Board (EVB) program portfolio supporting Renesas R-Car SoC products. This role is responsible for managing global demand, allocation, shipment, compliance, and operational execution of Evaluation Boards used by customers, partners, and internal engineering teams. \n Key Responsibilities \n • Own worldwide evaluation board demand forecasting, allocation, and inventory planning by balancing customer demand with inventory exposure and product lifecycle risks. \n• Coordinate board supply, inventory, manufacturing and shipment activities. \n• Coordinate post-delivery events such as repair, modification, and replacement. \n• Support worldwide shipment execution and logistics tracking. \n• Support compliance with export control, customs, and trade regulations. \n• Support payment, invoicing, budgeting, and financial planning activities. \n• Manage executive escalations for strategic and high-priority board requests. \n• Produce regular executive status reports covering demand, supply, inventory, risks, and actions. \n• Coordinate globally across engineering, operations, logistics, finance, sales, and compliance teams. \n• Drive inventory strategies to minimize excess/obsolete inventory (ie: board revisions, component changes, SoC updates, or product transitions) \n• Coordinate build quantities and manufacturing releases to support customer requirements while maintaining lean inventory with minimal financial risk \n Required Qualifications \n • Bachelor's degree in Engineering, Business, Supply Chain, Operations, or related discipline. \n• 12+ years of program management, operations, supply chain, or customer program management experienc",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -18224,8 +18224,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -18235,15 +18235,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Program Manager at Renesas Electronics, asks 12+ years experience; you have 1.3 years.",
+    "fit_notes": "The posting asks for a 'Bachelor's degree in Engineering, Business, Supply Chain, Operations, or related discipline' and '12+ years of program management, operations, supply chain, or customer program management experience'. Shlok has a B.Tech in EEE from IIT Guwahati and ~1.3 years of experience, which does not meet the 12+ years requirement. While his work in S&OP and inventory planning ([sop], [ceo-coo]) maps to the domain, the experience gap is insurmountable.",
+    "pay_notes": "Pay not stated in posting.",
+    "culture_notes": "Renesas Electronics employs roughly 21,000 people globally and emphasizes a culture based on five key elements: Transparent, Agile, Global, Innovative, and Entrepreneurial (TAGIE). No ratings or reviews were found in the evidence.",
+    "hook": "Renesas Electronics recently launched new GaN chips on October 8, 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzg1NHJxblE0UncwV3o4STNIUllheDRZUmsyb09LV2NsX19sSUJRNTZXdUhhVUZGc284MWtjYnhQY2daY1hGaXRQNGNUU0Zma1RDd3VaZDBPSTUwek55QWpLLVhZcGhOcHk4ZnFBdlhEbXBBQWtGclNXZU5ZNkNMb2dwSkZKQy1zUUNSRVdfM2pFWjQwUFh4bkRhdVlYV1Y1dnlTdQ?oc=5",
+    "researched_at": "2026-11-16T02:57:15+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Renesas Electronics Corporation (6723.T) stock price, news, quote and history - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzZjIxZWhLa0dzQ2M2eUpJZ2JqUUZaSEx5QTA3OGl6dS1ULXNnTTM5MFZudFM4bHNCaG5pd0RBdG5PYVpxSkZhQjc5MjJJVG80OWxRWg?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Renesas Electronics (TSE:6723) Stock Looks Like A Bargain On Sales But Mixed On Value - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXREallSRDdOZTYtRDFHM1NZMzFPWldhV1JYVzlxcmRaai1iTWtsQXNTRTBMTmYyMnJIUmQ1Ml9MV2Z0S2ptNG5Bb2xzVDY3dVpVczN2STB3YkV1N2M5RjhLME93bnc1d2JERlNQSXNuOWdqY2ZMZG9ob1daNjktUFR5cS1DOXJ0TmE5U2ZCQlBJRmE2UTZYVUxUZXJzR1hN?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Renesas Electronics (TSE:6723) Launches New GaN Chips On A Valuation Debate - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzg1NHJxblE0UncwV3o4STNIUllheDRZUmsyb09LV2NsX19sSUJRNTZXdUhhVUZGc284MWtjYnhQY2daY1hGaXRQNGNUU0Zma1RDd3VaZDBPSTUwek55QWpLLVhZcGhOcHk4ZnFBdlhEbXBBQWtGclNXZU5ZNkNMb2dwSkZKQy1zUUNSRVdfM2pFWjQwUFh4bkRhdVlYV1Y1dnlTdQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Is Renesas Electronics (TSE:6723) Overvalued After Strong 1-Year Gains And Recent Share Price Pullback - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2pIR1c0WTFiSEVHV2t5VVF6eUloclExa0FJNDVwWWQ2TnhYVFV6VEdFOVJuZkVVc0ZOLTVkVEtzTk1XZURjRjN5VkFDeGpOVHR6Y0ptQ1k3T1NrZVJVMzdOSGV4cDk2SmZNcmV5MnhfWkhPMGtkQVhjMHBwV2J4WUVGYUhscnRIT3dpTjd2cFhUUnVWaHFtajEzZldJdzFOZzczdnpJZw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Renesas Electronics (TSE:6723) Stock Price Lags Powerful Q3 Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmZiRXIxOGRrLWRVWU9BSnNIVzdwbm54WHJ0czhwbTBzQUZNS2NZeVB0cGl6U3YxME4wajhTRzZQQTh4ajRialVxUXFZRHRmTTF6QVhMTld3bzg1M1BwYW5JLWc3R2F2SUZkci1lTU8yclEteElRRE51V25Ra1BsTGdHdnV2RU51cVM5TUtnMmlOVzN2UG9mSThPU2x0WUpQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "What Renesas Electronics Buyers Were Betting On - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON09EZVZEN2FNcUhocVRmRTFCS1VLY0ZXTE8wM1dUNTJSSUF6cERiZXh5dUE3N000LTdBV1VCaWJlN0ZrVFVuZDVIX250RUZPOHVHZUp4RjYtSHhlOWt1ekktTGNyYmVaS0FCcVVFdTZWSDJvMlJaMFFrM1lkZENYTkI1U1FnTW4xcm9mMWdMNG0xX3NTUUd1WkRuUlQ2UjJRa3ZKNmw4MjZmM001d1V0MExUcHpXTmk3bloxcnlFcjBfUnEzRnAwQzZhU09GeDJy0gHWAUFVX3lxTE1NOVhxS3lMT0xYeDdYbUFXSHZPb3RkaU1oSV9oaFlqSGpfN2p4QjB6MVJtcmQzbWI4TkVvbGw2ZXpiaUU0UnBhN3dJeUx5Q3dGa1NqTExTRVhOV3R4M3lJbUttQ2RmWEhwM29FUXhkUW1JOUhyRHJsLUpvbjQwWWRpckNKT3FDV0xvMkFXbm1pbUFTbGJ4TUhKUDJHN0ltWXR2ZUhYSHNTNXZLXzE2bUZsTmpvX2VWNnJWNGRNZFI1ZU9TSFR5Q3BqOFpYQXVOcENLZGZGYlE?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -18267,14 +18308,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T02:57:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The posting requires 12+ years of experience, far exceeding Shlok's ~1.3 years, making this an immediate reject.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:57:15+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting requires 12+ years of experience, far exceeding Shlok's ~1.3 years, making this an immediate reject."
   },
   {
    "id": "L0152",

@@ -24603,15 +24603,15 @@
    "key": "srkp|chief of staff to md|bengaluru",
    "type": "job",
    "company": "SRKP Group",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "srkpgroup.com",
+   "company_url": "https://www.srkpgroup.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Chief of Staff To MD",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "434378",
    "source_url": "https://www.instahyre.com/job-434378-chief-of-staff-to-md-at-srkp-group-bangalore/",
@@ -24642,8 +24642,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 45,
+    "total": 56,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -24652,15 +24652,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff at SRKP Group, asks 3-6 yrs and Big 4 consulting; your 1.3 yrs and lack of consulting block it.",
+    "fit_notes": "The posting asks for '3-6 years of experience in Management Consulting, Founder's Office, Strategy, Business Operations, or Chief of Staff roles' and states 'Need only ex big 4s/ or Big 4 candidates who worked with Promoters/MDs/CXO etc'. Shlok has about 1.3 years of experience and no consulting background. While he worked directly with the CEO and COO at Ola Electric ([ceo-coo]) and owned S&OP planning ([sop]), he fails both the hard experience minimum and the explicit consulting/Big 4 requirement.",
+    "pay_notes": "Pay is not stated in the posting, and no external salary evidence was found for SRKP Group.",
+    "culture_notes": "No Glassdoor ratings or employee reviews were found in the posting or search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T02:51:47+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -24684,9 +24694,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-16T02:51:47+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 56: rejected (The posting strictly asks for 3-6 years of experience (he has 1.3 years, making it a severe stretch) and explicitly requires 'ex big 4s/ or Big 4 candidates who worked with Promoters/MDs/CXO etc' which he lacks.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:51:47+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -24696,7 +24712,8 @@
     "at": "2026-11-15T01:49:21+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting strictly asks for 3-6 years of experience (he has 1.3 years, making it a severe stretch) and explicitly requires 'ex big 4s/ or Big 4 candidates who worked with Promoters/MDs/CXO etc' which he lacks."
   },
   {
    "id": "L0217",

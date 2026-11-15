@@ -836,7 +836,7 @@
    "key": "flipkart|assistant manager central|abroad",
    "type": "job",
    "company": "Flipkart (Flipkart Minutes)",
-   "company_domain": "",
+   "company_domain": "flipkart.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Established - n/a (Walmart-majority-owned)",
@@ -907,10 +907,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/indranil-barman-2195ib",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "indranil.barman@flipkart.com",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first.last), not verified",
+     "confidence": 35,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -939,9 +939,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 2 (2026-11-01) as R29"
+    },
+    {
+     "at": "2026-11-15T22:04:37+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Indranil Barman: indranil.barman@flipkart.com (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-15T22:04:37+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",

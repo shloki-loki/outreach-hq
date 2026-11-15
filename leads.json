@@ -18854,15 +18854,15 @@
    "key": "tescobengaluru|technical programme manager cch tagetik or other epm or saas platform|bengaluru",
    "type": "job",
    "company": "Tesco Bengaluru",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "tesco.com",
+   "company_url": "https://www.tesco.com",
    "company_linkedin": "https://in.linkedin.com/company/tesco-bengaluru",
    "company_note": "",
    "title": "Technical Programme Manager-CCH Tagetik or other EPM or SaaS Platform",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4486965402",
    "source_url": "https://in.linkedin.com/jobs/view/technical-programme-manager-cch-tagetik-or-other-epm-or-saas-platform-at-tesco-bengaluru-4486965402",
@@ -18878,7 +18878,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
    "open": true,
-   "jd": "",
+   "jd": "Technical Programme Manager \n About the role \n As Technical Programme Manager for the Tagetik EPM SaaS platform, you will lead the controlled scaling, adoption and operational maturity of the platform across Finance. You will coordinate Product, Engineering, Finance, Security, Data, FP&A Teams and 3rd Party vendors to deliver new capabilities, onboard business areas, manage upgrades and integrations, and ensure the platform remains resilient, supportable and aligned with enterprise architecture and control requirements.\n You will be responsible for \n While responsibilities will evolve with business needs, the core accountabilities include:\n - Lead the end-to-end programme to scale the Tagetik EPM SaaS platform across Finance, managing multiple business and technical dependencies.- \n - Create and manage an integrated roadmap and delivery plan covering new capabilities, business onboarding, integrations, upgrades and platform improvements.\n - Partner with Product, Engineering, Finance FP&A, Data, Security and Architecture teams to translate business priorities into executable delivery plans.\n - Understand technical architecture, data flows and integrations to identify dependencies and assess impacts on delivery, performance and platform scalability.\n - Manage programme risks, issues, dependencies and decisions, ensuring timely escalation and resolution.\n - Coordinate Tagetik releases, upgrades, testing and production readiness, minimising disruption to critical Finance processes.\n - Drive platform resilience, scalability, supportability and operational maturity as adoption and usage increase.\n - Understand delivery trade-offs and influence Product, Engineering and Finance stakeholders to achieve the best business and technical outcomes.\n - Partner with Procurement to manage CCH Tagetik and third-party supplier engagements, supporting commercial negotiations & contract management\n - Build an effective partnership with CCH Tagetik and other third-party providers, holding suppliers accountable for delivery, service quality and improvement actions.\n - Collaborate with Product and Engineering teams on capacity, resource, licensing and annual budget requirements needed to support platform growth.\n - Establish clear governance, reporting and stakeholder communication across the programme.\n - Contribute actively to the TPM community and share good practices in SaaS/platform delivery.\n You will need \n An ideal candidate will demonstrate the following experience and skills:\n Essential\n - Proven experience delivering and scaling complex enterprise SaaS, EPM, ERP or Finance technology programmes across multiple business areas.\n - Experience with CCH Tagetik or other EPM platforms, with knowledge of FP&A, forecasting, planning and financial reporting advantageous.\n - Strong programme, stakeholder, risk, dependency and governance management experience.\n - Ability to understand technical architecture, integrations and data flows, translating them into delivery pl",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -18893,8 +18893,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -18904,15 +18904,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Technical Programme Manager for Tagetik EPM at Tesco Bengaluru, but asks mid-senior SaaS delivery experience.",
+    "fit_notes": "The posting asks for 'Mid-Senior level' and 'Proven experience delivering and scaling complex enterprise SaaS, EPM, ERP or Finance technology programmes', which exceeds his 1.3 years of experience. While he has SAP implementation experience ([mrp]), this role requires senior enterprise finance platform delivery that does not map to his core S&OP execution profile.",
+    "pay_notes": "Pay is not stated in the posting, and no credible salary evidence was found for this specific program manager band at Tesco Bengaluru.",
+    "culture_notes": "Tesco Bengaluru is a well-known GCC with generally stable corporate culture, but specific ratings for this tech program team were not found in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T02:58:17+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -18936,14 +18945,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T02:58:17+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires mid-senior level enterprise SaaS/EPM delivery experience which exceeds his 1.3 years, and pay is unstated.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:58:17+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires mid-senior level enterprise SaaS/EPM delivery experience which exceeds his 1.3 years, and pay is unstated."
   },
   {
    "id": "L0157",

@@ -18967,15 +18967,15 @@
    "key": "tescobengaluru|technical programme manager tagetik saas platform|bengaluru",
    "type": "job",
    "company": "Tesco Bengaluru",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "tesco.com",
+   "company_url": "https://www.tesco.com",
    "company_linkedin": "https://in.linkedin.com/company/tesco-bengaluru",
    "company_note": "",
    "title": "Technical Programme Manager Tagetik SaaS Platform",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4486959793",
    "source_url": "https://in.linkedin.com/jobs/view/technical-programme-manager-tagetik-saas-platform-at-tesco-bengaluru-4486959793",
@@ -18991,7 +18991,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
    "open": true,
-   "jd": "",
+   "jd": "About the role\n As Technical Programme Manager for the Tagetik EPM SaaS platform, you will lead the controlled scaling, adoption and operational maturity of the platform across Finance. You will coordinate Product, Engineering, Finance, Security, Data, FP&A Teams and 3rd Party vendors to deliver new capabilities, onboard business areas, manage upgrades and integrations, and ensure the platform remains resilient, supportable and aligned with enterprise architecture and control requirements.\n You will be responsible for\n - Lead the end-to-end programme to scale the Tagetik EPM SaaS platform across Finance, managing multiple business and technical dependencies.- - Create and manage an integrated roadmap and delivery plan covering new capabilities, business onboarding, integrations, upgrades and platform improvements.- Partner with Product, Engineering, Finance FP&A, Data, Security and Architecture teams to translate business priorities into executable delivery plans.- Understand technical architecture, data flows and integrations to identify dependencies and assess impacts on delivery, performance and platform scalability.- Manage programme risks, issues, dependencies and decisions, ensuring timely escalation and resolution.- Coordinate Tagetik releases, upgrades, testing and production readiness, minimising disruption to critical Finance processes.- Drive platform resilience, scalability, supportability and operational maturity as adoption and usage increase.- Understand delivery trade-offs and influence Product, Engineering and Finance stakeholders to achieve the best business and technical outcomes.- Partner with Procurement to manage CCH Tagetik and third-party supplier engagements, supporting commercial negotiations & contract management- Build an effective partnership with CCH Tagetik and other third-party providers, holding suppliers accountable for delivery, service quality and improvement actions.- Collaborate with Product and Engineering teams on capacity, resource, licensing and annual budget requirements needed to support platform growth.- Establish clear governance, reporting and stakeholder communication across the programme.- Contribute actively to the TPM community and share good practices in SaaS/platform delivery.\n You will need\n - Proven experience delivering and scaling complex enterprise SaaS, EPM, ERP or Finance technology programmes across multiple business areas.- Experience with CCH Tagetik or other EPM platforms, with knowledge of FP&A, forecasting, planning and financial reporting advantageous.- Strong programme, stakeholder, risk, dependency and governance management experience.- Ability to understand technical architecture, integrations and data flows, translating them into delivery plans and managing associated risks and dependencies.- Experience working across Product, Engineering, Finance, Data, Security and Architecture, with strong communication and senior stakeholder influencing skills.- Strong vendor and commercia",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -19006,8 +19006,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 40,
+    "total": 50,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -19017,15 +19017,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Technical Programme Manager at Tesco Bengaluru; requires extensive enterprise SaaS and vendor management experience beyond your 1.3 years.",
+    "fit_notes": "The posting asks for \"Proven experience delivering and scaling complex enterprise SaaS, EPM, ERP or Finance technology programmes across multiple business areas\" and \"Strong vendor and commercial management experience.\" While Shlok has experience with SAP implementation ([mrp]) and S&OP planning ([sop]), this role demands a senior programme management track record and deep commercial/vendor oversight that a candidate with 1.3 years of experience does not possess. The posting does not state an explicit minimum year requirement, but the scope of managing enterprise-wide Tagetik EPM platforms and CCH Tagetik third-party supplier engagements is a senior responsibility.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "Tesco Bengaluru offers a hybrid work model (60% in-office) and a structured benefits framework including wellness, insurance, and retirement plans, but no external review ratings or employee sentiment data were found in the evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T02:58:24+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "mrp",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -19049,14 +19059,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T02:58:24+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (This is a senior-level Technical Programme Manager role requiring extensive enterprise SaaS, vendor, and commercial management experience that far exceeds Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:58:24+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "This is a senior-level Technical Programme Manager role requiring extensive enterprise SaaS, vendor, and commercial management experience that far exceeds Shlok's 1.3 years of experience."
   },
   {
    "id": "L0158",

@@ -1583,6 +1583,15 @@
    "title": "Live check 11:56: 1,048 'could not be checked' is expected",
    "detail": "live-check at 11:56 IST checked 1,348, 297 live, 3 binned, 1,048 unchecked. leads.json live_check states: 983 founder_reoutreach companies plus 38 linkedin_post and 27 yc leads are 'unknown' because they have no posting to check. Not a fault. 163 leads (117 linkedin, 42 instahyre) were added after the run and have no state yet.",
    "ref": ""
+  },
+  {
+   "id": "J0177",
+   "at": "2026-11-15T20:24:21+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Website and data branch agree",
+   "detail": "WebFetch https://outreach-hq-psi.vercel.app/login at 20:15 IST answers with the Outreach HQ password page, no error. git -C data log -40: no interleaved same-second commits from two agents, no repair: commits, no mass deletions. Site writes today: 18:17 outcome L0006 rejected, 18:21 applied L0012. GitHub API timed out once at 20:09 IST (read timeout from this Mac) and worked on retry.",
+   "ref": ""
   }
  ]
 }

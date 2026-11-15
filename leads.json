@@ -18936,15 +18936,15 @@
    "key": "slice|product manager|bengaluru",
    "type": "job",
    "company": "slice",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "sliceit.com",
+   "company_url": "https://sliceit.com",
    "company_linkedin": "https://in.linkedin.com/company/sliceit",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489925428",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-at-slice-4489925428",
@@ -18960,7 +18960,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "About The Team \n Are you excited by the idea of building the invisible engines that power great products? The Platform Product team at slice works on internal systems, tooling, workflows, and scalable infrastructure that enable teams across the company to move faster and build better experiences.\n We solve complex operational and platform problems across customer support, payments, risk, operations, and internal product ecosystems. Think of us as the circuitry behind the neon sign ⚡\n Analytical, systems-driven, deeply collaborative, and relentlessly curious, our team thrives on creating leverage through technology.\n About the role \n We are looking for a Product Manager who is passionate about building impactful products and solving complex customer and business problems. In this role, you will work closely with engineering, design, analytics, business, and other cross-functional teams to define product strategy, drive execution, and deliver scalable solutions.\n If you enjoy identifying opportunities, understanding user needs, solving problems, and building products that create meaningful impact, we would love to meet you.\n What You Will Do \n Understand pain points, workflows, and operational challenges across internal stakeholders including Operations, Support, Risk, Finance, and Business teams.\n Build scalable internal platforms, tooling, and automation systems that improve productivity and operational efficiency.\n Define and prioritize platform roadmaps aligned with business goals and long-term architectural vision.\n Work closely with leadership, engineering, design, analytics, and operations teams to drive platform adoption and execution.\n Identify opportunities to reduce manual effort through workflow optimization, integrations, and intelligent automation.\n Own end-to-end product lifecycle from problem discovery and requirement gathering to launch and iteration.\n Establish metrics to measure platform effectiveness, operational impact, and stakeholder satisfaction.\n Balance short-term operational needs with long-term platform scalability and reliability.\n Drive continuous improvement through fast iterations, experimentation, and stakeholder feedback loops.\n What You Will Need \n 2–4 years of Product Management experience in high startup environments.\n Strong problem-solving mindset with the ability to navigate ambiguous and complex operational challenges.\n Excellent written and verbal communication skills with the ability to work across technical and non-technical stakeholders.\n Experience collaborating closely with engineering, analytics, operations, and design teams.\n Ability to convert fragmented requirements into structured product plans and execution roadmaps.\n Strong understanding of product thinking, prioritization frameworks, and data-driven decision-making.\n Bias for action with an ownership mindset and attention to detail.\n Familiarity with workflow automation, platform ecosystems, APIs, or internal operations systems is a plus.\n Life",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -18975,8 +18975,8 @@
    },
    "score": {
     "rules": 72,
-    "research": null,
-    "total": 72,
+    "research": 52,
+    "total": 60,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -18987,15 +18987,59 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Platform PM at Slice (Bengaluru), asks 2-4 yrs PM exp; your internal ops tooling at Ola and InsuranceDekho PM internship map well, but 2+ yrs PM exp is a stretch.",
+    "fit_notes": "The posting asks for \"2–4 years of Product Management experience in high startup environments\" to build internal platforms and automation systems. Shlok has ~1.3 years total experience, mainly in Strategy & Ops at Ola Electric [sop, ceo-coo, mrp, o2d] plus a Technical Product Intern role at InsuranceDekho [idekho]. While his internal operations and tooling experience aligns closely with Platform PM, asking for 2-4 years of dedicated PM experience makes this role a stretch.",
+    "pay_notes": "Pay is not stated in the job posting and no salary figures for Slice were provided in the evidence.",
+    "culture_notes": "Slice reported profitability in its first full year operating as a bank with revenue jumping 2.3X in FY26 [S3], though its valuation dropped nearly 70% in a late 2026 funding round [S2]. Posted benefits include flexible working hours and medical insurance.",
+    "hook": "Slice reported profitability in its first full year as a bank, with revenue jumping 2.3X in FY26.",
+    "hook_source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHdnMFRKX0gtRGE4RVF5X3h1djFIU3A3aDd5RDhKdTZpYVRvV3dvQnBOZlFRQ2hzWWprVnBTQ2lVTEVCa1EyNWZIRXRQNjNVRE5nYkNaSnJBQ0dMSk9zZVZVeUNTajVaVW5TWTJkUkllS0trdEVTQXp2ZVJxdTFvdkNPVi1pWFpaMFJPQnJFUEJMYk1mU3RIOHl3eVF2QW9OX0F5WlVFamUtb2hiUkNzZEs5MHJYUdIBtgFBVV95cUxNMHdnMFRKX0gtRGE4RVF5X3h1djFIU3A3aDd5RDhKdTZpYVRvV3dvQnBOZlFRQ2hzWWprVnBTQ2lVTEVCa1EyNWZIRXRQNjNVRE5nYkNaSnJBQ0dMSk9zZVZVeUNTajVaVW5TWTJkUkllS0trdEVTQXp2ZVJxdTFvdkNPVi1pWFpaMFJPQnJFUEJMYk1mU3RIOHl3eVF2QW9OX0F5WlVFamUtb2hiUkNzZEs5MHJYUQ?oc=5",
+    "researched_at": "2026-11-15T21:52:55+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Core2Edge : a human glioblastoma organoid–brain slice model capturing infiltration and transcriptional heterogeneity from core to single-cell dispersion - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Uc2VVSkxFNnJWc3gzendtNDI2V2I5T3EweEg3SktkbUh2Q1NEMjRDRU1UNWZ5NFRyRmdhZmJLaUN3ZWRyMDZFTEFoM0pRbDNDVFhfeVBQLVJEbTBJcE5j?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Pop Goes Another Unicorn: Slice’s Valuation Falls Nearly 70% in a $100-Million Round - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUIzLVJ1NTNDZW5tZ0Q2M19RWkJaX0dPUGJyeGV3VDdqVzBQaVZFb0hjeldETGlBQXEyQU9CWHk0Ulh1eGRuZDVsT00yaXdLamItUUJhZDRaRm9oM0FOZE4xVW9jLVM0WEJuMlM3TTVCS2NZb3c4QlMzTHRyS0h4VmVMV3plZVZXeExlZ295akJ0cU1vTzlvZ0ZOLWY0VFc3SXZuNGF6OUZaX281VWxTb085OG9LaVla?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "slice reports profitability in first full year as bank; revenue jumps 2.3X in FY26 - Entrackr",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHdnMFRKX0gtRGE4RVF5X3h1djFIU3A3aDd5RDhKdTZpYVRvV3dvQnBOZlFRQ2hzWWprVnBTQ2lVTEVCa1EyNWZIRXRQNjNVRE5nYkNaSnJBQ0dMSk9zZVZVeUNTajVaVW5TWTJkUkllS0trdEVTQXp2ZVJxdTFvdkNPVi1pWFpaMFJPQnJFUEJMYk1mU3RIOHl3eVF2QW9OX0F5WlVFamUtb2hiUkNzZEs5MHJYUdIBtgFBVV95cUxNMHdnMFRKX0gtRGE4RVF5X3h1djFIU3A3aDd5RDhKdTZpYVRvV3dvQnBOZlFRQ2hzWWprVnBTQ2lVTEVCa1EyNWZIRXRQNjNVRE5nYkNaSnJBQ0dMSk9zZVZVeUNTajVaVW5TWTJkUkllS0trdEVTQXp2ZVJxdTFvdkNPVi1pWFpaMFJPQnJFUEJMYk1mU3RIOHl3eVF2QW9OX0F5WlVFamUtb2hiUkNzZEs5MHJYUQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Restoring a Missing Slice of Sunshine to Indoor Light May Help Prevent Myopia - Research Horizons",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdDlTcUZ6M0E4ZkhtaVNSdV9VcVUybUJVOEllR1pneVgzVDk3Y19iWDFjeGJFYnF0dlhjbWZMc0FwdmtXNTYtYXdFT1pvWGVwcTlaRDE4azdxTEg0b0syOVo2Z1RUd1MtUGJzQ3ZpdlZjdHphdDkybWtyR0xORXJQOFBpUHlSd2NNdWFkTlczd3hUV19SU2VhOGdXdGhvTFVpZWVNZndMQnJVaVJ4VTJiVVRJdTVLaldvbUZoZDV3TQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Hot shot: Ann Li living life one slice at a time in Washington - WTA Tennis",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa29fLWJPMEQ5V0lvS1NkVzl4LWtleGZxRlJsVE1oQWZXa05TT2lKV01BUFk3ZTdvVTdNNXpLZ0x6WWtZV2FhX1Q3RTJOaU1mSmVseUJoOXgzNkw2MXAweFRLX0lzY0Z6eUZmZS1rMDhUemI2YnByNHFOTG11S0dmZkRLRWdCUzYyYmRyeUNHTWNOQWs2dVQwTHhGaFhHaW1pd1NkQQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party? - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54Mk1EZHJhMTJhUy00SHhnLWFzaDljNFpWeXVDalo0eFdkUGtTaGNMUjRIc3BOX291d0JuaExKa1ZpSVRWanFmanlzUnEtdlN3M182and1RVMxRlQzb0VPTGJpSnZ1S196aExWR2ljb3hXMWQxZ1J0ZDQ0VWPSAYIBQVVfeXFMTk9VcnFpTWdQREY1UzVRU0hHUENBWjFPRzlLVkdMcThTczVfMzlXWXA4MXkwRGhaY2loMEVscWI3UnhEc3FUcTFnaUVSeEFlTnkwYlFuUU5YRU1McVhRSDlMRnBBVW9zOHVVMTBSVGNzY1dOZFBsTjIwQUdjbnZPS2pyUQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho",
+     "o2d",
+     "mrp",
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -19019,14 +19063,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 72"
+    },
+    {
+     "at": "2026-11-15T21:52:55+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 60: rejected (score 60 is under 65)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T21:52:55+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "score 60 is under 65"
   },
   {
    "id": "L0170",

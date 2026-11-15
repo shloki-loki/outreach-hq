@@ -38793,13 +38793,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "AmbitionBox TerraTern salaries (12 salaries): Operations Manager Rs 7.2-9.2L",
     "fit": "Unknown"
    },
    "score": {
     "rules": 75,
-    "research": null,
-    "total": 75,
+    "research": 28,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -38809,15 +38809,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "EIR at TerraTern (visa/relocation startup); asks 3-5 yrs, EdTech/immigration preferred; AmbitionBox bands far below Rs 24.5L.",
+    "fit_notes": "LinkedIn posting opened 2026-11-15, open, 113 applicants. Asks 3-5 yrs in startups, consulting, product, growth or business; 0-to-1 building and Excel financial models. Shlok's planning/financial modelling partly maps, but years and domain do not.",
+    "pay_notes": "No figure for EIR; company-wide reported bands are well under the floor.",
+    "culture_notes": "AmbitionBox 4.8-4.9/5 on ~33 reviews.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-15T13:04:53+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -38841,9 +38843,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 75"
+    },
+    {
+     "at": "2026-11-15T13:04:53+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 47: rejected (Asks 3-5 years (stretch) in a small visa-services startup whose reported pay bands are far below the floor.)"
     }
    ],
-   "updated_at": "2026-11-14T13:33:29+05:30",
+   "updated_at": "2026-11-15T13:04:53+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -38853,7 +38861,8 @@
     "at": "2026-11-15T01:47:43+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Asks 3-5 years (stretch) in a small visa-services startup whose reported pay bands are far below the floor."
   },
   {
    "id": "L0359",

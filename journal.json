@@ -1421,6 +1421,15 @@
    "title": "PR 6 merged: Apply today view, cover notes, wider searches",
    "detail": "Merged with his OK on 2026-11-15. Tests pass on main (73). The site gets the Apply today view once Vercel's daily deploy limit resets. Tonight's research runs use the model chain and fetched evidence. 100 a day still needs his budget decision on paid Gemini and Apify people search (HANDOFF 6G).",
    "ref": "b4831bb"
+  },
+  {
+   "id": "J0159",
+   "at": "2026-11-15T13:09:58+05:30",
+   "by": "lead-scout/scrape",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "6894 jobs read, 371 passed rules, 155 new leads",
+   "ref": ""
   }
  ]
 }

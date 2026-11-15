@@ -1376,6 +1376,15 @@
    "title": "Verifier credential exposure needs attention",
    "detail": "Open issue I0010 stored a verifier request URL with credential material. Rotate the Reoon credential, sanitize persistent issue/log records, and redact query credentials in provider errors.",
    "ref": "I0010"
+  },
+  {
+   "id": "J0154",
+   "at": "2026-11-15T13:06:03+05:30",
+   "by": "lead-scout",
+   "kind": "note",
+   "title": "Instahyre postings return 403 to WebFetch and curl",
+   "detail": "L0206 Arrowhead, L0207 Tailored AI, L0213 Dify could not be opened on 2026-11-15, so left unresearched (rule: never qualify on title alone). 72 instahyre leads may need another reader.",
+   "ref": ""
   }
  ]
 }

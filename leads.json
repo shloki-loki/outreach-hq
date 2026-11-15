@@ -170132,7 +170132,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "440975",
    "source_url": "https://www.instahyre.com/job-440975-associate-founders-office-at-marzi-by-primus-bangalore/",
@@ -170163,8 +170163,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 28,
+    "total": 46,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -170173,15 +170173,35 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Marzi asks 5-9 yrs (2-6 yrs in body) for travel BD with a 6-day work week; exceeds your 1.3 yrs exp.",
+    "fit_notes": "Posting requires '5-9 Years' (header) and '2-6 years of experience in business operations, strategy, growth... within consumer-focused companies or high-growth startups' specifically focusing on travel/hospitality partnerships and BD. Shlok has 1.3 years of experience in EV supply chain and manufacturing operations [ceo-coo], lacks consumer travel/marketplace partnership experience, and the role specifies a '6-day work week' and 'Field-heavy role with daily travel'.",
+    "pay_notes": "No pay stated in the listing and no compensation data available for Marzi by Primus.",
+    "culture_notes": "Significant culture red flags: listing explicitly discloses a '6-day work week' and 'Field-heavy role with daily travel'. Glassdoor ratings not found.",
+    "hook": "Marzi by Primus recently onboarded Suniel Shetty as brand ambassador following its $20 million seed round led by General Catalyst and Gruhas.",
+    "hook_source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQncyNTl0cGFEVnlqV2NDVEdIM1hJM0NORkcxSkpWS0xqTGdHNUlmQnV2T25yaF85Sm9xNmNVQUJJdkExMkVKVm9XUTVSWk50LXVJVzgtam4tZllYSFcxaDNKV0NSWTZicVhaLWdQTHFGV3J5eTliNVd2Ulp5Z3FOQU9nSjhpTDJYcFMxUnZMbzVEUm9pdkItclZUTGo?oc=5",
+    "researched_at": "2026-11-15T21:43:51+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Suniel Shetty joins Marzi by Primus as brand ambassador - afaqs!",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQncyNTl0cGFEVnlqV2NDVEdIM1hJM0NORkcxSkpWS0xqTGdHNUlmQnV2T25yaF85Sm9xNmNVQUJJdkExMkVKVm9XUTVSWk50LXVJVzgtam4tZllYSFcxaDNKV0NSWTZicVhaLWdQTHFGV3J5eTliNVd2Ulp5Z3FOQU9nSjhpTDJYcFMxUnZMbzVEUm9pdkItclZUTGo?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Suniel Shetty Turns Brand Ambassador for Marzi by Primus - IMPACT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUJFS1RfdWE3eDRldjN6QkdaRG5sUnlRcjhyYzhBMnJhaE1CQm92VHdnWDM5cUFETzEwQXlnMVFwU0RuWUdpZXE4LWxwenpmS3hZUFEycjZQN1BxaV9tRnh2d1hRYUZKN3JkUENSSWZNeFZObmszb0NWQW9hdm1qdDJocjZCODFQYXZXdVFDcVpJRkVma0s2QTdkLWRBVEtVRUxQbllFYlZiaGY0MDB1ZWpR?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -170205,9 +170225,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-15T21:43:51+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 46: rejected (Posting requires 5-9 years of experience (and 2-6 years in text) for travel partnerships, plus mandates a 6-day work week with daily field travel.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30"
+   "updated_at": "2026-11-15T21:43:51+05:30",
+   "reject_reason": "Posting requires 5-9 years of experience (and 2-6 years in text) for travel partnerships, plus mandates a 6-day work week with daily field travel."
   },
   {
    "id": "L1483",

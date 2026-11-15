@@ -358,6 +358,34 @@
    "thread_parent": null,
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0015",
+   "lead_id": "L0488",
+   "contact_id": "C3",
+   "to": "soham.chokshi@shipsy.io",
+   "to_name": "Soham Chokshi",
+   "kind": "cold",
+   "subject": "shipsy brain, dispatch planning",
+   "body": "Hi Soham,\n\nShipsy Brain going into beta means it'll start acting on live trip and shipment data, and the hard part is usually the planning rules ops teams never wrote down.\n\nAt Ola Electric a scooter took 32 days from order to delivery. I built the algorithm that groups truck dispatches into lots, and it came down to 14.\n\nI don't know if a Founder's Office or strategy hire is on your mind. I could write a one-page note on which dispatch decisions I'd hand to Shipsy Brain first. Want me to send it?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "Shipsy launched Shipsy Brain in beta on 2 Sep 2026, an intelligence layer that acts on live logistics operations",
+   "hook_source": "https://www.maritimeprofessional.com/amp/news/shipsy-launches-logistics-intelligence-layer-422603",
+   "play": "offer",
+   "promise": "One-page note on which dispatch decisions to hand to Shipsy Brain first",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-15T13:10:31+05:30",
+   "created_by": "claude",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": null,
+   "error": null,
+   "reply": null
   }
  ]
 }

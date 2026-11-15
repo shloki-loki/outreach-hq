@@ -54526,9 +54526,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-15T13:10:31+05:30",
+     "actor": "claude",
+     "event": "drafted",
+     "detail": "cold email to Soham Chokshi awaiting approval"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-15T13:10:31+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "unknown",

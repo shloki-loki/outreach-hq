@@ -1520,6 +1520,15 @@
    "title": "Diagnosis: GitHub scheduled workflows run hours late or are dropped",
    "detail": "Cause: GitHub's free scheduled runs are best-effort and are being delayed 6-7 h or dropped (15 Nov: Track and send 1 of 12 slots). Remedy for Shlok to choose: (a) let the Mac's scheduled tasks trigger the key workflows with 'gh workflow run cycle.yml / research.yml' at fixed times, or (b) use a free external cron (e.g. cron-job.org) calling the workflow_dispatch API with a fine-grained token. Until then expect sends, tracking and research to lag by hours.",
    "ref": "I0005"
+  },
+  {
+   "id": "J0170",
+   "at": "2026-11-15T20:22:37+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: reoon verification call failed",
+   "detail": "Cause (most likely): the GitHub secret REOON_API_KEY was pasted with its .env comment; the failing URL carries the key followed by spaces and '# reoon.com email verifier: free daily credits', so Reoon rejects it with 401. The local .env loader strips ' #' comments, GitHub does not. The key was also written in plain text into this issue's detail and log J0139 on the data branch. Remedy: rotate the Reoon key, set the GitHub secret to the bare key only, and change HttpError/provider errors to redact key= and api_key= query values; then clean the stored issue/log text. Shlok must do the rotation and secret.",
+   "ref": "I0010"
   }
  ]
 }

@@ -14025,15 +14025,15 @@
    "key": "varaha|founder s office|india",
    "type": "job",
    "company": "Varaha",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "varaha.climate",
+   "company_url": "https://varaha.climate",
    "company_linkedin": "https://in.linkedin.com/company/varaha-carbontech",
    "company_note": "",
    "title": "Founder's Office",
    "tier": "1 - Strategy & Ops",
    "location": "Gurgaon, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489447570",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-at-varaha-4489447570",
@@ -14049,7 +14049,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "Company Introduction\n Varaha is a global, leading, climate tech venture focused on carbon removal solutions such as - regenerative agriculture, afforestation, biochar, and enhanced rock weathering - that support smallholder land stewards at scale. In just the third year of operation, we are removing and avoiding more than 1 million tons of CO2 and distributing the majority of the revenues to more than 100,000 smallholder land stewards in South Asia and Sub-Saharan Africa. Backed by leading global investors, our founding and management team comes with a stellar track record of successfully scaling projects and products to millions of smallholder land stewards at leading Agriculture and tech businesses.\n Job Title: Founder’s Office\n Location: Gurugram, India\n Experience: 3-8 years (graduates from premier institutes; non-MBA preferred)\n Industry: P&L-led consumer, quick commerce, marketplace or mobility businesses, Strategy, Venture Building\n Function: Strategy, Operations, Partnerships and Growth\n About The Role\n We are looking for a sharp, high-ownership problem solver to join the Founder’s Office and work directly with the founders and leadership team. This is a cross-functional role that sits at the intersection of strategy, operations, partnerships and growth, and is suited to someone who enjoys owning a business problem end to end, from the first analysis to the last mile of execution. You will drive high-priority initiatives across the business: tightening on-ground operations, building and managing strategic partnerships, supporting commercial growth, and putting in place the metrics, playbooks and financial discipline that let us scale. This opportunity is ideal for candidates who have run or closely supported a P&L and bring both structured thinking and a strong bias for execution.\n Key Responsibilities\n Drive Strategic Initiatives: Work directly with the founders on the company’s highest-priority problems; scope them, build the analysis, align stakeholders and own execution through to outcomes.\n Operational Excellence: Diagnose bottlenecks and drive efficiency across our project operations. This includes designing SOPs and playbooks tailored to geography and project type, and tracking their adoption.\n Partnerships & Strategic Alliances: Support the identification, structuring and management of partnerships with implementation partners, corporates and institutions; coordinate day-to-day execution and keep partner commitments on track.\n Growth & Business Development: Support business development across priority sectors and customer segments; build and manage a pipeline, structure commercial proposals and partnership models, and support negotiations through to closure.\n Metrics, Data & Reporting: Build and own dashboards and reviews for operational and commercial KPIs (e.g., farmer count, cost per enrolment, retention, delivery risk, pipeline health), and turn them into clear actions for leadership.\n Financial Analysis & Unit Economics: Buil",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -14064,8 +14064,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 60,
+    "total": 62,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -14075,15 +14075,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Varaha, asks 3-8 yrs in Gurgaon; your S&OP and supply-chain execution map directly.",
+    "fit_notes": "The posting asks for '3-8 years' experience and '2–5 years of experience in a fast-paced, P&L-led business' with preference for operations-heavy startups, and a 'Graduate from a premier institute such as the IITs... Non-MBA candidates are preferred'. Shlok is an IIT Guwahati grad with 1.3 years of experience. His facts [sop], [ceo-coo], and [mrp] map directly to the requirement for operations-heavy execution and supply chain/fulfillment operations. However, the role is based in Gurgaon, Haryana, which violates Shlok's location preference of Bengaluru or remote first.",
+    "pay_notes": "The posting does not state the pay. Evidence mentions Varaha signing a carbon removal deal with GSK [S1], but no salary figures are available.",
+    "culture_notes": "No ratings, review counts, or culture flags found in the research evidence.",
+    "hook": "Noticed GSK signed an 8-year carbon removal deal with Varaha to scale regenerative farming in India, matching your rapid scale.",
+    "hook_source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSk9jcmJvY1lVLXhnWk4tbWFoZ2kzSHRrLVNjTDl4U012ZDhSLV9uM2RfOG5oa0FScUNlMmhWUFRyWWpCYXVZSVM0TkFqYklTcTQ4eXhNSGFqd1hCbmt3RXpFSkh3aDQ4MFpfYmpuSXluVzJzR2ZMekZTVzd1Rng4YUZGUnVJQQ?oc=5",
+    "researched_at": "2026-11-15T22:01:08+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "GSK Signs 600,000-Tonne Carbon Removal Deal with Varaha - ESG Today",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1g1X1JLSU8tV3ZKMnBNYkZCRVBFWmZBLTNuWVhfTkg0Rm9Rd0FYbjNmQmkyUUF6Q1k2UXdhcVVjS0xiQTVxTHdQMjE3dXpBd1poQVJtVUdnR1psYjFFcHJOYklzVnlzeTBkMkFkSVJuWkdlSnVFZGE1dnRSSDhlb1VxenJBcFE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "How Varaha Helps 2 Lakh Farmers Earn Extra Income Through Soil Health - The Better India",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2RmM2RnOWNNZld1bUZ3ekpSekNFWVpZcjVMZzNRWkpudHJPa0lTU3d5VHROQ1BITFU1Q2ZtMGdpX1Foa0xGcThmQk8wQ0RlMGhKTlJPTEZqVVlOaFN0NmNYa24tbWRjRXR0RENQendOTkY1M0FILTR4TzJkNFYtSDR0bzU5T0VGdldKVjlVTmQtdzN4dEo0MVdTTkJuYllCdXFvTFNFZ9IBrAFBVV95cUxPVnl5TDQ4WU0zcjlGSW5pOGhhUmQtSWJBNEFXMExmbk1zVjFvTlpaMWV6dmc4Z2w3QnB2S3I5NDNTNXUxRXd1SWUxMkNMZTFJa2pQZUJKNzlYM0xHT3g0UTBJY2JmMXFLUVRCTDQ5TnF3V0VHeHppOGtqNkdKSXhQMlRkQ1BJckN4OGlfUE9VaG81QW9WRm5ITU5FWkUteWxieFVNcDJWMEd4ZF9y?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "GSK Signs 8-Year Carbon Removal Deal With Varaha to Scale Regenerative Farming in India - CarbonCredits.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSk9jcmJvY1lVLXhnWk4tbWFoZ2kzSHRrLVNjTDl4U012ZDhSLV9uM2RfOG5oa0FScUNlMmhWUFRyWWpCYXVZSVM0TkFqYklTcTQ4eXhNSGFqd1hCbmt3RXpFSkh3aDQ4MFpfYmpuSXluVzJzR2ZMekZTVzd1Rng4YUZGUnVJQQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "GSK Invests In Regenerative Agriculture Carbon Credits From Varaha - Carbon Herald",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFRjSUZLLWgtVGxKRVE4QXVEQllRR1VVQkhaTzhEcFY5WGV4SG9WanpPRUkwODBGVjVtMXowR2I2Qnd0Si1pVUNHTXc3OEVIOHdQMEQyTC1kX0o0TVBNQzNPNEFJNi1KaTNlOWFDMEFQV1hOVmRXT1AtdEpJUjllaWVMeVQyOUNyay13bFNEZldUd1NqTnI0?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Varaha Heritage, Indias Museum-Authenticated Heritage Company, Brings Indias Lost Heritage Home - TheWire.in",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTzZVbzY5LUhKTl9GNHdGckNwT2Q1WUxYYllCcDRmZ2NVeUlGUWF5aWRNRGU4VHN2aHFyZE1NSFhUTE9pU1FOUmpOWTVXOWxjYm96NXdjZHVkUnk2dmgtbFlWOTdxa1VYMDA5S2hzdWdzLUJuWGxVd25NaXBaQ2gyMGJycng3a004Tm5ybmpMenhaSXMzMks2LUpTVUtGSG9sbXJRU3FVTnVtV0ZFVnBFSUZqVHVVbDdOSXh0UER6RVdkWjJTcGZUdUUyakrSAdIBQVVfeXFMTllQOGNFOG01djB0LU8xcmtiaWpIMk5aTDhzMVJkVWJaRnpMSVRjcUs4RDhZYWpjb3RhY01JZkFJVXVhakQ5azNibWxFN19BY2JWVkVBR0ppMEFhS1Z4Mk56UUpSNmFNc3pMWEIwZjctakRKRmtRSzVQdnVmdVFnY0o5Sk0yT2szOWtPX3lUMkFlU3pvcDhoSF9vZkVPZm5VZEZrQVd1Smd0T2hCYlAxS0dJdXhFakYxYVhqZWJFUjJ3bndGRkdpZ3pweDB0dDBicnhB?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Special rituals mark Varaha Jayanti at Tirumala - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2FtVkZ1VEt6SHBTWE55R1FJclZya1hGekRTZ1A3V2hXSzFDdGc3VEYxcjc2VDc0Tk9GeDJlV29abHVTcUZjUGl0VkFFQWc5X2tBZXpEQmoxeVN6MXVyeUZvc19pUHZmX3c2d1NBM3hwYzZTWGJWYnR0VC1lMEluWmt3RndMRVdmcHp6eWhucWRua29KNGJySEYyUFA3TFFwWndqZmg4ZDd4TEJhRTlxU195cjZfcEY4VjVGNWNOYXJ3NnfSAcgBQVVfeXFMT3pOSmpGVUVHemxTU0EzODhJWXZHcHd3VUw0MjhHMzdKOVNZTVFLVGFGSkQ1ektYVzk0bHRCZy1TQ25qblFEVDhJRjdsMEpJRUpXMFZmbUdJSXRBN0tGVmlSb3JHeTdoaHRyak9PaXRQc3AzNlBxSnNWOVc5T1ZhQmU0dzUwemRGTjdPMUNPeTRJaGFab3NSNlg2NkM3MlozNHpydWxJVElJSDdHQjlZSHhKTHhHLUgzc3NuQlJIRnhzdGtMNktGYmI?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -14107,14 +14149,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-15T22:01:08+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 62: rejected (Location is Gurgaon, India (not Bengaluru or remote-first), and the pay is not stated with evidence meeting Shlok's Rs 24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T22:01:08+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Location is Gurgaon, India (not Bengaluru or remote-first), and the pay is not stated with evidence meeting Shlok's Rs 24.5 LPA threshold."
   },
   {
    "id": "L0118",

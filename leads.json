@@ -32568,7 +32568,7 @@
    "key": "businessonbot|product manager|bengaluru",
    "type": "job",
    "company": "BusinessOnBot",
-   "company_domain": "",
+   "company_domain": "businessonbot.com",
    "company_url": "https://www.businessonbot.com/",
    "company_linkedin": "https://www.linkedin.com/company/businessonbot",
    "company_note": "YC Winter 2021 · team of 25 · Automated user acquisition & selling on WhatsApp for businesses",
@@ -32576,7 +32576,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, KA, IN",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "businessonbot:65295",
    "source_url": "https://www.ycombinator.com/companies/businessonbot/jobs/njOWofM-product-manager",
@@ -32607,8 +32607,8 @@
    },
    "score": {
     "rules": 69,
-    "research": null,
-    "total": 69,
+    "research": 65,
+    "total": 67,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -32617,15 +32617,30 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at YC W21 startup BusinessOnBot (25 people) asks 1+ yrs in Bengaluru; pay unstated; your InsuranceDekho PM work [idekho] maps.",
+    "fit_notes": "Posting asks for 1+ years experience to deliver product requirements, collaborate with engineering, and analyze data. Shlok's experience as a Technical Product Intern at InsuranceDekho [idekho] building Flask APIs and tools directly maps to the PM requirements.",
+    "pay_notes": "Pay is not specified in the lead metadata and no verified salary benchmark was found in external evidence.",
+    "culture_notes": "YC W21 startup with 25 employees. Customer testimonials highlight strong support and product efficiency [S1]. No Glassdoor or AmbitionBox ratings found.",
+    "hook": "BusinessOnBot grew 10X in ARR in 2022 and closed its pre-Series A round with Ant Financial.",
+    "hook_source": "https://www.ycombinator.com/companies/businessonbot/jobs/njOWofM-product-manager",
+    "researched_at": "2026-11-15T21:55:39+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "BusinessOnBot website",
+      "url": "https://www.businessonbot.com/"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -32663,14 +32678,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 69"
+    },
+    {
+     "at": "2026-11-15T21:55:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T21:55:39+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0299",

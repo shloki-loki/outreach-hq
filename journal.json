@@ -1367,6 +1367,15 @@
    "title": "Work W0002: release",
    "detail": "Employer LinkedIn posting 4476208163 now redirects to unrelated jobs. Cached description leans toward administration and bookkeeping. Need a live employer posting before preparing personalization.",
    "ref": "W0002"
+  },
+  {
+   "id": "J0153",
+   "at": "2026-11-15T13:02:25+05:30",
+   "by": "codex",
+   "kind": "note",
+   "title": "Verifier credential exposure needs attention",
+   "detail": "Open issue I0010 stored a verifier request URL with credential material. Rotate the Reoon credential, sanitize persistent issue/log records, and redact query credentials in provider errors.",
+   "ref": "I0010"
   }
  ]
 }

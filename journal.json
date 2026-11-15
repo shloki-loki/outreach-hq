@@ -1475,6 +1475,15 @@
    "title": "Run failed",
    "detail": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
    "ref": ""
+  },
+  {
+   "id": "J0165",
+   "at": "2026-11-15T19:31:39+05:30",
+   "by": "claude",
+   "kind": "note",
+   "title": "Budget: stay on free tiers for now",
+   "detail": "Shlok's decision on 2026-11-15. Gemini paid tier stays off ([llm] paid = false) and the Apify cap stays at $3.50 a month. Research and cover notes run at about 20-25 leads a day; he applies from the Apply today list. Revisit only when he asks.",
+   "ref": "PR7"
   }
  ]
 }

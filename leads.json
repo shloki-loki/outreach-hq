@@ -26617,15 +26617,15 @@
    "key": "razorpay|technical program manager|bengaluru",
    "type": "job",
    "company": "Razorpay",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "razorpay.com",
+   "company_url": "https://razorpay.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Technical Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "instahyre",
    "source_id": "335276",
    "source_url": "https://www.instahyre.com/job-335276-technical-program-manager-at-razorpay-bangalore/",
@@ -26656,8 +26656,8 @@
    },
    "score": {
     "rules": 67,
-    "research": null,
-    "total": 67,
+    "research": 42,
+    "total": 52,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -26667,15 +26667,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Technical Program Manager at Razorpay asks 3-5 yrs in tech program management and agile SDLC; your 1.3 yrs is in supply chain ops.",
+    "fit_notes": "The posting requires '3-5 years of experience in a technical project/program management role' and an 'in-depth technical understanding of the agile software development lifecycle' to lead engineering teams. Shlok has 1.3 years in operations and S&OP strategy [sop, ceo-coo] with software exposure limited to a Flask API internship [idekho], leaving a major domain and experience gap.",
+    "pay_notes": "Pay is not mentioned in the posting and no salary evidence for Razorpay TPM roles was provided.",
+    "culture_notes": "Razorpay confidentially filed for a $600M IPO [S2], though reports note market debate around valuation growth [S3]. Overall company tier and culture are solid.",
+    "hook": "Razorpay launched Vulcan, an AI-powered payments foundation model designed to enhance digital transaction reliability and security across India.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNC1DT09OVVdmYkpBRUtfMXp5MTFUZDZMcmd3NTAySkNBakVCeU41OW0tcUpvU2tiYjBkZVhnbVJwM2hxUXZ6N09PTGhNalNZbjU2Q2hET0tVbkhiTTQtM0hJRV9PX01ZeFNUVFl6WG1nZXdBeEJaYzVsS1ZpZjh2VVZqMXY3eU1GSmFaclpUX2Q4ODJBdkQ0QXozR2N2dmhtbjhjbVVvYVh1Z09ZNWwwQlN2bnU3NXg5U1lQaklYWFdlZUU?oc=5",
+    "researched_at": "2026-11-15T21:57:51+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Razorpay launches AI-powered payments foundation model ‘Vulcan’ for more reliable, secure transactions - DD News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNC1DT09OVVdmYkpBRUtfMXp5MTFUZDZMcmd3NTAySkNBakVCeU41OW0tcUpvU2tiYjBkZVhnbVJwM2hxUXZ6N09PTGhNalNZbjU2Q2hET0tVbkhiTTQtM0hJRV9PX01ZeFNUVFl6WG1nZXdBeEJaYzVsS1ZpZjh2VVZqMXY3eU1GSmFaclpUX2Q4ODJBdkQ0QXozR2N2dmhtbjhjbVVvYVh1Z09ZNWwwQlN2bnU3NXg5U1lQaklYWFdlZUU?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "India's Razorpay confidentially files papers for $600 million IPO, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDZEY3JqTEZvNGRqZ2NCMTdEcVdGQkJudUk2UklrR2VuR2JNY1Jzd0ZCSzdkNFEzQ1B5UnRQTHVwdFVFYnQ5RVRBN1RGdTJNb3UyVThpQnl6MnE4NWd3Ti1RMzBNS2dtYXI1RFdpWmdMd1o5NlVpbmtFcjBsci03am9PVllrelZYamoxeC1GRndfOXRvYTFoTG5WQQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Razorpay IPO Storm: Big ₹6,000 Cr Plan Meets Market Doubt Over Growth Re-Rating - NiftyTrader",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1YWJsRV9DcTlMclU1T3lYVUxiUWpDMHhtbHhTNEFzY2ZtSl9vQWVieXVZdGNVa0pjZHhLMEhhRUlCTHJjTU5CNHZTbldSd215ODBESzJ2RFo3Z1ZjWG5ZTHdvZ2F2aGZqbTB1UHpiQlVrV09ETnBORkZR?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Razorpay's $5 billion valuation question - The Morning Context",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV3llOG5tX3kyRi1FZVdEWW95anFaeXdRbHRNa0xMLTRWdjUybE5TWGFlUTBkeTh0bEV6X0QyNkQ0dVc5ZGlNODM3M1l1NV9fckJCT0dVQy1EUWtocldTcFlwZ2R0M0VweF9CUldLUFNIYkRUeWRmUC1JZzA0QUdnZk1jWQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Razorpay launches Vulcan AI foundation model for payments across India - The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmY0VngzTEhzZ3pHNEJvbl9GbXluOUhMNWw1WER4S3hGQ3Z0WXNwQXhucnpGdkNZQmZZTlg4Uk42VFdIdzk4amtPZFYzbmtDZTN4SFk4MEhRX2N2dUdIdkRyLWFBWFVQQkZRa1VjZGc0NDExOElUSXNEaTFGdWV6LVVxZGV4REV5SmxXcXFXM2tDalI2MGtJbDlxdDlNaFBsYUx6SXF3MVRmVjg?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Razorpay Submits Confidential DRHP with SEBI; Public Issue Could Raise Around $600 Million - Groww",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SbHB4M29XbW5ibW5PSDZ2bWY4MzdLOVo2LVVoSWZ6dzdpRzBhZG5IMzF5YUJMQXc0b1pmZGI0WGZjQ0Uwc0M5WEdGaGFFZGZMMTFfUUp1eTJOY0h6OFJlSGNValZBekU3RXR5OUtSX0lXcmZC?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -26699,14 +26739,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 67"
+    },
+    {
+     "at": "2026-11-15T21:57:51+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (Asks for 3-5 years in software technical program management and agile SDLC, which Shlok lacks with 1.3 years in supply chain strategy.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T21:57:51+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Asks for 3-5 years in software technical program management and agile SDLC, which Shlok lacks with 1.3 years in supply chain strategy."
   },
   {
    "id": "L0246",

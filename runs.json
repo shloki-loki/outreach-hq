@@ -824,6 +824,18 @@
      "judge": "gemini-3.8-flash"
     }
    }
+  },
+  {
+   "at": "2026-11-15T11:56:03+05:30",
+   "agent": "live-check",
+   "ok": true,
+   "summary": "1348 postings checked: 297 live, 3 moved to the Bin, 1048 could not be checked",
+   "stats": {
+    "checked": 1348,
+    "live": 297,
+    "binned": 3,
+    "unknown": 1048
+   }
   }
  ]
 }

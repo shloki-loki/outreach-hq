@@ -1295,6 +1295,15 @@
    "title": "Gemini free tier is 20 requests a day per Flash model",
    "detail": "llm-check on 2026-11-15: gemini-3.8-flash and 3.7-flash allow 20 requests a day each (GenerateRequestsPerDayPerProjectPerModel-FreeTier); 2.5 models return 404 for new users; 3.5/3.6 Flash and the Flash-Lite models work. That is enough for about 20-25 leads a day, not 100. The paid tier (3.8 Flash at 0.75/3.75 USD per million tokens, Search grounding with 5,000 free a month) is behind [llm] paid = true with a daily cap; off until Shlok decides.",
    "ref": "llm-check"
+  },
+  {
+   "id": "J0145",
+   "at": "2026-11-15T11:56:03+05:30",
+   "by": "live-check",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "1348 postings checked: 297 live, 3 moved to the Bin, 1048 could not be checked",
+   "ref": ""
   }
  ]
 }

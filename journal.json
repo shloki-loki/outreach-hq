@@ -1529,6 +1529,15 @@
    "title": "Diagnosis: reoon verification call failed",
    "detail": "Cause (most likely): the GitHub secret REOON_API_KEY was pasted with its .env comment; the failing URL carries the key followed by spaces and '# reoon.com email verifier: free daily credits', so Reoon rejects it with 401. The local .env loader strips ' #' comments, GitHub does not. The key was also written in plain text into this issue's detail and log J0139 on the data branch. Remedy: rotate the Reoon key, set the GitHub secret to the bare key only, and change HttpError/provider errors to redact key= and api_key= query values; then clean the stored issue/log text. Shlok must do the rotation and secret.",
    "ref": "I0010"
+  },
+  {
+   "id": "J0171",
+   "at": "2026-11-15T20:22:41+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: hunter verification call failed",
+   "detail": "Cause: there is no Hunter key. In .env HUNTER_API_KEY is empty (only a comment), and the GitHub secret holds just the comment text, so the URL has api_key='       # hunter.io: free finder + verifier credits each month' and Hunter returns 401. Remedy: either add a real Hunter key (bare value, in .env and as the GitHub secret) or delete the HUNTER_API_KEY secret so the finder skips Hunter instead of failing; also redact api_key in error text as for I0010.",
+   "ref": "I0011"
   }
  ]
 }

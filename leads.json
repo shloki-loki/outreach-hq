@@ -165252,15 +165252,15 @@
    "key": "google|sales strategy and operations analyst google cloud|bengaluru",
    "type": "job",
    "company": "Google",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "google.com",
+   "company_url": "https://www.google.com",
    "company_linkedin": "https://www.linkedin.com/company/google",
    "company_note": "",
    "title": "Sales Strategy and Operations Analyst, Google Cloud",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4472522974",
    "source_url": "https://in.linkedin.com/jobs/view/sales-strategy-and-operations-analyst-google-cloud-at-google-4472522974",
@@ -165276,23 +165276,23 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "Minimum qualifications:\n Bachelor's degree or equivalent practical experience.\n 4 years of experience in sales operations, sales finance, planning, consulting, investment banking, or similar data-driven business roles.\n Experience with SQL and other database, scripting, or business intelligence tools.\n Experience modeling enterprise sales performance metrics such as consumption based business and bookings.\n Preferred qualifications:\n 5 years of experience in sales operations, sales finance, planning, consulting, investment banking, or similar data-driven business roles.\n Excellent investigative and communication skills, with the ability to construct, articulate and defend simple and impactful messages/insights from complex analysis.\n Excellent business judgment skills, with the ability to influence business leadership.\n About The Job\n The Business Strategy & Operations organization provides business critical insights using analytics, ensures cross functional alignment of goals and execution, and helps teams drive strategic partnerships and new initiatives forward. We stay focused on aligning the highest-level company priorities with effective day-to-day operations, and help evolve early stage ideas into future-growth initiatives.\nGoogle Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.\n Responsibilities\n Influence executive-level decision making through deep, scalable, and actionable investigative insights into core business decisions.\n Structure and communicate complex, ambiguous, and testing business issues to advise the Google Cloud Sales leadership team.\n Build a network across Sales, Operations, Business Intelligence, and Finance, both in partnership and across teams, to resolve a range of investigative and operational questions.\n Design scalable processes to minimize inefficiencies.\n Spreadsheet modeling and dashboard creation for sales performance metrics.\n Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\nSeniority level Not Applicable | Employment type Full-time | Industries Information Services and Technology, Information and Internet",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "not stated",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "none in evidence",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 58,
+    "total": 66,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -165302,15 +165302,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sales BizOps at Google Cloud asks 4 yrs (stretch vs your 1.3); your S&OP planning and SQL map well, but lacks enterprise B2B sales metrics.",
+    "fit_notes": "Posting asks for '4 years of experience in sales operations, sales finance, planning, consulting, investment banking, or similar data-driven business roles', plus SQL and modeling enterprise sales performance metrics (consumption and bookings). At 1.3 years of experience, the 4-year requirement is a stretch. His S&OP planning [sop], inventory rebalancing on sales run rates [rebalance], executive stakeholder coordination [ceo-coo], and SQL match the data/planning core, but he lacks enterprise B2B software sales metrics experience.",
+    "pay_notes": "No pay data found in search evidence. Google Cloud L3/L4 analyst roles in Bengaluru typically exceed Rs 24.5 LPA fixed, but cannot be confirmed without evidence.",
+    "culture_notes": "No specific culture ratings or flags provided in search evidence.",
+    "hook": "Google Cloud recently expanded model choice by bringing OpenAI models directly to its enterprise customers.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9US2kzdWs5bHhuMThHOEpkbFZ4VTh6UEdodGJRVWJ0OXJBYlVsZk5lbnRKT3FQVUxXRFNJbDNCS3hlTVFDcTJSSm9nUzJ6R2FGWVAwRHhORm16NjdySHNleTBKMTRzWnNvejZRZGtfSXo0WWtKdFlYbURhX2haZXFRTlhvdUtrV3U1UFBiY0RMQlFsQTVpRDl5RWk1RDBnazYtbUM4Z0I?oc=5",
+    "researched_at": "2026-11-16T02:49:00+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWHJkYURWVE9paG9HMUJJRWxXeEYwa1FHMkhIVllEVUFjRGkwYUNFXzVTMEdRNWVtREZjdlo5WUpiNFdCdHBmS21IRGNZRnNTcHJpaEN5M1BFa1ZEM01SajZEa0U3b2VCM2ZHOEFURGdQNVNlODQ5Y2l3d3NiRzF4TktIbnVha2NTTHVaeDVDSjNLeHM?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Gemini Robotics 2.5: Accelerating Physical Intelligence - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnFDRm1lR21jZXRpR2JUak1nSUpZeU9jSXkzRFVfanhaVll4clRtdWUyZzZFeXcwb2ZiS0NsUmoxaFZkcDlGbnJqa2lIM2hBdmNqb0hPTWl4UWc2LXFXcmRPbHF4Q2VzZWQ2UG96Y1FrUzE3dkVUT0dvNHkzLWN0Y25ZR3V1SVE0TGxxb1U5YVNfRUJxc25iaVZR?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Advancing science & engineering with Antigravity’s /teamwork - Google Research",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHFHVUVWcUxYVXFZV1ZGVmw1NXFsQUZFaDZ3UWRyVkpVQVd4NkFwNzk5RVZkODdkbXJOYW4zNDhZU2FyZ3RFNHBtVnFvUmtCMWdINXVYNHphbnhhdlA4SXl6QmczMDBmbkxDSU5idndaY1c0a2twTF94U2RUMXBDV2pTcS14YmJLMjhxNnJWNTg4Ny1pZnh5X3RB?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "OpenAI models are coming to Google Cloud - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9US2kzdWs5bHhuMThHOEpkbFZ4VTh6UEdodGJRVWJ0OXJBYlVsZk5lbnRKT3FQVUxXRFNJbDNCS3hlTVFDcTJSSm9nUzJ6R2FGWVAwRHhORm16NjdySHNleTBKMTRzWnNvejZRZGtfSXo0WWtKdFlYbURhX2haZXFRTlhvdUtrV3U1UFBiY0RMQlFsQTVpRDl5RWk1RDBnazYtbUM4Z0I?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "rebalance",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -165334,14 +165376,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-16T02:49:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 66: qualified"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-16T02:49:00+05:30",
    "research_attempt": {
     "at": "2026-11-15T21:23:34+05:30",
     "why": "error: Gemini unreachable: The read operation timed out",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1417",

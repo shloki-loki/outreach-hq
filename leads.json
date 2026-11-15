@@ -13083,7 +13083,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai Metropolitan Region",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4486263035",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-at-sure-4486263035",
@@ -13114,8 +13114,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 65,
+    "total": 65,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -13125,15 +13125,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at early-stage fintech in Mumbai (5-day in-office); no min exp required; your CEO/COO work at Ola Electric maps directly.",
+    "fit_notes": "Posting asks for a problem solver to execute founder priorities across ops, growth, data, and fundraising. States 'we don't count years' and explicitly accepts engineering backgrounds without requiring an MBA or consulting experience. Shlok's experience working directly with Ola Electric's CEO/COO [ceo-coo], running S&OP planning [sop], lotting algorithms [o2d], and inventory rebalancing [rebalance] maps cleanly to the role requirements. Note that the position requires 5 days in-office in Mulund West, Mumbai.",
+    "pay_notes": "Pay is not stated in the posting, and no verified compensation evidence exists for this early-stage fintech.",
+    "culture_notes": "No glassdoor ratings or employee reviews found. Note that news mentions for 'Sure' in evidence refer to a UK telecom operator, not this Indian fintech startup.",
+    "hook": "Sure is an early-stage fintech where the Founder's Office role sits directly next to founders to handle key business ops, growth experiments, and investor updates.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founder-s-office-at-sure-4486263035",
+    "researched_at": "2026-11-15T21:59:29+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Seeking an industry role after your PhD? Make sure your CV reflects that - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HT0dEQWFrRTNJLS1feWNBRldiYy1PY1VJRnRoLW9XYTUxZlpnSFY5a00tWEhmS1dtcTJJSlQ3eUhhWWRpWkFMMmhaY0FJdk5WUFJOMHdCX0NjSEVZTE5Z?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "UNU Establishes SURE Hub with PUC-Rio - UNU | United Nations University",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0I4RE1zcjlnX1E2WnpGcG0xTnF3WlVmTDd3bkYyVDJySVRSajNrTWVzWjlIS2NNbEMtcEhxT19SVFY0M0c5cTJnOE9nb3BUVzAxZ09oeXRFcEI3VU5ZRmpIUFNMQ094SGhGcXhacVJPaXltbzlXQmJXbGh4OWpvOUJ3?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "5 Key Steps to Make Sure Every Kid Actually Learns Something - The 74",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnQtMVBBLXQ4dnVFc0hVUXE5RGNwVFVUbHVmQ3RJSGctaXl5SVgwZUc3MUY5WlNDSGpDVUFBWGxTVndPN1hHWFhYNjQzbHJ5emlzMmdlSzh1aG80Rk5odEFKZkpDb3BGV2JMeUNBMnFVNjBQSWJyNHAxRHE1c05pNDZrV01EM0cxV25RaUx2X3hXWFNwdjQyRWl1R2JKd0E?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Mark Zuckerberg Wants to Make Sure His Competitors Share His Pain - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1pWdnZod2NfMzhhUVNKUkluTS1OT2k5U2ZHLVFsMkhqMG1Vemd2LW0yYm52ekxhdzhFZnZmU3FvR3FNTEl1VDhHdzBDWXZlMFNEWEY5OFRjR3JON1FyRlVpVUhrMHBBSzZRMmd1dHh2NlRuVUZENVRndjlnWWg2ZEY2RmM2T0JEUThHbmxIRC1Sc3pndFFBUlRjQXM4QQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Pluto Got Demoted 20 Years Ago. We’re Still Not Sure What a Planet Really Is. - National Geographic",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1ZITEdDVUFuZWxLWDR0RXJmbDdGUkxDdDV3b2pJVXNQUjlkaVpCWXVNN2Uzd3dFTEhPRU5jQ2E1bmo3d09qZTc0alFDZ2FkUG0xc2JaZ2tLVklVeE1QN01EQlVELWdIY0tRSEhnOFNzUk0zVjE5Si16dUJvVXJWVjk2dHMzUHNlZkhrLURsMTN5bElibW90VQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Sure vows better mobile coverage after complaints - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92T2p0N3RsYkYyS3BneDBmbzFqS0syVmptbURZa3NfZjZoaWZUdk91dXZPSjM0WjF1VEFZZXJXbjA4RklUd2Y3TmZHTk5LVUFKUTY1blYwVXNLSUk?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop",
+     "o2d",
+     "rebalance"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -13157,14 +13200,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-15T21:59:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 65: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T21:59:29+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0110",

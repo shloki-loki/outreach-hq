@@ -13703,7 +13703,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490307618",
    "source_url": "https://in.linkedin.com/jobs/view/business-manager-founder%E2%80%99s-office-at-sourcingxpress-4490307618",
@@ -13719,23 +13719,23 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "Company: Nikita (Luxury fragrance brand)\n Business Type: Small/Medium Business\n Company Type: Product\n Business Model: D2C\n Funding Stage: Bootstrapped\n Industry: Beauty and Personal Care\n Salary Range: ₹ 12-14 Lacs PA\n Job Description\n About the company\n An Indian luxury fragrance house with roots in 1904, creating extraits de parfum with master perfumers. Sold online and in stores across India, and shipped to the USA, UAE, Europe and Singapore.\n The role\n You’ll be the founder’s execution partner, making sure decisions turn into results. This is not an EA or secretarial role.\n What You’ll Own\n A central tracker of the founder’s priorities, with owners and deadlines\n Breaking instructions into clear actions across teams\n Consistent follow-up, and escalation when things are stuck\n Coordinating cross-functional projects to closure\n Concise progress updates to the founder\n What We’re Looking For\n Experience in business operations, project management or a founder’s office\n Excellent organisation and follow-through across many priorities\n Confident following up with senior people\n Mature, discreet and dependable\n Good judgement on when to follow up, resolve or escalate\nSeniority level Not Applicable | Employment type Full-time | Industries Technology, Information and Internet",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "₹ 12-14 Lacs PA",
+    "min_lpa": 12.0,
+    "max_lpa": 14.0,
+    "basis": "stated",
+    "source": "https://in.linkedin.com/jobs/view/business-manager-founder%E2%80%99s-office-at-sourcingxpress-4490307618",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 40,
+    "total": 50,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -13745,15 +13745,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Nikita (bootstrapped fragrance SMB), Gurugram; stated pay of ₹12-14 LPA is far below your ₹24.5 LPA target.",
+    "fit_notes": "The role requires managing founder priorities, cross-functional project tracking, and execution. Shlok's direct work with Ola Electric's CEO/COO [ceo-coo] and cross-functional S&OP management [sop] match the operational scope, but the compensation is far too low.",
+    "pay_notes": "The job description explicitly lists a salary range of ₹12-14 Lacs PA.",
+    "culture_notes": "Bootstrapped D2C luxury fragrance SMB. No employee review data available.",
+    "hook": "Nikita operates as an Indian luxury fragrance house with roots tracing back to 1904, shipping extraits de parfum to the USA, UAE, Europe, and Singapore.",
+    "hook_source": "https://in.linkedin.com/jobs/view/business-manager-founder%E2%80%99s-office-at-sourcingxpress-4490307618",
+    "researched_at": "2026-11-15T22:00:14+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -13777,14 +13787,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-15T22:00:14+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (Stated pay of ₹12-14 LPA is far below Shlok's target of Rs 24.5 LPA and falls under the 15 LPA explicit reject threshold.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T22:00:14+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Stated pay of ₹12-14 LPA is far below Shlok's target of Rs 24.5 LPA and falls under the 15 LPA explicit reject threshold."
   },
   {
    "id": "L0115",

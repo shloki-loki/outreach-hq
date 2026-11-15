@@ -39174,7 +39174,7 @@
    "key": "bhaktilok|associate product manager|bengaluru",
    "type": "job",
    "company": "Bhaktilok",
-   "company_domain": "",
+   "company_domain": "spacewiretech.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/bhaktilok",
    "company_note": "",
@@ -39213,8 +39213,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 30,
+    "total": 48,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -39224,15 +39224,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "APM at Spacewire Tech (BhaktiLok etc., subscription apps), HSR on-site, 0.5-2 yrs; wants consumer-app paywall/funnel experience you lack.",
+    "fit_notes": "LinkedIn posting opened 2026-11-15, open, 200+ applicants. Owns install-to-paid funnel; wants consumer/subscription app experience, Mixpanel/Firebase, good spoken Hindi. Only the InsuranceDekho product internship maps. Posting asks applicants to email hr@spacewiretech.com.",
+    "pay_notes": "No pay stated; web search found no salary, funding or company data for Spacewire Tech or BhaktiLok.",
+    "culture_notes": "Nothing found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-15T13:05:01+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -39256,9 +39258,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-15T13:05:01+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 48: rejected (Needs consumer subscription-app funnel experience (UPI AutoPay, paywalls) that Shlok lacks; small app studio with no pay evidence.)"
     }
    ],
-   "updated_at": "2026-11-14T22:52:01+05:30",
+   "updated_at": "2026-11-15T13:05:01+05:30",
    "research_attempt": {
     "at": "2026-11-15T01:48:18+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
@@ -39268,7 +39276,8 @@
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Needs consumer subscription-app funnel experience (UPI AutoPay, paywalls) that Shlok lacks; small app studio with no pay evidence."
   },
   {
    "id": "L0363",

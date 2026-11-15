@@ -249,7 +249,8 @@ for new keys, so search grounding is off on the free tier and research falls bac
 ### G. 100 applications a day (started 2026-11-15)
 
 Done: Apply today view, cover notes, wider searches, model chain, spend meter (PR #6). Open, in order:
-1. His budget decision: paid Gemini (`[llm] paid = true`, `daily_cap_usd`) and Apify cap for people search.
+1. Budget: **he chose to stay free for now (2026-11-15).** Keep `[llm] paid = false` and the Apify cap at
+   $3.50 a month; do not raise them until he asks. Free covers about 20-25 researched leads a day.
 2. A follow-up for every application: a person per company (`people-run`) plus a LinkedIn note or verified
    email after he applies; not built for applications yet.
 3. Volume check: count new matching jobs a day after the wider searches; widen further if under 100.

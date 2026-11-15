@@ -111,6 +111,20 @@
    "result": "",
    "ref": "",
    "updated_at": "2026-11-14T18:24:51+05:30"
+  },
+  {
+   "id": "W0009",
+   "kind": "research",
+   "lead_id": null,
+   "owner": "codex",
+   "title": "Scheduled lead-scout run 2026-11-15: research up to 12 leads",
+   "detail": "",
+   "status": "queued",
+   "created_at": "2026-11-15T12:14:43+05:30",
+   "lease_until": null,
+   "result": "",
+   "ref": "",
+   "updated_at": "2026-11-15T12:14:43+05:30"
   }
  ]
 }

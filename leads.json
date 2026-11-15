@@ -25744,15 +25744,15 @@
    "key": "corizo|business operations associate|bengaluru",
    "type": "job",
    "company": "Corizo",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "corizo.in",
+   "company_url": "https://corizo.in",
    "company_linkedin": "",
    "company_note": "",
    "title": "Business Operations Associate",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "451634",
    "source_url": "https://www.instahyre.com/job-451634-business-operations-associate-at-corizo-bangalore/",
@@ -25783,8 +25783,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 42,
+    "total": 54,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -25793,15 +25793,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Operations Associate at Corizo, asks 1-5 yrs, but role is student sales and campus recruitment, below your strategy tier.",
+    "fit_notes": "The posting asks for 1-5 years of experience and lists responsibilities in 'Business Development: Build relationships with colleges, universities, and schools to promote Corizo programs' and 'Recruitment: Recruit, interview, onboard, and manage Campus Ambassadors across India.' Shlok's S&OP and supply chain facts ([sop], [ceo-coo]) do not map to student sales and campus recruitment. No MBA or consulting is required.",
+    "pay_notes": "Pay not stated in posting.",
+    "culture_notes": "Glassdoor ratings and detailed reviews not found; recent news notes Corizo crossed 1 lakh learners and planned expansion [S1].",
+    "hook": "Noted that Corizo recently crossed 1 lakh learners and planned expansion into Kolkata, Pune and Kerala.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmhUbXdYazd4dXNHUUwwOWJDRElVMi1vdTlacFZzc2VKemRCTW9JMFp0TDlhSVUzLWNTY1F3ZE5TMGlKdUFPR011cmlNNnpEaWU5VlRDbjhhMXl1UDVyRHZQNm9wMUE5dUNwMHpUNlIzUWlHcC1mLWZUandkTnZrSjdhc0VZM1RSQ2VFMS1SNlZTOE5jdDJxM3dKUmtHTjZaOGQtMzJvM29fZkJoWTlYMWNINEd5UGZvWHlvUGRNd1PSAcYBQVVfeXFMT0tXSmE3NVhSOEptMFJRLTBXN0xIRk5IcS12Y0NmT21OOWNBRElzUFdFVTBDd2piM2RLTFk5Sm04S1N2dzczQ21hYlJrcEE5ekVOQ2ZFR2VZM3hvNy1mWWFKaFdZckVrbElHNE1sVHBFeHVIQi1mMkd1VVpENWpDai02Y2VZUHpMLTVwYmdpRGtwVDBUSG1Qa1NJT193TXpDRmN1dzRFUmFHUVJiSDRSOERxbngwcXg4VFhfZGtWSURxUnQyRm5n?oc=5",
+    "researched_at": "2026-11-16T02:53:25+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Corizo Crosses 1 Lakh Learners, Plans Expansion into Kolkata, Pune and Kerala - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmhUbXdYazd4dXNHUUwwOWJDRElVMi1vdTlacFZzc2VKemRCTW9JMFp0TDlhSVUzLWNTY1F3ZE5TMGlKdUFPR011cmlNNnpEaWU5VlRDbjhhMXl1UDVyRHZQNm9wMUE5dUNwMHpUNlIzUWlHcC1mLWZUandkTnZrSjdhc0VZM1RSQ2VFMS1SNlZTOE5jdDJxM3dKUmtHTjZaOGQtMzJvM29fZkJoWTlYMWNINEd5UGZvWHlvUGRNd1PSAcYBQVVfeXFMT0tXSmE3NVhSOEptMFJRLTBXN0xIRk5IcS12Y0NmT21OOWNBRElzUFdFVTBDd2piM2RLTFk5Sm04S1N2dzczQ21hYlJrcEE5ekVOQ2ZFR2VZM3hvNy1mWWFKaFdZckVrbElHNE1sVHBFeHVIQi1mMkd1VVpENWpDai02Y2VZUHpMLTVwYmdpRGtwVDBUSG1Qa1NJT193TXpDRmN1dzRFUmFHUVJiSDRSOERxbngwcXg4VFhfZGtWSURxUnQyRm5n?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Big marli, Corizo ‐ On To Say (Official Video) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4NjkxcXAzNVlhbUVVM3lHMVVvOTI0UW1wd09nVmlWaGx1VUZIeWJTRmJYRnRNYWIxYVpRNHlteDlhcDVKUnlQTGhpVnMzbFhnR1NfQmhLUXlaY0d2?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Famous Pluto – Ganja Ft. Corizo - Voxtrendy",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HQmh1c3lJeFg2ZktKOE1CeVZ6RUxjV1k5OTI0UXBGeUNrNERWRUx0RGVGZUwyamI1bEx5TnY3M3RIeGtPOUZZcW9NcUUzV3ZlS1k3N0hkZFVBTW5qZU13eDNOT1BqTEFNTEd3Sldn?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Bahd Man Niko – Massachusetts Ft. Corizo - Voxtrendy",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QQzVhcVZPbFNnVWpQSlJsWE5ndHZMZmNfeHFJcE5LMDNZRlI3MEUzRWtUS25WVmdYYmpDS0tpZWtsQTNNd0VuQnRXU093RzdjY1R2dGQwZW50RzdjNldqejJPck9TT1VjSGFNZWZpZ3dteTVRN29mbWxB?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Famous Pluto – Ganja Ft. Corizo - Dopexclusive",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBadEo5VkZJMFEwNlVXYU9UMk9qN1I5a1JiaGtsQlVzWXFHbWdMNXdyc2dfamFBSm5pRDhWdjJEV3o1TUNZZE1SRjlDRFpSbWpWZVk1ck1BZnlBN3R0YUVKTmxmQ3ppZWUwUDZxeA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Bahd Man Niko - Massachusetts ft. Corizo | MP3 Audio Download - Vistanaij",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbndJUTNYd25HQXNyN1ZVdkRPQklDLVFfUjFqWGU2NEoxV0JmNnE5MlN3VjJ3dlVVNkVXUmFWX085VURqTTRkYjBzSlY3VkFMUlZOV1BtRHV4UkprLU1xb016WUV4YmxqcmphMWxlYmlCaGp5WTJmOGVYdzEwSmdoN0FlZW5LTjZ0?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -25825,9 +25863,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-16T02:53:25+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 54: rejected (Role is primarily student sales, campus recruitment, and academic business development (EdTech), which does not match Shlok's strategy, operations, or product priority.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:53:25+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -25837,7 +25881,8 @@
     "at": "2026-11-15T01:50:03+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Role is primarily student sales, campus recruitment, and academic business development (EdTech), which does not match Shlok's strategy, operations, or product priority."
   },
   {
    "id": "L0227",

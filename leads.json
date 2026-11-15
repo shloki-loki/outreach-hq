@@ -23565,7 +23565,7 @@
    "key": "tailoredai|founder s office associate|bengaluru",
    "type": "job",
    "company": "Tailored AI",
-   "company_domain": "",
+   "company_domain": "instahyre.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "",
@@ -23573,7 +23573,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "444458",
    "source_url": "https://www.instahyre.com/job-444458-founders-office-associate-at-tailored-ai-bangalore/",
@@ -23604,8 +23604,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 70,
+    "total": 71,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -23614,15 +23614,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office Associate at Tailored AI, asks 0-3 yrs; your Ola Electric execution and S&OP work maps directly.",
+    "fit_notes": "The posting asks for '1-4 years of experience in a high-growth startup, consulting, business operations, GTM, recruiting, growth, or a similar role' and 'Ability to work directly with founders and senior stakeholders'. Your 1.3 years in Strategy & Operations at Ola Electric working directly with the CEO and COO [ceo-coo] and owning S&OP production planning [sop] maps directly to this high-ownership execution role. No MBA or consulting is required.",
+    "pay_notes": "Pay is not stated in the posting, and no compensation evidence was found in web sources.",
+    "culture_notes": "Company ratings, employee reviews, and culture data were not found in the posting or web evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T02:51:13+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Microsoft creates new business unit to help large enterprises set up tailored AI solutions - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONEhFUTFMMlJnQjNDMG5tQWkyMlRfMmVpeGRUd1V6cm9CRmcyZUdrLXZVWXplY0hiZFF4SldqbV9aWUpZX1FmY21BeEk0TS1oa2xJamhCNURFbjg2bTlkQWdGazZSVEJHSG55RGNUT1VDenZmcWZaemhSYTI5ZEpDa0xhWUhoSVBjbnBBY0VrbEdUYVk2bFQ0eWtBcS0yTDUwdFVEM3hqMm1FcVlBVlZyZWlwWGVNb0E5S20teXRtS1pCV1ozQ3FJ0gHOAUFVX3lxTE4xZ0Y3RzhXRHItQ1JXeGNucmlLWkRXY1FycnFsb2kxNThheG13VHJxME5fNG9zaDZRM3AyU3g1dk1pazhRTWZQWE5iaGM3bnUtSUpqSDFuSEk3ZTlIbXdGWTV6MWNCcVVzN05BT211THhIY2d1ZjcxcHh2dDRwWms5MHZaOXBWOXlJZDlLenhUYVU1MWJVLWU2ZlpzcWpVUElCaHRkRGdtRE5TZV9uZHEtdkpIRVMzWmdKSTNJNWp0clFweTB4dXhxYWItX0hB?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "iOS 27 Public Beta Hands-On: China-Tailored AI Features & Upgraded System Smoothness Make It a Worthwhile Update - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tSHVlRzROM05kOEtyemQ2QnFfUUhDTnBfaUsxX1dDQkZkUTQ4V0h0YlRrNFZLVGl3WFpyMGpTMUpqMXg5N3lIWUZKTlgza3dqeWtv?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Durham University Research Calls for Tailored AI Regulatory Framework to Protect Financial Consumers - FF News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTAtdDRlVUU2LTMxSEo0UTNCVmhJejNOSEJKajdZLWx4ZGFYbk5sM1NhbHgyejBVUGZzaVZQeTgwNGR4akEzYTNrQUF5VUhnZGJCYmZfbHhOWmtDTVBqVERPX292SXZiT2dHUHJxTGRjbU1CTEV3bFYyckVxUmdGdlFoYzdOLTh2SElXamZmVzVfcDlhY0RVcGJrcDhuLThBU1ZfM3g5a0pDSUsxOXE5WVZuWQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Samsung showcases region-tailored AI appliances across India and Latin America - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90WmNxTWdFd1NVTlNPUlBKQW5qcWgyWms0a0ZkNEpITGxGMVJ0b3NSdWxrbVNKWU9UQTIza3ozRnlMWDVHMHQxQWJKYWxUSDlKOHRVZFRiS1VOX0g5Y0lvNHhBV2dfYmlqM0ZOOXZMcVAtUFljdDhjODVn0gGOAUFVX3lxTE5IdUpSenVHS0dENG1zM21xeFdoRE8yTFg5RU9WclFCSzk5WUdQV2lqbmliWlpXcDhpV1prTzJhVnZzVXBLVkV5UUNKQVhFa0xLRFBFdUlxMkx1M1ltWHJvRnFYYi1HTDlrWVFnRGhvY2M0OHR3Ni1LNEE2eE14S1RldFk0SVExWE43OWo0OFE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "KT launches AX portal to guide Korea enterprises on tailored AI adoption - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9td3NEYk9MeUhJb21EblpkRndpYkRhUTRLZktWa2tob1hXYjlpbVZjY3JndzhXbjBZbnRMWWM5MmNHUUNzbGFGVlFDQ1pDMmg3QXpoa1p1U1ExVDVJaTZJSXNaOHBxQmpXc2F0ZzJFejVhTGVfMWhfemVR0gGOAUFVX3lxTE1FYW1IcTkzQ0pzYXRScFpNY2JxbVNoSUo2bXFxUmNNZUVRUEhFc2ROYWlrMEJzQlowdzFvQ193akxaNExtb0xvYnljUGUxTDF6blh2YzM5RHpiRTIwODM1S1Z6NkdkaVA3SHk0MzBsRjlMZ3hFZXEzYlpfaERDcUdNeGJHcFFXdXNiNVFrUkE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Experts Advocate Locally Tailored AI to Boost Antenatal Care in Nigeria - Head Topics",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWREQUUxdkY0OWlLV3EzY1MzSzl3LWNjZ3FhOEx0d3BCTmp2N2tTT0ROQnVUZFVpdGZ4a1ZyYUJYUmJIYWRVMUhnQUVXdmhZTUxETFd1TThSM3hiTGQxWF81d3RURld6VnBqbTNiVnBRaTA3eWdOQVRRalRYVnNtQlh0Qzc2ZktHUEJRbXR1MzZUcUl0NEZoYjJOZw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -23646,9 +23687,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-16T02:51:13+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 71: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:51:13+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -23658,7 +23705,8 @@
     "at": "2026-11-15T01:48:53+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0208",

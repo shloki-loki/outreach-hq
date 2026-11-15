@@ -15229,15 +15229,15 @@
    "key": "zs|strategy and operations senior consultant|bengaluru",
    "type": "job",
    "company": "ZS",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "zs.com",
+   "company_url": "https://www.zs.com",
    "company_linkedin": "https://www.linkedin.com/company/zs-associates",
    "company_note": "",
    "title": "Strategy & Operations Senior Consultant",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4486232243",
    "source_url": "https://in.linkedin.com/jobs/view/strategy-operations-senior-consultant-at-zs-4486232243",
@@ -15253,7 +15253,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
    "open": true,
-   "jd": "",
+   "jd": "ZS is a place where passion changes lives. As a management consulting and technology firm focused on improving life and how we live it, we transform ideas into impact by bringing together data, science, technology and human ingenuity to deliver better outcomes for all. Here you’ll work side-by-side with a powerful collective of thinkers and experts shaping life-changing solutions for patients, caregivers and consumers, worldwide. ZSers drive impact by bringing a client-first mentality to each and every engagement. We partner collaboratively with our clients to develop custom solutions and technology products that create value and deliver company results across critical areas of their business. Bring your curiosity for learning, bold ideas, courage and passion to drive life-changing impact to ZS.\n Strategy & Operations Senior Consultant\n The S&O Sr. Consultant collaborates with senior executives leading either a client account team, practice area, or industry vertical (collectively referred to as “spaces”). In this role, you will be a critical contributor to the space you support. You will work with leaders to prioritize and drive key space initiatives and create the structure and processes that enable the space to achieve its vision, strategy, and key milestones.\n What you'll do: Strategy & Operations Senior Consultant in the Enterprise will…\n Leverage problem solving skills and frameworks to develop solutions to business problems \n Optimize space operations to minimize leadership’s time spent on operational tasks\n Ensure timely and accurate responses to firm requests\n Contribute to strategic planning processes (annual and ongoing)\n Contribute to impact measurement and communication strategies\n Manage and provide insights on budgets and total annual spend\n Foster relationships with client procurement stakeholders and help ensure compliance with client requirements\n Develop reports on BD win rates and pipeline opportunities\n Create and synthesize space materials; prepare leadership level presentations\n Support space-level people strategy by keeping a pulse of team and provide ongoing insight to leadership\n Plan and run effective workshops, events, summits, client visits, etc. (virtual and in-person)\n Develop new processes to be leveraged across teams\n What You Will Bring:\n BA required, MBA or other advanced degree preferred\n 8+ years experience in professional services firm, consulting or strategy/operations experience preferred\n Strong consultative and problem-solving skills\n Effective oral and written communication skills that can influence senior-level decision makers \n Experience successfully managing multiple projects at once, including those with intersecting workstreams \n Experience and comfort working with multiple and senior stakeholders\n Understanding of consulting business models\n Understanding of systems and processes\n Empathy, adaptability and high personal impact \n Strong productivity and collaboration tools, including MS Office (Pow",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -15268,8 +15268,8 @@
    },
    "score": {
     "rules": 72,
-    "research": null,
-    "total": 72,
+    "research": 45,
+    "total": 56,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -15280,15 +15280,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Strategy & Operations Senior Consultant at ZS, asks 8+ yrs consulting experience; your 1.3 yrs and lack of consulting block it.",
+    "fit_notes": "The posting asks for '8+ years experience in professional services firm, consulting or strategy/operations experience preferred' and 'BA required, MBA or other advanced degree preferred'. Shlok has about 1.3 years of experience at Ola Electric and no consulting or MBA background, falling short of the seniority and background requirements.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "ZS is a major management consulting and technology firm operating globally with a hybrid working model.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T02:53:54+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -15312,9 +15319,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 72"
+    },
+    {
+     "at": "2026-11-16T02:53:54+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 56: rejected (The role asks for 8+ years of experience and a management consulting or professional services background, which he does not have.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:53:54+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -15324,7 +15337,8 @@
     "at": "2026-11-15T01:50:22+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 8+ years of experience and a management consulting or professional services background, which he does not have."
   },
   {
    "id": "L0127",

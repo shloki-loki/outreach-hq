@@ -1394,6 +1394,15 @@
    "title": "Instahyre job pages return 403 to WebFetch and curl",
    "detail": "2026-11-15: L0206 Arrowhead, L0207 Tailored AI, L0213 Dify (all score 73) could not be opened, so they stay unresearched. Stored JD for Instahyre leads is only tag lists, so they cannot be verified from data either. 72 instahyre leads affected; needs a different reader (Apify actor or browser).",
    "ref": "I0012"
+  },
+  {
+   "id": "J0156",
+   "at": "2026-11-15T13:06:35+05:30",
+   "by": "lead-scout",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "10 researched (1 qualified: L1359 Lenskart Sr Manager Business Strategy & Ops/EIR, score 67, pay estimate only; 9 rejected: Meesho L0067, Anakin L0101, TerraTern L0324/L0358, Amazon L0310, Wells Fargo L0312, Zavya L0330 on pay, Badili L0361 asks 8+ yrs, Bhaktilok L0362), 0 contacts (no current Lenskart reports-to found), 0 emails; 3 Instahyre leads unopenable (issue filed); skipped L0356/L0100 queued for Codex; no Apify used; scrape started 12:15, still running at log time",
+   "ref": ""
   }
  ]
 }

@@ -158698,7 +158698,13 @@
     "kind": null,
     "since": null
    },
-   "notes": [],
+   "notes": [
+    {
+     "at": "2026-11-15T13:05:59+05:30",
+     "by": "lead-scout",
+     "text": "No current named reports-to or recruiter found 2026-11-15 (ex-CoS Anupriya Jain left Jul 2025 per People Matters). Route: apply on Recruitee, then complete the mandatory AI assessment. Related Lenskart openings seen in search, not yet leads: 'Business Strategy & Operations' (CXO's office) lenskartcareers.recruitee.com/o/business-strategy-operations and 'CEO's Office' /o/ceos-office-4."
+    }
+   ],
    "timeline": [
     {
      "at": "2026-11-15T01:20:54+05:30",
@@ -158713,7 +158719,7 @@
      "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-15T13:05:05+05:30",
+   "updated_at": "2026-11-15T13:05:59+05:30",
    "research_attempt": {
     "at": "2026-11-15T01:48:25+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",

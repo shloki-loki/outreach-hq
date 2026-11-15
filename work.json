@@ -119,12 +119,12 @@
    "owner": "claude",
    "title": "Scheduled lead-scout run 2026-11-15: research up to 12 leads",
    "detail": "Scheduled Claude lead-scout run",
-   "status": "working",
+   "status": "done",
    "created_at": "2026-11-15T12:14:43+05:30",
-   "lease_until": "2026-11-15T14:29:58.950208+05:30",
-   "result": "",
-   "ref": "",
-   "updated_at": "2026-11-15T12:29:58+05:30"
+   "lease_until": null,
+   "result": "10 researched, 1 qualified (L1359), 9 rejected; Instahyre 403 issue filed",
+   "ref": "L1359",
+   "updated_at": "2026-11-15T13:06:39+05:30"
   }
  ]
 }

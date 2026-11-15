@@ -113,6 +113,23 @@ added (he adds them himself).
 
 ## 4. Where things stand
 
+### 2026-11-15: target is 100 applications a day (PR #6 merged)
+
+His target: apply to 100 listings a day, each personalised, each with a follow-up. Funnel on 2026-11-15:
+1,368 leads (983 are Codex's founder re-outreach companies), 58 qualified, 45 qualified jobs ready to apply,
+2 applied, 11 contacted, 1 reply. Why it stalled: the site had no apply list; searches were narrow (20-45
+new matching jobs a day); research on GitHub was stuck on a model retired for new keys; only 3 verified
+addresses among qualified leads; no follow-up person for applications.
+PR #6 adds: an "Apply today" view with an Apply button and a "Ready to apply" count; a 60-150 word cover
+note per qualified job (`write-run --apply`, `messages.check_cover_note` + `fact_check`, stored as an apply
+kit); wider searches (23 LinkedIn, 12 Instahyre, Naukri daily); research 5 times a day on a model chain
+with website + Google News evidence when search grounding is not available; a spend meter and an off-by-
+default paid tier with a hard daily cap (`settings.toml [llm] paid`, `daily_cap_usd`).
+**Limit found:** Gemini's free tier is 20 requests a day per Flash model on his key, so about 20-25 leads a
+day are researched and written for free. 100 a day needs his budget decision: paid Gemini (about $5 a day,
+estimate) and Apify for people search (about $0.044 a company, over the $3.50 monthly cap). He submits every
+application himself.
+
 ### 2026-11-14 evening: v2 enforced, live check, new sources, GitHub workers
 
 Built in one change (section 6 A-E): playbook v2 in code, daily live check with a Bin (13 binned on the first
@@ -223,8 +240,19 @@ profile.toml only (no contact details, no employment list, no Beltech; a test ch
   ids>` and compare decisions, scores and headlines; read the first 20 writer drafts against voice.md.
   Only then switch off the Mac's Claude research/drafting tasks. Until then both run; `create_draft`
   refuses duplicates, so they cannot double-email.
-Open: `GEMINI_API_KEY` secret (he creates it in Google AI Studio); the compare run; the supervisor still
-runs on Claude (its checks are mostly deterministic already in `outreach/supervisor.py`).
+Open: the compare run (rerun after the daily quota resets, 13:30 IST; `gh workflow run "Research and
+write (free model)" -f compare_ids=...`); the supervisor still runs on Claude (its checks are mostly
+deterministic already in `outreach/supervisor.py`). `GEMINI_API_KEY` is set. Gemini 2.5 models return 404
+for new keys, so search grounding is off on the free tier and research falls back to fetched evidence
+(website + Google News); pay evidence needs the paid tier.
+
+### G. 100 applications a day (started 2026-11-15)
+
+Done: Apply today view, cover notes, wider searches, model chain, spend meter (PR #6). Open, in order:
+1. His budget decision: paid Gemini (`[llm] paid = true`, `daily_cap_usd`) and Apify cap for people search.
+2. A follow-up for every application: a person per company (`people-run`) plus a LinkedIn note or verified
+   email after he applies; not built for applications yet.
+3. Volume check: count new matching jobs a day after the wider searches; widen further if under 100.
 
 ### F. Smaller open items
 
@@ -234,8 +262,8 @@ runs on Claude (its checks are mostly deterministic already in `outreach/supervi
 - An auto-approve switch for a narrow class of emails, only when he asks.
 - Pay evidence is missing for several researched leads. AiSteth (L0090) missed the qualify bar by one
   point (64 vs 65); he has not said whether to put it back.
-- 264 leads are unresearched (2026-11-14, after the Bin); research-run works through them best first once
-  `GEMINI_API_KEY` is set (about 80 a day on the free tier).
+- 261 job leads are unresearched (2026-11-15); research-run works through them best first, about 20-25 a
+  day on the free tier (Google's limit is 20 requests a day per Flash model).
 
 ## 7. How to contribute without lowering quality
 

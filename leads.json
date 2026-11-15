@@ -36786,6 +36786,11 @@
      "source": "linkedin",
      "url": "https://in.linkedin.com/jobs/view/executive-assistant-founder-s-office-at-vitalpro-consumer-pvt-ltd-4490745037",
      "seen": "2026-11-14"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/executive-assistant-founder-s-office-at-vitalpro-consumer-pvt-ltd-4489385819",
+     "seen": "2026-11-15"
     }
    ],
    "posted_at": "2026-11-13",
@@ -175286,6 +175291,466 @@
     "why": "error: Gemini unreachable: The read operation timed out",
     "by": "research-worker"
    }
+  },
+  {
+   "id": "L1525",
+   "legacy_id": null,
+   "key": "pepsico|manager supply planning|india",
+   "type": "job",
+   "company": "PepsiCo",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/pepsico",
+   "company_note": "",
+   "title": "Manager - Supply Planning",
+   "tier": "1 - Strategy & Ops",
+   "location": "Gurugram, Haryana, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4435667336",
+   "source_url": "https://in.linkedin.com/jobs/view/manager-supply-planning-at-pepsico-4435667336",
+   "apply_url": "https://in.linkedin.com/jobs/view/manager-supply-planning-at-pepsico-4435667336",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/manager-supply-planning-at-pepsico-4435667336",
+     "seen": "2026-11-15"
+    }
+   ],
+   "posted_at": "2026-11-15",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15",
+   "open": true,
+   "jd": "Overview\n Objective & Purpose:\n Lead end-to-end Supply Planning & Production Scheduling for Potato Chips Category across the North Region, ensuring optimal service levels, inventory health, network efficiency and cost productivity. Drive capacity planning, network optimization, innovation commercialization, and cross-functional alignment with Agro, Manufacturing, Procurement, Category, and Commercial teams to deliver sustainable growth and operational excellence.\n Scope:\n Own supply planning and Production Scheduling for Potato Chips Category across North Region manufacturing network. \n Responsible for Rough Cut Capacity Planning and Detailed Production Planning (DPP)\n Lead Sourcing and network Optimization decision to balance service, cost and capacity utilization \n Drive successful commercialization of NPDs, promotions, pack transitions, SKU rationalization, and changeovers.\n Deliver critical Supply Chain KPIs including Service Levels, MPS Adherence, Demand Compliance, Production Adherence, Inventory Health, Primary Freight Cost, and Productivity.\n Responsibilities\n Serve as the key supply planning interface across Manufacturing, Category, R&D, Procurement, and Agro teams, facilitating timely decision-making and issue resolution. (Being Informed, Provide consultation)\n Facilitate the S&OE process from supply perspective by ensuring alignment and timely course correction to plan and review all demands - NPD, Innovation etc. (Provide consultation)\n Lead development of monthly, weekly, and detailed line-level production schedules to ensure alignment with demand, capacity, and inventory objectives.\n Accountable for executing all innovations, changeovers, NPDs within stipulated timelines support the innovation agenda for PepsiCo (Decide & Execute)\n Responsible for driving the ESP / JDA modules for Supply Planning and Production Scheduling – Tactical Sourcing, DRP, RP, IO and DPP (Decide, Execute) \n Drive continuous improvement in supply planning through network optimization by leveraging technology tools such as LLamasoft /Lyric (Decide, Execute)\n Drive network productivity YoY by ensuring sourcing through most optimum network and by facilitating decisions for capacity augmentations to support network requirement (Decide)\n Facilitate Capacity Planning for AOP and SBP in collaboration with P&P to ensure new capacities come at the right location and at the right brand, pack mix. (Being Informed, Provide consultation)\n Lead the initiative on E2E cost optimization in planning to support profitable growth agenda for India business in collaboration with Finance, Agro, Manufacturing (Decide, Execute)\n Facilitate the S&OE process from supply perspective by ensuring alignment and timely course correction to plan and review all demands - NPD, Innovation etc. (Provide consultation)\n Ensure optimum stock levels to meet sales demand as stipulated demand compliance levels while driving continuous improvement in working capital levels for for India in collaborati…",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Manufacturing and Food and Beverage Services",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-15T23:35:42+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-15T23:35:42+05:30"
+  },
+  {
+   "id": "L1526",
+   "legacy_id": null,
+   "key": "foiweinfo|business development manager|bengaluru",
+   "type": "job",
+   "company": "Foiwe Info Global Solutions",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/foiwe",
+   "company_note": "",
+   "title": "Business Development Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491227996",
+   "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-foiwe-info-global-solutions-4491227996",
+   "apply_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-foiwe-info-global-solutions-4491227996",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/business-development-manager-at-foiwe-info-global-solutions-4491227996",
+     "seen": "2026-11-15"
+    }
+   ],
+   "posted_at": "2026-11-15",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15",
+   "open": true,
+   "jd": "About This Role\n We are looking for an experienced Sales & Marketing professional to oversee all sales & marketing operations of the company, develop marketing strategy and vision.\nThe potential candidate should have served in similar role in an ITES organization / Contact Center / BPO.\n Required Skills\n Excellent Communication Skills.\n Online Marketing Experience for US, Europe and Asian Markets for contact centre and/or BPO services.\n Plan and manage Global marketing campaigns.\n Handle globally distributed teams.\n Excellent with Excel and PowerPoint presentations.\n Excellent Account Management Skills.\n Understands Social Media Marketing and Digital Marketing.\n Holds a Masters Degree in Marketing.\n Responsibility\n Manager sales & marketing initiatives of Contact Center and BPO division.\n Market Foiwe’s services on global market.\n Sells against monthly & annual revenue targets for IT services business.\n Direct & manage sales & business development activities globally.\n Executes against the major steps of the sales process.\n Find new business opportunities, qualify new opportunities and close new business.\n Prepare various management and sales reports.\n Mentor the marketing and sales teams.\n Coordinate with digital marketing team.\n Key Job Details\n Role: Business Development Manager\n Location: Bengaluru, India\n Category: Business Development\n Employment Type: Full-Time\n Travel Required: NA\n Contract Type: Regular\n Company: Foiwe Info Global Solutions, Bengaluru\nApply Now",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-15T23:35:42+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-15T23:35:42+05:30"
+  },
+  {
+   "id": "L1527",
+   "legacy_id": null,
+   "key": "vessenceluxe|business development manager|india",
+   "type": "job",
+   "company": "Vessence Luxe",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/vessence-vuxe",
+   "company_note": "",
+   "title": "Business Development Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Chandigarh, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4490206852",
+   "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-vessence-luxe-4490206852",
+   "apply_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-vessence-luxe-4490206852",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/business-development-manager-at-vessence-luxe-4490206852",
+     "seen": "2026-11-15"
+    }
+   ],
+   "posted_at": "2026-11-15",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15",
+   "open": true,
+   "jd": "Company Description Vessence Luxe is a luxury fragrance house dedicated to creating timeless perfumes using the finest globally sourced ingredients. The brand is rooted in quality, authenticity, and innovation, with each fragrance crafted to express individuality and leave a lasting impression. Every bottle showcases a commitment to exceptional craftsmanship and meticulous attention to detail. Vessence Luxe is driven by a mission to redefine modern luxury through scent, offering distinctive experiences for discerning customers. Team members join a creative, quality-focused environment where artistry and business growth go hand in hand.\n Role Description The Business Development Manager is a full-time, on-site role based in Chandigarh, India. This position is responsible for identifying new business opportunities, building strategic partnerships, and expanding the brand’s presence in key markets. Daily activities include prospecting and meeting potential clients and retail partners, conducting market research, preparing and delivering sales pitches, and negotiating contracts. The role involves close collaboration with marketing and product teams to align business development initiatives with brand positioning and launch plans. The Business Development Manager also tracks performance metrics, prepares reports, and recommends growth strategies to support revenue and market expansion.\n Qualifications\n Proven ability in business development, sales, and account management, preferably in luxury goods, beauty, or related industries.\n Strong skills in relationship building, stakeholder management, and partnership development.\n Competence in market research, competitor analysis, and identifying new revenue opportunities.\n Excellent communication, presentation, and negotiation skills.\n Comfort with basic data analysis, CRM tools, and sales reporting.\n Bachelor’s degree in Business, Marketing, or a related field; an advanced degree is an advantage.\n Ability to work on-site in Chandigarh and travel locally or regionally as needed.\n Self-motivated, goal-oriented, and able to work both independently and within cross-functional teams.\n Interest in luxury fragrances, brand storytelling, and customer experience.",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Retail",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 54,
+    "research": null,
+    "total": 54,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-15T23:35:42+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 54"
+    }
+   ],
+   "updated_at": "2026-11-15T23:35:42+05:30"
+  },
+  {
+   "id": "L1528",
+   "legacy_id": null,
+   "key": "chillswap|sales and business development manager|india",
+   "type": "job",
+   "company": "ChillSwap",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/chillswap",
+   "company_note": "",
+   "title": "Sales & Business Development Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "New Delhi, Delhi, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4487684273",
+   "source_url": "https://in.linkedin.com/jobs/view/sales-business-development-manager-at-chillswap-4487684273",
+   "apply_url": "https://in.linkedin.com/jobs/view/sales-business-development-manager-at-chillswap-4487684273",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/sales-business-development-manager-at-chillswap-4487684273",
+     "seen": "2026-11-15"
+    }
+   ],
+   "posted_at": "2026-11-09",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15",
+   "open": true,
+   "jd": "Company Description ChillSwap is a wearable climate infrastructure company focused on helping people perform, recover, and live better in extreme heat conditions. By combining modular cooling technology with scalable deployment systems, ChillSwap delivers practical solutions for personal thermal regulation in real-world environments.\n Role Description The Sales & Business Development Manager is a full-time, on-site role based in Vasant Vihar, New Delhi. The position is responsible for identifying and qualifying new business opportunities, building and managing a robust sales pipeline, and closing strategic deals across target sectors such as industrial operations, logistics and outdoor workforces . Day-to-day responsibilities include meeting with prospective clients, conducting product demos, developing proposals, negotiating contracts, and maintaining strong relationships with existing partners. This position requires a proactive, data-informed approach to sales execution and business growth.\n Qualifications \n Proven experience in sales and business development, including prospecting, pipeline management, and closing B2B deals.\n Strong skills in relationship-building, stakeholder management, and customer engagement across multiple levels of an organization.\n Ability to develop and execute go-to-market plans, including market research, segmentation, and account planning.\n Competence in sales analytics, forecasting, and use of CRM tools to track activities and performance.\n Excellent communication, presentation, and negotiation skills, with the ability to explain technical products in clear, practical terms.\n Experience in multi-industry sales, PPE or industrial/occupational safety sectors is an advantage. \n Comfort working in a fast-paced startup environment, with a hands-on, outcome-oriented mindset.\n Bachelor’s degree in Business, Engineering, Marketing, or a related field; an advanced degree or relevant certifications are a plus.\n Ability to work on-site in New Delhi and travel as needed for client meetings and industry events.",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Retail",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 54,
+    "research": null,
+    "total": 54,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-15T23:35:42+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 54"
+    }
+   ],
+   "updated_at": "2026-11-15T23:35:42+05:30"
+  },
+  {
+   "id": "L1529",
+   "legacy_id": null,
+   "key": "alilahotels|events planning manager|india",
+   "type": "job",
+   "company": "Alila Hotels",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/alila-hotels-&amp;-resorts",
+   "company_note": "",
+   "title": "Events Planning Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Salcette, Goa, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4475326669",
+   "source_url": "https://in.linkedin.com/jobs/view/events-planning-manager-at-alila-hotels-4475326669",
+   "apply_url": "https://in.linkedin.com/jobs/view/events-planning-manager-at-alila-hotels-4475326669",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/events-planning-manager-at-alila-hotels-4475326669",
+     "seen": "2026-11-15"
+    }
+   ],
+   "posted_at": "2026-11-15",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15",
+   "open": true,
+   "jd": "Organization- Alila Diwa Goa\n Summary\n He/She will be responsible for the efficient running of the department in line with Hyatt International's Corporate Strategies and brand standards, whilst meeting employee, guest, and owner expectations.\nThe Events Sales/Planning Manager is responsible for ensuring the smooth and efficient functioning of the Events department within the Sales & Marketing Division, covering both catering sales and convention services functions of the hotel.\n Qualifications\n Ideally holds a university degree or diploma in Hospitality or Tourism Management.\nMinimum 3–4 years of work experience as Events Sales/Planning Executive or at least 1 year as Events Sales/Planning Manager.\nStrong communication, operational, administrative, sales, and interpersonal skills are required.",
+   "exp_min": 3.0,
+   "exp_max": 4.0,
+   "exp_text": "Seniority level Not Applicable Employment type Full-time Industries Hospitality",
+   "stretch": true,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 51,
+    "research": null,
+    "total": 51,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Stretch: asks 3+ years (+4)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-15T23:35:42+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 51"
+    }
+   ],
+   "updated_at": "2026-11-15T23:35:42+05:30"
   }
  ]
 }

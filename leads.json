@@ -11848,8 +11848,8 @@
    },
    "score": {
     "rules": 75,
-    "research": null,
-    "total": 75,
+    "research": 40,
+    "total": 54,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -11859,15 +11859,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "ULOOK wants an experienced partnerships lead to build a pipeline and take opportunities through to pilots.",
+    "fit_notes": "Employer posting lists 4+ years, ownership of external partnerships from first contact through pilots, and operational process design. Process design overlaps with the profile; the experience and commercial ownership bar make this low priority.",
     "pay_notes": "",
     "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "hook": "ULOOK wants one person to own opportunities from first outreach through pilots while building internal processes.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founders-office-growth-partnerships-at-ulook-4489076970",
+    "researched_at": "2026-11-15T13:02:16+05:30",
+    "by": "codex"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -11891,9 +11893,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 75"
+    },
+    {
+     "at": "2026-11-15T13:02:16+05:30",
+     "actor": "codex",
+     "event": "researched",
+     "detail": "score 54: rejected (Employer requires 4+ years and ownership of external partnerships, making this a poor match for the current search.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T13:02:16+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -11903,7 +11911,8 @@
     "at": "2026-11-15T01:47:22+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Employer requires 4+ years and ownership of external partnerships, making this a poor match for the current search."
   },
   {
    "id": "L0101",

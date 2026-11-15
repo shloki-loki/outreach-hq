@@ -1628,6 +1628,15 @@
    "title": "Ran",
    "detail": "6 open issues (I0005 late schedules, I0010/I0011 verifier keys 401, I0012 Instahyre 403, new I0013 research worker idle, new I0014 stale work claims), all diagnosed, 0 fixed, reply rate 9.1%, bounce rate 0%",
    "ref": ""
+  },
+  {
+   "id": "J0182",
+   "at": "2026-11-15T22:03:42+05:30",
+   "by": "research-worker",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "30 researched (5 qualified, 25 rejected), 1 closed postings binned, 4 left for a person",
+   "ref": ""
   }
  ]
 }

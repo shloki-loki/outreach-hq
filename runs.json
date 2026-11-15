@@ -928,6 +928,41 @@
    "ok": true,
    "summary": "6 open issues (I0005 late schedules, I0010/I0011 verifier keys 401, I0012 Instahyre 403, new I0013 research worker idle, new I0014 stale work claims), all diagnosed, 0 fixed, reply rate 9.1%, bounce rate 0%",
    "stats": {}
+  },
+  {
+   "at": "2026-11-15T22:03:42+05:30",
+   "agent": "research-worker",
+   "ok": false,
+   "summary": "30 researched (5 qualified, 25 rejected), 1 closed postings binned, 4 left for a person",
+   "stats": {
+    "researched": 30,
+    "qualified": 5,
+    "rejected": 25,
+    "binned": 1,
+    "left_for_a_person": 4,
+    "errors": 5,
+    "models": {
+     "research": [
+      "gemini-2.5-flash",
+      "gemini-3.8-flash"
+     ],
+     "judge": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite"
+     ],
+     "reader": [
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash"
+     ]
+    }
+   }
   }
  ]
 }

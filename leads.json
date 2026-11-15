@@ -16292,7 +16292,7 @@
    "key": "stemzhealthcare|entrepreneur in residence|india",
    "type": "job",
    "company": "Stemz Healthcare",
-   "company_domain": "",
+   "company_domain": "stemzglobal.com",
    "company_url": "",
    "company_linkedin": "https://nl.linkedin.com/company/stemzhealthcare",
    "company_note": "",
@@ -16300,7 +16300,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Gurgaon, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489904855",
    "source_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-eir-at-stemz-healthcare-4489904855",
@@ -16316,7 +16316,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "Entrepreneur in Residence (EIR) Venture Building & Growth\n Organization: Soul Space\n Location: Guurgram\n Engagement: Full-time\n Experience: Preferably 5-7 years, with demonstrated entrepreneurial or business-building experience\n About Soul Space\n Soul Space is an emerging mental wellbeing initiative focused on making mental health support more accessible, proactive, and measurable.\nOur focus is on student mental wellbeing , helping educational institutions move beyond reactive counselling toward a structured approach to understanding, monitoring, and supporting students' psychological and emotional health.\nWe have developed a technology platform designed to assess student wellbeing, identify potential risk indicators, and facilitate access to qualified mental health professionals.\nWith an existing technology foundation and access to mental health expertise, we are now looking to transform this vision into a commercially viable, scalable business.\n About The Opportunity\n We are looking for an Entrepreneur in Residence (EIR) who can work closely with the founding team to build Soul Space from the ground up.\nThis is not a conventional strategy, business development, or operational management position. We are looking for someone who has experienced the realities of building a business, understands what it takes to acquire customers, develop sustainable revenue streams, establish operations, and scale an organisation.\nThe individual will have the opportunity to shape Soul Space's business model, establish its market presence, develop strategic partnerships, and lead its journey from an early-stage concept to a sustainable enterprise.\n We are looking for someone who can think like a founder, operate like a business owner, and execute like an entrepreneur.\n Key Responsibilities\n Business Model Development & Commercialisation\n Evaluate and refine Soul Space's value proposition, target markets, service offerings, and competitive positioning.\n Develop and validate sustainable business models, including institutional subscriptions, per-student pricing, and potential service-based revenue streams.\n Conduct market validation through direct engagement with schools, educators, counsellors, and other stakeholders.\n Establish business plans, financial projections, pricing strategies, and unit economics.\n Identify opportunities to differentiate Soul Space in the mental wellbeing ecosystem.\n Go-to-Market Strategy & Business Development\n Develop and execute a go-to-market strategy, initially focused on schools and educational institutions.\n Build relationships with school management, principals, education groups, counsellors, and relevant institutional decision-makers.\n Design and execute pilot programs to validate product-market fit and demonstrate measurable value.\n Own the institutional sales cycle, from prospect identification and relationship building to commercial negotiations and customer acquisition.\n Establish a repeatable and scalable customer acquisition ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -16331,8 +16331,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -16342,15 +16342,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "EIR at Soul Space (Stemz Healthcare), asks 5-7 yrs of startup-building experience; your 1.3 yrs is too junior.",
+    "fit_notes": "The posting asks for 'Preferably 5-7 years, with demonstrated entrepreneurial or business-building experience' and someone who has experienced the realities of building a business. Shlok has 1.3 years of experience at Ola Electric where he executed S&OP, inventory, and fulfillment operations [sop, ceo-coo], but lacks the extensive independent venture-building background requested.",
+    "pay_notes": "No pay stated in the posting or evidence.",
+    "culture_notes": "No company website or reviews found in the evidence.",
+    "hook": "We are looking for an Entrepreneur in Residence (EIR) who can work closely with the founding team to build Soul Space from the ground up.",
+    "hook_source": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-eir-at-stemz-healthcare-4489904855",
+    "researched_at": "2026-11-15T22:03:07+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -16374,14 +16381,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-15T22:03:07+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The posting asks for 5-7 years of entrepreneurial or business-building experience, which significantly exceeds Shlok's 1.3 years and makes him a poor fit for an EIR role taking a venture from scratch.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T22:03:07+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 5-7 years of entrepreneurial or business-building experience, which significantly exceeds Shlok's 1.3 years and makes him a poor fit for an EIR role taking a venture from scratch."
   },
   {
    "id": "L0137",

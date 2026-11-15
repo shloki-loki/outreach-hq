@@ -1574,6 +1574,15 @@
    "title": "Data checks 15 Nov: nothing stuck, 2 fresh drafts, duplicates are separate cities",
    "detail": "At 20:10 IST, message list --full: 16 messages; 11 sent, 1 replied (M0013), 3 skipped, 2 drafts (M0015 Shipsy L0488 and M0016 Unicommerce L0908, founder_reoutreach, drafted 13:10 today, verified addresses, sourced hooks). 0 sending, 0 failed, 0 approved waiting. Bounces 0 of 11. Follow-ups due 0. Qualified leads 59, only 1 without people and it is under 2 days old. Two apparent duplicates are separate postings in different cities: NVIDIA Senior TPM L1375 Bengaluru / L1379 Hyderabad, Thrillophilia Category Manager L1386 Bangalore / L1393 Gurugram. No address drafted twice.",
    "ref": ""
+  },
+  {
+   "id": "J0176",
+   "at": "2026-11-15T20:24:17+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Live check 11:56: 1,048 'could not be checked' is expected",
+   "detail": "live-check at 11:56 IST checked 1,348, 297 live, 3 binned, 1,048 unchecked. leads.json live_check states: 983 founder_reoutreach companies plus 38 linkedin_post and 27 yc leads are 'unknown' because they have no posting to check. Not a fault. 163 leads (117 linkedin, 42 instahyre) were added after the run and have no state yet.",
+   "ref": ""
   }
  ]
 }

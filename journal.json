@@ -1601,6 +1601,15 @@
    "title": "Mode is live; local repo has uncommitted founder-batch work",
    "detail": "status and doctor at 20:07 IST show mode = live (only approved messages are sent). The local checkout is on branch claude/founder-daily-60 with uncommitted edits to SUPERVISOR.md, config/routing.toml, config/voice.md, outreach/cli.py, messages.py, supervisor.py, writer.py, two test files and a new config/prompts/founder-email-worker.md. Codex reviewed it at 19:32 (J0166) and asked that candidates be filtered against suppression and send history before work is created. Scheduled agents running from this checkout run this unmerged code.",
    "ref": "claude/founder-daily-60"
+  },
+  {
+   "id": "J0179",
+   "at": "2026-11-15T20:24:34+05:30",
+   "by": "supervisor",
+   "kind": "note",
+   "title": "Verifier and model quotas 15 Nov",
+   "detail": "quotas.json: Reoon 5 calls today (13 Nov 5, 14 Nov 4), all of today's failed with 401 (I0010); Hunter 9 calls this month, all failing (I0011); Apify 0.75 of 3.50 USD used in November. Gemini free Flash quota (about 20 a day) was used up by the 01:54 writer run. Doctor TODO: LinkedIn connections not imported (0), so referral notes can't match anyone.",
+   "ref": ""
   }
  ]
 }

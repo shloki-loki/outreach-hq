@@ -23419,15 +23419,15 @@
    "key": "arrowhead|founder s office|bengaluru",
    "type": "job",
    "company": "Arrowhead",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "arrowheadpharma.com",
+   "company_url": "https://www.arrowheadpharma.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Founder's Office",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "433724",
    "source_url": "https://www.instahyre.com/job-433724-founders-office-at-arrowhead-bangalore/",
@@ -23458,8 +23458,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 45,
+    "total": 56,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -23468,15 +23468,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Arrowhead Pharmaceuticals, asks 2-6 yrs; requires enterprise GTM and sales ops experience you do not have.",
+    "fit_notes": "The posting asks for '2-6 Years' of experience and focuses heavily on GTM Strategy, Enterprise Sales, POC-to-Revenue Conversion, and Revenue Operations. While Shlok has strong Strategy & Operations experience at Ola Electric ([sop], [ceo-coo]), this role requires specific B2B SaaS/GTM execution and enterprise sales pipeline management, which is outside his supply chain, S&OP, and manufacturing background.",
+    "pay_notes": "Pay is not stated in the posting, and no compensation evidence is available for this company.",
+    "culture_notes": "No ratings, employee reviews, or culture flags were found for this company in the provided evidence.",
+    "hook": "Arrowhead Pharmaceuticals recently announced interim Phase 1/2a clinical data for its ARO-MAPT drug demonstrating deep and durable tau reductions.",
+    "hook_source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNazdXYkc0YXlCeTJZRmRfdmtKR1NRWFNFRlNPdm0xeFFoU0Z3X05WdUEtQzA5aFJxYXhiVzV3cVJVbDhKNkdTZmRnX3QwLWNfQWZiNWJLNmxkZHBRNjZRTGFGeGMzWUtBSlVMVUFyLU9wT0ZXRHNldHl0QUdTYUg4MWY2ak1EMEZmR0d0aTBXTTlxVVNBNkhOMFVlQ1lBQThXTDVxRmFNSkozZ1VuTy1FYkNlMlVLVmQ1R2VYRE9ZV0FlWmxTaE5J?oc=5",
+    "researched_at": "2026-11-16T02:50:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit - BioPharma Dive",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTVJMUmdwejhFXzNhNWZKMldja1JBcXU3SFMwZWh1cEI4N0JJdTZUNlhRRU8wc1Z1dkFOZ1hPdGpCdDN0VXoySWFSWjYydU9vVjd4YzRvdEp3aDkwekdqbGtJd3ZpWGxfT0NLMjhfRXB5c0JxUm9OSEV6MnF4dEliM3hEaWdRMHRkb214R1ljOVhSSU0zRHNkd084Yw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Look out Ionis, here comes Arrowhead with promising hypertriglyceridemia data - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmhnclJ1cVZHV0syajg4cVFhaHM1QUZtNGJEQWt0NE1wOHdRTFF0TVdUbV9GYjNid3ZLbkUxbW9zeUFKSWl5T2xZcVRnaWxXeTJfSkNzWlh2LS11elBOd3NuMDV6RVF6bWd0bmVDWFZ1d3FSTWRVWnlhSGJqRzFzSFhYalBhVFJ2Rmxvb2d1WjN4cm9YTmNKMGt1S0lvR2VHSGNSXzNFeDZaMVBHLXNoT2hJT0I0QQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Arrowhead Pharmaceuticals Announces ARO-MAPT Interim Phase 1/2a Clinical Data Demonstrating Deep and Durable Tau Reductions in Healthy Volunteers - Arrowhead Pharmaceuticals, Inc.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNazdXYkc0YXlCeTJZRmRfdmtKR1NRWFNFRlNPdm0xeFFoU0Z3X05WdUEtQzA5aFJxYXhiVzV3cVJVbDhKNkdTZmRnX3QwLWNfQWZiNWJLNmxkZHBRNjZRTGFGeGMzWUtBSlVMVUFyLU9wT0ZXRHNldHl0QUdTYUg4MWY2ak1EMEZmR0d0aTBXTTlxVVNBNkhOMFVlQ1lBQThXTDVxRmFNSkozZ1VuTy1FYkNlMlVLVmQ1R2VYRE9ZV0FlWmxTaE5J?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Arrowhead Pharmaceuticals Q4 Earnings Call Highlights - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlEtSFRNY1p4TEFLZ3JFbG5DdHROOFFFa05NUElsY0VkQ3drMW10SDVNaFJpbS03OWpRLWdnc3d5eWNpT0JqbWxVeFRScWpMWWxSR1piNVRSaUJrOXpkVHJzUlZFUGMxNGxuazlmaEJyRkZudmNXNElBR2hOel9fUDlrU0ZGTThnWmN3YnlMcERvY1J6S191XzdOOEJyY0JtMHFVc2xleElZYUstWTR2S01Ib0k?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Arrowhead hits ‘best-case scenario’ with latest results for fat-lowering drug - BioPharma Dive",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEtGTW1vTXZRVHB5ZTE0QWhyZ3hud0NJd2NERC1kS1ZmX1ZXS0lRVktfMlY2bVFyZldjWWt2N2dDS3FCaXQ4Y0k4WXVaRGpzcVo5Y2tzX3d2WnlQX2s2UEVQSFA1TjJBRGVwaUI2QXZXakpaTWp5SWQwclBDa2hVU252MUZ0MFl3WmRIVlZ1SDNBV0ZXb0pjNVl5NERTUjBtMXBFWndn?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Arrowhead Pharmaceuticals Announces Interim Topline Clinical Data for the First Dual-Functional RNAi Therapeutic for the Treatment of Mixed Hyperlipidemia - Arrowhead Pharmaceuticals, Inc.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUU0U1dETjV3ZnhmTUQzRm9TaW8wRC1EQ1JJNXJyM3NxVFVOSE4yaG80NkRTMW5mXzJ5Ny1PTnQ4cy1TUHFPUEZ1Wjk2aDhmV3M1TC1LbTkyeU1jTDBtWTluRU4tdDZHSnhWMjVucUxVdmxOODZTdG1xMmkyWUJuanluU0RjVC1CN3VpZjR5MUtjNHhKOVVHalRPTDdKZUJUOFV3Ri1qZ2s4VXFWSDVqYl8zNlVqb0E2M3pHQ1dfeDBtdnRf?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -23500,9 +23538,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-16T02:50:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 56: rejected (The role is at Arrowhead Pharmaceuticals (a biotech firm, confused by the prompt/job board text regarding 'AI-powered calling agents' versus pharmaceutical earnings/trials in sources [S1]-[S6]), and the posting requires 2-6 years of experience while offering no pay details; more importantly, Shlok lacks the GTM, B2B SaaS, and enterprise sales/revenue operations background heavily emphasized in this specific Founder's Office GTM role.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T02:50:58+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -23512,7 +23556,8 @@
     "at": "2026-11-15T01:48:46+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role is at Arrowhead Pharmaceuticals (a biotech firm, confused by the prompt/job board text regarding 'AI-powered calling agents' versus pharmaceutical earnings/trials in sources [S1]-[S6]), and the posting requires 2-6 years of experience while offering no pay details; more importantly, Shlok lacks the GTM, B2B SaaS, and enterprise sales/revenue operations background heavily emphasized in this specific Founder's Office GTM role."
   },
   {
    "id": "L0207",

@@ -1445,7 +1445,7 @@
    "key": "urban|category manager|bengaluru",
    "type": "job",
    "company": "Urban Company",
-   "company_domain": "",
+   "company_domain": "urbancompany.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Public (NSE-listed, IPO Sep 2025)",
@@ -1516,10 +1516,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/mayank-girdhar12",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "mayank@urbancompany.com",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first), not verified",
+     "confidence": 35,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -1559,9 +1559,15 @@
      "actor": "shlok",
      "event": "applied",
      "detail": "application submitted"
+    },
+    {
+     "at": "2026-11-16T02:58:52+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Mayank G.: mayank@urbancompany.com (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-15T18:20:59+05:30",
+   "updated_at": "2026-11-16T02:58:52+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",

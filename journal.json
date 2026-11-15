@@ -1502,6 +1502,15 @@
    "title": "Research worker has not run since 01:50 IST",
    "detail": "runs.json: last research-worker 2026-11-15 01:50 IST (failed: 0 researched, 3 left for a person; that run was the pre-PR6 branch run 43636836996, cause already found in J0142: Gemini 2.5 Flash retired). PR 6 merged 13:06 IST and research.yml is scheduled 06:00/10:00/14:00/18:00/22:00 IST, but gh run list shows no scheduled run of it at all (14:00 and 18:00 IST slots dropped). Writer last ran 01:54 IST and stopped on Gemini free quota. Effect: 1,426 leads still new (443 job leads plus 983 founder companies); only the Mac lead-scout researched today (10 leads).",
    "ref": "I0013"
+  },
+  {
+   "id": "J0168",
+   "at": "2026-11-15T20:22:16+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "Work items W0006-W0008 left in working after the work shipped",
+   "detail": "work.json: W0006 (Naukri/Wellfound/Hiring Cafe), W0007 (LinkedIn people and notes), W0008 (research on GitHub with Gemini) are status working, last touched 14 Nov 18:24 IST, claims expired. Their work shipped in PR 4 (log J0111-J0118, merged 14 Nov 13:57 UTC) and PR 6. Because of them supervisor/check has failed at 01:27 and 16:31 IST today (J0136, J0164), which hides any real failure from that check.",
+   "ref": "I0014"
   }
  ]
 }

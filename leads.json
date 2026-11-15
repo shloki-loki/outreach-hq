@@ -15072,7 +15072,34 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Aprameyo Roy",
+     "title": "Chief of Staff & Head of Special Projects",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAABoq4MEBP7hm67yrEViwqKBzYeFxbRXeIeA",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "likely reports-to or runs the function this role sits in (LinkedIn title)",
+     "found_at": "2026-11-15T22:03:51+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "Naman Pushp",
+     "title": "Founder and CEO",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAADBgs48B3Pqm8wU5hhNPXnjFnW1RVvW4XeI",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "founder or CEO (LinkedIn title)",
+     "found_at": "2026-11-15T22:03:51+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -15092,15 +15119,22 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 77: qualified"
+    },
+    {
+     "at": "2026-11-15T22:03:51+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "2 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-15T22:01:50+05:30",
+   "updated_at": "2026-11-15T22:03:51+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
    },
-   "reject_reason": null
+   "reject_reason": null,
+   "people_searched_at": "2026-11-15T22:03:51+05:30"
   },
   {
    "id": "L0126",

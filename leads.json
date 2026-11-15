@@ -37042,15 +37042,15 @@
    "key": "zepto|product manager|bengaluru",
    "type": "job",
    "company": "Zepto",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "zeptonow.com",
+   "company_url": "https://www.zeptonow.com",
    "company_linkedin": "https://in.linkedin.com/company/zeptonow",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488939123",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-at-zepto-4488939123",
@@ -37066,7 +37066,7 @@
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-15",
    "open": true,
-   "jd": "",
+   "jd": "Role Overview: \n As a Product Manager – Rider Experience at Zepto, you will own the end-to-end rider app journey for order fulfilment. That journey runs from order pickup at the store to delivery at the customer's doorstep, and back. You will design and optimize the experience for thousands of delivery partners, improving rider productivity, delivery speed, and fulfilment cost. This role suits a product manager who thrives at the intersection of on-ground operations, user experience, and data-driven decision-making in a fast-paced, high-growth environment.\n Key Responsibilities: \n ● Own the product strategy and roadmap for the rider fulfilment journey. This spans order assignment, pickup and handshake at the store, navigation to customer addresses and inside societies, route handling, and the return journey to the store.\n ● Design journeys for complex order types such as batched, multi-store, same-society, multi-shipment, and relay deliveries.\n ● Build and improve special flows such as returns, replacements, open box delivery, pharma, and 3P delivery partner flows.\n ● Own proof of delivery flows to reduce order losses, customer complaints, and cost.\n ● Own the in-app guidance for new riders to drive engagement and retention.\n ● Work with control tower and operations teams on real-time fulfilment tooling, and drive special launches that need quick on-ground execution.\n ● Use data, experimentation, and on-ground research to improve delivery time, rider productivity, retention, and cost per order. Own outcomes beyond launch.\n ● Work closely with design, engineering, analytics, data science, and operations, and lead product planning, sprint execution, and release cycles with clarity and urgency.\n Qualifications: \n ● 2–4 years of experience in product management, ideally in consumer tech, e-commerce, logistics, or mobile-first platforms.\n ● Proven track record of owning and delivering products at scale, preferably in supply-side, operations, or gig-workforce products.\n ● Bachelor's degree in Engineering, Business, Computer Science, or a related field; MBA is a plus.\n ● Experience working with agile product development teams and shipping iteratively.\n Required Skills: \n ● Strong product thinking and user empathy, with the ability to design for users in high-pressure, on-ground environments.\n ● Deep understanding of data and metrics, and comfort with SQL and product analytics tools like Amplitude, Mixpanel, or Looker.\n ● Ability to identify problems through data and own outcomes after launch, not just delivery.\n ● Familiarity with user research, A/B testing, and experimentation frameworks.\n ● Excellent communication, stakeholder management, and leadership skills.\n ● Strong execution rigour, high attention to detail, and the ability to manage multiple initiatives in parallel.\nSeniority level Associate | Employment type Full-time | Industries Technology, Information and Internet",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -37081,8 +37081,8 @@
    },
    "score": {
     "rules": 72,
-    "research": null,
-    "total": 72,
+    "research": 65,
+    "total": 68,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -37093,15 +37093,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "PM Rider Experience at Zepto asks 2-4 yrs PM exp; stretch given your 1.3 yrs S&OP exp, but your dispatch lotting [o2d] and fulfilment ops [ceo-coo] fit well.",
+    "fit_notes": "The role requires '2–4 years of experience in product management, ideally in consumer tech, e-commerce, logistics' and proficiency with SQL/data. Shlok has 1.3 years of experience in S&OP/operations rather than full-time PM, making the experience requirement a stretch. However, his dispatch lotting algorithm work [o2d] and end-to-end fulfilment operations with milk-run routing [ceo-coo] closely align with rider productivity, route handling, and order delivery optimization. His technical product internship [idekho] and SQL proficiency support the technical and analytical needs.",
+    "pay_notes": "No salary details provided in the posting or fetched web evidence.",
+    "culture_notes": "Recent media reports indicate regulatory scrutiny around food safety compliance [S1] and discussion around IPO timeline adjustments [S3, S5, S6].",
+    "hook": "Saw that Zepto recently optimized its architecture using AWS OpenSearch Service OR2 instances to maintain sub-second search speeds during high-volume spikes.",
+    "hook_source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2pqSUloMHVPSWlDNFV6R3NzcGJaWXAyejBjNkdDWXpsLWZkeWY4SUtBRWVUSFV0d3YyeE1JdEFNM09Ia2JlaEJKb25IZEJVNjM5ZnRXY3Q3X1BDX3A1Qm5GMzRDd0phUzNHOUtSeEpIS3hra2ExM1I2YjZ1eVF0blZZOWVOZmExUk95N2pxeFBNSWU5cHJmX0FzLWFsc1Q1bWhHeWxwT1lhUEp0U0VOc3F3?oc=5",
+    "researched_at": "2026-11-15T21:53:44+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Crusading India state food safety chief targets Eternal, Swiggy, Zepto in sweeping crackdown - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRjV2RzJ4bFdNM3ppb2JiZWRmT1Nhbko2QlZNUFp3eF9yMC13SElucFFqbXJOR3NRMElqd3NDam9qbFVRbDVtN25KM2MtLUYzT2xMeFhYbFM1TE5WSU1XRXlHUnI1Umgzc1luVDVfelVTSDJBSlBwZXVtakZkWUdkOWd3OWFiejBQcWNsZzNJZ0M4bjFmMDUxbnpwVHdjTHI1c2NCYVg3TWphbUZUYWJIZkpjNTNzY2JwcVFFbHRuVHY4TzA?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Will Zepto become Swiggy before Swiggy becomes Zepto? - The Ken",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSWdEOGxsNVM3N0tXdjRuOVdnVHh2MUZ5anFaMDBpeC1xdFhsOVdsNXZpbkphYWE3aTdlMDFkTGZuaFV6dTVvRkp1cXF3NXNITHpKWENvWF9mVW1pSUk4TDFkenotQVpxWGM0OGdaMWx1Z1JtcHVnNXl1S3pqOXgwbmdFY05MYU80OFpwSDFPT01UMEotckg1ZDhJSHY?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Upcoming IPO: Zepto Files U-DRHP with SEBI; Plans to raise ₹8,010 crore via fresh issue - Groww",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnNiMXI0R3EydWs3bzJfUTBoUU92bVJ0RDRsRzFmX1VnSFRuR1I3TXRHYk9oQi1IOFd4eEJyY2haV3BCREFjeW1BcUNfbmpOSHRpZTRISTdkMXpXNVA3a3h2X2lvajNkUG5wb0NlNl9mbWx6anFuZE5haENkVDAzeEtDTnFTQ3V6ZERaU1dyTDhGQ29vWVIwRm4tdVlBbFV1X3hLYmhJQzY?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "How Zepto powers sub-second search using OpenSearch Service OR2 instances - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2pqSUloMHVPSWlDNFV6R3NzcGJaWXAyejBjNkdDWXpsLWZkeWY4SUtBRWVUSFV0d3YyeE1JdEFNM09Ia2JlaEJKb25IZEJVNjM5ZnRXY3Q3X1BDX3A1Qm5GMzRDd0phUzNHOUtSeEpIS3hra2ExM1I2YjZ1eVF0blZZOWVOZmExUk95N2pxeFBNSWU5cHJmX0FzLWFsc1Q1bWhHeWxwT1lhUEp0U0VOc3F3?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Why Investors Said “NO” to Zepto’s $7 Billion IPO? - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1IyMElnMlZXM0hib29iQWJTRlgwVmNCSHBHbDNBaDhka1A3MjU5emRLSjBXc3Bfc2J1WlVCQVZDeTdwa09qTU5NTk8zY0VrMGZZb01PUTFGUndBRVJWTnhTQXVadGRwVGZQcHpXSTZyU0o3YWFOZUhmX2RsVkpLM0lWcUxINGY4NzlNTEQwREI?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Zepto’s IPO is off. The mutual funds you own did it for you - Value Research",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZmppaWZwVW5qUThYZ0hlcFQxdUNySzlJbVE0aHliS2E0UTZiNlVmbjM3RmJpYll5SWlDY0FBU1RyRmlkdExERzFpcjk1YWpxT21RamphcEZJT19KNTByTXhudXdRbXdwT2lYUm5jNEEtQlBWR1pJWVdYd2Q0bGR2azlQMFVKSFNHSzU2T3hPeFZ6aFhfY1FLSG5UN1dsbmlKV3FOUWVCcHItZFh1?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "o2d",
+     "ceo-coo",
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -37125,14 +37167,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 72"
+    },
+    {
+     "at": "2026-11-15T21:53:44+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 68: qualified"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-15T21:53:44+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0340",

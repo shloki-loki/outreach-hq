@@ -1049,6 +1049,41 @@
     "alerts": 3,
     "open_work": 4
    }
+  },
+  {
+   "at": "2026-11-16T02:58:26+05:30",
+   "agent": "research-worker",
+   "ok": false,
+   "summary": "30 researched (3 qualified, 27 rejected), 0 closed postings binned, 9 left for a person",
+   "stats": {
+    "researched": 30,
+    "qualified": 3,
+    "rejected": 27,
+    "binned": 0,
+    "left_for_a_person": 9,
+    "errors": 1,
+    "models": {
+     "research": [
+      "gemini-2.5-flash",
+      "gemini-3.8-flash"
+     ],
+     "judge": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite"
+     ],
+     "reader": [
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash"
+     ]
+    }
+   }
   }
  ]
 }

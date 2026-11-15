@@ -1682,6 +1682,15 @@
    "title": "Run failed",
    "detail": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
    "ref": ""
+  },
+  {
+   "id": "J0188",
+   "at": "2026-11-16T02:58:26+05:30",
+   "by": "research-worker",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "30 researched (3 qualified, 27 rejected), 0 closed postings binned, 9 left for a person",
+   "ref": ""
   }
  ]
 }

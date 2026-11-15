@@ -21,12 +21,12 @@
    "owner": "codex",
    "title": "Verify role and prepare sourced personalization for MKGlobo",
    "detail": "",
-   "status": "working",
+   "status": "queued",
    "created_at": "2026-11-14T15:45:45+05:30",
-   "lease_until": "2026-11-15T15:01:52.445680+05:30",
-   "result": "",
+   "lease_until": null,
+   "result": "Employer LinkedIn posting 4476208163 now redirects to unrelated jobs. Cached description leans toward administration and bookkeeping. Need a live employer posting before preparing personalization.",
    "ref": "",
-   "updated_at": "2026-11-15T13:01:52+05:30"
+   "updated_at": "2026-11-15T13:02:22+05:30"
   },
   {
    "id": "W0003",

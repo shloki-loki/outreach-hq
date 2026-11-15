@@ -1547,6 +1547,15 @@
    "title": "Diagnosis: Instahyre job pages return 403 to WebFetch and curl",
    "detail": "Cause: Instahyre blocks plain HTTP readers (403) and our stored JD for Instahyre leads is only tag lists, so the rule 'never qualify on title alone' leaves them unresearched; 114 Instahyre leads, 42 never live-checked. Remedy: read Instahyre postings through the built-in browser while signed in (or a low-cost Apify actor within the 3.50 USD cap), or down-rank Instahyre in research order so the free model quota goes to readable postings.",
    "ref": "I0012"
+  },
+  {
+   "id": "J0173",
+   "at": "2026-11-15T20:23:59+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Research worker has not run since 01:50 IST",
+   "detail": "Cause: GitHub dropped every scheduled slot of research.yml (see I0005), and the free Gemini tier allows about 20 requests a day per Flash model, which the 01:54 writer run already used up. Remedy: trigger research.yml by hand or from the Mac (gh workflow run research.yml) once the daily quota resets after 05:30 IST, and fix I0005 so it runs on time. On free tiers (Shlok's 15 Nov decision) expect about 20-25 leads a day.",
+   "ref": "I0013"
   }
  ]
 }

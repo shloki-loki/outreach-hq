@@ -179,7 +179,7 @@
    "opened_at": "2026-11-15T20:22:12+05:30",
    "last_seen": "2026-11-15T20:22:12+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: GitHub dropped every scheduled slot of research.yml (see I0005), and the free Gemini tier allows about 20 requests a day per Flash model, which the 01:54 writer run already used up. Remedy: trigger research.yml by hand or from the Mac (gh workflow run research.yml) once the daily quota resets after 05:30 IST, and fix I0005 so it runs on time. On free tiers (Shlok's 15 Nov decision) expect about 20-25 leads a day.",
    "resolved_at": null
   },
   {

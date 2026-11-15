@@ -13592,7 +13592,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "linkedin",
    "source_id": "4486787745",
    "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-at-ek-kadam-aur-foundation-for-education-and-health-4486787745",
@@ -13608,7 +13608,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12",
    "open": true,
-   "jd": "",
+   "jd": "Company Description Ek Kadam Aur Foundation for Education and Health is a registered nonprofit under 501(c)(3) in the United States and 80G in India, working at the intersection of blindness, poverty, and inaccessibility. The organization focuses on providing quality education and health support to children from underserved communities in India and Nepal, preparing them to become part of the future workforce and leadership. Its programs connect communities, teachers, students, and institutions to promote an equitable and inclusive society. By integrating grassroots work in education, health, and rural development with state-of-the-art technology, the Foundation strives to improve children’s well-being and learning outcomes. Since its inception in 2015, Ek Kadam Aur has expanded significantly in India, driven by a strong commitment to uplift under-resourced children.\n Role Description The Chief of Staff is a full-time remote role responsible for supporting the executive leadership in strategic planning, coordination, and execution of key initiatives across education and health programs. This position oversees cross-functional projects, ensures alignment between program teams and leadership, and helps translate organizational priorities into actionable plans. The Chief of Staff will manage executive calendars and meetings, prepare briefs and reports, and facilitate communication with internal and external stakeholders, including partners, donors, and community leaders. The role includes monitoring program performance, identifying risks and opportunities, and recommending improvements to processes and structures. The Chief of Staff will also contribute to fundraising efforts, governance support, and overall organizational effectiveness, while maintaining a mission-driven, collaborative working style.\n Qualifications \n Leader who is committed to change the World for better.\n Demonstrated experience in strategic planning, program management, and organizational coordination in nonprofit or social impact settings.\n Strong skills in communication, stakeholder management, and relationship-building, including the ability to work with diverse communities and partners.\n Proficiency in data analysis, reporting, and decision-making using qualitative and quantitative information.\n Experience in operations, process improvement, and setting up systems for efficient remote collaboration.\n Ability to manage complex projects, prioritize multiple tasks, and work independently in a remote, distributed environment.\n Knowledge of or interest in education, public health, disability inclusion, rural development, or related fields.\n Bachelor’s or Master’s degree in management, public policy, social work, education, public health, or a related discipline (or equivalent relevant experience).\n Comfort with digital tools and platforms for communication, project management, and documentation.\n High level of integrity, commitment to equity and inclusion, and sensitivity to worki",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -13623,8 +13623,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -13634,15 +13634,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Remote Chief of Staff at a nonprofit; requires social impact experience you lack, and pay is unstated.",
+    "fit_notes": "The posting requires 'Demonstrated experience in strategic planning, program management, and organizational coordination in nonprofit or social impact settings' and a background in public policy, social work, education, or public health. Shlok's background at Ola Electric ([sop], [ceo-coo]) is purely in commercial supply chain and automotive operations, missing the required social sector background.",
+    "pay_notes": "No pay stated. Nonprofit roles in India for early-career profiles rarely clear the Rs 24.5 LPA fixed threshold.",
+    "culture_notes": "No public reviews or ratings found for Ek Kadam Aur Foundation.",
+    "hook": "Ek Kadam Aur Foundation integrates grassroots work in education and health across India and Nepal with technology to improve learning outcomes for underserved children.",
+    "hook_source": "https://in.linkedin.com/jobs/view/chief-of-staff-at-ek-kadam-aur-foundation-for-education-and-health-4486787745",
+    "researched_at": "2026-11-15T22:00:04+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -13666,14 +13673,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-15T22:00:04+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (Requires demonstrated experience in nonprofit or social impact settings, which Shlok lacks, and is unlikely to meet the Rs 24.5 LPA pay target.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T22:00:04+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Requires demonstrated experience in nonprofit or social impact settings, which Shlok lacks, and is unlikely to meet the Rs 24.5 LPA pay target."
   },
   {
    "id": "L0114",

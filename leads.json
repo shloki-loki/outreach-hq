@@ -30986,7 +30986,7 @@
    "key": "gosats|product manager ai product intelligence|bengaluru",
    "type": "job",
    "company": "GoSats",
-   "company_domain": "",
+   "company_domain": "gosats.io",
    "company_url": "https://gosats.io",
    "company_linkedin": "https://www.linkedin.com/company/gosats",
    "company_note": "YC Winter 2022 · team of 8 · GoSats helps you earn free bitcoin when you shop in India.",
@@ -30994,7 +30994,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, KA, IN / Bengaluru, Karnataka, IN",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "gosats:93243",
    "source_url": "https://www.ycombinator.com/companies/gosats/jobs/fR7kQlK-product-manager-ai-product-intelligence",
@@ -31016,17 +31016,17 @@
    "exp_text": "1+ years experience",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "₹1 INR • 0.05% - 0.10%",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "posting",
     "fit": "Unknown"
    },
    "score": {
     "rules": 69,
-    "research": null,
-    "total": 69,
+    "research": 39,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -31035,15 +31035,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "AI PM at GoSats (YC W22, team of 8), asks 2+ yrs PM experience shipping AI consumer features, which you lack.",
+    "fit_notes": "The posting asks for '2+ years as a PM, with deep hands-on AI tooling experience' and having 'built and shipped at least one AI-powered consumer feature'. While Shlok has CS/technical skills and built a Flask API during an internship [idekho], his ~1.3 years of full-time experience is in Strategy & Operations ([sop], [ceo-coo]) rather than AI product management.",
+    "pay_notes": "The job posting displays a nominal placeholder pay of ₹1 INR on YC; actual fixed salary is not specified.",
+    "culture_notes": "No Glassdoor or AmbitionBox ratings found. GoSats is a YC W22 startup with an 8-person team.",
+    "hook": "GoSats recently closed its $5M Series A to scale its Bitcoin and Gold rewards platform across India.",
+    "hook_source": "https://www.ycombinator.com/companies/gosats/jobs/fR7kQlK-product-manager-ai-product-intelligence",
+    "researched_at": "2026-11-15T21:54:57+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -31094,14 +31103,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 69"
+    },
+    {
+     "at": "2026-11-15T21:54:57+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Requires 2+ years of experience as a PM shipping AI-powered consumer features and vibe-coding with AI tooling, which Shlok lacks.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-15T21:54:57+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Requires 2+ years of experience as a PM shipping AI-powered consumer features and vibe-coding with AI tooling, which Shlok lacks."
   },
   {
    "id": "L0286",

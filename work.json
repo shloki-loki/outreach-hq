@@ -139,6 +139,20 @@
    "result": "11 researched, 1 qualified (L1360), 10 rejected; 8 emails (7 verified)",
    "ref": "L1360",
    "updated_at": "2026-11-16T10:01:25+05:30"
+  },
+  {
+   "id": "W0011",
+   "kind": "draft",
+   "lead_id": null,
+   "owner": "codex",
+   "title": "send-track scheduled run 2026-11-16: drafts, referral notes, app kits",
+   "detail": "",
+   "status": "queued",
+   "created_at": "2026-11-16T10:42:06+05:30",
+   "lease_until": null,
+   "result": "",
+   "ref": "",
+   "updated_at": "2026-11-16T10:42:06+05:30"
   }
  ]
 }

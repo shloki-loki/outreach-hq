@@ -1799,6 +1799,15 @@
    "title": "Scout scrape 2026-11-16 finished",
    "detail": "Started 09:32 IST, finished after the run-log: 6 new leads, 329 updated, 0 closed. 3 LinkedIn guest searches failed (HTTP -1) and Instahyre returned 429 on 3 searches. New leads are left for the next research pass.",
    "ref": ""
+  },
+  {
+   "id": "J0201",
+   "at": "2026-11-16T10:42:06+05:30",
+   "by": "codex",
+   "kind": "update",
+   "title": "Work W0011: add",
+   "detail": "send-track scheduled run 2026-11-16: drafts, referral notes, app kits",
+   "ref": "W0011"
   }
  ]
 }

@@ -39362,15 +39362,15 @@
    "key": "uber|sr program manager tech program management|bengaluru",
    "type": "job",
    "company": "Uber",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "uber.com",
+   "company_url": "https://www.uber.com",
    "company_linkedin": "https://www.linkedin.com/company/uber-com",
    "company_note": "",
    "title": "Sr Program Manager, Tech - Program Management (Tech)",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4482704026",
    "source_url": "https://in.linkedin.com/jobs/view/sr-program-manager-tech-program-management-tech-at-uber-4482704026",
@@ -39386,7 +39386,7 @@
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "About The Role\n You will report to the Head of Global IT Support & IT Supply Chain and own the operational maturity of our global IT Service Desk. The role carries direct accountability for the roadmap behind cross-functional programs that change how we support 30,000+ employees across 300+ offices.\nDay to day, you will run our shift-left and AI-first programs: growing virtual-agent deflection, merging Tier 2 and application operations into a single administration team, and restructuring vendor contracts around automation and reliability outcomes instead of headcount. You will set SLA standards, lead executive-level escalations, and make the calls on where to invest engineering effort versus vendor capacity.\n What You’ll Do\n Own the regional IT Service Delivery roadmap. Use operational data to find systemic gaps and design strategies that keep support capacity ahead of business growth. \n Run the shift-left and AI-first program: grow virtual-agent ticket deflection past 200K per year, consolidate Tier 2 and application operations into one team, and bring Tier 3 into IT Ops so escalations stay under one roof. \n Set and enforce SLA, QA, and vendor-governance standards across managed service providers. Restructure vendor compensation so it rewards deflection, auto-resolution, mean time to resolve, and quality—not headcount. \n Act as the final escalation point for high-stakes technical incidents. Coordinate rapid response across engineering, security, and business technology teams, and own crisis communication to executives. \n Run a portfolio of global initiatives (office launches, M&A integrations, major tool rollouts). Manage dependencies, critical paths, and resource constraints across parallel workstreams. \n Basic Qualifications\n 8+ years in IT program management or IT operations leadership, with direct experience managing global or multi-regional service delivery teams. \n Track record of driving operational transformation: shift-left programs, AI/automation adoption, or vendor-model redesigns at scale. \n Deep working knowledge of ITSM platforms (ServiceNow preferred), ITIL frameworks, and enterprise IT environments (endpoint management, identity, networking, collaboration tools). \n Preferred Qualifications\n Hands-on experience with AI-driven service transformation: virtual-agent deflection, automated ticket resolution, or self-service portal rollouts. \n PMP, PgMP, ITIL Expert, or Six Sigma certification. \n Proficiency in SQL, Tableau, or advanced spreadsheet analysis for operational reporting and executive storytelling. \n Experience with ITSM platform engineering, IT asset management tools, or procurement platforms. \n Background managing large MSP relationships end to end: RFP processes, quarterly business reviews, and performance-based contracts. \n Previous experience managing a large operation organization of size 100+ technicians\n PgM Competency Alignment (L5 – Sr. PgM I)\n Competency\n Expected Behaviour\n Organize & Execute\n Defines and organiz",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -39401,8 +39401,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -39414,15 +39414,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sr IT Program Manager at Uber, asks 8+ yrs; your 1.3 years of experience is a major seniority mismatch.",
+    "fit_notes": "The posting asks for '8+ years in IT program management or IT operations leadership, with direct experience managing global or multi-regional service delivery teams' and deep ITSM/ITIL knowledge. Shlok has about 1.3 years of experience at Ola Electric ([sop], [ceo-coo]) which falls far short of the 8+ years required. While it is in Bengaluru, the experience gap is too large.",
+    "pay_notes": "Pay not stated in posting.",
+    "culture_notes": "Ratings not found. Culture flags include a report that Uber cut 3,300 corporate jobs in a management overhaul [S5] and a third-party data breach exposing personal data [S4].",
+    "hook": "Uber recently brought ChatGPT Work to all employees with OpenAI.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5",
+    "researched_at": "2026-11-16T12:42:23+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Uber Revenue and Usage Statistics (2026) - Business of Apps",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOcmpTTDBDWDFmTjlraTNETGd4akl6RUNkZ0NYeXc0cHJSOE9RQ2VDR0hyZkFtT1JENUNOTGFhOEh6N28xZ2FlajJ5aHFPdkZiN3JpSV9ZM2pacF9EemVET3pR?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Running a Software Factory Efficiently at Uber Scale - Uber",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54RFVoM29VdUhHV0NfamFPX0I0QmNuSG9HUE9PTXAzZGJRRTVPeDdtMllWUXBkSUt1cFFQRmZ6RktmTkRFVFd4Y2dkdEF6bUNsRURvclRuMEZZc0hEUGcxdXB3UEpsZ0J4bERz?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Uber Says Personal Data Was Exposed in Third-Party Data Breach - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWhDcExobzZzQjdnNVdQVHdDeklvbFlaY3Y1d1EzLVFvX3FaVVlaQXk0ZmhNYXVUYUtGNTB6ZXRiVnAzcnpTUDdDckhCOTduZ2xKZm04cVhHOHRXNTFqTzZvMW5jUllIbU5uM2hSN0hscHh6QnowN1NGX1J0d2M2ZTZkT3ZiVjdiTV9lLWV5YVk0TGtxdHM0bEc1WEI?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Uber to cut 3,300 corporate jobs in management overhaul - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3ZtbUlneW5fUEJTZWtoUXE0TmVfOExkdEw4N3BHYlZTWTVweHN3TmNxbHppTmprNld5T0ZGQTAtZEphQks4ejRRWXZxVkc3dFh6WVhxRFpINm15QUlCZEtaSWJWVkxjWWdGX3FWT080U01KdER1SEhBaEFTeHhvdFZaQXRRNDRJUWRRbU11akJib2hiOTU1dGw4bXk3RXJ6aUpkWm1SSTc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Uber, Zipline partner on US drone delivery for Uber Eats - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGIxTkgzWjVwcGR3eUpmWi1fbjQ5TXo1ZWZzOVExUGJxdTJ5XzVZOXVTRmNXeFRLTXplV0JFcFFhUEhrblNPaTcwMGpxZ0hNWHR0OHp4dERKVUVnVFh3c1BNU3R4bFozMkVtUlBScmJkNVlxXzg1QWpWb1BCZEVVbktZOS0yZHRJeU5MUUhQS1Q3RE1jS3lOa3RrcUJlN3BVbVpsZnB0LW5iLTlNcUlyWHRHdDc?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -39446,14 +39484,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:42:23+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The role requires 8+ years of experience in IT program management, while Shlok has 1.3 years, making it a severe mismatch in seniority.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-16T12:42:23+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 8+ years of experience in IT program management, while Shlok has 1.3 years, making it a severe mismatch in seniority."
   },
   {
    "id": "L0335",

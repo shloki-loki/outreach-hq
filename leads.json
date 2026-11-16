@@ -39506,15 +39506,15 @@
    "key": "cognite|technical program manager|bengaluru",
    "type": "job",
    "company": "Cognite",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cognite.com",
+   "company_url": "https://cognite.com",
    "company_linkedin": "https://www.linkedin.com/company/cognitedata",
    "company_note": "",
    "title": "Technical Program Manager (Saas/Engineering)",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4410531330",
    "source_url": "https://in.linkedin.com/jobs/view/technical-program-manager-saas-engineering-at-cognite-4410531330",
@@ -39530,7 +39530,7 @@
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "What Cognite is: Relentless to achieve\nCognite operates at the forefront of industrial digitalization, building AI , and data solutions that solve the world’s hardest, highest-impact problems. With unmatched industrial heritage and a comprehensive suite of AI capabilities, including low-code AI agents, Cognite accelerates the digital transformation to drive operational improvements.\nWe thrive in challenges. We challenge assumptions. We execute with speed and ownership. If you view obstacles as signals to step forward - not backwards - you’ll feel right at home here.\nOur Moonshot is bold: Unlock $100B in customer value by 2035, and redefine how global industry works. Join us in this venture where AI and data meet ingenuity, and together, we will forge the path to a smarter, more connected industrial future.\nWhat Cognite is: Relentless to achieve\nCognite operates at the forefront of industrial digitalization, building AI , and data solutions that solve the world’s hardest, highest-impact problems. With unmatched industrial heritage and a comprehensive suite of AI capabilities, including low-code AI agents, Cognite accelerates the digital transformation to drive operational improvements.\nWe thrive in challenges. We challenge assumptions. We execute with speed and ownership. If you view obstacles as signals to step forward - not backwards - you’ll feel right at home here.\nOur Moonshot is bold: Unlock $100B in customer value by 2035, and redefine how global industry works. Join us in this venture where AI and data meet ingenuity, and together, we will forge the path to a smarter, more connected industrial future.\nHow you’ll demonstrate Ownership\n Breaking down complex requirements with the product manager, tech lead, and Office of the CTO, turning them into execution pieces and finding the right sequence\n Managing schedule, timelines, and milestones (i.e. alpha, beta, and GA)\n Driving the trade-offs between usability, go-to-market (GTM) lead time, features scope, technical debt/investment (i.e. across UX/PM/ENG/GTM) to maximize value for our customers and Cognite\n Drive end-to-end alignment from sales to delivery, security, and support\n Managing internal and external dependencies arising from end-to-end alignment\n Managing budgeting and resource needs\n Managing in-market product performance in scope of the program (e.g. usage metrics, cost drivers, required delivery effort, as well as quality, reliability, security etc.), ensuring those metrics are measured, reported, reviewed and acted upon\n The Impact you bring to Cognite\n Automate the \"toil\" of program management\n Run complex, cross-discipline and cross-department programs that span research, engineering, and product\n Strong influencing skills: The ability to influence stakeholders and drive consensus across the organization without formal reporting lines\n Structured, thorough and detail oriented\n Genuine interest in or direct experience on the full product lifecycle (product strategy, sales, deliv",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -39545,8 +39545,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -39556,15 +39556,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Technical Program Manager at Cognite, but asks 6-10 yrs and senior SaaS experience you do not have.",
+    "fit_notes": "The posting asks for '6-10 years of experience in Engineering and Program Management' and 'experience from a SaaS company at scale' plus software development/system design. Shlok has 1.3 years of experience in S&OP and supply chain operations at Ola Electric ([sop], [ceo-coo]), which does not match the heavy engineering program management seniority requested.",
+    "pay_notes": "Pay not stated in the posting or search results.",
+    "culture_notes": "Acquired by Schneider Electric for $3.1 billion [S1]; no specific negative culture flags found, but specific rating data with review counts was not available.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T12:42:37+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Schneider Electric buys Cognite for $3.1bn in industrial AI bet - Capacity Media",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTdNTG9Zc1ZkUUJ5c1BIZDBwN1ZCa0oyeG4xR01NU1lqSi1mdEJOSlhQendzNjY5QlR3MXBNcnVYdkM0cGtRZHJyVWNPbUZTZ3ktVmxsSVdWbkhzc0diTU9aNmYtMnI2cHNOUVctcDZaR2x5bk54cnl5dmdQNzdadFhZY2VFU0VnNW94ZTY2RU1YenpXYTFHMHdZTQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Schneider Electric to acquire Cognite for $3.1 billion to expand industrial AI, operational data capabilities - Industrial Cyber",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS1pSdHMyOUd3Tlp4MHd5SGlwTzBVd3ZPNUw3RWRadmo2ZWM2a3dhMHppWVZrMjV5MnVjUmh5dV9KYk8yMnhBV2FQMzZNUDRyT2VmR1BvNVplTjNGN2txdEpGS0FVU0NjSlRLbVVqREZSM2tpTzBXLTJkTE51eDJuaUxYYmc2SkFpYnA4Ym9ObzU2WmJidTZXbHdxcXNuRFJvSnQ2S2ZqYXk4eHhqMFhkWnNwUFJTd2t3T0RDVkgtUmhVMGdsNFViMGN1RU9iUm9heWNwN2t1bw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion - Euronext Markets: Real-time Stock Market Data | live",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLXZCMzFxckcwdWxhUmJvS0ZnNDViZjZFeDVrbW1raUNpSWQxOEhCMk9HSFNPbEh1OWl2bUc5UW9nNXpYS0lqaUNDWHVjMFk0MFZhcHFzbmpoRms5NGdPRVpyWTNVTndYYlREdDVaZUtmSHUwWUN4UklwTHBwSTlIRTgwdWdYS0JNcmM0VVJaSUZpUGdQVGw2d1hqS2pwMndCZDdsaA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Aker ASA – Agreement to sell Cognite to Schneider Electric - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXRvOTlSYjBUejRlakZ3MXRtWHpoTTl2VU9KOTJEMUdUTkJsWEcxUldfMmoxTU5JRUplbV9zVmJZbU9XclM2Z2JNYUJDVVdWNE5NSlFyLUNtZFNkVkFHT1RwbHowVEVTSWw4SVBnWHprTGJvZ05zYTZfdktqbmM5UGZnVUxkQnltRFNCWm9xUVI1cmlaZ3lRZVlhVzl6bEVpUmhpNks5UElGTFRfbExQXzMxXzk5RGhQMk1kU29JTQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "L&T Technology Services, Cognite to Expand Industrial AI Offering With CoE - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGx4ZFVwUnMzaFRFY3czSmprTHlmbTFjQkxHckJzM2dEdmtiSnRDcVJGZzM2MWhpc1RaUHBJUV9pMS1DWEVySDY2cWZ3YlZKZFRvVjI0eW9oRjRta1lINDg5bG1FT1pXcFZrOGZ3V2lHclZNRkNId19GYVFXOFZLbnlwS2RBcE5xUUZ6S2V4d1cwMmJsdEFOUVlGenBBbUpOaGxJMVg2N3BwQThWWnM4?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "How Schneider Electric Scales Industrial AI with Cognite - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTBaWElKNG1iNGRlSkJlN3hEV0VXaTZSVkd5cllvSWEyamVpNXJrVVAxLWRMWjRybldGM2tGMVd0WG1YejY0UkYxLWdTRWoxTmtBX1dRamlscERCNjlMNDJIOVpmVWJ1bzV5Q0RnNF9nYjlRVWRsTnlEbkN6UUE1emxsX1ZaSExORTlLdQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -39588,14 +39626,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:42:37+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Cognite's Technical Program Manager role asks for 6-10 years of experience [Preferred Experience: 6-10 years of experience in Engineering and Program Management] and deep SaaS engineering background, far beyond Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-16T12:42:37+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Cognite's Technical Program Manager role asks for 6-10 years of experience [Preferred Experience: 6-10 years of experience in Engineering and Program Management] and deep SaaS engineering background, far beyond Shlok's 1.3 years."
   },
   {
    "id": "L0336",

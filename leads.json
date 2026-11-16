@@ -167735,15 +167735,15 @@
    "key": "linkedin|product operations manager|bengaluru",
    "type": "job",
    "company": "LinkedIn",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "linkedin.com",
+   "company_url": "https://www.linkedin.com",
    "company_linkedin": "https://www.linkedin.com/company/linkedin",
    "company_note": "",
    "title": "Product Operations Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4490076745",
    "source_url": "https://in.linkedin.com/jobs/view/product-operations-manager-at-linkedin-4490076745",
@@ -167759,7 +167759,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "LinkedIn is the world's largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable insights every day. We're also committed to providing transformational opportunities for our own employees by investing in their growth. We aspire to create a culture that's built on trust, care, inclusion, and fun – where everyone can succeed.\n Join us to transform the way the world works.\n Job Description\n At LinkedIn, our approach to flexible work is centered on trust and optimized for culture, connection, clarity, and the evolving needs of our business. The work location of this role is hybrid, meaning it will be performed both from home and from a LinkedIn office on select days, as determined by the business needs of the team.\n Product Operations Managers are LinkedIn’s cross functional team communicators and collaborators shaping products/solutions using analytics to represent the voice of our customers/members and customer support & success teams to help improve LinkedIn’s product health and quality. They are relentlessly focused on driving a stellar member/customer experience for the millions of people using LinkedIn’s products, partnering with Product, Engineering, Design, Marketing, and Operations teams to quantify user friction in both new and structured ways, measurably enhance the product experience, and increase internal team efficiency by driving tool improvements and enablement.\n This role is co-located with key Product and Engineering stakeholders in Bangalore and will require some US time zone meetings where other teammates or stakeholders are located.\n A blend of detective work, influencing, analytics, and executive communication make this a unique and exciting role that will provide an opportunity to work with multiple teams across the company and around the globe.\n This role will be focused either on our Sales Navigator product, or 2. our Business Platform products, which could include experiences such as checkout, payments and billing experiences, user and access management, help centers, live chat and Virtual Chat Assistants.\n Responsibilities:\n Work with their product, operations, marketing, design, and engineering teams to influence and shape the product strategy and roadmap, drive change for key issues, and prioritize product change requests based on issue volume, members impacted, revenue impact, other relevant metrics, and illustrations of the user journey to create user empathy. \n Aggregate and analyze member issues using internal tools and queries (i.e., SQL) of all available data sources to gather user insights to influence and shape the product roadmap, help set targets, and to track and communicate post-launch impact. \n Collaborate closely with their product and design teams to ensure operational team processes are factored into new product development plans ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -167774,8 +167774,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 40,
+    "total": 50,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -167785,15 +167785,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Operations Manager at LinkedIn asks 4+ yrs experience (Shlok has ~1.3 yrs); pay not stated.",
+    "fit_notes": "Posting requires '4+ years’ experience in one or more of the following areas: Product Operations Management, Management Consulting, Program Management...' and '2+ years experience with SQL, Python, R'. While Shlok has SQL and operations/product experience [sop, ceo-coo, idekho], he has ~1.3 years of total experience, which triggers a reject for requiring over 4 years.",
+    "pay_notes": "Pay is not stated in the posting, and no company-specific pay evidence was available in search results.",
+    "culture_notes": "No specific Glassdoor or AmbitionBox ratings provided in the web evidence.",
+    "hook": "This Product Operations Manager role focuses either on Sales Navigator or Business Platform products like checkout, payments, and live chat.",
+    "hook_source": "https://in.linkedin.com/jobs/view/product-operations-manager-at-linkedin-4490076745",
+    "researched_at": "2026-11-17T00:43:42+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "LinkedIn - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1blNQZFdDS3FabG10MnJOYzN6b1NnWGNNTzF0VkI1N0FvSWxkZzc0NHRSY0tBQXlsdlpZX1hIOEpyWDFpRUZZQ21yNGE3MkFVSF8w?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "LinkedIn Usage and Revenue Statistics (2026) - Business of Apps",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81NEx3RUFMRmNxOG5MQ1hJQncwTUEtWjdDS2VyM0RPUTF5QkxROUJtNlFUY213ZFl5aHUyODV1T29GY3hQaFpZSTNvZlRqZVFPRWloRmxCdk01ZWh0bzRnNXFxMVh2QmM?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "How to Use LinkedIn for Business - Business News Daily",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zWGZnQzFLMERQVU5hekQyTFZfSzZ4cm5BWWJBU0ZBSGxXNzA1RkN0VElZV28yYXQ4Z01WekU3V1M2X2J5QzJlWVQtR1lCaC1lQ1BjaVlMME4yMzFYQkVkNHh2VUJ6NmpYNlZDdmxJbi0yZHRh?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments - infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QUGRtUzVwQU9EMVJicG9FNmFrMVpVblJpY3U4RXRmX2IzeFI5S3VJdFlObC00V19xdEJFYjBWOHB2TWNlTXlMaFFINy1MTlFGaGd1Q19kczNUZXZvS2pTcmlId1RFSklrTVhFVDIzaw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Turn Your LinkedIn Profile Into A Machine That Sells For You - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2hDeFhUM2pfOENNNUY3YXEydWhvVmZESnZDZlUxQTJRLXlSV0lRd3FZRVByZ284SU54azM3a2lBNHlHRDJwWHBqSzVKZG1wTU9qcXgyZEhTelZjQmxsWWhUQTBITHhDUjZ5S1Fvc2JCOV96bGVqQ3lyTlRsZmI2SVRHbFdQX3JpZXZHVmJKTG00VWdqTkZZMTZxTWh2SE9LYXFiRVhCNmUyRE9Wem1IZw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "AI Code Review at Scale: LinkedIn's Multi-Agent Approach - infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yNDJSS243SkVFSzA5ZlR5Y0tpZ1VsaUJzWGZmWnVsdm93UU55Q0tmMmdhZTBBYWZJYmo5OWFldGRJNjJ6LV9zVGx0a1lfTnkwamI4UWVWamZrQTlGV0JFbzNJeTNRc1ZOM2ln?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -167817,14 +167859,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:43:42+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (Requires 4+ years of experience in Product Operations, Program Management, or Management Consulting, exceeding Shlok's ~1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:43:42+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Requires 4+ years of experience in Product Operations, Program Management, or Management Consulting, exceeding Shlok's ~1.3 years."
   },
   {
    "id": "L1409",

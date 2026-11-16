@@ -165010,15 +165010,15 @@
    "key": "tataconsultancy|tcs bangalore hiring for category manager|bengaluru",
    "type": "job",
    "company": "Tata Consultancy Services",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "tcs.com",
+   "company_url": "https://www.tcs.com",
    "company_linkedin": "https://in.linkedin.com/company/tata-consultancy-services",
    "company_note": "",
    "title": "TCS Bangalore Hiring for Category Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488656680",
    "source_url": "https://in.linkedin.com/jobs/view/tcs-bangalore-hiring-for-category-manager-at-tata-consultancy-services-4488656680",
@@ -165034,7 +165034,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "TCS Bangalore Hiring for Category Manager \n Role : Category Manager\n Experience : 8 - 12 Years\n Job Location : Bangalore\n Should be flexible with night shifts & rotational shifts\n Eligibility:\n Minimum 15 years of regular, full-time education (10 + 2 + 3)\n Skills:\n Category Management\n Strategic Sourcing\n Procurement Analytics\n Supplier Relationship Management\n Spend Analysis\n Market Analysis\n Risk Analysis\n Contract Negotiation\n Stakeholder Management\n Vendor Management\n Bid Evaluation\n Procurement Compliance\n Power BI\n Advanced Excel\n SAP / Ariba / Oracle / Coupa\n Cost Optimization (CAPEX & OPEX)\n Supply Chain Analytics\n Responsibilities:\n Create and implement category management strategies and sourcing plans.\n Analyze procurement data to identify trends, savings opportunities, and process improvements.\n Develop dashboards and reports to track procurement KPIs and supplier performance.\n Evaluate supplier capabilities, pricing structures, and contractual compliance.\n Support vendor selection, onboarding, and supplier relationship management.\n Ensure timely delivery performance while maintaining quality standards.\n Create sourcing projects within ERP systems and manage sourcing activities end-to-end.\n Conduct commercial negotiations and stakeholder management activities.\n Perform risk analysis, market analysis, and spend analysis for sourcing decisions.\n Drive CAPEX and OPEX savings as a key performance indicator.\n Perform bid evaluations and savings reporting through Power BI.\n Identify procurement process inefficiencies and support automation initiatives.\n Ensure compliance with internal policies and regulatory requirements.\n Monitor contract obligations and proactively mitigate procurement risks.\n Mandatory Requirements (How to generate your EPCN) \n EPCN number is mandatory for eligibility of the interview. Follow the below steps to register : \n Step 1: Visit [ https://ibegin.tcsapps.com/candidate/ ] or visit [ https://www.tcs.com/careers ] and click on 'Apply Now'\n Step 2: On the I Begin homepage, click on Login (Three dots/lines at top right corner of the homepage to get the option)\n Step 3: Click on New User (Register with us)\n Step 4: Select \"BPO\" in Area of Interest and complete the registration. (Fill in the details)\n Step 5: Once completed, your TCS EP ID would be generated which starts with EP2026CNXXXXXXX.\n Step 6: You will be able to see your EP ID after your login to the I Begin website\nSeniority level Associate | Employment type Full-time | Industries IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -165049,8 +165049,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -165060,15 +165060,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Category Manager at TCS, asks 8-12 yrs; your supply chain work is strong, but experience requirement blocks it.",
+    "fit_notes": "The posting asks for \"8 - 12 Years\" of experience and skills in Category Management, Strategic Sourcing, and Procurement Analytics. Shlok has strong supply chain execution and S&OP background at Ola Electric (answering via [sop], [mrp], [ceo-coo]), but his 1.3 years of experience falls well short of the 8-12 years required.",
+    "pay_notes": "Pay not stated in the posting; at 1.3 years experience, even if considered, hitting the Rs 24.5 LPA fixed floor for an 8-12 year TCS role is unlikely.",
+    "culture_notes": "Large IT services firm (Tata Consultancy Services); recent news notes AI foundry and autonomous engineering launches [S1].",
+    "hook": "TCS recently launched its Industrial Intelligence Foundry to accelerate AI-led autonomy and engineering.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWU5RaGZmckJoTlFRNXpDNnFBMjNkdm93VjNOb0ozQWlpWGNpN0QzLVFPcmUtZS1WUXA5YnZLVTlMUFgzTl9UeVBDOFdtcnJqSDBNM2RvQkRSeHU3dmlySjljSUhTTEhMTzZhYS16SkpIUW45V2lJMGx1bnBMbV9BRlQtdUxSNEM3WUtaU1pSclFpMEdxM0VlOTk2ZUNCaEtSMEpWRFQ3MkN4aGFGbWx6T3FySHR1c2ZPV1FUYVNaNDB0Vk95U0k5N2N6TU9xcVB5QzRB?oc=5",
+    "researched_at": "2026-11-16T12:45:29+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "TCS launches Industrial Intelligence Foundry to accelerate AI-led autonomy and engineering - Tata Consultancy Services",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWU5RaGZmckJoTlFRNXpDNnFBMjNkdm93VjNOb0ozQWlpWGNpN0QzLVFPcmUtZS1WUXA5YnZLVTlMUFgzTl9UeVBDOFdtcnJqSDBNM2RvQkRSeHU3dmlySjljSUhTTEhMTzZhYS16SkpIUW45V2lJMGx1bnBMbV9BRlQtdUxSNEM3WUtaU1pSclFpMEdxM0VlOTk2ZUNCaEtSMEpWRFQ3MkN4aGFGbWx6T3FySHR1c2ZPV1FUYVNaNDB0Vk95U0k5N2N6TU9xcVB5QzRB?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Porsche sells MHP to Tata Consultancy Services - Porsche Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeHFwVEE1MVllNXIzQ1ZoWnBrRzJEUElXbGtkbGZ4X1JxdFdNdGtncDZZaWlxdC1mTHJlNVhidHVTTnB3VnI4ZXh3TmpMckhQa1E2U19hemZnVkZCYm85NzdYOGc5VExvb1JLYTlVTGxVdWx4QzFkdDFCSVpGX3hQbnJZQU9JWGVCc0lQY2pXOUNaU1ZDbWc5TUUxVl95X1U?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "TCS launches AI-native creative engineering studio in the UK - Tata Consultancy Services",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFZEeDhVNHIzcFFtQWNKME1qWTQ0TDJDelNsRFF0MlhGUlhyeU1lcjR6VHE5VjFSMWdJdmxFOEpTZW81Q3Bsc3pqa2JSYXBMSTNYX3FCbmYtX3FuaW5IWXRWRGFXR2lZUkdRQXhTLUpzcVgtXzdabjdRZ2hTc1VBVUJXNmFZTWRHaWF1eHpCR2VUMG05X1hUTWhqRlhIa0JPd01Eak1Cbl9QSnM?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "TCS and ABB sign multi-million, multi-year deal to transform global network operations with AI - Tata Consultancy Services",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeThfQmFyeEZvNFJ3NjBrYlVaQmh1Y05FX1VGUVo3dmhvenRKTjhReGtrdjJGZ3BTQTZKY0I2R1JFWUdYQm5ISzEyM1RiQlUxTWhERm83eF9udGFEMDZiUVUtWVJQbzVvUmZTWHFTTWVzN0pacFVLMjI5b2t6SzA0czZWak9tQmE0UXRhcEZ6VUI2VGdWNFphdzFySC11elhOc29qaHY1NTE1QVNjb3ZpTXBXMkdtb29qV0diMGxQOHZiQzA2VG0zaWgtZmU2dlpzOExhWWhzYXB3TXVWTDN3Uw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHVWMTZfdlZoNHBPbVhNSTktYk5yTzBaN3BOTWc2NjNhczhUWVJVTktLZld3WC0zeGEyREFDZk1kWkFjNzBFaXV0M3JSMC1mNFlPQU9DYy1palFFbTRoUFYxR1JZVDNRVmhCQzREYnMxOGd1cEFhNE9aeTFOVzhDTjF6UVY3b0RzUm5ReWIyQkQ2ZjF2OC1kNG40clpPNzhkTTJZOWJUckc0SUlaWVhaa1VFOVpkVXA3am9aY1I2bWlqODM3N2c?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "TCS’ HyperVault to establish large-scale AI data center campus in Telangana - Tata Consultancy Services",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDI1czBnVzJ4dmNyLWl6RnZBWTBQS21mT3JIWGdvbVVmS3VHNjFkckRLd2R4OEVBU2VMWEZxRFZlaklpLW1rT1RoN0dyeWRnUGhLZzZGcmJFaWNZN1FmdFc2YXFEUW16QlZWRWNfeEhRWll6WUI3b1M0ZG1GMWUxb0RmVGdwWnRqMEpRazAwWG1kbjk4T0NEN29QTFNZVDJCTWl0d2ZmMjFUNnlNRVZKRV9PN1RNSFNuUnlEa3dQdw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -165092,14 +165134,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:45:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (The role asks for 8-12 years of experience, far exceeding Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-16T12:45:29+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 8-12 years of experience, far exceeding Shlok's 1.3 years."
   },
   {
    "id": "L1386",

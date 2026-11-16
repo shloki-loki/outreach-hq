@@ -169932,7 +169932,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru East, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489229943",
    "source_url": "https://in.linkedin.com/jobs/view/online-growth-manager-at-kofteci-foodkrafts-4489229943",
@@ -169948,7 +169948,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Key Responsibilities\n Develop strategies to drive online sales and business growth.\n Manage online ordering platforms and food delivery channels.\n Improve brand visibility across digital platforms.\n Plan and execute digital marketing campaigns.\n Drive customer acquisition, retention and repeat orders.\n Monitor online sales, revenue and performance metrics.\n Optimise Swiggy, Zomato and other delivery platforms.\n Analyse customer behaviour, market trends and competitors.\n Coordinate with marketing teams for promotions and offers.\n Identify new opportunities to increase online revenue.\n Required Skills\n 3–5 years of experience in online growth or digital marketing.\n Experience in the restaurant or F&B industry preferred.\n Knowledge of Swiggy, Zomato and online sales platforms.\n Strong analytical and communication skills.\n Understanding of performance marketing and customer acquisition.\n Ability to drive revenue growth through digital channels.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Hospitality, Restaurants, and Food and Beverage Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -169963,8 +169963,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 10,
+    "total": 32,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -169974,15 +169974,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Online Growth Manager at Kofteci Foodkrafts asks 3-5 yrs in digital marketing and Swiggy/Zomato growth, which has no overlap with your facts.",
+    "fit_notes": "The posting asks for 3–5 years of experience in online growth, digital marketing, and managing food delivery channels (Swiggy, Zomato). Shlok has 1.3 years in supply chain strategy & operations (S&OP, inventory management, SAP MRP) and no performance marketing or F&B growth background.",
+    "pay_notes": "No pay stated in the job posting and no salary benchmark available for Kofteci Foodkrafts.",
+    "culture_notes": "No company website, ratings, or news records were found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T00:50:04+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -170006,14 +170013,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:50:04+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 32: rejected (Requires 3-5 years in digital marketing and Swiggy/Zomato growth, which does not map to any of Shlok's background or facts.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:50:04+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Requires 3-5 years in digital marketing and Swiggy/Zomato growth, which does not map to any of Shlok's background or facts."
   },
   {
    "id": "L1429",

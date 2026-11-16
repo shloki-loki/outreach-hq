@@ -2064,7 +2064,7 @@
    "key": "vianaarhomes|business operations manager|abroad",
    "type": "job",
    "company": "Vianaar Homes",
-   "company_domain": "",
+   "company_domain": "vianaar.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Not found (established Goa developer, est. 2007)",
@@ -2135,10 +2135,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/shivam-balve-30b35935b",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "shivam.balve@vianaar.com",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first.last), not verified",
+     "confidence": 35,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     },
@@ -2192,9 +2192,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to shivam.balve@vianaar.com"
+    },
+    {
+     "at": "2026-11-16T12:47:34+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Shivam Balve: shivam.balve@vianaar.com (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-14T15:46:28+05:30",
+   "updated_at": "2026-11-16T12:47:34+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "unknown",

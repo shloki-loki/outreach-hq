@@ -1871,6 +1871,15 @@
    "title": "Ran",
    "detail": "0 replies, 0 bounces, 0 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J0209",
+   "at": "2026-11-16T11:41:38+05:30",
+   "by": "follow-up",
+   "kind": "debug",
+   "title": "git fetch of data branch failed once",
+   "detail": "First 'lead list --followup-due' crashed: git fetch origin data exited 128 during store.sync(). Manual retry of the fetch succeeded seconds later; track and lead list then ran clean. Looks transient (network).",
+   "ref": ""
   }
  ]
 }

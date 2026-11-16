@@ -173625,15 +173625,15 @@
    "key": "abb|business development manager motion services|bengaluru",
    "type": "job",
    "company": "ABB",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "abb.com",
+   "company_url": "https://www.abb.com",
    "company_linkedin": "https://ch.linkedin.com/company/abb",
    "company_note": "",
    "title": "Business Development Manager, Motion Services",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru East, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489963826",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-motion-services-at-abb-4489963826",
@@ -173649,7 +173649,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.\nThis Position reports to:\nLocal Division Manager, Motion Services - India\n Your Role And Responsibilities\n In this role, you will have the opportunity to conduct proactive business development aligned with the division’s strategy in countries where business conditions require increased attention and focus. Each day, you will provide business support, including expertise in products, applications, solutions, and segment and customer (group) support for the assigned product portfolio. You will also showcase your expertise by ensuring profitable business growth and sustainable deployment of the division’s strategic plan.\nThe work model for the role is: \nThis role is contributing to the Motion business based at Bangalore, India:\nYou will be mainly accountable for:\n This role will be reporting to Local Division Manager, Motion Services - India ( Business Head India Motion Services )\n Ensuring the strategies and business plans are aligned with the overall division’s strategy to achieve defined targets.\n Defining Key Performance Indicator (KPI) targets for existing products as well as new product launches in collaboration with the Marketing function and ensuring their achievement.\n Overseeing the implementation of activities for agreed cross-divisional, product group, and regional initiatives.\n Supporting the organization in the execution of product launches and customer events when required.\n Support long-term business planning; assess emerging technologies, incubate new business ideas and develop new business models and start-up collaborations.\n Define inorganic growth priorities; identify and screen acquisitions, ventures, joint ventures and strategic partnerships; build relationships with targets and advisers\n Support integration planning and synergy realisation; establish reporting and track financial and operational performance against acquisition objectives.\n Qualifications For The Role\n Bachelor’s degree in engineering (Electrical, Mechanical, Industrial, or related discipline)\n MBA from a reputed institution is good to have\n 8 to 15 years of experience in Business Development, Industrial Services & Market exposure.\n Prior experience in industrial, engineering, technology, energy, or manufacturing sectors preferred.\n Experience participating in due diligence or M&A transactions is preferred.\n More About Us\n ABB Motion provides pioneering technology, products, solutions and related services to industrial customers to increase energy efficiency, improve safety and reliability, and maintain precise control over processes. The portfolio includes motors, generators and drives for a wide range of applications in all industrial sectors.\n We value people from different backgrounds. Could this be your story? Apply today or visit www.",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -173664,8 +173664,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -173675,15 +173675,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Development Manager at ABB, asks 8-15 yrs; you have 1.3 yrs and an electrical engineering background.",
+    "fit_notes": "The posting asks for a 'Bachelor’s degree in engineering (Electrical, Mechanical, Industrial, or related discipline)' and '8 to 15 years of experience in Business Development, Industrial Services & Market exposure.' It also notes 'MBA from a reputed institution is good to have.' Shlok has a B.Tech in Electrical and Electronics Engineering from IIT Guwahati and operational experience at Ola Electric (such as [ceo-coo] and [sop]), but falls significantly short of the 8-15 years experience requirement.",
+    "pay_notes": "No pay was stated in the posting, and no salary figures were found in the evidence.",
+    "culture_notes": "Not found in evidence.",
+    "hook": "ABB recently provided an update on the divestment of ABB Robotics.",
+    "hook_source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSk5jQ0hiRTIwM3Zuc2VKTVF6a1E1bUlCYVRpUmNDMzd0REE0MDVMM3VFbm1ST014aXlYSGNJY1hlQVNPdkhkSFlxWVZtRDNRc3h0ZEhLZFg0RFlpd0R0VG5ULWtVQmZKc01aRk44d3NCcjUwekVKUnp6Nlh4ODNHU3dnZzc?oc=5",
+    "researched_at": "2026-11-17T00:59:51+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Update on divestment of ABB Robotics - ABB",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSk5jQ0hiRTIwM3Zuc2VKTVF6a1E1bUlCYVRpUmNDMzd0REE0MDVMM3VFbm1ST014aXlYSGNJY1hlQVNPdkhkSFlxWVZtRDNRc3h0ZEhLZFg0RFlpd0R0VG5ULWtVQmZKc01aRk44d3NCcjUwekVKUnp6Nlh4ODNHU3dnZzc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "ABB Robotics E-Device simplifies robot interaction on customers' own devices - ABB",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSzZUOHBQWS1qQ3NzWUFsM1hOWXRQWTRDaEtRZXlEUEpFekJpdkZhMlppWmZ4V1dUVEI5c3NqWERkM1dySU1sQ2VGUzhCRnJRM1N6REhCSFRvYV9kMmtjZ0h3SFl2VVVtenVhOG91dEQ0ZFpVZlVHUGxVRDNHa01hT01CbnRRRWZfdlAyOTl0M0VEcUZhWGpVWDZrRTNSOUdrVEc4c1F0TVc5QmtEYjF2aE55U1ppYXNMSnRvakxxWkQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "New ABB and BCG report highlights growing role of direct current technologies in future power systems - ABB",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPREdrMENPbW9lb1VXVllzbDE1blk4cDFrd0E2d3l6MVlWNVNFeFdkYzAzSHI0bDZhcWJkYkhoRFJPVE13cjV2X2w1WFZhY1dabExUcTJGbDRrcGJzNFluUV9aRHVuWUd3MVZFLVpNVklCN1lYQ1lrMDM4UC1najEtYllvNHkzOFIxUUJjeGswT0VzUnFTamxLaWlFdlBVejBOckRzbzdnTHJ3UUl1aDBsUUEyU1RrR3RVZFZYd2R4MEtxR05vRV95S0ZSRm04a2FISWxpMDhIRTgtWkU?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "ABB joint venture with Mitsubishi Electric to expand position in Asia-Pacific markets - ABB",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNemRLbXdkUWtMUzZRa05OeC1OdHNEM0pKNTZQUmdlS1NGMDFvOVpxMmhqQXJ6SlFBdDVNczUtZUZUamFvSkZWcnRhc05UTFBPZ3p0Q2ZFbm43NWdPVjV3U2pGaGZITlNpUmZnZ09ORS1KSHRMLUtla05DN29sOVotRUc4QTBqSzdfOXp2aktlTl85QU9mSkYzQnpXekk4NUFLMFJ0YkhENE5pWmVySzdZNjU3V0dRLXBiQzl0S0F4N1U2emp0dlE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "​​​​​​​ABB Robotics collaborates with Roche to bring physical AI to laboratories - ABB",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUHlRY0poNkpCR0dSdnAyb0pXT1k0ZS1FT3N2VElad0dKMWZRUDdVLTV1RlRjdVMzNS1lN0NjQVpQeGdOdnFMMTQ0S0J0eHFjSlUwVFRfb0hFbTlyd2Fmb1d3a1hOX0RTem1TSlg1Y1FGZ0JJMkYwamlIQkdldGowTGlXOXBnTTJuV0VyOUt5UjZfVWctZjdWOHk1UmJteUgybEtHLTlFQmhfVDU1TGFubUdXZmlONTVNVFZBUGVR?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Q3 2026 results - ABB",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VQjJxdkd0cFB0amMtZnlwWUp3YTI4ZmQ4RWJxTWVCOGNaLUJaaGltOEFaQ0d4S3QzYS1ZUWFNdmxxTDNLVmlWNWJFWGd6cG9CWW1IRWozT1hXUF9ZN3Z6YVVORk9haHhn?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -173707,14 +173745,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:59:51+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The posting asks for 8 to 15 years of experience, far exceeding Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:59:51+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 8 to 15 years of experience, far exceeding Shlok's 1.3 years."
   },
   {
    "id": "L1462",

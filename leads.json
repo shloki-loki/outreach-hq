@@ -13495,17 +13495,17 @@
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "Rs 12-15 LPA fixed",
+    "min_lpa": 12,
+    "max_lpa": 15,
+    "basis": "stated",
+    "source": "LinkedIn posting 4489915536",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 12,
+    "total": 34,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -13515,15 +13515,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "CEO's Office at Avangarde family office, Delhi, stated Rs 12-15 LPA fixed; below your floor and posting closed.",
+    "fit_notes": "LinkedIn guest view 2026-11-16: 'No longer accepting applications'. Asks 2-3 yrs, startup/MSME, coordination/follow-up role for the MD's office, Connaught Place Delhi.",
+    "pay_notes": "Stated in posting; top of band under 24.5 floor.",
+    "culture_notes": "Family-office setup; no further evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T09:55:03+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -13565,9 +13567,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-16T09:55:03+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 34: rejected (Posting closed; stated pay Rs 12-15 LPA fixed (below floor); Delhi)"
     }
    ],
-   "updated_at": "2026-11-14T19:01:20+05:30",
+   "updated_at": "2026-11-16T09:55:03+05:30",
    "live_check": {
     "at": "2026-11-14T19:01:20+05:30",
     "state": "closed",
@@ -13577,7 +13585,8 @@
     "at": "2026-11-14T19:01:20+05:30",
     "reason": "the posting says \"No longer accepting applications\"",
     "by": "live-check"
-   }
+   },
+   "reject_reason": "Posting closed; stated pay Rs 12-15 LPA fixed (below floor); Delhi"
   },
   {
    "id": "L0112",

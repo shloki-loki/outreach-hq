@@ -160041,8 +160041,8 @@
    "key": "akshayapatrafoundation|executive sr executive ceo office|bengaluru",
    "type": "job",
    "company": "Akshaya Patra Foundation",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "akshayapatra.org",
+   "company_url": "https://www.akshayapatra.org",
    "company_linkedin": "",
    "company_note": "AmbitionBox 4.3 (808 reviews, via Naukri)",
    "title": "Executive/Sr. Executive - CEO Office",
@@ -160064,7 +160064,7 @@
    "posted_at": "2026-11-09",
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-15",
-   "open": true,
+   "open": false,
    "jd": "Bachelor s Degree in any discipline \nEnsure meeting rooms,technology,documents,and other logistical requirements are arranged as required\nCoordinate with relevant internal teams to obtain information and documents required by the CEO s Office\nUndertake additional administrative and coordination responsibilities as required. \nRequired Skills & Qualifications: .",
    "exp_min": null,
    "exp_max": null,
@@ -160072,16 +160072,16 @@
    "stretch": true,
    "pay": {
     "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "min_lpa": 1.1,
+    "max_lpa": 3.5,
+    "basis": "estimate",
+    "source": "AmbitionBox Akshaya Patra Foundation Executive, 18 salaries (via search snippet)",
+    "fit": "Below range (estimate)"
    },
    "score": {
     "rules": 72,
-    "research": null,
-    "total": 72,
+    "research": 12,
+    "total": 36,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -160092,15 +160092,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "CEO Office executive at Akshaya Patra (NGO), 1-3 yrs; AmbitionBox puts its Executives at Rs 1-3.5 LPA, far under your floor.",
+    "fit_notes": "Naukri posting returned 403 on 2026-11-16, so the JD itself was not read; the Naukri URL gives 'Executive/Sr. Executive - CEO Office', Bengaluru, 1-3 years. Not qualifiable without opening it, and pay evidence rules it out regardless.",
+    "pay_notes": "AmbitionBox Executive (1-5 yrs) Rs 1.1-3.5 L/yr, 18 salaries; a 2-7 yr Executive listing showed Rs 3-3.6 L/yr.",
+    "culture_notes": "AmbitionBox pay satisfaction 4.3/5 (snippet). NGO; CEO Shridhar Venkat.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T09:55:11+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -160124,9 +160126,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 72"
+    },
+    {
+     "at": "2026-11-16T09:55:11+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 36: rejected (NGO executive-level CEO Office role; Akshaya Patra Executive pay Rs 1.1-3.5 LPA on AmbitionBox, far below floor; Naukri posting could not be opened)"
     }
    ],
-   "updated_at": "2026-11-15T01:20:54+05:30",
+   "updated_at": "2026-11-16T09:55:11+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -160136,7 +160144,8 @@
     "at": "2026-11-16T02:54:40+05:30",
     "why": "the posting page has no readable description",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "NGO executive-level CEO Office role; Akshaya Patra Executive pay Rs 1.1-3.5 LPA on AmbitionBox, far below floor; Naukri posting could not be opened"
   },
   {
    "id": "L1352",

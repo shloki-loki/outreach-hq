@@ -164575,15 +164575,15 @@
    "key": "nokia|procurement category manager it infrastructure|bengaluru",
    "type": "job",
    "company": "Nokia",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "nokia.com",
+   "company_url": "https://www.nokia.com",
    "company_linkedin": "https://fi.linkedin.com/company/nokia",
    "company_note": "",
    "title": "Procurement Category Manager - IT Infrastructure",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4488950504",
    "source_url": "https://in.linkedin.com/jobs/view/procurement-category-manager-it-infrastructure-at-nokia-4488950504",
@@ -164599,7 +164599,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Job Description\n As a Category Manager, you will play a pivotal role in driving the strategic procurement of IT infrastructure of Enterprise Campus Edge business unit. You will act as a trusted, knowledgeable, and solution-oriented business partner, working closely with international teams and external partners to deliver sustainable, cost-efficient, and innovative technology solutions. Your goal is to execute our strategic procurement practices while ensuring all processes are robust and transparent.\n How You Will Contribute And What You Will Learn\n Strategy & Sourcing Excellence\n Design and implement global procurement strategies for IT infrastructure, including hardware, software, cybersecurity, and cloud services.\n Lead the end-to-end RFI/RFP lifecycle and negotiate complex contracts with global IT market leaders to drive margin improvements.\n Optimize the software landscape and IT delivery models in alignment with the company’s future strategic direction.\n Conduct comprehensive market and spend analyses to maintain a deep understanding of technology supply markets and commercial models.\n Utilize advanced analytical tools for competitive benchmarking and data-driven decision-making.\n Stakeholder Engagement & Collaboration\n Partner with IT, Finance, Legal and other global functions to understand business requirements and influence demand.\n Build trusted, collaborative relationships across the organization to ensure procurement activities meet core business needs.\n Collaborate and exchange expertise with international strategic buyers to implement sourcing best practices.\n Operational & Process Excellence\n Contribute to the Procurement Transformation through the adoption of new processes, analytics, and innovative ways of working.\n Cultivate and evolve strategic supplier relationships, implementing targeted improvement measures based on performance evaluations.\n Implement and track KPIs, performance dashboards, and reporting mechanisms to manage category performance effectively.\n Support the development of procurement documentation, playbooks, and standardized best practices.\n Promote ethical business practices and ensure the highest Environmental, Sustainability, and Governance (ESG) standards.\n Key Skills And Experience\n Your Profile\n Education & Experience: A degree in Engineering, IT, or Business, with 5+ years of experience in procurement roles - ideally within IT infrastructure or professional services.\n Technical Expertise: Knowledge of IT categories (Cloud, Software, Hardware) and a strong understanding of current market structures. While technical knowledge is valuable, we place a high premium on the right attitude and a demonstrated ability to showcase delivery excellence.\n Methodological Strength: Solid understanding of Category Management and strategic sourcing methodologies, with the ability to apply them in a fit-for-purpose manner.\n Negotiation & Commercial Skills: Strong analytical and negotiation capabilities, basic knowledge a",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -164614,8 +164614,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -164625,15 +164625,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Procurement Category Manager at Nokia, asks 5+ years; your 1.3 years of supply chain experience is too junior.",
+    "fit_notes": "The posting requires '5+ years of experience in procurement roles - ideally within IT infrastructure or professional services' and a degree in 'Engineering, IT, or Business'. Shlok has about 1.3 years of total experience, making the 5+ year requirement a hard block. While his experience includes managing IT/ERP and procurement operations like SAP MRP implementation [mrp] and raw material management [mrp], the experience gap is too large.",
+    "pay_notes": "Pay not stated in posting; no pay evidence found in search results.",
+    "culture_notes": "Headcount, ratings, and culture reviews not found in provided search results.",
+    "hook": "Nokia recently collaborated with Microsoft to accelerate network automation through an agentic, unified data foundation [S2].",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbklQWUIyay1NdWNxYVhjMEVjVmhPVEFuQWdvemJacjUyeko1SnU3bEJOMUxOU1JyZlJ4b0ZZQXFDZHpzVjBoM19iX1B4aUF0Q1dCTjZ5cEtwQ3JqTVZheHc5Um44RmFRU0pLYlZNWHptNlgxQXJ0aVNOeDZra0hldXQtM3g1VHJsZUxmZE85eGRLaDhTWXQtNzgyQWc3VG1JYmtRVFlyTjJhRkNmTDdjZzRTRGRTUWkxc0lteUF5cVI?oc=5",
+    "researched_at": "2026-11-16T12:44:34+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Nokia launches industry-first initiative to help operators accelerate network innovation in the AI era - Nokia",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQUdwODlsSzBJNFptQnVQb2hya2pMWG5Sam01dFVyM0M5aFJSekVPQU1LQXlTdmttREwxTUVrbXVHRlBiNzVpc2ZTaWVQZE5Wa002VzBlMjZOcVc2cXZ2T28yQmNFY0tOUVFGY19MUVFFRjVNaG1icEJrYzdWVlQtLTBOYjdWbGVXc2ZVWHFmREJTcFVBbkJIZzZkTzJIbWtUa0dRdTdMVkdYa1E5cWlQdmZXQi0tT2lVQVZqUWlPb1JyYTRPRjNtWk9WbjhLOGs?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Nokia accelerates network automation through agentic, unified data foundation with Microsoft - Nokia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbklQWUIyay1NdWNxYVhjMEVjVmhPVEFuQWdvemJacjUyeko1SnU3bEJOMUxOU1JyZlJ4b0ZZQXFDZHpzVjBoM19iX1B4aUF0Q1dCTjZ5cEtwQ3JqTVZheHc5Um44RmFRU0pLYlZNWHptNlgxQXJ0aVNOeDZra0hldXQtM3g1VHJsZUxmZE85eGRLaDhTWXQtNzgyQWc3VG1JYmtRVFlyTjJhRkNmTDdjZzRTRGRTUWkxc0lteUF5cVI?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Nokia advances AI-RAN toward commercial deployment and physical AI, launches sovereign agentic AI platform for telco autonomy with NVIDIA - Nokia",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZDJJWEg0cHZuQzFHbTdfOHE0X2tGNERvbUZWT1dYNkZGRDhOQ0RTTFhLS2lFZ0ZGekpfRFgxUWY0QnBzeEVaS3FwaWEtYUtvVGJfczk1ZUQzdUV1VWo4ZTVOdTRkckJpZHV0dnZZZGhWMl9salBFTlo1TmRVVVhhdDgtVnc0c3FzVXVUQXlLOWFaZ1ZHRDBZeWF6N1lUM0FULWpaeVhwcDhCT2FxVml2YUxnQTBEXzl6VHZya2NBWXVZQTVJTGs3LU9qbHQ3WXc5VGFMZWhRU2xqZWFRd1NYdVpqcVJuN1ZqMGs4dGQ1ZzItVjNFdmVIQVJHbDM?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Nokia Corporation Interim Report for Q3 2026 - Nokia",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb1RMcmtOSkRMd0dzRHIxTTl4R3M2cEloNG43VmdEOXd2X1FwcDBCaXh3RGVvYzN5Y2IzaU85Q09WM2tSTmJFZUFVT1k1V0lLWjR4dWFHOWVOMVZhcEUyMHpKSnhYMVp2c3pJVXJfVS1SWjVRaDNhRVd2MTJWbnFMTFRB?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Nokia and Orange France complete first worldwide live service provider network tomography trial, supporting AI-ready infrastructure - Nokia",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVkE2NHZwZDNfMGlXRjFBYmpLbE1RUGxlUVdkcEFVajRYQ3JUMXlfSUhFTGpONUZranpMZzlBdFpEUzFkdks1RElGbXJ5QzNackdpWUgtR3ZrSFUyWWluQW5FVU0tbHV3RlJzSHo1OW5JLXVzd1Y4VjFVVFFLdzJEMDNyWVRkVmZ5VWdKek9MTkN6aHFDeENSTlNOcmE0YnpkN2dUZ3FaQS13XzNaeUF1cHNrMHhOTjZOeEdReWpSTVJDTEptVDRaSlNGbkhRc0c0LTdJdU5zNkdjZFpZZVJfbU13V0tQT3pEWTBBcmJkbG4welBp?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "ICEYE and Nokia partner with the Ministry of Defence of Ukraine to develop sovereign satcom capability - Nokia",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUkVEdVQ0ZnAwZklFZmdIMlBnTXJtQXhEOGd2Q2I5RzRmQzV0RFJPSW5TSjlnTmRSWWE0dVBqMEFyZGJ5YVd2T3Y4aHpuTkExSUNvMXFScDQ5dmJzUS1IUFFFSUZzVlg3NmYtMExZS3E4TmJUb1B1ZTlkRktfOXF3VF90NFdSOHFUcElyM3FabkhuNjlIcm9mcXpGWlA5VXloeGdZRXBka0xacEtsbktmUjM4VTdQZ3RzU2htaEQ4OHBsR0sxVGx6V2JWNWtaU28?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "mrp",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -164657,14 +164698,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:44:34+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The posting asks for 5+ years of experience, whereas Shlok has about 1.3 years, making this a severe seniority mismatch beyond a normal stretch.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-16T12:44:34+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 5+ years of experience, whereas Shlok has about 1.3 years, making this a severe seniority mismatch beyond a normal stretch."
   },
   {
    "id": "L1383",

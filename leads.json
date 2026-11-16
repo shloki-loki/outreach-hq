@@ -5128,7 +5128,7 @@
    "key": "frnd|associate manager strategy and operations|bengaluru",
    "type": "job",
    "company": "FRND",
-   "company_domain": "",
+   "company_domain": "frnd.app",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Not checked this run",
@@ -5199,10 +5199,10 @@
      "title": "Reshare (author not at FRND)",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/luckymehndiratta",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "lucky@frnd.app",
+     "email_status": "pattern",
+     "email_source": "company pattern is first (from a confirmed address)",
+     "confidence": 70,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -5231,9 +5231,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 3 (2026-11-09) as R40"
+    },
+    {
+     "at": "2026-11-16T10:00:57+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Lucky Mehndiratta: lucky@frnd.app (pattern, 70)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-16T10:00:57+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "unknown",

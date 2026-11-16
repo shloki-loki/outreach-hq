@@ -1880,6 +1880,15 @@
    "title": "git fetch of data branch failed once",
    "detail": "First 'lead list --followup-due' crashed: git fetch origin data exited 128 during store.sync(). Manual retry of the fetch succeeded seconds later; track and lead list then ran clean. Looks transient (network).",
    "ref": ""
+  },
+  {
+   "id": "J0210",
+   "at": "2026-11-16T11:41:42+05:30",
+   "by": "follow-up",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 follow-ups drafted, 0 replies flagged, 0 bounces handled (track: nothing due, no replies; one transient git fetch failure, retried OK)",
+   "ref": ""
   }
  ]
 }

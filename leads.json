@@ -40455,15 +40455,15 @@
    "key": "workindia|product manager|bengaluru",
    "type": "job",
    "company": "WorkIndia",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "workindia.in",
+   "company_url": "https://www.workindia.in",
    "company_linkedin": "https://in.linkedin.com/company/workindia",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4487263236",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-at-workindia-4487263236",
@@ -40479,7 +40479,7 @@
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "About WorkIndia \n WorkIndia is India’s largest blue- and grey-collar hiring platform, built with a clear purpose: to provide meaningful livelihoods to 23.7 crore blue-collar individuals across India.\n WorkIndia helps millions of job seekers connect with employers across the country. On the employer side, WorkIndia serves tens of thousands of businesses every month, enabling them to discover, evaluate, and hire relevant candidates at scale.\n About the Product Organization\n Our product teams focus on building long-term business outcomes across multiple employer journeys. Broadly, our employer-side charter spans:\n Hunting: Focuses on acquiring and converting new employers into paying customers through strong product-led growth and onboarding experiences.\n Farming: Focuses on helping existing employers succeed consistently by improving retention, expansion, and operational scalability through product systems.\n About the Role \n We are looking for a Product Manager with 3–5 years of experience to work on Employer Acquisition within the Hunting charter, owning end-to-end growth, conversion, and user experience.\n You will define what to build, validate it through experimentation, and work with cross-functional stakeholders to ship impactful products.\n This role requires strong execution ownership, first-principles thinking, user empathy, data fluency, and the ability to lead cross-functional teams to deliver measurable outcomes.\n What You’ll Do\n 1. Ownership\n Own the product roadmap, driving growth, retention, UX, and funnel performance.\n Translate business goals into a clear roadmap and product priorities.\n Identify high-impact opportunities to improve conversion, activation, and user experience.\n Balance short-term execution with the long-term health of the product.\n 2. User Thinking & Product Judgment\n Develop a deep understanding of user needs, behaviours, and pain points.\n Ensure product decisions are grounded in real user outcomes.\n Translate user insights into scalable product improvements.\n Advocate for user impact while balancing business constraints.\n 3. Business & Product Leadership\n Own business outcomes for the product, not just individual features.\n Connect product decisions to measurable business impact.\n Partner with business teams to ensure product strategy reflects business goals.\n Influence cross-functional priorities and drive alignment with partner teams.\n 4. Execution & Systems Thinking\n Write clear PRDs with well-defined goals, scope, and success criteria.\n Design and run A/B experiments to validate major bets, including sizing, rollout percentage, and result analysis.\n Drive high-quality execution by working closely with Engineering and Design teams through to launch.\n Identify recurring product problems and propose scalable solutions rather than one-off fixes.\n Anticipate risks and proactively adjust plans.\n 5. Data & Decision-Making\n Use data to drive prioritisation and product problem discovery.\n Leverage analytics and experime",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -40494,8 +40494,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 50,
+    "total": 56,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -40505,15 +40505,45 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at WorkIndia in Bengaluru, asks 3-5 years; your 1.3 years of experience falls short of the requirement.",
+    "fit_notes": "The posting asks for '3–5 years of Product Management experience' and 'Proven experience designing and running end-to-end A/B experiments'. Shlok has ~1.3 years of experience primarily in Strategy & Operations at Ola Electric ([sop], [ceo-coo]) with a single Product internship at InsuranceDekho ([idekho]). While he has technical skills like SQL and C++, he does not meet the 3-5 years experience bar.",
+    "pay_notes": "Pay is not stated in the job posting. No pay figures or estimates are available in the company evidence.",
+    "culture_notes": "WorkIndia is India's largest blue- and grey-collar hiring platform [S1]. No employee ratings, reviews, or specific culture flags were found in the provided research.",
+    "hook": "WorkIndia recently expanded its broker-free hiring initiatives beyond metros to provide meaningful livelihoods across India.",
+    "hook_source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeXJPekVjd0JFNkptcTRxbHlfV3ZHT3k3T19UNk1Xc3ZsODB0YVd2aEE5eEh1UW8tS0toVHVobWhRck91Z3o0NDRDWFRHaGg4Mk1tb2psS2RSTGdxWXBmdVNqZjFDdWlCYnBHdFdYVktQSFgydXhkU2JvMTNSbHFxSWc3Y2RFLW5vSUxjUjYtYWtaeTlXLW9tNEs2cHpEUGYtblJ5MUhrVQ?oc=5",
+    "researched_at": "2026-11-16T12:43:13+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "AI in Hiring: How WorkIndia is making job matching faster through AI - CXOToday.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTW5xem0yY3FHYUg5R25rS0ltSjlCTUN5WHBuTUN2MEdZbkVVTGFJQ1F5RmluUUU3MXdiTlRUV3dFeXEzMzN0bFlQaXJlQkkySTZqd2JkMlNkczgzOHRDZjdEUXVGUEJ4d05oVWJDWTJkajc5ZWJ2a1lUanlXdnQ3RWVTeU03R2xqeEtqSnNFU19yekQ0STJSazZnY21QbWZuU3JTd2V3?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "WorkIndia takes broker-free hiring beyond metros - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeXJPekVjd0JFNkptcTRxbHlfV3ZHT3k3T19UNk1Xc3ZsODB0YVd2aEE5eEh1UW8tS0toVHVobWhRck91Z3o0NDRDWFRHaGg4Mk1tb2psS2RSTGdxWXBmdVNqZjFDdWlCYnBHdFdYVktQSFgydXhkU2JvMTNSbHFxSWc3Y2RFLW5vSUxjUjYtYWtaeTlXLW9tNEs2cHpEUGYtblJ5MUhrVQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "From Algorithms To Employment: Nilesh Dungarwal’s Journey With WorkIndia - Outlook India",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWx5WUVMVlQzNWpyaTR2WlJqV1V0NkFZSzRmMW4wQWZwZW9NTFltSHBnclFqdXp2OHl4eUU5Wm5Yc2FraVozaG02WHpkdTYtWlJ2WHpUQkZGV1o1cFpQdjlRalBySFZORTRDem55aHJsWUt5ejFtVTdTOTduOG5IeGpici1VQXh5SHAyOU1iNDJGQlRfQ3BaMXpHRW5PckRvaXRWb0dSNDlOWGJHenFTczhn?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Beyond Salary and Skills: WorkIndia’s Take on What Makes a Job the Right Fit - Mid-Day",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNUIzLUdPOGxWV3hXT29VYVRvWDZTTzEzZk1NdG1tcXZKSURMdkxBSWhTMHctVXZOZW9zYkpxQUp1YXlPNmdEUHVnNG1mSXJVRWtSOF9td0YyWW14N2U4ZjU4V2VQZlBxSWY2MHJGM09RX3BzcXB1U1V3TVVGdzB0Y3JLUjduaXNBVUN5Z3FSNWszdlZwWWIwMjI1N2F5anJIbWdteFloZG43cmZGSmV3QW1zUHpNeURjbm5KaDhB0gG-AUFVX3lxTFA1QjMtR084bFZXeFdPb1VhVG9YNlNPMTNmTU10bW1xdkpJREx2TEFJaFMwdy1Vdk5lb3NiSnFBSnVheU82Z0RQdWc0bWZJclVFa1I4X213RjJZbXg3ZThmNThXZVBmUHFJZjYwckYzT1FfcHNxcHVTVXdNVUZ3MHRjcktSN25pc0FVQ3lncVI1azN2VnBZYjAyMjU3YXlqckhtZ214WWhkbjdyZkZKZXdBbXNQek15RGNubkpoOEE?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -40537,14 +40567,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:43:13+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 56: rejected (The role requires 3–5 years of Product Management experience, and Shlok has ~1.3 years of total experience with no formal PM title history.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-16T12:43:13+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 3–5 years of Product Management experience, and Shlok has ~1.3 years of total experience with no formal PM title history."
   },
   {
    "id": "L0344",

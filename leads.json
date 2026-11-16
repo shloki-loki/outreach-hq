@@ -172508,15 +172508,15 @@
    "key": "dataapac|business development manager|bengaluru",
    "type": "job",
    "company": "Tech Data APAC",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "techdata.com",
+   "company_url": "https://www.techdata.com",
    "company_linkedin": "https://sg.linkedin.com/company/techdata-apac",
    "company_note": "",
    "title": "Business Development Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru North, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4457271419",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-tech-data-apac%E2%80%8B-4457271419",
@@ -172532,7 +172532,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "At Tech Data, a TD SYNNEX Company, our values guide everything we do: Together, We Own It, We Dare to Go, We Grow and Win, and above all, We Do the Right Thing. These principles shape how we work with each other, our partners, and our communities as we drive innovation and create lasting impact.\n What's In It For You?\n Elective Benefits: Our programs are tailored to your country to best accommodate your lifestyle.\n Grow Your Career: Accelerate your path to success (and keep up with the future) with formal programs on leadership and professional development, and many more on-demand courses.\n Elevate Your Personal Well-Being: Boost your financial, physical, and mental well-being through seminars, events, and our global Life Empowerment Assistance Program.\n Diversity, Equity & Inclusion: It's not just a phrase to us; valuing every voice is how we succeed. Join us in celebrating our global diversity through inclusive education, meaningful peer-to-peer conversations, and equitable growth and development opportunities.\n Make the Most of our Global Organization: Network with other new co-workers within your first 30 days through our onboarding program.\n Connect with Your Community: Participate in internal, peer-led inclusive communities and activities, including business resource groups, local volunteering events, and more environmental and social initiatives.\n Don't meet every single requirement? Apply anyway. \n At Tech Data, a TD SYNNEX Company, we're proud to be recognized as a great place to work and a leader in the promotion and practice of diversity, equity and inclusion. If you're excited about working for our company and believe you're a good fit for this role, we encourage you to apply. You may be exactly the person we're looking for!\nWe are an equal opportunity employer and committed to building a diverse team that represents and empowers a variety of backgrounds, perspectives, and skills. All qualified applicants will receive consideration for employment based on merit, without regard to race, colour, religion, national origin, gender, gender identity or expression, sexual orientation, protected veteran status, disability, genetics, age, or any other characteristic protected by law. To support our diversity and inclusion efforts, we may ask for voluntary gender disclosure information. This data will be used solely to improve our hiring practices and ensure fair treatment for all candidates.\nSeniority level Not Applicable | Employment type Full-time | Industries IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -172547,8 +172547,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -172558,15 +172558,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at Tech Data APAC, but pay and years are unstated and it lacks alignment with his supply chain profile.",
+    "fit_notes": "The posting asks for a Business Development Manager in IT Services and IT Consulting with seniority level not applicable and years of experience not stated. It does not mention an MBA or consulting requirement. Shlok's background in supply chain and S&OP planning ([sop], [ceo-coo]) is a weak map for a traditional IT hardware/software distribution BD role.",
+    "pay_notes": "Pay is not stated in the posting and no evidence is available from web search.",
+    "culture_notes": "The company highlights values like 'Together, We Own It, We Dare to Go, We Grow and Win', but no specific Glassdoor or external culture ratings with review counts were found in the evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T00:55:50+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -172590,14 +172597,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:55:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Pay is completely unstated and unknown, experience requirements are not stated, and the role lacks explicit indicators of meeting Shlok's fixed Rs 24.5 LPA floor.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:55:50+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Pay is completely unstated and unknown, experience requirements are not stated, and the role lacks explicit indicators of meeting Shlok's fixed Rs 24.5 LPA floor."
   },
   {
    "id": "L1453",

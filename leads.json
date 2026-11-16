@@ -161238,7 +161238,7 @@
    "key": "talkinglands|founder s office|bengaluru",
    "type": "job",
    "company": "TalkingLands",
-   "company_domain": "",
+   "company_domain": "talkinglands.com",
    "company_url": "https://talkinglands.com",
    "company_linkedin": "",
    "company_note": "A platform using maps, data, and visual storytelling to make land parcels easy to see, trust, and transact.",
@@ -161261,7 +161261,7 @@
    "posted_at": "2026-10-30",
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-15",
-   "open": true,
+   "open": false,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -161277,8 +161277,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 15,
+    "total": 38,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -161287,15 +161287,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
+    "done": true,
+    "headline": "TalkingLands Founder's Office role is a legal post (title reads 'Founder's Office- legal'); nothing in your background maps.",
+    "fit_notes": "Zoho Recruit page opened 2026-11-16 but it is JavaScript-rendered: only the title 'Founder's Office- legal' in Bangalore South was readable, no body. TalkingLands is a real-estate data platform; other postings ask for real-estate legal knowledge and Kannada. Could not read experience or pay. Rejected on function (legal), not on title keyword match.",
+    "pay_notes": "Not stated / page body not readable.",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T09:54:48+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -161319,9 +161321,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 73"
+    },
+    {
+     "at": "2026-11-16T09:54:48+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 38: rejected (Title is Founder's Office - legal: a legal function role; nothing in profile maps)"
     }
    ],
-   "updated_at": "2026-11-15T01:20:54+05:30",
+   "updated_at": "2026-11-16T09:54:48+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:53:51+05:30",
     "why": "the posting page has no readable description",
@@ -161331,7 +161339,8 @@
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Title is Founder's Office - legal: a legal function role; nothing in profile maps"
   },
   {
    "id": "L1364",

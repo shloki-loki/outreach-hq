@@ -36952,7 +36952,47 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Apuarv Sethi",
+     "title": "Chief Marketing Officer & SME Business Head",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAAADecQsBckJP3CnDoTU7Aiy7kMYju-Ws-bg",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "likely reports-to or runs the function this role sits in (LinkedIn title)",
+     "found_at": "2026-11-16T12:46:51+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "Shreed Shrivastava",
+     "title": "AI Builder & Strategist (Founder’s Office)",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAAEPsxDkBP6y1ekSPuW8x8QNsiMu8snnU2Dw",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "founder or CEO (LinkedIn title)",
+     "found_at": "2026-11-16T12:46:51+05:30"
+    },
+    {
+     "id": "C3",
+     "name": "Sumit Premi",
+     "title": "Senior Director & Global Head: Talent Acquisition",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/ACwAAAeL1qsBbmUIWXdNAEIdIF4yTPWKNtze9VU",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "recruits for the company (LinkedIn title)",
+     "found_at": "2026-11-16T12:46:51+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -36972,15 +37012,22 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 77: qualified"
+    },
+    {
+     "at": "2026-11-16T12:46:51+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "3 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-16T12:41:56+05:30",
+   "updated_at": "2026-11-16T12:46:51+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
    },
-   "reject_reason": null
+   "reject_reason": null,
+   "people_searched_at": "2026-11-16T12:46:51+05:30"
   },
   {
    "id": "L0314",

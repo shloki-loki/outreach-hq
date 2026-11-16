@@ -173153,15 +173153,15 @@
    "key": "ingrammicro|business development manager|bengaluru",
    "type": "job",
    "company": "Ingram Micro",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "ingrammicro.com",
+   "company_url": "https://www.ingrammicro.com",
    "company_linkedin": "https://www.linkedin.com/company/ingram-micro",
    "company_note": "",
    "title": "Business Development Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4487919126",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-ingram-micro-4487919126",
@@ -173177,7 +173177,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Ingram Micro is a leading technology company for the global information technology ecosystem.\nWith the ability to reach nearly 90% of the global population, we play a vital role in the worldwide IT sales channel, bringing products and services from technology manufacturers and cloud providers to business-to-business technology experts.\nOur market reach, diverse solutions and services portfolio, and digital platform Ingram Micro Xvantage™ set us apart\n Job Summary\n The Business Development Manager will be responsible for driving business growth by developing strategic relationships with partners, customers, and vendors within the IT distribution ecosystem. The role focuses on identifying new business opportunities, expanding market presence, increasing revenue, and promoting the organization's technology portfolio across assigned territories and customer segments.\nThe incumbent will work closely with channel partners, system integrators, resellers, enterprise customers, and internal teams to achieve sales objectives while strengthening the company's market position.\n Key Responsibilities\n Business Development & Market Expansion\n Identify and develop new business opportunities across assigned geographies, industries, and customer segments. \n Drive revenue growth through acquisition of new customers, partners, and strategic accounts. \n Develop and execute business plans to achieve sales, profitability, and market share objectives. \n Establish a strong market presence by identifying emerging technology and business opportunities. \n Channel & Partner Management\n Recruit, develop, and manage channel partners, system integrators, VARs, MSPs, and reseller networks. \n Build strong relationships with existing partners to increase business contribution and engagement. \n Enable partners through training, joint business planning, and solution positioning. \n Drive partner-led demand generation and pipeline development activities. \n Customer Engagement & Account Development\n Build and maintain relationships with key customer stakeholders and decision-makers. \n Understand customer business challenges and align technology solutions to their requirements. \n Conduct customer meetings, presentations, and solution discussions to generate business opportunities. \n Drive customer satisfaction, retention, and account growth. \n Vendor Collaboration\n Work closely with technology vendors to execute business plans and growth initiatives. \n Support vendor-led programs, marketing campaigns, promotions, and channel enablement activities. \n Monitor vendor performance and maximize business opportunities through strategic alignment. \n Identify opportunities to introduce new technologies and solutions into the market. \n Sales & Revenue Management\n Own revenue, margin, and growth targets for assigned business portfolios. \n Develop and maintain a healthy sales pipeline through proactive opportunity generation. \n Manage the complete sales cycle from lead generation to deal closure. \n",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -173192,8 +173192,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 38,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -173203,15 +173203,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Development Manager at Ingram Micro, asks 3-6 yrs and an MBA; your Ola Electric operations work does not map to channel sales.",
+    "fit_notes": "The posting asks for '3-6 years of experience in Business Development, Channel Sales, Partner Management, Enterprise Sales, or Account Management' and states 'MBA in Sales, Marketing, or Business Management preferred'. Shlok has ~1.3 years of experience, no MBA, and no prior channel sales or BDM background. While he has strong execution and operations facts like [sop] and [ceo-coo], they do not match the core B2B IT ecosystem channel management requirements of this role.",
+    "pay_notes": "Pay not stated in the posting; no reliable evidence for this specific BDM role at Ingram Micro India.",
+    "culture_notes": "Headcount, ratings, and specific culture reviews were not found in the evidence. Recent news shows Ingram Micro India expanding its Bengaluru facility to tap AI, cloud, and cyber opportunities [S3].",
+    "hook": "Ingram Micro India recently expanded its Bengaluru facility to tap into AI, cloud, and cybersecurity opportunities.",
+    "hook_source": "https://in.linkedin.com/jobs/view/business-development-manager-at-ingram-micro-4487919126",
+    "researched_at": "2026-11-17T00:57:48+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Ingram Micro to Report Second Quarter 2026 Financial Results on July 30, 2026 - Ingram Micro",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQalRadXNwR2YyT2RpczRleDcyaXlDSkhLa2puWGZRQ1R3Z3FCb1NPYTdXVnpCNS10Ynp4OFVuUEF6QXZ3TDVNQk1zaVB1NmJmS3IzMVFfV1IwcVhramNLUTdzSjY5SGVDaEI4b1BaOTUtZkNORFRwcUdMNzVXV3d6X1ZSOHlhbzMwQ3VwV2xHZlRPNDNiT0xBTGYwV0h6VERJTnZUM1ZUS0tKZDlQb0NQSWJJb0JTNHZlRzNtVFcxd2JvMkw2M1lPMw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "India becomes Ingram Micro's second-largest market globally - CRN Asia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQazI5RW9pNUtiRWxJaUV3eEdoOGRMZGxJUkttWmZib3UxdjBkTG5uRlF2UHBuS1lPV280alBwS210MUxhTjZhb2VoY1VXQTBzNUV1ZURadXZBbUVUamFsalhVRkRyNGNZT0EwUFQ3eU5WRG5lajU2cTBvOTBOTkxMWkNhUjJqcV9FVXZmb0FUbTJBbm5sak9KdkNicGI2SVA5?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Ingram Micro India expands Bengaluru facility to tap AI, cloud, cyber opportunities - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPV3dJOW42c1JWVXFwY0pscXRQemMyamxuV1ZPRlFTV05BcFBxVVhWMDJNSmdFZE5Wck5nXzJEZ3ZfOWM1VTZOWHl0SEI5eUtjazFIblVlZjZhaVB6aHBlZXE1eXFGSEM1Q3pqdXVwQ3FrcGdzY3g1SGVCOWFUZGhWeUk4TXdNQ01ScnNHVl9hN3lZS2F3elJwVjZqa2JZSk15bXlOZU9jZ3p5SC1TRUI2bnRQU19fa3hGNjNhaVJXUUNaU20xb2cwQmhFdFBPTUx5U0MxR1R5cFY0RFNhdXhMSmpCUWV5UWpHbmNzTVpWdEM2dUVJWXfSAfsBQVVfeXFMUC1CR3BfVlJkU2xPTzJ2aXJDckc2NEJzTzd2T2ZSTzU1blh4WDFLSl8tenZ1NHZFSVVXX3BwQnRvYTZZWHpLQVpicmpjTUlhVVJlZndQMndlbXZPMW1JWVRKdEhvd2dxcFVhd2ozY3hmbTlQTDBZcGRlcmJaSVIydXRWVDUxYVZrcTA3eTJJSm9hbGlUVlhuQk1vMndlbE1sSHloVXRBNTlTZFo4VUtRRE1LbjhsYnljcjJqZ25zbEp2OG9jTGh0OS1nTkFYUXhBQmxSVTJiY3RyaFctNGo3OXVrazY4bFpGTk9GNld5Vzduc1pYWk1qeHR5eFU?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Ingram Micro steps up India expansion as AI, data centres drive tech demand - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMjNUNS1BTi1aRW1FSjJ4Ty0za0dHMFpfQWJLRHBNVzBGbk9TOHpuTjVCX0RkM0tNWXhab21PM1dxZ2RreXVoWjJNZTRHd1czbXhQdDVDa0M2anFVWDQ3eDF5M19EaVIzQlJPNDdDRnE0ZE1rUFBFZXVUbHkxaFV0TDVBLUVQOGJHQk1vUDlaRmpvT1RNdi12VW9tUE10Ukw1Rm84enl2aEdGZG4tMmc3dmtNSm9yQ0dmSS1oSGdVSFZCclNmT3MwOHNrU3d6Z01XdDNGdW5BZHLSAd8BQVVfeXFMUHpsV2JfdlU4cGNIc0k1bVNYejF2YWhXRzdIaHN3NmswWlA1SFhFYjJZSFFBYjRSN0NrWkFvbkZqRkk2dzh5eGFnb3kzek9sWmFtRXkwc0R1M1ktNVdrWlg0VVJGV1BGekxNcEoxNnMxZDVXUjhlQjhNR2xFbVlpVzRrZE5jMTFRMERyX2diOHQzaWlFS3VTMVBxYmd6N25ibTQ2eDVYX3o2VkI1M29qLXNNTUdZaXpVMzZTTEtsUGJEb3BqcFlmcEZRcm1DdE42bUVmdnA4ZXNCSEpLY1J0TQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Ingram Micro wards off cloud marketplace threat - Channel Dive",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fMFBVZWk5eDRXT1RDLWJzUWg4TnBROWhvUURhXzRQWnVPUnl0T3VaNTY0TDlVcVVlUUM5QldtV2N4NUs1eFFLQW5oLS03LVBmNk1Qemd1Q0V6RUFBWTAzLW5Bcw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Ingram Micro India Appoints Farhana Haque To Lead Platform Business - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2xoWXJ4bU5YLUtqd0VWLTZlS0N1Z1NNRURDOE5LanZZbWUzUERQYmNQdTJvcFhTeXN2QTRFb0ktMXhOS0JKdzNlaUhBX3NsdjBtcWhkeEQ4djBSb2gwTG4tVUxuTVdiSnhmdGJDN3Q2VVpLanFlbmNuYjJkM3k1WXBRakNrU1c1RFFMVlJ2Q1JKdXlTSzhNM040dmN0Y3gydnFHMHVSSXZTTlk1S1FhQ2Ywbm81UEdRaW5rTjBIV3ZYZw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -173235,14 +173273,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:57:48+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The role requires 3-6 years of experience in Business Development and partner management, and prefers an MBA, whereas Shlok has ~1.3 years of experience, no MBA, and no prior BDM/channel sales background.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:57:48+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 3-6 years of experience in Business Development and partner management, and prefers an MBA, whereas Shlok has ~1.3 years of experience, no MBA, and no prior BDM/channel sales background."
   },
   {
    "id": "L1458",

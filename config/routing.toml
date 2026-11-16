@@ -6,3 +6,17 @@ draft = "codex"
 followup = "codex"
 review = "claude"
 engineering = "codex"
+
+# Who takes over unstarted work when the owner runs out of quota or misses its slot, in order.
+# Decided by Shlok 2026-11-15: GPT (Codex) first, Claude takes over when GPT's limit is used up,
+# Grok joins the chain once he adds it (it is already a valid owner in the work queue).
+[fallback]
+draft = ["codex", "claude", "grok"]
+research = ["codex", "claude", "grok"]
+
+# The founder list (data source founder_reoutreach): 60 researched, personal emails a day, each one
+# queued for Shlok's approval. `work founder-batch` creates the day's items; see SUPERVISOR.md.
+[founder_batch]
+per_day = 60
+owner = "codex"
+handover_hour_ist = 16     # unstarted items still with codex at this hour go to claude

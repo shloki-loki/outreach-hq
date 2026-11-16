@@ -1,4 +1,4 @@
-# How Shlok's outreach is written (playbook v2, 2026-11-13)
+# How Shlok's outreach is written (playbook v3, 2026-11-15; v2 2026-11-13)
 
 This file is the quality contract for every email, follow-up and LinkedIn note the system writes, whoever
 or whatever writes it (a Claude agent, another model on GitHub, a person). Version 1 produced emails that
@@ -40,35 +40,45 @@ Never loosen a check to make a draft pass. Fix the draft.
 A founder, hiring manager or recruiter who did not ask for this email and reads it on a phone between
 meetings. Their inbox is a to-do list other people can add to. They owe Shlok nothing.
 
-## Shape of a first email: three short paragraphs, 60-100 words
+## Shape of a first email (playbook v3, 2026-11-15): four short paragraphs, 80-120 words
 
-**[enforced]** 50-120 words, and the writer should aim for 60-100.
+Shlok's feedback on v2 (2026-11-15): the emails read "too direct, a bit like a bot". v3 keeps everything
+v2 got right (short, specific, one proof, one question) and changes two things: **a smoother, human start**
+and **a paragraph that answers "how would he contribute to this company?"**.
+
+**[enforced]** 60-140 words, and the writer should aim for 80-120.
 
 1. **Greeting:** `Hi <first name>,` **[enforced]**
-2. **Their world (1-2 sentences).** Something specific and true about their business *right now*, and what
-   it usually leads to. It comes from research and has a source URL (`--hook`, `--hook-source`).
-   - It must pass "so what?": it tells them something about their own situation that shows understanding.
-   - It must **not** restate their job post back to them ("Your post says the role involves..."). They
-     wrote the post. Use the problem behind the post.
-   - It must not be praise, and it must not be about Shlok. **[enforced]** the first sentence may not
-     start with "I", "My", "Your post", "Your posting" or "The role".
-3. **Impact (1-2 sentences).** One result from `config/profile.toml`, as before and after, with scale, in
-   words a person outside Ola Electric understands at first read. At most one more fact, and only if it
-   is the reason he can be trusted with *their* problem (for example that he worked directly with a CEO
-   and COO). **[enforced]** at most four numbers in the body, so results cannot be stacked.
-4. **The reason to reply + one question (1-2 sentences).** Choose one play below. Exactly one question
-   mark in the whole email. **[enforced]**
+2. **A warm, specific start (1-2 sentences).** Begin the way a person would: acknowledge one specific, true,
+   recent thing about them (a launch, a round, a milestone, a move) in a natural sentence, then say in a
+   clause why it made him write. "Congrats on getting Shipsy Brain into beta in September." is good;
+   "Love what you're building" is not (generic praise is still banned). It comes from research and has a
+   source URL (`--hook`, `--hook-source`). **[enforced]** the first sentence may not start with "I", "My",
+   "Your post", "Your posting" or "The role". One short line introducing him may follow
+   ("I'm Shlok, I spent the last year in strategy and operations at Ola Electric.").
+3. **How he'd contribute (2-3 sentences). This is the heart of the email.** Name one or two concrete
+   things he could take off the founder's plate at *their* company, tied to the situation in paragraph 2,
+   and back them with one result from `config/profile.toml` told as before and after. Write it as what he
+   would do for them ("I could own...", "I'd take on..."), not as a list of what he has done.
+   **[enforced]** a first email (except the direct play) says what he could do for them: a sentence with
+   "I could", "I can" or "I'd" followed by a verb like help, own, take, run, build, set up, fix or handle.
+   **[enforced]** at most four numbers in the body, so results cannot be stacked.
+4. **A soft close with one question (1-2 sentences).** Low pressure, easy to answer from a phone.
+   Exactly one question mark in the whole email. **[enforced]**
 5. **Sign-off:** a last line that is just `Shlok`. **[enforced]** The sender adds the signature with the
    portfolio link; the body carries no link. **[enforced]**
 
+Tone: warm, plain and confident, like a capable person writing to someone they respect. Not salesy, not
+grovelling, not clipped. Read it aloud: if it sounds like a template or a telegram, rewrite it.
+
 ### The four plays (pick by who is reading)
 
-| Play | Use for | Paragraph 3 |
+| Play | Use for | The contribution paragraph and close |
 |---|---|---|
-| **question** | Founder or hiring manager, real opening (the default) | Name the role in a clause, then one neutral question about how they handle the thing today. The question shows grasp of the problem and is easy to answer. |
-| **offer** | Top picks (score 80+) and companies with no opening | Offer one small piece of work: a one-page note on a named problem of theirs, or "give me one problem you haven't had time for and I'll come back in a week". Then "Want me to send it?" Shlok must deliver if they say yes, and the system drafts the page for him. |
+| **question** | Founder or hiring manager, real opening (the default) | Name the role in a clause, say what he'd own in it, then one neutral question about how they handle that thing today. |
+| **offer** | Top picks (score 80+) and companies with no opening (all founder emails) | Say what he could take on, then offer one small piece of work: a one-page note on a named problem of theirs. Close with "Would that be useful?" or similar. Shlok must deliver if they say yes, and the system drafts the page for him. |
 | **direct** | Recruiter, or an address the posting says to apply to | Say plainly which role, give the one result, attach the resume if the posting asks for it, and ask what else they need or who the hiring manager is. Clear beats clever here. |
-| **story** | When one result is itself the hook (a launch, a turnaround) | Open paragraph 2 on the before state, end on the after, then tie it to their line in one sentence and ask "Worth a conversation?" |
+| **story** | When one result is itself the hook (a launch, a turnaround) | Tell the before and after, then say what he'd do with the same approach at their company. Close with "Worth a conversation?" |
 
 Every first email records its play (`--play`), and an offer records its `--promise`, so reply rates can be
 compared by play. **[enforced]**
@@ -129,11 +139,12 @@ truck dispatches into lots, and it came down to 14."
 - A generic inbox (careers@, hr@, hello@) gets an email only when the posting says to apply there, and it
   gets the **direct** play. The real note goes to a named person.
 
-## Companies with no opening (`type: company`)
+## Companies with no opening (`type: company`, including the founder list)
 
-Use the **offer** play. Say plainly that he does not know whether a Founder's Office, Chief of Staff or
-strategy hire is on their mind. Never imply an opening or an application. **[enforced]** Only to a founder
-or the head of the function, never a generic address. At most 6 of the day's 15.
+Use the **offer** play. Say plainly, and kindly, that he doesn't know whether a Founder's Office, Chief of
+Staff or strategy hire is on their mind. Never imply an opening or an application. **[enforced]** Only to a
+founder or the head of the function, never a generic address. The founder list is worked as a daily batch
+of 60 (see "Daily founder batch" in `SUPERVISOR.md`).
 
 ## Follow-ups (20-70 words, same thread)
 
@@ -157,36 +168,39 @@ The system never sends or automates anything on LinkedIn. It drafts, Shlok copie
 
 ## Worked examples (structure only; never reuse the wording)
 
-**question play, founder, real opening (79 words)**
+**question play, founder, real opening (113 words)**
 
 > Subject: stock before summer
 >
 > Hi Priya,
 >
-> A new AC brand makes its year between April and June, and by then the stock has to be sitting in the
-> right cities already.
+> Congrats on the launch in Pune last month. A new AC brand makes its year between April and June, so
+> the stock has to be in the right cities before the heat does.
 >
-> At Ola Electric I designed the program that moved us from build-to-order to holding Rs 200 Cr of stock
-> ahead of demand, which took serviceability to 70% across India.
+> I'm Shlok, I spent the last year in strategy and operations at Ola Electric. For your Founder's Office
+> BizOps role, I could own the city-by-city stock plan for the first summer. At Ola Electric I designed the
+> program that moved us from build-to-order to holding Rs 200 Cr of stock ahead of demand, which took
+> serviceability to 70% across India.
 >
-> You're hiring for Founder's Office BizOps. How are you deciding what to hold in each city for the first
-> summer?
+> How are you deciding what to hold in each city today?
 >
 > Shlok
 
-**offer play, top pick (78 words)**
+**offer play, top pick (110 words)**
 
 > Subject: dispatch, one page
 >
 > Hi Arjun,
 >
-> Acme is opening three cities this quarter. That's usually when delivery times slip, because dispatch is
-> still planned order by order.
+> Congrats on opening three new cities this quarter. That's usually the stretch when delivery times
+> start to slip, because dispatch is still planned order by order.
 >
-> I fixed that once. At Ola Electric a scooter took 32 days from order to delivery; I built the algorithm
-> that groups truck dispatches into lots, and it came down to 14.
+> It's a problem I've worked on. At Ola Electric a scooter took 32 days from order to delivery; I built
+> the algorithm that groups truck dispatches into lots, and it came down to 14. At Acme I could take
+> dispatch planning for the new cities off your plate and set up the weekly review around it.
 >
-> I can put on one page how I'd look at Acme's dispatch in the first 30 days. Want me to send it?
+> If it helps, I can put on one page how I'd approach Acme's dispatch in the first month. Would that be
+> useful?
 >
 > Shlok
 
@@ -205,20 +219,21 @@ The system never sends or automates anything on LinkedIn. It drafts, Shlok copie
 >
 > Shlok
 
-**offer play, no opening (88 words)**
+**offer play, no opening (117 words)**
 
 > Subject: one problem
 >
 > Hi Rohan,
 >
-> Acme raised its seed in August and the team is still under 30. That's usually the stretch where the
-> founder is also the planning department.
+> Congrats on closing the seed round in August. With the team still small, the founder usually ends up
+> being the planning department as well.
 >
-> I've been the person a CEO and COO hand that to. At Ola Electric I worked with both on fulfilment and
-> cut working capital by 40% in 2.5 months through production planning.
+> I'm Shlok, and that's the work I've done for a CEO and COO. At Ola Electric I worked with both on
+> fulfilment and cut working capital by 40% in 2.5 months through production planning. At Acme I could
+> own planning and the weekly numbers so you get those hours back.
 >
-> I don't know if a Founder's Office hire is on your mind. Give me one problem you haven't had time for
-> and I'll come back in a week with an answer. Worth trying?
+> I don't know if a Founder's Office hire is on your mind. If you give me one problem you haven't had
+> time for, I can come back in a week with a one-page answer. Would that be worth trying?
 >
 > Shlok
 
@@ -243,7 +258,8 @@ The system never sends or automates anything on LinkedIn. It drafts, Shlok copie
 
 ## Before a draft is queued, read it as the recipient
 
-- Would I know in the first line why this person is writing to *me*?
+- Does the first line sound like a person, and would I know why they're writing to *me*?
+- After reading it, do I know what this person would actually do for my company?
 - Is there one result I can picture, with numbers?
 - Is there exactly one question, and can I answer it in a line from my phone?
 - If I delete the first paragraph, does the email still make sense? Then the first paragraph is not doing

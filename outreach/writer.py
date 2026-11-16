@@ -149,8 +149,10 @@ def write_cold(lead: dict, contact: dict, models: dict[str, str]) -> dict | None
     research = lead.get("research") or {}
     task = (f"Write the FIRST cold email using the **{play}** play. Build the opener on this hook, which is true and "
             f"sourced: \"{research.get('hook')}\" ({research.get('hook_source')}). Choose the one result from his facts "
-            f"that best matches what this role needs, told as before and after in plain words.")
-    limits = ("50-120 words in the body (aim 60-100); subject 2-6 words and at most 45 characters, no digits, no pipe; "
+            f"that best matches what this role needs, told as before and after in plain words. "
+            f"Playbook v3: start warmly and naturally on the hook (a person acknowledging their news, not praise), and give "
+            f"a paragraph on what he could concretely take on at {lead.get('company')}, written as 'I could own/take on...'.")
+    limits = ("60-140 words in the body (aim 80-120); a sentence with I could / I can / I'd plus a verb saying what he would do for them; subject 2-6 words and at most 45 characters, no digits, no pipe; "
               "body starts 'Hi " + (contact.get("name") or "there").split()[0] + ",' and ends with a last line that is just "
               "'Shlok'; first sentence after the greeting does not start with I, My, 'Your post' or 'The role'; exactly one "
               "question mark; at most 4 numbers; contractions; no links; no em dashes; no exclamation marks; names "

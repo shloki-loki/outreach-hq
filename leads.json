@@ -164502,7 +164502,7 @@
     "culture_notes": "Not checked further; rejected on pay and role.",
     "hook": "",
     "hook_source": "",
-    "researched_at": "2026-11-16T09:51:12+05:30",
+    "researched_at": "2026-11-16T09:55:22+05:30",
     "by": "lead-scout"
    },
    "stage": "rejected",
@@ -164535,9 +164535,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 44: rejected (Analyst role asking 3+ yrs as a Business Analyst; DrinkPrime analyst pay ~Rs 5 LPA, far below floor)"
+    },
+    {
+     "at": "2026-11-16T09:55:22+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 44: rejected (Analyst role asking 3+ yrs as a Business Analyst; DrinkPrime analyst pay ~Rs 5 LPA, far below floor)"
     }
    ],
-   "updated_at": "2026-11-16T09:51:12+05:30",
+   "updated_at": "2026-11-16T09:55:22+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:44:49+05:30",
     "why": "error: Gemini unreachable: The read operation timed out",

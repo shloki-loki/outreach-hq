@@ -1844,6 +1844,15 @@
    "title": "send-track 2026-11-16: wording to double-check",
    "detail": "M0022 (FRND) says the rebalancing was 'based on each region's sales run rate'; profile.toml only says 'based on sales run rate', so trim 'each region's' on approval. M0023 (GoKwik) says 'tied every plan to the numbers', which is not a recorded fact; consider cutting it. find-email recheck hit the intermittent data-branch git fetch exit 128 three times; a manual fetch then succeeded and retries ran.",
    "ref": ""
+  },
+  {
+   "id": "J0206",
+   "at": "2026-11-16T11:00:02+05:30",
+   "by": "send-track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "7 emails drafted (M0017 Origin CEO, M0018 Airbound CEO, M0019 Sarvam CEO's Office/Karman, M0020 Rupeek HR direct, M0021 Emversity director, M0022 FRND VP Business, M0023 GoKwik recruiter direct); 0 referral notes (no connections matched); 2 application kits (L1360 Origin Workable, L1361 Enterpret Greenhouse). Skipped: L0085 CEO on do-not-email; L0105 Zamp and L0003 Blinkit catch-all under score 80; L0013/L0008/L0010/L0007 guessed addresses, verifier quota out; L0040 covered by FRND email; L0050/L0029/L0032 as before; L1359 Lenskart posting no longer hosted. No speculative leads queued.",
+   "ref": ""
   }
  ]
 }

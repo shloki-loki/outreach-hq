@@ -25,7 +25,7 @@ TARGETING = load_config("targeting")
 
 GOOD_BODY = """Hi Priya,
 
-Acme's move into same-day dispatch means every truck has to leave full and on time. At Ola Electric a scooter took 32 days from order to delivery. I built the algorithm that groups truck dispatches into lots, and it came down to 14.
+Acme's move into same-day dispatch means every truck has to leave full and on time. At Ola Electric a scooter took 32 days from order to delivery. I built the algorithm that groups truck dispatches into lots, and it came down to 14. At Acme I could own dispatch planning the same way.
 
 I'm interested in the Founder's Office role. How are you planning dispatch lots today, by hand or with a tool?
 
@@ -165,7 +165,7 @@ class DraftRulesTest(Base):
         self.assertTrue(any("words" in p for p in self.check("Hi Priya,\n\nPlease hire me at Acme.\n\nShlok\n")))
         self.assertTrue(any("Hi Priya" in p for p in self.check(GOOD_BODY.replace("Hi Priya,", "Hello there,"))))
         self.assertTrue(any("end with" in p for p in self.check(GOOD_BODY.replace("\nShlok\n", "\nRegards,\nShlok Agrawal\n"))))
-        self.assertTrue(any("never names the company" in p for p in self.check(GOOD_BODY.replace("Acme's", "Your"), subject="Founder's Office role")))
+        self.assertTrue(any("never names the company" in p for p in self.check(GOOD_BODY.replace("Acme's", "Your").replace("At Acme", "There"), subject="Founder's Office role")))
 
     def test_applied_is_only_claimed_when_true(self):
         body = GOOD_BODY.replace("I'm interested in the Founder's Office role.",
@@ -196,6 +196,7 @@ class DraftRulesTest(Base):
             "two questions": (GOOD_BODY.replace("by hand or with a tool?", "by hand? Or with a tool?"), {}, "question marks"),
             "no question": (GOOD_BODY.replace("by hand or with a tool?", "by hand or with a tool."), {}, "question marks"),
             "opens on himself": (GOOD_BODY.replace("Acme's move", "I saw that Acme's move"), {}, "first sentence"),
+            "no contribution (v3)": (GOOD_BODY.replace(" At Acme I could own dispatch planning the same way.", ""), {}, "could do for them"),
             "opens on the role": (GOOD_BODY.replace("Acme's move", "The role at Acme's move"), {}, "first sentence"),
             "stacked numbers": (GOOD_BODY.replace("came down to 14.", "came down to 14, saved 40% of Rs 200 Cr in 2.5 months."), {}, "numbers"),
             "stiff": (GOOD_BODY.replace("I'm interested", "I am interested"), {}, "stiff"),

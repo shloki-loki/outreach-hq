@@ -14,7 +14,7 @@ from . import store
 from .util import load_config, now_iso, parse_iso, now, word_match
 
 KINDS = ("cold", "followup1", "followup2")
-LIMITS = {"cold": (50, 120), "followup1": (20, 70), "followup2": (20, 70)}
+LIMITS = {"cold": (60, 140), "followup1": (20, 70), "followup2": (20, 70)}
 PLAYS = ("question", "offer", "direct", "story")   # config/voice.md, "The four plays"
 LINKEDIN_KINDS = ("connect", "inmail")
 
@@ -58,6 +58,9 @@ SELF_DISQUALIFY = re.compile(
 EXPERIENCE_CLAIM = re.compile(r"\b(\d+(?:\.\d+)?)\+?\s*(?:years?|yrs?)\s+(?:of\s+)?(?:work\s+|full[- ]time\s+|professional\s+)?"
                               r"(?:experience|in (?:operations|strategy|supply chain|product))\b", re.I)
 NUMBER = re.compile(r"(?<![\w.])\d+(?:[.,]\d+)*%?")
+# playbook v3: a first email says what he could do for them (config/voice.md, paragraph 3)
+CONTRIBUTION = re.compile(r"\bI(?: could|'d| can| would)\b[^.?\n]{0,60}?\b(help|own|take|run|build|set up|fix|handle|"
+                          r"contribute|drive|lead|plan|put)\b", re.I)
 FIRST_SENTENCE_BANNED = re.compile(r"^\s*(I\b|I'|I\u2019|My\b|Your post(ing)?\b|The role\b)", re.I)
 
 
@@ -155,6 +158,8 @@ def check_draft(kind: str, subject: str, body: str, *, to_name: str = "", compan
             problems.append(f"{questions} question marks; a first email asks exactly one question")
         if FIRST_SENTENCE_BANNED.match(content) and play != "direct":  # a recruiter gets the role up front
             problems.append("first sentence starts with I, My, \"Your post\" or \"The role\"; open on their world")
+        if play in ("question", "offer", "story") and not CONTRIBUTION.search(content):
+            problems.append("doesn't say what he could do for them; add a sentence like \"I could own...\" (voice.md v3)")
         if SELF_DISQUALIFY.search(body):
             problems.append("self-disqualifying line in a first email; the easy no belongs in the last follow-up")
         if not CONTRACTION.search(body):

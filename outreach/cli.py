@@ -609,13 +609,27 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("id")
     p.set_defaults(func=lambda a: out(supervisor.packet(a.id)))
     p = sub.add_parser("work", help="shared Codex/Claude ownership and handoff queue")
-    p.add_argument("action", choices=["list", "add", "claim", "assign", "release", "done"])
+    p.add_argument("action", choices=["list", "add", "claim", "assign", "release", "done",
+                                      "founder-batch", "handover", "next", "batch-status"])
     p.add_argument("--id"); p.add_argument("--lead"); p.add_argument("--kind", choices=supervisor.KINDS)
     p.add_argument("--owner", choices=supervisor.WORKERS)
     p.add_argument("--title", default=""); p.add_argument("--detail", default=""); p.add_argument("--ref", default="")
-    p.set_defaults(func=lambda a: out(supervisor.queue(a.action, ident=a.id, kind=a.kind, lead=a.lead,
+    p.add_argument("--count", type=int, help="founder-batch: how many for today (default routing.toml per_day)")
+    p.add_argument("--from-owner", choices=supervisor.WORKERS, help="handover: only take work from this owner")
+    p.set_defaults(func=lambda a: out(_work(a)))
+
+    def _work(a):
+        if a.action == "founder-batch":
+            return supervisor.founder_batch(a.count, a.owner)
+        if a.action == "handover":
+            return supervisor.handover(a.owner, a.from_owner, a.detail, a.kind or "draft")
+        if a.action == "next":
+            return supervisor.claim_next(a.owner, a.kind or "draft")
+        if a.action == "batch-status":
+            return supervisor.batch_status()
+        return supervisor.queue(a.action, ident=a.id, kind=a.kind, lead=a.lead,
         owner=a.owner or (supervisor.routing().get(a.kind) if a.action == "add" else None),
-        title=a.title, detail=a.detail, ref=a.ref)))
+        title=a.title, detail=a.detail, ref=a.ref)
 
     args = parser.parse_args(argv)
     try:

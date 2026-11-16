@@ -48,6 +48,23 @@ while active, even for the same provider. If it expires, stop the old worker bef
 partial work. The queue coordinates cooperative workers; legacy data commands do not enforce claims.
 Use one active worker session per provider/work item. This is not a distributed execution engine.
 
+## Daily founder batch (60 emails a day, decided by Shlok 2026-11-15)
+
+Shlok's founder list (983 companies, 1,931 checked addresses, source `founder_reoutreach`) is worked as 60
+personal emails a day. Each is researched (one sourced hook), written to playbook v3 (`config/voice.md`)
+and queued for his approval. Nothing is sent until he approves it on the site; the sender's daily cap is 60.
+
+| Time (IST) | Who | What |
+|---|---|---|
+| 10:00 | Claude (scheduled) | `work founder-batch` queues today's 60 for codex; `work batch-status` |
+| 12:15 | Codex/GPT (scheduled) | works the queue with `config/prompts/founder-email-worker.md` |
+| 16:00 | Claude (scheduled) | `work handover --owner claude --from-owner codex --detail "..."` for anything codex has not started, then works it with the same prompt |
+| later | Grok | when Shlok adds it: third in `routing.toml [fallback]`; same prompt, `--owner grok` |
+| 18:00+ | supervisor report | alerts if the day's batch is not done |
+
+Commands: `work founder-batch [--count N] [--owner X]`, `work next --owner X`, `work handover --owner X
+[--from-owner Y] --detail "reason"`, `work batch-status`. Handover never takes an active claim.
+
 ## Application packet and personalization
 
 The packet command combines existing research, sources, contacts, emails and application answers.

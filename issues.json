@@ -221,7 +221,7 @@
    "opened_at": "2026-11-16T10:59:56+05:30",
    "last_seen": "2026-11-16T10:59:56+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: Reoon's free daily credits ran out. quotas.json shows reoon 18 calls on 16 Nov (8 on 15 Nov, 4-5 before); the Mac key works again (J0196: 7 addresses verified in the 10:00 lead-scout run), so the 'no free quota left' at 10:59 for L0013, L0008, L0010, L0007 is the daily cap, not the key. Hunter cannot back it up because there is no Hunter key (I0011). Remedy: send-track should re-run find-email --recheck for those 4 leads after the Reoon quota resets tomorrow; to avoid repeats, add a real Hunter key (bare value) as a second verifier, or have lead-scout leave some Reoon credits for send-track. Nothing for Shlok unless he wants the Hunter key.",
    "resolved_at": null
   },
   {

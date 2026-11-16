@@ -133,12 +133,12 @@
    "owner": "claude",
    "title": "Scheduled lead-scout run 2026-11-16: research up to 12 leads",
    "detail": "Scheduled Claude lead-scout run",
-   "status": "working",
+   "status": "done",
    "created_at": "2026-11-16T09:31:24+05:30",
-   "lease_until": "2026-11-16T11:31:40.322189+05:30",
-   "result": "",
-   "ref": "",
-   "updated_at": "2026-11-16T09:31:40+05:30"
+   "lease_until": null,
+   "result": "11 researched, 1 qualified (L1360), 10 rejected; 8 emails (7 verified)",
+   "ref": "L1360",
+   "updated_at": "2026-11-16T10:01:25+05:30"
   }
  ]
 }

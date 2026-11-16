@@ -21884,7 +21884,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489908678",
    "source_url": "https://in.linkedin.com/jobs/view/product-operations-associate-at-yosaid-innovation-foundation-4489908678",
@@ -21900,7 +21900,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "WHAT YOU WILL DO \n Replication launches & platform setup \n Own end to end setup of new program launches across our messaging and IVR stack such as RapidPro, Turn, Exotel, Motor Admin and our internal Orchestrator.\n Validate and consolidate requirements from medical, film and translation teams before setup; manage template approvals and campaign creation, including code based configuration.\n Set up project specific journey logic (e.g., conditional acknowledgments, response handling) based on program requirements.\n Ensure every launch is delivered on time, thoroughly tested and fully functional before going live.\n IVR & onboarding \n Build complete IVR journeys in Exotel such as onboarding flows, campaign journeys and user friendly navigation.\n Set up QR and IVR based onboarding, including QR configuration, Motor Admin flows, and Turn journeys, ensuring users are routed to the right campaigns.\n Data management \n Track incoming program data, maintain data trackers, monitor ingestion and identify and flag data errors on the dashboards.\n Platform quality & troubleshooting \n Independently investigate and resolve technical issues across platforms where needed (e.g., language mapping, user profile updates, template approval scripts).\n Support platform transitions and migrations (e.g., moving flows, campaigns and media between messaging platforms).\n Documentation & research tooling \n Write and maintain PRDs, launch runbooks, dashboard requirements, and other product documentation.\n Build survey flows in SurveyCTO for research and training projects, working with research teams on implementation and refinement, including IRB approval processes where required.\n WHAT WE ARE LOOKING FOR \n 1-3 years of experience in product management, program operations or technical implementation, ideally in digital health, social impact or messaging platforms.\n Comfort working hands on with no code/low code platforms (e.g., RapidPro, Turn, Exotel, SurveyCTO)\n Strong execution and coordination skills, able to run multiple concurrent launches with cross functional teams and hit deadlines without dropping quality.\n Clear written communication, can turn messy requirements into PRDs, runbooks, and documentation others actually use.\n A user first, detail oriented mindset: you test everything before launch and care about the experience of caregivers on the other end.\n Good to have \n Experience with IVR systems, audio content management or multilingual content operations.\n Familiarity with public health programs (MCH, TB, NCD) or working with government health systems.\n Experience with Figma\nSeniority level Associate | Employment type Full-time | Industries Hospitals and Health Care",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -21915,8 +21915,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 42,
+    "total": 52,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -21926,15 +21926,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Product Operations Associate at YosAid Innovation Foundation, asks 1-3 yrs; pay unknown, likely below your threshold.",
+    "fit_notes": "The posting asks for '1-3 years of experience in product management, program operations or technical implementation' with 'hands on with no code/low code platforms (e.g., RapidPro, Turn, Exotel, SurveyCTO)'. Shlok has 1.3 years of experience. While he has execution skills demonstrated in [sop] and [ceo-coo], this role focuses heavily on low-code tool configuration, IVR journeys, and health messaging stacks rather than his core supply chain, S&OP, and leadership profile.",
+    "pay_notes": "Pay is not stated in the posting and no company website or salary data was found in web research.",
+    "culture_notes": "YosAid Innovation Foundation is a small foundation with no website, reviews, or culture data found in web research.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T12:39:49+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -21958,14 +21965,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:39:49+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (Pay is unknown and likely below the Rs 24.5 LPA threshold for an Associate role at a small foundation; also, the technical implementation and low-code tool stack do not map well to Shlok's high-impact strategy and operations background.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T12:39:49+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Pay is unknown and likely below the Rs 24.5 LPA threshold for an Associate role at a small foundation; also, the technical implementation and low-code tool stack do not map well to Shlok's high-impact strategy and operations background."
   },
   {
    "id": "L0181",

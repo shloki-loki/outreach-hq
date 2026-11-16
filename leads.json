@@ -165463,15 +165463,15 @@
    "key": "appliedmaterials|regional category manager capital construction|bengaluru",
    "type": "job",
    "company": "Applied Materials",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "appliedmaterials.com",
+   "company_url": "https://www.appliedmaterials.com",
    "company_linkedin": "https://www.linkedin.com/company/applied-materials",
    "company_note": "",
    "title": "Regional Category Manager, Capital Construction (APAC)",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4484373894",
    "source_url": "https://in.linkedin.com/jobs/view/regional-category-manager-capital-construction-apac-at-applied-materials-4484373894",
@@ -165487,7 +165487,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Who We Are\n Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology.\n What We Offer\n Location:\nBangalore,IND\nYou’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more.\nAt Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits.\nRole Purpose\nThe Senior Manager serves as the regional leader of the India‑based GSP Category Execution Hub, responsible for driving best‑in‑class commercial execution for APAC’s most complex and high‑value capital construction programs.\nThis role owns the strategy-to-execution bridge, leading a team that delivers RFx excellence, advanced commercial analytics, supplier performance governance, and scalable processes that enable reliable execution across India, Korea, Taiwan, and China.\nThe Senior Manager partners closely with GSP Category Leadership, regional project leaders, commercial managers, engineering, and onsite focal resources to ensure commercial readiness, risk visibility, and disciplined execution across all phases of capital projects.\nKey Responsibilities\n Leadership of APAC Category Execution (India Hub)\n Lead and grow the India Hub team responsible for sourcing execution, cost modeling, analytics, and supplier performance.\n Drive operational excellence across all category execution workflows—RFx, contracting support, benchmarking, market intelligence, and commercial governance.\n Serve as the primary point of leadership for India‑based category execution supporting APAC capital projects.\n Category Execution & High‑Value Commercial Operations\n Oversee the full RFx lifecycle for complex construction, engineering, cleanroom, and fit‑out packages.\n Set negotiation strategy, support contract‑structure development, and ensure commercial alignment across multiple projects and markets.\n Ensure commercial rigor on change‑order management, claims mitigation, cost reconciliation, and risk allocation.\n Partner with Commercial Managers/GWI to ensure category execution directly supports project schedule, budget, and risk requirements.\n Supplier Strategy, Governance & Performa",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -165502,8 +165502,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -165513,15 +165513,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Regional Category Manager at Applied Materials, asks 10-15 yrs; you have 1.3 yrs, making this a heavy experience mismatch.",
+    "fit_notes": "The posting asks for \"10–15 years of experience in capital construction procurement, category management, or large‑program commercial operations.\" Shlok has about 1.3 years of experience at Ola Electric [sop, ceo-coo]. While his inventory and S&OP background [sop, mrl] relate to supply chain, the 10-15 year requirement is a severe mismatch.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary data was found in the search evidence.",
+    "culture_notes": "Applied Materials is a major global semiconductor equipment manufacturer with a recent $5 billion investment commitment in India [S2]. No specific Glassdoor ratings or culture flags were provided in the search evidence.",
+    "hook": "Applied Materials is investing $5 billion in India as part of its expanding regional manufacturing footprint.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3kyeU5pWlZVczhBTGVoMVlLTFZkLS1Tb2J5QkhXdldvNW1fVlVCNTNRMUdiVUNBVGVDaURDb2NFSTZTOG1MR2Q2dWdXdXJDSkJmd0t3NjNncGN6VGdCeDF4T2pGWEQ2OXhNTU5zcEFaa0c2aTJEczgtbE1GeWZ6M0JJb2ZJbWY1TzlIaTYwOHVtWEp0LWtZeW9sNjNmUVE0cHRIaFNnSzZVZ3NmNUZXVW5yamdHODNTVkxXWE5CaHV6Y0V6VzVTd1BJNA?oc=5",
+    "researched_at": "2026-11-16T12:45:50+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Applied Materials launches EPIC Center in California, invests $5 bn initially - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUUJXRGhRV3FKNVlQSXFvVU5qNGJsQ2hoa0stVTZXV0hBR0REUTE5RXU5LS1xMzQtYU1pXzQxZ1lxTzV5eDhHMmdtYzN0SDNvWW02WlJxY2Z5UUFlMW9JaEQzY0h2eDJkcGM0YlRqRHZIUm9wNkJua2xDYVhPaGpZbTJ3Tl9uN3Z2X2steGtQUmJNemo0UEUzOXJ5b09kNDN2Wm10bURWYUdHbHItY2E0ZzdNR3huYjU4eHlvTjFCd0g0dC1mMTlJSkhONzZ1U1o1S1VLYm95ZXV5akpvQVFRMHZ4Sm93bGlEaE15U2xweksyZ0tmM1HSAfMBQVVfeXFMT2ZiZWlDZ1B4YzhQRTJ0THZHVVI2N3BVcHE1QjVSRVdPZ25iTXc2MURmNHVNNzFvb250R0t2bTlseFpCbWxJM2I1TXBhNFZsa2QwdGpIQW5ldUtUVlRHWW9vRXR6QkxiLTk0YzVWbkx2anlQR1VhZXdGT2lvTDYzVzJoelhkOXlreExKQlFlb2x4eWdsY09oem1Nc3BrVER4SXF6b0dVX3lYTXJtQzZ3c2pjNHZZQXNSRTFhUlE4bHY3WHp2ZDFyeUZTcU5KWlM4RzFOODJ6X1VkV2F2bWVVRndTSDlOU0NfZkVHUXBlWHZ6aTAw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Applied Materials to invest $5 billion in India as Modi's flagship chip event kicks off - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3kyeU5pWlZVczhBTGVoMVlLTFZkLS1Tb2J5QkhXdldvNW1fVlVCNTNRMUdiVUNBVGVDaURDb2NFSTZTOG1MR2Q2dWdXdXJDSkJmd0t3NjNncGN6VGdCeDF4T2pGWEQ2OXhNTU5zcEFaa0c2aTJEczgtbE1GeWZ6M0JJb2ZJbWY1TzlIaTYwOHVtWEp0LWtZeW9sNjNmUVE0cHRIaFNnSzZVZ3NmNUZXVW5yamdHODNTVkxXWE5CaHV6Y0V6VzVTd1BJNA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Applied Materials and Intel Join Forces to Advance AI Chipmaking - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkh1Zk0yal9rajZTVXdVTFdqWGU0ZTg1Wnh1NkZJRi02MndMdWRUUDVhNExBTV91dk1HY2dPUjZhakVrR1UwRnBpbm05ZXJyODdHblVrVmVaTDQ0VGU0eUMzT21zY0UySUFpVzA4WlhObThLLW0xM3A3SUM4MEZEMDQ1clNCdTRSNWJac1dUWVl6OUdpdjVQRHZ2a3RORGMtS05TMw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Applied Materials Will Double Sales, Not Headcount, Thanks to AI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWVfZ0R3VHd6TlFhU2xFWFREbnNVVDc5M3pHbXF6ZjNPNDl1NDR5bTBPN0ZNRHlfZEhUX3VleDl4X1l6dTNnejZaQTBhczN2dlJENWdnWkIzUHo1bmVTYzg2OVlOckpGdXlxQ281NU5uZ19uUnMyTXJhODNKdnBuQXFrdUZGeFFyZ2NvQWp3UU1GUGRxOWpTXzRoWFNXRGxKTkZ3UVRZTkgxNWh0Y2FpQ203QQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "ASML vs. Applied Materials: One Is Growing Twice as Fast, but I’d Buy The Other Instead - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3J4eE1KZDlObjBGbDN3aXpPRmF2UHA5bkVQQ2xMWXNUWmFGOTk4d0JhaTk5SVp5MWFnSEhNMjV3b1VIMHJQb2Raa2Rya05XaWhxSERtLVpUTkZ2bXhUN0poeUhUVWJlOG8yaWtiZTUtbTh0U2wwZWxkX0c5SjFtdzNlSzBSMjdsN3lPdGZnR1BKM0drdmptS2tQTFhYcHd4eFVaYW10SUlpaVFqbVBla0dsSmwxVVFZY2tSZUV5Y2JQNldLSVE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Applied Materials stock outlook: Bearish trend persists as sellers control near $347.52 support - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNktxRER5QnZHa0JWS05wZC14X1NuNlpMUExzWTBhNmU0QzFEeDVDM2J4UU9VUTZ5OEprUkxzbkItN05ETzhUcHJrS3RSUlQzckFpU0Fkb2FUZXZra2x5M1JUVTk2cC10aGpPN01rQlpvaWNSSkJUUlpiV2xmSmZEQ01nZnk3NFhoa29GZkhYRk1SMkk?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -165545,14 +165587,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:45:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The posting explicitly requires 10-15 years of experience in capital construction procurement, whereas Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-16T12:45:50+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly requires 10-15 years of experience in capital construction procurement, whereas Shlok has about 1.3 years."
   },
   {
    "id": "L1390",

@@ -24283,15 +24283,15 @@
    "key": "whitecrowresearch|supply planning leader|india",
    "type": "job",
    "company": "WhiteCrow Research",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "whitecrowresearch.com",
+   "company_url": "https://whitecrowresearch.com",
    "company_linkedin": "https://in.linkedin.com/company/whitecrow-research-pvt--ltd",
    "company_note": "",
    "title": "Supply Planning Leader",
    "tier": "1 - Strategy & Ops",
    "location": "Pune District, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488812987",
    "source_url": "https://in.linkedin.com/jobs/view/supply-planning-leader-at-whitecrow-research-4488812987",
@@ -24307,7 +24307,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "About WhiteCrow \n We are global talent research, insight and pipelining specialists with offices in the UK, USA, Singapore, Malaysia, Hong Kong, Dubai, and India. Our international reach has helped us to understand and penetrate specialist markets at a global level. In addition to this, our service is also extended to complement our client’s in-house research.\n About our client \n For more than 80 years, our client’s engineers and product specialists have partnered with customers to produce highly engineered connectivity and sensing solutions that make a connected world possible. Their focus on reliability, durability, and sustainability exemplifies their commitment to progress. The unmatched range of their product portfolio enables companies, large and small, to turn ideas into technology that can transform how the world works and lives tomorrow.\n About the role \n Supply Planning Leader is accountable for end-to-end supply planning across an assigned product portfolio and multiple distribution centers.\n The role ensures timely, cost-effective product availability while balancing customer service, inventory health, working capital, capacity, and logistics performance. This leader converts demand into feasible supply plans, manages risks and constraints, and drives cross-functional execution and continuous improvement in a global, matrix environment.\n As a Supply Planning Leader, you will be responsible for... \n Developing and executing supply plans aligned with customer demand, inventory targets, business priorities, capacity, material availability, supplier constraints, and transportation lead times.\n Ensuring finished-goods availability and timely replenishment across distribution centers, regional warehouses, and source plants by driving MRP recommendations and monitoring plan adherence.\n Leading weekly and monthly supply reviews and actively supporting S&OP and S&OE by providing supply status, reviewing demand outlook, recommending trade-offs, and driving approved actions.\n Optimizing safety stock, MRP policies, inventory deployment, stock coverage, turns, availability, and working capital while maintaining healthy inventory levels.\n Managing phase-in and phase-out planning for the assigned portfolio.\n Identifying demand-supply gaps, capacity bottlenecks, material constraints, revenue risks, and service opportunities; leading root-cause analysis, recovery plans, prioritization, and allocation decisions.\n Supporting customer-service targets, including Fill Rate, STR, OTIF, and PP Confirmation, by aligning commitments with realistic supply capabilities.\n Partnering with Demand Planning, Procurement, Manufacturing, Logistics, Customer Service, Product Management, and Sales on material availability, inventory strategy, supply risks, and executive reviews.\n Preparing monthly and annual inventory and freight projections and improving sourcing and transportation economics, including ocean buying from source.\n What you already have... \n Bachelor’s deg",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -24322,8 +24322,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -24333,15 +24333,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Supply Planning Leader at WhiteCrow Research, asks 10+ yrs; your experience is 1.3 yrs.",
+    "fit_notes": "The posting asks for \"10+ years of experience in supply planning, materials planning, inventory management...\" and \"At least 4 years of team-leadership experience\". Shlok has about 1.3 years of experience and no full-time team management experience. While his facts on S&OP planning ([sop]) and inventory management ([msl]) relate to the domain, the seniority gap is insurmountable.",
+    "pay_notes": "Pay not stated in the posting, and no pay evidence found for this company.",
+    "culture_notes": "Company ratings, reviews, and detailed culture metrics were not found in the evidence.",
+    "hook": "I noticed Tarun Vohra was recently appointed President, India and Head of Growth, Asia at WhiteCrow Research.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUdjUWYwR0RsaXRrWHZFV2ZNUGtvbTh0Z0U4TWd6R2JsNXRVc3N0UmNkcXpVQ3ZGc284bDhvQW1XQzhEUHNPMnlqODFOWlhrS0pQZkhxV0d3RVVXbmU3Z1p6N19ZQmVoWnRqTV9oUXVmYlBDV2FDVEcxSzNocFoxeGZoR2lObnNZMEF1VDdvQVpTbWFDZGVoaWpIaHk5Znkxa1RZY0gtMHUySTZoV0RPU1YxNnBXanBLWjlscnhHaUU2dw?oc=5",
+    "researched_at": "2026-11-16T12:41:13+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Tarun Vohra Appointed President, India and Head of Growth, Asia at WhiteCrow Research - KARV Tech Insider",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUdjUWYwR0RsaXRrWHZFV2ZNUGtvbTh0Z0U4TWd6R2JsNXRVc3N0UmNkcXpVQ3ZGc284bDhvQW1XQzhEUHNPMnlqODFOWlhrS0pQZkhxV0d3RVVXbmU3Z1p6N19ZQmVoWnRqTV9oUXVmYlBDV2FDVEcxSzNocFoxeGZoR2lObnNZMEF1VDdvQVpTbWFDZGVoaWpIaHk5Znkxa1RZY0gtMHUySTZoV0RPU1YxNnBXanBLWjlscnhHaUU2dw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -24365,14 +24378,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:41:13+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 35: rejected (The posting requires 10+ years of experience and 4+ years of team-leadership experience, which far exceeds Shlok's ~1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T12:41:13+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting requires 10+ years of experience and 4+ years of team-leadership experience, which far exceeds Shlok's ~1.3 years of experience."
   },
   {
    "id": "L0204",

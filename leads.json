@@ -142,7 +142,7 @@
    "key": "sarvamai|product and strategy associate|bengaluru",
    "type": "job",
    "company": "Sarvam AI",
-   "company_domain": "",
+   "company_domain": "sarvam.ai",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Series B, $300M (first close Jun 2026, $1.5B post-money)",
@@ -218,10 +218,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/karman-sethi-163179217",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "karman@sarvam.ai",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -267,9 +267,15 @@
      "actor": "send-track",
      "event": "apply_kit",
      "detail": "application answers prepared"
+    },
+    {
+     "at": "2026-11-16T10:00:01+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Karman Sethi: karman@sarvam.ai (verified, 90)"
     }
    ],
-   "updated_at": "2026-11-14T15:14:05+05:30",
+   "updated_at": "2026-11-16T10:00:01+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",

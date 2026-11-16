@@ -164865,15 +164865,15 @@
    "key": "amazon|category manager international emerging stores|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.in",
+   "company_url": "https://www.amazon.in",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Category Manager, International Emerging Stores",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4455794351",
    "source_url": "https://in.linkedin.com/jobs/view/category-manager-international-emerging-stores-at-amazon-4455794351",
@@ -164889,7 +164889,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Description\n Work hard. Have fun. Make history. At Amazon we expect no more and no less from you. Ever since Amazon opened its virtual doors, it has been the aim to become the most customer-centric company in the world. How is this achieved? By having people like you who make sure that customers find everything that they are looking for online – at great prices and convenience. Both Amazon and sellers who list their products on the site already offer millions of new and used items in a wide range of categories. And this is just the beginning. Come and experience a company that reinvents itself every day. Immerse yourself in an environment that is fast-paced, expanding and is continuously inventing new efficiencies and offering great opportunity for our customers and for you! Amazon is looking for a smart, enthusiastic, hard-working and creative candidate to join as a Category Manager for the HPC Category\nKey job responsibilities\nThe Category team in India is looking for a Category Manager to own and drive scale-up of categories and critical customer-focused initiatives. The person who joins this team must share our passion and commitment for serving customers while also making Amazon a preferred destination for baby customers. The candidate must be able to balance thinking big, working with ambiguity while driving speed of experimentation. We are looking for self-starters with strong analytical skills and result-orientation who can make and execute independent, data-driven decisions and work with senior stakeholders, both internally and externally.\nThe successful candidate for this critical role will have strengths in independent problem-solving and working around constraints, demonstrate great “voice” and strong writing skills, show strong ownership and persistence, lead a team to deliver org goals, have proven leadership experience in managing projects, and be comfortable with evolving structure in a new space.\nA day in the life\nhttps://www.youtube.com/watch?v=3WtvUL81NEg\n Basic Qualifications\n 3+ years of with Excel experience\n 5+ years of retail, operations, product or program management, or business management/consulting with negotiations and delivering results experience\n Bachelor's degree, or 3+ years of professional or military experience\n Experience with financial analysis and P&L ownership\n Preferred Qualifications\n Experience managing large data sets and utilizing to drive performance and process improvements\n Experience in vendor negotiations, pricing and promotion, inventory management, and product development\n Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact yo",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -164904,8 +164904,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 62,
+    "total": 64,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -164915,15 +164915,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Category Manager at Amazon, asks 5+ yrs experience; your 1.3 years at Ola Electric falls short.",
+    "fit_notes": "The posting asks for '5+ years of retail, operations, product or program management, or business management/consulting with negotiations and delivering results experience' and '3+ years of with Excel experience'. You have about 1.3 years of total experience, which is below the minimum requirement. While your experience running S&OP planning and finished goods inventory ([sop], [ceo-coo]) maps well to retail and inventory management, the strict 5+ year experience threshold blocks this role.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "Company quality is high (Amazon), but specific ratings and culture flags were not found in the search evidence.",
+    "hook": "Amazon announced it will invest $48 billion in India by 2030, scaling operations across emerging categories.",
+    "hook_source": "https://in.linkedin.com/jobs/view/category-manager-international-emerging-stores-at-amazon-4455794351",
+    "researched_at": "2026-11-16T12:45:15+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUJReUY4aWVzV1dsSmNsdDlBQ29HTTBlZEFTaFRGSmlPX0FnOWZwZTdwTHRBNmY0bV9kYWRKU0hVaDdTOFdDcFF6Ty1SVEZUMFdDWUJqNjFQcnMyTk1vR2QyM3lvZXk3RXlqVzhpR2NFZXFkY1NYcnNnOVJyYlU1dlJnaVI?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites - Spaceflight Now",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOXBwbWd2b0g0V3hIb3RLVTU4Tkd6M2xtSUNDUU5Pd1B5OW9rcGVMcXdiMnJKclpldzBIS0FsZlplY2tSelFyZldnQlhrd3FtOEZsWDRSYkJjdjNEWWFPVEdET0pPNHFjSEZUaFYyZTJCaUhGcC1PYkc3M1VIZDJGdG9WWHNsZFd1X0V1V1hFT1JKR2FmNnR0dXY2eWh5b0FEVTNVWFh2SjVSRmgtQVZPY2RaMXBfVTJhTzA2UG4zV05nd0dUZTFQVUtrNFhuMzlzbU5XOWF3?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -164947,14 +164988,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:45:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 64: rejected (The role requires 5+ years of experience, whereas you have about 1.3 years of experience. Additionally, pay is not stated.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-16T12:45:15+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 5+ years of experience, whereas you have about 1.3 years of experience. Additionally, pay is not stated."
   },
   {
    "id": "L1385",

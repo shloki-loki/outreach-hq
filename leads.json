@@ -12850,7 +12850,13 @@
     "kind": null,
     "since": null
    },
-   "notes": [],
+   "notes": [
+    {
+     "at": "2026-11-16T10:56:33+05:30",
+     "by": "send-track",
+     "text": "Not drafted 2026-11-16: zamp.ai is catch-all (Amit Jain, Raghav Saraf) and score 73 is under 80, so no unverified send allowed; needs a verified address or an apply route."
+    }
+   ],
    "timeline": [
     {
      "at": "2026-11-12T21:02:04+05:30",
@@ -12925,7 +12931,7 @@
      "detail": "Linson Thomas: linson.thomas@zamp.ai (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-16T10:44:24+05:30",
+   "updated_at": "2026-11-16T10:56:33+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",

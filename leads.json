@@ -12756,10 +12756,10 @@
      "title": "CEO's Office - Strategy",
      "role_type": "hiring_manager",
      "linkedin_url": "https://www.linkedin.com/in/ACwAABor3KQBAySFLO7rNK5ALcZHEV8Lmc1M0ME",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "prabhu.sachdeva@zamp.ai",
+     "email_status": "catch-all",
+     "email_source": "pattern first.last on a catch-all domain",
+     "confidence": 55,
      "why": "likely reports-to or runs the function this role sits in (LinkedIn title)",
      "found_at": "2026-11-15T01:50:49+05:30"
     },
@@ -12769,10 +12769,10 @@
      "title": "Founder’s Office - Startegy & Operations",
      "role_type": "founder",
      "linkedin_url": "https://www.linkedin.com/in/ACwAADdlFeEB-1F6_YATIHVlWZsTT0vnvXIfNaw",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "vaibhav@zamp.ai",
+     "email_status": "catch-all",
+     "email_source": "pattern first on a catch-all domain",
+     "confidence": 55,
      "why": "founder or CEO (LinkedIn title)",
      "found_at": "2026-11-15T01:50:49+05:30"
     },
@@ -12782,10 +12782,10 @@
      "title": "Head of Talent Acquisition",
      "role_type": "recruiter",
      "linkedin_url": "https://www.linkedin.com/in/ACwAABEtHuIBEqzij28Y4zQc7CqwVyc5NM4wh7s",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "linson.thomas@zamp.ai",
+     "email_status": "catch-all",
+     "email_source": "pattern first.last on a catch-all domain",
+     "confidence": 55,
      "why": "recruits for the company (LinkedIn title)",
      "found_at": "2026-11-15T01:50:49+05:30"
     }
@@ -12839,9 +12839,39 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "3 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-16T10:44:24+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Amit Jain: amit@zamp.ai (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-16T10:44:24+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Raghav Saraf: raghav@zamp.ai (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-16T10:44:24+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Prabhu Sachdeva: prabhu.sachdeva@zamp.ai (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-16T10:44:24+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Vaibhav Jaitwal: vaibhav@zamp.ai (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-16T10:44:24+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Linson Thomas: linson.thomas@zamp.ai (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-15T01:50:49+05:30",
+   "updated_at": "2026-11-16T10:44:24+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",

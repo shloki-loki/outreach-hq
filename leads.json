@@ -161228,9 +161228,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Ashish Daga: ashish@origin.tech (verified, 90)"
+    },
+    {
+     "at": "2026-11-16T10:55:19+05:30",
+     "actor": "send-track",
+     "event": "drafted",
+     "detail": "cold email to Yogesh Ghaturle awaiting approval"
     }
    ],
-   "updated_at": "2026-11-16T09:57:21+05:30",
+   "updated_at": "2026-11-16T10:55:19+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:53:28+05:30",
     "why": "the posting page has no readable description",

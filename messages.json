@@ -414,6 +414,34 @@
    "thread_parent": null,
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0017",
+   "lead_id": "L1360",
+   "contact_id": "C1",
+   "to": "yogesh@origin.tech",
+   "to_name": "Yogesh Ghaturle",
+   "kind": "cold",
+   "subject": "build plan for the robots",
+   "body": "Hi Yogesh,\n\nCongrats on coming out of stealth with Accel and Zacua behind Origin. A goal of 150 robots on sites by the end of 2027 means the build plan and the cost per robot have to hold up month after month.\n\nI'm Shlok, I spent the last year in strategy and operations at Ola Electric. I drove the production planning for the cell-line launch, where yield went from 42% to 67% in two months. For your Founder's Office manufacturing role, I could own the rolling build plan and the yield tracking that feeds back into design.\n\nHow are you planning builds against the deployment pipeline today?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": false,
+   "hook": "Origin came out of stealth in October with $20M led by Accel and Zacua and a goal of 150 robots on sites by end-2027",
+   "hook_source": "https://inc42.com/buzz/origin-bags-20-mn-to-build-autonomous-construction-robots/",
+   "play": "question",
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-16T10:55:19+05:30",
+   "created_by": "send-track",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": null,
+   "error": null,
+   "reply": null
   }
  ]
 }

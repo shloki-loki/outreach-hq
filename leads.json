@@ -168885,15 +168885,15 @@
    "key": "smartsheet|manager revenue operations analytics revops|bengaluru",
    "type": "job",
    "company": "Smartsheet",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "smartsheet.com",
+   "company_url": "https://www.smartsheet.com",
    "company_linkedin": "https://www.linkedin.com/company/smartsheet-com",
    "company_note": "",
    "title": "Manager, Revenue Operations Analytics / Revops (Hybrid- Bangalore)",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru East, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4473850760",
    "source_url": "https://in.linkedin.com/jobs/view/manager-revenue-operations-analytics-revops-hybrid-bangalore-at-smartsheet-4473850760",
@@ -168909,7 +168909,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.\nSmartsheet is hiring a Manager, Revenue Operations Analytics to lead and grow our India-based analytics team in Bangalore. This is a senior people management role at the intersection of analytical strategy and operational execution — you will own the day-to-day leadership of five Senior Revenue Operations Analysts and one Data Engineer, while serving as a key strategic partner to Go-To Market (GTM) leadership globally.\n You will drive the analytical agenda that informs Smartsheet's growth strategy, aligning data and analysis around pipeline health, sales productivity, retention, territory effectiveness, services utilization, and commission planning. Your team will be at the center of how the GTM organization understands its business and makes decisions.\n This role is designed to bring senior analytical leadership into the IST time zone, providing direct, timezone-aligned support to the India-based team while maintaining meaningful overlap with North America Pacific Time leadership. You will also be a bridge to Smartsheet's Bangalore BI and Data Engineering teams, deepening the partnership between Revenue Operations and the broader data platform organization.\n You will report to our Sr Manager, Revenue Operation Analytics. \n You Will\n People Leadership & Team Development\n Directly manage 5 Senior Revenue Operations Analysts and 1 Data Engineer in Bangalore, providing day-to-day guidance, coaching, and operational support.\n Set clear priorities, hold the team accountable for high-quality and timely outputs, and own performance management including merit reviews and calibrations.\n Support career growth through regular 1:1s, identifying skill gaps, and coordinating mentorship and development opportunities.\n Partner with HR on recruiting, onboarding, and workforce planning for the Bangalore team.\n Analytics Execution & Business Partnership\n Act as the primary analytics business partner out of our Bangalore office for Global Sales and GTM leaders, translating business questions into structured analysis, reports, and recommendations.\n Lead team execution across Revenue Operations priorities: pipeline health, retention, sales productivity, territory performance, services utilization, and commission planning.\n Help create, evolve, and maintain the Sales reporting infrastructure; mine large datasets to surface insights and monitor for anomalies and data quality issues.\n Partner with Bangalore BI and Data Engineering teams to build scalable analytics solutions and ensure data pipelines meet the team's needs.\n Pr",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -168924,8 +168924,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 20,
+    "total": 38,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -168935,15 +168935,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Manager RevOps Analytics at Smartsheet, but requires 8+ years experience and 2+ years people management.",
+    "fit_notes": "The posting requires '8+ years of progressive experience in analytics, revenue operations, or a related quantitative discipline' and '2+ years of direct people management experience'. Shlok has only ~1.3 years of experience and no experience managing a full-time team.",
+    "pay_notes": "No pay stated in posting or present in company evidence.",
+    "culture_notes": "No Glassdoor or AmbitionBox ratings were provided in the search evidence.",
+    "hook": "Pratima Arora recently discussed closing the gap between AI productivity and enterprise execution as Smartsheet unites human teams with AI agents.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWEdUdDZpLTZkcXI4cHhGUE5LQ1gxNTM5RjRxNjc1YkcwM25QZktsVXFnVWw3MUNCaXV1RUdjQTR4bnVud3BYVVp6OUJtLW1sZzlMcGxReEVBdTltV1pJaUN3ZXB2V1BjbW1zcXFwU0xOcUdfaE5BUm54MEZDVEJqb0pSWWlDYi1pV2c?oc=5",
+    "researched_at": "2026-11-17T00:48:29+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "How Smartsheet built a remote MCP server on AWS | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEpSbjdjN0JlYndIX2Q2SVJ5LVA3ZEdvN1NJM0h5enZmOW9IQjlTTzYtYjlubW9ycjQ5OUhmcHNhb25uLWVQei1ZTEpmUHVBVk53UlFLRG5RcWVNTDc1emo4M3BLWVJqY0t3UHFSejZiZ1hWUV9QVVVRa0phd1JUZWl1akNNR2wxUko3Y0FWQ3hYeXZ3UGV3ODFR?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Smartsheet Bets on APAC Leadership to Capture AI Work Management Surge - The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFU0M19oZWJaMWhWTjUxNTRIaVg1eWZ1YjB6bnZqQ1JtWVZiVEk3S1NqdlFGQV9oOXJBN19SUGtsSW9NbEtNbUQ3VHd2dFpCbVF2eUFaVUlvbDdVaS1DUmF5dE0zeFlxRkQ1eEtjSDRBVlRaOW5WZkVVbHlXbFcyUVk2ZXJXaGVyY2xlRTduU2NqdXBhSVNZN2dIakc4TGppR21GUTJTMm0?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Microsoft Project vs Smartsheet: Best Choice for 2026 - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyZVItYTQ3Nm5vRzRvekpyMDA4dEx1ZjlhUmRSTzJCU2g3M3k3ek5EOTJ3VGR0WVZoaDljeUIxZFZ4SFBxTWJUd0hRM0ZnMHhiM0wwNGNrYlNZWHpYalNQNmRtQzhtRmZoUC14QkxUZ0h0NHM2RGpKSw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Smartsheet’s Pratima Arora on closing gap between AI productivity and enterprise execution - Tech Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWEdUdDZpLTZkcXI4cHhGUE5LQ1gxNTM5RjRxNjc1YkcwM25QZktsVXFnVWw3MUNCaXV1RUdjQTR4bnVud3BYVVp6OUJtLW1sZzlMcGxReEVBdTltV1pJaUN3ZXB2V1BjbW1zcXFwU0xOcUdfaE5BUm54MEZDVEJqb0pSWWlDYi1pV2c?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Smartsheet AI-powered platform bridges gap between planning and results - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnR2NzFveURtTHk3ZDFyaHVoMGgxMnAzX2FFdWItLWhsbHFuOXltVGxoX09Wa3hIUmI5RmlRVG5NcURGcjU1MDdBenFpQXdSdmhmRXB3OUtwME9vV09lN0ZBQnYweEhyLUU2dnFGekhoYUYxUVBQWnVzY2tDR1RSVG81N1JQMTVIS0RpRHVueWg4LUJUTWlCZVRxQThDeDNIRFhYZlFFb2Iwbm1R?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Rajeev Singh, Smartsheet CEO: A Fortt Knox Update - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHhsZmYyaWNKQS1JOHllVlJaMmNnTXl6V2dpalA4RmZPam9lNkFHVEc0ZlZKdGx2aG5GTUUyMUItYWxDM250TnFzTEFMbXRCcm1JZ2NRdlVLYUJwMDVWclpLQ2dLN1NPeVdDb3Q1U1RMYWltbTZaaUZ6NFVRV2lya2w4TzNla0lDU0JoTzFCM1dOQWxU?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -168967,14 +169005,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:48:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 38: rejected (Requires 8+ years of experience in analytics/RevOps and 2+ years of direct people management experience (Shlok has 1.3 years and no full-time team management experience).)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:48:29+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Requires 8+ years of experience in analytics/RevOps and 2+ years of direct people management experience (Shlok has 1.3 years and no full-time team management experience)."
   },
   {
    "id": "L1419",

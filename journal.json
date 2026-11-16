@@ -1745,6 +1745,15 @@
    "title": "Ran",
    "detail": "11 researched, 1 qualified (L1360 Origin Founder's Office Manufacturing Associate, score 74, pay unknown), 10 rejected (DrinkPrime L1395 3+yrs/~5 LPA; Aspora L1362 7+yrs; TalkingLands L1363 legal role; r3 L0331 closed; PwC L0127 MBA 5-8yrs; Glean L0150 cloud FinOps; Avangarde L0111 closed 12-15 LPA; SkillDzire L0115 20-50k/mo; Akshaya Patra L1351 NGO pay, Naukri 403; GalaxEye L0208 Instahyre 403, mirror closed). 2 contacts added, 8 emails found (7 verified via Reoon: Origin x2, Airbound, Sarvam, Emversity, FRND; 1 pattern FRND L0040). No Apify used. Scout scrape started 09:32, still running at log time.",
    "ref": ""
+  },
+  {
+   "id": "J0195",
+   "at": "2026-11-16T10:01:16+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "git fetch of data branch fails intermittently (exit 128)",
+   "detail": "2026-11-16 lead-scout run: store.sync() git fetch origin data failed twice (status at 09:30, lead research L1395 at ~09:52), both passed on immediate retry. Same as follow-up run 2026-11-14. Writes are not lost but an unattended run can abort mid-batch; consider a retry with backoff in store._git for fetch.",
+   "ref": "I0015"
   }
  ]
 }

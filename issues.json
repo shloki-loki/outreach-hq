@@ -195,6 +195,20 @@
    "count": 1,
    "remedy": "Cause: the Claude session that shipped PR 4 and PR 6 closed W0004/W0005 but never marked W0006-W0008 done, so their claims expired. Remedy (not done by a scheduled run, which may not change work state): in the next interactive session mark W0006, W0007 and W0008 done with evidence PR 4 (dd7409c) and PR 6 (b4831bb); W0008's last part (research the 275 unresearched leads) can be split into a new research item if wanted. supervisor/check should then pass.",
    "resolved_at": null
+  },
+  {
+   "id": "I0015",
+   "key": "lead-scout:git fetch of data branch fails intermittently (exit 128)",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "git fetch of data branch fails intermittently (exit 128)",
+   "detail": "2026-11-16 lead-scout run: store.sync() git fetch origin data failed twice (status at 09:30, lead research L1395 at ~09:52), both passed on immediate retry. Same as follow-up run 2026-11-14. Writes are not lost but an unattended run can abort mid-batch; consider a retry with backoff in store._git for fetch.",
+   "status": "open",
+   "opened_at": "2026-11-16T10:01:16+05:30",
+   "last_seen": "2026-11-16T10:01:16+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

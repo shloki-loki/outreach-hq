@@ -41959,8 +41959,8 @@
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 35,
+    "total": 55,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -41970,15 +41970,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "MKGlobo’s Founder’s Office Executive role focuses on administration, bookkeeping, and routine HR coordination.",
+    "fit_notes": "Coordination and reporting overlap with the profile, but the employer lists office administration, invoices, bookkeeping, payroll coordination and HR support as core responsibilities. Weak fit for strategy and operations ownership.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "hook_source": "https://in.linkedin.com/jobs/view/founder-s-office-executive-at-mkglobo-solutions-4488379549",
+    "researched_at": "2026-11-16T15:08:51+05:30",
+    "by": "codex"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -42020,9 +42022,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-16T15:08:51+05:30",
+     "actor": "codex",
+     "event": "researched",
+     "detail": "score 55: rejected (The current posting centers on office administration, bookkeeping, payroll coordination and HR support, with little strategic ownership.)"
     }
    ],
-   "updated_at": "2026-11-14T19:00:59+05:30",
+   "updated_at": "2026-11-16T15:08:51+05:30",
    "live_check": {
     "at": "2026-11-14T19:00:59+05:30",
     "state": "closed",
@@ -42032,7 +42040,8 @@
     "at": "2026-11-14T19:00:59+05:30",
     "reason": "the posting says \"No longer accepting applications\"",
     "by": "live-check"
-   }
+   },
+   "reject_reason": "The current posting centers on office administration, bookkeeping, payroll coordination and HR support, with little strategic ownership."
   },
   {
    "id": "L0357",

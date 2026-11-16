@@ -13917,8 +13917,8 @@
    "key": "skilldzire|founder s office executive|india",
    "type": "job",
    "company": "SkillDzire",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "skilldzire.com",
+   "company_url": "https://skilldzire.com",
    "company_linkedin": "https://in.linkedin.com/company/skill-dzire",
    "company_note": "",
    "title": "Founder's Office Executive",
@@ -13947,17 +13947,17 @@
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "Salary: 20 - 50k per month",
+    "min_lpa": 2.4,
+    "max_lpa": 6,
+    "basis": "stated",
+    "source": "LinkedIn posting 4487451989",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 8,
+    "total": 31,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -13967,15 +13967,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "SkillDzire founder's office executive in Hyderabad is an MD's assistant role paying Rs 20-50k a month; far below floor.",
+    "fit_notes": "LinkedIn guest view 2026-11-16, posted ~4 days ago, live. 0-3 yrs, freshers welcome; follow-ups, MoMs, correspondence, travel with MD. Executive administration, not strategy.",
+    "pay_notes": "Stated in posting.",
+    "culture_notes": "E-learning company, Hyderabad.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T09:55:07+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -13999,9 +14001,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T09:55:07+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 31: rejected (Stated pay Rs 20-50k per month (max Rs 6 LPA); executive-assistant style role in Hyderabad)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T09:55:07+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -14011,7 +14019,8 @@
     "at": "2026-11-16T02:54:52+05:30",
     "why": "model answer failed the checks: pay basis is 'stated' but the posting states no figure; use estimate or unknown",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Stated pay Rs 20-50k per month (max Rs 6 LPA); executive-assistant style role in Hyderabad"
   },
   {
    "id": "L0116",

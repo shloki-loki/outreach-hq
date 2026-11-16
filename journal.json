@@ -2051,6 +2051,15 @@
    "title": "Solved: git fetch of data branch fails intermittently (exit 128)",
    "detail": "Duplicate of I0015 (same fault, opened under the supervisor agent by mistake on 16 Nov 20:25 IST). Not fixed: all evidence and the remedy are tracked on I0015, which stays open.",
    "ref": "I0017"
+  },
+  {
+   "id": "J0229",
+   "at": "2026-11-16T22:05:00+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: git fetch of data branch fails intermittently (exit 128)",
+   "detail": "Cause: the Mac's HTTPS fetch of the data branch from GitHub sometimes stalls; store._git sets http.lowSpeedTime=30, so a stall becomes exit 128 and store.sync() raises with no retry. On 16 Nov every Mac agent and the supervisor hit it (status 20:10 IST, metrics ~20:22 after a 120 s hang); a retry seconds later always worked, and no write was lost (data log shows no gaps). Remedy for Shlok/next coding session: in store.sync() retry the fetch 3 times with 5/15/30 s backoff before raising, and add a test; optionally fall back to working on the local copy and push later. Not changed in this scheduled run.",
+   "ref": "I0015"
   }
  ]
 }

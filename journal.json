@@ -2033,6 +2033,15 @@
    "title": "Solved: Research worker has not run since 01:50 IST",
    "detail": "Verified gone 2026-11-16 20:30 IST: research.yml ran on schedule three times since (gh runs 43731700607 at 15:46 UTC 15 Nov, 43762005407 at 21:08 UTC, 43820764308 at 07:00 UTC 16 Nov). runs.json research-worker 22:03 IST (30 researched), 02:58 IST (30), 12:46 IST (32 researched, 5 qualified, ok). Still late versus the cron slots (see I0005) but no longer idle.",
    "ref": "I0013"
+  },
+  {
+   "id": "J0227",
+   "at": "2026-11-16T22:04:40+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "git fetch of data branch fails intermittently (exit 128)",
+   "detail": "Seen twice in the 16 Nov 20:10 IST supervisor run: 'status' failed at 20:10 (manual git fetch seconds later worked), and 'metrics' hung over 120 s then failed with exit 128 at about 20:22; immediate retry took 2 s. Also seen today by lead-scout (09:30, 09:52), send-track find-email (3 times, J0205) and follow-up (11:41, J0209). Every Mac agent hit it today.",
+   "ref": "I0017"
   }
  ]
 }

@@ -39128,7 +39128,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Pune District, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490587349",
    "source_url": "https://in.linkedin.com/jobs/view/program-manager-strategy-ops-at-stealth-startup-4490587349",
@@ -39159,8 +39159,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 60,
+    "total": 62,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -39170,15 +39170,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Program Manager (Strategy & Ops) at a stealth startup in Pune, asks unstated experience; your S&OP work maps well but location fails.",
+    "fit_notes": "The posting asks for a Program Manager to run internal programs across four service lines, managing cost, revenue, margin, sourcing, and governance cadences, with experience not explicitly stated in the summary. Shlok's S&OP production planning and finished goods inventory ownership [sop, ceo-coo] map well to the operational and financial governance requirements. However, the role is explicitly located in Pune District, Maharashtra, violating Shlok's location preference for Bengaluru or remote-first.",
+    "pay_notes": "Pay not stated in posting, and no pay evidence found for this stealth startup in web search.",
+    "culture_notes": "Company operates in stealth mode; no ratings, reviews, or culture flags found in the provided sources.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T12:42:09+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTGtYMmFlU0xISHQxVmNJS3RLX01xU1RwUVBiR1pTRmZjc19jQXp5dEZmLVJDc21wWEp0bFFjUE96ZHFRdEl6RERxWjEwT0gtTkcycXp1ZEE5elY2RlZGOFBXRmtCakw4bk93dE1DbmJJSVBOc0drRGluZUJuNGJfR29vRElhYTM4TVd5YlA1YThwdXNYZmxjZUVrcDFNdWM?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Ex-detective's stealth startup 22one hits ~$400M valuation, backed by Sequoia and Lux - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGdaNXRfU05IT1BEMXh4VHEwWThGZDNmQl9fZnpuam5oUmdRb1hZT0JuSUNfRkJDdmRsdDRURDM1QVpfNllHZ0pHMUVOZTV3ZjEyUFZPQTFLc3dWMldhLWlEYTc5UTlZMElHUnhtWjRxRy1xcFBFY0kzdEVyVXlvVXUwbS1Ka21oWU10QlZIRDFFb1ZsUUJfU3hzS2pkcnVjMVR5RkZ4aEsyX21ZWmZGcHVkeDRHZlU?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Convoy co-founder Dan Lewis exits Microsoft to launch stealth startup aiming to reinvent AI supply chain - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNllwenVYc2RyeVptYzY5RjgtTkhDN3F5ak9XQUhrMlZZNk9zTFZaczJMZ3RfV1BIRnRqcUVMWV9pZUdzT1ZQYVljTFVRTjVKXzctTXpaNjFuX2Q1NDBmTnpkWXdRTHgyYkcwS243UjgydDBqMzc2X3dMVXhoY0dhV0FLblZWTWlqYktXaS1nQTdwNHE3RXZhVTBGYXdzaVRBcnppNjQxaWRfbVpWSURUZ2JkV0tHSnR0UnJ1N0JqWW5pbndKbndZTndxUmxpVDlR?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Stealth Startup Kepler Computing Says It Cracked the AI Memory Shortage - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3pRUV9rdExjSmpxMDJaNk1rbjJIbC1ZcHpGeFBZd1plLU5LR3JuMWJZMEx1b20xVHJvZEM1NU51TXBHN1pXNGNiTnN5em16aEl4NGlqOU1hWURGREdFOGM1anVtWEI3eGZSUFdWMVlRMHNCN3JXekFvYU5GeC1RZjFfLWliWmVMb1ZJdndvczdBVmtZS3ByRmRIN2xIa3BV?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Anthropic's latest biotech buy is a one-man stealth startup run by a pseudonymous Twitter poster - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHpwcmFPOUt4SGt2Q3VCTHJoT0FWdGp5eWJsZHFsQjdUczVLWFNQYXdFTDNkYVBOeFNuWjlvRUxWRHVKUzNlNEZSNVg2aU4yY2RucnNrQkNwYkdPOTRUak4tWnFIRnBSUGpnbWFFb1Z5SU9NVzVnLWNQblJUM0tkYzlIMHhxLV9XU3I4WnJPdmNEcWQ2alA2eTdn?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Sam Altman is quietly backing a stealth startup that's building software for robots and cars - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenNTSFpJNDZZaUx1bVh4aHJNajF5UExZakZETWNHNmlpemhqSXFmUmNoUXRwRUNwTVB0WHVNbmdtSTlMcDU3TlVYU3B0R3lWbnpralQ4eE56TFhnVTJrZmhJV1pONFlnSUgtV3FybHlxYWMwc0xwYTM5Y1hEdzQ3NlV1dDlCd0FhTkdHd0ZrMU1RM2hia0VUSG1KbUtIaVI2dW9pNA?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -39202,14 +39243,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:42:09+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 62: rejected (The role is located in Pune District, Maharashtra, which violates Shlok's strict location rule of Bengaluru or remote first. Additionally, the pay is not stated and there is no evidence that it clears the Rs 24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-16T12:42:09+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role is located in Pune District, Maharashtra, which violates Shlok's strict location rule of Bengaluru or remote first. Additionally, the pay is not stated and there is no evidence that it clears the Rs 24.5 LPA threshold."
   },
   {
    "id": "L0333",

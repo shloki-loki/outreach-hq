@@ -498,6 +498,34 @@
    "thread_parent": null,
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0020",
+   "lead_id": "L0004",
+   "contact_id": "C1",
+   "to": "sonali.verma@rupeek.com",
+   "to_name": "Sonali Verma",
+   "kind": "cold",
+   "subject": "CEO's office at Rupeek",
+   "body": "Hi Sonali,\n\nThanks for posting the Manager, CEO's Office opening at Rupeek. It asks for IIT or BITS and time at a high-growth startup, and that's the background I'd bring to it.\n\nI'm Shlok, an IIT Guwahati graduate, and I spent the last year in strategy and operations at Ola Electric, working with the CEO and COO. I owned production planning over Rs 200 Cr of inventory and cut working capital by 40% in 2.5 months.\n\nIs there anything else you need from me to put this in front of the hiring team?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": false,
+   "hook": "Sonali's post for Manager, CEO's Office at Rupeek asks for IIT or BITS and time at a high-growth startup, and covers fundraising, org planning and AI-led initiatives with the CEO",
+   "hook_source": "https://www.linkedin.com/posts/sonali-verma-_were-hiring-for-the-ceos-office-at-rupeek-activity-7516466354326220800-mf6A",
+   "play": "direct",
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-16T10:55:51+05:30",
+   "created_by": "send-track",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": null,
+   "error": null,
+   "reply": null
   }
  ]
 }

@@ -546,9 +546,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Sonali Verma: sonali.verma@rupeek.com (verified, 90)"
+    },
+    {
+     "at": "2026-11-16T10:55:51+05:30",
+     "actor": "send-track",
+     "event": "drafted",
+     "detail": "cold email to Sonali Verma awaiting approval"
     }
    ],
-   "updated_at": "2026-11-16T10:43:52+05:30",
+   "updated_at": "2026-11-16T10:55:51+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",

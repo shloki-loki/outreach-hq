@@ -1181,6 +1181,18 @@
    "ok": true,
    "summary": "0 follow-ups drafted, 0 replies flagged, 0 bounces handled (track: nothing due, no replies; one transient git fetch failure, retried OK)",
    "stats": {}
+  },
+  {
+   "at": "2026-11-16T12:00:48+05:30",
+   "agent": "live-check",
+   "ok": true,
+   "summary": "1510 postings checked: 451 live, 10 moved to the Bin, 1049 could not be checked",
+   "stats": {
+    "checked": 1510,
+    "live": 451,
+    "binned": 10,
+    "unknown": 1049
+   }
   }
  ]
 }

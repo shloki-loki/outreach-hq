@@ -2105,6 +2105,15 @@
    "title": "Website and data branch agree 16 Nov",
    "detail": "WebFetch https://outreach-hq-psi.vercel.app/login at about 20:25 IST shows the Outreach HQ password page, no error. status and metrics agree (1,552 leads, 8 to approve, 12 sent). git -C data log -40: no same-second interleaving between agents, no repair: commits. One large commit 32d367b (scout 2026-11-16, 08:42 UTC: +4,809/-3,097 lines in 2 files) is the scout rewriting leads.json with 17 new and refreshed leads, not a loss: lead count rose. Note: the digest at 15:58 said 9 to approve; it is 8 now because M0015 was approved and sent at 17:47.",
    "ref": ""
+  },
+  {
+   "id": "J0235",
+   "at": "2026-11-16T22:05:53+05:30",
+   "by": "supervisor",
+   "kind": "note",
+   "title": "Quotas and stale checks 16 Nov",
+   "detail": "quotas.json: Reoon 18 calls today (8 on 15 Nov), daily free credits used up by 10:59 IST (I0016); Hunter 22 calls this month, all 401, no key (I0011); Apify 1.53 of 3.50 USD used in November (up from 0.75 yesterday, six 'apify spend' commits during the 08:40 UTC scout). Gemini free Flash quota used up by the writer at 12:55 IST, so 0 drafts from the free writer today. lead list --stale returns all 50 qualified leads (not re-checked in 10 days) although live-check ran at 12:00 IST and marked them live; the stale filter likely reads a different date field. Worth a look in a coding session. Work items W0006-W0008 still in 'working' (I0014), so supervisor/check failed again at 01:55 and 17:01 IST; this scheduled run does not change work state.",
+   "ref": ""
   }
  ]
 }

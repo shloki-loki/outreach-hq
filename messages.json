@@ -526,6 +526,34 @@
    "thread_parent": null,
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0021",
+   "lead_id": "L0015",
+   "contact_id": "C1",
+   "to": "aditya.sharma@emversity.com",
+   "to_name": "Aditya Sharma",
+   "kind": "cold",
+   "subject": "business reviews at Emversity",
+   "body": "Hi Aditya,\n\nGoing from about 40 campuses to more than 200 after the Premji-led Series A is mostly an operating problem: the reviews, dashboards and follow-ups that keep every location on track. Your post said you care how people think more than what's on the résumé, so here's how I'd think about it.\n\nI'm Shlok, I spent the last year in strategy and operations at Ola Electric, where I ran production planning and cut working capital by 40% in 2.5 months. For the Program Manager role in your office, I could run the weekly business reviews and own the dashboards that show which campuses need attention.\n\nHow are reviews run across the campuses today?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": false,
+   "hook": "Emversity raised a $30M Series A led by Premji Invest in January 2026 and plans to grow from 40+ to over 200 locations",
+   "hook_source": "https://yourstory.com/2026/01/emversity-raises-30m-in-series-a-round-led-by-premji-invest",
+   "play": "question",
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-16T10:56:00+05:30",
+   "created_by": "send-track",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": null,
+   "error": null,
+   "reply": null
   }
  ]
 }

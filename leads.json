@@ -2018,9 +2018,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Aditya Sharma: aditya.sharma@emversity.com (verified, 90)"
+    },
+    {
+     "at": "2026-11-16T10:56:00+05:30",
+     "actor": "send-track",
+     "event": "drafted",
+     "detail": "cold email to Aditya Sharma awaiting approval"
     }
    ],
-   "updated_at": "2026-11-16T10:00:18+05:30",
+   "updated_at": "2026-11-16T10:56:00+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "unknown",

@@ -20294,15 +20294,15 @@
    "key": "paypal|manager business operations|india",
    "type": "job",
    "company": "PayPal",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "paypal.com",
+   "company_url": "https://www.paypal.com",
    "company_linkedin": "https://www.linkedin.com/company/paypal",
    "company_note": "",
    "title": "Manager, Business Operations",
    "tier": "1 - Strategy & Ops",
    "location": "Chennai, Tamil Nadu, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488894543",
    "source_url": "https://in.linkedin.com/jobs/view/manager-business-operations-at-paypal-4488894543",
@@ -20318,7 +20318,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12",
    "open": true,
-   "jd": "",
+   "jd": "The Company\n PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.\nWe operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.\nWe offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross-border shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross-border trade.\nOur beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.\n Job Summary:\n What Do You Need To Know About The Role\n The Core Platforms Technology team is looking for a talented, self-driven, and analytically minded Business Operations professional. Reporting to the Chief of Staff, the Business Operations Analyst will partner with engineering leaders and cross-functional teams to improve operating discipline, generate actionable insights, and enable data-driven decision-making across the organization.\nThis role combines business operations, data analysis, workforce and capacity planning, portfolio governance, communications, and program execution.\nMeet Our Team\nThe Business Operations team supports the Core Platforms Technology leadership team and helps the organization operate effectively at scale. We partner closely with Engineering, ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -20333,8 +20333,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -20344,15 +20344,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Operations at PayPal (Chennai) asks for 5+ years experience, exceeding your 4-year limit.",
+    "fit_notes": "The posting asks for '5+ years relevant experience' in business operations, strategic planning, or analytics, along with SQL, Excel, and PowerPoint proficiency. While your background in S&OP production planning [sop], CEO/COO cross-functional reporting [ceo-coo], and process optimization [o2d], [msl] aligns with the day-to-day duties, the 5+ years experience requirement strictly exceeds the 4-year threshold.",
+    "pay_notes": "Pay is not stated in the job posting and no company-specific salary evidence for India was found in the search results.",
+    "culture_notes": "No Glassdoor or AmbitionBox ratings or review counts were available in the evidence.",
+    "hook": "PayPal lifted its full-year outlook as the CEO stressed the company's turnaround plan.",
+    "hook_source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVjBQbVVMWHVJelFPdmhBeEQxSUpkdndhbERwTS0wREtIeGZlRlZKSmRiRlpIemxrcTNGNVRxMkJrdkhmVXJqTnUwV0JEbjhtMXpwalNJWmhTN3V4WHg0VjVFclJ3REQ4SUZjZ0w2UE42azEyVmhtZ3N3MlFWY1FHU0lMY3VfZWk0NHVOVmdaQjJfNk45VWJDUDJCclFDRFRac2ZoN0paZw?oc=5",
+    "researched_at": "2026-11-16T12:37:45+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "PayPal - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zMVVWLTEweVVMSTVGTTJLYk91LVBYSEFpeGMxODNQRUUyVXlOTFdmZERLOGJ5N1lSZm5rdnBScnozNkE3OFVkNXpUUTRCNm9V?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVVZei1oNkhaRklidXlqLTlwcWFSb2JhRS1ucTFiaEIzbE9mYkJtcERMd1JhQURNUmIzVF9QVmZHbnk5ZHNsVTN2OWxzYnRtQ3RKWlk0Rm43SVpMUWFBdHJLSHUtcE1semZHUTJDSDQ1QjZzQUdQeW13ejRJa0xlV1ZfeWEwMHRmaWtycGxUSDdmMkU3WWx3RVpiN09nd3U2UEJPaEthOFExQnc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Inside PayPal’s treasury transformation - flow – Deutsche Bank",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56Z09FWFlBcVJ5azBMN3Q2SWZ4WUJHSXBsalp1MXotZTNzX3RYRGUtR3Z6OGFaUTRjZ2kyVnFqZlhKaWlkZTJrZW5nUlFmYXVSU0Mxb210VGNyUHc0SzBGbV9EZERRQXhCVmlBU2pWbWstS2RTS0ZOTlpYZ3g?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "PayPal streamlines merchant onboarding and expands access to SMB funding - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1Mxb3V2QlVBZW01cHctTzFXbVQ3cm5aQnZEcFV1NnZ5eVhydnhlb3FaTWRtNVZqMVpLRTVlTTBCX2p6NUdNN1JRWFRfQ3d2dUpRWWRrYXNoNG9rT09BSjZNd1NTd05uRnVQdVBmclVaTVU5anFqZlRraUxtcHYyYTU0cTJVbWIxRUM0QUlFLVl6cmhJUGhEUnZTUHZLRWc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "PayPal Revenue and Usage Statistics (2026) - Business of Apps",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZN0tuSGs0Vk9Eb2RFUFY0UHg5alZSNEFNT3JZb29wUExpa0JlYmNibnBFamNZMGhXZUpvbUxrbnl3anFqcHNCRzFuM2N2eWtlN3JRenpWSzdRcTQ5b0ZVM0lYc1k?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "PayPal Lifts Full-Year Outlook, CEO Stresses Turnaround Plan - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVjBQbVVMWHVJelFPdmhBeEQxSUpkdndhbERwTS0wREtIeGZlRlZKSmRiRlpIemxrcTNGNVRxMkJrdkhmVXJqTnUwV0JEbjhtMXpwalNJWmhTN3V4WHg0VjVFclJ3REQ4SUZjZ0w2UE42azEyVmhtZ3N3MlFWY1FHU0lMY3VfZWk0NHVOVmdaQjJfNk45VWJDUDJCclFDRFRac2ZoN0paZw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "o2d",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -20376,14 +20419,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:37:45+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (Posting requires 5+ years of experience in business operations, which exceeds the maximum limit of 4 years.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T12:37:45+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Posting requires 5+ years of experience in business operations, which exceeds the maximum limit of 4 years."
   },
   {
    "id": "L0168",

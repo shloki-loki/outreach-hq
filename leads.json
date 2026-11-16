@@ -170426,15 +170426,15 @@
    "key": "boschmobilityplatform|marketplace growth manager ecommerce stack|bengaluru",
    "type": "job",
    "company": "Bosch Mobility Platform & Solutions",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "bosch.in",
+   "company_url": "https://www.bosch.in",
    "company_linkedin": "https://www.linkedin.com/company/bosch-mobility-platform-solutions",
    "company_note": "",
    "title": "Marketplace Growth Manager (eCommerce Stack",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4489940429",
    "source_url": "https://in.linkedin.com/jobs/view/marketplace-growth-manager-ecommerce-stack-at-bosch-mobility-platform-solutions-4489940429",
@@ -170450,7 +170450,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Job Description \n KEY RESPONSIBILITIES \n What the role owns \n Supply acquisition and seller onboarding - Recruit and onboard independent suppliers and brands onto the seller portal and marketplaces. Convert registered sellers into active and paying sellers, and own the seller experience from sign-up to first sale.\n Demand activation - Activate fleet buyers through system integrators and direct channels: campaigns, offers and integrator programmes that turn an order pipeline into orders. Track buyer activation and repeat purchase.\n Category expansion - Decide which categories to add and in what order, such as devices, parts and service, FASTag, fuel, insurance and tyres. Build the commercial case and the supply for each, and learn from early cohorts.\n Pricing, seller plans and take rate - Own pricing, seller subscription plans and marketplace fees. Balance price competitiveness for buyers with sustainable economics for sellers and for Bosch MPS.\n Marketplace health and liquidity - Own the indicators that show whether the marketplace works: price competitiveness, availability, fill rate, delivery performance, returns and disputes, and repeat rate.\n Trust and quality - Define seller verification, catalogue quality standards, review and dispute processes, so that buyers trust what they see and sellers are treated fairly.\n Fulfilment and service partners - Work with logistics, inventory, workshop and service partners to make delivery and after-sales dependable, and integrate them into the platform.\n Embedded finance and payments - Work with the Embedded Financial Services Product Manager to place credit, wallet and payment options at checkout, and define the consented transaction data the marketplace contributes.\n Unit economics and business case - Own the marketplace P&L view: contribution per order, acquisition cost and payback, and the breakeven path. Bring clear options to leadership when economics and growth pull in different directions.\n Data and experimentation - Define the marketplace metrics, set up the dashboards and run experiments on supply onboarding, search, pricing and promotion.\n Partner and platform management - Manage relationships with the host platform and integrator network, and build a playbook that lets the marketplace model be replicated with further platform partners.\n How the role is measured \n The role is accountable for business outcomes, not only for product documentation. Effectiveness is assessed on:\n Gross merchandise value and its growth\n Number of active buyers and repeat purchase rate\n Number of active sellers, and conversion of registered sellers into paying sellers\n Number and breadth of listed products, and category coverage\n Fill rate, delivery performance and dispute rate\n Take rate and contribution margin per order\n Share of orders using embedded credit, FASTag or other wallet products\n Buyer and seller acquisition cost and payback\n Qualifications \n Who we are looking for \n Education \n Bachelor's degree in engi",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -170465,8 +170465,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 38,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -170476,15 +170476,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Marketplace Growth Manager at Bosch Mobility, asks 8-12 years experience; far above your 1.3 years.",
+    "fit_notes": "The posting asks for '8 to 12+ years in marketplace, e-commerce, B2B commerce or platform growth, with at least 4 years owning supply, demand or category growth on a two-sided marketplace.' Shlok has ~1.3 years of experience at Ola Electric ([sop], [ceo-coo]), which falls far short of the senior requirement. A master's degree or MBA is listed as an advantage.",
+    "pay_notes": "Pay not stated in posting; no salary evidence found for this specific role at Bosch MPS.",
+    "culture_notes": "Ratings, review counts, and culture details were not found in the provided evidence, other than a recent HR appointment announcement [S1].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T00:53:11+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Bosch Mobility Platform & Solutions Appoints Girish Kumar as Senior General Manager – HR - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOblNmREJOWDhSWTF4cWhLaGxSUmxsRlNRMjVIR2hERE5oWldQRU8tdEhsOUwySkFNekFGZFdyOWlmbk9DeHNzbS03djNtNk0xOTJBcHNadUE5RWlPaEs3Ui10NTN5RnlNakRrN0lwM1hRRXBUbWsxZFFNUXdZYUdleGZRbUlCMTVwbERwUUJkQ3BzdGI1NXJhMTRNTFY2TUdpeFZTM1poaw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -170508,14 +170524,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:53:11+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The role requires 8 to 12+ years of experience with at least 4 years owning supply, demand, or category growth on a two-sided marketplace, heavily exceeding Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:53:11+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 8 to 12+ years of experience with at least 4 years owning supply, demand, or category growth on a two-sided marketplace, heavily exceeding Shlok's 1.3 years of experience."
   },
   {
    "id": "L1433",

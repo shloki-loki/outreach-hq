@@ -20692,7 +20692,7 @@
    "key": "zoca|product manager booking and payments|bengaluru",
    "type": "job",
    "company": "Zoca",
-   "company_domain": "",
+   "company_domain": "zoca.ai",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/zocaai",
    "company_note": "",
@@ -20700,7 +20700,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "linkedin",
    "source_id": "4489201038",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-booking-and-payments-at-zoca-4489201038",
@@ -20716,7 +20716,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "About ZOCA\n ZOCA is an AI powered marketing platform built for salons, spas and wellness studios across the United States. We help independent beauty and wellness businesses get discovered, fill their calendars and keep clients coming back, without needing a marketing team of their own.\nWe're backed by Accel, we build from Bengaluru, and we're growing the team across every function. Our customers are small business owners who pour their heart into their craft. We build so they can spend more time with their clients and less time chasing them.\n Why this role matters\n For a salon owner, a booking is not a feature. It is their rent, their stylist's paycheck and their Saturday. When a booking goes wrong, a real person shows up to an empty chair or a client walks away frustrated. When a payment fails, a small business feels it the same day.\nMarketing brings clients to the door. Bookings and Payments is where that promise turns into revenue. You'll be the person who makes sure it never breaks, and who keeps finding ways to make it better: fewer no shows, faster checkouts, smarter deposits and payouts that salon owners can trust without thinking twice.\n What You'll Own\n Bookings\n The end to end booking journey for salon clients: discovering services, picking a stylist and time slot, confirming, rescheduling and cancelling\n Calendar and availability logic for salons with multiple staff, services of different lengths, buffers and resource constraints\n Reminders, confirmations and waitlists that reduce no shows and fill last minute gaps\n Deposits, cancellation policies and no show fees that protect the salon while staying fair to the client\n Integrations and sync with the booking and point of sale tools our salons already use\n Payments\n Online payments at the time of booking, including cards and digital wallets common in the US\n Checkout, tips, gift cards, packages and memberships\n Payouts, refunds, chargebacks and dispute handling, working closely with our payment partners\n Reporting that helps a salon owner understand what they earned, what is pending and what was refunded\n Payment compliance and risk in partnership with engineering, finance and our payment processors\n Across both\n The roadmap, the metrics and the story of why we're building what we're building\n Making sure our AI and marketing products feed real bookings and real revenue, and that the data flows back to make them smarter\n What a Week Might Look Like\n Getting on calls with salon owners and front desk staff in the US to understand how they actually run their day\n Digging into booking funnels, failed payments and no show data to find where we're losing money for our customers\n Writing clear, short specs and sitting with engineers and designers until the problem is truly understood\n Prioritising ruthlessly between new capability, reliability work and the bug that's annoying three of our biggest salons\n Listening to Customer Success and Sales, and turning what they hear into product decision",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -20731,8 +20731,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -20742,15 +20742,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Product Manager for Bookings and Payments at Zoca, asks 2-4 yrs PM experience; your background is in S&OP and operations.",
+    "fit_notes": "The posting asks for '2 to 4 years in product management, with real ownership of a bookings, scheduling, checkout or payments product'. Shlok has about 1.3 years of experience primarily in Operations and S&OP (facts [sop], [ceo-coo]), and although he has technical skills like SQL and a technical product internship [idekho], he does not meet the explicit 2-4 years PM requirement.",
+    "pay_notes": "Pay not stated in the posting; no evidence found.",
+    "culture_notes": "Backed by Accel, builds from Bengaluru; no ratings or reviews found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T12:38:24+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "From a group of friends to the premier: the story of Zoca Bastion FC - Gibraltar Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVNLNHlfeEpFU0JnR0hLTEItQWlpMExEV0VFUi14UDNsMHZUbzhEeEFfNHM0TFNrLTQ0bm9odG82VWg5Qlo4ZUFheG13Tno3NmV0VlRGdHhNZlB3Qmd3TFQwVEdkeUxjNmFSQUFQRWM2X2pfVTdQMTJ2djVIU21fUGIwTFprN2JnQ200TWxTZGI2aXpxZzdkSw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -20774,14 +20787,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:38:24+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires 2 to 4 years of dedicated product management experience with a bookings, scheduling, checkout, or payments product, which exceeds Shlok's 1.3 years of experience and lack of formal PM background.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T12:38:24+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 2 to 4 years of dedicated product management experience with a bookings, scheduling, checkout, or payments product, which exceeds Shlok's 1.3 years of experience and lack of formal PM background."
   },
   {
    "id": "L0171",

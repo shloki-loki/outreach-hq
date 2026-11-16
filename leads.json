@@ -20551,8 +20551,8 @@
     "why": ""
    },
    "research_attempt": {
-    "at": "2026-11-16T12:38:10+05:30",
-    "why": "model answer failed the checks: the answer was not valid JSON: Expecting property name enclosed in double quotes: line 14 column 5 (char 1047)",
+    "at": "2026-11-17T00:27:24+05:30",
+    "why": "error: Gemini unreachable: The read operation timed out",
     "by": "research-worker"
    }
   },

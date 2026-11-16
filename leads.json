@@ -171818,7 +171818,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Pune District, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488927245",
    "source_url": "https://in.linkedin.com/jobs/view/manager-business-operations-4488927245",
@@ -171834,7 +171834,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Key Responsibilities \n Oversee daily delivery center operations, including utilization monitoring, deployment coordination, and escalation management.\n Manage logistics and facilities operations (workspace readiness, access control, security, utilities, leadership/client visits).\n Coordinate vendor management and ensure SLA adherence across facilities and infrastructure services.\n Monitor center-level operating expenses and maintain budget discipline.\n Ensure operational governance, incident tracking, and business continuity readiness.\n Provide structured reporting and performance visibility to Leadership\n Skills Required \n 8–12 years of experience in IT services operations or delivery center management\n Experience managing facilities, logistics, and vendor operations\n Strong coordination and escalation management skills\n Understanding of billable workforce environment\n Ability to manage multi-stakeholder operational environments\n Bachelor’s degree in business administration, Commerce, Engineering, or related field. \n Certifications in operations, project management, or process improvement preferred.\nSeniority level Mid-Senior level | Employment type Full-time",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -171849,8 +171849,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 38,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -171860,15 +171860,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Manager Business Operations at Stratacent India; asks 8-12 yrs in Pune; your 1.3 yrs and Bengaluru location do not match.",
+    "fit_notes": "The posting asks for \"8–12 years of experience in IT services operations or delivery center management\" and a \"Bachelor’s degree in business administration, Commerce, Engineering\". Shlok has 1.3 years of experience, which falls far short of the 8-12 years required. Additionally, the role is located in Pune District, Maharashtra, while Shlok is based in Bengaluru and needs Bengaluru or remote roles. While his facts [sop] and [ceo-coo] show strong operations experience, they cannot compensate for the massive experience gap.",
+    "pay_notes": "Pay not stated in the posting; no evidence found.",
+    "culture_notes": "No company website or news found in web search.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T00:54:50+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -171892,14 +171899,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:54:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The posting asks for 8-12 years of experience and is located in Pune, whereas Shlok has 1.3 years of experience and is based in Bengaluru looking for Bengaluru or remote roles.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:54:50+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 8-12 years of experience and is located in Pune, whereas Shlok has 1.3 years of experience and is based in Bengaluru looking for Bengaluru or remote roles."
   },
   {
    "id": "L1446",

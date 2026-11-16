@@ -2042,6 +2042,15 @@
    "title": "git fetch of data branch fails intermittently (exit 128)",
    "detail": "Seen twice in the 16 Nov 20:10 IST supervisor run: 'status' failed at 20:10 (manual git fetch seconds later worked), and 'metrics' hung over 120 s then failed with exit 128 at about 20:22; immediate retry took 2 s. Also seen today by lead-scout (09:30, 09:52), send-track find-email (3 times, J0205) and follow-up (11:41, J0209). Every Mac agent hit it today.",
    "ref": "I0017"
+  },
+  {
+   "id": "J0228",
+   "at": "2026-11-16T22:04:57+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: git fetch of data branch fails intermittently (exit 128)",
+   "detail": "Duplicate of I0015 (same fault, opened under the supervisor agent by mistake on 16 Nov 20:25 IST). Not fixed: all evidence and the remedy are tracked on I0015, which stays open.",
+   "ref": "I0017"
   }
  ]
 }

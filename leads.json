@@ -15350,9 +15350,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Naman Pushp: naman@airbound.co (verified, 90)"
+    },
+    {
+     "at": "2026-11-16T10:55:34+05:30",
+     "actor": "send-track",
+     "event": "drafted",
+     "detail": "cold email to Naman Pushp awaiting approval"
     }
    ],
-   "updated_at": "2026-11-16T09:58:02+05:30",
+   "updated_at": "2026-11-16T10:55:34+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",

@@ -172869,15 +172869,15 @@
    "key": "walmart|business development manager|bengaluru",
    "type": "job",
    "company": "Walmart",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "walmart.com",
+   "company_url": "https://www.walmart.com",
    "company_linkedin": "https://www.linkedin.com/company/walmart",
    "company_note": "",
    "title": "Business Development Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488590697",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-walmart-4488590697",
@@ -172893,7 +172893,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "About the Role \n Walmart Cross Border Trade (CBT) India team is hiring Business Development Manager – Outbound Channel to help large Brands / Manufacturers / Export houses based in India to sell globally on Walmart. The Business Development Manager is responsible for supporting the acquisition and onboarding of prospective sellers, managing the seller lifecycle, promoting key product adoption, and guiding sellers to accelerate their sales on Walmart.\n About the Team \n The Walmart India Cross Border team enables Indian brands, manufacturers, MSMEs, and other sellers to expand globally by listing and selling their products across Walmart’s international online marketplaces. This allows them to grow their business as cross-border sellers on Walmart Marketplace, reaching a dynamic audience of over 120 million U.S. consumers each month.\n What you’ll do \n Developing a category specific scalable recruitment strategy by analyzing the competitive landscape and defining sellers’ business portfolio\n Exploring channels to identify and recruit sellers based in India to execute on aggressive global growth plans\n Supporting sellers’ launch and sales growth on Walmart through adoption of key input levers\n Tracking, analyzing, and reporting on personal and team KPIs and providing actionable insights for continuous improvement\n Working with various stakeholders and teams across Walmart to understand their needs and deliver short-term & long-term business goals\n Improving sellers’ onboarding experience and team effectiveness by leading key programs and initiatives\n What you’ll bring \n Proven ability to establish & maintain positive relationship with local cross border e-commerce eco-system\n In-depth industrial category cluster insight collection and drive new seller acquisition.\n Structured thought process, strategic thinking and good communication skills\n Ability to engage with top brands / manufacturers / exporters at CXO level and influence them.\n Minimum Qualifications \n MBA or MBA equivalent post-graduate degree\n 5+ years of Business development or account management experience in recruiting and managing clients.\n 2+ years of relevant experience in e-commerce industry.\n Experience in independently analyzing & solving problems\n Strong written and verbal communication skills.\n Ability to work with and influence large strategic sellers and brands\n Ability to prioritize work in a complex, fast-paced environment and work with cross-functional teams\n Ability to initiate, lead and manage projects outside of primary responsibility\n Advanced MS office skills (Power Point, Excel, Word, Outlook)\n Fluent in English and local language\n Preferred Qualifications \n Experience in cross-border e-commerce landscape\n B2B experience with manufacturers and suppliers and in-depth knowledge of India’s manufacture status is a plus.\n Strong willingness to learn new things preferred.\n Strong ability to work independently and think critically and logically.\n Experience influencing and or",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -172908,8 +172908,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -172919,15 +172919,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Development Manager at Walmart, asks MBA and 5+ yrs; you lack the MBA and have 1.3 yrs.",
+    "fit_notes": "The posting asks for 'MBA or MBA equivalent post-graduate degree' and '5+ years of Business development or account management experience'. Shlok has a B.Tech from IIT Guwahati with ~1.3 years of experience and no MBA. While his facts [msl], [o2d], [sop], and [ceo-coo] show strong supply chain and operations background at Ola Electric, the hard requirements for an MBA and 5+ years of experience create an insurmountable barrier.",
+    "pay_notes": "Pay not stated in the posting or reliable evidence.",
+    "culture_notes": "No ratings found. Culture flags include a CNBC report on 2026-05-21 about worse-than-expected outlook as high gas prices hit shoppers, a Times of India report on 2026-11-14 about an outage affecting payroll and HR services in 11,500 businesses, and a WSJ report on 2026-10-08 about a multibillion-dollar struggle replacing humans with robots.",
+    "hook": "Walmart recently launched tools for AI agents to shop for customers.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmtSSlFFOWZ0ZnlfU0YyQXZBR3l6VjNvdjFtanMtdkdHOFctdFdVTld2a0M4cUlEZmNaS3hnV1ZTdzc1WnQ2RVl4NG1BbVQ1MzUwZV9KWlgzWEFsRGhLOFUzVHdnQzE5VDhBWWx4NU9OZ1ZkNUJ6ZFlSdFBpOXJ1ZmhvaFM0VEVxcDV0MDNUeklPQ0Q5R1pJNVU5ZkdieFlIQkE?oc=5",
+    "researched_at": "2026-11-17T00:56:44+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Walmart issues worse-than-expected outlook as high gas prices hit shoppers, shares drop 7% - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtOS15eV9xWHNjUmx0blE3c2docUEtU2E5WUIxQl94VWdPQTFUZ1hnQzFudXBOazVkSHNSRlFhaG43YnNFV1diQWJvZkpKRmMybjkyOUUtQndtcjUzTFdYUzhBX1Z6UlVIS2FyYlVuSVlGQ1XSAXhBVV95cUxNUG95TGo5R3VBZnJaTkN4Zm1mbTdVdXByTy1iQ3paZnllRHR1ZmhibzZjUXRWbkZBbzl5LVl2OWxyOEZ2cVhEUnNObk9YWE91bjFNUE9WNGpqelhTdUZWUU5rOWZlUXBDSGxjeXhZS3ROaFdoSVFWajE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Walmart outage today: After Microsoft disruption, payroll, HR services affected in 11,500 businesses as W - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQU1ZYSE9ib3VJbVhjaENWU0dRNUo3SDcwZmNZaGVUNmNGZXhRSjN0MXlrWjZ4Z0dKbWlTXzN4V2xLU2VfZW5rczVLT3FmTm5BcU95b0xGcUpud3R1eC1wdGhHUUFhLU9NaGx2Qk5HOVlEdzU2WG5iYVFVRjk2VmhScUFwdTFjblRNS0x5bFFNX09ZYUlvU2NqTktHZnZTc0gzbFJNbmEwcjJVLW90eWNEMU5DN1BIbWxwbFNfeWV6bE5NSmRHdk9GdUhVSTdHZUZlRFIzc0dKTTg1RzdxaXN6Y0FuME9qZWJMQmhKaHFOZlV5UDlvOC14dmZYRkpXYVhIcFJyTlhPWXlGdENjdUdkSm4zb2ZWRU3SAZwCQVVfeXFMTWhEaGlvT0F0ODh0bDBQLU9aLXZaMkRQMlRVLWFITHlTY3FvSUdpLVZnYUpoMDk3TGRCOUdFbnA2VjZ6LV9ybGhpeS1FR1lsTnFXVmZXcDNkNjhnS3VrX3JJYlpldVVPcENYekFqcDNIYjZmTjVuVGl6NTlNTTZvWC1Yd1JIRUNkUzVWVlZ4RWJDVjhha1VRMkt3TmNBdk5mX1pqLXJBVjJQRTQtZmtLdmZ3LW90QlFPQzlycU9OU3pJMTNyMG5zekRLQ3VpZV9YeEFHVUZzTTM3cXVfWHlHeHdPNzV6NE1MQzZIZy1acVRSbHpCODl4MXdiLTdzWm0zNHBLd05lYmNBMkdqTDhnVHFYQm5KUlBrUG51QUo?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Constellation and Walmart Announce Long-Term Agreement to Support Reliable, Emissions-Free Nuclear Energy in Illinois - Constellation Energy",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPLVQzbUlwdGN0YzAzNVJUZDZsSFNIN0tSNmpVZzFmU3JES3lEd0hicHloVEZGdkV0elJySGlvR2stUmtZVUUxLVltcEJuX21TVE5ubHhoUDRjUGozb0lXakhOWWlmQklkM0N4WGxFTDFKc1JzMDFBeEtrS2R6NVNwQlIyaWsxRWQyUmVpaWRFUDdyMGxfUXNxU1JDT0lrZ3VJbzhyVkFBZmE3UWM4bkkxOFpjTVB1ZVFCbEs5Sy1jU3p2bWhjOWhYZkRuQUh1Q2dzdE00bWVBSlRMcHNFQk1GdkhyTWRrcjQtSjhnLVZLSVVibmxNdWpGZEJfNlgwRm8?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Walmart launches tools for AI agents to shop for customers - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmtSSlFFOWZ0ZnlfU0YyQXZBR3l6VjNvdjFtanMtdkdHOFctdFdVTld2a0M4cUlEZmNaS3hnV1ZTdzc1WnQ2RVl4NG1BbVQ1MzUwZV9KWlgzWEFsRGhLOFUzVHdnQzE5VDhBWWx4NU9OZ1ZkNUJ6ZFlSdFBpOXJ1ZmhvaFM0VEVxcDV0MDNUeklPQ0Q5R1pJNVU5ZkdieFlIQkE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "For Walmart, Replacing Humans With Robots Is a Multibillion-Dollar Struggle - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUURaUDZFVEhOZnE2T0VuWUtycXYyMnZNaktoMlZ1bENJZ0dHOGkzUDFRUUFpOWsyRWVmamJibF91LVBOREtoTHV2R1JXV1Z6aEh2OHNEbmNXWTkwZzJGMHhTbmw5bEQ2Uk4yUllKMDhEMDNYNWJJSFozb3NzRzRYTW5jY0M3bHNEQ2FkUA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "We’re bringing Walmart Connect to Display & Video 360. - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11ZnY4aWh0a1Q3SXJVX3BUV0JyTjZHTTJkUjRNamN2UDFFeENDanNxTlpPTFdGQ1FRZS1DTlZuRjFJNVhHbnFBYnVscXhWTW1hTFQwc3U4R2JGNkRaQlNvMFRUbnNBZFBpNlc0Z1FNWWpQVjNQa0E?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -172951,14 +172989,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:56:44+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Hard requirement for an MBA or MBA equivalent post-graduate degree, which Shlok does not have, plus 5+ years of experience requested.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:56:44+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Hard requirement for an MBA or MBA equivalent post-graduate degree, which Shlok does not have, plus 5+ years of experience requested."
   },
   {
    "id": "L1456",

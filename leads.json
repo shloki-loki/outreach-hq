@@ -40806,15 +40806,15 @@
    "key": "tata|supply planning manager|india",
    "type": "job",
    "company": "Tata Technologies",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "tatatechnologies.com",
+   "company_url": "https://www.tatatechnologies.com",
    "company_linkedin": "https://in.linkedin.com/company/tata-technologies",
    "company_note": "",
    "title": "Supply Planning Manager",
    "tier": "1 - Strategy & Ops",
    "location": "Pune District, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490716094",
    "source_url": "https://in.linkedin.com/jobs/view/supply-planning-manager-at-tata-technologies-4490716094",
@@ -40830,7 +40830,7 @@
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Position Name - Supply Planning Manager \n Location - Pune\n Experience - 8 to 20\n Job Summary \n We are seeking an experienced Supply Planning Manager to lead end-to-end supply planning operations across the EMEA region. The role will be responsible for ensuring product availability, inventory optimization, supplier performance management, capacity alignment, and service level achievement while supporting business growth objectives.\n The ideal candidate will possess strong expertise in Supply Planning, S&OP, Inventory Management, Capacity Planning, Supplier Collaboration, Logistics Planning, Demand-Supply Alignment, and Team Leadership . The position requires close collaboration with Demand Planning, Procurement, Manufacturing, Logistics, Commercial Teams, and Global Suppliers to drive OTIF performance, inventory health, and operational excellence.\n Key Responsibilities \n Supply Planning & Capacity Management \n Lead end-to-end supply planning activities for the EMEA region.\n Develop and execute supply plans to ensure product availability while balancing inventory investment.\n Align production and supplier capacity with business demand forecasts.\n Drive capacity planning and network planning initiatives with manufacturing plants and suppliers.\n Identify supply risks and proactively develop mitigation plans.\n Inventory Management & OTIF Performance \n Own and drive OTIF (On Time In Full), Fill Rate, and Inventory KPIs.\n Monitor inventory health including excess, slow-moving, and obsolete inventory.\n Lead inventory optimization initiatives while maintaining customer service targets.\n Implement preventive and corrective actions to address inventory imbalances and shortages.\n S&OP Leadership \n Play a key role in the Sales & Operations Planning (S&OP) process.\n Ensure alignment between demand forecasts, supply capabilities, inventory strategies, and business objectives.\n Present supply risks, capacity outlooks, and mitigation plans during executive S&OP reviews.\n Collaborate with Demand Planning, Commercial, Procurement, and Operations teams to build consensus plans.\n Supplier & Purchasing Collaboration \n Partner with Purchasing and Strategic Sourcing teams to improve supplier delivery performance.\n Monitor Supplier OTD, capacity constraints, and supply risks.\n Drive supplier performance improvement and supplier development initiatives.\n Lead escalation management for critical shortages and supply disruptions.\n Logistics & Material Planning \n Coordinate material planning and logistics activities across suppliers, manufacturing sites, and distribution centers.\n Ensure uninterrupted material flow to support production and customer demand.\n Improve logistics efficiency, replenishment strategies, and warehouse optimization initiatives.\n Continuous Improvement & Analytics \n Lead RCA and CAPA activities for supply shortages, inventory issues, and fill-rate losses.\n Drive process improvements to enhance planning accuracy and supply chain efficiency.\n Utilize sup",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -40845,8 +40845,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -40856,15 +40856,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Supply Planning Manager at Tata Technologies, asks 8-20 yrs; your S&OP and inventory work maps well, but experience requirement is a heavy stretch.",
+    "fit_notes": "The posting asks for 'Experience - 8 to 20' years to lead end-to-end supply planning operations across the EMEA region, along with 'Team Leadership' to 'Lead, mentor, and develop Supply Planning teams'. Shlok has about 1.3 years of experience and lacks full-time team management. While his experience in S&OP and inventory management maps directly to the functional requirements ([sop], [ceo-coo]), the 8-20 years experience bracket makes this a definitive reject for his seniority.",
+    "pay_notes": "Pay is not stated in the job posting, and no specific compensation figures are available in the evidence for Tata Technologies.",
+    "culture_notes": "Company headcount, stage, and employee ratings were not found in the search evidence. Tata Technologies is a well-known global engineering services company.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T12:43:26+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Brought home my 2026 Tata Punch EV: Already facing multiple issues - Team-BHP",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1dySExOTTIzYWFvSU43UFkyVmNWZXpvWnBQZDEwd3E5M0hPZ0lZWkg5R1JBdlBFQS01RlBsZkpXRk5NQ1Q4U1FBNXFOZFc4TEFIYVpyN09YdU1OQXdabTF1YUpERW16RXF2bk1fQUZMUUxvZFl1dGk1dWdmdVExRDVRdWxPb05RQmNuSXdidDFTWGo1ck9HTlh2MNIBoAFBVV95cUxOTnFoMTVRWFdGQ3hkN0JlMmhsUjhadkJ1M0xKZTdvTFE4dzB3RjZvSzFQaG9tV1pDbS0xQmFacXQ3ZEgta3diMl9ZTDZyY1pUZnpKVnlRWEVPSlp1a0hmRDRxS2xueGdWYmxsVE1WQkRLcW9WN010NXQ0WEZpWDlpNzhOczlwcHg5d0FBOERPRHpCTDFxUnRBSjd3ZkF5ckdh?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Tata Motors Prices Hiked: Check New Prices Here - CarDekho",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmFXOGtGMWxnVE1PeVNWeWFacDQtWDZPLVBIRDJNaTZjWmxUdkNfcWNraXRRVnBOT0dWVHpOdnlTbFJmakFZNGl0aDljcDNDd0RqeFFNNHdLbWxPU0treEgyNzJscHpXZ2hDTGd6Ul9URDNGQmt0dmh6UkpIRUJUU1ByNHUydVhBQUVLN2tVLVlzM0ptd185dWJ30gGiAUFVX3lxTFAzeWQ2THNfd2JmaWZiN0xFeVIxVThfcmNoNFczOTBqTmlfdlZDZzF3a2lBZDZ5Z3J5WVktZjNqa1dFNU4zOF9BMmZSckJwXzd3bk1OVkhJbWJoNWhfc1dTblF4WGczMWVBRTFOdTRYVXFFQmU2Y092QVdUWmxOZjNtYURESUlXZVI4eG9ubjlRRjR4STdSOGs4aV8ycVhObkxyQQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "India's Tata Motors PV falls on JLR outlook cut, weak Chinese demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOElUdWJ1RThhTHhwSElOT2E3V3ZoY3JWbTFrR2VRZnRqa2lMX0w4dHphWWtxZmtEWE5vV29RTGoxeDJMNFl2SUVKTjJESlNNNTFnT252WXVZTUUtMjlGZ3RpOEp3VXRDNTMwS0dkU0tTazNrR2hEbkxJWTlrS3h3aUhrRXJ2bUNNRExUcU95TDh6clJSbVNBcEhoamk0YUt3dDRCTg?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Tata v Tata: What’s behind India’s big boardroom brawl? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmJNQWsxRlVqeW1WV1dxQ2xranR0M2NaYldERTNzUTlOc1pIdFh4YlZrTEhqaE1FSzZobFl4dy1XR2VQRHpsMWRVRnFBRGZpaGc0cWo2NEtUTThoZ29DekJvT2NLT2RFWlRQYXlrUGFWQU1ZM0gteTg5aFRJS3lxOTNzYktWQjhMS2RBV2tJZmxPdGpiYy1j0gGcAUFVX3lxTE1TWHdBdXpwOGI5d05YWjczQldyeHFUc1RqcWNwMUVmdzFNbnNyWjg0TzI0cHdKTlQ0VDhlN2M2Zm1OQVJiSGNPSjNKbm9Fc1VoNG5MWUpLaThJak9mNmg4TVlldDgyMndfb2tFZFlWbkFlc1hoanp5NmtKSUFYMUUzRjU3VHd5MHlCUkczY0huUnVsUDBJdTRfSzZSaQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Tata Motors Passenger Vehicles rebranded as TATA.CARS - CarWale",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWHVZdTRtTHdic0FNUFF6TGRYSm5BbE1qQXBTam9GUkEwcEduSzRhc214aFdiRGtYc1lrWHlNVUpINWJDNm5CeENma3hhdTJyMWpveUg2NmtoYVRYSEtCbV9fM3V6UHFoeUUwRkVaRWF4RFlJSWIxZTB2Q1h3VW4yelJJMUYtMXBK?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Tata Motors Passenger Vehicles reports Q2 net loss of ₹5,531 crore - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbTJvSXdLMElJMnk4b21qRlhZU1k5SGZsbEZUQ05ZazFzS3p1TW4yTjE3Vm1YcmhQQmxSREtPX2ZHQ2daN2dKZmxDbFlXa2dWNUlpTmVvUkkwTmpEU2JSbXVwTzZCb2NUSUc3WnhmVHVqZkpxcVpHWnI2aDU4bnI4NG9wS0tSOHkxUXdPNGw5QUJIekthbl9GV1NTb3J0ckFZR21RaF96blE5RTF1dFdtR2FGcnQtSEYtQlHSAcABQVVfeXFMUDlRdHAxVnNjNkZmRDJnZ2xtRmtVR3ljWExENnNVeTFnekx2cnhUNWY2cFY0TUNMeDhXdGozQ1VQQThiUF8tQ2xKOFpMTGJ4eGhhLWMtY05VUHZ6RGF0eThHR3ZzbG5xRDNMd2VWYzluMnc4T3pSYW5hZ2FIM1daa21RQ1duTDdoNUplODNNLVFhTURjTHMtamtBR3g4c1J4Q0RyZmhHYldleTBkOFIzcC1qcUszVnFQSURPVm43cGFr?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -40888,14 +40929,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:43:26+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role asks for 8 to 20 years of experience, whereas Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-16T12:43:26+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 8 to 20 years of experience, whereas Shlok has about 1.3 years."
   },
   {
    "id": "L0347",

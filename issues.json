@@ -209,6 +209,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0016",
+   "key": "send-track:Email verifier quota exhausted for send-track rechecks",
+   "agent": "send-track",
+   "severity": "warn",
+   "title": "Email verifier quota exhausted for send-track rechecks",
+   "detail": "2026-11-16 send-track: find-email --recheck returned 'no verifier key or free quota left' for L0013, L0008, L0010, L0007 (after Reoon verified L0004 and graded L0003 catch-all). Those 4 leads (score 54-64) stay undrafted on guessed addresses until Reoon/Hunter credits or keys are fixed (see I0010/I0011).",
+   "status": "open",
+   "opened_at": "2026-11-16T10:59:56+05:30",
+   "last_seen": "2026-11-16T10:59:56+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

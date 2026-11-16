@@ -161039,10 +161039,10 @@
      "title": "Co-founder & CEO, Origin",
      "role_type": "founder",
      "linkedin_url": "",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "yogesh@origin.tech",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "CEO and cofounder (Inc42, 16 Oct 2026); Founder's Office role works to the founders",
      "found_at": "2026-11-16T09:55:38+05:30"
     },
@@ -161052,10 +161052,10 @@
      "title": "Co-founder, leads hardware, Origin",
      "role_type": "founder",
      "linkedin_url": "",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "ashish@origin.tech",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "Cofounder who leads hardware (Pulse2/press, Oct 2026); likely owner of the manufacturing build plan this role runs",
      "found_at": "2026-11-16T09:55:42+05:30"
     }
@@ -161091,9 +161091,21 @@
      "actor": "email-finder",
      "event": "contact_added",
      "detail": "Ashish Daga (founder)"
+    },
+    {
+     "at": "2026-11-16T09:57:21+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Yogesh Ghaturle: yogesh@origin.tech (verified, 90)"
+    },
+    {
+     "at": "2026-11-16T09:57:21+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Ashish Daga: ashish@origin.tech (verified, 90)"
     }
    ],
-   "updated_at": "2026-11-16T09:55:42+05:30",
+   "updated_at": "2026-11-16T09:57:21+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:53:28+05:30",
     "why": "the posting page has no readable description",

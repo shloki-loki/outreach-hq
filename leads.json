@@ -164364,8 +164364,8 @@
    "key": "drinkprime|data analyst founders office|bengaluru",
    "type": "job",
    "company": "DrinkPrime",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "drinkprime.in",
+   "company_url": "https://drinkprime.in",
    "company_linkedin": "https://in.linkedin.com/company/drinkprime",
    "company_note": "",
    "title": "Data analyst - Founders office",
@@ -164395,16 +164395,16 @@
    "stretch": false,
    "pay": {
     "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "min_lpa": 4.7,
+    "max_lpa": 5.0,
+    "basis": "estimate",
+    "source": "AmbitionBox DrinkPrime Data Analyst, 4 salaries (via search snippet)",
+    "fit": "Below range (estimate)"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 22,
+    "total": 44,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -164414,15 +164414,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Analyst in DrinkPrime's founder's office, asks 3+ yrs as a business analyst; pay evidence ~Rs 5 LPA, far under your floor.",
+    "fit_notes": "Posting opened 2026-11-16 (LinkedIn guest view, posted ~6 days ago, 200+ applicants, apply button live). Body is a Business Analyst role: dashboards, SQL, Tableau/Power BI, CRM/marketing analytics, 'over three years of professional experience as a Business Analyst'. Shlok has SQL and analytics (rebalance, o2d) but not 3 yrs as an analyst or CRM/marketing analytics. Role is reporting/analysis, not strategy.",
+    "pay_notes": "No salary in posting. AmbitionBox DrinkPrime Data Analyst Rs 4.7-5 L/yr (4 salaries); Quality Analyst Rs 4.8-5 L. Small samples, but nowhere near 24.5.",
+    "culture_notes": "Not checked further; rejected on pay and role.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T09:51:12+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -164446,14 +164448,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-16T09:51:12+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 44: rejected (Analyst role asking 3+ yrs as a Business Analyst; DrinkPrime analyst pay ~Rs 5 LPA, far below floor)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-16T09:51:12+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:44:49+05:30",
     "why": "error: Gemini unreachable: The read operation timed out",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Analyst role asking 3+ yrs as a Business Analyst; DrinkPrime analyst pay ~Rs 5 LPA, far below floor"
   },
   {
    "id": "L1396",

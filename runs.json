@@ -1462,6 +1462,16 @@
      "hiringcafe": 0
     }
    }
+  },
+  {
+   "at": "2026-11-17T05:15:51+05:30",
+   "agent": "supervisor/check",
+   "ok": false,
+   "summary": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
+   "stats": {
+    "alerts": 3,
+    "open_work": 4
+   }
   }
  ]
 }

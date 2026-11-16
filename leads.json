@@ -161045,6 +161045,19 @@
      "confidence": 0,
      "why": "CEO and cofounder (Inc42, 16 Oct 2026); Founder's Office role works to the founders",
      "found_at": "2026-11-16T09:55:38+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "Ashish Daga",
+     "title": "Co-founder, leads hardware, Origin",
+     "role_type": "founder",
+     "linkedin_url": "",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "Cofounder who leads hardware (Pulse2/press, Oct 2026); likely owner of the manufacturing build plan this role runs",
+     "found_at": "2026-11-16T09:55:42+05:30"
     }
    ],
    "referrals": [],
@@ -161072,9 +161085,15 @@
      "actor": "email-finder",
      "event": "contact_added",
      "detail": "Yogesh Ghaturle (founder)"
+    },
+    {
+     "at": "2026-11-16T09:55:42+05:30",
+     "actor": "email-finder",
+     "event": "contact_added",
+     "detail": "Ashish Daga (founder)"
     }
    ],
-   "updated_at": "2026-11-16T09:55:38+05:30",
+   "updated_at": "2026-11-16T09:55:42+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:53:28+05:30",
     "why": "the posting page has no readable description",

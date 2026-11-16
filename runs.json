@@ -1161,6 +1161,19 @@
    "ok": true,
    "summary": "7 emails drafted (M0017 Origin CEO, M0018 Airbound CEO, M0019 Sarvam CEO's Office/Karman, M0020 Rupeek HR direct, M0021 Emversity director, M0022 FRND VP Business, M0023 GoKwik recruiter direct); 0 referral notes (no connections matched); 2 application kits (L1360 Origin Workable, L1361 Enterpret Greenhouse). Skipped: L0085 CEO on do-not-email; L0105 Zamp and L0003 Blinkit catch-all under score 80; L0013/L0008/L0010/L0007 guessed addresses, verifier quota out; L0040 covered by FRND email; L0050/L0029/L0032 as before; L1359 Lenskart posting no longer hosted. No speculative leads queued.",
    "stats": {}
+  },
+  {
+   "at": "2026-11-16T11:41:28+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
+   }
   }
  ]
 }

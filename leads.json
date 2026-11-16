@@ -161032,7 +161032,21 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Yogesh Ghaturle",
+     "title": "Co-founder & CEO, Origin",
+     "role_type": "founder",
+     "linkedin_url": "",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "CEO and cofounder (Inc42, 16 Oct 2026); Founder's Office role works to the founders",
+     "found_at": "2026-11-16T09:55:38+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -161052,9 +161066,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 74: qualified"
+    },
+    {
+     "at": "2026-11-16T09:55:38+05:30",
+     "actor": "email-finder",
+     "event": "contact_added",
+     "detail": "Yogesh Ghaturle (founder)"
     }
    ],
-   "updated_at": "2026-11-16T09:51:04+05:30",
+   "updated_at": "2026-11-16T09:55:38+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:53:28+05:30",
     "why": "the posting page has no readable description",

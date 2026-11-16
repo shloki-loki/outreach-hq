@@ -180253,7 +180253,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru South, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489738000",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-spacewire-tech-4489738000",
@@ -180284,8 +180284,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 22,
+    "total": 43,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -180295,15 +180295,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "APM at Spacewire Tech asks 0.5-2 yrs for Bharat subscription apps; your supply-chain and internal-tooling background does not match consumer growth funnels.",
+    "fit_notes": "The posting asks for '6 months to 2 years of experience' to own 'onboarding, paywall, trial, autopay and retention' using Mixpanel and UPI AutoPay for Bharat consumer apps (BhaktiLok, MeraTune). None of Shlok's facts cover consumer product growth, subscription mechanics, or funnel analytics; his experience is anchored in physical S&OP, MRP, and logistics at Ola Electric ([sop], [msl], [mrp], [ceo-coo]), an internal automation tool ([idekho]), and a college ticketing platform ([alcheringa]).",
+    "pay_notes": "No pay stated in posting and no external compensation data found for Spacewire Tech. A junior APM role (0.5-2 years) at an early-stage consumer utility app studio is unlikely to clear Rs 24.5 LPA.",
+    "culture_notes": "No company website, Glassdoor profile, or employee reviews were found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T00:18:02+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -180327,9 +180334,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-17T00:18:02+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 43: rejected (The role requires hands-on consumer app growth experience (Mixpanel funnels, paywalls, UPI AutoPay, and retention) for Bharat subscription apps, which none of your industrial S&OP, logistics, or engineering facts cover.)"
     }
    ],
-   "updated_at": "2026-11-16T14:12:14+05:30"
+   "updated_at": "2026-11-17T00:18:02+05:30",
+   "reject_reason": "The role requires hands-on consumer app growth experience (Mixpanel funnels, paywalls, UPI AutoPay, and retention) for Bharat subscription apps, which none of your industrial S&OP, logistics, or engineering facts cover."
   },
   {
    "id": "L1538",

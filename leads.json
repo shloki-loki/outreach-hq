@@ -21987,15 +21987,15 @@
    "key": "makemytrip|product manager|bengaluru",
    "type": "job",
    "company": "MakeMyTrip",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "makemytrip.com",
+   "company_url": "https://www.makemytrip.com",
    "company_linkedin": "https://in.linkedin.com/company/makemytrip.com",
    "company_note": "",
    "title": "Product Manager (Ground Transport)",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4422287572",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-ground-transport-at-makemytrip-4422287572",
@@ -22011,7 +22011,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
    "open": true,
-   "jd": "",
+   "jd": "Role: Product Manager\nLocation: Bangalore\n About The Function\n Ground Transport is one of the fastest growing businesses at MakeMyTrip, serving millions of travellers across Bus, Rail and Cab journeys. The business plays a critical role in expanding travel accessibility across India, particularly in Tier 2 and Tier 3 cities, while delivering seamless, affordable and reliable mobility experiences.\nAs travel behaviours evolve, Ground Transport is reimagining the booking and travel experience enabled with AI-first product innovation. From personalized recommendations to conversational booking journeys, automated customer assistance and real-time decision systems, we are building the next generation of travel experiences at scale.\nThe Ground Transport team combines deep consumer understanding, data-driven decision making and cutting-edge technology to solve complex traveller problems across the entire journey lifecycle. Product managers, business leaders, engineers, designers and data scientists work together to build experiences that delight customers and drive meaningful business outcomes.\n About The Role\n We are looking for a Product Manager to define and scale the next generation of consumer experiences across Ground Transport. This role requires strong product thinking, execution excellence and a passion for solving customer problems through technology, data and AI.\nYou will own the product vision, roadmap and execution for key Ground Transport experiences, working closely with cross-functional teams to build products that improve customer engagement, conversion, retention and overall traveller satisfaction.\nWhat will you be doing\n Consumer Product + Growth + Data Science + AI-powered Experiences \n 0-to-1 Innovation and 1-to-N Scaling \n Customer Understanding + Data-Driven Decision Making \n You will identify high-impact opportunities, rapidly validate solutions, and scale products that create measurable value for both customers and the business. \n Define and execute the product vision, strategy and roadmap for key Ground Transport customer experiences. \n Identify high-impact customer and business problems across discovery, booking and traveller engagement journeys, and translate them into scalable product opportunities. \n Build AI-powered and data-driven experiences that improve trip planning, booking confidence and personalization. \n Drive rapid experimentation, prototyping and validation of new concepts before scaling them into production-ready products. \n Partner closely with Engineering, Design, Business, Analytics and Data Science teams to build accurate, scalable and impactful solutions. \n Define clear hypotheses, success metrics and measurement frameworks for product initiatives. \n Own product KPIs and continuously improve performance through experimentation, customer feedback and data analysis. \n Leverage customer insights, behavioural data and market intelligence to shape product strategy and prioritization. \n Balance short-term busines",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -22026,8 +22026,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 75,
+    "total": 71,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -22037,15 +22037,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager for Ground Transport at MakeMyTrip, asks 3-4 yrs; your operational scale and data execution map well.",
+    "fit_notes": "The posting asks for \"3 to 4 years of experience in product management roles for consumer-facing, technology-enabled businesses\" and \"Proficiency in Excel, PowerPoint and SQL is expected\" [posting]. Shlok has ~1.3 years (a stretch, but keeping), SQL, and built algorithms and tools like the lotting algorithm [o2d] and Flask REST API [idekho]. He lacks an MBA, but the posting asks for \"Engineering & Management graduates\" as an alternative, so his B.Tech in Electrical and Electronics Engineering from IIT Guwahati satisfies the engineering requirement.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figure is available in the evidence.",
+    "culture_notes": "Ratings and specific culture scores were not found in the evidence. A flag notes that a consumer court ordered MakeMyTrip to pay Rs 48,775 regarding online hotel bookings [S2]. MakeMyTrip is preparing to confidentially file a DRHP with SEBI for a $1 billion-plus India IPO [S1].",
+    "hook": "MakeMyTrip is preparing to confidentially file a DRHP with SEBI for a $1 billion-plus India IPO while scaling its AI-powered Ground Transport booking experiences.",
+    "hook_source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHpQTFRpTjU3eUlsQmwxNkhqWW1JLTRkVElBdEJwZ2MwQS1fMm9Zb0VGcHNoNVNFR0pjTWdScnZDZnBQQjF0b1hXM2pXTVFOYWFqc3Y4NWI4TGN1N0tmbGwxWGx0TzhzZG4waTY2ZThiT0RVOFh4WmpMMWJ0blVsZm1ZSndNbnEwbExQUnk0QnI5dGMz?oc=5",
+    "researched_at": "2026-11-16T12:40:05+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "MakeMyTrip To Confidentially File DRHP With SEBI for $1 Billion IPO - Groww",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHpQTFRpTjU3eUlsQmwxNkhqWW1JLTRkVElBdEJwZ2MwQS1fMm9Zb0VGcHNoNVNFR0pjTWdScnZDZnBQQjF0b1hXM2pXTVFOYWFqc3Y4NWI4TGN1N0tmbGwxWGx0TzhzZG4waTY2ZThiT0RVOFh4WmpMMWJ0blVsZm1ZSndNbnEwbExQUnk0QnI5dGMz?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Two hotels booked online found non-existent; consumer court orders MakeMyTrip to pay Rs 48,775 - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRW5URjBsdnhQdjRpeDNZWXJyVkVDQWoyMENnQl9EXzdXMTJXWGVqUGQxSzgybllBbWJGWmgzYzdmdEtvaDJaZGhERFdLZHU1QXoyT0t1QkZDeDRYS3Vabm1YYU5TZFl5elh4WFdVSEwyblZ5YjljeEZ0dTNEak8tUXJDRzZSbndlV1JCNmlXUDA1WEx5NE9Vb0FaNnRsclRyczNLdTJsVnZ5QzlqSy1pRUZ3X01vdll6T3l3LVUxOS13WTJ3Tk9hV3FQWUV0aklRUlF4QmNyVmpzWW1iNG1vLUNEMG1RSTJmZnk0QTNNcElDa0tmNEs5ZdIB_gFBVV95cUxOd3I2SFRWREVSdFJjMzFHNmRHMUpPZWxsLXJCXzRuWTVORllKOGFSRTZNbjNwOWs2VEdQLTZCUkc4QldSeHgtenlKelJGem5qdi0tX0xwb0hRVlIzcEFaQmM2U3FHQWxTTEdFenZXNEtzakxWTDJ4R0RaVXBNLW1NZ09XRHJDS2RpR1U1YjFEZWhodmhrcXNCMGZ2Smxua3BoNnBCLWFoWUpOMWdDMmdMVmFUZV9EbjlEWEVkNlNYR3hCa2VscG16WmlEdFBQLS1yWWQyS3ZIVEpzOXRGeW9tWVdFLTVVM3lkTUFjY21tNmhIUnZUeFJ4Qm13WVgyZw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "MakeMyTrip Limited Reports Q1 FY27 Financial and Operating Results - Soul Of Hospitality",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1FJVm94amNRMjZHTWpid2tlaGdBZ0RhMDJ5b2J5TTV0WlRuX1B6TDFabF8tUFlmTGUwSmpHQkI3VUhFa3JVVENIbE9rekZKckctSjNDTS1nNmtoMHF3NXB5ckJkMXdJS3M3NUdWWmtVcG9qX1Zxd1E5Vk1YOFVmMVRrSHo5MVVlVnNfNE9XandzOHlkS3RQR21qZV9fazhVZmdHbUZwY1QtSjdFX1NtZENXdGdXTjNNWkFXT3Jn?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "MakeMyTrip prepares confidential filing for $1 billion-plus India IPO - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVF9GNFBWTE1CSXliaFpHWklTckxGdXdxcmF0WkszZjNNU1VLTmxHTXRadXRWSXR5czVkNkNjU1pZb1F0TlRvWTdOMTVySU5YanZ6YXJ4aFFlLW14WEJhaUZtdURCNi1FYXdSaEdnOTNaaE5BYTk5VmNwN0xVeDduSXZlUDdKN1ctR0RhbXhTV3RZcUlLbWFlTmtvczJtNHkwM1lJVm1nbzdpNGN0YloyWHlIbkljUWYxb0dWaVpodWhXQVBkMlIxS2VxSUFfNjFuU1ZZaU5PbEh4WDTSAeABQVVfeXFMTVRvb3QySTVkVzhLTnBYanZKYXhQYWZ4NDg4YUlNSDE3YTViVG9INTBkYXZPdUZDNlpSMUF1M29hbFk5dk55SGNEY2RabUZWVEpONGdPS3d4QzBpSmZZc0E1QndBX3RBM3JHTGNhZ24zUE1uak1PWnlnc3ozWGFlXzRfR2lKOU4yaXlLS2E0WGQwdzNaVUpaWmxhTnE0ejB6RkVEMFIzbWhKcW5ta2Q0UllEaTBmdm93S19ZQ2lsOVNWR1NTZDltd0czUEFtOWI3T29qWEVUdUotYmRNSHoxcmc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "MakeMyTrip sees conversational AI as the next paradigm shift in travel commerce - Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSk1xcDBtd2tGUWZzcmZfejNpM1llZ1lENGZRWXRmUGpjREItUlpnTFBXbDNqX2hJa25ZcmxBeXNGNU45RWIxNUpEOXo1TDFSbWcwMWtrVkhTUDFFZjd0eXFtV3BNRnp0QVFpTldRSnkwTHIzRzVPREthbjFuQlFJUDNTOGVCQWN1VW5ianJLR0lPcFhYWmVOVkRTekVoZl9zXzlCcERIMGRoWkM1VHZhbWtIMHR4RHFZbFI1a0JzWGktSksxTkFYVtIB1gFBVV95cUxPNTBma245SmJzcHR0M2R1eGU4WU44MmxVUlFlMXJxTkVFelJGZGRUcjdiQVZlNEZqM293TkFFMEVPZ1dSellpRXZ3NHp0YUVOMndjVEN4SmhqQ1VIZElNSDB5WXplQ3RnTF9QVnlQR0YyQ0JjbFl1TjJkbW9zSlI1WUNVMzVSc21OQldTSUlvN3AxNWZOUElrX1VyY1VxbkpDTHZQWU0tM05Wb2dIYlBOc2NCLVQxTDh5Y0ZpeV9WSGtTZ0FYRm1zZHlVMDNNRDNMSHR6S3F3?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Delhi HC protects MakeMyTrip trade mark; restrains use of deceptively similar “MakeMyIndiaTrip” marks - SCC Online",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON05vN1lTd3gxWFNnUk9MajdrdVVUZVVicktFMTJzWUxKRFdxM2JVWFA3RVZyRzk4UERuckhwVGVBVW91RndiaV94UXVyLUdoX3p5YmR5TE85c3M0ektDTmtPdzAwcktNSzFWdUU1SEExYTMyZEVKa0o4cG5tUDFqaDRIOWtkMGdIUnVQUENkdw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "o2d",
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -22069,14 +22110,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:40:05+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 71: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T12:40:05+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0182",

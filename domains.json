@@ -158,6 +158,19 @@
    "confirmed": [
     "naman@airbound.co"
    ]
+  },
+  "emversity.com": {
+   "provider": "google",
+   "published": [
+    "careers@emversity.com",
+    "info@emversity.com"
+   ],
+   "site_personal": [],
+   "pattern": "first.last",
+   "confirmed": [
+    "aditya.sharma@emversity.com"
+   ],
+   "checked_at": "2026-11-16T10:00:11+05:30"
   }
  }
 }

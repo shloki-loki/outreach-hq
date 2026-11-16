@@ -1334,6 +1334,16 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-16T17:47:39+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 1, failed 0. nothing approved is waiting",
+   "stats": {
+    "sent": 1,
+    "failed": 0
+   }
   }
  ]
 }

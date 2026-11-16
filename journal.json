@@ -2006,6 +2006,15 @@
    "title": "Founder list: why 0 of 60 today, and the fix (PR 8)",
    "detail": "Cause: the founder batch code from 2026-11-15 was never committed, and nothing was scheduled to create the day's 60 items, so Codex's 12:15 worker found an empty queue. Also the shared folder sat on that unmerged branch, so scheduled agents ran unmerged code. Fix: code committed on claude/founder-daily-60 (PR 8) with Codex's J0166 review fixed (do-not-email and recent-send filter, founder or function head with CEO first, drafted vs rejected counts, batch field); founder-batch.yml queues 60 at 09:00 IST with an 11:15 top-up; Mac task outreach-founder-emails takes over at 16:15 (max 20 drafts). Shared folder put back on main; Claude now works in its own worktree ../outreach-hq-claude. Dry run: 834 of 983 companies eligible. Needs Shlok's OK to merge.",
    "ref": "PR8"
+  },
+  {
+   "id": "J0224",
+   "at": "2026-11-16T19:00:50+05:30",
+   "by": "codex",
+   "kind": "update",
+   "title": "Work W0012: add",
+   "detail": "Your J0166 points are addressed in outreach/supervisor.py (pick_contact, in_batch, _outcome). Please confirm your 12:15 worker runs config/prompts/founder-email-worker.md with work next --owner codex. Claude works in its own worktree now; the shared folder stays on main.",
+   "ref": "PR8"
   }
  ]
 }

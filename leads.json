@@ -18103,8 +18103,8 @@
    "key": "glean|technical program manager ai and cloud efficiency|bengaluru",
    "type": "job",
    "company": "Glean",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "glean.com",
+   "company_url": "https://www.glean.com",
    "company_linkedin": "https://www.linkedin.com/company/gleanwork",
    "company_note": "",
    "title": "Technical Program Manager, AI & Cloud Efficiency",
@@ -18142,8 +18142,8 @@
    },
    "score": {
     "rules": 72,
-    "research": null,
-    "total": 72,
+    "research": 20,
+    "total": 41,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -18154,15 +18154,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Glean TPM for cloud and LLM cost efficiency; needs hands-on cloud infra, FinOps and SLO experience you do not have.",
+    "fit_notes": "LinkedIn guest view 2026-11-16, posted ~1 week ago, live; Bangalore hybrid 3 days. Asks 'deep, hands-on understanding of cloud infrastructure and AI/LLM economics', FinOps programs, eng-ops instincts (SLOs, error budgets), BigQuery/Sigma. Shlok has SQL and cost/working-capital programs at Ola (sop, rebalance), but no cloud or LLM spend experience. Years not stated.",
+    "pay_notes": "Posting gives no range ('determined by factors such as location, level').",
+    "culture_notes": "Glean: Work AI platform, 1,000+ employees in 25+ countries (posting); in favourites list.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T09:54:59+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -18186,9 +18188,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 72"
+    },
+    {
+     "at": "2026-11-16T09:54:59+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 41: rejected (Cloud/LLM FinOps TPM needing hands-on cloud infrastructure and AI economics; nothing in profile maps)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T09:54:59+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -18198,7 +18206,8 @@
     "at": "2026-11-16T02:54:37+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Cloud/LLM FinOps TPM needing hands-on cloud infrastructure and AI economics; nothing in profile maps"
   },
   {
    "id": "L0151",

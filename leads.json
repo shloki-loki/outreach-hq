@@ -15358,8 +15358,8 @@
    "key": "pwcaccelerationcenter|business strategy and operations senior associate bangalore|bengaluru",
    "type": "job",
    "company": "PwC Acceleration Center India",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "pwc.com",
+   "company_url": "https://www.pwc.com",
    "company_linkedin": "https://in.linkedin.com/company/pwc-ac-india",
    "company_note": "",
    "title": "Business Strategy & Operations -Senior Associate-Bangalore",
@@ -15397,8 +15397,8 @@
    },
    "score": {
     "rules": 72,
-    "research": null,
-    "total": 72,
+    "research": 10,
+    "total": 35,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -15409,15 +15409,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "PwC AC consulting senior associate (contact-centre/AI transformation), requires premier-B-school MBA and 5-8 yrs; out on both.",
+    "fit_notes": "LinkedIn guest view 2026-11-16, posted ~1 week ago, live. 'MBA / PGDM from a premier B-School' and 'At least 5-8 years of experience'; contact-centre transformation and GenAI consulting. Shlok has no MBA and no consulting (never_claim).",
     "pay_notes": "",
-    "culture_notes": "",
+    "culture_notes": "PwC Acceleration Center India, Big Four.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T09:54:55+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -15441,9 +15443,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 72"
+    },
+    {
+     "at": "2026-11-16T09:54:55+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 35: rejected (Management consulting senior associate: requires MBA/PGDM and 5-8 yrs)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T09:54:55+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
@@ -15453,7 +15461,8 @@
     "at": "2026-11-16T02:54:16+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Management consulting senior associate: requires MBA/PGDM and 5-8 yrs"
   },
   {
    "id": "L0128",

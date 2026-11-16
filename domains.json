@@ -17,7 +17,11 @@
    "provider": "google",
    "published": [],
    "site_personal": [],
-   "checked_at": "2026-11-12T22:22:49+05:30"
+   "checked_at": "2026-11-16T09:59:54+05:30",
+   "pattern": "first",
+   "confirmed": [
+    "karman@sarvam.ai"
+   ]
   },
   "haystackanalytics.in": {
    "provider": "google",

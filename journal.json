@@ -1754,6 +1754,15 @@
    "title": "git fetch of data branch fails intermittently (exit 128)",
    "detail": "2026-11-16 lead-scout run: store.sync() git fetch origin data failed twice (status at 09:30, lead research L1395 at ~09:52), both passed on immediate retry. Same as follow-up run 2026-11-14. Writes are not lost but an unattended run can abort mid-batch; consider a retry with backoff in store._git for fetch.",
    "ref": "I0015"
+  },
+  {
+   "id": "J0196",
+   "at": "2026-11-16T10:01:19+05:30",
+   "by": "lead-scout",
+   "kind": "note",
+   "title": "Reoon verifier working again",
+   "detail": "find-email returned 'reoon: ... is valid' for 7 addresses on 2026-11-16 (L1360, L0125, L0002, L0015, L0039). Issue about reoon 401 (I0010) may be stale; supervisor should recheck.",
+   "ref": ""
   }
  ]
 }

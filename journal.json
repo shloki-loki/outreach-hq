@@ -2132,6 +2132,15 @@
    "title": "Ran",
    "detail": "7 open issues (I0005 late schedules, I0010 Reoon key rotation, I0011 no Hunter key, I0012 Instahyre 403, I0014 stale work claims, I0015 git fetch exit 128, I0016 Reoon daily credits), all diagnosed; 1 resolved (I0013 research worker runs again), 1 duplicate closed (I0017); reply rate 8.3%, bounce rate 0%",
    "ref": ""
+  },
+  {
+   "id": "J0238",
+   "at": "2026-11-17T01:00:14+05:30",
+   "by": "research-worker",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "27 researched (4 qualified, 23 rejected), 1 closed postings binned, 6 left for a person",
+   "ref": ""
   }
  ]
 }

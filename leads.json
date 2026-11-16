@@ -21206,15 +21206,15 @@
    "key": "airmeet|product manager product businesss analyst|bengaluru",
    "type": "job",
    "company": "Airmeet",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "airmeet.com",
+   "company_url": "https://www.airmeet.com",
    "company_linkedin": "https://www.linkedin.com/company/airmeetcom",
    "company_note": "",
    "title": "Product Manager/Product Businesss Analyst",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4488388740",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-product-businesss-analyst-at-airmeet-4488388740",
@@ -21230,7 +21230,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Company Description Airmeet is a leading virtual events platform that helps organizations deliver immersive, engaging webinars and events for global audiences. The platform powers conferences, town halls, career fairs, workshops, and trainings, combining seamless technology with rich human interaction. Airmeet serves diverse industries and enables businesses to boost engagement, drive measurable ROI, and host impactful experiences without travel or physical limitations. Trusted by 4,000+ global companies, including Capgemini, Kaiser Permanente, Unilever, Comcast, PwC, and Spotify, Airmeet continues to redefine how audiences connect online. More information about the platform and its solutions is available at www.airmeet.com.\n Role Description This is a full-time Product Manager/Product Business Analyst role based in Bengaluru, structured as a hybrid position with a mix of in-office and work-from-home flexibility. The role involves owning and refining product requirements, collaborating with cross-functional teams (engineering, design, marketing, sales, and customer success), and translating customer and market insights into clear product roadmaps and feature specifications. Day-to-day responsibilities include analyzing user behavior and feedback, defining and tracking product metrics, prioritizing backlog items, and supporting end-to-end product lifecycle from discovery through launch and iteration. The person in this role will also partner closely with stakeholders to identify business opportunities, validate hypotheses with data, and ensure product releases align with strategic goals and deliver strong customer value.\n Qualifications\n Strong product management and business analysis skills, including requirements gathering, backlog prioritization, and roadmap planning.\n Experience with data analysis and metrics, using quantitative and qualitative insights to drive decisions and measure product performance.\n Ability to work collaboratively with engineering, design, marketing, sales, and customer success teams in an agile environment.\n Excellent communication, stakeholder management, and documentation skills, with the ability to translate complex ideas into clear, actionable plans.\n Background in SaaS or technology products; experience with virtual events, webinars, or customer-facing platforms is a strong plus.\n Bachelor’s degree in a relevant field (e.g., Engineering, Business, Computer Science, or related discipline) or equivalent practical experience.\n Comfort working in a hybrid setup in Bengaluru, with the ability to manage time, priorities, and deliverables across remote and in-office work.\n Demonstrated problem-solving skills, user-centric mindset, and a passion for building products that enhance engagement and customer outcomes.\nSeniority level Entry level | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -21245,8 +21245,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -21256,15 +21256,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Product Manager at Airmeet, entry-level, hybrid in Bengaluru; but pay is unstated and your background is supply-chain operations.",
+    "fit_notes": "The posting asks for 'Strong product management and business analysis skills', 'Experience with data analysis and metrics', and 'Background in SaaS or technology products'. Shlok has strong data skills (SQL, metrics via [idekho], [sop]) and a B.Tech in Electrical Engineering, but his actual professional experience is heavy on supply chain and operations (Ola Electric [sop], [ceo-coo], [cell]) rather than software product management. While he built an API as an intern at InsuranceDekho [idekho], he lacks core SaaS product roadmap ownership matching a dedicated PM role, and pay is unknown.",
+    "pay_notes": "Pay is not stated in the job posting, and no external pay evidence for Airmeet was provided.",
+    "culture_notes": "No company ratings or culture data found in the provided research.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T12:38:59+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -21288,14 +21297,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:38:59+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Airmeet's entry-level Product Manager role does not state pay, and Shlok's background is in supply chain operations (Ola Electric) rather than software/SaaS product management, making it an unverified pay match and a weak product role fit.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T12:38:59+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Airmeet's entry-level Product Manager role does not state pay, and Shlok's background is in supply chain operations (Ola Electric) rather than software/SaaS product management, making it an unverified pay match and a weak product role fit."
   },
   {
    "id": "L0175",

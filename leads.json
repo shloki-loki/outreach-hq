@@ -20929,15 +20929,15 @@
    "key": "yubi|product manager|bengaluru",
    "type": "job",
    "company": "Yubi",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "go-yubi.com",
+   "company_url": "https://www.go-yubi.com",
    "company_linkedin": "https://in.linkedin.com/company/go-yubi",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489029418",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-at-yubi-4489029418",
@@ -20953,7 +20953,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Yubi, formerly known as CredAvenue, is re-defining global debt markets by freeing the flow of finance between borrowers, lenders, and investors. We are the world's possibility platform for the discovery, investment, fulfillment, and collection of any debt solution. At Yubi, opportunities are plenty and we equip you with tools to seize it.\n In March 2022, we became India's fastest fintech and most impactful startup to join the unicorn club with a Series B fundraising round of $137 million.\n In 2020, we began our journey with a vision of transforming and deepening the global institutional debt market through technology. Our two-sided debt marketplace helps institutional and HNI investors find the widest network of corporate borrowers and debt products on one side and helps corporates to discover investors and access debt capital efficiently on the other side. Switching between platforms is easy, which means investors can lend, invest and trade bonds - all in one place. All of our platforms shake up the traditional debt ecosystem and offer new ways of digital finance.\n Yubi Credit Marketplace - With the largest selection of lenders on one platform, our credit marketplace helps enterprises partner with lenders of their choice for any and all capital requirements.\n Yubi Invest - Fixed income securities platform for wealth managers & financial advisors to channel client investments in fixed income\n Financial Services Platform - Designed for financial institutions to manage co-lending partnerships & asset based securitization\n Spocto - Debt recovery & risk mitigation platform\n Corpository - Dedicated SaaS solutions platform powered by Decision-grade data, Analytics, Pattern Identifications, Early Warning Signals and Predictions to Lenders, Investors and Business Enterprises\n So far, we have on-boarded over 17000+ enterprises, 6200+ investors & lenders and have facilitated debt volumes of over INR 1,40,000 crore.\n Backed by marquee investors like Insight Partners, B Capital Group, Dragoneer, Sequoia Capital, LightSpeed and Lightrock, we are the only-of-its-kind debt platform globally, revolutionizing the segment.\n At Yubi, People are at the core of the business and our most valuable assets. Yubi is constantly growing, with 1000+ like-minded individuals today, who are changing the way people perceive debt. We are a fun bunch who are highly motivated and driven to create a purposeful impact. Come, join the club to be a part of our epic growth story.\n Role: \n We are seeking a dynamic and driven Product Manager to lead the development and enhancement of our financial technology products. The ideal candidate will have understanding of the fintech landscape, a passion for innovation, and the ability to translate market needs into actionable product strategies. As a Product Manager, you will collaborate with cross-functional teams to deliver products that meet customer needs and drive business growth.\n Key Responsibilities: \n Product Strategy and Vision : Devel",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -20968,8 +20968,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 75,
+    "total": 71,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -20979,15 +20979,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Yubi unicorn debt marketplace, asks 2+ yrs; your Ola finished-goods and SAP MRP work maps directly.",
+    "fit_notes": "The posting asks for a 'Bachelor’s degree in Business, Computer Science, Engineering, Finance... 2+ years of product management experience, preferably in the fintech industry'. Shlok has an Electrical and Electronics Engineering degree from IIT Guwahati and ~1.3 years of experience (close to the 2 years asked). While he lacks formal PM title experience, his supply chain and operations productization work at Ola Electric such as implementing SAP MRP from scratch [mrp] and owning S&OP planning [sop] maps directly to B2B product requirements. MBA is listed as a plus, not a hard requirement.",
+    "pay_notes": "Pay is not stated in the posting or evidence. As a unicorn fintech with $137M Series B, target Rs 24.5 LPA fixed is plausible but unverified.",
+    "culture_notes": "Yubi is an Indian unicorn debt marketplace with 1000+ employees and marquee backers like Insight Partners and Sequoia [posting]. No specific employee ratings or culture flags found in evidence.",
+    "hook": "Yubi recently launched a multi-lender platform named Pye.",
+    "hook_source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YaDB1czNMOElpVFctMzZlSTNxUm4tR3RRbjdUaWs1WE93VnhSVGhoXzRPY001RHVJdVByczN5UjNZUHZaUVcyTDB5Nks5V0plNEw3eGo5UWhsZG5XSXBxbEpOdE55YUM4RkFoTnd3?oc=5",
+    "researched_at": "2026-11-16T12:38:39+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "At Cypher 2025, Gaurav Kumar, Founder and CEO of Yubi Group, put a number on what agentic AI at production scale actually looks like. Spocto, Yubi's collections platform, runs what he described as the largest agentic AI deployment in collections anywhere - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0Z1UzI5RFFfS2E1X2dEc1AyOWIzdmo1Y1QtUHhRQjZRcDd2b0NlUEM5ZXF1UkIwZkhiY0gzazhXTWpXMXdBUFE1anNWcTVrQUlnVWhQbVFmWXV6Z1JjMGJRMDg5cDF3aUR4Z0FGa1NTRVRmd2JJSVV2c1FQS3UxVnEyaTU3WlcwOHVXYzUzTFQ1UjVSam1Cci1ZWkpRcW4wMGJWZG5zaXN1aFNEazFZNTFzd0JFRWZtUVZoZ1ZSZUVid291dGVMVg?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Yubi Group Launches Yubi Asset Management, and its portfolio management service, Yubi PoleStar - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUVlzRjdzay01cGxocmJudVRHR2RiQ2hLRDhuY1l2dmk2UE9ESzNXR3JGTFM3a1FqMGVkTFNMU0RIcEJycWN4WmxEa295MHd3OG9MNHJJNGJOWGJHNDdvTGZRTnZUR1J4WWxYbVY0X201alIzenF5VVcxTlNOc0VGWlJOM1FoUFRFb0ViUmxENktTbC1QVldYS25ZMVM1OU9HR0hjU0dudGNERnR2SHluVUhTMFQ5NTlkbWpxOXYtWEcyTWxjZkI5Nk9WVFpySWhuZlFkMUFfZ9IB3AFBVV95cUxOc2xUZnByQ050b0F1Vnc0OW5jY0VTRG9lc0ZtdEdkN0RPWlJVckEzUlY4RGtobHNSRW9VcGswem5Hbk40dkQzRmhLVGlCNzVIT1A5c1pLeGFEOUdDVWdLNjZucjdDSDRiSVFLRmE5UVo2VTZRYWhsM3lFSzFtT1VVOVVyZjlBVmxDMXNZN0hRRVc5bEVvMndnQ1VLbTlCRGw1V3JyaVIzZW5hTWZrODd1Z0hFbHFVR0tuV2RpSWM2Sjh2RV9OWmswUjM5c1hCT1dnNXhwVXc4M1M4RVR4?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Yubi appoints Himanshi Ranjan as Director – Legal - Bar and Bench",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT0F0WDh2TXZhdUlqQkpaN1Izc1B4WkJ6NUdwSnVUODRXRDAzMml1aXJweHNzajFUd3BGaEZyVHd5b1RnMUlLOFZUcTQzNHY3cWtUbW50bDVMaG1fLXdjRmo3ZXJSbnpwTm5VY3lJNUhvVUVJeHNxaVJvaFkxR0hubUNab1QzeXNpNWUtMlFsS0QxcHpLNExqemlIb9IBqAFBVV95cUxNdmVpeUpsSWYwSEZOQjlQQkh6YkM4czlrQXpjOEU4aXF2WE1wMnpGU25GSk9NemQ5QkVmcDh1RzhianBQOHE4SnhWVUZnTEhlRHJ3cmZKMVU5YlRvUmYwU2ZHbi1BcFUyV1RlTVdOMnBDdzc5SXNJWHlfLTkwVDd2UFpSQTJEY0psTXRpQWk3eVh5SFUySFFrVGlERF9YQnFoT1ZJTXdTZDM?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Yubi Launches Multi-Lender Platform Pye - Finovate",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YaDB1czNMOElpVFctMzZlSTNxUm4tR3RRbjdUaWs1WE93VnhSVGhoXzRPY001RHVJdVByczN5UjNZUHZaUVcyTDB5Nks5V0plNEw3eGo5UWhsZG5XSXBxbEpOdE55YUM4RkFoTnd3?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Yubi appoints Mitesh Nijhara as head HR – banking - HR Katha",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQTUwLWdSUjBLcFpmdm11OGs3SGFTWUJmS0xxUEJQandPcmVkY0FmdW9jemd5RUpEeWxSRTlRY0twRXZfNDh3X0c3WFUyWDNmLWFJcVhGZE9obkdyeVFmQ1RLeE1OdUFZZ29kazRJcFZ6SjFZX2xrTFdkS1IzenBfQ3pib2lTdkMtQ0pfd1AxcXN5UQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Protean eGov shares surge 7.4% as Yubi partnership boosts sentiment - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSDMzaHJWcFNnd2xoZDRabG5tVkNXZzYyZ1BkLTBqYWs2bXh3ZWZaUVVZQ3hNdHZhd1J6eW5tUmdvcTFYal85TXdvNDJJcWc5VnY0MkhhWFNFRDF0X3N2MGRtaHN2VjEtVHlROVJNelJxZ0ptVzlOeU5hSmlESU13SVBYeDFHdnFmU19WV3ItWmM3WHNyeXEyejVSaDBZazlxT2VNRlQ0elBKa3dTSjFsUTNJNXlsX2lGejhVZXNWTV9WSzJ2d29CZDJfa2ZuRDg3eVBVRkJQbHR6aVBo0gHjAUFVX3lxTE9zdVU4SE1NY2hrOFRjdGllclVDVldORjhIODlLLTFkWElXd3doTHFMa3BkYldDYzlHT0RjVTIwN1lvb2NFMlgyNk5zQ05sOVpUQ1N6WTAyQXpQM3BydEZCREZveDJPZGh5MnphdHhXNC1mX081Ymt6bkdKa0gzeTYzMU84VllSVzJza2Qxa00xb19yTnJDN3NmYVUwN05DUS1qWFFULWtndnB1Q2hqSjRMS09zaTZBMjV5X0otNWQ4Q2ZILXE4OTF1dzYtSmdQNm1weDYxNDVncy1vckg1T3hQMzhj?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "mrp",
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -21011,14 +21053,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:38:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 71: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T12:38:39+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0173",

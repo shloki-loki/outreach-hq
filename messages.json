@@ -554,6 +554,34 @@
    "thread_parent": null,
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0022",
+   "lead_id": "L0039",
+   "contact_id": "C1",
+   "to": "shashwat@frnd.app",
+   "to_name": "Shashwat D.",
+   "kind": "cold",
+   "subject": "chief of staff at FRND",
+   "body": "Hi Shashwat,\n\nFRND more than doubled its revenue in FY25, going by Inc42's numbers, and your Chief of Staff post reads like the founders now have more bets than hands to run them.\n\nI'm Shlok, I spent the last year in strategy and operations at Ola Electric, working with the CEO and COO on fulfilment. I led a pan-India rebalancing of stock based on each region's sales run rate, which unlocked 27% of working capital. At FRND I could take one of those bets end to end, from finding the leak in the numbers to getting the fix shipped across teams.\n\nWhich bet is most short of an owner right now?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": false,
+   "hook": "FRND reported revenue of Rs 197.8 Cr in FY25, up 167% from Rs 74 Cr in FY24 (Inc42)",
+   "hook_source": "https://inc42.com/company/frnd/",
+   "play": "question",
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-16T10:56:10+05:30",
+   "created_by": "send-track",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": null,
+   "error": null,
+   "reply": null
   }
  ]
 }

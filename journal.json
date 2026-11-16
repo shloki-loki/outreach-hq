@@ -2123,6 +2123,15 @@
    "title": "Daily review 2026-11-16",
    "detail": "Agents that ran (IST): lead-scout/scrape ok 10:01 (6 new) and 14:12 (6,891 jobs read, 17 new); lead-scout ok 10:01 (11 researched, 1 qualified L1360 Origin); send-track ok 11:00 (7 drafts M0017-M0023, 2 app kits); follow-up ok 11:41; follow-up/track ok 11:41, 15:42, 17:47; send-track/send ok 17:47 (M0015 Shipsy sent); follow-up/digest ok 15:58 ('9 to approve'); live-check ok 12:00 (1,510 checked, 451 live, 10 binned); research-worker 22:03 and 02:58 (marked failed on Gemini timeouts, 60 researched) and 12:46 ok (32 researched, 5 qualified); people-finder ok 12:47 (3 people); writer 12:55 drafted 0 (Gemini free quota used); founder-batch dispatch 13:34 UTC after PR 8 merged. Did not run on time: GitHub schedules (Track and send 1 of 12 slots, digest 7.5 h late). supervisor/check failed 01:55 and 17:01 on stale work claims. Problems: I0005 late schedules (open, diagnosed, needs Shlok's choice); I0010 Reoon key exposure (open, Mac key works, needs rotation); I0011 no Hunter key (open, diagnosed); I0012 Instahyre 403 (open, diagnosed); I0013 research worker idle (RESOLVED, runs again); I0014 stale work items (open, needs interactive session); I0015 git fetch exit 128 (open, now diagnosed: add retry/backoff; hit by every Mac agent today and twice in this run); I0016 Reoon daily credits used up (open, diagnosed, resets tomorrow); I0017 opened by mistake as duplicate of I0015 and closed. Changes to the system today: PR 8 merged 19:07 (founder batch, 60 a day from 17 Nov, playbook v3 checks); no changes by this run. Funnel: 1,552 leads found (all in last 7 days), 200 researched, 73 qualified, 12 cold emails sent (1 today) plus 4 applications, 1 replied, 1 interview, 0 offers; reply rate 8.3% (1/12), bounce rate 0% (0 bounces). Source/tier conversion: the one reply and interview came from linkedin_post leads, tier 1; too few sends to compare hooks (under 30). Verifier credits: Reoon 18 today (exhausted), Hunter 0 usable, Apify 1.53/3.50 USD this month. Correction to the data-check entry: leads without people are L1361, L0172, L0178, L0181, L0207, L0161, L1359. Needs Shlok: review and approve or skip 8 drafts (M0016-M0023; trim wording in M0022/M0023 per J0205); rotate the Reoon key and set the bare GitHub secret; choose a fix for late GitHub schedules; mark W0006-W0008 done in an interactive session.",
    "ref": ""
+  },
+  {
+   "id": "J0237",
+   "at": "2026-11-16T22:06:15+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "7 open issues (I0005 late schedules, I0010 Reoon key rotation, I0011 no Hunter key, I0012 Instahyre 403, I0014 stale work claims, I0015 git fetch exit 128, I0016 Reoon daily credits), all diagnosed; 1 resolved (I0013 research worker runs again), 1 duplicate closed (I0017); reply rate 8.3%, bounce rate 0%",
+   "ref": ""
   }
  ]
 }

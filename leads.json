@@ -170137,15 +170137,15 @@
    "key": "emergent|growth manager|bengaluru",
    "type": "job",
    "company": "Emergent",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "emergent.ai",
+   "company_url": "https://in.linkedin.com/company/emergent-ai",
    "company_linkedin": "https://www.linkedin.com/company/emergentlabs",
    "company_note": "",
    "title": "Growth Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489551662",
    "source_url": "https://in.linkedin.com/jobs/view/growth-manager-at-emergent-4489551662",
@@ -170161,7 +170161,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Emergent builds autonomous coding agents that replace traditional software development by generating, testing, and deploying production applications directly from plain-language intent. Our systems run in production at global scale and are used to build millions of real applications.\n Since our public launch, we’ve crossed $130M in Annualised Revenue and grown to over 10M users across 190+ countries , who have built 12M+ applications on Emergent. We’re backed by Creaegis, Khosla Ventures, SoftBank, Lightspeed, Together, Y Combinator, Google, Claypond and Sentinel Global. \n We’re solving the hard part of AI-driven software creation: correctness, reliability, security, and scale in real production systems. The team is built by repeat founders, Olympiad medalists, IIT & IIM alumni, and leaders from Google, Amazon, and Dropbox. \n We’re hiring builders who want ownership, speed, and impact at global scale.\n The Role: \n We’re hiring a Growth Manager with a strong analytics backbone to drive engagement, retention, and monetization across the user lifecycle. The way you’ll do it is through data: querying it yourself, finding the insight, and turning it into interventions that move the numbers. You’ll own one growth metric end-to-end. The pace is fast and a lot is still being defined, often you’ll be the one defining it.\n What You’ll Do: \n Own one KPI (e.g. retention, top-up rate, plan upgrades, or revenue per signup) with a weekly read of what moved and why\n When a number breaks, find the root cause, the questions a standard dashboard can’t answer, size it, and say what to do about it\n Analyze user behavior across cohorts, funnels, and segments to find levers across activation, credits and top-ups, pricing and plans, and churn\n Design, run, and read experiments properly: hypothesis, sample size, holdouts, and the decision rule fixed before launch\n Work with product, pricing, CRM, and marketing to ship what the data says\n Use AI tools (LLMs, agents) to speed up your own analysis and to automate and personalize lifecycle interventions\n What We’re Looking For: \n 2 to 4 years in growth, product, analytics, strategy, or a related role. Background is open; working hands-on with data is not\n Strong SQL skills, this is non-negotiable: you can independently query large datasets to build cohorts, funnels, and retention curves, and you validate your numbers before anyone else does\n Comfort living in data day-to-day: dashboards, product analytics tools, and spreadsheets are your home turf, and you form and test hypotheses from the data rather than waiting for someone to hand you an insight\n You’ve owned a metric and moved it, and you can show the before and after\n Working knowledge of experiment stats: significance, novelty effects, and when not to trust a result\n Comfortable using LLMs and AI tools in your day-to-day work\n Good to Have: \n Consumer or self-serve SaaS experience\n Python\n Benefits and Perks: \n Daily Meals: Lunch and Dinner provided\n Family Insurance: ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -170176,8 +170176,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 70,
+    "total": 68,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -170187,15 +170187,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Growth Manager at $1.5B AI unicorn Emergent, asks 2-4 yrs and heavy SQL; stretch on experience (1.3 yrs) but matches your SQL and product/analytics work.",
+    "fit_notes": "Posting asks for '2 to 4 years in growth, product, analytics, strategy, or a related role' with non-negotiable SQL skills and hands-on data experience. Shlok has 1.3 years of experience, making 2-4 years a stretch, but his SQL/Python proficiency, technical product internship at InsuranceDekho [idekho], ticketing/app growth at Alcheringa [alcheringa], and deep data analytics in S&OP/logistics [sop, o2d] meet the core skill needs. No MBA or consulting experience is required.",
+    "pay_notes": "No pay details mentioned in the posting or available in compensation databases for this specific role.",
+    "culture_notes": "Emergent is backed by Khosla Ventures, SoftBank, Lightspeed, and Y Combinator, having reached unicorn status at a $1.5B valuation.",
+    "hook": "Emergent reached unicorn status after raising $130M at a $1.5B valuation while scaling to $130M ARR across 10M+ global users.",
+    "hook_source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdm1IOTJsVVQzYWszY0puVXdxaW82UGN1ZzFHNEFtbGI4aTZURlJZZ0UwTFhBMDVJTm4yQjhVTjhWMXBFSm9MbFl0LUZCQkU4eEYzelgxWGMxVzQwczVoSzd6anMzOWpQZ3NuVzVmZ0UxZjhSUFJqcHBwZjk5SnJIOE1KaG1zb2RjWlVwbWxvMGVkN0t2VGtZ?oc=5",
+    "researched_at": "2026-11-17T00:52:33+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Automated synthetic cell-based screening for designed proteins with emergent functions - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CUjItb2FUbzRUZzA5d2JDV3RqZG5pMHh1ZFFoczd1dFpxQTNza0hmS2tiTlNVeUs1LU9SZ0s2bU5YZWVIaHUxalh3dGJTMEwteXZfN1hvNWJaNUh6d25Z?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Where are Emergent’s users? - The Ken",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QZi15UVRhaVFpc0ZESktHOFdRSi1jTUJldGZsbkhFY0ZzSVBMbXFWTXlDcVVneTJ2Y3NlTEtSVnpYRnhZeHpWRlRFcmU5SEF6QUFQWkZqVzRHNmQxeHJPMElGT1NDdDJuT1ZKSjU1YlJucmxDUWJYMQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle - Google Research",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0pHcTBKNmN4VE1LQThXcmpTMjRTa1NEMlpWYkZ1M2FqUXZpRGU4WFZ1cVhIZTFFTUhvLWVsODB4d1Y1YTNIOE0yVTVwbU9ORTVORjgxMExVeGlmUzlSaGJqUHcxSTdJbk5aM0lrcFAtMXoxQ3lid2E3NWtwdVN3Y1ktUnZ5cWYwckpVVkROMkMwdEhhZ0M5VGh0b1diUzdJNzZyWVVyc3ZLSlE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Emergent reached unicorn status in under 12 months, and in this AIM Front Page exclusive, Co-Founder and CEO Mukund Jha breaks down what that milestone actually means to him and where the real mission lies. In this conversation, the Co-Founder and C - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFNXUU0wYTRjOGpFeG5iaTBNYWN1X1R0RFZvdE1GSUZ6RTdYajhYeTF2Qml2b3dBVjRISHN4amNaNFJMZ0pOS3VhamZPcFhIaUtPcHItM2hHRlU5U3dxVU5MRnBnb1NMWlVBV2pjdW9meE9KdW9ZaURmX0ZTVHNNSlFBUmdQYlZOTGRjWVhhdGtGVU45QklhYWh4UEdkTDY4WXlvRkl0RDlHVVlfdjV0UVQtbTNPT0RBSXdJ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Emergent Joins Unicorn Club After Raising $130 Mn At $1.5 Bn Valuation - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdm1IOTJsVVQzYWszY0puVXdxaW82UGN1ZzFHNEFtbGI4aTZURlJZZ0UwTFhBMDVJTm4yQjhVTjhWMXBFSm9MbFl0LUZCQkU4eEYzelgxWGMxVzQwczVoSzd6anMzOWpQZ3NuVzVmZ0UxZjhSUFJqcHBwZjk5SnJIOE1KaG1zb2RjWlVwbWxvMGVkN0t2VGtZ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Emergent Headwater Types for Watershed Monitoring, Research, and Planning - AGU Publications",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xMlloalZBWDdEQ1I3eGEzV2ZkSzh2TXBmdVk3MXFyb3RFZ0dtQkpXbWVVQzlwaXFpb1lRVUFZM1FKUUo1M2lnRlVjSi0wVkFsejBNczdzSGxnQnpCbzdEOV9OS3NDTmpKTDJiR0hJLW92MUp4X3Zmbg?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho",
+     "alcheringa",
+     "sop",
+     "o2d"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -170219,14 +170262,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:52:33+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 68: qualified"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:52:33+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1431",

@@ -161223,9 +161223,22 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "First name": "Shlok",
+     "Last name": "Agrawal",
+     "Email": "111shlokagrawal@gmail.com",
+     "Phone": "+91-9343806463",
+     "Location": "Bengaluru",
+     "LinkedIn": "https://www.linkedin.com/in/shlok-agrawal-iitg/",
+     "Website / portfolio": "https://shlokagrawal-portfolio.vercel.app",
+     "Education": "B.Tech, Electrical and Electronics Engineering, IIT Guwahati (2021-2025)",
+     "Current role (if asked)": "Founder's Office - Business Strategy, Beltech Artificial Intelligence Pvt Ltd, Bengaluru (Aug 2026 - present). Before that: Strategy and Operations Planning, Ola Electric Technologies (Jun 2025 - Jul 2026).",
+     "Resume": "Attach the current resume PDF (Nov 2026) yourself; nothing attached by the agent.",
+     "Share one example of a process, build or cost problem you fixed: what was broken, what you changed and the number that moved.": "At Ola Electric, a scooter took 32 days from order to delivery. I built a lotting algorithm that groups truck dispatches into lots instead of sending them as they came. Order-to-delivery came down from 32 to 14 days, and trucking efficiency improved by 33%. A second one, closer to this role: as Raw Material Manager I implemented SAP MRP from scratch, which reduced stock-outs by 20% and raw material inventory by 25%.",
+     "Current CTC / expected CTC / notice period (only if the form asks)": "NEEDS SHLOK: fill from config/profile.local.toml at submit time; not stored here."
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -161306,9 +161319,21 @@
      "actor": "send-track",
      "event": "drafted",
      "detail": "cold email to Yogesh Ghaturle awaiting approval"
+    },
+    {
+     "at": "2026-11-16T10:59:16+05:30",
+     "actor": "send-track",
+     "event": "apply",
+     "detail": "kit_ready"
+    },
+    {
+     "at": "2026-11-16T10:59:16+05:30",
+     "actor": "send-track",
+     "event": "apply_kit",
+     "detail": "application answers prepared"
     }
    ],
-   "updated_at": "2026-11-16T10:55:19+05:30",
+   "updated_at": "2026-11-16T10:59:16+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:53:28+05:30",
     "why": "the posting page has no readable description",

@@ -161423,9 +161423,19 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "First Name": "Shlok",
+     "Last Name": "Agrawal",
+     "Email": "111shlokagrawal@gmail.com",
+     "Phone": "+91-9343806463",
+     "Country": "India",
+     "Resume/CV": "Attach the current resume PDF (Nov 2026) yourself; nothing attached by the agent.",
+     "LinkedIn Profile": "https://www.linkedin.com/in/shlok-agrawal-iitg/",
+     "Website": "https://shlokagrawal-portfolio.vercel.app",
+     "Cover Letter (optional, Enter manually)": "Hi,\n\nI'm applying for the Founder's Office: Revenue Operations & Systems role. The posting asks for an operator who owns core revenue workflows and keeps the data reliable, and most of my work so far has been building systems like that and then running them.\n\nAt Ola Electric I implemented SAP MRP from scratch as Raw Material Manager, which reduced stock-outs by 20% and raw material inventory by 25%. I also owned S&OP production planning over Rs 200 Cr of inventory on 3-month rolling plans and cut working capital by 40% in 2.5 months. Before that, at InsuranceDekho, I built a Flask REST API with a Chrome extension that autofilled forms and cut response times by 40%.\n\nAt Enterpret I'd take the CRM and revenue workflows off the Chief of Staff's plate and make the revenue numbers something the founders can trust without re-checking them.\n\nShlok Agrawal"
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -161449,9 +161459,21 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 74: qualified"
+    },
+    {
+     "at": "2026-11-16T10:59:20+05:30",
+     "actor": "send-track",
+     "event": "apply",
+     "detail": "kit_ready"
+    },
+    {
+     "at": "2026-11-16T10:59:20+05:30",
+     "actor": "send-track",
+     "event": "apply_kit",
+     "detail": "application answers prepared"
     }
    ],
-   "updated_at": "2026-11-16T02:53:39+05:30",
+   "updated_at": "2026-11-16T10:59:20+05:30",
    "research_attempt": {
     "at": "2026-11-15T01:50:10+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",

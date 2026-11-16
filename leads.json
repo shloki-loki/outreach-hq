@@ -19608,15 +19608,15 @@
    "key": "aramya|eir operations|india",
    "type": "job",
    "company": "Aramya",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "aramya.in",
+   "company_url": "https://www.aramya.in",
    "company_linkedin": "https://in.linkedin.com/company/teamaramya",
    "company_note": "",
    "title": "EIR - Operations (Program Manager)",
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488215647",
    "source_url": "https://in.linkedin.com/jobs/view/eir-operations-program-manager-at-aramya-4488215647",
@@ -19632,7 +19632,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "About Aramya \n Our vision is to build some of the world's most loved fashion and lifestyle brands and enable people to express themselves. We are well-funded, with $20M raised from marquee investors like Accel, Z47, and industry veterans. \n Aramya is a 300 Cr ARR fashion & lifestyle company backed by Accel and Z47 . We're building a customer-led portfolio: Aramya (daily wear), Tavira by Aramya (festive), and a new brand in stealth, going live in H2 2026. \n Current Retail footprint: Total 25 - 16 stores in Bengaluru + 3 stores in Hyderabad + 3 stores in Ahmedabad + 1 store in Mysore + 2 stores in Surat (and a few more are yet to go live). \n Opening next: 25 cities in the pipeline. \n Website : www.aramya.in \n Our Team: https://shorturl.at/l6uYJ \n About the Role \n We are hiring an Entrepreneur in Residence (EIR), Operations: a program manager who takes on Aramya's most important operations problems across warehousing and fulfillment and owns them end to end. You will run the ops layer that powers fulfillment end to end, ensure a seamless experience for our customers as we scale, and build systems and processes for all relevant edge cases.\n Background: Operations, strategy, program management, preferably at a consumer or D2C company \n What You Will Do \n We fulfill about 5,000 orders a day today, and that number is growing fast. Your job is to make the operations layer powering this scale-proof as we grow. \n Process Setup and Scale Map current warehousing and fulfilment processes, close gaps and loose ends, and build SOPs that make the function ready for much higher volumes \n Build and manage a team that is process-led and owns its numbers \n Data, Cost and Customer Build an in-depth understanding of cost and performance metrics across the chain, from shipment cost per order to delivery TAT \n Build data-first decision-making frameworks, trackers and weekly reviews SOPs \n Explore and lead the implementation of new customer-first initiatives such as faster delivery and easier returns and exchanges \n What We Are Looking For \n Experience: 2 to 3 years \n Location: Gurgaon (working across multiple cities) \n Education : A graduate of a tier 1 college with a strong academic record \n A self-starter who learns fast \n A high level of commitment to customer centricity \n High ownership of outcomes, not just tasks \n Equally comfortable going deep into ops and into data, and at ease with ambiguity and fast change\nSeniority level Mid-Senior level | Employment type Full-time | Industries Retail Apparel and Fashion",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -19647,8 +19647,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 70,
+    "total": 68,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -19658,15 +19658,29 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "EIR - Ops at Accel-backed Aramya (300 Cr ARR), Gurgaon onsite, asks 2-3 yrs; your S&OP, O2D, and fulfilment work at Ola Electric maps directly.",
+    "fit_notes": "Posting asks for 2-3 years exp, Tier 1 college graduate, and operations/strategy background to run warehousing, fulfillment, SOP creation, and delivery TAT reduction. IIT Guwahati grad requirement is met. His Ola Electric work on S&OP [sop], reducing O2D delivery TAT from 32 to 14 days [o2d], partner operations with CEO/COO on finished goods fulfilment [ceo-coo], MSL buffers [msl], SAP MRP implementation [mrp], and pan-India inventory rebalancing [rebalance] match the ops scale-up scope. Missing: Gurgaon location (he is in Bengaluru) and full-time team management experience.",
+    "pay_notes": "No pay details mentioned in the job posting or web sources.",
+    "culture_notes": "No culture ratings or Glassdoor/AmbitionBox reviews found.",
+    "hook": "Aramya is expanding its retail footprint to 25 cities while scaling multi-brand operations powered by $20M from Accel and Z47.",
+    "hook_source": "https://in.linkedin.com/jobs/view/eir-operations-program-manager-at-aramya-4488215647",
+    "researched_at": "2026-11-16T12:36:16+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "o2d",
+     "ceo-coo",
+     "msl",
+     "mrp",
+     "rebalance"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -19690,14 +19704,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:36:16+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 68: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T12:36:16+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0162",

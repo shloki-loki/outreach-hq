@@ -20175,15 +20175,15 @@
    "key": "ey|strategy and operations sa|india",
    "type": "job",
    "company": "EY",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "ey.com",
+   "company_url": "https://www.ey.com",
    "company_linkedin": "https://uk.linkedin.com/company/ernstandyoung",
    "company_note": "",
    "title": "Strategy and Operations - SA",
    "tier": "1 - Strategy & Ops",
    "location": "Noida, Uttar Pradesh, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488503568",
    "source_url": "https://in.linkedin.com/jobs/view/strategy-and-operations-sa-at-ey-4488503568",
@@ -20219,8 +20219,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -20230,15 +20230,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "EY GDS Strategy & Ops SA in Noida focuses on pre-billing and MIS reporting; non-Bengaluru location and EY GDS SA pay standard fall far short of Rs 24.5 LPA.",
+    "fit_notes": "The posting asks for a Senior Associate to handle pre-billing inputs, accrual tracking, unbilled items, and recurring MIS/KPI reporting for EY GDS Enablement Services in Noida. While Shlok has strong analytical and reporting experience ([sop], [ceo-coo]), this is a back-office finance enablement role in Noida, not a strategic BizOps or Founder's Office role in Bengaluru/Remote.",
+    "pay_notes": "Pay is listed as 'Competitive'. No explicit pay figure provided. Standard EY GDS Senior Associate compensation typically ranges from 8 to 14 LPA, well under Shlok's Rs 24.5 LPA fixed minimum.",
+    "culture_notes": "EY GDS is EY's global delivery network. Corporate environment with standard reporting hierarchies and operational SLAs.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T12:37:25+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -20262,14 +20272,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:37:25+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (Located in Noida (not Bengaluru or remote), centered on back-office pre-billing and GDS MIS reporting, and EY GDS Senior Associate compensation falls well below the Rs 24.5 LPA fixed threshold.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T12:37:25+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Located in Noida (not Bengaluru or remote), centered on back-office pre-billing and GDS MIS reporting, and EY GDS Senior Associate compensation falls well below the Rs 24.5 LPA fixed threshold."
   },
   {
    "id": "L0167",

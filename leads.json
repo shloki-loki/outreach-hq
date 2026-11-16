@@ -15196,10 +15196,10 @@
      "title": "Chief of Staff & Head of Special Projects",
      "role_type": "hiring_manager",
      "linkedin_url": "https://www.linkedin.com/in/ACwAABoq4MEBP7hm67yrEViwqKBzYeFxbRXeIeA",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "aroy@airbound.co",
+     "email_status": "guess",
+     "email_source": "most likely pattern (flast), not verified",
+     "confidence": 35,
      "why": "likely reports-to or runs the function this role sits in (LinkedIn title)",
      "found_at": "2026-11-15T22:03:51+05:30"
     },
@@ -15209,10 +15209,10 @@
      "title": "Founder and CEO",
      "role_type": "founder",
      "linkedin_url": "https://www.linkedin.com/in/ACwAADBgs48B3Pqm8wU5hhNPXnjFnW1RVvW4XeI",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "naman@airbound.co",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "founder or CEO (LinkedIn title)",
      "found_at": "2026-11-15T22:03:51+05:30"
     }
@@ -15242,9 +15242,21 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "2 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-16T09:58:02+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Aprameyo Roy: aroy@airbound.co (guess, 35)"
+    },
+    {
+     "at": "2026-11-16T09:58:02+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Naman Pushp: naman@airbound.co (verified, 90)"
     }
    ],
-   "updated_at": "2026-11-15T22:03:51+05:30",
+   "updated_at": "2026-11-16T09:58:02+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",

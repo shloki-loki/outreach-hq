@@ -173011,15 +173011,15 @@
    "key": "amazon|business development manager private brands scale|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.in",
+   "company_url": "https://www.amazon.in",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Business Development Manager, Private Brands, Scale",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489120332",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-private-brands-scale-at-amazon-4489120332",
@@ -173035,7 +173035,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "DESCRIPTION\n Are you customer obsessed, flexible, smart and analytical, strategic yet execution focused and passionate about e-commerce? Are you an experienced, entrepreneurial leader willing to be a part of the journey which would change the way India buys and sells? If yes, this opportunity will appeal to you.\nThe Private Brands Marketplace team is looking for a customer-obsessed Business Development Manager to help drive one of the most exciting growth engines for Private Brands at Amazon.in. You will have the opportunity to work in a dynamic sales environment, help to identify and launch sellers of medium to large complexity that are loved by our customers. (S)He will be responsible for negotiating with multi- functional stakeholders within seller organization, devise a launch plan, resolve execution blockers and bring them onboard. The ideal candidate will have sales experience, ability to work in an environment with minimal supervision, comfortable working across multiple complex functions and capability to influence external parties. The candidate should be comfortable interfacing with technology systems, training other stakeholders on systems and processes and be able to analyze data and gather actionable conclusions. Operating in a rapidly changing environment will require the candidate to be adept at dealing with ambiguous, new and challenging situations. The candidate will be comfortable in executing repeatable processes.\nWe are seeking an experienced Business Development Manager to strategize, define the vision, bring scalability through high impact seller/brand acquisition and scale these. He/she must be an effective communicator and negotiator working with our most important stakeholders and sellers. He/she should have strong business judgment with a track record of strong ownership values, team management, stake holder management and relationship management skills.\nKey job responsibilities\nAs a Mature Business Development Manager, Who Is Focused On Driving Sales And Scale Business For Private Brands, You Will Be Responsible For The Following:\n Owns all facets of the defining the sales process for large, complex strategic brands for acquisition.\n Owns pipeline and lead souring by identifying key market clusters and drive brand acquisition for the priority PODs.\n Prepare and present business reviews to the senior management team regarding progress and roadblocks on BD\n Lead complex projects/new product GTM implementation across various stakeholders spread across various business channels, Product, Program, Operations, etc\n Able to manage defined frequency reviews with clear inputs and actionables & understand long & short term impact.\n Basic Qualifications\n 5+ years of business development, partnership management, or sourcing new business experience\n 5+ years of professional or military experience\n MBA from a Tier I B-School\n Strong communication skills which include the ability to write compelling, concise documents.\n Proven analyti",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -173050,8 +173050,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 42,
+    "total": 52,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -173061,15 +173061,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Development Manager at Amazon, asks 5+ yrs and a Tier I MBA; you have 1.3 yrs and no MBA.",
+    "fit_notes": "The posting asks for \"5+ years of business development, partnership management, or sourcing new business experience\" and an \"MBA from a Tier I B-School\". Shlok has about 1.3 years of experience and no MBA. While his S&OP and inventory background ([sop], [ceo-coo]) show analytical and execution strength, the hard requirements for experience level and MBA block this role.",
+    "pay_notes": "Pay not stated in the posting or reliable evidence.",
+    "culture_notes": "Amazon is a well-known tech giant; specific ratings and culture flags were not found in the provided evidence.",
+    "hook": "Amazon announced it will invest $48 billion in India by 2030, driving massive expansion across its marketplace and private brands infrastructure.",
+    "hook_source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5",
+    "researched_at": "2026-11-17T00:57:11+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "‘Suffered an anomaly’: Amazon loses 40 Leo satellites as ULA's Vulcan rocket fails minutes after launch - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUXRkYzNqV25jUk9uSGZLazFCUWVqYU5WNGl0MUxETGJxWElvTG9ERWF6Rmc2X1dmbUJCMXNZeHltV0kzNXFjZWJuenFoVzNEMG9UZnhfZmE4Z3BuS21PVy1HTHZtYkY1ZWFGczJxUEphVTM3OHdEZlJrNl9nUk5sNVpuRFR5WEJEYWlWU2FmeDY4RGtHWEtaS1MtelVYOXd0RUdqd2tfeTJ5aVRzUXNScGhucXNvZk9zVFNhNGlla2l1WW9hSEJ6T0V6ZTJjZ2F3VEJqZU41dmpqNHFXWm9QTUlBMWdNeXRjZWs3NDV2VTdLa1AyaTRoYkhJUFBFTGfSAYQCQVVfeXFMT0ZRVm12TlZ2ZW1fRVNub3FNdDJxVnJpMnc0QnJJSml1VDF1UkR0MG5EaTFtS2lfVWNzMThZbndNWTIxaGNGYVA4Y3dYdDVxOVc3MUNIblZKd1FkU0RYUGs1MjNBNFNWeS13UEd5VExmS3h4UkhJeUlVVjJiMDY1OHpJQklCR2dUVDhhWVpBWHVPVl9mUFZRbkg4TkJiR0tCd1lwdkRzWnB1VXd3YUNVM29ETmZJbW5INTMzWEZOQzBmeUtPWERZVkZSM2haU0FpYXFFcDNQVXAza3VsSWtwRnJqc05ad19KQndubXI2S0FjQlZHRVM2REhLUWYyWkxULU92Ykg?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Blackstone REIT to Buy Amazon Data Centers in $5 Billion Deal - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmdvREdrMXNHU3B6VVdldWdxVWswUnNjeXU4T2xGTlFfeDkyRzg0YkRweTdtZnhJNEZQcDRIMkR0NEw4Zk5QVzFfVllmMlI2OHFZeFRUMnVLRzIzSUY1U0RVSnZma2lZQjZORXIxSjZYck1fMExpMDVncXRka0dPby1tSW14SU40eDUtTnR2SmU2N0lNN243MkRlM01xQmpJeGtXT2wwelpPcXhET1lnQg?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -173093,14 +173131,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:57:11+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The posting explicitly requires an MBA from a Tier I B-School and 5+ years of experience, both of which Shlok lacks.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:57:11+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly requires an MBA from a Tier I B-School and 5+ years of experience, both of which Shlok lacks."
   },
   {
    "id": "L1457",

@@ -171228,15 +171228,15 @@
    "key": "certifyos|operations manager|bengaluru",
    "type": "job",
    "company": "CertifyOS",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "certifyos.com",
+   "company_url": "https://certifyos.com",
    "company_linkedin": "https://www.linkedin.com/company/certifyos",
    "company_note": "",
    "title": "Operations Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4489585694",
    "source_url": "https://in.linkedin.com/jobs/view/operations-manager-at-certifyos-4489585694",
@@ -171252,7 +171252,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "About CertifyOS\n CertifyOS is building the data infrastructure that powers modern healthcare.\nToday, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary administrative work, regulatory risk, and higher costs across the system. We’re solving that problem.\nOur API-first platform automates provider licensing, enrollment, credentialing, and network monitoring by connecting directly to hundreds of primary data sources. We help healthcare organizations maintain accurate, compliant, and reliable provider networks at scale.\nOur vision is simple: One API. One provider ID. Frictionless provider data.\n We’re backed by leading investors and built by a team with deep experience in provider data systems. At CertifyOS, we value authenticity, accountability, collaboration, results, and openness to feedback. We’re building a high-ownership team focused on solving real infrastructure problems that impact millions of patients.\n About The Role\n As CertifyOS scales, we need to add rigor & structure to our operational processes to continue driving high customer satisfaction at increasingly attractive unit economics. We’re looking to hire an Operations Manager to lead a critical branch of our Operations team – someone who combines best-in-class leadership with data-driven decision making and a relentless focus on system & process optimization. This individual will oversee a growing production-focused team made up of operations analysts, and other specialists..\n What You’ll Do\n Team Management\n You’ll build and manage a team that is responsible for hitting daily and weekly targets; constantly driving towards improved performance of our application processing even as volume grows.\n Initially, several analysts and specialists will report to you; you will be responsible for their growth paths and success in their roles, focusing on both individual and team metrics.\n Focus areas will include: team structure evolution; building dashboards; operational excellence; and optimizing work distribution systems across a large team.\n Process Improvement\n Your core metrics will be split across speed, quality, and efficiency of application processing. You will be obsessing over ways to improve each of these as volume scales.\n New requirements will surface daily; you’ll need to intake information, assess options, and build quickly, developing robust, scalable workflows.\n You’ll partner with Product, Engineering, and Data teams to launch and operationalize new systems and features on the CertifyOS platform geared towards improving efficiency and client experience.\n As we grow, you’ll both monitor our existing key business metrics – identifying trends & risk areas – as well as creating new metrics that move the business forward.\n Client Problem Solving\n You’ll be accountable for operational performance, client outcomes, budgets, and ongoing improvement.\n Build and manage cross-functional execution plans in partnership with transformation, suppo",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -171267,8 +171267,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -171278,15 +171278,38 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Operations Manager at CertifyOS, asks 8+ years of people management; your 1.3 years of experience is a major gap.",
+    "fit_notes": "The posting asks for \"8+ years of people-management experience\" and managing a large, production-focused team. Shlok has about 1.3 years of experience and no full-time team management experience. While his facts like [sop] and [ceo-coo] show operational ownership at Ola Electric, the years-of-experience gap is insurmountable.",
+    "pay_notes": "Pay not stated in posting.",
+    "culture_notes": "Backed by leading investors; launched the first national shared credentialing program with UnitedHealthcare, Cigna Healthcare, and Centene [S3]. No glassdoor or rating data found.",
+    "hook": "Noted CertifyOS launching the first national shared credentialing program with UnitedHealthcare, Cigna, and Centene.",
+    "hook_source": "https://in.linkedin.com/jobs/view/operations-manager-at-certifyos-4489585694",
+    "researched_at": "2026-11-17T00:53:59+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "UnitedHealthcare, Cigna, Centene sign on to CertifyOS' new provider credentialing model - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOXzZLRWw4TFFlUzNjeERQYUo4NE02RWtQeXMwMUhzZU9lZWg4YTBQaUw3Uk1fTnN2ZFQwbEJ5aFktNy1mNXNKUE9iXzFpclF0RkxoZno2MF9iR0dFUV9LYWRmSTFzQWhuN0RfTE1tc0hVWklFZHhDb2lUWDBPT0w3Ti1PSzB0bU9MT3pIYjVoN1UyTWN6RlpiNkNYVFc0ZHIxdnVHTmpGSk9RekFMeFh1UU9uZGE3ZHJCUkE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "CertifyOS Launches National Shared Credentialing with UnitedHealthcare, Cigna, and Centene - HIT Consultant",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTjZfLTVZLUZQd2NVdzRGN2tGTnpNV2N2NUREU0xMMlUxd05lWFlEWF8yOFFScEVPdDMyMkpTajQ2SV83ZFdISUZhdUdDNVF6TmVzb2FHR284ckNFZlhrUzNnREN6MUd5eE1NZVFpY3NWbTNyWkl4VEJiMnhnTDRfLUxMRG9ZY2l4SW9rVVdaQS1iRHkzbGFfRng1NnNCU0dzeGRCdlNZSFB2WDN6d3BRTGNuN0Zja2N1cVFwQnNwRi1laWM?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "CertifyOS Launches The First National Shared Credentialing Program with Commitments from UnitedHealthcare, Cigna Healthcare, and Centene - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVFdoMWZNRG1rUzJmdjl5LVZVTGpMYlJfWWhZM1NROGtmLUhvWnkzMVl0dWJvZGVTNG5iMzFHbXlBMERYeUgzV2l0OVpTc0JyejZDcE1pVmhTMjJRMVBBTHNCc3p1dVU1VHhrb0lzOE5YcXFCUkRYSS0zUjBjUlQxOGZaaDdQUU1MOExOSnVFMnhxMnVoOVZpdnlYU29WaEZvMjFnbFBPQ19yMEVCWXV2bzZYMXdQNDVSUE5oXzRJV0kwTmxaRmRGUUJVRUFKWVBJVVpKcGdya0lpZDRXY3ZJQ0ZpUmI1bmxrTkh3NEZMMEsxc0J2aU5KLXBqaF9XTzROdU53bU9IMEZKSC11X1NnUmgxaXNqYmpkbXc?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -171310,14 +171333,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:53:59+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The role explicitly requires 8+ years of people-management experience, which far exceeds Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:53:59+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role explicitly requires 8+ years of people-management experience, which far exceeds Shlok's 1.3 years."
   },
   {
    "id": "L1441",

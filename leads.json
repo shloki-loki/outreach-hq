@@ -169808,15 +169808,15 @@
    "key": "purpllecom|growth manager content and local brand|bengaluru",
    "type": "job",
    "company": "Purplle.com",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "purplle.com",
+   "company_url": "https://purplle.com",
    "company_linkedin": "https://in.linkedin.com/company/purplle-com",
    "company_note": "",
    "title": "Growth Manager – Content & Local Brand",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4474107750",
    "source_url": "https://in.linkedin.com/jobs/view/growth-manager-%E2%80%93-content-local-brand-at-purplle-com-4474107750",
@@ -169832,7 +169832,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "About The Team\n We are building a high-performance Revenue & Marketing pod — a geography-focused business unit that owns end-to-end top-line and bottom-line delivery for an assigned state or cluster. The pod operates like an autonomous business unit: defining local strategy, executing marketing and growth plans, running platform operations, and generating the consumer insights that drive every commercial decision.\nThis is not a support function. Every person in this pod owns outcomes — revenue, margin, platform health, or market intelligence. If you are commercially driven, data-fluent, and thrive in a fast-moving execution environment, this team is built for you.\n What You Will Do\n Revenue & P&L \n Own and deliver revenue and gross margin targets for an assigned geography or function within the pod \n Track P&L on a weekly and monthly basis — identify gaps early and course-correct with data \n Drive revenue growth through a mix of new user acquisition, base reactivation, and improved margin per transaction \n Identify and unlock new revenue opportunities — brand partnerships, channel monetisation, and promotional levers \n Marketing, Growth & Campaigns \n Plan and execute user acquisition campaigns to drive installs and first-order conversions at efficient CAC \n Own reactivation marketing for lapsed and install-not-transacted user cohorts \n Design and run CRM, push notification, and in-app messaging campaigns to improve repeat purchase frequency \n Execute on-app promotions, deal constructs, offer panels, and sale events — end-to-end, accurately and on time \n Build and manage hyperlocal BTL activation plans tied to regional events, festivals, and seasonal demand peaks \n Promote high-margin SKUs and categories to improve the overall GM profile of the geography\n Market Intelligence & Consumer Insights \n Build and maintain a revenue intelligence framework covering consumer spending patterns, competitive pricing, and category growth \n Lead quantitative research: cohort analysis, pricing elasticity studies, and transactional data mining \n Conduct qualitative research: consumer focus groups, in-depth interviews, and retailer feedback sessions \n Produce competitive intelligence reports — share of wallet, competitor activity, and whitespace opportunities \n Generate data-backed demand signals for new SKUs and assortment decisions \n Platform Health & Fulfilment \n Own platform revenue health KPIs: availability rate, catalogue fill, listing quality, order completion, and RTO \n Identify and plug revenue leakage — stock-outs during campaign periods, broken listings, and fulfilment failures \n Coordinate with Supply Chain and Inventory teams to ensure stock availability ahead of activations \n Escalate platform issues — broken listings, payment failures, checkout drop-offs — with revenue-impact quantification \n Own fulfilment SLAs; work with logistics partners to reduce TAT, RTO, and delivery failures \n Analytics & Reporting \n Maintain a real-time revenue dashboard and",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -169847,8 +169847,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 65,
+    "total": 65,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -169858,15 +169858,27 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Growth Manager at Purplle asks 2-6 yrs and Tier-1 B.Tech (IIT Guwahati); your S&OP and fulfillment ops map well despite marketing gaps.",
+    "fit_notes": "Posting requires Tier 1/2 B.Tech (explicitly listing IIT Guwahati) and 2-6 years in revenue management, e-commerce operations, or P&L roles. Shlok's IIT Guwahati degree matches directly, and his S&OP and fulfillment work ([sop], [ceo-coo], [o2d], [rebalance]) satisfies the supply chain, inventory, and platform health operations requirements. Key gap: he lacks direct experience in performance marketing, CAC/CRM campaigns, and consumer qualitative research.",
+    "pay_notes": "Pay is not stated in the job posting and no company pay data was found in external evidence.",
+    "culture_notes": "No glassdoor or culture review data available in provided evidence.",
+    "hook": "Purplle is building autonomous geography-focused Revenue & Marketing pods that operate like autonomous business units owning top-line and bottom-line delivery for state clusters.",
+    "hook_source": "https://in.linkedin.com/jobs/view/growth-manager-%E2%80%93-content-local-brand-at-purplle-com-4474107750",
+    "researched_at": "2026-11-17T00:49:00+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "o2d",
+     "rebalance"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -169890,14 +169902,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:49:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 65: qualified"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:49:00+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1428",

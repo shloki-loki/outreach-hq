@@ -1130,6 +1130,30 @@
    "ok": true,
    "summary": "11 researched, 1 qualified (L1360 Origin Founder's Office Manufacturing Associate, score 74, pay unknown), 10 rejected (DrinkPrime L1395 3+yrs/~5 LPA; Aspora L1362 7+yrs; TalkingLands L1363 legal role; r3 L0331 closed; PwC L0127 MBA 5-8yrs; Glean L0150 cloud FinOps; Avangarde L0111 closed 12-15 LPA; SkillDzire L0115 20-50k/mo; Akshaya Patra L1351 NGO pay, Naukri 403; GalaxEye L0208 Instahyre 403, mirror closed). 2 contacts added, 8 emails found (7 verified via Reoon: Origin x2, Airbound, Sarvam, Emversity, FRND; 1 pattern FRND L0040). No Apify used. Scout scrape started 09:32, still running at log time.",
    "stats": {}
+  },
+  {
+   "at": "2026-11-16T10:01:56+05:30",
+   "agent": "lead-scout/scrape",
+   "ok": true,
+   "summary": "6819 jobs read, 351 passed rules, 6 new leads",
+   "stats": {
+    "fetched": 6819,
+    "passed_rules": 351,
+    "new": 6,
+    "updated": 329,
+    "closed": 0,
+    "by_source": {
+     "greenhouse": 3855,
+     "lever": 124,
+     "ashby": 2005,
+     "linkedin": 514,
+     "instahyre": 215,
+     "yc": 106,
+     "naukri": 0,
+     "wellfound": 0,
+     "hiringcafe": 0
+    }
+   }
   }
  ]
 }

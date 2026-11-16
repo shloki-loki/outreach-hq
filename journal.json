@@ -2078,6 +2078,15 @@
    "title": "Diagnosis: reoon verification call failed",
    "detail": "Update 16 Nov 20:30 IST: on the Mac the Reoon key works (J0196: 7 addresses verified 09:57-10:00 IST; quotas.json reoon 18 calls today). The last Reoon 401 came from the GitHub research run at 21:28 UTC 15 Nov (commit 87d9594, last_seen 02:58 IST); the 07:17 UTC run today logged Hunter 401s but no Reoon failure, so the GitHub secret may have been fixed, but this is not proven. Still open because (1) the key was stored in plain text in this issue's detail and log J0139 and must be rotated, and (2) provider errors still put key= in the stored URL. Remedy: Shlok rotates the Reoon key and sets the GitHub secret REOON_API_KEY to the bare key; a coding session redacts key=/api_key= in HttpError text and cleans the stored issue/log text. Resolve after a GitHub run verifies an address with Reoon.",
    "ref": "I0010"
+  },
+  {
+   "id": "J0232",
+   "at": "2026-11-16T22:05:42+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Research worker 'failed' runs 22:03 and 02:58 were Gemini timeouts",
+   "detail": "runs.json: research-worker 22:03 IST 15 Nov (30 researched, errors 5) and 02:58 IST 16 Nov (30 researched, errors 1) are marked failed because research.py logs ok only when errors == 0. The errors are 'Gemini unreachable: The read operation timed out' on L1416, L1524, L1372, L1374 (21:23-21:41 IST) and L1395 (02:44 IST); each lead was skipped and the run carried on. The 12:46 IST run had 0 errors and is ok. No issue opened: transient model timeouts, work was done. Suggestion for a coding session: count a run as failed only when most leads error, and retry a timed-out lead once.",
+   "ref": ""
   }
  ]
 }

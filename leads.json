@@ -2357,7 +2357,7 @@
    "key": "prasuma|executive founder s office|india",
    "type": "job",
    "company": "Prasuma (ITC-owned)",
-   "company_domain": "",
+   "company_domain": "prasuma.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Acquired by ITC (2025); no VC rounds",
@@ -2428,10 +2428,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/prachimalik",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "prachi.malik@prasuma.com",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first.last), not verified",
+     "confidence": 35,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -2460,9 +2460,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 1 (2026-10-28) as R07"
+    },
+    {
+     "at": "2026-11-16T12:47:58+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Prachi Malik: prachi.malik@prasuma.com (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-16T12:47:58+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",

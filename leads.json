@@ -4999,7 +4999,7 @@
    "key": "frnd|chief of staff|bengaluru",
    "type": "job",
    "company": "FRND",
-   "company_domain": "",
+   "company_domain": "frnd.app",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Not checked this run",
@@ -5075,10 +5075,10 @@
      "title": "Company employee (VP Business, FRND)",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/shashwat-dwivedi",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "shashwat@frnd.app",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -5107,9 +5107,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 3 (2026-11-09) as R39"
+    },
+    {
+     "at": "2026-11-16T10:00:32+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Shashwat D.: shashwat@frnd.app (verified, 90)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-16T10:00:32+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "unknown",

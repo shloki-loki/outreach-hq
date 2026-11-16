@@ -1763,6 +1763,15 @@
    "title": "Reoon verifier working again",
    "detail": "find-email returned 'reoon: ... is valid' for 7 addresses on 2026-11-16 (L1360, L0125, L0002, L0015, L0039). Issue about reoon 401 (I0010) may be stale; supervisor should recheck.",
    "ref": ""
+  },
+  {
+   "id": "J0197",
+   "at": "2026-11-16T10:01:22+05:30",
+   "by": "lead-scout",
+   "kind": "note",
+   "title": "Leads not opened this run",
+   "detail": "L0229 GalaxEye Lead Finance & BizOps, L0220 Accenture, L0221 Salesforce left unresearched (Instahyre pages 403). L0356 MKGlobo left for Codex (W0002).",
+   "ref": ""
   }
  ]
 }

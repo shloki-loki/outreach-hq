@@ -23846,15 +23846,15 @@
    "key": "amgen|manager global product supply planning|india",
    "type": "job",
    "company": "Amgen",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amgen.com",
+   "company_url": "https://www.amgen.com",
    "company_linkedin": "https://www.linkedin.com/company/amgen",
    "company_note": "",
    "title": "Manager Global Product Supply Planning",
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4487234882",
    "source_url": "https://in.linkedin.com/jobs/view/manager-global-product-supply-planning-at-amgen-4487234882",
@@ -23870,7 +23870,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
    "open": true,
-   "jd": "",
+   "jd": "Accountabilities:\n Part of a multinational and multicultural organization that is committed to professional development. Reporting to the Head Global Supply Planning within the Global Supply Chain Organization. Responsible for delivering robust global supply plans, providing supply chain reporting, and maintaining master data integrity using Amgen’s planning and execution systems.\n Responsibilities:\n Leading complex and multi-faceted end-to-end product supply chain and network balancing scenario analyses that support critical business decision making.\n Presenting outcome of scenario analyses to Senior and Executive Management\n Develop supply transition strategy for Life Cycle Management initiatives\n Leading supply transition plans amongst existing supply chain nodes based on changes to supply, demand or regulatory approval assumption for Life Cycle Management initiatives\n Provides leadership in balancing supply plans amongst several manufacturing stages/sites that supports demand and maintains safety stock levels (monthly)\n Presents end-to-end Demand & Supply plans, including Supply Planning Quality Checks, to ensure plan integrity at Planning Cycle completion (monthly)\n Performs pre-planning quality checks to ensure MRP integrity (monthly) for a number of Amgen commercial products.\n Establishes supply plans for new supply chain nodes using strategic inputs provided by the Global Supply Chain Lead (GSCL) \n Support & adopts supply chain automation & AI Transformation initiatives\n Is a standing member on the Global Supply Chain Team and provides key risks and insights to anticipate risks & opportunities and closes blind spots in the end-to-end Supply Chain\n Business process owner of the following Supply Chain business processes:\n Annual Working Cell Bank Supply Management\n Global Temperature Excursion Form Generation and updating\n Supply Chain reporting to Tax and Treasury Departments\n Global Master Data Integrity – Request & Maintenance of SAP & RapidResponse Master Data\n Qualifications:\n The knowledge and skills necessary to perform the duties of this position are typically acquired through the following combination of education, experience, or the equivalent\n Minimum Requirements:\n Minimum Of 8-13 Years Of Experience Required Over All\n Doctorate degree OR\nMaster’s degree and 2 years of directly related experience OR\nBachelor’s degree and 4 years of directly related experience OR\nAssociate’s degree and 10 years of directly related experience OR\nHigh school diploma / GED and 12 years of directly related experience\n Preferred Requirements:\n The ideal candidate should have strong knowledge and experience in the application of advanced planning techniques as it relates to demand and supply planning, MRP, production planning and inventory control. They should have outstanding communication capabilities and must be comfortable and confident dealing with all levels of management within the organization.\n 4 plus years of experience in global pharmaceutic",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -23885,8 +23885,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -23896,15 +23896,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Manager Global Product Supply Planning at Amgen in Hyderabad, asks 8-13 years; your 1.3 years falls short.",
+    "fit_notes": "The posting asks for 'Minimum Of 8-13 Years Of Experience Required Over All' and 'Bachelor’s degree and 4 years of directly related experience'. While Shlok has strong supply chain and inventory experience at Ola Electric (mapping via [sop], [mrp], [ceo-coo]), his total experience of about 1.3 years is well below the required threshold.",
+    "pay_notes": "Pay not stated in the posting, and no specific salary figures were found in the research evidence for this role.",
+    "culture_notes": "Amgen is building a new R&D center in Hyderabad [S2]. Culture flags include an FDA warning letter for Vectibix promotion [S3].",
+    "hook": "Amgen recently laid the groundwork for a new R&D center in Hyderabad.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWFVcENVU3lVLWtEYlRBb3A5ZjFNbF9YV21FTC1mNUg2ZFBaZE45N2k3WjRHc09kQmdrbVRfdGVvaHp0bW41RzY4eFRjLXIxMVk1QTFIbUtnSUtkQTVmWHNLQTlaRHJmUUlQQnJZT2hyZzBxY3NwdU9IX3RSRENCSWVTSGJfTnR0SzlF?oc=5",
+    "researched_at": "2026-11-16T12:41:00+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "AMGEN TO PRESENT NEW DATA ACROSS RARE AND OTHER SERIOUS AUTOIMMUNE DISEASES AT ACR CONVERGENCE 2026 - Amgen",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTkVBVG5ZeHE2bUJnRmtZbDRCSEZBNDhLNVo0aWxpUWh4aklXdzM5MFRIWWRsNmJvR19pVjBZRzhEUDBQN3hVTE41SnJiR0pvcW9BRVpxY3phaVZtdVFBYWROYlAyeG1Wa0s3N2wxTHhxTTNqbTZTZ0Q1MVJTWHBvVk96OGpQYkY4SjJaeEs3cUVWam1vQS1vbkk4anF3R1BIQ09hTU9LWC1memYyZGVndy1xeS1SSlUwM0ppd0c0SlcwVE5XTDA0ODdIbWpGLVEzY1VqdGRMbUZ0ZXVCTktxeDJfTHZBbHRY?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Amgen lays groundwork for new R&D center in Hyderabad - Fierce Biotech",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWFVcENVU3lVLWtEYlRBb3A5ZjFNbF9YV21FTC1mNUg2ZFBaZE45N2k3WjRHc09kQmdrbVRfdGVvaHp0bW41RzY4eFRjLXIxMVk1QTFIbUtnSUtkQTVmWHNLQTlaRHJmUUlQQnJZT2hyZzBxY3NwdU9IX3RSRENCSWVTSGJfTnR0SzlF?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amgen hit with FDA warning letter for ‘misleading’ Vectibix promotion - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDBfcUFEc3BmLTc3RmNmX1hYbF9PalNVR05SdGw4cnduUWpFWWFJdEVCLXBJX1EySm12cndIN3h2LWRMeDlHdWpmRUlmWG43QTY1Q2ljOUlNYzZOZmJSZEJUd3hvN28yZzVHRm1DeFVod0x3cWJyNTItSUNibDVEWktNMkVzM0pnRXpib1g4LV9Vb1BOMUpSR3lPdVpjUQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "AMGEN TO PRESENT AT THE 2026 WELLS FARGO HEALTHCARE CONFERENCE - Amgen",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVhrdm5WektqZjNpMUdHSXo1R0pEUDdWSzZlYWV0MXE1MmxYRDRTdE9KbnBEZEtKRS1vc2Y3SFpqb3ZUZ09yMWY1S24zT3g2WXU5dWF3Q1kzTlBjOGNBeHFvZ1JSNTZ2WjFaaUhoVklhY3NBVjhWMWJGU05rNGNRM1ZCSkw4QlFLTGhQSFdabW9rVkE0bHBpMkF0VnNRVGxOY2tEV1k2QWN3QVZveUx0WUo4cU02WUE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Amgen’s Horizon-acquired fusion protein eases Sjögren's severity in ph. 3 win - Fierce Biotech",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSklwVHRGU1VlejR0YkhHdWk4SC1samVyUmVUcWpDeTV5eEoyM0FoQk55c091VEVaMkFvNjZrM3FKQ0ZWT3VCV3RJMXAzU0lxMFdOOTQ5X3FXVnp4REd3U21DWVBNdEJGeDNzLXFCOHhrR0habUN5dkVzbUJKcll0RjIzTDlwMXQydWlnbkNldmp4Q2E0czF5WW45Nk5jaWNpWVZuTTAwLXNENG9FRWc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "TEZSPIRE® DELIVERED HISTOLOGIC REMISSION AND SYMPTOM IMPROVEMENT IN EOSINOPHILIC ESOPHAGITIS - Amgen",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU2lvZjA3dXBzZmk2OGpJSmF4YmVIcUp0LXI3NWNPaTR1YW83cS1iekFvR2ltRzY0bllqNEd3bUoyWXpPU2o5YW13ODJWTTZoaThpSWlpb1NjZnNtVHVfVGg3Znh1bmpJWTZhQkY0eXN4ak9aU1ozZFJIendKVGZWWDVDQ1JmMEFQVTlvMDd2UXVRYjBGTmdUdUNwYXBMTXdiZmhjWmtkTlNLUjlwc0FmbW9OdWxiX2I4ZFdZODJBOWVNNzM2aXZ4OElSSmdDMjV4OGE1VjhFQURtdU1EZHc?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -23928,14 +23970,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:41:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The posting explicitly asks for a minimum of 8-13 years of overall experience, far exceeding Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-16T12:41:00+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly asks for a minimum of 8-13 years of overall experience, far exceeding Shlok's 1.3 years of experience."
   },
   {
    "id": "L0200",

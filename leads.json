@@ -171461,7 +171461,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489536910",
    "source_url": "https://in.linkedin.com/jobs/view/retail-operations-manager-at-salexi-hr-advisory-pvt-ltd-4489536910",
@@ -171477,7 +171477,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "We are seeking a dedicated and experienced Retail Operations Manager to oversee and enhance our retail operations in Karnataka. The ideal candidate will have a strong background in retail management and a proven track record of optimizing operational efficiency. As a Retail Operations Manager, you will be responsible for ensuring that our retail locations operate smoothly and effectively, providing an exceptional shopping experience for our customers. Key Responsibilities: - Develop and implement operational strategies to improve efficiency and profitability across all retail locations. - Monitor and analyze sales performance, inventory levels, and customer feedback to identify areas for improvement. - Collaborate with store managers to ensure adherence to company policies and procedures, and to foster a positive work environment. - Train and mentor staff on best practices in retail operations, customer service, and sales techniques. - Manage budgets and financial reports, ensuring that all retail operations are cost-effective and aligned with company goals. - Stay updated on industry trends and competitor activities to maintain a competitive edge in the market. Required Skills: - Strong understanding of retail operations and management principles. - Excellent analytical and problem-solving skills. - Ability to lead and motivate a team effectively. - Strong communication and interpersonal skills. - Proficiency in inventory management and sales analysis tools. If you are passionate about retail and have the experience to drive operational excellence, we encourage you to apply for this exciting opportunity to make a significant impact in our organization.\nThis job is provided by Shine.com\nSeniority level Not Applicable | Employment type Full-time | Industries Staffing and Recruiting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -171492,8 +171492,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -171503,15 +171503,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Retail Operations Manager at Salexi HR Advisory, experience not stated; your supply chain work does not align with retail store management.",
+    "fit_notes": "The posting asks for a 'Retail Operations Manager' to 'oversee and enhance our retail operations in Karnataka' with a 'strong background in retail management'. Experience and pay are not stated. While he has extensive operations experience at Ola Electric ([sop], [ceo-coo]), this role focuses on traditional retail store management, staff training, and customer experience rather than high-impact strategy & operations, making it a poor fit for his career trajectory and pay expectations.",
+    "pay_notes": "Pay not stated in posting; no evidence found for Salexi HR Advisory Pvt. Ltd.",
+    "culture_notes": "No company website, reviews, or culture data found for Salexi HR Advisory Pvt. Ltd. Industry is listed as Staffing and Recruiting.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T00:54:04+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -171535,14 +171542,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:54:04+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (Role is a generic retail operations position at an agency (Salexi HR Advisory), pay is unknown and likely below his Rs 24.5 LPA threshold, and it requires retail management rather than high-growth strategy/operations.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:54:04+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role is a generic retail operations position at an agency (Salexi HR Advisory), pay is unknown and likely below his Rs 24.5 LPA threshold, and it requires retail management rather than high-growth strategy/operations."
   },
   {
    "id": "L1443",

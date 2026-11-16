@@ -3033,7 +3033,7 @@
    "key": "amazon|program manager ii driver evaluation systems|india",
    "type": "job",
    "company": "Amazon (Flex / Last Mile)",
-   "company_domain": "",
+   "company_domain": "amazon.jobs",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Public",
@@ -3104,10 +3104,10 @@
      "title": "Post author",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/sagar-sharma-a9b4881a",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "sagar.sharma@amazon.jobs",
+     "email_status": "guess",
+     "email_source": "most likely pattern (first.last), not verified",
+     "confidence": 35,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -3136,9 +3136,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 1 (2026-10-28) as R12"
+    },
+    {
+     "at": "2026-11-17T01:00:48+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Sagar Sharma: sagar.sharma@amazon.jobs (guess, 35)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-17T01:00:48+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",

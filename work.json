@@ -147,12 +147,12 @@
    "owner": "claude",
    "title": "send-track scheduled run 2026-11-16: drafts, referral notes, app kits",
    "detail": "Scheduled send-track run is Claude's",
-   "status": "queued",
+   "status": "working",
    "created_at": "2026-11-16T10:42:06+05:30",
-   "lease_until": null,
+   "lease_until": "2026-11-16T12:42:58.569424+05:30",
    "result": "",
    "ref": "",
-   "updated_at": "2026-11-16T10:42:55+05:30"
+   "updated_at": "2026-11-16T10:42:58+05:30"
   }
  ]
 }

@@ -167978,15 +167978,15 @@
    "key": "instawork|product operations analyst|bengaluru",
    "type": "job",
    "company": "Instawork",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "instawork.com",
+   "company_url": "https://www.instawork.com",
    "company_linkedin": "https://www.linkedin.com/company/instawork",
    "company_note": "",
    "title": "Product Operations Analyst",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4481741189",
    "source_url": "https://in.linkedin.com/jobs/view/product-operations-analyst-at-instawork-4481741189",
@@ -168002,7 +168002,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Instawork is on a mission to create meaningful economic opportunities for skilled hourly professionals in communities around the globe. Our AI-powered labor marketplace helps local businesses scale, and enables global technology companies to push the frontiers of robotics and AI. Backed by world-class investors like Benchmark, Spark Capital, Craft Ventures, Greylock, Y Combinator, and others, we’re looking for exceptional talent to reimagine the way the world works.\nAt our labor marketplace tech company, we believe that even in the age of AI, the core of success comes down to good people doing honest work. We're seeking a detail-oriented and automation-savvy Product Operations Analyst to help us optimize our operational processes and ensure data accuracy across our platforms. This is a fantastic opportunity to grow your career at the intersection of operations, data, and intelligent automation.\n Who You Are:\n Automation Enthusiast: You're passionate about eliminating manual work through automation. You've built workflows using tools like n8n, Zapier, or Make.com, and you're always looking for the next process to optimize.\n AI-Powered Problem Solver: You actively leverage AI tools like ChatGPT, Claude, or other LLMs to enhance your productivity, solve complex problems, and generate insights. You see AI as a powerful co-pilot in your daily work.\n Data-Driven & Analytical: You're comfortable diving into databases using SQL, analyzing trends in Excel or Google Sheets, and creating dashboards to visualize operational metrics. You use data to drive decisions and measure impact.\n Technical Tinkerer: You enjoy building solutions using no-code/low-code platforms like Replit, Retool, or similar tools. You're not afraid to write simple scripts or work with APIs to connect systems and automate workflows.\n Process Optimizer: You have a natural instinct for identifying inefficiencies and redesigning processes. You're organized, detail-oriented, and obsessed with creating scalable, repeatable systems.\n Self-Starter & Collaborative: You can work independently to manage multiple projects while also partnering effectively with cross-functional teams including Biz-Ops, product, sales, and payroll.\n What You'll Do:\n Own Data Quality & Integrity: Implement and maintain robust processes for validating and verifying data accuracy, consistency, and completeness across all platforms. Develop and enforce data quality standards that become the foundation of operational excellence.\n Build & Deploy Automation Solutions: Design and implement automation workflows using N8n, Zapier, or custom scripts to eliminate repetitive manual tasks. Identify bottlenecks in current processes and create scalable automation solutions that improve team efficiency.\n Leverage AI for Operational Excellence: Utilize AI tools like ChatGPT, Claude, and other LLMs to automate data processing, generate insights, create documentation, and enhance decision-making. Experiment with new AI capabilities to ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -168017,8 +168017,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 62,
+    "total": 64,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -168028,15 +168028,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Operations Analyst at Instawork in Bengaluru (onsite); your Flask REST API work [idekho] and S&OP optimization [sop] fit well.",
+    "fit_notes": "The posting asks for a detail-oriented analyst to build automation workflows, use SQL/Python/APIs, and optimize operational processes (years unstated). Your experience building a Flask REST API and Chrome extension [idekho] along with S&OP operational experience [sop] and SQL/Python skills map directly to these needs.",
+    "pay_notes": "No salary figures stated in the posting or fetched sources for Instawork India.",
+    "culture_notes": "Backed by Benchmark, YC, Greylock, and Spark Capital. Note that the job posting specifies a 5-day in-person work week at the Bengaluru hub.",
+    "hook": "How Instawork is using workers in India to train robots and build its physical AI business.",
+    "hook_source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3JkNFVBR0x1VVh6bG5fUlBrU0FGUlVOM3NBc0NocDY4N1dlSUwwQXFHY1JpY3Q1OG5mWk1XcVlxZlNnYUphTExsZkhJd2RESFRpMWVWeWxvYkZoYW1qQ25vbmJRYU5FQV9uRWJWWVdkTGdiNE5qZzRvLVhyQ1ZqZ3RUSUh5a25ZWUwtMUVxemt6aEkwc0dxT1RBZzNxY29TOUlXaXVLbmVEc0J5cDgtSzJn0gG3AUFVX3lxTFBwSm1ickUwaU01THpqWUZGNGo3VWtHNlNra3ZtVm5Zcl9OWkhkZGw5N0FPSUloSTYtYnpTb1Z6cmN0VWpWa0tFUE12WlFVT2ItaGYwdUtSa3piYjRQMkl4LTNXWDQtYmx5eG4wS2ZwRktKWkc3WUJpbEVCSi0zLVY0VDdXeXhtYklxMmJDOWZLcDJ4UDZiTTBwaTU1aFRxQzZxekxHeXU2MnhBWlgwU0tUVENqbWRodw?oc=5",
+    "researched_at": "2026-11-17T00:45:38+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "20 mn robot hours: Inside Instawork’s expanding India mandate for physical AI - Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeF9DcklkNmc0ckFFaE9SczkzcGt3QVFIY3kxTndYQnRYVjFic1hEdzR0aExqMVp4U3dYMFZYTU1WYWprRGItNFJIOFh2OEx1czBoTDZVYTNiWFdlOUw4cGxNQnVuSU5tNTVvc1hrTnM5eURaWEpkaG9HXzRwYmVuUFJIbGFSR0NHVEVxc2JITFBkRGx1S0lUd2xWWTBkdm9RNmNZN2w2N2dJcTlvM2x2U01lUW1iSGFuOXVCM2paeDh2V0k?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Instawork Wants To Building The Human Data Layer For Physical AI In India; Targets 60,000 Workers - CIOL",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbi1fcGhkVGxsT0RnbXl5Q2MwTW9PSkozWm96U3hMc280N0psSDZmY2g0Vk9lQllwWjNhWDM3SXAwb3VQQkZlZHMyR1F1OVAwWHVYNWx4RC16OEdadUFoaG5XRlRjMktaTGlFYkJyR0hyUlJpLXg1MlNvTGVObm8yTWV3dHdNaVh1dUM2VmVlM3liVHZaU0lJ0gGXAUFVX3lxTFBuLV9waGRUbGxPRGdteXlDYzBNb09KSjNab3pTeExzbzQ3SmxINmZjaDRWT2VCWXBaM2FYMzdJcDBvdVBCRmVkczJHUXU5UDBYdVg1bHhELXo4R1p1QWhobldGVGMyS1pMaUViQnJHSHJSUmkteDUyU29MZU5ubzJNZXd0d01pWHV1QzZWZWUzeWJUdlpTSUk?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "How Instawork is using workers in India to train robots and build its physical AI business - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3JkNFVBR0x1VVh6bG5fUlBrU0FGUlVOM3NBc0NocDY4N1dlSUwwQXFHY1JpY3Q1OG5mWk1XcVlxZlNnYUphTExsZkhJd2RESFRpMWVWeWxvYkZoYW1qQ25vbmJRYU5FQV9uRWJWWVdkTGdiNE5qZzRvLVhyQ1ZqZ3RUSUh5a25ZWUwtMUVxemt6aEkwc0dxT1RBZzNxY29TOUlXaXVLbmVEc0J5cDgtSzJn0gG3AUFVX3lxTFBwSm1ickUwaU01THpqWUZGNGo3VWtHNlNra3ZtVm5Zcl9OWkhkZGw5N0FPSUloSTYtYnpTb1Z6cmN0VWpWa0tFUE12WlFVT2ItaGYwdUtSa3piYjRQMkl4LTNXWDQtYmx5eG4wS2ZwRktKWkc3WUJpbEVCSi0zLVY0VDdXeXhtYklxMmJDOWZLcDJ4UDZiTTBwaTU1aFRxQzZxekxHeXU2MnhBWlgwU0tUVENqbWRodw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Instawork Robotics Lab Debuts Instacore - a Wearable System Built to Scale Real-World Robot Training Data - Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb1BHd19zMnl4ZTAydDJ4dUxyaU9KaVBFenVVV1Z1cnFPOWxtcm56VFBZUlpLaHZhbDBSNVZFRzFiZTZQcWNxaTA1RTl4Vzl3R29ISDJUN2lzSE1fX3FuaEZndHgxRjI3Mi15d191YjdhY3lwNzI3LXg4cUlMNlM2Z3BUOW00M0tOY1B0OWZjUkRkNUJGc1BSQVozX0xOR0VyWWl4N1MtX0k?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Cal­i­fornia-based company, Instawork paying employees to help train humanoid robots - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXYweW03MTNkOGpVZkw4eVhuNnQwenBnWlRrdWd3ZVM0SER3U252X1BuZnE0MzQwdEZOZW03UnZGYnIzYnJmaDlnYTVURk9TVXRXX2xxZzJpSUNhMTRJSVZpWTlpTmsyVUNtMlVDZEtJYVAyUTZzMDlVMWdtZ0dBWlhwN0ZGNTVzaElIRlFNQXk4akJ1WE5RSVpER2dMVTA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Here's why old-school San Jose barber Taiyadi 'Magic' Day is now teaching robots to cut hair with AI by Instawork Robotics - ABC7 Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd0ItTmV5ZmMzXzctQ3Uxd25rR0g3empBU3pqaVdpWkVRdEd5VjZWczgzNXA4endFQk5QcHNUMS1hTnZXVGQ3RTA5cHVtWEViYTFYM2laMmNQdkdvaExqUk40em1ZSDNtRW9VMWN5OC01TnZPakFXb2l2d3pnMTZxeVQ5c19vSzFwcHJkOEQ4X2oxNFFPSmQ0M25UWElzY3RVamlHcUxrcDJYZHlnM3JOVVpObGdWdzlmeWc2V2VZMGFKaWhDRmtWNXVyQXBqMk1sOW9MdWdfZ9IB3AFBVV95cUxNZUltYTZtbnI5S2EyUE1Xdm43UjY4MllsNlFxVGluYVVycEs1R05ObEI4R243SWZRdUZKSVpfTVNWQmNrOXhnTk90NjVLZ3NFd21CaEN1a3I1RTdfeWs1T1NpZmNqdC0tX3JfeEhBX0xYSGhpb3pNR2pjd09rVmVidERpZmlBbTYtQmdZTXR4cHNsRkFVWVJyTXVSanpoRE5XMTNQMm5URUQ5UGM5d3J6SkdTLXNtaThVcThqVmI1bHRMOWhFblk5NW1XUGVhTXA3cnc0S1JUUDB3bFQy?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -168060,14 +168101,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:45:38+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 64: rejected (score 64 is under 65)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:45:38+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "score 64 is under 65"
   },
   {
    "id": "L1411",

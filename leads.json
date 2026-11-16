@@ -160900,7 +160900,7 @@
    "key": "origin|founder s office manufacturing associate|bengaluru",
    "type": "job",
    "company": "Origin",
-   "company_domain": "",
+   "company_domain": "origin.tech",
    "company_url": "https://origin.tech",
    "company_linkedin": "",
    "company_note": "A robotics company building general-purpose autonomous robots for US construction.",
@@ -160939,8 +160939,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 74,
+    "total": 74,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -160949,15 +160949,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office (manufacturing) at Origin, $20M Accel-led construction-robot maker; asks 2-4 yrs and an EEE B.Tech; your S&OP, MRP and cell-yield work maps directly.",
+    "fit_notes": "Workable posting opened 2026-11-16 (datePosted 2026-11-05, apply live, Bengaluru, full-time). Needs: rolling 8-week build plan from the deployment pipeline (= sop: 3-month rolling S&OP plans over Rs 200 Cr), cost-per-robot model and cost-down (= sop/mrp working-capital and inventory cuts), yield and rework tracking with field-to-design feedback (= cell: Bharat Cell yield 42% to 67%), make-vs-buy and capacity planning, board updates (= ceo-coo). Requires B.E./B.Tech in Electrical & Electronics among others: Shlok's IITG EEE degree matches. Preferred ERP tools: SAP MRP (mrp). Gaps: asks '2-4 years in manufacturing, production planning, NPI or operations'; Shlok has 1.3 yrs (all of it production planning at Ola), so under the minimum. No hands-on drawing/BOM tolerance work evidenced in profile; no US export experience. Application asks for one example of a process/build/cost problem fixed with the number: cell yield or MSL fits.",
+    "pay_notes": "No compensation on the posting. No AmbitionBox/Glassdoor data found for Origin or 10xConstruction (company founded 2025). Fresh $20M round and US HQ make a competitive offer plausible but this is not evidence.",
+    "culture_notes": "Origin (Artila Robotics Inc., formerly 10xConstruction), founded early 2025, US HQ (SF/Brooklyn) with Bengaluru engineering. Emerged from stealth with $20M co-led by Accel and Zacua Ventures (Inc42, 16 Oct 2026); Unilazer, Schema, Z21 and angels from Anduril, Skild AI, 1X, Tesla. Founders: Yogesh Ghaturle (CEO, previously Perpule, acquired by Amazon), Ashish Daga (leads hardware, ex-Morphle Labs), Tushar Makkar (ex-Eightfold AI AI lead). Target 150 robots deployed by end-2027. No employee reviews found.",
+    "hook": "Origin came out of stealth in October with $20M led by Accel and Zacua and a goal of 150 robots on sites by end-2027: the build plan and cost-per-robot this role owns are what that target rests on.",
+    "hook_source": "https://inc42.com/buzz/origin-bags-20-mn-to-build-autonomous-construction-robots/",
+    "researched_at": "2026-11-16T09:51:04+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -160981,9 +160983,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 73"
+    },
+    {
+     "at": "2026-11-16T09:51:04+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 74: qualified"
     }
    ],
-   "updated_at": "2026-11-15T01:20:54+05:30",
+   "updated_at": "2026-11-16T09:51:04+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:53:28+05:30",
     "why": "the posting page has no readable description",
@@ -160993,7 +161001,8 @@
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1361",

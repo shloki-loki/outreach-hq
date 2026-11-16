@@ -24232,8 +24232,8 @@
    "key": "galaxeye|associate founder s office|bengaluru",
    "type": "job",
    "company": "GalaxEye",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "galaxeye.space",
+   "company_url": "https://www.galaxeye.space",
    "company_linkedin": "",
    "company_note": "",
    "title": "Associate - Founder's Office",
@@ -24271,8 +24271,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 18,
+    "total": 40,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -24281,15 +24281,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "GalaxEye founder's office associate is a fundraising/compliance role asking 2-6 yrs in IB, consulting or founder's office; mirror listing closed.",
+    "fit_notes": "Instahyre page returns 403 (known issue). The Space Capital job-board copy of 'Founders Office - Associate' at GalaxEye says 'no longer accepting applications', posted 6+ months ago: '2-6 years of experience in Founder's Office, Strategy, Investment Banking, Consulting', commerce/economics degree, MBA/CA/CS/CFA/LLB preferred; work is investor relations, data rooms, compliance trackers, audits, reports to CoS. Shlok's facts are operations/supply chain, not finance/compliance. The Instahyre listing (job-455009) may be a newer repost; could not confirm.",
+    "pay_notes": "Not listed.",
+    "culture_notes": "GalaxEye Space: Bengaluru SAR/optical satellite startup.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T09:55:15+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -24319,9 +24321,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"This job is no longer accepting\""
+    },
+    {
+     "at": "2026-11-16T09:55:15+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 40: rejected (Instahyre posting unopenable (403); the same role elsewhere is closed and asks 2-6 yrs in founder's office/IB/consulting with a commerce/finance profile focused on fundraising and compliance)"
     }
    ],
-   "updated_at": "2026-11-15T11:56:01+05:30",
+   "updated_at": "2026-11-16T09:55:15+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "closed",
@@ -24336,7 +24344,8 @@
     "at": "2026-11-15T11:56:01+05:30",
     "reason": "the posting says \"This job is no longer accepting\"",
     "by": "live-check"
-   }
+   },
+   "reject_reason": "Instahyre posting unopenable (403); the same role elsewhere is closed and asks 2-6 yrs in founder's office/IB/consulting with a commerce/finance profile focused on fundraising and compliance"
   },
   {
    "id": "L0209",

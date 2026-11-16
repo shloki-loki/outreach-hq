@@ -161128,7 +161128,7 @@
    "key": "aspora|founder s office|bengaluru",
    "type": "job",
    "company": "Aspora",
-   "company_domain": "",
+   "company_domain": "aspora.com",
    "company_url": "https://aspora.com",
    "company_linkedin": "",
    "company_note": "A fintech startup building a borderless financial operating system for people on the move.",
@@ -161167,8 +161167,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 30,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -161177,15 +161177,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office to Aspora's CEO (Sequoia/Greylock-backed, 150+ people), but asks 7+ yrs incl. consulting/IB/PE; you have 1.3.",
+    "fit_notes": "Opened via Ashby posting API 2026-11-16: listed, published 2026-10-31, Bangalore or Dubai. Works with Founder & CEO on cross-functional projects, org design/OKRs, analytics, fundraising support. Requires 'Bachelor's degree ... along with 7+ years of experience across top-tier management consulting, investment banking, private equity, venture capital or operator role'. Far above stretch limit of 4 yrs.",
+    "pay_notes": "No compensation on the Ashby posting.",
+    "culture_notes": "Aspora: remittance/banking for diaspora, backed by Sequoia, Greylock, Hummingbird, YC, GFC; 150+ team (posting).",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T09:54:13+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -161209,9 +161211,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 73"
+    },
+    {
+     "at": "2026-11-16T09:54:13+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 47: rejected (Asks 7+ yrs across consulting/IB/PE/VC or high-growth operator roles)"
     }
    ],
-   "updated_at": "2026-11-15T01:20:54+05:30",
+   "updated_at": "2026-11-16T09:54:13+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:53:41+05:30",
     "why": "the posting page has no readable description",
@@ -161221,7 +161229,8 @@
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Asks 7+ yrs across consulting/IB/PE/VC or high-growth operator roles"
   },
   {
    "id": "L1363",

@@ -180165,7 +180165,7 @@
    "posted_at": "2026-11-16",
    "first_seen": "2026-11-16",
    "last_seen": "2026-11-16",
-   "open": true,
+   "open": false,
    "jd": "Job Description – Strategy PMO \n Location: Bangalore\n Experience: 8-10 Years\n About the Role \n We are seeking a dynamic, analytical, and results-oriented PMO– Strategy to partner closely with the leadership team in driving strategic business priorities and key organizational initiatives.\n The role will be responsible for translating business strategy into actionable execution plans, managing cross-functional programs, driving operational excellence, and ensuring alignment across business functions. The ideal candidate will bring a combination of strategic thinking, structured problem-solving, strong stakeholder management, and execution capabilities, preferably with prior experience in strategy consulting.\n This is a high-impact role offering significant exposure to senior leadership, business strategy, and organizational decision-making.\n Key Responsibilities \n Strategic PMO : Drive critical business initiatives and strategic programs end to end, from conceptualization and planning to execution, monitoring, and delivery of measurable outcomes.\n Leadership Enablement: Partner with senior leadership to prioritize business objectives, track strategic decisions, coordinate key initiatives, and ensure timely execution of action items.\n Business Analysis & Problem Solving: Analyze complex business challenges, develop structured problem statements, conduct root-cause analysis, and translate insights into actionable recommendations.\n Business Operations & Governance: Establish and manage operating rhythms, business reviews, leadership meetings, performance tracking mechanisms, and strategic KPI dashboards.\n Executive Communication: Develop high-quality presentations, management reports, and strategic business updates for leadership reviews, board meetings, investor interactions, and internal forums.\n Cross-functional Stakeholder Management: Collaborate with Product, Operations, Supply Chain, Marketing, Finance, and HR teams to drive alignment, resolve dependencies, and ensure effective execution of strategic priorities.\n Performance Monitoring: Track program milestones, business metrics, and key performance indicators, proactively identifying risks, gaps, and opportunities for improvement.\n Process Excellence: Identify operational inefficiencies, recommend process improvements, and drive initiatives to enhance business productivity and organizational effectiveness.\n Special Strategic Projects: Lead high-priority assignments involving market research, business planning, competitive analysis, growth opportunities, and new business initiatives.\n Desired Skills & Experience \n 8-10 years of overall professional experience, including 2–3 years of experience in Strategy Consulting (MBB, Big 4 Strategy Practices, or reputed boutique consulting firms) or equivalent Strategy / Business Operations roles.\n Prior experience in the CPG/Retail/FMCG industry is strongly preferred, either through direct industry exposure or consulting engagements.\n Good understanding o…",
    "exp_min": 2.0,
    "exp_max": 3.0,
@@ -180224,9 +180224,20 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-17T00:15:04+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-16T14:12:14+05:30"
+   "updated_at": "2026-11-17T00:15:04+05:30",
+   "bin": {
+    "at": "2026-11-17T00:15:04+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L1537",

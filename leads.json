@@ -167588,15 +167588,15 @@
    "key": "uber|sr product operations|bengaluru",
    "type": "job",
    "company": "Uber",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "uber.com",
+   "company_url": "https://www.uber.com",
    "company_linkedin": "https://www.linkedin.com/company/uber-com",
    "company_note": "",
    "title": "Sr Product Operations",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4489457695",
    "source_url": "https://in.linkedin.com/jobs/view/sr-product-operations-at-uber-4489457695",
@@ -167612,7 +167612,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "About The Role And Team\n Working as a Senior Product Operations Manager means solving hard problems in a high-stakes, fast-moving environment where you serve as the hub bridging product, engineering, and business teams. You will lead the development and rollout of products that drive results on our highest-priority growth and efficiency levers, ensuring we build the right platform solutions to support global scale. This is not a role for those seeking a predictable routine; it is for those who find purpose in the messiness of scaling a global business and can maintain a high talent bar for excellence.\nThis role requires a unique combination of grit and intellectual curiosity to turn complexity into clarity at speed. You will navigate competing priorities and lead through influence rather than control, often making critical decisions with imperfect information. If you are energized by the challenge of building globally scalable processes within a complex organization and move with urgency to solve what's hard, this is where you'll grow. We are looking for individuals who take deep ownership of their work and are ready to go boldly together to move the real world.\n What You’ll Do\n Define and design go-to-market plans, tools, and operating models to operationalize product strategy across highly-effective teams.\n Lead a community of strategic leaders to encourage meaningful impact while ensuring functional partners are aligned on key objectives.\n Design and implement end-to-end product rollout and testing plans, project-managing implementation across global markets.\n Surface and advocate for key business insights and \"voice of the customer\" to advise product teams on improvements and global feasibility.\n Collaborate cross-functionally with partners in legal, tax, engineering, and support to prepare products for launch and drive maximum impact.\n Track core business metrics and identify critical problem areas post-launch to ensure continuous improvement and product excellence.\n Basic Qualifications\n Minimum (8+ years in non-Masters, and 6+ if masters/MBA) of experience in operations, business consulting, finance, or a similar analytical role.\n Experience with large-scale, global project management and leading cross-functional stakeholder teams.\n Proficiency in leveraging data and SQL to inform and support critical business decisions.\n Proven track record of fostering collaboration and facilitating teamwork in high-paced environments.\n Bachelor’s degree or equivalent professional experience.\n Preferred Qualifications\n Prior experience working on global projects or in an international tech/product setting.\n Strategic problem-solving skills with a focus on systems thinking and long-term scalability.\n Ability to build a business case for new products or platforms within identity, risk, or FinTech spaces.\n High level of adaptability with a \"driver\" mindset focused on pulling teams toward clarity and delivery.\n Ready to Ride?\n This isn't the kind of place wh",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -167627,8 +167627,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -167640,15 +167640,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sr Product Operations at Uber in Bengaluru; asks 8+ yrs experience, far exceeding your 1.3 yrs limit.",
+    "fit_notes": "The posting explicitly lists basic qualifications of 'Minimum (8+ years in non-Masters, and 6+ if masters/MBA) of experience in operations, business consulting, finance, or a similar analytical role.' While Shlok's cross-functional operational work with executives [ceo-coo] and inventory planning [sop] aligns with product ops, the role is far too senior for his 1.3 years of experience.",
+    "pay_notes": "No compensation figures were stated in the job posting or provided in company evidence.",
+    "culture_notes": "Culture flags include a report of 3,300 corporate job cuts in September 2026 [S4] and COO questioning early 2026 AI budget spend [S6].",
+    "hook": "Uber recently rolled out ChatGPT Work to all employees globally in partnership with OpenAI.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5",
+    "researched_at": "2026-11-17T00:41:39+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Running a Software Factory Efficiently at Uber Scale - Uber",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54RFVoM29VdUhHV0NfamFPX0I0QmNuSG9HUE9PTXAzZGJRRTVPeDdtMllWUXBkSUt1cFFQRmZ6RktmTkRFVFd4Y2dkdEF6bUNsRURvclRuMEZZc0hEUGcxdXB3UEpsZ0J4bERz?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Uber Says Personal Data Was Exposed in Third-Party Data Breach - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWhDcExobzZzQjdnNVdQVHdDeklvbFlaY3Y1d1EzLVFvX3FaVVlaQXk0ZmhNYXVUYUtGNTB6ZXRiVnAzcnpTUDdDckhCOTduZ2xKZm04cVhHOHRXNTFqTzZvMW5jUllIbU5uM2hSN0hscHh6QnowN1NGX1J0d2M2ZTZkT3ZiVjdiTV9lLWV5YVk0TGtxdHM0bEc1WEI?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Uber to cut 3,300 corporate jobs in management overhaul - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3ZtbUlneW5fUEJTZWtoUXE0TmVfOExkdEw4N3BHYlZTWTVweHN3TmNxbHppTmprNld5T0ZGQTAtZEphQks4ejRRWXZxVkc3dFh6WVhxRFpINm15QUlCZEtaSWJWVkxjWWdGX3FWT080U01KdER1SEhBaEFTeHhvdFZaQXRRNDRJUWRRbU11akJib2hiOTU1dGw4bXk3RXJ6aUpkWm1SSTc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Uber, Zipline partner on US drone delivery for Uber Eats - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGIxTkgzWjVwcGR3eUpmWi1fbjQ5TXo1ZWZzOVExUGJxdTJ5XzVZOXVTRmNXeFRLTXplV0JFcFFhUEhrblNPaTcwMGpxZ0hNWHR0OHp4dERKVUVnVFh3c1BNU3R4bFozMkVtUlBScmJkNVlxXzg1QWpWb1BCZEVVbktZOS0yZHRJeU5MUUhQS1Q3RE1jS3lOa3RrcUJlN3BVbVpsZnB0LW5iLTlNcUlyWHRHdDc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Uber burned through its entire 2026 AI budget in four months. Now its COO is questioning whether it's worth it - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yeXo0WE4zM3ZWcXBrb0tISE5Wa1ZBQlRGdHlPcjlfZEVWeC03QVJWaVBMS01USWQxZTAwZ1BxRWZhdkw1N3ZjUE9NRjZvVWF3T3BwdUxFb0VlRVJnQUJHalFkOC1FbGhFNm5Xd0xibWlQa2tRSEFmUkFfVQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -167672,14 +167713,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T00:41:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (Requires a minimum of 8+ years of experience (6+ with a Master's/MBA), far exceeding Shlok's 1.3 years of experience (hard cap for roles is 4 years).)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T00:41:39+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Requires a minimum of 8+ years of experience (6+ with a Master's/MBA), far exceeding Shlok's 1.3 years of experience (hard cap for roles is 4 years)."
   },
   {
    "id": "L1408",

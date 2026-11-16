@@ -10,7 +10,8 @@ Work in `~/Claude/Projects/outreach-hq` (or your checkout). All data goes throug
 
 1. `python3 -m outreach work next --owner <me>` claims your next item (it prints `{}` when none are left:
    stop). Note `id` (W....) and `lead_id` (L....).
-2. `python3 -m outreach lead show <lead_id>`: company, contacts (pick the CEO or founder; `C1`, `C2`...).
+2. `python3 -m outreach lead show <lead_id>`: company and contacts. Write to the item's `contact_id` (the batch
+   already skipped do-not-email and recently emailed addresses and picked the CEO or founder first).
 3. **Research one hook (5 minutes at most).** Search the web for the company's news in the last 12 months:
    a launch, a funding round, a new market, a milestone, a hire, results. Open the page and read it. You
    need one specific, true fact and its URL. Also confirm the company still operates and fits Shlok:

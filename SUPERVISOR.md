@@ -56,11 +56,17 @@ and queued for his approval. Nothing is sent until he approves it on the site; t
 
 | Time (IST) | Who | What |
 |---|---|---|
-| 10:00 | Claude (scheduled) | `work founder-batch` queues today's 60 for codex; `work batch-status` |
+| 09:00, 11:15 | GitHub (`founder-batch.yml`, no model) | `work founder-batch` queues today's 60 for codex (the second run only tops up); `work batch-status` |
 | 12:15 | Codex/GPT (scheduled) | works the queue with `config/prompts/founder-email-worker.md` |
-| 16:00 | Claude (scheduled) | `work handover --owner claude --from-owner codex --detail "..."` for anything codex has not started, then works it with the same prompt |
+| 16:15 | Claude (Mac scheduled task `outreach-founder-emails`) | `work handover --owner claude --from-owner codex --detail "..."` for anything codex has not started, then works it with the same prompt |
 | later | Grok | when Shlok adds it: third in `routing.toml [fallback]`; same prompt, `--owner grok` |
 | 18:00+ | supervisor report | alerts if the day's batch is not done |
+
+Who gets each email: the batch picks one contact per company with a trusted address that is not on the
+do-not-email list and was not cold-emailed in the last `one_email_per_person_days`; the CEO among the
+founders first, then another founder, then a function head (never a recruiter). It is stored on the item as
+`contact_id`. Batch membership is the item's `batch` field, so a reassignment cannot drop it.
+`work batch-status` reports drafted, rejected and open separately.
 
 Commands: `work founder-batch [--count N] [--owner X]`, `work next --owner X`, `work handover --owner X
 [--from-owner Y] --detail "reason"`, `work batch-status`. Handover never takes an active claim.

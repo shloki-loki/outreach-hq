@@ -1,4 +1,5 @@
 """Shared, model-independent coordination. No model calls or sending side effects."""
+import re
 from datetime import timedelta
 from . import store
 from .util import load_config, now, now_iso, parse_iso
@@ -26,6 +27,40 @@ def _today():
 
 def _tag(day):
     return f'founder-batch {day}'
+
+
+def in_batch(item, day):
+    """Batch membership lives in its own field, so a reassignment that rewrites `detail` cannot drop it.
+    Items made before the field existed are matched on their detail prefix."""
+    tag = _tag(day)
+    return item.get('batch') == tag or (not item.get('batch') and item.get('detail', '').startswith(tag))
+
+
+TRUSTED = ('verified', 'published', 'pattern')
+# Who a founder email goes to: a founder, or the head of a function he could help (codex review J0166).
+HEAD = re.compile(r'\b(founder|ceo|coo|cbo|chief|president|managing director|head|vp|vice president|director|gm|general manager)\b', re.I)
+
+
+def pick_contact(lead, messages, suppression, days):
+    """The best contact to write to, or None: trusted address, not on the do-not-email list, not cold-emailed
+    inside `days` (any lead), and a founder or function head. The CEO among founders first, then founders."""
+    recent = set()
+    for m in messages:
+        when = parse_iso(m.get('sent_at') or m.get('created_at'))
+        if m.get('to') and m.get('kind') == 'cold' and m.get('status') in ('sent', 'replied', 'sending', 'approved', 'draft') \
+                and when and (now() - when).days < days:
+            recent.add(m['to'].lower())
+    fit = []
+    for c in lead.get('contacts', []):
+        email = (c.get('email') or '').lower()
+        if not email or c.get('email_status') not in TRUSTED or email in suppression or email in recent:
+            continue
+        founder = c.get('role_type') == 'founder'
+        if not founder and (c.get('role_type') == 'recruiter' or not HEAD.search(c.get('title') or '')):
+            continue
+        ceo = bool(re.search(r'\b(ceo|chief executive|managing director)\b', c.get('title') or '', re.I))
+        fit.append(((0 if ceo else 1) if founder else 2, c.get('id', ''), c))
+    return min(fit, key=lambda t: t[:2])[2] if fit else None
 
 
 def queue(action, *, ident=None, kind=None, lead=None, owner=None, title='', detail='', ref=''):
@@ -99,20 +134,28 @@ def founder_batch(count=None, owner=None):
         created.clear()
         work = store.load('work')
         leads = store.load('leads')['leads']
-        messaged = {m['lead_id'] for m in store.load('messages')['messages']}
+        messages = store.load('messages')['messages']
+        suppression = {e.lower() for e in store.load('suppression')['emails']}
+        days = int(load_config('settings').get('sending', {}).get('one_email_per_person_days', 60))
+        messaged = {m['lead_id'] for m in messages}
         worked = {x.get('lead_id') for x in work['items'] if x['kind'] == 'draft'}
-        today = [x for x in work['items'] if x.get('detail', '').startswith(_tag(day))]
+        today = [x for x in work['items'] if in_batch(x, day)]
         room = max(0, count - len(today))
-        pool = [l for l in leads if l.get('source') == 'founder_reoutreach' and l.get('type') == 'company'
-                and l.get('open', True) is not False and l.get('stage') not in ('rejected', 'skipped')
-                and l['id'] not in messaged and l['id'] not in worked
-                and any(c.get('email') and c.get('email_status') in ('verified', 'published', 'pattern')
-                        for c in l.get('contacts', []))]
-        pool.sort(key=lambda l: (-((l.get('score') or {}).get('total') or 0), l['id']))
-        for lead in pool[:room]:
+        pool = []
+        for l in leads:
+            if l.get('source') != 'founder_reoutreach' or l.get('type') != 'company' or l.get('open', True) is False \
+                    or l.get('stage') in ('rejected', 'skipped') or l['id'] in messaged or l['id'] in worked:
+                continue
+            contact = pick_contact(l, messages, suppression, days)
+            if contact:
+                pool.append((l, contact))
+        pool.sort(key=lambda t: (-((t[0].get('score') or {}).get('total') or 0), t[0]['id']))
+        for lead, contact in pool[:room]:
             item = dict(id=store.next_id(work['items'], 'W'), kind='draft', lead_id=lead['id'], owner=owner,
-                        title=f"Founder email: {lead.get('company')}",
-                        detail=f"{_tag(day)}: research one sourced hook, write a v3 offer email, queue it with message draft",
+                        title=f"Founder email: {lead.get('company')} ({contact.get('name') or contact['id']})",
+                        detail=f"{_tag(day)}: write to {contact['id']} {contact.get('name', '')}; research one sourced hook, "
+                               f"write a v3 offer email, queue it with message draft",
+                        batch=_tag(day), contact_id=contact['id'],
                         status='queued', created_at=now_iso(), lease_until=None, result='', ref='')
             work['items'].append(item)
             created.append(item['id'])
@@ -169,13 +212,26 @@ def claim_next(owner, kind='draft'):
 
 def batch_status(day=None):
     day = day or _today()
-    items = [x for x in queue('list') if x.get('detail', '').startswith(_tag(day))]
+    items = [x for x in queue('list') if in_batch(x, day)]
     by = {}
     for x in items:
         key = f"{x['owner']}/{x['status']}"
         by[key] = by.get(key, 0) + 1
-    return dict(day=day, target=batch_config()['per_day'], created=len(items),
-                done=sum(x['status'] == 'done' for x in items), by_owner_status=by)
+    outcome = {k: sum(_outcome(x) == k for x in items) for k in ('drafted', 'rejected', 'other')}
+    return dict(day=day, target=batch_config()['per_day'], created=len(items), done=sum(x['status'] == 'done' for x in items),
+                drafted=outcome['drafted'], rejected=outcome['rejected'], done_other=outcome['other'],
+                open=sum(x['status'] != 'done' for x in items), by_owner_status=by)
+
+
+def _outcome(item):
+    """A finished batch item is a draft (its ref is the message id), a rejected company, or something else."""
+    if item['status'] != 'done':
+        return 'open'
+    if re.fullmatch(r'M\d+', (item.get('ref') or '').strip()):
+        return 'drafted'
+    if (item.get('result') or '').strip().lower().startswith('rejected'):
+        return 'rejected'
+    return 'other'
 
 
 def packet(lead_id):
@@ -223,10 +279,13 @@ def report(record=False):
             if item['status'] == 'working' and until and until <= now():
                 alerts.append(f"{item['id']}: claim expired; inspect partial work before reclaiming")
         day = _today()
-        batch = [x for x in work if x.get('detail', '').startswith(_tag(day))]
-        if now().hour >= 18 and batch_config()['per_day'] and sum(x['status'] == 'done' for x in batch) < batch_config()['per_day']:
+        batch = [x for x in work if in_batch(x, day)]
+        target = batch_config()['per_day']
+        if now().hour >= 18 and target and (not batch or any(x['status'] != 'done' for x in batch)):
             left = [x for x in batch if x['status'] != 'done']
-            alerts.append(f"founder batch {day}: {sum(x['status'] == 'done' for x in batch)} of {batch_config()['per_day']} done, "
+            drafted = sum(_outcome(x) == 'drafted' for x in batch)
+            rejected = sum(_outcome(x) == 'rejected' for x in batch)
+            alerts.append(f"founder batch {day}: {len(batch)} of {target} queued, {drafted} drafted, {rejected} rejected, "
                           f"{len(left)} still open (owners: {', '.join(sorted({x['owner'] for x in left})) or 'none queued'})")
         result = dict(owners=routing(), alerts=alerts, open_issues=issues,
                       work=[x for x in work if x['status'] != 'done'],

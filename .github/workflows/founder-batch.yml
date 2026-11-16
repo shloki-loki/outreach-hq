@@ -1,0 +1,35 @@
+name: Founder batch (queue today's 60)
+# Creates today's founder-email work items in the shared queue (no model, no sending).
+# Codex works them from 12:15 IST; Claude takes over what is left at 16:15 IST (SUPERVISOR.md).
+# Two slots because GitHub schedules run late or get dropped (issue I0005); the second run only tops up.
+on:
+  schedule:
+    - cron: '30 3 * * *'   # 09:00 IST
+    - cron: '45 5 * * *'   # 11:15 IST, top-up if the first was dropped
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'How many for today (default: routing.toml per_day)'
+        required: false
+permissions:
+  contents: write
+concurrency:
+  group: founder-batch
+  cancel-in-progress: false
+jobs:
+  queue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Queue today's founder emails
+        run: python -m outreach work founder-batch ${{ inputs.count && format('--count {0}', inputs.count) || '' }}
+      - name: Status
+        run: python -m outreach work batch-status

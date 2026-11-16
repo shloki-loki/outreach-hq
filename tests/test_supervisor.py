@@ -60,7 +60,7 @@ class FounderBatchTests(unittest.TestCase):
         def lead(i, **kw):
             base = dict(id=f'L{i:04d}', company=f'Co{i}', source='founder_reoutreach', type='company', stage='new',
                         open=True, score={'total': 45 + i},
-                        contacts=[dict(id='C1', name='A B', email=f'a@co{i}.com', email_status='verified')])
+                        contacts=[dict(id='C1', name='A B', title='Co-Founder & CEO', role_type='founder', email=f'a@co{i}.com', email_status='verified')])
             base.update(kw); return base
         leads = [lead(i) for i in range(1, 8)]
         leads.append(lead(8, stage='rejected'))
@@ -97,3 +97,36 @@ class FounderBatchTests(unittest.TestCase):
         self.assertEqual(supervisor.claim_next('grok'), {})
         supervisor.handover('grok', None, 'Claude busy')
         self.assertTrue(any(x['owner'] == 'grok' for x in supervisor.queue('list')))
+
+    def test_batch_skips_do_not_email_recent_sends_and_non_heads(self):
+        def lead(i, contacts):
+            return dict(id=f'L{i:04d}', company=f'Co{i}', source='founder_reoutreach', type='company', stage='new',
+                        open=True, score={'total': 90 - i}, contacts=contacts)
+        def person(cid, email, role='founder', title='Founder'):
+            return dict(id=cid, name=f'P {cid}', title=title, role_type=role, email=email, email_status='verified')
+        store.save('leads', {'leads': [
+            lead(20, [person('C1', 'gone@x20.com')]),                                   # on the do-not-email list
+            lead(21, [person('C1', 'sent@x21.com')]),                                   # cold-emailed last week (other lead)
+            lead(22, [person('C1', 'hr@x22.com', 'recruiter', 'Talent Partner')]),      # recruiter only
+            lead(23, [person('C1', 'pm@x23.com', 'employee', 'Product Analyst')]),      # not a function head
+            lead(24, [person('C1', 'gone@x24.com'), person('C2', 'ops@x24.com', 'employee', 'Head of Operations')]),
+            lead(25, [person('C1', 'vp@x25.com', 'employee', 'VP Strategy'), person('C2', 'f@x25.com')]),
+            lead(26, [person('C1', 'cto@x26.com', title='Co-Founder & CTO'), person('C2', 'ceo@x26.com', title='Co-Founder & CEO')]),
+        ]})
+        store.save('suppression', {'emails': {'gone@x20.com': {'reason': 'already emailed'},
+                                              'gone@x24.com': {'reason': 'already emailed'}}})
+        store.save('messages', {'messages': [{'id': 'M0009', 'lead_id': 'L0999', 'to': 'sent@x21.com', 'kind': 'cold',
+                                              'status': 'sent', 'sent_at': (now() - timedelta(days=7)).isoformat()}]})
+        supervisor.founder_batch(count=10, owner='codex')
+        picked = {x['lead_id']: x['contact_id'] for x in supervisor.queue('list')}
+        self.assertEqual(picked, {'L0024': 'C2', 'L0025': 'C2', 'L0026': 'C2'})   # head when founder excluded; founder first; CEO first
+
+    def test_batch_identity_survives_reassignment_and_status_splits_outcomes(self):
+        supervisor.founder_batch(count=3, owner='codex')
+        a, b, c = supervisor.queue('list')
+        supervisor.queue('assign', ident=c['id'], owner='claude', detail='rewritten detail with no batch tag')
+        for item, detail, ref in ((a, 'drafted M0042 to A B', 'M0042'), (b, 'rejected: shut down in 2025', b['lead_id'])):
+            supervisor.queue('claim', ident=item['id'], owner='codex')
+            supervisor.queue('done', ident=item['id'], owner='codex', detail=detail, ref=ref)
+        status = supervisor.batch_status()
+        self.assertEqual((status['created'], status['drafted'], status['rejected'], status['open']), (3, 1, 1, 1))

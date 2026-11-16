@@ -165156,7 +165156,7 @@
    "key": "thrillophiliacom|category manager|bengaluru",
    "type": "job",
    "company": "Thrillophilia.com",
-   "company_domain": "",
+   "company_domain": "thrillophilia.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/thrillophilia-travel",
    "company_note": "",
@@ -165164,7 +165164,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore Urban, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489305703",
    "source_url": "https://in.linkedin.com/jobs/view/category-manager-at-thrillophilia-com-4489305703",
@@ -165180,7 +165180,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Category Manager – Travel Business \n Employment Type: Full-time\n Experience: 6–12 years\n About Thrillophilia \n Thrillophilia is one of India’s leading experiential travel platforms, helping millions of travellers discover and book curated holidays and experiences across India and international destinations.\n We are building destination-led travel businesses where each category is managed with clear ownership across product, pricing, suppliers, marketing, sales, customer experience, revenue, and profitability.\n About the Role \n We are looking for a Category Manager who can take complete ownership of a destination or travel category and build it like an independent business.\n This is not a procurement-only or operations-only role.\n You will be responsible for identifying market opportunities, creating differentiated products, building the right supplier ecosystem, improving pricing and margins, enabling sales, working with marketing, and driving customer satisfaction.\n A strong Category Manager should be able to say:\n “This destination is my business. Revenue, margins, product quality, suppliers, conversion, customer experience, and growth are all my responsibility.” \n What You Will Own \n Category Strategy \n Build the growth strategy for an assigned destination or travel category.\n Identify demand opportunities based on seasonality, customer trends, visa changes, airline connectivity, search demand, and competitor activity.\n Define the right customer segments, product mix, pricing strategy, and growth priorities.\n Create quarterly and annual plans for revenue, margins, and market share.\n Product Development \n Build differentiated itineraries and travel products based on customer demand.\n Continuously improve existing packages based on conversion, customer feedback, and market trends.\n Create clear product USPs that make the category easier to sell and harder to replicate.\n Ensure the product portfolio serves different customer segments, budgets, and travel styles.\n Supplier and Commercial Management \n Identify, onboard, and manage high-quality suppliers, hotels, DMCs, transport partners, and experience providers.\n Negotiate competitive rates, payment terms, service standards, and commercial agreements.\n Build alternate supplier options to reduce dependency and operational risk.\n Improve contribution margins without compromising customer experience.\n Revenue and Profitability \n Own category-level revenue, gross margins, conversion, and profitability.\n Monitor demand, pricing, sales performance, cancellations, refunds, and operational costs.\n Take corrective action when performance drops.\n Build plans to scale successful products and discontinue weak ones.\n Sales Enablement \n Work closely with the sales team to improve product understanding and conversion.\n Create destination training, sales playbooks, objection-handling guides, and product comparison tools.\n Analyse sales calls and customer objections to improve products and communication.\n Ensure t",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -165195,8 +165195,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 38,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -165206,15 +165206,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Category Manager at Thrillophilia, asks 6-12 yrs of experience; your 1.3 years fall far short of the requirement.",
+    "fit_notes": "The posting asks for \"6–12 years of experience in category management, business ownership, travel product management, P&L management, or a related role.\" Shlok has about 1.3 years of experience. While he has inventory and P&L-adjacent operations experience like [sop] and [ceo-coo], the experience gap is too large.",
+    "pay_notes": "Pay not stated in the posting; no evidence available.",
+    "culture_notes": "No specific review counts, ratings, or culture data found in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-16T12:45:35+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -165238,14 +165245,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-16T12:45:35+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The posting asks for 6–12 years of experience, whereas Shlok has about 1.3 years, making this an extreme seniority mismatch.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-16T12:45:35+05:30",
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 6–12 years of experience, whereas Shlok has about 1.3 years, making this an extreme seniority mismatch."
   },
   {
    "id": "L1387",

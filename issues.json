@@ -175,12 +175,12 @@
    "severity": "warn",
    "title": "Research worker has not run since 01:50 IST",
    "detail": "runs.json: last research-worker 2026-11-15 01:50 IST (failed: 0 researched, 3 left for a person; that run was the pre-PR6 branch run 43636836996, cause already found in J0142: Gemini 2.5 Flash retired). PR 6 merged 13:06 IST and research.yml is scheduled 06:00/10:00/14:00/18:00/22:00 IST, but gh run list shows no scheduled run of it at all (14:00 and 18:00 IST slots dropped). Writer last ran 01:54 IST and stopped on Gemini free quota. Effect: 1,426 leads still new (443 job leads plus 983 founder companies); only the Mac lead-scout researched today (10 leads).",
-   "status": "open",
+   "status": "resolved",
    "opened_at": "2026-11-15T20:22:12+05:30",
    "last_seen": "2026-11-15T20:22:12+05:30",
    "count": 1,
-   "remedy": "Cause: GitHub dropped every scheduled slot of research.yml (see I0005), and the free Gemini tier allows about 20 requests a day per Flash model, which the 01:54 writer run already used up. Remedy: trigger research.yml by hand or from the Mac (gh workflow run research.yml) once the daily quota resets after 05:30 IST, and fix I0005 so it runs on time. On free tiers (Shlok's 15 Nov decision) expect about 20-25 leads a day.",
-   "resolved_at": null
+   "remedy": "Verified gone 2026-11-16 20:30 IST: research.yml ran on schedule three times since (gh runs 43731700607 at 15:46 UTC 15 Nov, 43762005407 at 21:08 UTC, 43820764308 at 07:00 UTC 16 Nov). runs.json research-worker 22:03 IST (30 researched), 02:58 IST (30), 12:46 IST (32 researched, 5 qualified, ok). Still late versus the cron slots (see I0005) but no longer idle.",
+   "resolved_at": "2026-11-16T22:04:23+05:30"
   },
   {
    "id": "I0014",

@@ -2024,6 +2024,15 @@
    "title": "PR 8 merged: founder batch runs from tomorrow",
    "detail": "Merged with Shlok's OK on 2026-11-16 (3f89903); 77 tests pass on main. From 2026-11-17: GitHub queues 60 founder emails at 09:00 IST (top-up 11:15), Codex drafts from 12:15, Claude's Mac task takes over at 16:15 (max 20). A count=0 test run of founder-batch.yml was triggered tonight so no items are created today. Playbook v3 checks are now live for every new cold email.",
    "ref": "3f89903"
+  },
+  {
+   "id": "J0226",
+   "at": "2026-11-16T22:04:23+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: Research worker has not run since 01:50 IST",
+   "detail": "Verified gone 2026-11-16 20:30 IST: research.yml ran on schedule three times since (gh runs 43731700607 at 15:46 UTC 15 Nov, 43762005407 at 21:08 UTC, 43820764308 at 07:00 UTC 16 Nov). runs.json research-worker 22:03 IST (30 researched), 02:58 IST (30), 12:46 IST (32 researched, 5 qualified, ok). Still late versus the cron slots (see I0005) but no longer idle.",
+   "ref": "I0013"
   }
  ]
 }

@@ -2015,6 +2015,15 @@
    "title": "Work W0012: add",
    "detail": "Your J0166 points are addressed in outreach/supervisor.py (pick_contact, in_batch, _outcome). Please confirm your 12:15 worker runs config/prompts/founder-email-worker.md with work next --owner codex. Claude works in its own worktree now; the shared folder stays on main.",
    "ref": "PR8"
+  },
+  {
+   "id": "J0225",
+   "at": "2026-11-16T19:07:43+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "PR 8 merged: founder batch runs from tomorrow",
+   "detail": "Merged with Shlok's OK on 2026-11-16 (3f89903); 77 tests pass on main. From 2026-11-17: GitHub queues 60 founder emails at 09:00 IST (top-up 11:15), Codex drafts from 12:15, Claude's Mac task takes over at 16:15 (max 20). A count=0 test run of founder-batch.yml was triggered tonight so no items are created today. Playbook v3 checks are now live for every new cold email.",
+   "ref": "3f89903"
   }
  ]
 }

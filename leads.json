@@ -162105,6 +162105,11 @@
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
+   },
+   "research_attempt": {
+    "at": "2026-11-17T14:09:35+05:30",
+    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
+    "by": "research-worker"
    }
   },
   {

@@ -7879,15 +7879,15 @@
    "key": "prodigal|strategy and operations analyst|bengaluru",
    "type": "job",
    "company": "Prodigal",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "prodigaltech.com",
+   "company_url": "https://prodigaltech.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy and Operations Analyst",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "greenhouse",
    "source_id": "prodigal:5043755007",
    "source_url": "https://job-boards.greenhouse.io/prodigal/jobs/5043755007",
@@ -7918,8 +7918,8 @@
    },
    "score": {
     "rules": 65,
-    "research": null,
-    "total": 65,
+    "research": 80,
+    "total": 74,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -7929,15 +7929,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Strategy & Operations Analyst at Prodigal, asks 0-3 yrs; your S&OP planning and execution work maps directly.",
+    "fit_notes": "The posting asks for a Strategy & Operations Analyst to partner with creditors to transform engagement using data-driven insights and AI workflows, owning strategies end-to-end from design to live execution. Years of experience are not explicitly stated, fitting Shlok's ~1.3 years. No MBA or consulting background is listed as a hard requirement (it notes the team is 'the consulting arm', but welcomes direct ownership and execution). Your facts [sop] (owning S&OP production planning and cutting working capital by 40%) and [ceo-coo] (owning finished goods inventory end-to-end and driving fulfilment operations) directly map to this execution-heavy operational role.",
+    "pay_notes": "Pay is not stated in the posting; requires evidence during outreach or screening to verify the Rs 24.5 LPA fixed threshold.",
+    "culture_notes": "Backed by Y Combinator, Accel, and Menlo Ventures; works with 100+ financial institutions across North America. No Glassdoor ratings or employee reviews found in the evidence.",
+    "hook": "Prodigal has spent the last eight years building connected AI agents that run in production across North America, managing billions of interactions in consumer finance.",
+    "hook_source": "https://job-boards.greenhouse.io/prodigal/jobs/5043755007",
+    "researched_at": "2026-11-17T14:08:11+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Return of the prodigal: Hardik’s homecoming at the birthplace of his dreams - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0JiZDdxQzYzSzBIS0l1bktqSFBtMnlyNFdlTjQ3a1hHaDlqVEt3Z0Q3c1dBOFZOQlBwZ185QWhYQzBEWG5RUmNmWG9UeWxWdVEyd1d2MFlCY1VRdmtwd2kwNDZmR0FNSGdCX29fczFaTDF5cnhPQ0xjT3o3TlJUSW84cHF1X1NaQjA2TGhsMFZMR05TNW05OWNHMzJZMGlLVkV1aEVIckpnMV9mZ0l0eFNQdGZJRDFVelNtQUplQXVtd9IByAFBVV95cUxNVE5TWm4xYzAydDIwdW1fQzhRTWllWm5RNHhwLWJtaFJUZUZ1YUFKNTZyUkw4WFItblpqYVhWTDh4b25ucGc3YW5XbGVSUVlQMFQwNThCeDZ5TFJKbF81OEZGQ1N4N0RuYlVqeVc4b1NraHNnejZKRDBTUkhJMzJGcTJoaFZ1emkyVEFrOFhBaDh6V001N0J2d05QVnd2UzVCb2xkNEdZbGF2YmkxMEdBbDM5eUdZTGdiaW9OdkNXUTB3VEpQVzI4UA?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "The Prodigal Son’s Older Brother - Reformed Journal",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2a1I1UktzdWdYbkoyb282SUxuZlVCVGNEZHpKYzY4WkkyVm1oNEZ4aXphaURJNjJmVFpTdTZjT0EzZGlJT3Y2S3V5cDI0TTR3RmxuT0hJNVRPYXMzV2lmNmRoeDJvbmdmc2JfemhBRWRnX1hZWk10OVd5VQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Even Now, God Can Rescue Your Prodigal - Desiring God",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCYV9NOG1fZ3A4ZFdvVnhTZTN0RGlJajVsY3dLbXpEWWc0MU9YWUJzYnNFTGRGY1I4bnNwT0FvVTJsTS10bmxZNjVES1hIMmNLcUFrVW1PVkV3SmVjOWhLa0R4T3ppV080bWtJWVBuTnNBZ05tanA3elk4aXFNUVU?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Prodigal Prince Harry’s Return to U.K. Poses Dilemma for William - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ05zVlRqek83SnBoVGhlTmFHRllCT09KLWFacGxfa0t5aGtQNk9NVjBlYWxPVU9ockNTV3hnZURyOENtXzJkZkhaX19xQkg4WHJQaTI2ZHV5YnhXcHVVNWo3a0QyeXRuU0hKd3k4X1ZqT1VkY3E4aklRZG1kWDdFMFVjUWFsUDYxendpV3RrVl9ja05seEdIRVF2aHExdHZwZ3c?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "A Legacy of Ministry, Prodigal Prayers, and Faith - Billy Graham Evangelistic Association",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGpiZmM1Y0dzT09La25xLTctNDdwYXJaOXpkSDhoMDllRlk1aHVPdzhCaHhMamJzWlpsbFVKV29UTXF6VERLdndCV1czTExKOEVWZ0R1bG1RX0JFTnEyUU11NWl2V0tiN3lqcVRkTVBaMEZtVnIybFRwV3lCaTU2d21WcjZsY0U?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "the prodigal artist (@theprodigalartist) - Substack",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFaEs1eEx3R25EX0dGZjlnZ1p6dVZBR1NtVmlNVmw0MDNfajZFYVVzbDNhdGpHQnFTRndRVTdRcXN2QTEydlJfZEZNLWdheWpNM2lYZjBpaHp6aE5GT3Q3TTFRbDN4azQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -7961,14 +8003,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "greenhouse: rule score 65"
+    },
+    {
+     "at": "2026-11-17T14:08:11+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 74: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-17T14:08:11+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0062",

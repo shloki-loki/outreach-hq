@@ -190451,7 +190451,7 @@
    "key": "isomorphai|founding product manager horizontal platform|bengaluru",
    "type": "job",
    "company": "Isomorph AI",
-   "company_domain": "",
+   "company_domain": "isomorph.ai",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/isomorph-ai",
    "company_note": "",
@@ -190459,7 +190459,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491109526",
    "source_url": "https://in.linkedin.com/jobs/view/founding-product-manager-horizontal-platform-at-isomorph-ai-4491109526",
@@ -190475,7 +190475,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "Define how companies run the software their own people build with AI.\n The role\n A new category is being born: software built by everyone in a company, not just engineers. Someone has to define how it should work, for the builder who wants their app live today, for the IT leader who has to say yes, and for everyone who uses what gets built.\nThat is you. You will own the core Isomorph product, working directly with the founders, engineers and customers, and you will shape a category, not just a roadmap.\n What You’ll Own\n The builder’s journey, from first idea to a live app, and to the hundredth app after it.\n The experience for IT and admins: control, visibility and trust across everything a company builds.\n How builders discover Isomorph on their own and bring their whole company along.\n Turning everything we do by hand for customers today into product.\n What You’ll Get To Build Next\n Grow Isomorph from the way apps get to production into the place where all of a company’s software lives.\n Define how Isomorph keeps every app healthy, secure and cost-efficient on its own.\n You’ll thrive here if\n You have been a product manager, founder or product-minded engineer on a developer, infrastructure or B2B platform.\n You build with AI tools yourself, and you can go deep with engineers.\n You understand what it takes to win an enterprise’s trust.\n You write clearly, decide with evidence and say no often.\n Why Isomorph\n For fifty years, software inside a company has been written by a small group of engineers, for everyone else. That is ending. With AI, the people who know the work best (the finance analyst, the ops lead, the recruiter, the support manager) can now build the software they need themselves. Most of them have never written a line of code.\nThis is one of the biggest shifts in how companies work, and it has a missing piece. The software these people build is useful, and very often unsafe: no sign-in, sensitive data exposed, nobody to run it, and invisible to IT. Multiply that across a large company and you get thousands of apps and agents that nobody governs.\n Isomorph is the foundation that software runs on. Bring an app or agent built with any AI tool, and Isomorph runs it on the company’s own cloud: secured, connected to company data and systems, monitored and kept healthy. Builders never think about infrastructure. IT stays in control of everything.\nWe believe every company will become AI-native one workflow at a time, built by its own people. Isomorph is where that software will live.\n The team. You will join a small, high-talent-density founding team from IIT Madras and IIT Delhi. The founders are second-time founders who have built companies before and sold one.\n Why you’ll love it here\n You’ll be early. You will be one of the first people on the team, with real ownership and a real say in what Isomorph becomes.\n You’ll work at the frontier. AI agents and enterprise-grade infrastructure, applied to a problem every company is about to have.",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -190490,8 +190490,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -190501,15 +190501,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founding PM at Isomorph AI, asks for B2B platform and AI product experience; your background is supply chain and S&OP operations.",
+    "fit_notes": "The posting asks for someone who 'has been a product manager, founder or product-minded engineer on a developer, infrastructure or B2B platform' and who 'builds with AI tools yourself, and you can go deep with engineers.' Your strongest engineering/product facts are [idekho] (Flask REST API internship), but your core professional experience is in supply chain, S&OP planning, and manufacturing operations ([sop], [ceo-coo], [mrp]), which does not map to building enterprise AI developer platforms.",
+    "pay_notes": "Pay is not stated in the posting, and no external salary evidence was found for Isomorph AI.",
+    "culture_notes": "Small, high-talent-density founding team from IIT Madras and IIT Delhi with second-time founders; no public employee reviews or culture ratings found due to early stage.",
+    "hook": "You will join a small, high-talent-density founding team from IIT Madras and IIT Delhi building a foundation for software run on company cloud.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founding-product-manager-horizontal-platform-at-isomorph-ai-4491109526",
+    "researched_at": "2026-11-17T23:22:25+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -190533,9 +190542,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T23:22:25+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Role asks for a developer, infrastructure or B2B platform PM with AI tool building experience; your background is supply chain and S&OP operations at Ola, lacking the required technical product management experience for an AI platform.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30"
+   "updated_at": "2026-11-17T23:22:25+05:30",
+   "reject_reason": "Role asks for a developer, infrastructure or B2B platform PM with AI tool building experience; your background is supply chain and S&OP operations at Ola, lacking the required technical product management experience for an AI platform."
   },
   {
    "id": "L1618",

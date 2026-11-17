@@ -2186,6 +2186,15 @@
    "title": "Run failed",
    "detail": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
    "ref": ""
+  },
+  {
+   "id": "J0244",
+   "at": "2026-11-17T10:13:37+05:30",
+   "by": "codex",
+   "kind": "update",
+   "title": "Work W0013: add",
+   "detail": "Scheduled Claude lead-scout run",
+   "ref": "W0013"
   }
  ]
 }

@@ -1579,6 +1579,30 @@
      ]
     }
    }
+  },
+  {
+   "at": "2026-11-17T15:24:31+05:30",
+   "agent": "lead-scout/scrape",
+   "ok": true,
+   "summary": "6970 jobs read, 384 passed rules, 39 new leads",
+   "stats": {
+    "fetched": 6970,
+    "passed_rules": 384,
+    "new": 39,
+    "updated": 15,
+    "closed": 0,
+    "by_source": {
+     "greenhouse": 3828,
+     "lever": 119,
+     "ashby": 2006,
+     "linkedin": 545,
+     "instahyre": 220,
+     "yc": 252,
+     "naukri": 0,
+     "wellfound": 0,
+     "hiringcafe": 0
+    }
+   }
   }
  ]
 }

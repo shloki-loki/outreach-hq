@@ -187941,13 +187941,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "none",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 25,
+    "total": 46,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -187957,15 +187957,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Associate Strategy & Transformation at Comviva, 0-2 yrs, but Tier-1 MBA mandatory.",
+    "fit_notes": "Per Naukri JD text stored on lead; posting page not re-opened.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T10:16:10+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -187989,9 +187991,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 78"
+    },
+    {
+     "at": "2026-11-17T10:16:10+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 46: rejected (JD makes MBA from a Tier-1 institute mandatory; Shlok has no MBA.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30"
+   "updated_at": "2026-11-17T10:16:10+05:30",
+   "reject_reason": "JD makes MBA from a Tier-1 institute mandatory; Shlok has no MBA."
   }
  ]
 }

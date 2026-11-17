@@ -191930,15 +191930,15 @@
    "key": "playshifu|operations manager|bengaluru",
    "type": "job",
    "company": "PlayShifu",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "playshifu.com",
+   "company_url": "https://playshifu.com",
    "company_linkedin": "https://in.linkedin.com/company/playshifu",
    "company_note": "",
    "title": "Operations Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490401331",
    "source_url": "https://in.linkedin.com/jobs/view/operations-manager-at-playshifu-4490401331",
@@ -191954,7 +191954,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "About PlayShifu PlayShifu is one of the fastest-growing technology startups creating AR-powered educational toys that make learning fun and interactive. Our award-winning products are sold across 35+ countries, and we're continuing to expand our global footprint. \n We are looking for an experienced Operations Manager to lead our sourcing, procurement, and international logistics functions. This role will be instrumental in building a resilient supplier network, driving cost efficiencies, managing global freight flows, and ensuring seamless product availability across markets. If you thrive in a fast-paced consumer products environment and enjoy solving complex supply chain challenges, we'd love to hear from you. \n What You'll Do Strategic Sourcing & Supplier Management Own end-to-end sourcing strategy for product components, packaging materials, and finished goods across domestic and international suppliers. \n Identify, evaluate, onboard, and develop new suppliers to improve cost, quality, scalability, and risk diversification. \n Lead commercial negotiations with manufacturers and vendors to achieve cost savings, favorable payment terms, and improved service levels. \n Conduct supplier performance reviews and establish KPIs around quality, lead times, responsiveness, and delivery performance. \n Develop alternate sourcing strategies and contingency plans to mitigate supply chain disruptions. \n International Freight & Logistics Management Manage global inbound and outbound freight operations across ocean, air, courier, and multimodal transportation networks. \n Negotiate freight contracts and rates with freight forwarders, shipping lines, customs brokers, and logistics service providers. \n Drive freight cost optimization initiatives while maintaining target service levels and launch timelines. \n Monitor international trade regulations, customs requirements, duties, tariffs, HS classifications, and import/export compliance across key markets. \n Ensure smooth movement of goods between suppliers, manufacturing partners, warehouses, and customers across multiple countries. \n Analyze freight performance and proactively resolve shipping delays, customs issues, and capacity constraints. \n Supply Chain Operations Own supply and demand planning processes in collaboration with Sales, Marketing, Finance, and Product teams. \n Manage inventory levels across warehouses, retail channels, distributors, and e-commerce platforms. \n Coordinate new product launches by ensuring sourcing readiness, packaging compliance, labeling, and logistics execution. \n Oversee fulfillment operations for global retailers, distributors, marketplaces, and DTC channels. \n Lead continuous improvement initiatives across planning, procurement, warehousing, and transportation functions. \n Track and report key operational metrics, freight spend, sourcing savings, inventory health, and supplier performance. \n Team & Stakeholder Management Build and lead a high-performing operations team in a fa",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -191969,8 +191969,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -191980,15 +191980,32 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Operations Manager at PlayShifu, asks 5-10 years; your inventory and fulfillment work maps well, but experience falls short.",
+    "fit_notes": "The posting asks for \"5-10 years of experience in sourcing, procurement, supply chain, logistics, or operations\". Your facts [sop], [ceo-coo], and [msl] show strong end-to-end inventory and fulfillment execution at Ola Electric, but you have about 1.3 years of total experience, which is well below the minimum requirement.",
+    "pay_notes": "Pay is not stated in the posting, and no credible salary evidence is available in the search results.",
+    "culture_notes": "PlayShifu creates AR-powered educational toys sold across 35+ countries; specific employee rating counts and culture flags were not found in the search results.",
+    "hook": "PlayShifu's award-winning AR-powered educational toys are sold across 35+ countries, and this role directly owns end-to-end global fulfillment and scale-up strategy.",
+    "hook_source": "https://in.linkedin.com/jobs/view/operations-manager-at-playshifu-4490401331",
+    "researched_at": "2026-11-17T23:26:43+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "PlayShifu - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1Q2MWw2OEtncHVJbGpoR29IUjYzUlpmTGlvRmRXVmg2cUlSSVBVNWd6ZWhOcEZFUWFHTXkzeS1GdGhmWVhLTnZJT0FuVi1xS1VaWkhxS0p3cm5MZWljbWdPaUwxRi1qVnlSVTlVR1Q1SW14MmlXbTVpeFF2SnNXcm9kOERpM0VQbmxqdlFTMHBPeEtjQzhvck1JZGtOYXFuX1p1TWRKODR5bkZ1?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -192012,9 +192029,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T23:26:43+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The posting asks for 5-10 years of experience, whereas you have about 1.3 years, making this a severe seniority mismatch.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30"
+   "updated_at": "2026-11-17T23:26:43+05:30",
+   "reject_reason": "The posting asks for 5-10 years of experience, whereas you have about 1.3 years, making this a severe seniority mismatch."
   },
   {
    "id": "L1632",

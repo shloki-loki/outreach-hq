@@ -40386,7 +40386,7 @@
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-17",
-   "open": true,
+   "open": false,
    "jd": "StoreHQ helps Shopify brands grow through SEO, AEO, paid ads, email marketing, social media, CRO, and AI discoverability. We bring growth channels together to help brands get found, convert more traffic, and retain more customers. We also build our own Shopify apps that help store owners improve their SEO and AI search visibility.\n StoreHQ is looking for an Associate Product Manager to help build and grow our Shopify apps and internal tools. This is a full-time role where you’ll own features from idea to launch, work closely with the founders and engineering team, and shape products used by Shopify merchants.\n What you’ll do: \n Own features and improvements for StoreHQ’s Shopify apps, from discovery and planning through launch\n Talk to merchants, study app reviews and usage data, and turn findings into clear product priorities\n Write product requirements, user stories, and acceptance criteria that engineering can build from\n Work closely with engineering and design to plan sprints, unblock work, and ship on time\n Track product metrics like installs, activation, retention, and reviews, and use them to guide decisions\n Research competitors and market trends in Shopify apps, SEO, and AI search\n Plan and support product launches, including Shopify App Store listings and Product Hunt launches, with marketing\n Run experiments to improve onboarding, conversion, and user experience\n Work cross-functionally with marketing, sales, and support to bring customer feedback into the roadmap\n What you’ll bring: \n 0–3 years of experience in product management, product analytics, engineering, consulting, or a related role\n A degree in any discipline. An engineering or technical background is a plus.\n Strong analytical and problem-solving skills, and comfort working with data\n Ability to write clear product documents and explain ideas simply\n Curious about SaaS, e-commerce, Shopify, and AI products\n Comfortable with ambiguity and taking ownership without being told exactly what to do\n Strong written and verbal communication skills\n Ability to move quickly, learn independently, and take features from idea to launch\n Based in Bangalore and open to working from the office\n Experience with Shopify apps, SEO tools, or AI products is a plus, not required\n If you enjoy building products, talking to users, and shipping things that make a difference, StoreHQ would love to hear from you. \n Employment type: Full-time\n Location: Bangalore\n Compensation: Competitive, based on experience",
    "exp_min": null,
    "exp_max": null,
@@ -40481,18 +40481,24 @@
      "actor": "lead-scout",
      "event": "reopened",
      "detail": "posting is live again"
+    },
+    {
+     "at": "2026-11-17T23:19:45+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting page no longer exists (HTTP 404)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30",
+   "updated_at": "2026-11-17T23:19:45+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "closed",
     "why": "the posting page no longer exists (HTTP 404)"
    },
    "bin": {
-    "at": "2026-11-17T13:25:00+05:30",
+    "at": "2026-11-17T23:19:45+05:30",
     "reason": "the posting page no longer exists (HTTP 404)",
-    "by": "live-check"
+    "by": "research-worker"
    }
   },
   {

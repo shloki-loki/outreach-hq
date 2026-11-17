@@ -4775,9 +4775,11 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Why this role (cover note)": "Carbon Trail is tackling one of the messiest supply chain challenges in retail by turning emissions data into automated climate action. That's work that requires someone who can step into ambiguous cross-functional gaps and build systems from scratch.\n\nDuring my year in strategy and operations at Ola Electric, I worked directly with executive leadership on fulfilment. When order-to-delivery times stretched to 32 days, I built the dispatch algorithm that brought them down to 14 days. I've spent my time turning messy operational data into predictable weekly execution, and I can take cross-functional projects and operational tracking off the leadership team's plate.\n\nScaling software that audits complex fashion supply chains needs rigorous operational follow-through, and Carbon Trail's mission is where I want to build."
+    }
    },
    "first_contacted_at": "2026-11-13T17:14:17+05:30",
    "replied_at": null,
@@ -4851,9 +4853,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to hello@carbontrail.net"
+    },
+    {
+     "at": "2026-11-17T14:15:06+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-13T17:14:17+05:30",
+   "updated_at": "2026-11-17T14:15:06+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "unknown",

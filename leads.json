@@ -43794,7 +43794,7 @@
     "culture_notes": "",
     "hook": "ClickPost Darwin now runs The Face Shop India's B2B distribution (60+ channels, 1,000+ shipments a month), announced 29 Jan 2026",
     "hook_source": "https://www.itln.in/logistics/the-face-shop-clickpost-partner-to-scale-tech-led-b2b-distribution-1357966",
-    "researched_at": "2026-11-17T21:57:55+05:30",
+    "researched_at": "2026-11-17T21:58:35+05:30",
     "by": "lead-scout"
    },
    "stage": "rejected",
@@ -43854,9 +43854,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 55: rejected (score 55 is under 65)"
+    },
+    {
+     "at": "2026-11-17T21:58:35+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 55: rejected (score 55 is under 65)"
     }
    ],
-   "updated_at": "2026-11-17T21:57:55+05:30",
+   "updated_at": "2026-11-17T21:58:35+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "unknown",

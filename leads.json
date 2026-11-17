@@ -180201,15 +180201,15 @@
    "key": "pepsico|manager supply planning|india",
    "type": "job",
    "company": "PepsiCo",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "pepsico.com",
+   "company_url": "https://www.pepsico.com",
    "company_linkedin": "https://www.linkedin.com/company/pepsico",
    "company_note": "",
    "title": "Manager - Supply Planning",
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4435667336",
    "source_url": "https://in.linkedin.com/jobs/view/manager-supply-planning-at-pepsico-4435667336",
@@ -180240,8 +180240,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 65,
+    "total": 65,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -180251,15 +180251,59 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Manager, Supply Planning at PepsiCo (Gurugram); your Ola S&OP and SAP MRP background maps directly to regional production and inventory planning.",
+    "fit_notes": "The posting requires leading 'end-to-end Supply Planning & Production Scheduling', 'Rough Cut Capacity Planning and Detailed Production Planning (DPP)', S&OE facilitation, and working capital optimization across manufacturing networks. It does not state minimum years of experience or an MBA requirement. Your background in owning S&OP production planning and cutting working capital by 40% [sop], deploying SAP MRP as Raw Material Manager [mrp], designing stock limits [msl], and inventory rebalancing [rebalance] directly addresses the core planning mandate. Missing items: specific tooling mentioned like JDA/ESP and LLamasoft/Lyric, and potato chips/CPG domain experience, though your discrete manufacturing planning experience transfers well.",
+    "pay_notes": "Pay is not disclosed in the listing or evidence. MNC CPG Manager-level supply chain roles in India generally target well above Rs 24.5 LPA, but verified figures are unavailable.",
+    "culture_notes": "Glassdoor/AmbitionBox ratings were not retrieved in evidence. PepsiCo announced 1,000 corporate job cuts in North America in November 2026 amid restructuring.",
+    "hook": "PepsiCo recently warned Indian authorities that an 'energy drink' ingredient ban could disrupt its local supply chain.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1vWHBJcEdhUV9hb3E4RWV5ZVhVTnZHVWhvaWNzajJHVGdydGlfZ2ZtMXpyeGthbzk4X1RHbTE3d2lVUkJpMlFqVHdTd05nSUJFZVBfTVlHS2laQUpHWlU2SkR0UHBOOGljbVRDRWZIMFBicDlocjhBUTJzaGdqT1djd0FzZTRzVnctbDBIUERhajFFQk8yZ3NkT3ZWdDA0X1ZIaVVsbFlHTHlxbU5QdEIwVUNJZlZCUldhV3QyUWV5ZU5MZXozS1BFdw?oc=5",
+    "researched_at": "2026-11-17T13:53:14+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "PepsiCo warns 'energy drink' ban could run its India supplies dry as Red Bull sells on - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1vWHBJcEdhUV9hb3E4RWV5ZVhVTnZHVWhvaWNzajJHVGdydGlfZ2ZtMXpyeGthbzk4X1RHbTE3d2lVUkJpMlFqVHdTd05nSUJFZVBfTVlHS2laQUpHWlU2SkR0UHBOOGljbVRDRWZIMFBicDlocjhBUTJzaGdqT1djd0FzZTRzVnctbDBIUERhajFFQk8yZ3NkT3ZWdDA0X1ZIaVVsbFlHTHlxbU5QdEIwVUNJZlZCUldhV3QyUWV5ZU5MZXozS1BFdw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "PepsiCo earnings miss estimates as U.S. consumers tighten their budgets - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55ZzRUdGNETEl3MXdFSFFJUWgxRllERkhaMVBJOHpDc1c4WHJaaUNKeFlKZDlKUWZud0p5NjhkUXRja2tVenNITTJKY1Vqa0xSc2ZQc1dKUkMwb3NYWWI5QmN6WFZjd2thenlxUnZlVk5qVmvSAXhBVV95cUxOLXFfa2hqYnBUOW1LUVpHWWdGd2hYcXEwTWEwVkE1dmd6ZU5tNGNWaEpuMF82b1V0ZGFfdFZmdGxvSVhMbThJTjVVQXFWdzg0bUxGWmQ2Q2Y3ZFo5Z2s5dmh5cnBJYXpZdHNVeVRBUm9HUGdaYTZuRFA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "PepsiCo to Cut 1,000 Jobs in North America Restructuring - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1RhS3JzTUpwTC1ad3FxcENEM3NjZE1NNGp6Z2VqZVc2Si1oQXQ5X19IYmtyRzlCRFE1T3dyNTJBZGlpb3dBVThQVm1uUU1ydlI1M1hVZjhOT3ZvUC15WGFpUVNtYmlibjNNZHNudkJhLUZLbHhaenpaYWtLRmk1ckpJWlpnWm9Tc29mQVFMTENqaXd0c0tFSHkwYlNfb0FiandkWXFQSjh6LWc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Indian American CEO Ram Krishnan in spotlight as PepsiCo announces 1,000 layoffs - The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVvUXduUEQwZUNfRERERlRhbXdoQTczMHd0RmdhV0xwWXByZHZDYWI5bi1MSHpYLWNOQUJ4R3dYQ3FUX2drM0xsRXJ5WTZ6RkNYUE5hTkNpMEdtdUZkYmZkbkliRWZ6V0EzS2QwcE96b3N1QWlGMnJveHJKektYYzRVZmdrQ0ZHMFJMS083VkItZ2FkOFh2U205SzhVZF9xNFNmX3VSaWdtOGhyZjJraw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "PepsiCo to cut over 1,000 jobs amid sluggish sales in North American market - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRTlRTmpZc2ZXYURSbnpDN2JSX3BSVEZ2ZzVDbUtLTG13TXhYOTJjUkhvWmhuai0xd3lsZmoxUEpaNU1lR1R4MEFGVFZSLW5YYVhFWklPTGNrbjRCNGJ4ZlZaUjg4RmxzbG9ZMG5BMDFWTGNWUU90alIzOGw4Zml3Q0NONTBja2ZnVXVMd29YYmVKb2dhbnV5WUlKQTZ4Z1Y2aTZ1WHRQUGtFXzhocUhlel9hTV9OVjVrNFRLNGN5eVk2cy00VElCaUdVbFZPUWpzZUphSFh2NNIB3AFBVV95cUxORlk1N1BGNjhiX1N0TjZTT3hRRUVCZmhaMU5SVXFudzRwRzF6d2hEVzN4WUp5cGhYRnQ2RmVmOFNPVTdxMEcxa3VDUVcwT0xTeTRmZkxqRVFtZUE0ZDBfOFVGc0NFTV9Ubl9LUlg0U05WcVJZN1otdnhOWk9fMXNtNHo4YlBhSVphdlZTRTVLMW9FU0ExWlZDUUhjNzdjZzJDRTlOclJMWk1oZTVhaFVrWXRNUnZFUFl2VDN1WFVqZUxuQmJtcXR4RkdqN3U5MGluaUpEMk9XTUpodzNv?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "PepsiCo hands global media to Publicis amid transformation at CPG giant - Marketing Dive",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSTV6SDdiNUFCT1BEM2dqaFVRRy1nNXVSR0hwdVQ4QV90SVAyY3Z4RUZZY3AwbjlSM2hiZklyZ3B1ZkRBS2JPOU0zenJJaWhEdEVkRzdWYWdCT3ZHSHFHRlFGQ1hmNE9zNXp2enh2T1Z3Vm1pZmVHSkpPTzBLR0xKSGVnblF1VlFqUTJiTnZmVjRCNFFIS01qSGI0YzVkejZkaEJEZmM1ZGlmWlRsU1hzb210UEs?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "msl",
+     "ceo-coo",
+     "rebalance"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -180283,14 +180327,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T13:53:14+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 65: qualified"
     }
    ],
-   "updated_at": "2026-11-15T23:35:42+05:30",
+   "updated_at": "2026-11-17T13:53:14+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1526",

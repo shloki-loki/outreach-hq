@@ -2447,6 +2447,15 @@
    "title": "Ran",
    "detail": "0 drafted, 1 rejected, 59 left queued (git data sync slow/flaky; stopped after first item)",
    "ref": ""
+  },
+  {
+   "id": "J0273",
+   "at": "2026-11-17T23:41:01+05:30",
+   "by": "research-worker",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "28 researched (2 qualified, 26 rejected), 5 closed postings binned, 1 left for a person",
+   "ref": ""
   }
  ]
 }

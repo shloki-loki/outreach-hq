@@ -174220,6 +174220,11 @@
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
+   },
+   "research_attempt": {
+    "at": "2026-11-17T13:50:50+05:30",
+    "why": "could not open the posting: HTTP 429 for https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/4488202450",
+    "by": "research-worker"
    }
   },
   {

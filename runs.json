@@ -1721,6 +1721,19 @@
      ]
     }
    }
+  },
+  {
+   "at": "2026-11-18T01:35:27+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
+   }
   }
  ]
 }

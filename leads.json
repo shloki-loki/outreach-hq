@@ -10897,15 +10897,15 @@
    "key": "spotdraft|chief of staff to the cto|bengaluru",
    "type": "job",
    "company": "SpotDraft",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "spotdraft.com",
+   "company_url": "https://spotdraft.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Chief Of Staff to the CTO",
    "tier": "1 - Strategy & Ops",
    "location": "SpotDraft HQ, Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "ashby",
    "source_id": "spotdraft:98278be5-e686-4dec-b5cc-cc2f08713ebb",
    "source_url": "https://jobs.ashbyhq.com/spotdraft/98278be5-e686-4dec-b5cc-cc2f08713ebb",
@@ -10941,8 +10941,8 @@
    },
    "score": {
     "rules": 65,
-    "research": null,
-    "total": 65,
+    "research": 60,
+    "total": 62,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -10952,15 +10952,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Chief of Staff to the CTO at SpotDraft, but asks 4+ years of TPM/EM/Consulting experience you do not meet.",
+    "fit_notes": "The posting asks for \"4+ years across TPM, Engineering Management, Staff PM, Consulting, or Founder-type roles\". Shlok has ~1.3 years of experience. While it requires SQL and cross-functional program management (which maps to his operational experience like [ceo-coo] and [sop]), the 4+ years requirement is a hard blocker for his seniority level.",
+    "pay_notes": "Pay not stated in the posting or evidence.",
+    "culture_notes": "No ratings or culture flags found in the provided evidence.",
+    "hook": "At SpotDraft, you're making contracting fast, easy, and stress-free for high-growth companies like PhonePe, Chargebee, Unacademy, Meesho, and Cred.",
+    "hook_source": "https://jobs.ashbyhq.com/spotdraft/98278be5-e686-4dec-b5cc-cc2f08713ebb",
+    "researched_at": "2026-11-17T14:08:57+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Spotdraft - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWENKWTM3R0pTUlU0Y1NTcS1RM3VyeVMxNDhaRVV4VUN3NTNvQmdadGFucTdGN3NNNXExTVRyMlRObWtPa0RzRlhoYktobnFtX2RleC1qNzJJTkx2NFJqSDh2azJieWpCQU5ENXNrUVlxSk9MblE0WGxMLWhEQTNDUFF1TWRGR2tIRzR6aE5pdFhZUWNPQURXWTJGY3M0cHVWYnE4a2pyN0o3YmdS?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -10984,14 +11000,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "ashby: rule score 65"
+    },
+    {
+     "at": "2026-11-17T14:08:57+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 62: rejected (The role asks for 4+ years of experience across TPM, Engineering Management, Staff PM, Consulting, or Founder-type roles, whereas Shlok has ~1.3 years of experience, making this a severe stretch beyond his normal fit.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-17T14:08:57+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 4+ years of experience across TPM, Engineering Management, Staff PM, Consulting, or Founder-type roles, whereas Shlok has ~1.3 years of experience, making this a severe stretch beyond his normal fit."
   },
   {
    "id": "L0089",

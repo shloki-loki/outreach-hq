@@ -163918,7 +163918,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4487439948",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-at-roligt-4487439948",
@@ -163949,8 +163949,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 40,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -163960,15 +163960,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Roligt Foods in Hyderabad, asks up to 3 years and relocation, but location and MBA/consulting preference mismatch.",
+    "fit_notes": "The posting asks for: 'Up to 3 years of experience in consulting, startups, FMCG or operations is a plus' and 'An MBA (final year or recent graduate) or an undergraduate degree from a strong programme'. Shlok has an undergraduate degree from IIT Guwahati and operational experience at Ola Electric ([sop], [ceo-coo]), but he lacks an MBA and consulting background. Furthermore, the role requires relocation to Hyderabad, whereas Shlok wants Bengaluru or remote-first.",
+    "pay_notes": "Pay is stated as 'Fair, competitive pay in line with industry standards', but no specific figures are provided in the posting or evidence.",
+    "culture_notes": "Roligt Foods is building a next-gen clean label beverage brand out of Hyderabad, pre-launch with live activations and smart vending kiosks. No company website, Glassdoor, or employee reviews were found in the evidence.",
+    "hook": "Roligt Foods is building a next gen clean label beverage brand out of Hyderabad with short, honest ingredient lists.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founder-s-office-at-roligt-4487439948",
+    "researched_at": "2026-11-17T14:12:18+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -163992,14 +164002,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-17T14:12:18+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The role requires relocation to Hyderabad and a hard requirement for an MBA or undergraduate degree from a strong programme with consulting, startup, FMCG, or operations background, plus pay is unstated and location violates Shlok's Bengaluru/remote preference.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T14:12:18+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires relocation to Hyderabad and a hard requirement for an MBA or undergraduate degree from a strong programme with consulting, startup, FMCG, or operations background, plus pay is unstated and location violates Shlok's Bengaluru/remote preference."
   },
   {
    "id": "L1370",

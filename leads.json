@@ -180357,7 +180357,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491227996",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-foiwe-info-global-solutions-4491227996",
@@ -180388,8 +180388,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -180399,15 +180399,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "BPO business development role requires a Master's in Marketing and ITES experience; unrelated to your operations background.",
+    "fit_notes": "The posting specifies that the candidate 'should have served in similar role in an ITES organization / Contact Center / BPO', 'Handle globally distributed teams', and 'Holds a Masters Degree in Marketing'. Shlok holds a B.Tech with no Master's/MBA, has no BPO/ITES background, and his background is strictly in EV operations ([msl], [sop], [ceo-coo]). None of his facts match this role.",
+    "pay_notes": "No compensation data provided in the posting or web evidence.",
+    "culture_notes": "No culture data or Glassdoor/AmbitionBox ratings found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T13:53:29+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -180431,14 +180438,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T13:53:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 35: rejected (Requires a Master's Degree in Marketing and prior ITES/BPO sales experience; none of Shlok's operations background applies.)"
     }
    ],
-   "updated_at": "2026-11-15T23:35:42+05:30",
+   "updated_at": "2026-11-17T13:53:29+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Requires a Master's Degree in Marketing and prior ITES/BPO sales experience; none of Shlok's operations background applies."
   },
   {
    "id": "L1527",

@@ -184004,15 +184004,15 @@
    "key": "triomics|associate product manager|bengaluru",
    "type": "job",
    "company": "Triomics",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "triomics.ai",
+   "company_url": "https://triomics.ai",
    "company_linkedin": "https://www.linkedin.com/company/triomics",
    "company_note": "",
    "title": "Associate Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489773508",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-triomics-4489773508",
@@ -184043,8 +184043,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 52,
+    "total": 58,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -184054,15 +184054,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "APM at Series B oncology AI startup Triomics in Bengaluru; asks 1+ yrs APM exp & SQL; your API/app dev [idekho, alcheringa] and SQL map, though full-time exp is S&O.",
+    "fit_notes": "The role asks for >1 year of experience as an APM, requirement gathering, user research, and working knowledge of SQL. Shlok's product internship building a Flask REST API and extension [idekho], ticketing app building [alcheringa], and SQL proficiency address the technical and product requirements. However, his 1.3 years of full-time experience at Ola Electric is in Strategy & Operations [sop, ceo-coo], not as a full-time APM.",
+    "pay_notes": "Pay is not stated in the job posting and no compensation data for Triomics was found in the evidence.",
+    "culture_notes": "No employee review ratings found in evidence. Perks listed include office lunch, flexible working hours, health insurance, and Zomato meal benefits for late hours.",
+    "hook": "Triomics securing $22M in Series B funding led by Battery Ventures to scale its oncology AI platform and automated chart abstraction across cancer centers.",
+    "hook_source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcFNTS3F2OVB3Y05QWTctQk45dk1aYVcyTlBVaGI5ejJlQjhPdDJqQWw2Z0piWTM3TFMzc3EwR3NucjhOY1EwYkMyd0tzcXVmaUJHUmxhZU5uOXFjcFdlSUxHNXpOSHpXelJzSy1kOXM0ckRGSjM0RTE0amF2ZGp6OXduREtDa2MzT2tBa0o5YlBLUk9EdHlETkZBTUw3bzRnXzdLTWF3Z2sxdGcybDZSN2tCOGYwSk1RbUs3U2FUNA?oc=5",
+    "researched_at": "2026-11-17T13:56:00+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "How Triomics Uses AI To Help Doctors Treat Cancer More Quickly - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDdfZGxqV0k0TlRpQkoxd096T0Z1djR4ZkRJbVN5TkcwTlFSVHB6NkJaMmtESGtySHhHVzVFenktaXNfQWM5WWNXXzhhcnJoalpUZmI5VDI1QUtJTllYX0VNSmhFbmp6cWFzdlFsOTlpcXlDbHRyYXZmMTIyeTFZbnRULURabWU3X1FZSmN1ejVKaVdWRTl2dS1UTTJGR2RBTk5mSURlSVFCRGxrNzlUSEJJQlp5V2M?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Triomics raises $22M Series B for oncology-specific AI - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEs5WGROZDlvbWFTRERPOEItc0N1cXREbzVKa1lEa1hkYnFqd0loM3g0UkxiMW96QzZvcklCa194b3dPaURlSEphbjNpTXlkZkZsckFQc092WEFfZ1BRbENvM2dDZ0lhYzlzdkU4LVE3TWFOOGhtMjJQamtJa1hZbVVDV1BTd3BWRlpGbVlsNEQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTVPSDk1S1hfN1ZzdVBHZHZOWGZpNlhoRlNhbGhuMUYwV3N3aFc5bFJQUzlGRlc5ZlN3QWN0dkdVOUNLVncxU044TjZDenhKSjIzY2tmc21nWVJINEdLQzNFTlR3MXQ3YU9XVzRBV3d4YktJcEVpeS1ZSE4zWUZnWEpkRnR5aTNrQWNkaEN1RUlwQjBMUzFWLUtUeW1qVGZqd1E?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Triomics Raises $22M Series B Led by Battery Ventures to Scale Oncology AI Chart Abstraction - HLTH",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcFNTS3F2OVB3Y05QWTctQk45dk1aYVcyTlBVaGI5ejJlQjhPdDJqQWw2Z0piWTM3TFMzc3EwR3NucjhOY1EwYkMyd0tzcXVmaUJHUmxhZU5uOXFjcFdlSUxHNXpOSHpXelJzSy1kOXM0ckRGSjM0RTE0amF2ZGp6OXduREtDa2MzT2tBa0o5YlBLUk9EdHlETkZBTUw3bzRnXzdLTWF3Z2sxdGcybDZSN2tCOGYwSk1RbUs3U2FUNA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Triomics Secures $22M to Automate Oncology AI Chart Abstraction - HIT Consultant",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUI5OVNkOEpDOXZCemk2aFA0anM2b1N4eTQycmhFdlFxRXVRbjdTTU84NVhITlIzdnVtT2hRZDd6SmxHck9NOFdyU2c1dXNxQWpyS21tMFA1b05fVEk4YW0zcnFWT2dmSG1NUTRrLXFZdjhLS05pU1ZuU2VnOGlfc1VOQlA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Triomics Raises $22M to Scale Oncology AI for Early Cancer Detection and Treatment - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTnV6azR0VFc4dmVaWkJxczZPV3JQb3Z3My1MV3dQMDIwLXNnNzlYYU16elBQZXpXNUNUZDZzTE5uWlNBZ3I0UjBEcUFrNE9LRzl6ZmU5WWdUS3NFdWV1OS1FU3ZSZkJBWkdHa1c1THR5U3Uyd0lWNWdYVzNBcHZJcDY0SURWV2hBd2FvUTh5blJ6enZmNUw2M2xpVGtJcEcxN2trVk5XV1M?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho",
+     "alcheringa",
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -184086,14 +184129,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T13:56:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 58: rejected (score 58 is under 65)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-17T13:56:00+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "score 58 is under 65"
   },
   {
    "id": "L1562",

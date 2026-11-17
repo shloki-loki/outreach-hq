@@ -181165,13 +181165,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "none",
     "fit": "Unknown"
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 15,
+    "total": 43,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -181181,15 +181181,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Strategy PMO at Happiest Minds, asks 8-10 yrs; out of range.",
+    "fit_notes": "Experience far above Shlok's.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T10:16:06+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -181219,14 +181221,21 @@
      "actor": "research-worker",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-17T10:16:06+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 43: rejected (JD asks 8-10 years; LinkedIn listing flagged not open.)"
     }
    ],
-   "updated_at": "2026-11-17T00:15:04+05:30",
+   "updated_at": "2026-11-17T10:16:06+05:30",
    "bin": {
     "at": "2026-11-17T00:15:04+05:30",
     "reason": "the posting says \"No longer accepting applications\"",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "JD asks 8-10 years; LinkedIn listing flagged not open."
   },
   {
    "id": "L1537",

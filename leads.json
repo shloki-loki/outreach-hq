@@ -8175,15 +8175,15 @@
    "key": "turing|strategy and operations associate|remote",
    "type": "job",
    "company": "Turing",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "turing.com",
+   "company_url": "https://www.turing.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy and Operations Associate",
    "tier": "1 - Strategy & Ops",
    "location": "India - Remote",
    "location_bucket": "remote",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "greenhouse",
    "source_id": "turing:6241966004",
    "source_url": "https://job-boards.greenhouse.io/turing/jobs/6241966004",
@@ -8214,8 +8214,8 @@
    },
    "score": {
     "rules": 65,
-    "research": null,
-    "total": 65,
+    "research": 78,
+    "total": 73,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Remote, open to India (+15)",
@@ -8224,15 +8224,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Strategy and Operations Associate at Turing, asks 3+ years; your end-to-end inventory and S&OP work maps directly.",
+    "fit_notes": "Turing's Strategy and Operations Associate posting asks for 'Associate-level; 3+ years preferred' experience, cross-functional collaboration, data analysis, and process improvement. No MBA or consulting is required. Shlok's 1.3 years of experience makes this a stretch (asks 3+), but his core operational and execution background directly maps via [sop], [ceo-coo], and [msl].",
+    "pay_notes": "Pay is not stated in the posting or evidence. At 1.3 years of experience, achieving the Rs 24.5 LPA fixed target is a stretch for standard associate roles without prior unicorn S&OP leverage.",
+    "culture_notes": "Headquartered in San Francisco, Turing is a prominent AI data provider. Specific employee ratings, headcount, and culture flags were not found in the provided evidence.",
+    "hook": "Headquartered in San Francisco, Turing works with frontier AI labs to generate high-quality datasets and reinforcement learning environments.",
+    "hook_source": "https://job-boards.greenhouse.io/turing/jobs/6241966004",
+    "researched_at": "2026-11-17T14:08:25+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Turing test | Definition & Facts - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82cEFOUzdOOW1La2tfNXptVThsdU9PTllTX0xQLWttQzh2cXB4S0FRbjV0ODZIcVJ5cnNSZmhDd2pidHVyV1NxY20ycTBBRFJONWZ4R1F5TzFybW9iSGc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Turing-like tests for language and vision demonstrate a narrowing gap between humans and AI - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwcVA2R0JCQjBPM21mcExRSVRWR21RZE11QmhoanMyUGxTV1ljdTRkdlJ0RHpLY1dtMHB0dnVsRVhVMlVubTNkUHVBeXBhT2pqSTdwYXFKNGJacFJlYlBn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Turing-type high-entropy oxide nanosheets for efficient seawater electrolysis - Science | AAAS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zcWJBNGZVQWttbDVXNndnUFJkLW5uNXJjTllFM2xMYjdTazZ2emJQVDQxc2J5bF9ObDIyRzhaRnhGQWhBbWNsQmJMbzlXb1VlTmF0dU5FU2ZhX19odlRN?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Alan Turing identified a logical boundary that keeps AI from knowing everything - Futura, le média qui explore le monde",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU190X2hQYzd2Y3hDbXNPTzY1WnJTeDliT3NQT0FCRV9rUXhlTTNhV2w2S1E3NEhrZmd0encwbFZQbzg3RlJTekUxVzFqSjJpdU9mSlBKYUtPSjFBb1hKTHoyUU1UUUgtMy1hZllVcWc0ZDNWUDluRG56c1Iza0FEa1BqZ0hOLVowVG14LW9kNmh5VlFLbG02Vk13UGZMaUpORzJPUFNlbw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "UK must not be beholden to foreign AI, says head of Alan Turing Institute - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3ZZVGp0NnVEbEwyN3lJeUFnVHRkNW9oRnZDQk15SmhZWEJLNThBWXhZaG5HOFFwRXBKR0h2SDRkdGI3MFpaM1ZVaTdrTjBVQzdmVFNhWlJVTXlxLXBiV1BvRWdRampPdUFyaV9ITGhkUjRNRXRQVFh6SVJUZFdaeE9LQUJwM09SdVBBZWFvWHl5VXlxQkhNTHZOLXZCVjhURnFIUGVRWFFMWkwyNHc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Alan Turing's biggest AI assumption may have been wrong - Science Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNQXljSnBKNk9oVWg0eUVsSlgySU9iMVNlbElUN2hnNFV0NDI5aUViX0lMd3NOenYzWUZWT3hwVDRpb1RsaVZGT3hod0FzV2czbnZ6VlUzZDh5Q1NScDN0Ym9wS05uNG5GNV95X3pvaw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -8256,14 +8298,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "greenhouse: rule score 65"
+    },
+    {
+     "at": "2026-11-17T14:08:25+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 73: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-17T14:08:25+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0064",

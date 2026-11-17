@@ -182809,7 +182809,7 @@
    "key": "niit|chief of staff|bengaluru",
    "type": "job",
    "company": "NIIT Limited",
-   "company_domain": "",
+   "company_domain": "niit.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/niit-limited",
    "company_note": "",
@@ -182843,13 +182843,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "none",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 30,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -182859,15 +182859,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Chief of Staff to NIIT's Enterprise Tech business head, Bengaluru, but asks 7-12 yrs.",
+    "fit_notes": "Posting live 2026-11-17; MBA preferred.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T10:16:02+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -182891,9 +182893,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-17T10:16:02+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 49: rejected (Asks 7-12 years; out of range.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30"
+   "updated_at": "2026-11-17T10:16:02+05:30",
+   "reject_reason": "Asks 7-12 years; out of range."
   },
   {
    "id": "L1555",

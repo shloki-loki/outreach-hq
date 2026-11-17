@@ -192138,7 +192138,7 @@
    "key": "aicerts|us business development manager|bengaluru",
    "type": "job",
    "company": "AI CERTs®",
-   "company_domain": "",
+   "company_domain": "aicerts.io",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/ai-certs",
    "company_note": "",
@@ -192146,7 +192146,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490429065",
    "source_url": "https://in.linkedin.com/jobs/view/us-business-development-manager-at-ai-certs%C2%AE-4490429065",
@@ -192162,7 +192162,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "Company Description AI CERTs® is an enterprise-grade global certification platform focused on AI and blockchain, created to help bridge the gap between widespread talent and limited opportunity. The organization provides role-based, vendor-aligned certifications that align with real market needs, enabling professionals from diverse technical backgrounds to become AI-ready, job-ready, and future-ready. Guided by a commitment to lifelong learning, AI CERTs® has a mission to certify one billion people worldwide. Headquartered in New York City, the company is scaling rapidly toward unicorn status, supported by a global network of academic and industry partners. AI CERTs® is building a future-proof ecosystem where practical, up-to-date knowledge empowers the next generation of the global workforce.\n Role Description The APAC Business Development Manager will lead growth initiatives across the Asia-Pacific region, focusing on expanding AI CERTs®’ certification offerings with enterprise clients, academic institutions, and channel partners. This full-time, on-site role is based in Bengaluru and involves identifying and qualifying new business opportunities, managing the sales pipeline, and driving revenue through strategic partnerships and direct client engagements. Day-to-day responsibilities include conducting market research, developing go-to-market plans, preparing proposals and presentations, negotiating commercial terms, and collaborating with internal teams such as marketing, product, and operations. The role also requires maintaining strong relationships with key stakeholders, tracking performance against targets, and providing regular business insights and forecasts to leadership.\n Qualifications\n Business development and sales skills, including lead generation, pipeline management, and consultative selling across B2B and institutional segments.\n Strategic and analytical skills, such as market research, competitive analysis, and the ability to design regional growth plans for APAC.\n Relationship management and communication skills, including stakeholder engagement, negotiation, and effective presentation to executive-level audiences.\n Operational and organizational skills, including CRM proficiency, data-driven reporting, and the ability to coordinate with cross-functional teams.\n Understanding of or strong interest in AI, blockchain, and EdTech, with the ability to translate complex concepts into clear business value for clients.\n Bachelor’s degree in Business, Marketing, Technology, or a related field; an advanced degree (MBA or equivalent) is an advantage.\n Proven experience in business development or sales within APAC, preferably in technology, education, or SaaS domains.\n Comfort working in a fast-paced, high-growth environment with the ability to take initiative and meet ambitious targets.\n Fluency in English; additional APAC regional languages are a plus.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Education",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -192177,8 +192177,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -192188,15 +192188,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "BD Manager at AI CERTs, asking mid-senior experience and APAC sales, but your background is supply chain and S&OP.",
+    "fit_notes": "The posting asks for 'Proven experience in business development or sales within APAC, preferably in technology, education, or SaaS domains' and a 'Bachelor’s degree... an advanced degree (MBA or equivalent) is an advantage'. Shlok has a B.Tech from IIT Guwahati and S&OP experience at Ola Electric ([sop]), but lacks direct B2B tech/EdTech sales or business development experience.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company website or news found in web search to verify company quality and culture.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T23:27:17+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -192220,9 +192227,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T23:27:17+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (Pay is unstated, and the role is mid-senior level business development in EdTech requiring APAC sales experience which does not match his supply chain and S&OP background.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30"
+   "updated_at": "2026-11-17T23:27:17+05:30",
+   "reject_reason": "Pay is unstated, and the role is mid-senior level business development in EdTech requiring APAC sales experience which does not match his supply chain and S&OP background."
   },
   {
    "id": "L1634",

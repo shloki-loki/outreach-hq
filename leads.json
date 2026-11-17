@@ -190308,7 +190308,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491128473",
    "source_url": "https://in.linkedin.com/jobs/view/creative-producer-%E2%80%93-founder%E2%80%99s-office-at-wilmarcs-motion-pictures-4491128473",
@@ -190324,7 +190324,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "We’re Hiring: Creative Producer – Founder’s Office \n 📍 Bengaluru | Full-time | On-site \n Wilmarcs Motion Pictures is looking for a Creative Producer who thinks like a founder. \n This is not a project coordination role. \n We’re looking for someone who can take a client brief, understand the business behind it, find the real problem, develop the creative solution and take ownership of elevating the project from brief to final film. \n When a project comes in, you should be able to ask: \n What is the client actually trying to achieve? Who are we speaking to? What is the strongest idea here? How can we make this better than what was originally imagined? And how do we make that idea work within the business and production realities? \n You will work directly with clients and our internal creative, scripting, production and post-production teams. \n You should be comfortable: \n • Leading creative conversations with clients \n • Understanding brands, businesses and communication objectives \n • Breaking down ambiguous briefs \n • Researching and finding insights \n • Developing concepts and creative approaches \n • Building treatments, references and narratives \n • Having a strong opinion on scripts \n • Presenting and selling ideas \n • Working with directors, writers, cinematographers and editors \n • Reviewing work and giving meaningful creative feedback \n • Solving problems during production and post-production \n • Understanding budgets and production realities \n • Finding better solutions instead of simply identifying problems \n • Taking complete ownership until the final output is delivered \n We’re looking for someone with taste, curiosity, business understanding and an entrepreneurial mindset. \n Someone who can move between a client meeting, a brainstorming session, a script discussion, a production problem and an edit review without saying, “That’s not my job.” \n You don’t need to have all the answers. \n But you should have the curiosity and ownership to find the answer. \n Your job is not simply to move a project from brief to delivery. \n Your job is to make the project better at every stage. \n We’re open to people from advertising agencies, creative agencies, production houses, branded content, filmmaking, strategy, copywriting and related creative backgrounds. \n Your current designation matters less than how you think. \n If you understand creativity and business , have a strong point of view, can communicate confidently with clients and want the responsibility to build rather than simply execute, we’d like to meet you.\n Wilmarcs Motion Pictures | Bengaluru\nSeniority level Mid-Senior level | Employment type Full-time | Industries Media Production",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -190339,8 +190339,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 45,
+    "total": 58,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -190350,15 +190350,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Creative Producer in Founder's Office at a media production house, but requires creative agency and filmmaking experience you do not have.",
+    "fit_notes": "The posting asks for someone from 'advertising agencies, creative agencies, production houses, branded content, filmmaking, strategy, copywriting and related creative backgrounds' who can handle scripts, directors, and production/post-production realities. None of Shlok's supply chain and operations facts ([sop], [ceo-coo]) map to creative producing, script evaluation, or media production.",
+    "pay_notes": "Pay is not stated in the posting, and no evidence was found for Wilmarcs Motion Pictures.",
+    "culture_notes": "No company website, reviews, or news found in the research notes.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T23:19:12+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -190382,9 +190389,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-17T23:19:12+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 58: rejected (The role is a Creative Producer in a media production company requiring advertising, filmmaking, and script/production backgrounds, which completely misaligns with Shlok's supply chain and operations background at Ola Electric.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30"
+   "updated_at": "2026-11-17T23:19:12+05:30",
+   "reject_reason": "The role is a Creative Producer in a media production company requiring advertising, filmmaking, and script/production backgrounds, which completely misaligns with Shlok's supply chain and operations background at Ola Electric."
   },
   {
    "id": "L1617",

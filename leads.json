@@ -183097,10 +183097,10 @@
      "title": "Co-founder, Nat Habit",
      "role_type": "founder",
      "linkedin_url": "",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "gaurav@nathabit.in",
+     "email_status": "catch-all",
+     "email_source": "pattern first on a catch-all domain",
+     "confidence": 55,
      "why": "Named founder per Clay/theorg.com listing; no LinkedIn URL seen",
      "found_at": "2026-11-17T10:16:36+05:30"
     }
@@ -183130,9 +183130,15 @@
      "actor": "email-finder",
      "event": "contact_added",
      "detail": "Gaurav Agarwal (founder)"
+    },
+    {
+     "at": "2026-11-17T10:16:55+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Gaurav Agarwal: gaurav@nathabit.in (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-17T10:16:36+05:30",
+   "updated_at": "2026-11-17T10:16:55+05:30",
    "reject_reason": null
   },
   {

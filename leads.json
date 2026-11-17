@@ -38995,7 +38995,7 @@
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-17",
-   "open": true,
+   "open": false,
    "jd": "Company Description Vitalpro Consumer Pvt Ltd is an emerging leader in India’s hospitality sector, redefining the food and beverage experience through brands like Saffron & Mishri and 224 Craftery. The company blends India’s rich culinary heritage with modern tastes, offering premium mithai and globally inspired yet locally resonant chocolate creations. Vitalpro focuses on crafting memorable, high-quality experiences that merge tradition with innovation and sophistication with simplicity. By leveraging data, precision marketing, and hyper-personalized engagement, Vitalpro is driving a transformative wave in India’s F&B industry. Team members join a purpose-driven environment where professional growth and personal development are central to the company’s vision.\n Location: Mumbai\n Function: Founder’s Office\n Reporting to: Founder / CEO\n Experience: 3–10 years\nRole Overview We are looking for a highly organised, proactive and execution-oriented Executive Assistant to work closely with the Founder and provide comprehensive support across executive management, business coordination and strategic initiatives.\n The role will serve as an important link between the Founder and various internal and external stakeholders, ensuring that priorities are effectively managed, decisions are translated into action, and critical deliverables are tracked to closure.\n This is an opportunity to work closely with the leadership team in a fast-paced entrepreneurial environment and gain exposure to multiple facets of building and scaling a consumer business.\nKey Responsibilities 1. Executive & Administrative Management \n Manage the Founder’s calendar, meetings, appointments and travel arrangements.\n Coordinate internal and external meetings, ensuring effective scheduling and preparation.\n Prepare meeting agendas, briefs, presentations and supporting documents.\n Manage emails, correspondence and executive communications.\n Ensure effective prioritisation of the Founder’s time and commitments.\n 2. Business Coordination & Execution \n Coordinate with different business functions to drive execution of key priorities.\n Track business commitments, action points, deadlines and deliverables.\n Follow up with functional heads and team members to ensure timely closure of tasks.\n Maintain trackers for key projects, initiatives and management priorities.\n Identify delays, bottlenecks and pending decisions requiring the Founder’s attention.\n 3. MIS & Business Reporting \n Consolidate business updates from various functions.\n Prepare periodic business reports, dashboards and management presentations.\n Track key business metrics, milestones and performance indicators.\n Support the Founder in reviewing business performance and identifying areas requiring intervention.\n 4. Stakeholder Management & Communication \n Coordinate with investors, business partners, vendors, customers and other external stakeholders.\n Draft professional emails, business communications and presentations.\n Ensure ti…",
    "exp_min": 3,
    "exp_max": 10,
@@ -39078,18 +39078,24 @@
      "actor": "lead-scout",
      "event": "reopened",
      "detail": "posting is live again"
+    },
+    {
+     "at": "2026-11-17T23:27:44+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30",
+   "updated_at": "2026-11-17T23:27:44+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "closed",
     "why": "the posting says \"No longer accepting applications\""
    },
    "bin": {
-    "at": "2026-11-17T13:25:00+05:30",
+    "at": "2026-11-17T23:27:44+05:30",
     "reason": "the posting says \"No longer accepting applications\"",
-    "by": "live-check"
+    "by": "research-worker"
    }
   },
   {

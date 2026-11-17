@@ -237,6 +237,20 @@
    "count": 1,
    "remedy": "Duplicate of I0015 (same fault, opened under the supervisor agent by mistake on 16 Nov 20:25 IST). Not fixed: all evidence and the remedy are tracked on I0015, which stays open.",
    "resolved_at": "2026-11-16T22:04:57+05:30"
+  },
+  {
+   "id": "I0018",
+   "key": "lead-scout:Run ended before the 12-lead budget",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "Run ended before the 12-lead budget",
+   "detail": "Researched 7 of 12 budgeted leads; remaining top-scored (L1569, L1562, L1564, L0220, L0221, L1546, L1599) still unresearched. No Apify used. Nat Habit founder LinkedIn URLs not found.",
+   "status": "open",
+   "opened_at": "2026-11-17T10:17:12+05:30",
+   "last_seen": "2026-11-17T10:17:12+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

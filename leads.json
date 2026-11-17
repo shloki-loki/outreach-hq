@@ -10753,15 +10753,15 @@
    "key": "spotdraft|product manager|bengaluru",
    "type": "job",
    "company": "SpotDraft",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "spotdraft.com",
+   "company_url": "https://spotdraft.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "SpotDraft HQ, Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "ashby",
    "source_id": "spotdraft:96761f6b-578d-4daa-9d02-25c47fd39590",
    "source_url": "https://jobs.ashbyhq.com/spotdraft/96761f6b-578d-4daa-9d02-25c47fd39590",
@@ -10792,8 +10792,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 60,
+    "total": 60,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -10802,15 +10802,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at SpotDraft in Bengaluru, no years specified; your full-stack and API background match workflow tools.",
+    "fit_notes": "The posting asks for 'Product management experience owning a feature or workflow end to end to a measurable outcome. Years of experience matter less than the scope you’ve handled.' No MBA or consulting is required. Shlok brings technical execution experience from building a Flask REST API [idekho] and building ticketing portals [alcheringa], though direct PM experience is limited.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures were found in the evidence.",
+    "culture_notes": "Company stage and headcount were not found in the search evidence; no reviews or cultural flags available.",
+    "hook": "SpotDraft's core workflow legal and business platform moves contracts from draft to signature using collaborative editing and redlining.",
+    "hook_source": "https://jobs.ashbyhq.com/spotdraft/96761f6b-578d-4daa-9d02-25c47fd39590",
+    "researched_at": "2026-11-17T23:36:36+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Spotdraft - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWENKWTM3R0pTUlU0Y1NTcS1RM3VyeVMxNDhaRVV4VUN3NTNvQmdadGFucTdGN3NNNXExTVRyMlRObWtPa0RzRlhoYktobnFtX2RleC1qNzJJTkx2NFJqSDh2azJieWpCQU5ENXNrUVlxSk9MblE0WGxMLWhEQTNDUFF1TWRGR2tIRzR6aE5pdFhZUWNPQURXWTJGY3M0cHVWYnE4a2pyN0o3YmdS?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho",
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -10834,14 +10850,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "ashby: rule score 61"
+    },
+    {
+     "at": "2026-11-17T23:36:36+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 60: rejected (score 60 is under 65)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-17T23:36:36+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "score 60 is under 65"
   },
   {
    "id": "L0087",

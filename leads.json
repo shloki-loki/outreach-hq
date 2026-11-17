@@ -183370,7 +183370,7 @@
    "key": "smartq|associate product manager|bengaluru",
    "type": "job",
    "company": "SmartQ",
-   "company_domain": "",
+   "company_domain": "smartq.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/smartq-bottlelabs",
    "company_note": "",
@@ -183404,13 +183404,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "none found for SmartQ APM",
     "fit": "Unknown"
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 35,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -183420,15 +183420,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "APM at SmartQ (Compass Group-backed food-tech), asks 1+ yr product experience; you have no PM role history and pay is unknown.",
+    "fit_notes": "Posting live 2026-11-17, Bengaluru. Only idekho fact is relevant.",
+    "pay_notes": "Only generic AmbitionBox APM Bengaluru range 6-28.5 LPA, not company-specific.",
+    "culture_notes": "AmbitionBox SmartQ-Bottle Lab 4.0/5, 21 reviews (entity match unconfirmed).",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T10:15:12+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -183452,9 +183454,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-17T10:15:12+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 51: rejected (Generic B2B APM (Figma, PRDs, Jira), SmartQ pay not evidenced; APM bands rarely clear 24.5 LPA at 1 yr and no product-management history in profile beyond an internship.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30"
+   "updated_at": "2026-11-17T10:15:12+05:30",
+   "reject_reason": "Generic B2B APM (Figma, PRDs, Jira), SmartQ pay not evidenced; APM bands rarely clear 24.5 LPA at 1 yr and no product-management history in profile beyond an internship."
   },
   {
    "id": "L1561",

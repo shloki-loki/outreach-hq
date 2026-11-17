@@ -43741,8 +43741,8 @@
    "key": "clickpost|strategy and operations|unknown",
    "type": "company",
    "company": "ClickPost",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "clickpost.ai",
+   "company_url": "https://www.clickpost.ai",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy and Operations",
@@ -43780,22 +43780,24 @@
    },
    "score": {
     "rules": 45,
-    "research": null,
-    "total": 45,
+    "research": 62,
+    "total": 55,
     "reasons": [
      "Added by agent despite rule: rule score 39 under threshold"
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "ClickPost: logistics intelligence platform (Darwin, carrier allocation) for Indian brands; Ola dispatch and logistics work maps",
+    "fit_notes": "His truck-dispatch lotting (32 to 14 days) and milk-run logistics map to ClickPost's B2B carrier allocation and dispatch rules.",
     "pay_notes": "",
     "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "hook": "ClickPost Darwin now runs The Face Shop India's B2B distribution (60+ channels, 1,000+ shipments a month), announced 29 Jan 2026",
+    "hook_source": "https://www.itln.in/logistics/the-face-shop-clickpost-partner-to-scale-tech-led-b2b-distribution-1357966",
+    "researched_at": "2026-11-17T21:57:55+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -43846,14 +43848,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-17T21:57:55+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 55: rejected (score 55 is under 65)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-17T21:57:55+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "score 55 is under 65"
   },
   {
    "id": "L0368",

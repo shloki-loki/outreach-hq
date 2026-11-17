@@ -11094,15 +11094,15 @@
    "key": "spotdraft|associate product manager|bengaluru",
    "type": "job",
    "company": "SpotDraft",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "spotdraft.com",
+   "company_url": "https://www.spotdraft.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Associate Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "SpotDraft HQ, Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "ashby",
    "source_id": "spotdraft:e9146208-bd24-443b-b1d8-96aabd292538",
    "source_url": "https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538",
@@ -11133,8 +11133,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 42,
+    "total": 50,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -11144,15 +11144,30 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Product Manager at SpotDraft, asks 2-3 years SaaS experience; your experience is 1.3 years in operations.",
+    "fit_notes": "The posting asks for \"2-3 years of relevant product management experience in a product company\", \"Has shipped high-impact products consistently, ideally for SaaS or legal tech products\", and SQL/analytics skills. Shlok has 1.3 years of total experience, mostly in Operations and S&OP at Ola Electric ([sop], [ceo-coo]), with only one product internship ([idekho]). While he has SQL and engineering background, he lacks the required 2-3 years of dedicated product management experience.",
+    "pay_notes": "Pay not stated in posting; no pay evidence found in search.",
+    "culture_notes": "No headcount, funding stage, or employee ratings found in search results.",
+    "hook": "SpotDraft is on a mission to help legal and business teams move faster, together with their AI-powered contracting platform.",
+    "hook_source": "https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538",
+    "researched_at": "2026-11-17T23:37:05+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Spotdraft - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWENKWTM3R0pTUlU0Y1NTcS1RM3VyeVMxNDhaRVV4VUN3NTNvQmdadGFucTdGN3NNNXExTVRyMlRObWtPa0RzRlhoYktobnFtX2RleC1qNzJJTkx2NFJqSDh2azJieWpCQU5ENXNrUVlxSk9MblE0WGxMLWhEQTNDUFF1TWRGR2tIRzR6aE5pdFhZUWNPQURXWTJGY3M0cHVWYnE4a2pyN0o3YmdS?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -11176,14 +11191,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "ashby: rule score 61"
+    },
+    {
+     "at": "2026-11-17T23:37:05+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (The posting explicitly asks for \"2-3 years of relevant product management experience in a product company\" and SaaS/legal tech product shipping background, while Shlok has 1.3 years of experience primarily in Operations/S&OP and a single Technical Product Internship [idekho]. Additionally, pay is not stated.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-17T23:37:05+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly asks for \"2-3 years of relevant product management experience in a product company\" and SaaS/legal tech product shipping background, while Shlok has 1.3 years of experience primarily in Operations/S&OP and a single Technical Product Internship [idekho]. Additionally, pay is not stated."
   },
   {
    "id": "L0090",

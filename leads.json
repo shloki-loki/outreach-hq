@@ -192720,7 +192720,7 @@
    "key": "neuraleap|program manager|bengaluru",
    "type": "job",
    "company": "Neuraleap Group",
-   "company_domain": "",
+   "company_domain": "optimizedelectrotech.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/neuraleapgroup",
    "company_note": "",
@@ -192728,7 +192728,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491114910",
    "source_url": "https://in.linkedin.com/jobs/view/program-manager-at-neuraleap-group-4491114910",
@@ -192744,7 +192744,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "About The Opportunity\n Optimized Electrotech is a deep-tech company at the forefront of India’s surveillance and imaging technology revolution, backed by marquee investors including Blume Ventures, Mela Ventures, GVFL, and Equanimity Ventures. The company is a multiple award-winning Defence and Space startup with iDEX and ADITI grants from the Ministry of Defence, developing proprietary optics, electronics, software, and AI modules. This role offers the chance to drive hyper-acceleration of revenue and R&D in AI, optics, mechanics, and electronics within a dynamic startup environment.\n Role & Responsibilities\n Overall program monitoring and project planning to ensure coordination among multiple critical parts.\n Resource utilization and availability tracking across projects.\n Enabling smooth execution and inter-team collaboration for timely delivery.\n Lead and manage multiple projects simultaneously, ensuring all deliverables meet quality, cost, and schedule targets.\n Create and maintain comprehensive project plans, resource schedules, and progress trackers.\n Coordinate and align efforts of cross-functional teams including design, R&D, production, assembly, quality, procurement, and logistics.\n Track project milestones, identify bottlenecks, and implement mitigation strategies proactively.\n Facilitate regular project review meetings with internal teams and leadership.\n Maintain strong stakeholder communication — internal and external — for clarity on project progress and expectations.\n Manage project budgets, timelines, and change requests efficiently.\n Prepare project status reports, dashboards, and documentation for leadership review.\n Drive process standardization and continuous improvement in project execution.\n Mentor junior team members in project management practices.\n Skills & Qualifications\n Must-Have\n Bachelor’s degree in Engineering (Mechanical / Electrical / Electronics preferred).\n 8–12 years of experience in handling multi-disciplinary engineering or product delivery projects, preferably in EPC, defense, or technology manufacturing sectors.\n At least 2 years of experience as a Program Manager is preferred.\n Proven experience in multi-project management and cross-functional coordination.\n Strong understanding of project lifecycle management in engineering/manufacturing or product development environments.\n Strong proficiency in at least one recognized project management tool (MS Project, Zoho Projects, etc.).\n Must have hands-on experience managing multiple projects simultaneously and optimizing Gantt charts or equivalent tracking mechanisms.\n Preferred\n MBA or Project Management Certification is an advantage.\n PMP certification will be preferred.\n Excellent communication, stakeholder management, and negotiation skills.\n Strong analytical and problem-solving mindset with a structured approach.\n The skill of organizing tasks and completing them efficiently to meet deadlines.\n Leadership qualities that allow an individual to guide, moti",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -192759,8 +192759,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -192770,15 +192770,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Program Manager at Neuraleap Group (Optimized Electrotech), but asks 8-12 yrs of engineering project experience while you have 1.3 yrs.",
+    "fit_notes": "The posting asks for a 'Bachelor’s degree in Engineering' (matched by his B.Tech in Electrical and Electronics Engineering from IIT Guwahati) and '8–12 years of experience in handling multi-disciplinary engineering or product delivery projects' (which he does not have with only ~1.3 years of experience). It also prefers an MBA or PMP certification, which he does not have. His operational and planning work at Ola Electric ([sop], [ceo-coo]) demonstrates cross-functional coordination, but the experience gap is insurmountable.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Backed by Blume Ventures, Mela Ventures, GVFL, and Equanimity Ventures; multiple award-winning Defence and Space startup with iDEX and ADITI grants from the Ministry of Defence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T23:27:42+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -192802,9 +192809,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T23:27:42+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 35: rejected (The posting requires 8-12 years of experience and an engineering/manufacturing project management background, while Shlok has 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30"
+   "updated_at": "2026-11-17T23:27:42+05:30",
+   "reject_reason": "The posting requires 8-12 years of experience and an engineering/manufacturing project management background, while Shlok has 1.3 years of experience."
   },
   {
    "id": "L1640",

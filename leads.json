@@ -8833,15 +8833,15 @@
    "key": "meesho|senior manager ceo s office|bengaluru",
    "type": "job",
    "company": "Meesho",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "meesho.com",
+   "company_url": "https://www.meesho.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Senior Manager, CEO's Office",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore, Karnataka",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "lever",
    "source_id": "meesho:534e9923-b091-4250-a178-b28c7c5c99be",
    "source_url": "https://jobs.lever.co/meesho/534e9923-b091-4250-a178-b28c7c5c99be",
@@ -8872,8 +8872,8 @@
    },
    "score": {
     "rules": 65,
-    "research": null,
-    "total": 65,
+    "research": 85,
+    "total": 77,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -8885,15 +8885,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Manager in CEO's Office at Meesho, experience not stated; your COO-level fulfilment and S&OP work maps well.",
+    "fit_notes": "The posting asks for a Senior Manager to work directly with the CEO and CXOs on company strategy, operating cadence, and cross-functional projects, requiring detail orientation and strong opinions, with no MBA or consulting explicitly required. Experience is not stated in the listing. Your experience partnering directly with Ola's COO and CEO on fulfillment operations and scaling finished goods inventory answers the CEO's Office scope [ceo-coo], and your production planning and inventory reduction work demonstrates the required quantitative rigor [sop].",
+    "pay_notes": "Pay is not stated in the posting. At 1.3 years of experience, a Senior Manager title at a late-stage company like Meesho is a stretch seniority-wise, but your direct execution scale at Ola Electric provides strong leverage.",
+    "culture_notes": "Ratings and review counts were not found in the search evidence. Recent news indicates Meesho's quarterly loss is shrinking on rising orders [S2] and it is making major infrastructure and AI investments [S4], showing scale and active market presence.",
+    "hook": "Noted that Meesho's quarterly loss is shrinking on rising orders while aggressively scaling infrastructure and AI investments.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMExLVTU4MmRnZmVqdFQ4YW5GMVBLOFRtZmUwTnF3WGU3Z05WRndOcFB2STR2RG5YYVllWnh4MzlVY3RBTGlZRjFFMVFuSDJiV19ZNHRPQjRVTGFmOFhvTXp1UHJhc05mRnI4X3lCdllITlc4NnkzNE1iNkRicWIxc2JHTzAtTDNRQU11MjNyUkt0UUx0WWQydXlSS1dOQ0Q2ZmM0VWYwUnV0UEJGMUlTZFY4eWgtUGMy?oc=5",
+    "researched_at": "2026-11-17T14:08:39+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Meesho: Making e-commerce everyone’s business - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTh6OFd6cFY3UDM0R2VERDMxdDI3MDVCY3ZUVUlldTdCSkJxbzBIVFQyU01xZTZhSnpwR0VYQlFkOC1kN29KS0R3QlVxT0Zic1NEdHZaMGdzM2FnMEN1RWZUNXF1MjRQVmtOTFRJNDBrS19YZjJmMjAwTUhUZHAyUlc4TVk4V1VTOUZjRnh2MDEzdWRiSzZ5YU1JS1pEbDF3ZGU4?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Indian e-commerce player Meesho's quarterly loss shrinks on rising orders - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMExLVTU4MmRnZmVqdFQ4YW5GMVBLOFRtZmUwTnF3WGU3Z05WRndOcFB2STR2RG5YYVllWnh4MzlVY3RBTGlZRjFFMVFuSDJiV19ZNHRPQjRVTGFmOFhvTXp1UHJhc05mRnI4X3lCdllITlc4NnkzNE1iNkRicWIxc2JHTzAtTDNRQU11MjNyUkt0UUx0WWQydXlSS1dOQ0Q2ZmM0VWYwUnV0UEJGMUlTZFY4eWgtUGMy?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Meesho Revenue and Usage Statistics (2026) - Business of Apps",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40blU0WjZIYTBuS0dGUjBnZHBvclF4VkNaOVRjMHRoVXl5c1hHSGxOdkdhaC1XN2dfRGNDWEdpQVhPUzJkUVlHR3hTanJTRDd2THFncjlaSXNYdDY5eXhXUFVKd1U?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Inside Meesho's big AI bet: Why India's most-downloaded shopping app is betting on infrastructure - Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWnBCa19LTkVNdW5wWVBOdjVicTg3aDMteklPZkFYbWkxN1lncHA3ZUl6aTJEZjVFc0JzT1gxS2l5b2ZjUGVrSnNIQmFISW1kaUlOWlgtbWlfZ1hCTmNrdGVqbElQOWMtMEsxaUQtV1ZpeDNpT255bXMzS2VlcjR2YlIzQkVTOFprVFZKTUIzZXJta3g4bXMzVDQ5Z2llaU5DWWg1MWlVOGMwWlRCakF3QnhVcFYtYTdNaFhTY0pFOTdOb3pQYXpTNklzZjBFZXVnSTVWb1AyS1BPOGkw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "SoftBank sells $186M Meesho stake in block deal - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFBYZ24zZTdYX3RDOWhkRXhyaU5YZU5BMjJWM3VSZmdwZEFNN09hNXNya2JwZlExMUFCUjlpTVo4eFJsSHE3dGJSMGxxakJvWTF6TDhPNWF3TlVZb3lwdnF5MlA1X2RIUlBxWVVMYTlWdEJvR2VldVl1SU9TdGNtUFdKekVuVUE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Meesho share price rallies 5%, nears record high in weak market; here's why - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0gzR0tSRUh4RXRHcGU0V0otSWVhU2RQcE5UWWZZWTZEcmhobmJ6RmtuVVRqLXU2c01wMjZoVlpIZlBsTTZLb1o2RXphWUtCR0hlaE81dFdaZm1za0tEbWdCRzlUeW0yd001U0JxLTd4YXlZc09sa2NiQ2dORnlDTG1STXpxa2JhTFM5RkNYUHFYOEppd3h5TjlaOHpYeE9qU2c1MUQxdklBRl95RzlKMUp3UzlLcnBJUlc4czlqbURqWmFIZ2lZWFYxV1VManNvWGpLQ0R30gHbAUFVX3lxTE1ld01xdnMzUU40ZDJyd1IycWNlSDFmNWo4V3hxQ2d6aThYOHJwanRuYk4ya2VGTng3U1dIeWNBSEpQU00wZjhuS0xZcGtVaVRVeDRwbC1mbC16U1RuMXQ0U0FjLTl5eThxZVRjcUlHdDFJeFdXdXVFY3dqaXBZY01nbDFBZnluMWNSbmVKVU5lWE43alJEM0lWb2RtVkFEcjNDVVI3Wmp2US1hVGFxT2NVY0NIcEJyRTVXRURjbDVDSjlMaUt1b1hnSUVGNVVsWHlGQ0k3ejFqUU5qWQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -8917,14 +8958,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "lever: rule score 65"
+    },
+    {
+     "at": "2026-11-17T14:08:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 77: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-17T14:08:39+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0070",

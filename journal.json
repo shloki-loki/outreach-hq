@@ -2330,6 +2330,15 @@
    "title": "Run failed",
    "detail": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
    "ref": ""
+  },
+  {
+   "id": "J0260",
+   "at": "2026-11-17T17:41:11+05:30",
+   "by": "supervisor",
+   "kind": "update",
+   "title": "Founder batch 2026-11-17: 60 queued for codex",
+   "detail": "60 of 60 for today; 773 founder companies left after this",
+   "ref": "W0014"
   }
  ]
 }

@@ -39151,15 +39151,15 @@
    "key": "revolut|strategy and operations manager|india",
    "type": "job",
    "company": "Revolut",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "revolut.com",
+   "company_url": "https://www.revolut.com",
    "company_linkedin": "https://uk.linkedin.com/company/revolut",
    "company_note": "",
    "title": "Strategy & Operations Manager (Crypto)",
    "tier": "1 - Strategy & Ops",
    "location": "Chennai, Tamil Nadu, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4445771170",
    "source_url": "https://in.linkedin.com/jobs/view/strategy-operations-manager-crypto-at-revolut-4445771170",
@@ -39210,8 +39210,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 45,
+    "total": 52,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -39221,15 +39221,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Strategy & Operations Manager (Crypto) at Revolut, asks 4+ yrs; your 1.3 yrs at Ola Electric is a seniority mismatch.",
+    "fit_notes": "The posting asks for \"4+ years of experience in operations, strategy, product, or consulting roles in high-growth or fast-paced environments\", a data-driven mindset using Excel or SQL, and an interest in crypto. While your SQL skills and ownership of large operations at Ola Electric ([sop], [ceo-coo]) demonstrate strong capabilities, you have only ~1.3 years of experience against the 4+ year requirement, and the role is based in Chennai rather than Bengaluru or remote.",
+    "pay_notes": "Pay is not stated in the job posting, and no specific salary figures were found in the evidence for this company in India.",
+    "culture_notes": "Recent culture flags include an Italian court placing a Revolut unit under supervision over money-laundering failings on November 16, 2026 [S1], and the Bank of England ordering a review of Revolut's product approval processes in October 2026 [S2].",
+    "hook": "An Italian court placed a Revolut unit under supervision over money-laundering failings.",
+    "hook_source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORTFwaFliRTBNYm83M0NhZHJCb3RkUGdWMGtIOElWV1p2VkxHOFJ6MFJocFk0UjhVTlVROTh0Z3ZhMEhsQ2lEUlNKRlQtREFhdGlja2ZYYWZxc1lDUDZ4eEFlcjFkVC1FMHJuUGx3MWoyOUtpWnRLNW9RZEJPaFBUMUw5MXFncE9TY1pXaFZWNWhnOGgtLWlJTlFlMWJBV21yYllMQUNBTV94VEYwRHJWZGQ4NlBUbWNRMDhpSWx0djYwMkg2SkE?oc=5",
+    "researched_at": "2026-11-17T14:10:21+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Exclusive-Italian court places Revolut unit under supervision over money-laundering failings - Euronext Markets: Real-time Stock Market Data | live",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORTFwaFliRTBNYm83M0NhZHJCb3RkUGdWMGtIOElWV1p2VkxHOFJ6MFJocFk0UjhVTlVROTh0Z3ZhMEhsQ2lEUlNKRlQtREFhdGlja2ZYYWZxc1lDUDZ4eEFlcjFkVC1FMHJuUGx3MWoyOUtpWnRLNW9RZEJPaFBUMUw5MXFncE9TY1pXaFZWNWhnOGgtLWlJTlFlMWJBV21yYllMQUNBTV94VEYwRHJWZGQ4NlBUbWNRMDhpSWx0djYwMkg2SkE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Bank of England orders review of Revolut’s product approval processes - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHRTeWYwR3RRdWtDRmI1VU5Ia095T3BIQk1CMTM2bElzUUhjNHVidWRpMHJpOXhuZzloS2ZjWkdvSU96T3N1c19heFl6bmRyckpGcG1DaE9pNl9CRE0xQ1l0UWRYdlJTNWRnUFJnU2Z1QnBTSnVKQ3hxZ3JZTTNnS1dVU3U?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Revolut Revenue and Usage Statistics (2026) - Business of Apps",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TUTl6dFl5VlR6OG5ROWJrVzVMNFRVbGt4eF83SzNxbmJVZXBUc0p1QjA2MnM3eGthR2pCTUlpb2VJNVRZRVdMeWFidmhueTJRay1CRGprUFJlUnprekNSazVyZjBhUQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "4 Reasons JPMorgan Should Buy Revolut - Global Finance Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fUTZwZVRvRlkwYXNLRUJtT1Azak9qQThrWDVpWk82aEZxSkRrOElYUnhRdFp3ZE9UMXptQWlWeWtIOGZTZlNaSkVnekdLU3hhdlFrdEhpU0lxX2dnTGRqNFBfMjk?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Revolut's rise to become Europe's $115 billion big bank rival - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBEcXY1UUtrRGxIaE9neHYxeDlTWDNYaVlWdlp2UUhxSGtUV2RVZlR4Q25UUTlDTTR0QXlLYlVNZ1lMNEJfQkVmZnVtcFNaVW5mZE42d21uV1BZZzRESkxvVkxoM19FNkhoVThRWXYtUGR1eGZ6VmYtUHNrTWs5eXZfV1kxZ3ZnSHR2UWtmQWd5YVltQlNseWs0RGhXeVItVGVwQXNKbXpZVG9G?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Revolut - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FQzV3SDc2YUkyclFhZU00V3QzaTFOY01MOU56S3Fvb3dxQzR0NGRKMkxTamhremlFYVlRQlFZblhJbXlHVDZsdlJuZWhvNFRIR0E?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -39253,14 +39294,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-17T14:10:21+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The role requires 4+ years of experience, whereas you have about 1.3 years, making it a severe seniority mismatch. Additionally, the location is Chennai rather than Bengaluru or remote-first, and recent culture flags highlight significant regulatory and compliance scrutiny.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-17T14:10:21+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 4+ years of experience, whereas you have about 1.3 years, making it a severe seniority mismatch. Additionally, the location is Chennai rather than Bengaluru or remote-first, and recent culture flags highlight significant regulatory and compliance scrutiny."
   },
   {
    "id": "L0330",

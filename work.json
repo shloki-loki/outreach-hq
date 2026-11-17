@@ -175,12 +175,12 @@
    "owner": "claude",
    "title": "Scheduled lead-scout run 2026-11-17: research up to 12 leads",
    "detail": "scheduled claude run",
-   "status": "queued",
+   "status": "working",
    "created_at": "2026-11-17T10:13:37+05:30",
-   "lease_until": null,
+   "lease_until": "2026-11-17T12:13:48.812969+05:30",
    "result": "",
    "ref": "",
-   "updated_at": "2026-11-17T10:13:45+05:30"
+   "updated_at": "2026-11-17T10:13:48+05:30"
   }
  ]
 }

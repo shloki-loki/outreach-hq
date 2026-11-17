@@ -184170,7 +184170,7 @@
    "key": "optimumpte|chief of staff|india",
    "type": "job",
    "company": "Optimum Solutions Pte Ltd",
-   "company_domain": "",
+   "company_domain": "optimumsolutions.com",
    "company_url": "",
    "company_linkedin": "https://sg.linkedin.com/company/optimum-solutions-pte-ltd",
    "company_note": "",
@@ -184178,7 +184178,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Chennai, Tamil Nadu, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490268908",
    "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-at-optimum-solutions-pte-ltd-4490268908",
@@ -184209,8 +184209,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 42,
+    "total": 50,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -184220,15 +184220,26 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff at Optimum Solutions in Chennai, asks 3+ yrs; your S&OP and CEO-office experience at Ola maps well, but location and pay are unverified.",
+    "fit_notes": "The posting asks for a Chief of Staff to the Chief AI Officer, combining business, ideation, presentation, and stakeholder management, and lists a stretch requirement of 3+ years experience. Shlok has 1.3 years of experience and maps strongly via his work partnering directly with the CEO and COO [ceo-coo] and running S&OP and operations [sop, msl]. However, the role is located in Chennai, Tamil Nadu, whereas Shlok requires Bengaluru or remote first.",
+    "pay_notes": "Pay is not stated in the posting, and no external pay figures were found in the research notes.",
+    "culture_notes": "No company website or reviews found in the research notes.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T23:28:34+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "ceo-coo",
+     "sop",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -184252,14 +184263,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-17T23:28:34+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (Role is based in Chennai while Shlok wants Bengaluru or remote first, and the pay is not stated.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-17T23:28:34+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role is based in Chennai while Shlok wants Bengaluru or remote first, and the pay is not stated."
   },
   {
    "id": "L1558",

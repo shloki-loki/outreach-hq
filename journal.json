@@ -2411,6 +2411,15 @@
    "title": "Daily review 2026-11-17",
    "detail": "Ran: lead-scout/scrape ok 15:24 IST (6970 jobs, 39 new); lead-scout ok 10:17 (7 researched, 1 qualified L1556); send-track ok 10:40 (0 drafted: catch-all/guessed addresses, verifier quota); follow-up ok 12:40; follow-up/track ok 16:45; digest ok 16:53; live-check ok 13:25 (11 binned); research-worker 14:13 marked failed (27 researched, 7 left for a person); people-finder 0 added; writer 0 drafted (Gemini free quota). supervisor/check failed 17:27 (I0014). Problems: I0005 late GitHub schedules (open, diagnosed); I0010/I0011 Reoon/Hunter key errors (open, diagnosed; key rotation needs Shlok); I0012 Instahyre 403; I0014 stale work claims; I0015 git fetch 128 (not seen again today); I0016 verifier quota (Reoon 3 calls today, resets daily); I0018 lead-scout 7/12 budget (diagnosed); new I0019 8 drafts unapproved. No system changes by me. Funnel: 1648 leads, 261 researched, 84 qualified, 12 emails sent, 4 applied, 1 replied, 1 interview, 0 offers; reply rate 8.3%, bounce rate 0%. Verifier credits today: Reoon 3, Hunter 0 working; Apify 2.19/3.50 USD. Needs Shlok: approve/skip 8 drafts (I0019); rotate Reoon key and set/delete Hunter secret (I0010/I0011).",
    "ref": ""
+  },
+  {
+   "id": "J0269",
+   "at": "2026-11-17T22:01:27+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "9 open issues (1 new I0019 drafts waiting), 0 fixed, reply rate 8.3%, bounce rate 0%",
+   "ref": ""
   }
  ]
 }

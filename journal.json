@@ -2438,6 +2438,15 @@
    "title": "Work W0014: done",
    "detail": "rejected: research score 55 under 65, lead closed so draft refused",
    "ref": "L0367"
+  },
+  {
+   "id": "J0272",
+   "at": "2026-11-17T22:02:09+05:30",
+   "by": "founder-emails/claude",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 drafted, 1 rejected, 59 left queued (git data sync slow/flaky; stopped after first item)",
+   "ref": ""
   }
  ]
 }

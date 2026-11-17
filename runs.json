@@ -1640,6 +1640,13 @@
    "ok": true,
    "summary": "9 open issues (1 new I0019 drafts waiting), 0 fixed, reply rate 8.3%, bounce rate 0%",
    "stats": {}
+  },
+  {
+   "at": "2026-11-17T22:02:09+05:30",
+   "agent": "founder-emails/claude",
+   "ok": true,
+   "summary": "0 drafted, 1 rejected, 59 left queued (git data sync slow/flaky; stopped after first item)",
+   "stats": {}
   }
  ]
 }

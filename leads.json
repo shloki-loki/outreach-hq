@@ -43433,15 +43433,15 @@
    "key": "amazon|sr planning manager global engineering services international|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.in",
+   "company_url": "https://www.amazon.in",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Sr. Planning Manager, Global Engineering Services, International",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4455914488",
    "source_url": "https://in.linkedin.com/jobs/view/sr-planning-manager-global-engineering-services-international-at-amazon-4455914488",
@@ -43472,8 +43472,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 68,
+    "total": 66,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -43483,15 +43483,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sr. Planning Manager at Amazon GES International, asks 3+ yrs; your S&OP and supply chain scaling work maps directly.",
+    "fit_notes": "The posting asks for a 'Sr. Planning Manager' with experience in 'construction management expertise, leverage tools and automation', managing 'portfolios of 1000+ active sites', and driving 'OP1/OP2 planning strategy for capex, headcount'. It asks for 3+ years of experience (stretch for Shlok with 1.3 years). It does not require an MBA or consulting. Shlok's facts match this infrastructure and scaling scope: [sop] (owned S&OP production planning over Rs 200 Cr of inventory and rolling plans) and [ceo-coo] (partnered with COO/CEO on fulfillment operations, owning finished goods inventory end-to-end and managing logistics). Missing: the explicit 3+ years experience requirement is a stretch.",
+    "pay_notes": "Pay not stated in the posting; at 1.3 years, Amazon senior manager bands typically require leveling up, but total compensation could clear his Rs 24.5 LPA threshold.",
+    "culture_notes": "Ratings and reviews not found in the provided evidence. Amazon has well-known scale and high-pressure operational culture.",
+    "hook": "Amazon announced it will invest $48 billion in India by 2030, scaling its infrastructure and Quick Commerce footprint.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5",
+    "researched_at": "2026-11-17T14:12:12+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Blackstone REIT to Buy Amazon Data Centers in $5 Billion Deal - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmdvREdrMXNHU3B6VVdldWdxVWswUnNjeXU4T2xGTlFfeDkyRzg0YkRweTdtZnhJNEZQcDRIMkR0NEw4Zk5QVzFfVllmMlI2OHFZeFRUMnVLRzIzSUY1U0RVSnZma2lZQjZORXIxSjZYck1fMExpMDVncXRka0dPby1tSW14SU40eDUtTnR2SmU2N0lNN243MkRlM01xQmpJeGtXT2wwelpPcXhET1lnQg?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Elon Musk shares 12 year old post after 40 Amazon Leo satellites destroyed as Boeing and Lockheed Martin - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVmlQdGJuUngxcTVneURtcXhCOWN5VGxrUGVqOEFJZ2FncktiODFUM1dQblZUSnFYaTJDU19ScWd6OWdER01PS2NaNDZvcEZaVDVGWGlEbjd0NjY5eDV2UEhWN1dzZ2wyR0I5WmM3cEJHQTZWT3FGdG94SFFsLXJ1QXNRY0VSVmpQSWl0RFpyTThaU2xKOWlVSXlQT3dxSnYxQmZwTXdYV0dtd2k1YmctQk02b3ZSc1hyTHN0NksyOFQtcHpUQWg0ZVNnSXVLU2xTZkxCMFFVQTkwWHlScmhHbGZKYnFZaUZOX2RWU0VZbF85dW40Sm9OanNhM3liT3J6MmhURF9MajJrbzZBMWtCbG9MQmM4V1AycnkwUkhqLVJ5RzE1bjlET0dIRE5VbS1ZVDhaZFJjbjhCSE9keGRUSnRLdDRwZ2pMVUl0SXdB0gHTAkFVX3lxTFA2MEJaY0J6em5vUzhuNmk4VEtaNTBkOHFvblJpZXRfVnZJaFBWX1YtMkNtSV94bWUxSzFsVnV0NTRub1ZNX0RNbzd1Y0VzX1A2N0oxQXdNdUktQnFheEhBeXhZdWJIOV9jLXhRYWwyWUZfOEl0dDh0aUlPM3RnblJucnJPWUtwSk4ySWtETldtblNwMUNySE5aQmVvUF8xT01NTHYwVEd5aHo2eGhIcHlCbUVFVUZia0RZVmV2a1dwVnhVRFhXZjlJZWE5djRIaFdicGQ4U0JLU1pfYU00cTE1dmxYYTF3Y1FxWGFPcUZaVXVQX0FkdWZGU3g4TFRzMUpuZ3VLWTNsdXJ3OWlpYUhoY05lX21MS1ZydmVBMjN6QWQ0QktVSnpXcXptRHRPRGdfRzZoOGh1d1hneVBJcE16czU0LTVUbjVDRkNqSlRzU0tFTQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "msl",
+     "o2d"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -43515,14 +43558,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-17T14:12:12+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 66: qualified"
     }
    ],
-   "updated_at": "2026-11-14T22:52:01+05:30",
+   "updated_at": "2026-11-17T14:12:12+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0366",

@@ -1472,6 +1472,13 @@
     "alerts": 3,
     "open_work": 4
    }
+  },
+  {
+   "at": "2026-11-17T10:17:09+05:30",
+   "agent": "lead-scout",
+   "ok": true,
+   "summary": "7 researched, 1 qualified (L1556 Nat Habit Founder's Office, score 69, pay unknown, stretch), 6 rejected (Emeritus pay 6-11 LPA; SmartQ APM; NIIT 7-12yrs; Happiest 8-10yrs; Comviva MBA mandatory; Turing paid-ads). 1 contact, 1 catch-all email (gaurav@nathabit.in). 7 of 12 budget used (rest not opened: Schneider, Infoblox, Edstruments, Accenture, Salesforce, Deloitte, Corizo). Scrape skipped (under 3h old)",
+   "stats": {}
   }
  ]
 }

@@ -26264,7 +26264,7 @@
    "key": "bctventures|chief of staff|india",
    "type": "job",
    "company": "BCTVentures",
-   "company_domain": "",
+   "company_domain": "bctventures.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "",
@@ -26272,7 +26272,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "436429",
    "source_url": "https://www.instahyre.com/job-436429-chief-of-staff-cos-a-at-bctventures-mumbai/",
@@ -26308,8 +26308,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 60,
+    "total": 60,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -26318,15 +26318,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff at BCTVentures in Mumbai, asks 0-1 yrs, pay not stated; fails your Bengaluru location rule.",
+    "fit_notes": "The posting asks for \"Freshers or candidates with up to 1 year of work experience\" and strong problem-solving aptitude, which maps to his IIT Guwahati background and work at Ola. However, the role is explicitly based in Mumbai (\"in-office startup environment in Mumbai\"), which violates Shlok's requirement for Bengaluru or remote-first locations. No MBA or consulting is required.",
+    "pay_notes": "Pay not stated in the posting; needs evidence.",
+    "culture_notes": "Glassdoor data not available in the posting.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T23:40:31+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -26350,14 +26360,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-17T23:40:31+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 60: rejected (The role is located in Mumbai, violating Shlok's strict location preference of Bengaluru or remote-first.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-17T23:40:31+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role is located in Mumbai, violating Shlok's strict location preference of Bengaluru or remote-first."
   },
   {
    "id": "L0216",

@@ -190018,7 +190018,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Ahmedabad, Gujarat, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491136048",
    "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-finance-at-neuraleap-group-4491136048",
@@ -190044,13 +190044,13 @@
     "min_lpa": 24.0,
     "max_lpa": 30.0,
     "basis": "stated",
-    "source": "linkedin",
+    "source": "https://in.linkedin.com/jobs/view/chief-of-staff-finance-at-neuraleap-group-4491136048",
     "fit": "Possibly in range (stated)"
    },
    "score": {
     "rules": 80,
-    "research": null,
-    "total": 80,
+    "research": 35,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -190060,15 +190060,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff (Finance) at Neuraleap Group in Ahmedabad, asks 2-3 yrs and an MBA/Finance background you do not have.",
+    "fit_notes": "The posting asks for '2–3 years of experience in Corporate Finance, FP&A, Strategy Consulting, Investment Banking, Corporate Strategy, or Founder's Office/Chief of Staff roles' and 'Must-Have: MBA (Finance/Strategy) from an IIM (Preferred).' Shlok has 1.3 years of experience in operations and strategy at Ola, but has no MBA and no corporate finance/consulting background.",
+    "pay_notes": "Stated as 24–30 LPA, which clears the Rs 24.5 LPA threshold on the upper end, but the role requires finance and MBA qualifications he lacks.",
+    "culture_notes": "Optimized Solutions Ltd. (OSL) is a sovereign deep-tech company with 21 years of history, but no specific Glassdoor or culture ratings were found in the evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T23:18:59+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -190092,9 +190099,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 80"
+    },
+    {
+     "at": "2026-11-17T23:18:59+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Hard requirement for an MBA (Finance/Strategy) from an IIM (Preferred) and corporate finance/strategy consulting background which Shlok does not have; location is Ahmedabad.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30"
+   "updated_at": "2026-11-17T23:18:59+05:30",
+   "reject_reason": "Hard requirement for an MBA (Finance/Strategy) from an IIM (Preferred) and corporate finance/strategy consulting background which Shlok does not have; location is Ahmedabad."
   },
   {
    "id": "L1614",

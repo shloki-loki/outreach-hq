@@ -2240,6 +2240,15 @@
    "title": "Run ended before the 12-lead budget",
    "detail": "Researched 7 of 12 budgeted leads; remaining top-scored (L1569, L1562, L1564, L0220, L0221, L1546, L1599) still unresearched. No Apify used. Nat Habit founder LinkedIn URLs not found.",
    "ref": "I0018"
+  },
+  {
+   "id": "J0250",
+   "at": "2026-11-17T10:40:50+05:30",
+   "by": "send-track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 emails drafted, 0 referral notes (no connections matched), 0 application kits; skipped: L1556 Nat Habit (catch-all address, score 69 under 80, recheck cannot verify); L0085 CEO on do-not-email; L0105/L0003 catch-all under 80; L0008/L0013/L0010/L0007/L0018/L0023 guessed addresses, verifier quota out; L0040 covered by FRND email; L0050 as before. Kits skipped: remaining qualified leads' apply URLs are login-walled LinkedIn/Instahyre pages with no readable form. No speculative leads queued.",
+   "ref": ""
   }
  ]
 }

@@ -183090,7 +183090,21 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Gaurav Agarwal",
+     "title": "Co-founder, Nat Habit",
+     "role_type": "founder",
+     "linkedin_url": "",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "Named founder per Clay/theorg.com listing; no LinkedIn URL seen",
+     "found_at": "2026-11-17T10:16:36+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -183110,9 +183124,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 69: qualified"
+    },
+    {
+     "at": "2026-11-17T10:16:36+05:30",
+     "actor": "email-finder",
+     "event": "contact_added",
+     "detail": "Gaurav Agarwal (founder)"
     }
    ],
-   "updated_at": "2026-11-17T10:16:22+05:30",
+   "updated_at": "2026-11-17T10:16:36+05:30",
    "reject_reason": null
   },
   {

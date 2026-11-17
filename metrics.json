@@ -226,38 +226,38 @@
    "new_leads_7d": 1552
   },
   "2026-11-17": {
-   "leads_total": 1552,
+   "leads_total": 1648,
    "by_status": {
     "applied": 4,
     "to_approve": 8,
-    "qualified": 54,
-    "rejected": 148,
+    "qualified": 61,
+    "rejected": 175,
     "contacted": 11,
     "skipped": 3,
     "interview": 1,
-    "new": 1323
+    "new": 1385
    },
    "by_source": {
     "linkedin_post": 58,
-    "greenhouse": 8,
+    "greenhouse": 9,
     "lever": 6,
     "ashby": 18,
-    "linkedin": 291,
-    "instahyre": 122,
+    "linkedin": 361,
+    "instahyre": 146,
     "yc": 46,
     "founder_reoutreach": 983,
-    "naukri": 3,
+    "naukri": 4,
     "hiringcafe": 17
    },
    "by_tier": {
-    "1 - Strategy & Ops": 1205,
-    "2 - Product / Program / BD": 308,
+    "1 - Strategy & Ops": 1234,
+    "2 - Product / Program / BD": 370,
     "4 - Other": 4,
-    "3 - APM / Analyst": 35
+    "3 - APM / Analyst": 40
    },
-   "qualified_total": 77,
-   "researched_total": 227,
-   "with_email_total": 1021,
+   "qualified_total": 84,
+   "researched_total": 261,
+   "with_email_total": 1022,
    "emails_sent_total": 12,
    "emails_sent_today": 0,
    "cold_sent_total": 12,
@@ -271,7 +271,7 @@
    "offers": 0,
    "to_approve": 8,
    "followups_due": 0,
-   "new_leads_7d": 1552
+   "new_leads_7d": 1648
   }
  }
 }

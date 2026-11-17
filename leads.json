@@ -43147,15 +43147,15 @@
    "key": "pwc|in senior associate data product manager gcc advisory bangalore|bengaluru",
    "type": "job",
    "company": "PwC India",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "pwc.in",
+   "company_url": "https://www.pwc.in",
    "company_linkedin": "https://in.linkedin.com/company/pwc-india",
    "company_note": "",
    "title": "IN_Senior Associate_Data Product Manager_GCC_Advisory_Bangalore",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4482737503",
    "source_url": "https://in.linkedin.com/jobs/view/in-senior-associate-data-product-manager-gcc-advisory-bangalore-at-pwc-india-4482737503",
@@ -43186,8 +43186,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 45,
+    "total": 52,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -43197,15 +43197,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Data Product Manager at PwC India, asks 4-7 yrs; your 1.3 years of S&OP experience falls short of the seniority bar.",
+    "fit_notes": "The posting asks for 'Senior Associate' level with 'exp_min: 4, exp_max: 7'. While Shlok has product-adjacent build experience such as [idekho], he does not have 4+ years of experience. The role requires data product management and backlog grooming, which partially maps to his technical work at [idekho] and planning at Ola, but the 4-7 year requirement makes it a strict reject under your seniority rule.",
+    "pay_notes": "Pay is not stated in the posting and no specific salary figures were found in the evidence for PwC India data product roles.",
+    "culture_notes": "Ratings, employee reviews, and specific culture metrics were not found in the evidence provided. PwC India operates as a major global professional services network.",
+    "hook": "PwC US and PwC India recently formed a joint venture to help clients grow and compete at greater speed and scale.",
+    "hook_source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONlpta3NEZ0hwdkExSE5FNGVLQWxzZnJ2bi03Z0EzT1dnaXRWWVNncjlaSDBBVkRzWXUxSEVyM2k3NXdfQ2pzb05wY0g1eGE2RFBPbFJ5NDBVN0VGdW1YOHVRb2VXdzNBVks4R3BnbVBMSExhMGZfc2VnNEZqeDZCMllUem1zekZWNnEzdmJoalBVcl81M183all3?oc=5",
+    "researched_at": "2026-11-17T14:11:53+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "AI Jobs Barometer - PwC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CRF80T2FpdXNfSlFlcEdtOU4taC1aNFVFVnZoVW0yYVR4MnR2RU54b0RBTzV3ZVJGTFppTEpTaF85YkxVSEZrUlVOVGFJQ1J3N0NqVWE5Z1k0SEsyRXctSG5hUjdrbEdiSk1DSw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Global M&A trends in technology, media and telecommunications: 2026 mid-year outlook - PwC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWlN3a1h1Wk0zQzA1SkZIa0RkNGo4TmU3OTRhSm9nLUVhdnAwYVJ5MmNiQVpDbzhJRmZ2Ml9WdGtlT0pZRTB5b1RNN19RYWhITllaeTRtdGw1RVAtanpZVWw2Y0FMeDJockFSbjZHcm9URjJIcEpFTmQ4VkNNR3BjckxHN0RFcEJ5Zzk2bTNjVW1xUQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Global M&A trends in financial services: 2026 mid-year outlook - PwC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1c09FZzAwVGx0UkxzcHVfOU8wb0RKMmZCLXRQUzdsdU1zRWpKU1pQZnlyWi1FSVh5ZTRNbEJGVXhrZkI1WXRVXzBUU3o3QlZrUENVS2laYXVQUXhqcW9pcnJEamhqa2k5dDRIMEt6WjNPRk9BNTdDendpOA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Global M&A trends in energy, utilities and resources: 2026 mid-year outlook - PwC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbVlEMWd5dm5rcGtxZVdFZkRJTlV0YnVHME14bDRwM1pDcEw1S2hTNVMwMDdrRUxPWTdRbjZMNXY0WkkwOWtmUGdZY0hQeEY5S1ljdlJpYmlxVFhlZE84eWFxRndZQmN2eVYtYVZET2l5YkQtUFdfNHdxcTdEX1o1bjZtV3JiUQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "PwC US and PwC India Form Joint Venture to Help Clients Grow and Compete at Greater Speed and Scale - PwC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONlpta3NEZ0hwdkExSE5FNGVLQWxzZnJ2bi03Z0EzT1dnaXRWWVNncjlaSDBBVkRzWXUxSEVyM2k3NXdfQ2pzb05wY0g1eGE2RFBPbFJ5NDBVN0VGdW1YOHVRb2VXdzNBVks4R3BnbVBMSExhMGZfc2VnNEZqeDZCMllUem1zekZWNnEzdmJoalBVcl81M183all3?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Pillar Two Country Tracker - PwC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc1QtazVnNmR5UVdDNVpKUVJPVUNhZ3hJNzVoREk4YXVpMkF2NUFXaXpaaGJ2SHdEdXdsUFFvS3JhQVNRRXVqdmpqdjZYbm43aEpEd3hDajRPWDJWLXY1X2hKWFdCX21ROTgyY1QwdHVNdlV0WVZ6Mmw3RzEtdDFzVVcxUmp0R28?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -43229,14 +43269,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-17T14:11:53+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The posting requires 4-7 years of experience, but Shlok has ~1.3 years, making this a severe seniority mismatch that fails his target pay and experience criteria.)"
     }
    ],
-   "updated_at": "2026-11-14T22:52:01+05:30",
+   "updated_at": "2026-11-17T14:11:53+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting requires 4-7 years of experience, but Shlok has ~1.3 years, making this a severe seniority mismatch that fails his target pay and experience criteria."
   },
   {
    "id": "L0364",

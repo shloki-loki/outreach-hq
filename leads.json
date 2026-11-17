@@ -183282,15 +183282,15 @@
    "key": "tide|chief of staff|india",
    "type": "job",
    "company": "Tide",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "tide.co",
+   "company_url": "https://www.tide.co",
    "company_linkedin": "https://uk.linkedin.com/company/tide-banking",
    "company_note": "",
    "title": "Chief of Staff",
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4490285657",
    "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-at-tide-4490285657",
@@ -183321,7 +183321,7 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
+    "research": 66,
     "total": 66,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
@@ -183332,15 +183332,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Chief of Staff to Tide India CEO & SVP MOPS in Hyderabad; your Ola CEO/COO partnering and operations rhythm map directly, but pay is unconfirmed.",
+    "fit_notes": "Posting asks for a strategic partner to the Regional CEO (India) and SVP Member Operations (UK/Europe) to drive strategic planning, cross-functional execution, steering groups, and customer journey deep-dives. No strict years of experience or MBA/consulting background is listed. Shlok's direct engagement with Ola Electric's CEO and COO on fulfilment operations [ceo-coo] and cross-functional S&OP planning [sop, rebalance] closely answers the strategic and operational execution needs.",
+    "pay_notes": "Pay is not disclosed in the job posting and no verified Glassdoor/AmbitionBox data was returned for this specific role at Tide India.",
+    "culture_notes": "No Glassdoor or AmbitionBox ratings or culture flags were found in the evidence search.",
+    "hook": "Tide now supports over 2 million SME members across the UK, Germany, and France with over $300M raised in funding.",
+    "hook_source": "https://in.linkedin.com/jobs/view/chief-of-staff-at-tide-4490285657",
+    "researched_at": "2026-11-17T13:53:57+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "What is high tide flooding? - NOAA's National Ocean Service (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoalhQazBSUzlweDVycV84WDNwdVVhRnIzaUhnYW5ZODIxY20xX0d4ckZGMEpsMjFTOFh0VGJ0UU5iTUo3QXE1Q2tkdXgtVFlPVFdxZ2U5VURUYWZMMFZuSFNaTlBDbFUzU1Nz?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNkJmM3UzMlNSRkw2MDNRMUNzZmw1d2Zja21STWpNQUdtenRGRE4wVDlpRlNmdGJkM3FOZzFYV01PWVZxc2Y0S1MydktyME9FZUlRVDhpcmtHTENfdUtTa1czRDBVRDRRQ0lSLTFRdXEyS2JtSjM3eUZraG15SVE5azFNOXBrTzJLYlZVTmhBT3NKYkJHNExuanBDQ3NHNGJGNHozZXB4U3lNU3dXcFg00gG0AUFVX3lxTFBKTkdiU0JuTU1QNVQxTm1MVVhzNWl4dVBpZWFnSnNEak5JbFNjbE9GNEkxS2YwNjRISTNoNHloMkR2WE5JWDNqSU1odk1OOGJzeVY3Ujg0cUNCamgtM25MVEtlV2tjeFZpaEZRYjJXSTdiVDEyalk4Ykw1S0lqb2ViSng2V1pfRk9oQmJucVhsZmJmOWNSeXZSVUpIcno5VG1ZWDVCTnFfX0ZBQi05YmptQTZmTQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "NNSA Announces Aires Tide, a National Security Innovation Developed Using AI and Additive Manufacturing Under the Genesis Mission - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMG5HZUVpdTZrNkZpR21yQWtNYmNCeEJzell0aUhCNnQwUUQ3UkdtWlJJSlJZVDNMaGNwemNHZlBWMlFVTm1vTmp6bTBHVUZ2TjFMRnBlOUFHMEhESUVJNk02M0tKMmtqcnZDV194MTk1bEltMGhDOHJJSnF6cnhka0p5QkwwdGZLa0p4QTlzTmNEMDdYR3dnS1dHSTF2U01ZNkpuOUdlR3UyNjhTU1F0eUY4S2k?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "‘These men feel protected’: how Mexico’s first femicide squad is turning the tide on record killings - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVlNejIwYUFUcUU3aXY0Z0t4M0liVjZseGYzYUtlNjdzSXBiRVRfOGU4UGUtYlZwQkliYWNYRUlMWWt5cmU3Vm1HSHNpT1pWdTZiYW9uemZPY1phbVA1S2t5b3RCbUd4dzFGeDYtUjFxTXVnZURHX3ZBZWd5al92VG82V1M2TkxCSHhmaWJxZFBfY1lCM05yZXlkeERnV0tFYnY3aVg3Z2FkakttNmtWaDlKRFBrYUd2cEE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Ugly duckling to swan: Is the blue wave turning the tide for India? - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYW44VFJQemoxSVFIR3hLUXM0Wld1UXVYd041aFp0WnU3UkoxeXN4dlFOS2RaTGtwWUsxNThlXzNpMjFLRGw4akl3U3pMZ3AyNGtjVHkxYmNuSkIxVUxnaWxMcHFfcHdvZEEzdlBCd2FXXzl0ckREQ3pXODd1eF9yVVlZd3JIM1E2TjJiTWhoZTA5LWRUVl85cWV2U2Nxd1JlQ3NzeFE5VkUxMk9FbkVGNU9hbEtyQ2E1dVIyWlhOUWxXNWVTX0lkNUFMNzVINUJ1T2luT0NfS1pzVDZqZ3g3Ym1yZm9mNkVy0gHuAUFVX3lxTE1WZDZFSnRTWXJSM3c1MFNPTnZiajdFNUdWb2M3VU5aSlVLVEZ3Um5iVFBfOXRQVUFJOU9Fb1dRbXVCNGpodzZCNFk1b3MzZXBab2h0TnVqaEJfWTV5VlJ3RTBucnJyOTZpZWxmZF9TWXoxSHczakY4eEU4Zkh1eVM2aGR3RkhydnVxczRtVWdzb3hqVEZ3X3EzWXR0NlBiemxkanRRRHBWbkItTkJiSEEzay13Vi1GNGxCbk9pOXdGbnlWampXd19pTWJneEFyRkpvUi1nMzZrUGk0aG5CbUFleTBEZ2hScmFUZzdfSEE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Lindsell Train: is the tide finally turning for quality investing? - QuotedData",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRll3QWhmR3M0cmJwZVVUd250VjRldmNLQUFXcldqVDNoQWNwaTBub1BJVGExYTdYQllqUklmNGJwNkZvWGpMYlY1X0xXWXpxMTJINjdhblRnQ1NPMEJ0RGU2MlB0dXpmaWpsY0JvTWFxMjAwb2Jndm1SSEp3WGs1X1dkTnFyTUh0YXBhQ2pmOG9kTFNVVEsxT18tRmM?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop",
+     "rebalance",
+     "o2d"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -183364,14 +183407,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T13:53:57+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 66: qualified"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-17T13:53:57+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1556",

@@ -193,7 +193,7 @@
    "opened_at": "2026-11-15T20:22:16+05:30",
    "last_seen": "2026-11-15T20:22:16+05:30",
    "count": 1,
-   "remedy": "Cause: the Claude session that shipped PR 4 and PR 6 closed W0004/W0005 but never marked W0006-W0008 done, so their claims expired. Remedy (not done by a scheduled run, which may not change work state): in the next interactive session mark W0006, W0007 and W0008 done with evidence PR 4 (dd7409c) and PR 6 (b4831bb); W0008's last part (research the 275 unresearched leads) can be split into a new research item if wanted. supervisor/check should then pass.",
+   "remedy": "Still open 17 Nov: supervisor/check failed again at 17:27 IST (and 01:55, 05:15) with W0006-W0008 expired claims. A work item W0014 was claimed by claude at 21:10 IST (handover of 60 founder draft items from codex, 20:55 IST), so another session may be active; do not touch. Remedy unchanged: mark W0006-W0008 done with evidence PR 4 (dd7409c) and PR 6 (b4831bb) in an interactive session.",
    "resolved_at": null
   },
   {

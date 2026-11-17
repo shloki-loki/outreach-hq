@@ -2384,6 +2384,15 @@
    "title": "Diagnosis: Drafts waiting: 8 cold drafts unapproved, oldest M0016 since 15 Nov",
    "detail": "Cause: drafts need Shlok's approval; nothing is wrong technically. Remedy: Shlok opens the Approvals page and approves, edits or skips M0016-M0023 (M0016 is a speculative draft for Unicommerce; M0023 to GoKwik has a 'published' email grade, others verified). Skip any that are now stale.",
    "ref": "I0019"
+  },
+  {
+   "id": "J0266",
+   "at": "2026-11-17T21:42:06+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Work items W0006-W0008 left in working after the work shipped",
+   "detail": "Still open 17 Nov: supervisor/check failed again at 17:27 IST (and 01:55, 05:15) with W0006-W0008 expired claims. A work item W0014 was claimed by claude at 21:10 IST (handover of 60 founder draft items from codex, 20:55 IST), so another session may be active; do not touch. Remedy unchanged: mark W0006-W0008 done with evidence PR 4 (dd7409c) and PR 6 (b4831bb) in an interactive session.",
+   "ref": "I0014"
   }
  ]
 }

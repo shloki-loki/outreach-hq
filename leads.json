@@ -25688,7 +25688,7 @@
    "key": "pharmapoint|founder office associate|india",
    "type": "job",
    "company": "Pharmapoint Group",
-   "company_domain": "",
+   "company_domain": "pharmapointgroup.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "",
@@ -25696,7 +25696,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "439802",
    "source_url": "https://www.instahyre.com/job-439802-founder-office-associate-at-pharmapoint-group-mumbai/",
@@ -25727,8 +25727,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -25737,15 +25737,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder Office Associate at Pharmapoint Group in Mumbai, asks 0-4 years, pay unknown; your S&OP work maps to operations.",
+    "fit_notes": "The posting asks for 0-4 years of experience and working closely with core management on strategic initiatives across Finance, Operations, and Legal Documentation. Shlok's S&OP and supply chain execution work at Ola Electric ([sop], [ceo-coo]) map well to the operations requirements. However, the role is in Mumbai, and Shlok requires Bengaluru or remote-first. Pay is not stated.",
+    "pay_notes": "Pay not stated in the posting; no external evidence available.",
+    "culture_notes": "Glassdoor data and specific employee reviews were not found in the posting or web sources.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T23:37:44+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -25769,14 +25779,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-17T23:37:44+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role is located in Mumbai, violating Shlok's preference for Bengaluru or remote-first, and pay is unstated with no evidence it clears Rs 24.5 LPA.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-17T23:37:44+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role is located in Mumbai, violating Shlok's preference for Bengaluru or remote-first, and pay is unstated with no evidence it clears Rs 24.5 LPA."
   },
   {
    "id": "L0211",

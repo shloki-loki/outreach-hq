@@ -2393,6 +2393,15 @@
    "title": "Diagnosis: Work items W0006-W0008 left in working after the work shipped",
    "detail": "Still open 17 Nov: supervisor/check failed again at 17:27 IST (and 01:55, 05:15) with W0006-W0008 expired claims. A work item W0014 was claimed by claude at 21:10 IST (handover of 60 founder draft items from codex, 20:55 IST), so another session may be active; do not touch. Remedy unchanged: mark W0006-W0008 done with evidence PR 4 (dd7409c) and PR 6 (b4831bb) in an interactive session.",
    "ref": "I0014"
+  },
+  {
+   "id": "J0267",
+   "at": "2026-11-17T21:42:38+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Checks 17 Nov evening",
+   "detail": "gh run list: all 15 latest workflow runs succeeded; schedules ran late but ran (Track and send 11:15 UTC, Digest 11:23 UTC, Lead scout 09:43 UTC, Research 08:15 UTC, Live check 07:48 UTC, Founder batch 12:11 and 14:55 UTC). Mac run-log: scrape 15:24 IST (39 new), follow-up/track 16:45 IST, send-track 10:40 IST, lead-scout 10:17 IST, follow-up 12:40 IST all ok. Data branch log shows no collisions or repair commits; last commits 20:55 handover and 21:10 W0014 claim by claude (another session working on 60 founder drafts). research-worker is marked failed in run-log at 14:13 IST despite 27 researched; and the writer drafted 0 because the Gemini free quota was used up (4 models), so no new drafts today. Reoon 3 calls today, Hunter 25 this month (still no key). Apify 2.19 USD of 3.50 cap this month. No messages stuck or failed, 0 bounces.",
+   "ref": ""
   }
  ]
 }

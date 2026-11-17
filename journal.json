@@ -2375,6 +2375,15 @@
    "title": "Drafts waiting: 8 cold drafts unapproved, oldest M0016 since 15 Nov",
    "detail": "8 messages in draft (M0016-M0023). M0016 created 15 Nov 13:10 IST (over 2 days, hits 3 days tomorrow); M0017-M0023 created 16 Nov 10:55-10:56 IST (about 35 hours). Mode is live, no sends today (emails_sent_today 0); nothing approved is waiting. Digest at 16:53 IST said 8 to approve.",
    "ref": "I0019"
+  },
+  {
+   "id": "J0265",
+   "at": "2026-11-17T21:42:02+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Drafts waiting: 8 cold drafts unapproved, oldest M0016 since 15 Nov",
+   "detail": "Cause: drafts need Shlok's approval; nothing is wrong technically. Remedy: Shlok opens the Approvals page and approves, edits or skips M0016-M0023 (M0016 is a speculative draft for Unicommerce; M0023 to GoKwik has a 'published' email grade, others verified). Skip any that are now stale.",
+   "ref": "I0019"
   }
  ]
 }

@@ -190233,10 +190233,17 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 79: qualified"
+    },
+    {
+     "at": "2026-11-17T23:41:07+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-17T23:17:57+05:30",
-   "reject_reason": null
+   "updated_at": "2026-11-17T23:41:07+05:30",
+   "reject_reason": null,
+   "people_searched_at": "2026-11-17T23:41:07+05:30"
   },
   {
    "id": "L1611",

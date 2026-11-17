@@ -2321,6 +2321,15 @@
    "title": "Ran",
    "detail": "Outreach HQ 17 Nov: 8 to approve",
    "ref": ""
+  },
+  {
+   "id": "J0259",
+   "at": "2026-11-17T17:27:48+05:30",
+   "by": "supervisor/check",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
+   "ref": ""
   }
  ]
 }

@@ -174241,7 +174241,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489876460",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-infra-data-center-cable-solutions-sales-at-talent-integrators-4489876460",
@@ -174257,23 +174257,23 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Role - Business Development Manager - Infra & Data Center Cable Solution Sales\n Location - Bengaluru\n Experience - 10 to 15 years (Last 5 years in LV Cable Solutions Sales) \n Compensation - Max 30 Lacs (No flexibility)\n About the Role \n The Business Development Manager - Infra & Data Centre role is pivotal in driving growth within the Building and Data Centre segments, focusing on residential, industrial, commercial sectors, and large-scale data centre projects for LV / ELV Cables. The incumbent will identify and develop new business opportunities, foster strong relationships with consultants, contractors, builders, government agencies, and data centre operators, and contribute to achieving the Building segment's strategic goal. This position requires comprehensive market research, competitive analysis, and the implementation of effective sales strategies aligned with organizational objectives to ensure revenue and volume targets are consistently met.\n Responsibilities \n Client Acquisition: Identify and target potential customers in residential, industrial and commercial segments.\n Consultant Approvals: Drive consultant engagement and secure product approvals to influence project specifications.\n Proposal & Pitch Management: Develop customized proposals, presentations, and pitch materials to effectively communicate product offerings.\n Revenue Forecasting: Support accurate forecasting based on pipeline analysis and conversion rates.\n Sales Performance: Achieve quarterly and annual sales targets, monitor progress, and implement corrective measures when needed.\n Cross-Functional Collaboration: Work closely with internal teams such as marketing and core sales to align strategies, increase profitability, and drive revenue growth.\n Market Intelligence: Conduct research on market trends, competitor activities, and emerging opportunities.\n Strategic Planning: Collaborate with leadership, sales, and channel teams to design and execute business development strategies aligned with annual goals.\n Industry Representation: Attend trade shows, networking events, and industry forums to enhance brand visibility and build connections.\n CRM Management: Maintain and update CRM systems to track leads, interactions, and customer insights.\n Performance Metrics: Track KPIs such as lead conversion, proposal success rates, and revenue growth to optimize strategies.\n Reporting: Prepare monthly and quarterly reports on BD activities, pipeline status, and market outlook.\n Supporting Cross-Functional Team: Partner with internal teams, including marketing and core sales, to align strategies that drive both revenue and profitability. Support these teams by identifying potential leads, enhancing product or service features, and developing competitive pricing, advertising, and promotional plans.\n KRA's / KPI's:\n Number of new customer acquisitions.\n Revenue generated from new customers.\n New product sales.\n Number of consultant approvals.\n Qualifications \n Bachelor's degree in th",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "20 Lacs to 30 Lacs (upper limit - no flexibility)",
+    "min_lpa": 20.0,
+    "max_lpa": 30.0,
+    "basis": "stated",
+    "source": "posting",
+    "fit": "Possibly in range (stated)"
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 10,
+    "total": 32,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -174283,15 +174283,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "BDM for Infra & Cable Solutions, asks 10-15 yrs exp (max 30 LPA); exceeds 4-yr experience ceiling.",
+    "fit_notes": "The posting specifies 'Experience - 10 to 15 years (Last 5 years in LV Cable Solutions Sales)' and '10 years plus of experience in sales and business development of LV / ELV Cable.' Shlok has ~1.3 years of experience total, mostly in Strategy & Operations and S&OP planning ([sop], [msl]). This is an extreme mismatch on seniority and domain.",
+    "pay_notes": "Stated as 20 to 30 LPA max for 10-15 years of experience.",
+    "culture_notes": "Posted via an agency/recruitment firm (Talent Integrators); no direct company culture data available.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T13:50:58+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -174315,14 +174322,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T13:50:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 32: rejected (Requires 10 to 15 years of experience in LV/ELV Cable Solutions sales, whereas Shlok has ~1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T13:50:58+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Requires 10 to 15 years of experience in LV/ELV Cable Solutions sales, whereas Shlok has ~1.3 years."
   },
   {
    "id": "L1466",

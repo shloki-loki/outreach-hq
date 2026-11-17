@@ -189716,15 +189716,15 @@
    "key": "hevodata|strategy and ops|bengaluru",
    "type": "job",
    "company": "Hevo Data",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "hevodata.com",
+   "company_url": "https://hevodata.com",
    "company_linkedin": "https://www.linkedin.com/company/hevodata",
    "company_note": "",
    "title": "Strategy & Ops (Founder's Office)",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490428171",
    "source_url": "https://in.linkedin.com/jobs/view/strategy-ops-founder-s-office-at-hevo-data-4490428171",
@@ -189755,8 +189755,8 @@
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 75,
+    "total": 79,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -189766,15 +189766,26 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Hevo Data in Bengaluru, asks 2-8 yrs; your CEO-level operations and S&OP work at Ola Electric maps directly.",
+    "fit_notes": "The posting asks for \"2 to 8 years\" of experience, working directly with the CEO on operational rhythm, strategic projects, and cross-functional execution. Shlok has about 1.3 years of experience, so the 2-year minimum is a slight stretch (he is just below the lower bound), but his direct experience partnering with the CEO and COO at Ola Electric on high-stakes fulfillment operations ([ceo-coo]), owning S&OP planning ([sop]), and driving cross-functional execution ([cell]) maps directly to the core requirements. The posting does not require an MBA or consulting experience.",
+    "pay_notes": "Pay is not stated in the posting. At 1.3 years of experience, reaching the Rs 24.5 LPA fixed target may be a stretch for some Series B/C SaaS companies, but Founder's Office roles often command competitive compensation for top-tier execution candidates.",
+    "culture_notes": "No company culture ratings or employee reviews were found in the provided evidence.",
+    "hook": "You'll work directly with the CEO on problems that cut across functions, owning the operational rhythm and strategic projects from day one.",
+    "hook_source": "https://in.linkedin.com/jobs/view/strategy-ops-founder-s-office-at-hevo-data-4490428171",
+    "researched_at": "2026-11-17T23:17:57+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "cell"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -189798,9 +189809,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-17T23:17:57+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 79: qualified"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30"
+   "updated_at": "2026-11-17T23:17:57+05:30",
+   "reject_reason": null
   },
   {
    "id": "L1611",

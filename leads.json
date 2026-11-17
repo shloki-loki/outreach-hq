@@ -189918,7 +189918,7 @@
    "key": "truglobal|associate manager ceo office|bengaluru",
    "type": "job",
    "company": "TRUGlobal",
-   "company_domain": "",
+   "company_domain": "truglobal.com",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/truglobal-inc",
    "company_note": "",
@@ -189926,7 +189926,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491121458",
    "source_url": "https://in.linkedin.com/jobs/view/associate-manager-ceo-office-at-truglobal-4491121458",
@@ -189957,8 +189957,8 @@
    },
    "score": {
     "rules": 75,
-    "research": null,
-    "total": 75,
+    "research": 73,
+    "total": 74,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -189968,15 +189968,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "CEO Office at TRUGlobal in Bengaluru, asks 3-6 yrs (stretch); your S&OP and CEO-COO partnership work maps directly.",
+    "fit_notes": "The posting asks for \"3–6 years in PMO, business operations, CEO office, or transformation projects\", \"Strong Excel, PowerPoint, Power BI, and AI tools experience\", and the ability to \"Work with sales, delivery, finance, HR, and operations\". No MBA or consulting background is required. Your 1.3 years is a stretch for their 3-6 year ask, but your direct experience partnering with Ola Electric's CEO and COO [ceo-coo] and running executive-level S&OP operations [sop] directly maps to the transformation and coordination requirements.",
+    "pay_notes": "Pay is not stated in the posting, and no external pay evidence was found for TRUGlobal. At 1.3 years, hitting Rs 24.5 LPA fixed in an IT services firm like TRUGlobal is a stretch, but the role level (Associate Manager - CEO Office) is appropriate for compensation testing.",
+    "culture_notes": "No company website, employee ratings, or cultural reviews were found in the provided research notes.",
+    "hook": "Track CEO priorities, milestones, deliverables, and ownership across business operations and transformation initiatives.",
+    "hook_source": "https://in.linkedin.com/jobs/view/associate-manager-ceo-office-at-truglobal-4491121458",
+    "researched_at": "2026-11-17T23:19:43+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -190000,9 +190010,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 75"
+    },
+    {
+     "at": "2026-11-17T23:19:43+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 74: qualified"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30"
+   "updated_at": "2026-11-17T23:19:43+05:30",
+   "reject_reason": null
   },
   {
    "id": "L1613",

@@ -183427,7 +183427,7 @@
     "culture_notes": "AmbitionBox SmartQ-Bottle Lab 4.0/5, 21 reviews (entity match unconfirmed).",
     "hook": "",
     "hook_source": "",
-    "researched_at": "2026-11-17T10:15:12+05:30",
+    "researched_at": "2026-11-17T10:15:58+05:30",
     "by": "lead-scout"
    },
    "stage": "rejected",
@@ -183460,9 +183460,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 51: rejected (Generic B2B APM (Figma, PRDs, Jira), SmartQ pay not evidenced; APM bands rarely clear 24.5 LPA at 1 yr and no product-management history in profile beyond an internship.)"
+    },
+    {
+     "at": "2026-11-17T10:15:58+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 51: rejected (Generic B2B APM (Figma, PRDs, Jira), SmartQ pay not evidenced; APM bands rarely clear 24.5 LPA at 1 yr and no product-management history in profile beyond an internship.)"
     }
    ],
-   "updated_at": "2026-11-17T10:15:12+05:30",
+   "updated_at": "2026-11-17T10:15:58+05:30",
    "reject_reason": "Generic B2B APM (Figma, PRDs, Jira), SmartQ pay not evidenced; APM bands rarely clear 24.5 LPA at 1 yr and no product-management history in profile beyond an internship."
   },
   {

@@ -251,6 +251,20 @@
    "count": 1,
    "remedy": "Cause: the 10:17 IST lead-scout run stopped at 7 of 12 leads (its own note: it ran out of its time/step budget, no failure of a provider). The 7 left are still 'qualified/new' and the GitHub research-worker (14:13 IST, 27 researched) is working through the same queue, so nothing is lost. Remedy: none needed; resolve once L1569, L1562, L1564, L0220, L0221, L1546, L1599 are researched.",
    "resolved_at": null
+  },
+  {
+   "id": "I0019",
+   "key": "supervisor:Drafts waiting: 8 cold drafts unapproved, oldest M0016 since 15 Nov",
+   "agent": "supervisor",
+   "severity": "warn",
+   "title": "Drafts waiting: 8 cold drafts unapproved, oldest M0016 since 15 Nov",
+   "detail": "8 messages in draft (M0016-M0023). M0016 created 15 Nov 13:10 IST (over 2 days, hits 3 days tomorrow); M0017-M0023 created 16 Nov 10:55-10:56 IST (about 35 hours). Mode is live, no sends today (emails_sent_today 0); nothing approved is waiting. Digest at 16:53 IST said 8 to approve.",
+   "status": "open",
+   "opened_at": "2026-11-17T21:26:44+05:30",
+   "last_seen": "2026-11-17T21:26:44+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

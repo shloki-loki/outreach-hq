@@ -184089,15 +184089,15 @@
    "key": "infoblox|product manager ansible and terraform|bengaluru",
    "type": "job",
    "company": "Infoblox",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "infoblox.com",
+   "company_url": "https://www.infoblox.com",
    "company_linkedin": "https://www.linkedin.com/company/infoblox",
    "company_note": "",
    "title": "Product Manager - Ansible & Terraform",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4473629271",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-ansible-terraform-at-infoblox-4473629271",
@@ -184119,17 +184119,17 @@
    "exp_text": "Seniority level Not Applicable Employment type Full-time Industries Computer and Network Security",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "None",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "None",
     "fit": "Unknown"
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 40,
+    "total": 54,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -184139,15 +184139,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Technical PM at Infoblox asking 1-3 yrs for DevOps and CloudOps automation, but requires Ansible, Terraform, and cloud infrastructure experience you do not have.",
+    "fit_notes": "The posting asks for 1-3 years of experience to 'shape the automation and cloud operations experience' and deliver capabilities across 'REST APIs, Ansible, Terraform, AI-driven workflows, and public cloud platforms including AWS, Azure, and GCP'. Shlok's core background ([msl], [sop], [ceo-coo], [mrp], [o2d]) is in S&OP production planning and supply chain logistics at Ola Electric. While he developed a Flask REST API during an internship [idekho] and knows Python and SQL, he lacks any product or engineering experience in DevOps, CloudOps, or infrastructure-as-code tooling.",
+    "pay_notes": "No compensation details provided in the job posting or evidence.",
+    "culture_notes": "Job description cites Glassdoor Best Places to Work 2025 and Great Place to Work certification. However, news reports from November 2026 note a SharePoint data breach exposing customer and staff data.",
+    "hook": "Infoblox acquired network observability platform Kentik to integrate traffic visibility into its DNS and DDI platform.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjRqb3I3elh6b001SGVrdEpBVDg3UXJ1cW5LRXlCTGl0YVpaQUFwd0ZuTExmNFM5OHQ2OWUwYWFmSlQ3WG1aLTJmenkyWl81dzBxaGxXUHVfSk16R05TSGV5UmsxQ2dQaHpXSTA4X3V4WVRVS04yakJIM2NyUmhnQ0c0YWxoMVNFNmJxZHd3aTNkdWFTaHRPM2licWdwQThKbkgzRlNieUxxbDJIQzlPWmc5N3RDbndWMFdCRVFzRnVZcmluWG9ONjZYZw?oc=5",
+    "researched_at": "2026-11-17T13:49:01+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Infoblox customer and staff data exposed in Sharepoint breach - The Register",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzhwcU5Ia2V4Tld1X1JnUW1MY1p0SDNxc2hjTlhjOEdoenRmVTFSZmdPemVGY0pNLVdxUWZjMWxfUmo2Y1doY2xEQVl6UkVsR2RGeDE2cGZGSHR4TjFIeWxkUjNmQUJVWl9LMlRKVGRudDBBdmp6ejE0SUpQSFViTlZvaV9ycVZzWGxycWUwbVE5eEVzVHN2eTFQRHkxelJWZnVPQ2lOOEZCRlFtcDRLWk0xbVB3WWVX?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "VCF 9.1 Networking - Infoblox IPAM Integration Demo - VMware",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41X3dJSDFNU1N3enR4RGtEc2d0c09NZTdJRTdrNkN4ekFtVkl3b0tsTmVldjUtcXExakhKSTRGNlp1SjRwMEFyZUNvRTQ4Y0JJd1RXWA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’ - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORWlrUm05bGVEUnZGM1p0LUt5TUtkZkJQMzF4TEZQQWpFMjJaRnp2bDJ1SjE3RDZYOGladHJVN01HQjhrd01wT2VTTVR1U0lLUjhpVXloeHdQU2l5dTBMa2FfX2dXaHNJNVA3akU1XzN6aWdZcDBIellTZ3pzSnMtNTB3NjVPNnJwbjFXa1JzSWQ0VHVjQjQxZTdsNkM3NGlESHI2d0dPUzlnc2pZTTVpV0NwUjRsSEVwcUxRQ0JMS0U?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Infoblox acquires Kentik, adding network observability to its DNS and DDI platform - Network World",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjRqb3I3elh6b001SGVrdEpBVDg3UXJ1cW5LRXlCTGl0YVpaQUFwd0ZuTExmNFM5OHQ2OWUwYWFmSlQ3WG1aLTJmenkyWl81dzBxaGxXUHVfSk16R05TSGV5UmsxQ2dQaHpXSTA4X3V4WVRVS04yakJIM2NyUmhnQ0c0YWxoMVNFNmJxZHd3aTNkdWFTaHRPM2licWdwQThKbkgzRlNieUxxbDJIQzlPWmc5N3RDbndWMFdCRVFzRnVZcmluWG9ONjZYZw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Infoblox research finds 65,000 expired domains re-registered daily in first half of 2026 - TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkZPd0owbF91dEhkVlMyRmRQMWtENWRLN0VPbm1GdWdvdElocjgzRmlMeFlEa1YzUlV2UVRVd21ZZC05MFhjQlB0dlhTNXlESWZTelRJTG1SSF9JYmdFVTgxRktDWE1Pd0dyQlFTcU5VU3dvR2Fnbm5RM1d0Ti14d1FDMnkwcFMtMkJGMUVkUUo0UC1LRnJDVjBwM2xNeC0xNklmaA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Infoblox acquires Kentik for comprehensive insight into network traffic - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHRTUjltVUdiTnZ1MkZEVDZlS2QxQUZiUEUwZDVOZWlMdXJsN3czcEdiWldqZUFIblFwWkN1RE5lVkJQWC1raUVWZFZ4VVAzVmFfazhweE96bnE4eFRjUjBnbHJQMjljY2VqOVNTc0dYaWZyU2pxcUNYaldZcWpWWDh0cjFHTjlyNVVNSTVKQlQwOHl1RWg2QWl1XzZLSjNLVVVvQnFzOEY1dG45Y2JxME9yMW9ocmNp?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -184171,14 +184211,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-17T13:49:01+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 54: rejected (The role requires specialized DevOps, CloudOps, and infrastructure automation expertise (Ansible, Terraform, AWS/Azure/GCP) which Shlok's S&OP and operations background does not cover.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-17T13:49:01+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires specialized DevOps, CloudOps, and infrastructure automation expertise (Ansible, Terraform, AWS/Azure/GCP) which Shlok's S&OP and operations background does not cover."
   },
   {
    "id": "L1565",

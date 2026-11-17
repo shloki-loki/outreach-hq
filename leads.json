@@ -27697,15 +27697,15 @@
    "key": "marriottinternational|business operations manager|india",
    "type": "job",
    "company": "Marriott International",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "marriott.com",
+   "company_url": "https://www.marriott.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Business Operations Manager",
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "441564",
    "source_url": "https://www.instahyre.com/job-441564-business-operations-manager-at-marriott-international-hyderabad/",
@@ -27736,8 +27736,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -27746,15 +27746,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Operations Manager at Marriott International, asks 8+ years; you have 1.3 years and are based in Bengaluru.",
+    "fit_notes": "The posting asks for \"8+ years' Experience with 3 + years in Program. Portfolio Management, Business Operations or a similar Horizontal Role\", \"Bachelor's in engineering\", and notes that \"MBA or Equivalent is a Big Plus.\" Shlok has ~1.3 years of experience, which falls far short of the 8+ years required. While he has strong program and operations experience from Ola Electric [sop, ceo-coo], the experience gap and location mismatch (Hyderabad vs Bengaluru/remote) make this a clear reject.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Ratings and employee reviews not found in the provided evidence.",
+    "hook": "Marriott International recently signed South Asia's largest Courtyard by Marriott in Bengaluru.",
+    "hook_source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3FrUDlWcnM2TDMydkJITEJ1MEtHcTd1M0NDSG1VLXo4bEZxaE9PZ054eWdRa0lqcFhRTVlRRnZBMm1xd3J1NGR2a1BmMGJndEZIY21XLWRiUXNVTUxuQm5wV0V6N0lGN3h0QjlWREEwblhheUhWT2U1bk5lUEVVeE1zWlRSVmhkQnZnQUdpVEdTRUw0a3BwNHVyM0pUNjFmMlppWGE0bVZKX1drMmJ3MHI4R3VqUQ?oc=5",
+    "researched_at": "2026-11-17T23:40:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Marriott International Completes Transaction to Bring Lefay into its Global Portfolio through Joint Venture - Investor Relations | Marriott International",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnZiWm9td2x6LXctQXFnUm8wTDNzLU1WNkdMZ3didDhUOC1BV29LTlBTay1fNGRjVmJhTUp3ZUNpckJXcVYxb1JkTzhDVUdBNVU4MWpfbi12TUE5Q2RRZXpDTUJrQ001V1publRzQlVCY1VZVE9pMV9UQkZRcE1BTjdKZ2lENjY3U2JCb2xkeDZpUU5aTUNpa1R3LUdoRnVycXRXSkVXMHM1M2RBTUxRdlNoZXRsb0V4OWNjWi1MOEVMUQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Rahul Puri takes charge of Marriott International’s North India, Bhutan and Nepal operations - Hotelier India",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdkFZYnlhREJGYWo4ZkhYOWxodDBIQy1Gb3c3MzFrTEI0Y29FY0ZBWXltdV9vb01IV29hUFRuLUFzTlRDZFpHR3pFbzNoSG5RV05RQzhnWHpSMC0tTUNDMms2ZVdNMlVGYlNVVGZIbzhnR25jXzhQTnRLdlc2NEpKUXRoSG9wZ09UVHRSSUhjaWFDQThKVGJ4Sjc5a1lwM3pJQ3lDR0d5UmhYV2VjS0RIMUtUQXNtTUs5MVQ5MDRYanYzS28?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "CAM Assists Marriott International On Landmark JW Marriott Residences Projects - LawBeat",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOG56Q2VQTGpkRDhhblA3REdTTno3b3RKckwzWjlUYjdLTTBDUEJLM252NERudy1nWjY0VTJ2bGJtQzE3UlZ4M2hwZ0pOd0lVS1R1QkZPMDVCQ0FlajBWbkVYeVBLOXlidjlrN2preDVqQkxWVlNYSFdzNVFrRGhDdC1tV3Jza0NsSG1kSWpvVEotZkNpVTR6RFpMMW9zaGwyUnRpalYwV2JudW5reVZReHdQdmZ6UdIBuwFBVV95cUxNdnRxaGNyTnJYdmNBWkNNd0EySTd5Z2NwblFzdHZWeWVZQzM0cFFlTEQySXI3SDFYbC1NSFlCNFJrNXA2elBNNmhwQW44ZGMwQ0YyQk90ejNLNnlBSmFrclhLNGF1TEVDdk1oZm1KSE5BZnJsdFJTbklhTFROQm1NOHV5V0R6RXdRenNSbUF4Rk1ESUhFal9CZ0N2aTVRNHViV0dNc2p6dmJRZTVXeFhPNGowRXpmdjJFRXA0?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Marriott International signs South Asia’s largest Courtyard by Marriott in Bengaluru - Travel Trade Journal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3FrUDlWcnM2TDMydkJITEJ1MEtHcTd1M0NDSG1VLXo4bEZxaE9PZ054eWdRa0lqcFhRTVlRRnZBMm1xd3J1NGR2a1BmMGJndEZIY21XLWRiUXNVTUxuQm5wV0V6N0lGN3h0QjlWREEwblhheUhWT2U1bk5lUEVVeE1zWlRSVmhkQnZnQUdpVEdTRUw0a3BwNHVyM0pUNjFmMlppWGE0bVZKX1drMmJ3MHI4R3VqUQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Traveloka and Marriott International Partner to Bring the World's Leading Hotel Brands Closer to Southeast Asia's Travelers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFkzNnlnQVQ5a25LeENGREktYmdqSS1XNGpEQjRFbzUtN2J2S3d2cHhLY2ZzU3cxUDVscndrN011ckZJRzVHYzV3RVdnTlNweUtiSWttaU9CYU1QeGxhQUpUbVM2S1BlRE05VDh3ZUhIWVA5eHotQVgzdm9PNWJZeUhTcG9lZ0h5SFhQMnRVRC0xcHNjcDdNMjBFaFJLWHRRSVhSWGszbHl1dFFLMm1HNk45T2w?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Marriott International Reports Second Quarter 2026 Results - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmZvSkk2cG9qclVsNDBDdHVGUEFsU2ZMRDExSFk4bkxLRlFqN3lJZWpfMXlaNDFuNFBld0NVd1ZxR20zczNJeVBpRGNza04xSk1FVlhnRno5MGs3R1ZURUpVc205aW5rb1laaFRNdDNsZ2gzcWNNeEd2YUxTbkdjb1prV2ltSllJNFdhMTdkY2JndFZEYl9pTEdpRW81M3BoZ3l6V0hneHJ6ZEFhbHJ0cXMwVW0?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -27778,14 +27819,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-17T23:40:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role requires 8+ years of experience while Shlok has ~1.3 years; also located in Hyderabad instead of Bengaluru or remote.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-17T23:40:58+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role requires 8+ years of experience while Shlok has ~1.3 years; also located in Hyderabad instead of Bengaluru or remote."
   },
   {
    "id": "L0228",

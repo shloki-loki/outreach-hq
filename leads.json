@@ -191427,7 +191427,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "linkedin",
    "source_id": "4491108904",
    "source_url": "https://in.linkedin.com/jobs/view/supply-chain-planning-consultant-at-evnek-4491108904",
@@ -191443,7 +191443,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "Job Description – Supply Chain Planning Consultant \n Experience: 10+ Years\n Location: Remote\n Notice Period: Immediate Joiner \n Job Overview \n We are looking for an experienced Kinaxis Supply Chain Planning Consultant with 10+ years of experience in supply chain planning, transformation, and implementation. The ideal candidate should have strong expertise in Kinaxis RapidResponse, supply planning, inventory optimization, production planning, DRP, MRP, and end-to-end supply chain integration. \n The candidate will be responsible for translating business requirements into effective planning solutions, supporting Kinaxis implementation projects, and driving supply chain process improvements across global operations. \n Key Responsibilities \n Lead and support supply chain planning initiatives using Kinaxis RapidResponse. \n Drive supply planning, inventory optimization, production planning, DRP, MRP, and deployment planning processes. \n Support Kinaxis RapidResponse implementation, configuration, and process integration. \n Understand existing supply chain processes and define future-state operational workflows. \n Work closely with business stakeholders to gather requirements and translate them into functional solutions. \n Support end-to-end supply chain integration across global operations. \n Participate in testing, validation, UAT, and business readiness activities. \n Collaborate with cross-functional teams to support supply chain transformation initiatives. \n Ensure effective integration of planning systems, data structures, and business processes. \n Support multi-country planning and intercompany transfer processes. \n Identify process improvement opportunities and provide recommendations. \n Manage stakeholders and drive successful project delivery. \n Required Qualifications & Skills \n Bachelor's degree in Supply Chain Management, Operations, Engineering, Business, or a related discipline. \n 10+ years of progressive experience in supply chain planning. \n Strong hands-on expertise in: \n Supply Planning \n Inventory Optimization \n Production Planning \n Distribution Requirements Planning (DRP) \n Material Requirements Planning (MRP) \n Deployment Planning \n End-to-End Supply Chain Integration \n Mandatory experience in Kinaxis RapidResponse project implementation and/or Kinaxis certification . \n Strong understanding of planning system architecture, data structures, and process integration. \n Experience working in global supply chain environments. \n Ability to translate business requirements into future-state operational processes. \n Experience in testing, validation, and business readiness activities. \n Excellent analytical, problem-solving, communication, and stakeholder management skills. \n Preferred Qualifications \n Experience with SAP S/4HANA planning processes. \n Experience supporting large-scale supply chain transformation programs. \n Exposure to multi-country planning and intercompany transfer processes. \n Experience working with international or glob",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -191458,8 +191458,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 35,
+    "total": 52,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -191469,15 +191469,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Supply Chain Planning Consultant at Evnek, but asks 10+ yrs experience and Kinaxis expertise you lack.",
+    "fit_notes": "The posting asks for '10+ years of progressive experience in supply chain planning' and 'Mandatory experience in Kinaxis RapidResponse project implementation and/or Kinaxis certification'. You have about 1.3 years of experience and SAP ERP/MRP skills ([mrp]), but no Kinaxis experience.",
+    "pay_notes": "Pay not stated in posting.",
+    "culture_notes": "No company website or news found in web search.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T23:19:16+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -191501,9 +191508,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-17T23:19:16+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The posting strictly requires 10+ years of experience and Kinaxis RapidResponse expertise, far exceeding your 1.3 years and SAP background.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30"
+   "updated_at": "2026-11-17T23:19:16+05:30",
+   "reject_reason": "The posting strictly requires 10+ years of experience and Kinaxis RapidResponse expertise, far exceeding your 1.3 years and SAP background."
   },
   {
    "id": "L1629",

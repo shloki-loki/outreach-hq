@@ -186699,7 +186699,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490277724",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-fifo-international-4490277724",
@@ -186715,7 +186715,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "Job Description: Manager – Business Development \n About the Company \n Our Client is a full supply chain logistics service provider with air, ocean, road, and rail services, warehousing and distribution. In the world of transportation and logistics, to and from India and intra-India, our client continuously focuses on providing services in line with the rapidly developing market. client expands by the day. Carefully planning its expansion, Our client currently operates 18 offices across India, covering all major ports and international airports.\n The Business Development team of our client plays a vital role in driving sustainable business growth by acquiring new customers, expanding existing accounts, and promoting integrated logistics solutions. The team collaborates closely with Pricing, Operations, Customer Service, and Product teams to deliver customized supply chain solutions that meet customer requirements while achieving the organization's commercial objectives.\n Roles & Responsibilities \n Develop and execute business development strategies to achieve branch revenue, gross margin, and profitability targets.\n Identify, qualify, and acquire new customers across Air Freight, Ocean Freight, Customs Brokerage, Transportation, Warehousing, and Integrated Supply Chain services.\n Build, manage, and strengthen long-term relationships with existing customers to maximize customer retention, cross-selling, and upselling opportunities.\n Develop and maintain a healthy sales pipeline through proactive prospecting, networking, referrals, customer visits, and market intelligence.\n Conduct customer meetings, presentations, and business reviews to understand customer requirements and recommend value-added logistics solutions.\n Prepare and present commercial proposals, quotations, tenders, and service agreements in collaboration with the Pricing and Product teams.\n Negotiate commercial terms and successfully convert qualified opportunities into profitable business while ensuring alignment with company pricing and profitability objectives.\n Coordinate with Operations, Customer Service, and other internal stakeholders to ensure smooth onboarding and implementation of new customer business.\n Maintain accurate customer information, appointments, sales opportunities, visit reports, and business forecasts within the CRM and Cargowise systems.\n Monitor market trends, competitor activities, customer requirements, and industry developments to identify new business opportunities and support strategic sales planning.\n Generate periodic sales reports, pipeline analysis, revenue forecasts, and performance dashboards to support management decision-making.\n Represent our client at customer meetings, trade exhibitions, networking events, and industry forums to enhance market visibility and generate business opportunities.\n Ensure high levels of customer satisfaction by proactively addressing customer concerns and coordinating timely resolution with internal teams.\n Collabora",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -186730,8 +186730,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -186741,15 +186741,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at FIFO International, asks 5-7 yrs logistics experience; you have 1.3 yrs.",
+    "fit_notes": "The posting asks for '5–7 years of experience in Business Development, Sales, or Key Account Management within the Freight Forwarding or Logistics industry' and a 'Bachelor's degree in Logistics, Supply Chain Management, Business Administration, Marketing, or a related discipline'. Shlok has about 1.3 years of experience, a B.Tech in Electrical and Electronics Engineering, and his background is in S&OP planning, inventory, and supply chain operations at Ola Electric ([sop], [ceo-coo]), not direct B2B logistics sales or business development. He falls short on the years of experience requirement.",
+    "pay_notes": "Pay is not stated in the job description; offers 'A competitive salary. Sales Incentives.' but provides no figures.",
+    "culture_notes": "No company website, reviews, or culture data found in web search or evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T14:07:39+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -186773,14 +186780,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T14:07:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The posting explicitly requires 5–7 years of experience in Business Development, Sales, or Key Account Management within the Freight Forwarding or Logistics industry, which exceeds Shlok's 1.3 years of experience. Furthermore, pay is not stated.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-17T14:07:39+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly requires 5–7 years of experience in Business Development, Sales, or Key Account Management within the Freight Forwarding or Logistics industry, which exceeds Shlok's 1.3 years of experience. Furthermore, pay is not stated."
   },
   {
    "id": "L1587",

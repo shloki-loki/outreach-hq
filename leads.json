@@ -25801,15 +25801,15 @@
    "key": "assurekit|coo s office associate operations and strategy|india",
    "type": "job",
    "company": "Assurekit",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "assurekit.com",
+   "company_url": "https://assurekit.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "COO's Office Associate - Operations & Strategy",
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "430891",
    "source_url": "https://www.instahyre.com/job-430891-coos-office-associate-operations-strategy-at-assurekit-mumbai/",
@@ -25840,8 +25840,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -25850,15 +25850,32 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "COO's Office Associate at Assurekit in Mumbai asks 5-8 yrs, well above your 1.3 years of experience.",
+    "fit_notes": "The posting asks for \"5-8 years of experience across operations, strategy, business operations, the founder's office, the COO's office, consulting, or high-growth startup operating roles\" and SQL/analytical skills. Shlok has strong operational background with [sop], [ceo-coo], and [mrp], but his 1.3 years of total experience falls far short of the 5-8 years required. Furthermore, the role is based in Mumbai, whereas Shlok wants Bengaluru or remote-first.",
+    "pay_notes": "Pay not stated in the posting, and no salary evidence available from web search.",
+    "culture_notes": "Company ratings and reviews were not found in the provided research data.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T23:38:13+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Assurekit - 2026 Latest Shareholding & Valuation - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEpHNnltQnZIeEwxSXdZelVqZFp1RGtHQ0hGbFhzUEtieVZnZFpQSm9BejNRdEJ0NWJ2QmpwWGctc2xHTTJHT3VnSTJ0YkZTWkFJN01wX1NtXzY4Rk5za08za19KalFSa1JHT1NETWR1d2NTT2NWbkVBbk1MX2RDQ0tobzc4bE1vS3dSSE80T3ZtTDlzTWpqcUtnaXphS3BiNFhxRlR6cWxwZw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -25882,14 +25899,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-17T23:38:13+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The posting explicitly requires 5-8 years of experience, whereas Shlok has about 1.3 years, making it a major stretch well past his 3-4 year comfort limit, and location is Mumbai instead of Bengaluru or remote.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-17T23:38:13+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly requires 5-8 years of experience, whereas Shlok has about 1.3 years, making it a major stretch well past his 3-4 year comfort limit, and location is Mumbai instead of Bengaluru or remote."
   },
   {
    "id": "L0212",

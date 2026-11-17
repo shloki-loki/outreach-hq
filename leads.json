@@ -183771,7 +183771,7 @@
    "key": "chemco|business associate strategy operations|india",
    "type": "job",
    "company": "Chemco Group",
-   "company_domain": "",
+   "company_domain": "chemcogroup.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/chemcogroup",
    "company_note": "",
@@ -183779,7 +183779,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489716888",
    "source_url": "https://in.linkedin.com/jobs/view/business-associate-strategy-operations-at-chemco-group-4489716888",
@@ -183810,8 +183810,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -183821,15 +183821,32 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Operations Associate at Chemco Group in Mumbai asks 2-4 yrs; routine MIS/coordination role at a packaging firm that will not meet pay expectations.",
+    "fit_notes": "The posting asks for 2–4 years of experience and a degree in Business Administration/Commerce (MBA preferred) for an 'Operations Associate' handling day-to-day coordination, MIS dashboards, and SOP monitoring across manufacturing functions. While Shlok's background in manufacturing operations ([sop], [mrp], [cell]) covers plant operations concepts, this is routine MIS/coordinator work rather than high-leverage strategic operations, and requires relocating onsite to Mumbai.",
+    "pay_notes": "No compensation stated. Traditional manufacturing associate/MIS coordinator roles in India typically pay well under Rs 10 LPA and will not clear Shlok's Rs 24.5 LPA fixed threshold.",
+    "culture_notes": "No ratings or culture flags found in evidence.",
+    "hook": "Chemco Group received FSSAI approval to manufacture food-grade recycled PET resin.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHBmbExMZVU0djNlU0pBejNESExLb3ZWQ3J3RXp0dko2TVJJUl9fR0pRWWVpVEJBWHNrUEVPOFF6Qzg3dkJmdWdLRWtMVGVnLTV2ZFRvUUhPbDYwZHhSZkluVDNOUGZ1ZFZPY2dKZU9SRHY3RVFrZzFHSlBNeG00MjRfZmt4RUE4dE5VSWlTQ1B1S0ROMEdpN1FkZS1KMHRrUkUxMnlZS1dLX09sLXVxR092MzdSRGZhVXVBSnJjMm9Pa3h3QkpUczQyS2t4MDNQWEJEOGlGWkI4emN6Z2x6dTN30gHmAUFVX3lxTE93MEFON3dLS1RfdGFzQS1TY3psTUdQOG85ZWxGc1A1X1N6eE5nNWFtTUpTOUpHR1laaVloYkhiZVFCNndfN0xNU1A5YUh1X3p0M1VHMzIwQnY4LXFFaHdVM3N4dFAydFpjSnVaZG55VkFlT3VHY1ROazhLVmRVLV9oRWNfekszWWY2b1BFeVN3dkJwOE5uQXB1V01NLVZ3bEpqV3ZIdzMtV3RoOXNtbVg1aW54NG5yY3JaeVU3dDZhYU1PbGtiR0gtVldBdFBLbWh0MWhJc2tGVko3VXRMMlJzQnBXeTZB?oc=5",
+    "researched_at": "2026-11-17T13:54:45+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Chemco Group gets FSSAI nod to manufacture food-grade recycled PET resin - ET Manufacturing",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHBmbExMZVU0djNlU0pBejNESExLb3ZWQ3J3RXp0dko2TVJJUl9fR0pRWWVpVEJBWHNrUEVPOFF6Qzg3dkJmdWdLRWtMVGVnLTV2ZFRvUUhPbDYwZHhSZkluVDNOUGZ1ZFZPY2dKZU9SRHY3RVFrZzFHSlBNeG00MjRfZmt4RUE4dE5VSWlTQ1B1S0ROMEdpN1FkZS1KMHRrUkUxMnlZS1dLX09sLXVxR092MzdSRGZhVXVBSnJjMm9Pa3h3QkpUczQyS2t4MDNQWEJEOGlGWkI4emN6Z2x6dTN30gHmAUFVX3lxTE93MEFON3dLS1RfdGFzQS1TY3psTUdQOG85ZWxGc1A1X1N6eE5nNWFtTUpTOUpHR1laaVloYkhiZVFCNndfN0xNU1A5YUh1X3p0M1VHMzIwQnY4LXFFaHdVM3N4dFAydFpjSnVaZG55VkFlT3VHY1ROazhLVmRVLV9oRWNfekszWWY2b1BFeVN3dkJwOE5uQXB1V01NLVZ3bEpqV3ZIdzMtV3RoOXNtbVg1aW54NG5yY3JaeVU3dDZhYU1PbGtiR0gtVldBdFBLbWh0MWhJc2tGVko3VXRMMlJzQnBXeTZB?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "cell"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -183853,14 +183870,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-17T13:54:45+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (Junior operational coordinator and MIS reporting role at a traditional packaging manufacturer in Mumbai; clearly low-paid relative to the Rs 24.5 LPA target.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-17T13:54:45+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Junior operational coordinator and MIS reporting role at a traditional packaging manufacturer in Mumbai; clearly low-paid relative to the Rs 24.5 LPA target."
   },
   {
    "id": "L1560",

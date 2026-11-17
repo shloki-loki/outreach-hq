@@ -184007,16 +184007,23 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Gaurav Agarwal: gaurav@nathabit.in (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-17T14:13:20+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-17T10:40:19+05:30",
+   "updated_at": "2026-11-17T14:13:20+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
    },
-   "verified_at": "2026-11-17T13:25:00+05:30"
+   "verified_at": "2026-11-17T13:25:00+05:30",
+   "people_searched_at": "2026-11-17T14:13:20+05:30"
   },
   {
    "id": "L1557",

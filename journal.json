@@ -2357,6 +2357,15 @@
    "title": "Work W0014: claim",
    "detail": "",
    "ref": "W0014"
+  },
+  {
+   "id": "J0263",
+   "at": "2026-11-17T21:26:41+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Run ended before the 12-lead budget",
+   "detail": "Cause: the 10:17 IST lead-scout run stopped at 7 of 12 leads (its own note: it ran out of its time/step budget, no failure of a provider). The 7 left are still 'qualified/new' and the GitHub research-worker (14:13 IST, 27 researched) is working through the same queue, so nothing is lost. Remedy: none needed; resolve once L1569, L1562, L1564, L0220, L0221, L1546, L1599 are researched.",
+   "ref": "I0018"
   }
  ]
 }

@@ -165147,15 +165147,15 @@
    "key": "qualcomm|compute chipset sw program manager|india",
    "type": "job",
    "company": "Qualcomm",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "qualcomm.com",
+   "company_url": "https://www.qualcomm.com",
    "company_linkedin": "https://www.linkedin.com/company/qualcomm",
    "company_note": "",
    "title": "Compute Chipset SW Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Greater Hyderabad Area",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4453255441",
    "source_url": "https://in.linkedin.com/jobs/view/compute-chipset-sw-program-manager-at-qualcomm-4453255441",
@@ -165186,8 +165186,8 @@
    },
    "score": {
     "rules": 62,
-    "research": null,
-    "total": 62,
+    "research": 35,
+    "total": 46,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -165197,15 +165197,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Compute Chipset SW Program Manager at Qualcomm, asks up to 10 years experience; your 1.3 years falls short.",
+    "fit_notes": "The posting asks for '10+ years (max) of experience in a combination of Software product development and program management in semiconductor/wireless industry' and a Bachelor's in Computer Engineering/Electrical Engineering. Shlok has a B.Tech in Electrical and Electronics Engineering from IIT Guwahati and ~1.3 years of experience in Strategy & Operations at Ola Electric [ceo-coo], but he lacks the required 10+ years of software/semiconductor program management experience.",
+    "pay_notes": "Pay was not stated in the job posting and no reliable pay estimates were found in the evidence.",
+    "culture_notes": "Qualcomm India recently faced reports of restructuring and over 1,000 jobs at risk amid global cuts [S3, S6].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-17T23:31:16+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Qualcomm Earnings Release Available on Company's Investor Relations Website - Qualcomm",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZlBnMTZxRGxZSzAwcGNlX0VnOXZRMDN1XzNOWW85NzZNQ2IzZm1XbmloTXZVN2lXeWNsQ0s3LWU5MG1uRWZiZkJJSWEwcGdpdW5nWGRTTlJFN3NGS2JvNkg4V0dKUTg3eDN5dnhfUFhyNG5hVUlhTzdIN01sY2RMNEhyZk8wdW0taEQ4OThWeFlFWGpFMXFpU2NsOHdBRUZFSExvMWpuc1RBaTdhVnREODRncU5EaEdYVXFkNWt2T0p5ZjVQXzF4dzdhVkk0bVZoaGllNGN1clhxRUF5V3FaNGhCRnc2NmRFMGNCNlItOWppemk0Vlc3cEE0X1J2MnRwVkE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdnBhYm1hakZ1aldQNm80ZGNKSmUtY1JqWHVZem5QZE1DVE00UmZfeldSNWJ6b0FOekhBQzlPbWJPRC0zclJQMGVxaWFiOGtSWWxGSVUzVXl3RU9lLWJNN3kxR19iZEpQV2NjM2F4aTFiWkg4bzhoRF9mQzJjZzDSAYQBQVVfeXFMT19QY1RERExyM2ZhYTBmU1hLNXJhWlo2UEJmMGEyR0lIVzVfQWFGcWRLMmtaSk5lM2N6N3N6NUh4TW9HN3FtUENWdWtleTFFVzVWN01EODExQUlXMXdXcTlnckEwcXA3S2tZSVFVM2lqNGtrR285NXVzLXYyaWRycXF1TnV1?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Qualcomm India layoffs: Over 1,000 jobs at risk amid global cuts - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczhlaG9mLUJPRGkzWk9Sem9lLWlYQWQ3RWpfUzRlZzRjWkxrZDBTVHVFNDhsd1o1MEx1ZFNHUlBaZUVXdTFZYzY3Y1JKUU1oQVh5dFpWRm1XcTRsRlYtdjA4WW5yZ0wwSHoxaFUzNWtSVFlJbWtBejFGOU4wQVFEeEZmSnQtQ0FYRF9iUUZxTU4xVHB4cUVEUjZleDdpQzYzaUlmMG9leDc1MTV4WUhXdzdqWUZwTVVUR19KV2JMYjVvdXPSAcoBQVVfeXFMTXlqemhRdkxuNlZTNG9fdHAySHNXMDdzUVQ2aGl6bmV5Z3d5YUdQeEZuUVF3WU9OeWwweGRmT3UyTFQ5Q2N6N1dVcDlfVDRTanpMczFua1NvUW9PQ2lVTFV3dFlIRnFKcW5iVmU4WU9CTUJGbC05MWdRaTFudzNwVl9tQ2gtMnV5cVZ1RjIzTXp3LWN3TkZxUXFXN0JYOVdsR1E0VVBXcXZIbFI5cFhIRloxTk0wLUMwYWRvYWxVdnY1d1ljc3FWTDlwdw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Qualcomm's layoff double blow: 1,000 Indian jobs at risk, extra pay to exit early - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3RiU3JvUmZTNlVabHR4SGJid0JaVHozd0JhV0pqZFZmSllzXzA5b3pRQ1l0UERiNHlxZndGVFI4dWxscU1GMFFQMzRUbXBqbnhRb3dxWHlTZWkzNUU2bFc2QVBYVXVEdXVhVDg3MS1VVWxnMU9sOENBLW93UVRJS2FHQjVHWVJRWlJ4a1VZNm9YbldDd0dBb1ZrTXgzRklZdE5ZVVFSTlprREc1LUFEN3RZb1luRFNkM1pDRHJoeDl2M3NGRzRKcnhB?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement - Huawei",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91UHhJZmQ2elJYUS1GUzdfc2RhTmR2eHlLaEdLSmdSREctaXFrQk1DY0t1eG5FbWZQVTVaMXhOcE5lQU4zMGlGY29qdHNjeW1NNXoyNkNmSjFjWmRqemwtRU9XWU05Z2cyOXpRbXM4c2dwRHlDdmtzUExn?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Qualcomm layoffs 1,500 employees in India amid restructuring - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmtjVTFRV3l5OGxLcFJkNnE2Qmk0dl9LYzlxXzd3TER5eGhaWU1KT2VsNWJFQV9qQU1xaWFnaXFTUnVWUGZORlVTTkRVNHRTbGlLWGlsNGg1ZTN1cXAxM1NLbDNCeHFmVXZBQWlPYlNPWTRPbGFpRkJjTXI2cldvWHRqUm5FNWxBOTRVak55UWpOelc2aHh0N0FZVkJrdjFuX1lUMG1MZjZQdHI0cklhOGYzbXVQSzdlOGZuOEt4Wm5HZjBwU2p1eDczdlJqZ1BBLU5GN3JOUk5FQzk5blHSAeMBQVVfeXFMUFdiRVhEdV9TVFJ2TDRBN1JuOXpSU2I4WTFkY0QtYy1wVzhVdGFPaU1UTmM1bzQ3YXRXaWlrV1lSRUl2U2hfb2QwX1VFM0FETmlQQTZ5LUhFUW9qeUNJcWtWRnQ5NDNIQ2VMTnFldmRjZWtmWW5ZLXBsdDIwWW1HdVY0QkQxT2VvMWZHeDVORklxMFYyWWNORGhpc19yRXZobVVfZXJlOE5yYXNuZFZKcFRERzNCOURvMmtxUmRlUXloR09KYjF0QkpFb3BVQzBJTE83ZDFkc1djMHVsbUk4d2FTVmc?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -165229,14 +165267,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 62"
+    },
+    {
+     "at": "2026-11-17T23:31:16+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 46: rejected (Role requires 10+ years (max) of experience in software product development and program management in the semiconductor/wireless industry, whereas Shlok has only ~1.3 years of experience. Furthermore, the role is located in Hyderabad and the company has recent reports of major layoffs in India.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-17T23:31:16+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role requires 10+ years (max) of experience in software product development and program management in the semiconductor/wireless industry, whereas Shlok has only ~1.3 years of experience. Furthermore, the role is located in Hyderabad and the company has recent reports of major layoffs in India."
   },
   {
    "id": "L1379",

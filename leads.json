@@ -201106,8 +201106,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 15,
+    "total": 40,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -201117,15 +201117,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
+    "done": true,
+    "headline": "Zinier 'Founder's Office' listing is really a data/AI Product Lead role needing deep technical product depth; poor fit.",
+    "fit_notes": "JD asks for roadmap ownership of data pipelines and LLM interfaces; no profile fact answers this.",
+    "pay_notes": "Not stated.",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T18:36:58+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -201149,9 +201151,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-18T18:36:58+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 40: rejected (Title says Founder's Office but the JD read on LinkedIn is for a deeply technical Product Lead owning data and AI strategy; no fit with Shlok's facts.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30"
+   "updated_at": "2026-11-18T18:36:58+05:30",
+   "reject_reason": "Title says Founder's Office but the JD read on LinkedIn is for a deeply technical Product Lead owning data and AI strategy; no fit with Shlok's facts."
   },
   {
    "id": "L1704",

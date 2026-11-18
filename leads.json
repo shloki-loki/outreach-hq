@@ -197277,15 +197277,15 @@
    "key": "enphaseenergy|senior staff supply planning|bengaluru",
    "type": "job",
    "company": "Enphase Energy",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "enphase.com",
+   "company_url": "https://enphase.com",
    "company_linkedin": "https://www.linkedin.com/company/enphase-energy",
    "company_note": "",
    "title": "Senior Staff - Supply Planning",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4491556228",
    "source_url": "https://in.linkedin.com/jobs/view/senior-staff-supply-planning-at-enphase-energy-4491556228",
@@ -197301,7 +197301,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Description\n Enphase Energy is a global energy technology company and a leading provider of solar, battery, and electric vehicle charging products. Founded in 2006, our innovative microinverter technology revolutionized solar power, making it a safer, more reliable, and scalable energy source. Today, the Enphase Energy System enables users to make, use, save, and sell their own power. Enphase is also one of the most successful and innovative clean energy companies in the world, with more than 80 million products shipped across 160 countries.\nJoin our dynamic teams designing and developing next-gen energy technologies and help drive a sustainable future!\nThis role at Enphase requires working onsite 3 days a week, with plans to transition back to a full 5 day in office schedule over time.\n About The Role\n Enphase Energy is seeking a strategic and data-driven Senior Staff – Supply Planning professional to lead global supply planning, inventory optimization, and operational execution across our worldwide distribution network. In this role, you will collaborate closely with Sales Operations, Manufacturing, Procurement, Logistics, Finance, and Engineering teams to ensure optimal inventory levels, uninterrupted supply, and exceptional customer service. You will leverage advanced analytics, AI-enabled planning tools, and data-driven insights to drive operational excellence, improve supply chain resilience, and support executive decision-making.\nWhat You Will Be Doing\n Lead global supply planning activities by analyzing demand signals, market trends, and business drivers to develop accurate supply and inventory plans.\n Drive factory loading plans, MRP execution, and capacity planning while proactively identifying and mitigating material and supply risks.\n Partner with suppliers and contract manufacturers to improve operational performance, responsiveness, and factory utilization.\n Manage global logistics and distribution activities, ensuring timely product availability while optimizing transportation and inventory costs.\n Support NPI launches, product transitions, and lifecycle management initiatives through effective planning and material balancing strategies.\n Develop executive dashboards, analytics, scenario modelling, and reporting to support strategic business and supply chain decisions.\n Drive continuous process improvements through automation, data analytics, and cross-functional collaboration to enhance supply chain efficiency.\n Who You Are And What You Bring\n Bachelor's degree in Engineering (BE/B.Tech); MBA in Supply Chain, Operations, or related field preferred.\n 10–12 years of experience in Supply Planning, Inventory Management, MRP execution, and end-to-end supply chain operations.\n Strong expertise in Oracle Cloud ERP and experience leveraging advanced planning, forecasting, and analytics capabilities.\n Deep understanding of demand forecasting, inventory optimization, supply planning methodologies, and supply chain performance metrics.\n Adva",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -197316,8 +197316,8 @@
    },
    "score": {
     "rules": 72,
-    "research": null,
-    "total": 72,
+    "research": 45,
+    "total": 56,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -197328,15 +197328,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Staff Supply Planning at Enphase Energy, but asks 10-12 yrs of experience while you have 1.3.",
+    "fit_notes": "The posting asks for a 'Bachelor's degree in Engineering (BE/B.Tech); MBA in Supply Chain, Operations, or related field preferred' and '10–12 years of experience in Supply Planning, Inventory Management, MRP execution, and end-to-end supply chain operations.' While Shlok has relevant supply chain experience like S&OP planning [sop] and SAP MRP implementation [mrp], the 10-12 years requirement makes this an extreme seniority mismatch.",
+    "pay_notes": "Pay not stated in the posting; no evidence found.",
+    "culture_notes": "Enphase Energy is a global energy technology company traded on NASDAQ (ENPH). Recent news indicates stock weakness due to slumping residential demand [S2], but specific employee ratings or culture flags were not found in the search results.",
+    "hook": "Enphase Energy's microinverter technology revolutionized solar power, but recent market pressures on residential demand highlight the need for resilient global supply planning [S2].",
+    "hook_source": "https://in.linkedin.com/jobs/view/senior-staff-supply-planning-at-enphase-energy-4491556228",
+    "researched_at": "2026-11-18T13:28:44+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Enphase Energy, Inc. (ENPH) stock price, news, quote and history - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0YjRGR05PaTJKTzNCLWxVSFVtVXg3TWF1V0lBTURiXzJwZV9qWW9GNTVONWRJMmh2eFlQM3lQaWNHcUgwRTV6RjA0X2IzVk9MT0E?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Enphase Energy Extends Weakness on Slumping Residential Demand - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEpkWEEwSEZXVVY3M0dKNzVLUkl6OHVodnlsNVN6ZFFOTTJIaEVUTHdpMUNBMVBzaEhUZW1hWVlTSmhTX0NZLVR6d1FuWGxhVlhRWk5yOWNTWW5VSmFJbURrS01xbkRaX3FBM2d0dkNyVy1GczJmZFlfaHNsajQwcXVlZw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Enphase Energy stock hits 52-week low at $23.82 By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelBjZklVVV9MZ3NVWldiMnhNTTM0eXVWQnA2QXZzOF96RHFMZWt1aE1TSEpIWklHQzB5YmdQa3BkUWZFeHE0dFdvQnl2UzNIX0gtU253eE5jb0ZUR2stdXQzZm84QTFHOTF3U1FMNm9KYWJ4WlEwMmVFa3BMckt1MUw5ODB3N2p1VUU2b3hXeHdoM2UyLWxfblAzZTNkMFYteVF5RHloazM?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Why Enphase Energy Stock Crashed on Wednesday - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmRod29IVEk5SXVzZ0dyOGZza21TbVZOR3lHNTIwSjBCSjdwSVJVckVLUUI1SHB5V2FUOUpKTU9xNDdCZUc5U3Fjc0xKUFYxZTVhWmtTeGVGWlc0OFk5YVpVRGtBR0k4UEtBZXZ0R3RrZkw1WnhTZzBVaVVwZVY2Rl85Ry12S2pGWGY2ZGctWVl5RF94elJvNTA4UUxwZw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Enphase Energy Announces Conference Call to Review Second Quarter 2026 Financial Results - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUY4UlA3RTRWMkpDVzVIcHJKTmlNRjNkSFVacHFGUi1xSmdZOXQ2SGhsRlNXbk1KNVJPZFhpZW1lVGtlcnV5c3VQNkd1ZkU0YjJqaTFZUi1JRWdhT2hvTWNTUXcxamdMSVNCOTFuX2M4S21lLU9IQVJhZXRVYl80XzEzTm03cE0ySWljRDB2TVJDY05hY0N3VFozVW1XUQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Zacks Industry Outlook Highlights First Solar, Enphase Energy and T1 Energy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlA0czlRNnVJdGFqYnFlSGhHZ1NKeUFNSUpCSkx0UU1mNnNHUWJ2VDlwb1ROd2h5SmREUHNPTm1MWHFsNHJya2pidHgyUkVpOHY4WUNCYXlqTXZ3aTVjSFMzYmFXMlQyLWUycjlnRm1pTjMtMjhqMUFxUHNlYmUwZWFyNjB4TWFtN3h0T3B5by1BaDhZSGxXX3FOR0E?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -197360,14 +197401,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 72"
+    },
+    {
+     "at": "2026-11-18T13:28:44+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 56: rejected (The posting asks for 10-12 years of experience for a Senior Staff role, which heavily exceeds Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T13:28:44+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 10-12 years of experience for a Senior Staff role, which heavily exceeds Shlok's 1.3 years."
   },
   {
    "id": "L1673",

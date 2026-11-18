@@ -190995,9 +190995,11 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Why this role (cover note)": "Hevo Data needs someone to turn ambiguity into execution across functions rather than manage reporting. That's the work I did at Ola Electric, partnering with the CEO and COO on fulfilment operations and owning finished goods inventory end to end. By running production planning over Rs 200 Cr of inventory, I cut working capital by 40% in 2.5 months. At Hevo Data, I can own the operating rhythm and track cross-functional delivery so strategic bets don't slip. Let's discuss how I can take these initiatives off the leadership team's plate."
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -191027,9 +191029,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-18T13:46:41+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-17T23:41:07+05:30",
+   "updated_at": "2026-11-18T13:46:41+05:30",
    "reject_reason": null,
    "people_searched_at": "2026-11-17T23:41:07+05:30",
    "live_check": {

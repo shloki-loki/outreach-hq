@@ -45414,8 +45414,8 @@
    "key": "wizcommerce|strategy and operations|unknown",
    "type": "company",
    "company": "WizCommerce",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "wizcommerce.com",
+   "company_url": "https://wizcommerce.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy and Operations",
@@ -45453,22 +45453,24 @@
    },
    "score": {
     "rules": 45,
-    "research": null,
-    "total": 45,
+    "research": 40,
+    "total": 42,
     "reasons": [
      "Added by agent despite rule: rule score 39 under threshold"
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "AI sales and ecommerce platform for wholesale distributors; no recent fact",
+    "fit_notes": "weak",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T18:41:00+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -45519,14 +45521,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-18T18:41:00+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 42: rejected (newest sourced fact is the Aug 2025 Series A, more than 12 months old; AI sales platform for US wholesalers, weak map to his facts)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-18T18:41:00+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "newest sourced fact is the Aug 2025 Series A, more than 12 months old; AI sales platform for US wholesalers, weak map to his facts"
   },
   {
    "id": "L0374",

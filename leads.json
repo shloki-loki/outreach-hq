@@ -195420,7 +195420,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Chennai, Tamil Nadu, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490266886",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-growth-at-soch-street-4490266886",
@@ -195446,13 +195446,13 @@
     "min_lpa": 15.0,
     "max_lpa": 25.0,
     "basis": "stated",
-    "source": "linkedin",
+    "source": "posting",
     "fit": "Possibly in range (stated)"
    },
    "score": {
     "rules": 80,
-    "research": null,
-    "total": 80,
+    "research": 20,
+    "total": 44,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -195462,15 +195462,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Soch Street (15-25 LPA, Chennai), but strictly requires minimum 1 year of MBB consulting experience.",
+    "fit_notes": "Posting asks for 2-6 years of experience, IIT/NIT degree, and explicitly mandates 'Minimum 1 year of experience at Bain & Company, McKinsey or BCG'. While Shlok has an IIT degree [ranks] and Strategy & Ops experience working with leadership [ceo-coo], he has no consulting or MBB background.",
+    "pay_notes": "Posting explicitly states compensation of 15 - 25 LPA. The lower end is well below Shlok's threshold of Rs 24.5 LPA fixed.",
+    "culture_notes": "No company website, ratings, or employee reviews found for Soch Street.",
+    "hook": "Soch Street is building a personalized travel-tech platform combining technology, expert guidance, and a partner ecosystem to simplify holiday planning.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founder-s-office-growth-at-soch-street-4490266886",
+    "researched_at": "2026-11-18T13:20:23+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "ceo-coo",
+     "ranks"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -195494,14 +195504,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 80"
+    },
+    {
+     "at": "2026-11-18T13:20:23+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 44: rejected (Requires minimum 1 year of MBB consulting experience (Bain, McKinsey, or BCG), which Shlok does not have.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:22+05:30",
+   "updated_at": "2026-11-18T13:20:23+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Requires minimum 1 year of MBB consulting experience (Bain, McKinsey, or BCG), which Shlok does not have."
   },
   {
    "id": "L1657",

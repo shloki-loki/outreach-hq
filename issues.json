@@ -265,6 +265,20 @@
    "count": 1,
    "remedy": "Cause: drafts need Shlok's approval; nothing is wrong technically. Remedy: Shlok opens the Approvals page and approves, edits or skips M0016-M0023 (M0016 is a speculative draft for Unicommerce; M0023 to GoKwik has a 'published' email grade, others verified). Skip any that are now stale.",
    "resolved_at": null
+  },
+  {
+   "id": "I0020",
+   "key": "send-track:No draftable leads: no verified addresses",
+   "agent": "send-track",
+   "severity": "warn",
+   "title": "No draftable leads: no verified addresses",
+   "detail": "Needs-draft leads all have guess/catch-all addresses (zamp.ai, nathabit.in catch-all; swiggy, univest, flipkart, zepto guesses; verifier quota exhausted). Google Forms (L0003, L0013, L0018, L0007, L0010) return 401 to unauthenticated fetch so application questions could not be listed. Also: 'outreach status' fails on git fetch of data branch (origin data).",
+   "status": "open",
+   "opened_at": "2026-11-18T18:37:33+05:30",
+   "last_seen": "2026-11-18T18:37:33+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

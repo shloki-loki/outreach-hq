@@ -45090,9 +45090,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 67: qualified"
+    },
+    {
+     "at": "2026-11-18T18:39:27+05:30",
+     "actor": "claude",
+     "event": "drafted",
+     "detail": "cold email to Vinod Naik awaiting approval"
     }
    ],
-   "updated_at": "2026-11-18T18:39:22+05:30",
+   "updated_at": "2026-11-18T18:39:27+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "unknown",

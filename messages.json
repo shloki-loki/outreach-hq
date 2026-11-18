@@ -611,6 +611,34 @@
    "thread_parent": null,
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0024",
+   "lead_id": "L0370",
+   "contact_id": "C1",
+   "to": "vinod@newme.asia",
+   "to_name": "Vinod Naik",
+   "kind": "cold",
+   "subject": "stock for new stores",
+   "body": "Hi Vinod,\n\nCongrats on taking Newme to 18 stores and aiming for 50 by December. That many new stores, plus Zip going to Pune and Mumbai, makes stock placement the hard part.\n\nIt's work I've done. At Ola Electric I led a pan-India rebalancing of slow-moving stock based on sales run rate, which unlocked 27% of working capital. At Newme I could own the store-wise stock plan for the new openings and set up a weekly review around it.\n\nI don't know if a Founder's Office or strategy hire is on your mind. If useful, I can put together a one-page note on how I'd stock the next ten stores. Would that be useful?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "Newme plans 50 stores by Dec 2026 (18 now in 11 cities) and Zip expansion to Pune and Mumbai",
+   "hook_source": "https://www.indianretailer.com/interview/retail-people/new-commerce/newme-plans-50-stores-expands-zip-delivery-more-cities",
+   "play": "offer",
+   "promise": "a one-page note on how I'd stock the next ten Newme stores",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-18T18:39:27+05:30",
+   "created_by": "claude",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": null,
+   "error": null,
+   "reply": null
   }
  ]
 }

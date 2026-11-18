@@ -198224,15 +198224,15 @@
    "key": "bunge|assistant manager supply chain planning|india",
    "type": "job",
    "company": "Bunge",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "bunge.com",
+   "company_url": "https://www.bunge.com",
    "company_linkedin": "https://www.linkedin.com/company/bunge",
    "company_note": "",
    "title": "Assistant Manager, Supply Chain Planning",
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai Metropolitan Region",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4475597223",
    "source_url": "https://in.linkedin.com/jobs/view/assistant-manager-supply-chain-planning-at-bunge-4475597223",
@@ -198248,7 +198248,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "City : Mumbai State : Mahārāshtra (IN-MH) Country : India (IN) Requisition Number: 48493\n Business Title - Asst. Manager - Supply Planning\n Global Function – Commercial\n Role Purpose Statement\n We are searching for a talented Supply planner to ensure our company’s operations are timely, efficient, and cost-effective. He will assist in all supply planning duties including understanding future product demand, analyzing inventory flow, and production planning and distribution of FG from Factories to distribution centers and will also coordinate closely with Plant, logistics and sales to meet forecasted demand.\n Main Accountabilities\n Develop and optimize supply planning strategies to ensure timely availability of raw materials (e.g., crude oils, packing material etc ) and finished products, minimizing stockouts and excess inventory.\n Build advanced demand forecasting models using historical data, market trends, and statistical tools to support production scheduling.\n Leverage Power BI, Excel (advanced), SQL, and ERP systems (e.g., SAP) for real-time dashboards, scenario analysis, and KPI reporting on supply chain metrics like fill rates and lead times.\n Collaborate with procurement, production, and sales teams to align supply plans with business goals and handle disruptions (e.g., price volatility in oil markets).\n Drive continuous improvement through data-driven insights, reducing costs and enhancing efficiency in a fast-paced FMCG environment.\n Technical\n Expertise in Power BI for visualization, advanced Excel (pivot tables, VBA), and analytics tools; hands-on with forecasting software a plus, Strong analytical mindset, problem-solving skills, and ability to thrive in dynamic, high-volume operations.\n Education & Experience\n 5-8 years in supply planning, preferably in edible oils/FMCG with exposure to perishables or commodities.\n Bachelor’s in supply chain/engineering; MBA or CPIM certification preferred.\n At Bunge (NYSE: BG), our purpose is to connect farmers to consumers to deliver essential food, feed and fuel to the world. As a premier agribusiness solutions provider, our team of :34,000 dedicated employees partner with farmers across the globe to move agricultural commodities from where they’re grown to where they’re needed—in faster, smarter, and more efficient ways. We are a world leader in grain origination, storage, distribution, oilseed processing and refining, offering a broad portfolio of plant-based oils, fats, and proteins. We work alongside our customers at both ends of the value chain to deliver quality products and develop tailored, innovative solutions that address evolving consumer needs. With 200+ years of experience and presence in over 50 countries, we are committed to strengthening global food security, advancing sustainability, and helping communities prosper where we operate. Bunge has its registered office in Geneva, Switzerland and its corporate headquarters in St. Louis, Missouri. Learn more at Bunge.com.\nEvery day our ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -198263,8 +198263,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -198274,15 +198274,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Assistant Manager Supply Chain Planning at Bunge in Mumbai, but asks 5-8 yrs and you have 1.3 yrs.",
+    "fit_notes": "The posting asks for '5-8 years in supply planning, preferably in edible oils/FMCG' and a 'Bachelor’s in supply chain/engineering; MBA or CPIM certification preferred.' Shlok has ~1.3 years of experience and his supply chain and S&OP work at Ola Electric (e.g., [sop], [ceo-coo]) demonstrates strong relevant execution, but the years of experience requirement (5-8 years) is a direct block since he has about 1.3 years. Furthermore, the role is based in Mumbai, which violates his location preference (Bengaluru or remote first).",
+    "pay_notes": "Pay not stated in the posting; no reliable external salary evidence found.",
+    "culture_notes": "Company ratings, review counts, and specific culture flags were not found in the search results.",
+    "hook": "Bunge recently reported beating quarterly profit estimates on strong crush margins as of October 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOU5rZU1ENEc0QWVXUUxlcmNXUEoyMnRYc2hsQ092bkQtWlFnYUtITmh0VTlUZFZyZE5BWDR2MVlVVVlZQ1RvellXWHJQeXNkcGM2X29WNEJfdDA0TmVvZHZEckJydGFZd1NrRTBwVUM1a0YtaGVaa2NubEw1cm9NamVjYTN3aG5MOEhvSDRENlFiVFVFWFptaVZYdGxBbFJtbU1NOG8wR0pnWDFrMnpXZWxsbE5nUmNXbllOaA?oc=5",
+    "researched_at": "2026-11-18T23:01:43+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Josefina Bunge - World Meteorological Organization WMO",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hMjQ5RFV2WDBOV2hTV1NHVzN6a2JqZTgyOWg0b1Qzd1dzdFljTlBRWDlmb1dlUUFleFhQTnZvdC1HWEJoNThhSXh6dFQtMWotcW1Mbg?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Bunge beats quarterly profit estimates on strong crush margins - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOU5rZU1ENEc0QWVXUUxlcmNXUEoyMnRYc2hsQ092bkQtWlFnYUtITmh0VTlUZFZyZE5BWDR2MVlVVVlZQ1RvellXWHJQeXNkcGM2X29WNEJfdDA0TmVvZHZEckJydGFZd1NrRTBwVUM1a0YtaGVaa2NubEw1cm9NamVjYTN3aG5MOEhvSDRENlFiVFVFWFptaVZYdGxBbFJtbU1NOG8wR0pnWDFrMnpXZWxsbE5nUmNXbllOaA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Bunge upgrades soyabean facility in Italy - Oils & Fats International",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qS3B6TFdwUThURmRJMElzbUFUV0puTVhieUdETE8tWlpWNWFuc2hxaTlFak8wc3hySlRGQ1JjcDVseElqQ2RsN0pDc1o2M1B4eUxOY3RPOEpFc3hDbGJfNTlzWThfVE4tNTh1UU1ENWxZRkRmWnlrUm83aTBwTE0?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Keith Bunge - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORm42S2FUX0M1ZlFJc0hYTWFuVDR4eUVmVVg3U3RVZ1EwVnZKSGFsMDQ5VngtalJlSXhEUmg4Y29jTkxfM3hPd2k1SFd3X2sycjQ4U2YtNmFJS3o1Q01hNWwzLUlfdUJaWEVsaVFKbTBZbTVTdlJIUkhlYW1vdGV5VHZYV1NjYXFCV000c0NfTFRrTXNsVUd1NDBYV1RoOUE1TzhzdDFaSWxEWnprb0pvcU44cllabENfOGJSa3lqMlF5MkNEb2lWTA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "BASF’s InVigor Gold canola seed to be processed by Bunge, supporting commercialization in North America - BASF – United States",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PdWRuTWJ6dEtETHdSM1lrZ3RrRl9XZXBvcWdxVldIRDFCSnFZX19xN1JGaGN0Q084R2Q1bGhDUTZ5LWUzZV96ckZiNHlMekpnSnJWQ0NmNC1HNEYwOG5HZFlKTDZVRUpXVURXcUdRdzcxU28?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Bunge Invests €4.4 Million to Double Soybean Processing at Italian Plant - iGrow News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oS0RaeXAwSXBsTEJCajhrNFdpaU9CS3pSbVNoN0pXNDlPZThSZjY1ZWxweHExdWtSUklRMHgyVW1Bay1FMlEtZXNnZGY2bmNYbWJoNlMzVWwzaHM?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -198306,14 +198347,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T23:01:43+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role asks for 5-8 years of experience, which exceeds Shlok's 1.3 years and is outside his experience limit, and is located in Mumbai rather than Bengaluru or remote-first.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T23:01:43+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 5-8 years of experience, which exceeds Shlok's 1.3 years and is outside his experience limit, and is located in Mumbai rather than Bengaluru or remote-first."
   },
   {
    "id": "L1674",

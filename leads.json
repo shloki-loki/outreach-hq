@@ -199211,15 +199211,15 @@
    "key": "arm|operations manager|bengaluru",
    "type": "job",
    "company": "Arm",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "arm.com",
+   "company_url": "https://www.arm.com",
    "company_linkedin": "https://uk.linkedin.com/company/arm",
    "company_note": "",
    "title": "Operations Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4491419066",
    "source_url": "https://in.linkedin.com/jobs/view/operations-manager-at-arm-4491419066",
@@ -199235,7 +199235,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Job ID 2026-19685 Date posted 17/11/2026 Location Bengaluru, India Category Program/Project Management\n Responsibilities\n Understand the details of the Silicon or IP projects that the engineering team is working on to partner with engineering leadership to understand workforce demand and staffing requirements across multiple teams.\n Own resource planning activities, including headcount forecasting, hiring plans, contractor needs, and capacity tracking.\n Make sure that the data is recorded correctly and ensure the book keeping is done very well.\n Work with Capacity Managers, Finance, Recruiting, and leadership teams to align staffing plans with business needs.\n Track hiring progress, workforce allocation, and organizational capacity, providing regular updates.\n Maintain workforce dashboards, staffing reports, and organizational metrics.\n Track decisions, action items, risks, and dependencies to ensure timely follow-through.\n Improve operational processes, reporting, and planning mechanisms to increase organizational effectiveness.\n Support annual planning activities and strategic workforce initiatives.\n Coordinate across globally distributed teams to ensure alignment and execution.\n Use AI effectively and meaningfully , to work at speed and scale.\n Required Skills And Experience\n Experience supporting IP development, SoC, compute, tooling, or methodology teams.\n Bachelor's degree in Electronics Engineering or Computer science engineering.\n Experience in operations management, workforce planning, resource management, or engineering operations within the semiconductor industry.\n Strong analytical and organizational skills.\n Ability to manage multiple priorities and stakeholders simultaneously.\n Excellent communication and collaboration skills.\n Experience working with engineering leadership and cross-functional teams.\n Familiarity with semiconductor development environments and engineering organizations.\n Experience with reporting and analytics tools such as Power BI, Tableau, or Smartsheet.\n Nice to Have\n AI tooling and automation experience.\n Prior ASIC design or SoC integration experience\n Our 10x Mindset\n About\n At Arm, we believe progress happens when people are empowered to think bigger and push beyond what seems possible. Our 10x mindset is about curiosity, ambition and creating impact that will be used by millions. We learn fast, prioritise collaboration and turn bold ideas into real technology. We look for people who are inspired by this way of working and want to grow in an environment where bold ideas are welcomed. Discover how the 10x mindset shapes life at Arm:\n Use of AI in Your Application\n At Arm, we embrace the benefits AI can bring, including in recruitment. You may use AI to support your preparation, such as improving the clarity of written responses, practicing interview questions, or learning more about our industry. However, your application and interview responses must reflect your own thinking, experience, and abilities. We w",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -199250,8 +199250,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -199261,15 +199261,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Operations Manager at Arm, asks semiconductor engineering operations experience; your Ola S&OP background does not map to SoC/IP development.",
+    "fit_notes": "The posting asks for 'Experience supporting IP development, SoC, compute, tooling, or methodology teams' and 'Experience in operations management, workforce planning, resource management, or engineering operations within the semiconductor industry.' While you have a B.Tech in Electrical and Electronics Engineering and operational experience at Ola Electric (e.g., [sop], [ceo-coo]), you lack the specific semiconductor/SoC engineering operations background required.",
+    "pay_notes": "Pay not stated in posting; no salary evidence found for this specific role in the search results.",
+    "culture_notes": "Ratings: not found. Culture flags: Qualcomm and Arm kick off trial, potential for huge damages in focus [S3]. Recent fact: Arm forecasts third-quarter revenue above estimates on AI spending boom [S4].",
+    "hook": "Arm forecasts third-quarter revenue above estimates on AI spending boom.",
+    "hook_source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGV2UGo5V1FRUGxkUzdPWVo1NGhFM2lvM2N5NVUycUUya2VIX3N2aHM5am8tNUhCQ21oMng4LVQ2UllCWnRpdlNqUDd4MTM2ZVhpUTBlR3NQTTdBZFNMVlRDVV9LQ2d4Vjc1M0ZBcldwZmVEaGpDTENnVHR2bmp3Sm9ENnF6YWU1TDRjcmxiSWQwTjY5clQwb2V2a1JMdUhxLXRfLUZwUlNwR0Rob1E?oc=5",
+    "researched_at": "2026-11-18T23:03:32+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "UNICEF names Arm as founding partner of inclusive AI ecosystem ‘AI in Play’ - Unicef",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDgzbExBOWh6ZmZCZm8yWHh1b3FRMU1qRl9wazY4bkJhTlM3eHVONlVfdVhnc2lVcU1hTGFYYlBfVVZIMm9QR2oteVNiTmt2VG9OWmZ2Umd2VXdmWkdaTFowOEhmcW1GNHdqeXVWcTB6X1h3aU8tYmFlMEFXY1VYU1V3RHQwcTROdzNiUER4bUdSbEczc3FnLXBQMnpNcXJRT2xBdVVsUy1YUQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "One robotic arm to rule them all - ESA",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQ0R1RW82cGpWeFF2dUhaY1RVRnNMbDhtYXQ1UmdQekRhbnIwM0xja1hMS2wxdjNJNGgxV3FoNUk3NkdCR1k2M0Frd2FDcmlXMTNiX2xpcFJicjJqaGZabk9oa1k2c1Y2QkE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Qualcomm and Arm kick off trial, potential for huge damages in focus - Euronext Markets: Real-time Stock Market Data | live",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlFCbFhkX0J6X3hfLWR6MnF3U2NmRGZNRzdDQWV2RHJtc2IzZW85eGNXZnlxS0FQcGtndG5EdDRlWlVrTGJhelkzOHN2dERZSmNjQXhjLVU2cFpQVjI0c0MtYmt0YWNNcXJOLTNzRjUyQUxBUUVUYnU3cV9zb0FYQXJMN1lpVzFXUTdfN01IU25Sc3pDMnFOalVBbGMycUZzSUE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Arm forecasts third-quarter revenue above estimates on AI spending boom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGV2UGo5V1FRUGxkUzdPWVo1NGhFM2lvM2N5NVUycUUya2VIX3N2aHM5am8tNUhCQ21oMng4LVQ2UllCWnRpdlNqUDd4MTM2ZVhpUTBlR3NQTTdBZFNMVlRDVV9LQ2d4Vjc1M0ZBcldwZmVEaGpDTENnVHR2bmp3Sm9ENnF6YWU1TDRjcmxiSWQwTjY5clQwb2V2a1JMdUhxLXRfLUZwUlNwR0Rob1E?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Robotic-arm-assisted versus conventional total knee replacement (RACER-Knee): a pragmatic, multicentre, participant-masked and assessor-masked, superiority, randomised controlled trial - The Lancet",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ1dSVEpHNUZBTTQ2YXI4RF9Uc3h0SFlTMG9FbVdraExENXFVNXVnV1lKbzhYbklZQ2E1NzV5c3J6R0s2SHB3S2dJMHBSNFFuV0NkTGN6SGVGaU5OV09aR1RTRHlGQktLcTV4azlYcHNoeW1RUXlYRzZxTmpseXQ0RVJGcnVRY3RITWFF?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "A moment that changed me: I broke my arm seven times – and finally listened to what my body was telling me - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY2JvT1ZQeTl3TTZzVFV2WVY4bU56RWRsRm1NbUktTjNVY2J4aXAxalUxVGtBak9iNWIzZmNzVWg3Rjd1dWRJbTVYVUdtUHU5ZmNPRGVZanhCWm1zUTM4cHdqWEdPdFhRZDFWT3VUTnZ6TU50RFdEN090X25IX1NFVnQwaG1PdFFoTEI0a2psckYtaWtpY2dWQURtV0ZFRUxoWDY1bnhsYVNoaFliTGtLY2YzTVJYd0NyWkljajFFOGlZVDc1dFZjdV9MdHo5ZmtMek5lOGozMUVlWVBWZkpYNDZ2bFdsclprN2ZMUA?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -199293,14 +199331,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T23:03:32+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The role requires experience supporting IP development, SoC, compute, tooling, or methodology teams within the semiconductor industry, which your operations and S&OP background at Ola Electric does not map to.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T23:03:32+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires experience supporting IP development, SoC, compute, tooling, or methodology teams within the semiconductor industry, which your operations and S&OP background at Ola Electric does not map to."
   },
   {
    "id": "L1682",

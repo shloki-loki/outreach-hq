@@ -29099,15 +29099,15 @@
    "key": "pegasystems|program manager|bengaluru",
    "type": "job",
    "company": "Pegasystems",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "pega.com",
+   "company_url": "https://www.pega.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore,Hyderabad",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "instahyre",
    "source_id": "432136",
    "source_url": "https://www.instahyre.com/job-432136-program-manager-at-pegasystems-2-bangalore-hyderabad/",
@@ -29138,8 +29138,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -29148,15 +29148,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Program Manager at Pegasystems, but asks 11-15 yrs of experience which far exceeds your 1.3 years.",
+    "fit_notes": "The posting explicitly asks for '11-15 Years' of experience. Shlok has about 1.3 years of experience. While he has program management and operations experience from Ola Electric, the experience gap is insurmountable.",
+    "pay_notes": "Pay not stated in posting, and no specific salary figure found in evidence for this role.",
+    "culture_notes": "Pegasystems is a large established tech company; Glassdoor ratings and specific culture reviews were not provided in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T23:26:11+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Pegasystems invests ₹60 crore in Bengaluru hub, launches executive briefing centre for partners and customers - CRN Asia",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZm1fQmNWZi1RVDFGZ3RnYzVKQU1LR3BITWlNWGlqNFpLVzFwV1dhWmZuWUVnS3JsT2NhTTVVNFNNUk8zUWRWcEhDS0lQR2N2R2NTTzRYV2EzQVVUYTVpNEpMRXFXbXZmWXNURTg3XzZnZk1yNEo3UkFPdzZORDNjRWxhTHZ0a1F1Y09GUVVabGYta1lOclRaYWZoUXlwRHFlQ0MwVXNqMmtISXJYTEM1OGVwT01TRm5Wa2ZhOGRBakJEVjhEV3h0RTZiRDc0RS1Pc0dJd09MSzd0Y01EX21Gag?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Pegasystems CEO and founder Alan Trefler on AI agent ‘madness’ - Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUIxZVZPZTlWUUphbXdmRGhhb0ZzSUkxR0p4eUNwWFpOdHFCNVhYQTZEaHQ4T2JUYzB5ZTNldnk1ei1faDZOYWtVUF9xbGtTckFZcmRCeGdWOFpycTBQYmt2VmwweGVoS2dkUGljM3N3ZWJrVmkwTFJSTmlLeVFUN3VMTmJXLTNDTnZmRWdHY3gzZWpVaDlXcUV3b0Y1U0UzZDNrMXpaMy1PZw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Pegasystems Rings the Opening Bell - Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xM01uMnVQbkZpUHpWQ2pvc1BqWFhXbXh2Z3BzbWxGbmkwRnd2QnZHdnZ1Z1lYLTBBbkNEM2hMTXlmQS1hbmxpcnZ3NlJxb0Vra24yM1NDeG9oRXFMZWZWTWJ1dFdzWnNmWHdqMQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Pegasystems (PEGA) Stock May Be Cheap Given Its Earnings Power - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3d6V1hVbWJHQXMwRUV4ZTN3aldiT3JMZFBnbFY0OFZ1ckdlWFY0ck14N3l5d0FUd3MyUTNXdTdHek5aa1dFWWNDZnMtSTJFcnlKdHZVTjExb29ZZXFLV0ZjLUhoRFNuTkJ5Y3VFTFJlYVY2TW5SUGpLTWFaUnRaZkdPeUt0UXhxd1F3bElpNkJDZmJOQzBGdEdheHIxdw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Pegasystems opens new Bengaluru office with ₹60-crore investment - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbm92R1RPS015ZjV0SFp4NGd0WlZsdC1CMVVWQVoyNTVjSGN6UUp5dUpRaGI2dlNCSnlOeDB4WG1UZHpKeFRrVHFOZjQ4d3hrYUZFTHB2dXB5X3VfbW11T1dkTlRScHFUbkF2WUtiTlZXV3l3TndYd0ZWRkRzajJNTDZhVjZQSy1YVHNJa3JiZ0tRcHhjZmRpZkxrTmNqYjEzelZBQnFackdaMUh4RjMxOExtMVI0QWtINkw2NWhYdFBNOWRlLWptYXgyTEfSAdIBQVVfeXFMT0RCQ01HcnNaemlFeXhMNExURzMzeEg0UkhCZU5XYXVaNE0xWWJKdjJpekpROXZMaWpCbzZHWkh4M2ZIS3BrZkc2ZDBfS2pfM1FPVzE5UThOT3F3VlExR0FYcGJjSzMyNlNfTzhMbmQtaTFZRklXdllSTll3QUxPcy1YYkNhM0pIQTNCTm9VVWZfV092VWx5RzhIVzMwaU4ySVA3UzF6RWhBSU90bnczWExaQWkwTk4wak1Kdkpkbm16cXlWRmZsTHVyX2d0LXFmakxB?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Pegasystems launches Virtual National Internship Programme for engineering students in India - Telangana Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEJwaWFZZVVWM1lSQ1pOM09pSXQ0OEt4YUZsTVBLY2k0TGdDb1hfVm5DMlRVV3JVcTRhM2VFa3NaUFVLTHhjMnhCWlNxX2pqV1VTVW9vZTNNcGhCT0FRT3lhU29zSU45MWRVVDl2QkowcmxtYXdid2hqdS1mTTROLTVBdU9ZUlIxZmJnR2JFbmt6YVFvRDNqQnNGR293U0FmaUdyVW5DSnZPNlV4elBUdzhwRzM3dDl1ZE1V?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -29180,14 +29218,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-18T23:26:11+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The role asks for 11-15 years of experience, whereas Shlok has ~1.3 years, making this an extreme mismatch.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-18T23:26:11+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 11-15 years of experience, whereas Shlok has ~1.3 years, making this an extreme mismatch."
   },
   {
    "id": "L0236",

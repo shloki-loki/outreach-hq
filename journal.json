@@ -2744,6 +2744,15 @@
    "title": "Work W0020: done",
    "detail": "rejected: newest fact Aug 2025, weak fit",
    "ref": "L0373"
+  },
+  {
+   "id": "J0306",
+   "at": "2026-11-18T18:41:13+05:30",
+   "by": "founder-emails/claude",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "1 drafted, 5 rejected, 54 left queued (stopped early; 2 of the rejections were auto-closed by the 65 score gate)",
+   "ref": ""
   }
  ]
 }

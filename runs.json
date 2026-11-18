@@ -1929,6 +1929,13 @@
    "ok": true,
    "summary": "11 researched, 0 qualified, 11 rejected, 0 emails found; stopped early (budget not reached: remaining candidates Deloitte L1546 unverifiable via Instahyre 403); git data sync flaky mid-run; Apify unused",
    "stats": {}
+  },
+  {
+   "at": "2026-11-18T18:41:13+05:30",
+   "agent": "founder-emails/claude",
+   "ok": true,
+   "summary": "1 drafted, 5 rejected, 54 left queued (stopped early; 2 of the rejections were auto-closed by the 65 score gate)",
+   "stats": {}
   }
  ]
 }

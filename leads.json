@@ -183850,8 +183850,8 @@
    ],
    "updated_at": "2026-11-16T14:12:14+05:30",
    "research_attempt": {
-    "at": "2026-11-17T00:24:22+05:30",
-    "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
+    "at": "2026-11-18T13:27:55+05:30",
+    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
    },
    "live_check": {

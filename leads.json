@@ -198408,15 +198408,15 @@
    "key": "volopay|founder s office product|bengaluru",
    "type": "job",
    "company": "Volopay",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "volopay.com",
+   "company_url": "https://volopay.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Founder's Office - Product",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "474860",
    "source_url": "https://www.instahyre.com/job-474860-founders-office-product-at-volopay-bangalore/",
@@ -198447,8 +198447,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 75,
+    "total": 74,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -198457,15 +198457,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office - Product at Volopay in Bengaluru, asks 1-3 years; your Flask and API building work maps directly.",
+    "fit_notes": "The posting asks for 1-3 years of experience in product, software development, technical operations, or a founder's office, along with hands-on building ability and a practical understanding of APIs, frontend, backend systems, and databases. Your experience building a Flask REST API with a Chrome extension at InsuranceDekho answers this need ([idekho]). You also have experience partnering with leadership and owning operations ([ceo-coo]). The role asks for 1-3 years, and you have about 1.3 years of experience, making you a normal fit.",
+    "pay_notes": "Pay is not stated in the posting, and no concrete pay evidence was found in the search results. Shlok's target is fixed pay at or above Rs 24.5 LPA, so pay needs to be verified.",
+    "culture_notes": "No company ratings, review counts, or specific culture flags were found in the provided evidence.",
+    "hook": "Volopay is building AI-based real-time expense management software to streamline expense workflows for businesses.",
+    "hook_source": "https://www.instahyre.com/job-474860-founders-office-product-at-volopay-bangalore/",
+    "researched_at": "2026-11-18T13:28:09+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Volopay Singapore review [2027]: Features, fees and more - WorldFirst",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTHhyNmZOdTkzZW03UU1ZOTVMY3FpTHJTbHdoN0lPM0h5YWJkblZWMnFUZzZILW9GOWhBNjJ0TXpnMGNLUERWZ0RhOUx6RXE2SnR5UzM0dWR0M0hjeUtvOHJjRlc0ZkhNZTNCV1plZzltUDA3N0QzcFlzN3V1Tk1fcFNjT2pzOTA4TzZlbk9IQQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -198489,14 +198505,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-18T13:28:09+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 74: qualified"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T13:28:09+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1685",

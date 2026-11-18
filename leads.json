@@ -195367,15 +195367,15 @@
    "key": "upgrad|ai program manager|bengaluru",
    "type": "job",
    "company": "upGrad",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "upgrad.com",
+   "company_url": "https://www.upgrad.com",
    "company_linkedin": "https://in.linkedin.com/company/ueducation",
    "company_note": "",
    "title": "AI Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491146233",
    "source_url": "https://in.linkedin.com/jobs/view/ai-program-manager-at-upgrad-4491146233",
@@ -195406,8 +195406,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 45,
+    "total": 57,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -195417,15 +195417,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "AI Program Manager at upGrad, asks 0-3 yrs with Python/JS/AI building; pay unstated and likely below your Rs 24.5 LPA floor.",
+    "fit_notes": "The posting asks for \"0 to 3 years of experience. Fresh graduates are welcome with strong self-directed projects... Ability to build with Python or JavaScript, work with basic SQL and spreadsheets, and connect APIs\" and \"Builder Mindset... AI first\". Shlok's coding facts include [idekho] (Flask REST API, Chrome extension) and skills in Python/SQL, but his primary profile is Strategy & Operations ([msl], [o2d], [sop], [ceo-coo]) rather than technical AI prototyping. No MBA or consulting is required.",
+    "pay_notes": "No pay stated in the posting. upGrad FY26 gross revenue crossed Rs 2,000 Cr with losses narrowing to Rs 130 Cr [S5], but specific salary bands for this role are unavailable.",
+    "culture_notes": "No ratings found. upGrad recently launched upGrad Next to combine workforce advisory, skilling and hiring [S2], and wrapped up its Unacademy acquisition at a $200M valuation [S3].",
+    "hook": "upGrad recently launched upGrad Next to combine workforce advisory, skilling and hiring.",
+    "hook_source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDROZjhnWG1ZdTQ2eUF5NEVob0c2QnQ1V0RJX0NlRENhVDY3bzN1TFhscTl3Y1R4M3VvaEZPZWJfVlNMQzBNeVBPLW1Fa2RmOGFkWEs5dlNGTkdMa0oyQzdBOHM0bGR2Z2REdEt2TU01dGtmb2o4YlltMGhDM0t5Y3l5VzhIZnBPRm5qQTh2V2JHcW00N2lqbnRBRDI4SmloY01RNllhZ3VzNThaM0dEaWt4MFN6VWVhSUdvRG0yX1g1QTRs?oc=5",
+    "researched_at": "2026-11-18T13:27:00+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "UpGrad completes Unacademy acquisition at $206m valuation - The PIE News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcDhFR09rYWtlZVRCWnNmcEdwOFJnOUxLbF9seGQ4ak5ScTZIZmkwS2tlRWREamlHZDYxOHZucllvQTdUZ1FnRGpBWTZwczZkOEtMQlJlbXZHQWVjUlRiR1UxcC1XeHlTNTg2ZHE5LTI3WF9zQnJJU2pZTTl0LTB2eEdjMUxLUnc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "upGrad launches upGrad Next to combine workforce advisory, skilling and hiring - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDROZjhnWG1ZdTQ2eUF5NEVob0c2QnQ1V0RJX0NlRENhVDY3bzN1TFhscTl3Y1R4M3VvaEZPZWJfVlNMQzBNeVBPLW1Fa2RmOGFkWEs5dlNGTkdMa0oyQzdBOHM0bGR2Z2REdEt2TU01dGtmb2o4YlltMGhDM0t5Y3l5VzhIZnBPRm5qQTh2V2JHcW00N2lqbnRBRDI4SmloY01RNllhZ3VzNThaM0dEaWt4MFN6VWVhSUdvRG0yX1g1QTRs?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "upGrad wraps up Unacademy acquisition at $200M - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZzBzOGQtVGhuQWVGNlhzX3ZySzQyWG5TTUJ3a0czUWxxMHBwbTFBdHlGajY4MjhGMXpiRHhBeDV5RnBCZjdGcW1FanJNNHVRUE5VWFNjeVh5OWRMZXc0STBfQVItdmxyRVMzQVJUcFBlZVRHeEhlbkZodkt1LWNFLQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "SAM Advises Steadview Capital on Unacademy-UpGrad Share Swap | SCC Times - SCC Online",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSl9HZGwxV0N5VTJNcnNwOVVUUEJqcFBjVjFhVU9PMVZPUGphRjNRRHJuVkZDLUo5TXctWmlpVnA4OFBvSXZMQVAzM0wtUXNOQi1wa1Foc3hvdHJSUm5uRFd3UjB0Y0laRV9PWklhMFlkWWE5VHVZc3J2QUVwSklVTFFqXzNud09DbXc2RlA4OW43NVBXaEVCd3d4T1J4N1NNMGpjN3o3TkRPbUUzZlp5dXZlZFB6YWJsV0xNWVlWV2dfcXhOeVM3Qw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "upGrad’s Gross Revenue Crosses ₹2,000 Cr In FY26, Loss Narrows 52% YoY To ₹130 Cr - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1NjNDZDNnA2em92MEhNNHZENVk2Zjd2ZC1OSXVGQVk3WHZ5aXpuSnhleUNBLXBqLUY1RXo0UmwwMFVpclc0Yll3dDktVVFrN0hZUHdYai1Pelo0WFZFUmdyWXd0bkdHVXFWUVMyRnZVdDh5U0FNRkJOWEJnbHg1NUp2dDYwWjM4Y212bW95T3JWTnotbExxcV9neDJuQmtVSGVLMV9nVjlPLVZfZTFVMl9VNmVZUk92?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Under Ronnie Screwvala’s watch, upGrad is chasing PhysicsWallah, Eruditus - The CapTable",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUtFSDVuREtod0RjR3VLa2hOakJiQ2wtUnlqWFBGUzMtb3FuVm5tY2JhR2JjSC1fbHZLWXRBM0JqMGlneGZ5Q3A4bm8tblJKYWxqbnJtWFZQU1hKVFJ5QUN4eU5mMDdvWkE3dlk4clpMNjhudmtvXzRVWFhPMFVHMk1aYnNIdEdQa3oyOXhjS3JQdFk0UWFEdVl6bFUzbm9jSVJv?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -195449,14 +195489,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-18T13:27:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 57: rejected (Pay is unstated and edtech AI program manager roles at 0-3 years rarely hit the Rs 24.5 LPA fixed floor; additionally, the role leans toward AI/technical product prototyping rather than Shlok's core Strategy & Operations priority.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:22+05:30",
+   "updated_at": "2026-11-18T13:27:00+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Pay is unstated and edtech AI program manager roles at 0-3 years rarely hit the Rs 24.5 LPA fixed floor; additionally, the role leans toward AI/technical product prototyping rather than Shlok's core Strategy & Operations priority."
   },
   {
    "id": "L1656",

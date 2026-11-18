@@ -239,12 +239,12 @@
    "detail": "founder-batch 2026-11-17: write to C1 Vinod Naik; research one sourced hook, write a v3 offer email, queue it with message draft | handed from codex to claude: 16:15 takeover: not started by codex",
    "batch": "founder-batch 2026-11-17",
    "contact_id": "C1",
-   "status": "working",
+   "status": "done",
    "created_at": "2026-11-17T17:41:11+05:30",
-   "lease_until": "2026-11-18T20:38:57.581688+05:30",
-   "result": "",
-   "ref": "",
-   "updated_at": "2026-11-18T18:38:57+05:30"
+   "lease_until": null,
+   "result": "drafted M0024 to Vinod Naik",
+   "ref": "M0024",
+   "updated_at": "2026-11-18T18:39:34+05:30"
   },
   {
    "id": "W0018",

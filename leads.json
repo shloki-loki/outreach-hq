@@ -24207,15 +24207,15 @@
    "key": "cisco|materials planning manager|bengaluru",
    "type": "job",
    "company": "Cisco",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cisco.com",
+   "company_url": "https://www.cisco.com",
    "company_linkedin": "https://www.linkedin.com/company/cisco",
    "company_note": "",
    "title": "Materials Planning Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4480516314",
    "source_url": "https://in.linkedin.com/jobs/view/materials-planning-manager-at-cisco-4480516314",
@@ -24231,7 +24231,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
    "open": true,
-   "jd": "",
+   "jd": "Meet the Team\n Material Planning is the team that answers a deceptively hard question: what components does Cisco actually need, and when? We own the component-level view of the supply plan across Cisco's highest-value commodity groups, including ASICs, Memory, PCB, Power, Optics and MPU. We translate the demand signal into the true need at part level so Component Supply Operations can secure it, and so shortages get resolved with logic instead of escalation. The team sits at the center of Global Supply Chain, running an integrated commodity planning process that brings Global Supplier Management, Product Operations, Global Manufacturing Operations and Planning into a single component picture. We're a small, deeply analytical group with outsized reach, and as we expand into new commodities, you'd be among the first dedicated planners for yours. That means you'd be shaping how it's planned, not inheriting a playbook.\n Your Impact\n You will own the component-level need for an assigned commodity and serve as the trusted planning voice for every partner who builds, buys or secures it. Translate product-level demand and supply plans into a clear, time-phased component requirement, separating minimum need from upside and buffer, so suppliers and manufacturing sites act on the right signal. Identify critical components and sense risk early through lead-time trends, commit deviations and product transitions, so constraints are resolved before they reach the war room. Own safety stock and buffer strategy for your commodity in partnership with Planning and Global Supplier Management, so buffers are sized to real volatility rather than habit. Partner with GMO and GSM during constraint events, providing the planning inputs (minimum need, impact and options) that enable fast, defensible shortage decisions. Success looks like improved service levels to Cisco customers at an optimized cost to serve, with fewer supply surprises because partners trust your signal.\n Minimum Qualifications\n 5+ years of experience in materials planning, component or commodity planning, supply planning, inventory management, or procurement within a manufacturing, electronics, or technology environment\n Bachelor's degree in Supply Chain, Engineering, Industrial Engineering, Business, or a related field\n Experience performing component-level planning using Bill of Materials (BOM) structures, including BOM explosion, requirement netting, and multi-site requirements\n Proficiency in data analysis and visualization tools (SQL, Python, Power BI, or Tableau) for scenario modeling and risk analysis\n Professional proficiency in English\n Preferred Qualifications\n Commodity-specific experience in ASICs, Memory, PCB, Power, Optics, or MPU\n Hands-on experience with enterprise planning or ERP systems such as Kinaxis RapidResponse, Oracle, or SAP\n Experience participating in S&OP or cross-functional planning forums with Procurement, Manufacturing, and Business Unit stakeholders\n Experience sizing sa",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -24246,8 +24246,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -24257,15 +24257,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Materials Planning Manager at Cisco, asks 5+ years; your 1.3 years of supply chain experience is too junior.",
+    "fit_notes": "The posting asks for '5+ years of experience in materials planning, component or commodity planning, supply planning, inventory management, or procurement'. Shlok has about 1.3 years of experience. The posting requires a 'Bachelor's degree in Supply Chain, Engineering, Industrial Engineering, Business, or a related field' (his B.Tech in Electrical and Electronics Engineering matches), and mentions 'Experience performing component-level planning using Bill of Materials (BOM) structures' and 'Proficiency in data analysis and visualization tools (SQL, Python, Power BI, or Tableau)', where his SQL skills match. However, the 5+ years requirement is a strict gap for his 1.3 years of experience.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figure is provided in the company evidence for Cisco in India.",
+    "culture_notes": "No ratings or reviews were found in the provided evidence. Cisco recently lifted its annual revenue forecast on strong AI networking demand [S5].",
+    "hook": "Cisco lifted its annual revenue forecast on strong AI networking demand.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDgteG5IeXZjU1k1UDdhbFkyZlVCaHI1d0pPdGp2elFReVRRclN6dWhTM2NuSUk3cGdUSnRRU2c4aWpCcS14blFsN3hLTTNCSktQbXpTUVgxRjVJV1R1YldHdEVYMXJvVHg3TzJiOXhEM0owM08ySlI1bmNkMG5GQXhnQl9iVExNWlN1Z0ZweFk3YldGWDltNFpnekdDZWpVcTJ3QTFlUUxNWXlLX0NjLUhvTjRtNzlrYnlXdXJiTmc?oc=5",
+    "researched_at": "2026-11-18T13:29:54+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Two critical RCEs in PHP core - Cisco Talos Blog",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zN3ZxNXRYbmtlVzVQNU53dTAwLXk1WUxZckEyZ0RaU1pvNXVDQnctWGE3anY3MUt1NGdsUlB2bzhsQXBkcXljdmtTWFFENkVacVFnUF9kdmp2aXNkWmw1dWkxX2IzMERMa2g5TlJOWlJPVE0?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Deploying AI You Control Doesn’t Need to be So Hard - Cisco Blogs",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXg3UlBaUk5Ebl9CaU1FUzRnSmduVXpsMDBkUTNDX1FhQWg1THg4SVJJUDQ2RnZ0XzlmNnBDb09VZWI3OFFlS1pzSVBkYk02aGE2anFYd2ZhTXZrUnhuM3B5THliLVAtNk9VeF9KYS1ndFQ4WjUwTEZlT1ZxdkoweU1jQklkdw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1hZmJNOVJBYUN6ZHFnVzk0d1g1Yi1iUFJLM2cwdzNJQmpoVzRBM2ZvdXRJMGlzQU5IeFZRT3RVSEMtcHZnQ3c?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUNtMjcyRmFaWHoweVhWT2wzelpGOU1TbldKRkVYdWNUT0JuRUcxYkx6clU0a1Z1dE5DNlNYQTQxOUZSS2pzaU94eVFIOW5OWEtnZk54NWhrN0FZdS1TSGYtWlo4Z2stMVZjNF9TZXBCRGRIY3BPOGw3UHNIMDdZZUJKRQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Cisco lifts annual revenue forecast on strong AI networking demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDgteG5IeXZjU1k1UDdhbFkyZlVCaHI1d0pPdGp2elFReVRRclN6dWhTM2NuSUk3cGdUSnRRU2c4aWpCcS14blFsN3hLTTNCSktQbXpTUVgxRjVJV1R1YldHdEVYMXJvVHg3TzJiOXhEM0owM08ySlI1bmNkMG5GQXhnQl9iVExNWlN1Z0ZweFk3YldGWDltNFpnekdDZWpVcTJ3QTFlUUxNWXlLX0NjLUhvTjRtNzlrYnlXdXJiTmc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXZ1VHS3FlM0xwR1ctNVZGd255am4zdHdQUUhBVjdyRmVoRy05RkZPcGQ2RUgzUFVsSlk1YTQ5aUZTM1lhZmFPT2lXUXY4NzcwanBweWVNN3RMSklUdzBfdDg5MUtfMzY0Qi1FMmpHT19sZ9IBd0FVX3lxTFB0dFNlWHZZSG04enVwQmRHZ3J3LUtIT3ZUdF9ESkVzZExBaWJFSTVjcGZxbkFxUVl2VFZ3dkFBTVFVc0dWTG5INTRlMDBqT1VudEJYZ0xOX0NiUzVPSEtoUzhfRlh5bmlMMWZjaHExV0dPTVBra2hv?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -24289,9 +24331,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T13:29:54+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role asks for 5+ years of experience in materials planning, whereas Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-18T13:29:54+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
@@ -24301,7 +24349,8 @@
     "at": "2026-11-17T00:35:33+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 5+ years of experience in materials planning, whereas Shlok has about 1.3 years."
   },
   {
    "id": "L0198",

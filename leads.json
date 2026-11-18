@@ -198764,7 +198764,7 @@
    "key": "mmfoam|business development manager|bengaluru",
    "type": "job",
    "company": "MM Foam India",
-   "company_domain": "",
+   "company_domain": "mmfoam.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/mm-foam-india",
    "company_note": "",
@@ -198772,7 +198772,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491144686",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-mm-foam-india-4491144686",
@@ -198788,7 +198788,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "About the Company: \n Founded in 1957, MM Rubber Company Ltd. has been a pioneering force in the manufacturing of high-quality, durable latex products. With over six decades of expertise, the company has consistently set industry standards, blending innovation with time-tested craftsmanship. Renowned for producing resilient and environmentally friendly products, MM Rubber Company Ltd. is committed to delivering unmatched durability and sustainability. Trusted by industries worldwide, we continue to shape the future of latex manufacturing with cutting-edge technology and a legacy of excellence.\n Position overview: The primary responsibility of the institutional sales manager is to identify opportunities and develop relationships with institutional clients in the assigned market channels.\n Responsibilities: \n Responsible for meeting clients/institutions and corporations.\n To manage relationships with institutional and corporate clients.\n Maintaining and enhancing relations with existing clients.\n Make new and existing customers aware of the various products of the company through effective promotional activities in various corporate institutions.\n Desired Profile: \n Graduate, MBA referred\n Good command over English\n Min 8-10 years of experience in Institutional Sales\n 15 to 20 days of travel is expected\n Proficiency in MS Office (Excel, PowerPoint, Word)\n Initiates and follows up on new business opportunities.\n Leads new business meetings and closes sales to institutional clients.\n Leverages the organizations relationship with existing institutional accounts by developing and executing proactive, creative, and ongoing contact initiatives.\n Develops and maintains relationships with clients.\n Assists in the development and launching of new products.\n Ensures that product and sales materials are always updated and focused for the applicable presentation, conference, or opportunity.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -198803,8 +198803,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -198814,15 +198814,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at MM Foam India, asks 8-10 yrs and an MBA, making it a severe over-experience and background mismatch.",
+    "fit_notes": "The posting asks for \"Min 8-10 years of experience in Institutional Sales\" and states \"Graduate, MBA referred\". Shlok has about 1.3 years of experience and no MBA. While the posting requires institutional client relationship management and business meetings, which mildly touches his business development exposure, the 8-10 year experience requirement is a hard blocker.",
+    "pay_notes": "Pay is not stated in the posting, and no evidence was found online.",
+    "culture_notes": "No company website or news found; company culture and ratings are unknown.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T23:02:46+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -198846,14 +198853,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T23:02:46+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 35: rejected (The role requires 8-10 years of experience in institutional sales and an MBA is preferred, whereas Shlok has 1.3 years of experience and no MBA. Additionally, pay is not stated and the role is traditional B2B sales rather than Shlok's priority areas like Strategy & Operations or Product.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T23:02:46+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 8-10 years of experience in institutional sales and an MBA is preferred, whereas Shlok has 1.3 years of experience and no MBA. Additionally, pay is not stated and the role is traditional B2B sales rather than Shlok's priority areas like Strategy & Operations or Product."
   },
   {
    "id": "L1678",

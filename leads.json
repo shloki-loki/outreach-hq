@@ -197676,15 +197676,15 @@
    "key": "amazonweb|sales strategy and operations manager apj gso|india",
    "type": "job",
    "company": "Amazon Web Services (AWS)",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "aws.amazon.com",
+   "company_url": "https://aws.amazon.com",
    "company_linkedin": "https://www.linkedin.com/company/amazon-web-services",
    "company_note": "",
    "title": "Sales Strategy and Operations Manager, APJ GSO",
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491552455",
    "source_url": "https://in.linkedin.com/jobs/view/sales-strategy-and-operations-manager-apj-gso-at-amazon-web-services-aws-4491552455",
@@ -197700,7 +197700,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Description\n This role is open to candidates based in Delhi.\nAmazon Web Services (AWS) provides individuals, companies, and governments with reliable, scalable, and inexpensive cloud computing services. With AWS, you gain access to a suite of on-demand services including compute power, database storage and content delivery. AWS serves over a million active customers in more than 240 countries and territories.\nThe Amazon Web Services (AWS), India Global Sales Operations (APJ AGS GSO) team is seeking a self-directed, motivated, and structured sales operations professional who is passionate about enhancing operational efficiency of our sales organization by driving process improvements, leveraging technology, and collaborating closely with global and regional stakeholders as we grow our business and expand our product mix. This includes managing the Operating Cadence governance, supporting the Monthly Metric Review (MMR), the APJ AGS leadership team Business Management Review (BMR), and the Area BMR processes, identifying technologies to streamline workflows and reduce manual efforts, and standardizing processes with global and regional teams.\nThey will have the ability to earn trust through performance and relationship building, have strong business acumen and be able to connect financial data to technology, and develop processes to assist the teams in meeting their objectives. They will develop detailed revenue attainment and support customer adoption plans, report progress against those plans to management and help improve cross-organizational processes and systems. They will partner with other AWS team leaders in finance, marketing, billing, product management, and customer support to create and refine the tools needed to generate productivity increases.\nKey job responsibilities\nThe successful candidate must be able to roll up their sleeves and dive deep into unclearly defined spaces and instill proper levels of structure and control. They should be passionate about their work, detail-oriented, analytical, and have excellent problem-solving abilities. They should be experienced at working with applications to automate manual processes. They should have superb communication and customer-relationship skills, excellent process optimization acumen, and be a passionate advocate for their customers to other internal stakeholders.\n Managing financial reporting and analysis for a business vertical, ensuring timeliness, completeness and accuracy of reporting\n Developing metrics and reports to manage sales pipeline, billed revenue and quota attainment\n Leading development and implementation of forecast models/methodologies, owning quantitative analysis of sales team performance\n Developing and implementing performance dashboards that encompass key metrics\n Making recommendations and supporting the evolution, integration, and implementation of business intelligence and CRM tools\n Identifying opportunities to improve the operating cadence and reporting proc",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -197715,8 +197715,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -197726,15 +197726,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sales Strategy and Ops Manager at AWS, asks 10+ yrs experience; far above your 1.3 years.",
+    "fit_notes": "The posting asks for '10+ years of experience in a sales operations, business operations, or finance role' and a 'Bachelor's degree or above in Business Administration, Finance, Economics, Computer Science or a related field'. While Shlok has a B.Tech in Electrical and Electronics Engineering from IIT Guwahati and strong S&OP and inventory experience ([sop], [ceo-coo]), his 1.3 years of experience falls severely short of the 10+ years hard requirement for this mid-senior level role.",
+    "pay_notes": "Pay not stated in the posting; needs evidence.",
+    "culture_notes": "AWS values diverse experiences and promotes inclusion and work-life balance per the posting, but specific Glassdoor/AmbitionBox ratings and review counts were not found in the evidence.",
+    "hook": "Amazon Web Services and Esade joined forces to prepare future leaders for digital transformation and AI.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1NqQ0RYWmxLYmVBUWZCX1JiS3YtanBtSW9COVMybENyeGUyVnFweGR0cmk2dTNWalR5eVlrdG1hUmFMS0xhQTJvMnpwNmpLMjhVY1h5YWZHQjg0Vnd4VTZWRHdiWVZZLU84Z1J5ZE9nVzducTJaSi1mWVQxdHBwUzdJazYzUnB0cnZPUWZ6YjR0UGFiWmtROXd3N0Nna1NCak9pbHBRYkJEWmY1a1RQWnFZUkM3cktFeUctRnQ1SXlwUQ?oc=5",
+    "researched_at": "2026-11-18T23:01:02+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Nokia, Amazon Web Services expand collaboration to deliver autonomous networks built for the AI era - Nokia",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeGVSMEl3bUZTUGFaWE43REZiOWlzQ09ZeVF5al9TMG9UVTFkRlVSeFg4SWRnc3pLbGR6Qk5GUEFtWFFaVVdfaXRJMDRUU1RtQkItRG1SZnBOeGUxSEVWeG9kUXN1NE9wbXVXUy1SUEZMakdJNlZwTmh1dW14U0lwM25IRnJOdmtWQ2VWS3ByOFVrSmNXNFAtbVh0UE0zQ1pqQ09vbE5yNVd5STNJbW1VM0Z2bGgzLVlqM1ZJUVlzMVZmZGV2OE9zQk5B?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Novo Nordisk selects AWS as strategic partner to accelerate drug discovery with AI | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1hpNWhoZDhpb2oteHM4dVIybE94b0dMMV9nQXNqb3hIeS1JbWsyTjhkUktRUXRwVmtLLXA2akpPSlFYNkhVOE0tQUUyYm1HNmJSYU8xZERmOFAtRXZ6V0sydDdmMDhNVE5YVU1jdFBLY19adWtTSHN0dF9xWFdZRHRHYkRxanZJT3dRX0FlM2tCdTJFVUJFUXJJdTVYUlFZMlZYLXdoT0FFOE9TWmFmbHdCWFZOUkpFX0VoZzFFLWc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Govt launches nationwide cloud & AI skilling initiative in collaboration with Amazon Web Services - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEhQUDJ2TUFyQVR1UkhPb0xVTk5KakYxeXhvaUJuZnNudEJnVm80Z0dnNVUyYTBrUWR2RWoycWhkMnBIM0UzbXU2YndSSTh4VUQycTl5VW1qQkJXQ0xnNFRfYUczREIwVnk4S2FiN3R6VEJVX3FoNmhwWm5YUU1MUi1BY01PTzBnQ3dGVmcxNUhkVFVQMHhFT2dYbXY5UEtXTzVEczU1VGpIQkZTeXJGVkN0Q2FjRXpaM1cydEFn?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0d2RzRyLXM3VTZNUzEweGx2TFhSSUwycTNoVG0wSng3ZGxqdVlMVjhMZFdpUU5GblB0V1JKVHpORWxLZkxfVGdYWlRlQlotVTJyMFR0N3JVTHJNSHVEaHlmbmtjX21JTVBQZFkzS3NzSWZmMHpTakg1akQtcTBCYnJUTldjaDEtTlo3UWNrTzZkTmtQOGNYLXpwc0dDYjIyZnhKeUliX0VmQmI3STlWMHctdjYyRHRBYUNRWW9Wa2U1X09EZFBIRkZ4eXFFQXZYeGdRa25R?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Amazon Web Services and Esade join forces to prepare future leaders for digital transformation and AI - Esade",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1NqQ0RYWmxLYmVBUWZCX1JiS3YtanBtSW9COVMybENyeGUyVnFweGR0cmk2dTNWalR5eVlrdG1hUmFMS0xhQTJvMnpwNmpLMjhVY1h5YWZHQjg0Vnd4VTZWRHdiWVZZLU84Z1J5ZE9nVzducTJaSi1mWVQxdHBwUzdJazYzUnB0cnZPUWZ6YjR0UGFiWmtROXd3N0Nna1NCak9pbHBRYkJEWmY1a1RQWnFZUkM3cktFeUctRnQ1SXlwUQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Exclusive: Amazon Web Services CFO says AI spending is sustainable - Axios",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2bkxFUFRMWlFOeXFSVU5iVDhhMjBuQk82TkxmNFVWUmQ2YW4zNU1UR0tNeVA3Zms2OWVrXzhJbld4aUlhWmtqY19MVFNncWIwRzBDak1CRDRENmhHdGotZFpQajlsdENBZHNz?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -197758,14 +197799,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T23:01:02+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires 10+ years of experience in sales operations, business operations, or finance, which far exceeds Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T23:01:02+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 10+ years of experience in sales operations, business operations, or finance, which far exceeds Shlok's 1.3 years of experience."
   },
   {
    "id": "L1670",

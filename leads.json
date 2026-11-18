@@ -186680,15 +186680,15 @@
    "key": "siltnutrition|supply chain manager|bengaluru",
    "type": "job",
    "company": "SILT Nutrition",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "drinksilt.com",
+   "company_url": "https://drinksilt.com",
    "company_linkedin": "https://www.linkedin.com/company/silt-nutrition",
    "company_note": "",
    "title": "Supply Chain Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490284322",
    "source_url": "https://in.linkedin.com/jobs/view/supply-chain-manager-at-silt-nutrition-4490284322",
@@ -186704,7 +186704,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Supply Chain Manager , SILT Nutrition, Bengaluru (in office, full-time).\n We hire for four things: ownership, intent, the ability to learn and unlearn, and a generalist attitude. At this 0 to 1 stage, relatively empty slates eager to wear many hats are welcome.\n Experience: ideally 5 to 8 years, but ownership, intent, learning speed and a generalist attitude matter more than years.\n Production, operations, logistics, purchase. End to end, CDMO to doorstep.\n About SILT Nutrition \n SILT makes evidence-based daily wellness rituals for India's busy professionals. Two drink mixes: SILT Mornings (gut + energy + vitamins) and SILT Nights (recovery + calm + sleep). Clinical doses, every mg printed on the pack, no proprietary blends.\n We opened the cart on 28 October 2026. Three weeks in: 248 orders, 1,870 pre-bookers, ~90% organic, rated 4.9/5 by verified buyers. Four of us did that. SILT is not short of demand. It is short of hands.\n What you will own \n Own production planning with our CDMO: forecasts, batches, raw materials and packaging\n Own purchase: vendors, MOQs, costs and lead times\n Own logistics and 3PL: inventory, dispatch, returns and marketplace readiness\n Keep stock, COGS and quality on one sheet: COAs, batch records, FSSAI compliance\n Build the ops playbook as we scale to marketplaces and quick commerce\n Pitch in beyond your role: content, ops, customer calls, whatever ships\n What you bring \n Supply chain or operations experience at any FMCG or D2C brand. No wellness background needed\n Experience working with contract manufacturers and 3PLs\n Strong with numbers: inventory planning, costing and working capital\n Bonus: exposure to food or beverage manufacturing\n Who we're looking for \n You don't need a wellness background: the best D2C and FMCG operators learn this category fast. Numbers over adjectives, and the habit of reading the label.\n What you get \n An early seat at the table in a 0 to 1 consumer brand\n Every number in the open\n Direct work with the founders\n Full-time, in office, Bengaluru\n How to apply \n Apply here: https://tinyurl.com/silt-jobs (or write to careers@drinksilt.com with the role in the subject line). The question that matters most: what would you fix about SILT in your first 30 days? That answer matters more than the CV.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Wellness and Fitness Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -186719,8 +186719,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -186730,15 +186730,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Supply Chain Manager at SILT Nutrition, asks 5-8 yrs; your S&OP and inventory work maps well, but experience requirement is too high.",
+    "fit_notes": "The posting asks for 'ideally 5 to 8 years' of supply chain or operations experience at an FMCG or D2C brand, working with contract manufacturers and 3plers. Shlok's S&OP production planning and inventory management facts ([sop], [ceo-coo]) match the core duties, but he has only ~1.3 years of experience. No MBA or consulting is required.",
+    "pay_notes": "Pay not stated in the posting; no evidence found.",
+    "culture_notes": "Early 0 to 1 stage consumer brand that opened the cart on October 28, 2026. No employer review ratings found.",
+    "hook": "Three weeks in: 248 orders, 1,870 pre-bookers, ~90% organic, rated 4.9/5 by verified buyers.",
+    "hook_source": "https://in.linkedin.com/jobs/view/supply-chain-manager-at-silt-nutrition-4490284322",
+    "researched_at": "2026-11-18T13:32:07+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -186762,9 +186772,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T13:32:07+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role asks for 'ideally 5 to 8 years' of experience, which exceeds Shlok's 1.3 years and goes beyond the normal 3-year stretch limit.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-18T13:32:07+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
@@ -186774,7 +186790,8 @@
     "at": "2026-11-17T13:59:59+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 'ideally 5 to 8 years' of experience, which exceeds Shlok's 1.3 years and goes beyond the normal 3-year stretch limit."
   },
   {
    "id": "L1571",

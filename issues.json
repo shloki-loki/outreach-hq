@@ -277,7 +277,7 @@
    "opened_at": "2026-11-18T18:37:33+05:30",
    "last_seen": "2026-11-18T18:37:33+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: every draftable lead only has guess or catch-all addresses (zamp.ai, nathabit.in catch-all; swiggy, univest, flipkart, zepto guesses) and the Reoon free daily quota is used up, so send-track will not draft (rule: no cold email to unverified addresses). Google Forms (L0003, L0013, L0018, L0007, L0010) return 401 without sign-in, so Shlok must fill those by hand. Remedy: re-run find-email --recheck after the Reoon quota resets, or add a second verifier key (Hunter, bare value). Nothing is lost.",
    "resolved_at": null
   },
   {

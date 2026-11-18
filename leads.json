@@ -202252,15 +202252,15 @@
    "key": "samsungsemiconductor|soc program manager semicon only|bengaluru",
    "type": "job",
    "company": "Samsung Semiconductor",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "samsung.com",
+   "company_url": "https://www.samsung.com",
    "company_linkedin": "https://www.linkedin.com/company/samsungsemiconductor",
    "company_note": "",
    "title": "SOC Program Manager - Semicon Only",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490843177",
    "source_url": "https://in.linkedin.com/jobs/view/soc-program-manager-semicon-only-at-samsung-semiconductor-4490843177",
@@ -202276,7 +202276,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "SOC Program Manager – Role Overview \n The SOC Program Manager is accountable for the complete lifecycle of System‑on‑Chip (SoC) projects. This includes creating and owning the program plan (schedule, budget, resources, deliverables, and risk), driving the initiative from concept through tape‑out and into commercialization, and coordinating with design, verification, DFT, physical design, system‑emulation, IP, and other functional groups.\n Core Responsibilities \n Program Planning & Execution \n Define scope, schedule, budget, resources, and key milestones for complex SoC initiatives.\n Maintain the official program record and ensure alignment with overall portfolio objectives.\n Milestone & KPI Management \n Track program milestones and critical KPIs such as power, performance, and cost.\n Refresh weekly dashboards, close checklist items, and provide status updates to stakeholders.\n Cross‑Functional Coordination \n Collaborate with Design, DV, DFT, Physical Design, System Emulation, IP, and core teams.\n Lead execution reviews, technology/IP/process reviews, and brief executive leadership.\n Risk & Compliance Oversight \n Identify, evaluate, and mitigate schedule, NRE, quality, and compliance risks.\n Keep risk registers current and enforce adherence to defined processes.\n Stakeholder Alignment \n Serve as the program’s spokesperson, building consensus across internal and external partners.\n Communicate the program vision, set deliverable priorities, and keep the team focused on goals.\n Support \n Participate from concept review through tape‑out (TO) and onward to product launch.\n Ensure smooth hand‑offs to downstream teams and customers.\n Preferred Background & Skills \n Industry Experience – 11 to 16 years in the semiconductor sector, with at least 5 years in project or program management.\n Tool Proficiency – Advanced competence with Microsoft Excel, PowerPoint, and Word.\n Technical Acumen – Thorough understanding of the end‑to‑end chip‑design lifecycle, from RTL to tape‑out and field deployment.\n Leadership Record – Proven ability to lead multi‑disciplinary teams and deliver complex projects on schedule and within budget.\n Process Expertise – Experience defining, implementing, and continuously improving development processes.\n Communication Skills – Strong interpersonal abilities; capable of influencing and informing stakeholders at every organizational level.\n Key Competencies \n Getting Work Done – Organized, resourceful, and forward‑thinking; capable of mobilizing multiple resources and anticipating obstacles.\n Program Management – Skilled in planning, scheduling, tracking, and executing using standard program‑management methodologies and tools.\n Risk Management – adept at spotting, prioritizing, and mitigating risks that could impact program outcomes.\n Disclaimer \n Samsung Semiconductor India Research (SSIR), a division of Samsung R&D India - Bangalore Pvt. Ltd is dedicated to employing a diverse workforce and providing Equal Employment Opportunity to al",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -202291,8 +202291,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -202302,15 +202302,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "SOC Program Manager at Samsung Semiconductor, asks 11-16 yrs; your 1.3 years of experience is a major gap.",
+    "fit_notes": "The posting asks for \"11 to 16 years in the semiconductor sector, with at least 5 years in project or program management\" and \"Thorough understanding of the end-to-end chip-design lifecycle, from RTL to tape-out\". Shlok has about 1.3 years of experience and his background is in operations and S&OP at Ola Electric, not chip-design program management.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figure was found in the research sources for this role.",
+    "culture_notes": "Ratings and review counts were not found. Culture flags mention a Nikkei Asia report regarding a $400,000 bonus deal for Samsung semiconductor workers [S6].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T23:08:38+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Sustainable Semiconductor Technologies and Systems | Samsung Semiconductor Global - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYW9LUTdsMjlvY0poU2xaeXNyalpsdGxIWmhROWZaRm9nX2xLdk9IMHRFeEo3cVVsd3dPWDhuRm9lZFU2aGxFTXJ4X1o5RmY1dWpBbVkzakpIaHNqLVV6T1ZwSVM3bTJkb1A5WDBSNkxBNWNDSkhuQ05RbXdNRjlBOWdqX1pHbFE0T1VteWl0Wk5qTWpZZ1JlRGRhX1hEZVB0cUkzNGJwMzBrbFMxd3JwTFNvWUFuYkpoZEVNalZQMA?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Jun Young-hyun Warns Against Complacency: Tension Inside Samsung Semiconductor Despite HBM4 Success - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9neTRyaG1LdXJSSFVYOTE0al9mYURFMG01cTRUeENzMDV0Wm0wdm5fTUlZd1oyR0I0UGFtOWxydGUteXNldlQyOUdINzRDUnBVc1R6dEtiSHR4bFJzMEtUZWN6Z0VUbW9tcHBvUHlqUE5wbFZZLWc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Dreamtech Creates DS Division, Hires Samsung Semiconductor Veteran; Invests ₩25.4 Billion in India - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTZ0hZd3NmUGNLZmRmVUJ3ZnI0bWZIU3UzUTc2Y1poQjRacndmam5wMERjX21zNk1ObXRXWlJyWmhuenBZOFgzWkdVZEI4aUVzcDJxNTljVzhaUl9jenh2bUFldGRkV01sd3lKaWdzUXZNZnJxX1E?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Samsung Semiconductor Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUWkR6T2tVRkpzYkhEMVVQUmtTVlJFalVEQ0FPQ2g3X1E5eEtGYWJuN01uQ2VGbl9tZ1lwbW9GbW1MYXFyTUVCSy1MT0JCU1lvQjhmQ21nTXlaTFl0aUIzQ1lsSENGM0RvaEkzVVNvT0NmNmNPQkcxUQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2tPeDA2ZXVTNW5IeFFPS1l5TFNyc3NaS3JDakJNamVzU2tIZVNWbGwzaFVEb0JTQTZTYVk4dGNYR3ltZDhnTEFJQ0ZjTlBFR21IZjAzRW1LWmtkUVV2dVJTczRRS3cxbXFYV1dkcXJiZExnazFCNlpOdkcwVXNjaDhWV0tLeWFpRDRwdjZB?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Samsung semiconductor workers' $400,000 bonus deal: 4 things to know - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjdXVTRKRUtBa3N4Z3JVWnBiWTdKSDVuVTlQdVZhZFNSZHRaRzl5ZVZZRWNaSF82OVpkajhCM2dJS200YmdWT0tqeDYwTlBkYlhTUE80WDlGTUxlNVdWVU1INE1HaktFSFd2cjNjYkhTeHlRUHN1M2dPOEdiQnFBdE91MEVGT002TGRVWFhMRElLY1hYR0FYWHFZbHhaaklBY0pGT0JuZmhsODlvVllXcGxzZ3RqemdaS3c?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -202334,9 +202372,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T23:08:38+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires 11 to 16 years of semiconductor industry experience with at least 5 years in project or program management, which far exceeds Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30"
+   "updated_at": "2026-11-18T23:08:38+05:30",
+   "reject_reason": "The role requires 11 to 16 years of semiconductor industry experience with at least 5 years in project or program management, which far exceeds Shlok's 1.3 years of experience."
   },
   {
    "id": "L1711",

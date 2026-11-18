@@ -45254,8 +45254,8 @@
    "key": "ditto|strategy and operations|unknown",
    "type": "company",
    "company": "Ditto",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "joinditto.in",
+   "company_url": "https://joinditto.in",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy and Operations",
@@ -45293,8 +45293,8 @@
    },
    "score": {
     "rules": 45,
-    "research": null,
-    "total": 45,
+    "research": 74,
+    "total": 62,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Location not stated (+4)",
@@ -45305,15 +45305,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Profitable insurance advisory platform, FY25 revenue up 85.7%; his InsuranceDekho automation tool maps",
+    "fit_notes": "InsuranceDekho Flask API plus Chrome extension autofill (30 min saved per instance, response times down 40%) maps to advisor workflow automation as volumes grow",
     "pay_notes": "",
     "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "hook": "FY25 revenue of Rs 97.1 crore, up 85.7%, with profit after tax of Rs 31.6 crore (Oct 2026 report)",
+    "hook_source": "https://www.indianstartuptimes.com/?p=28989",
+    "researched_at": "2026-11-18T18:40:33+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -45390,14 +45392,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-18T18:40:33+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 62: rejected (score 62 is under 65)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-18T18:40:33+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "score 62 is under 65"
   },
   {
    "id": "L0373",

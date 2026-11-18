@@ -29587,15 +29587,15 @@
    "key": "waltdisney|program manager|bengaluru",
    "type": "job",
    "company": "The Walt Disney Company",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "thewaltdisneycompany.com",
+   "company_url": "https://thewaltdisneycompany.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "438502",
    "source_url": "https://www.instahyre.com/job-438502-program-manager-at-the-walt-disney-company-bangalore/",
@@ -29626,8 +29626,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -29636,15 +29636,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Program Manager at The Walt Disney Company, asks 5-9 years; your 1.3 years of experience is a major gap.",
+    "fit_notes": "The posting asks for '5-9 Years' of experience and accountability for driving execution and delivery of multiple high-profile technical projects, defining Agile ceremonies, and developing program plans. Shlok has about 1.3 years of experience. While his execution experience in S&OP and operations planning ([sop], [ceo-coo]) demonstrates high-impact project management, the 5-9 year requirement makes this a clean reject.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures were found in the evidence for this company.",
+    "culture_notes": "Ratings and specific culture details were not found in the posting or fetched evidence.",
+    "hook": "The Walt Disney Company recently announced a first-of-its-kind global short-form content-sharing deal with TikTok.",
+    "hook_source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLMlh0VlpNVVFqY1JHTVEtX3BTdDdTT0NrLWkzVEpuUlI4SXc4aDVCZ3dXZUNzNVJCZkt2WlJGVTFFWV9uSVpVWkMxM0NYMjg4TmJxYUdLVy1EdFRIN1RSME5ORTZvNUd4aGN4bEw2WUpPSWJk?oc=5",
+    "researched_at": "2026-11-18T23:27:33+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "The Walt Disney Company Names Karandeep Anand to Newly Created Role of Chief Technology Officer - The Walt Disney Company",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkRhYThjUUZNdEd2RVR1Unp3M0VDLXBuaF9yVF9HclhqODRJRENhNmI2eGhGMWJDUnFMSDB0MnpwQjkwTE9xMTAxZ2x1Z1JNN0xsenVoY0NnYzhhMm5qbW04TkFZNllKckJSeEVDM040ZldsTGJUb3ViRUpNckRob29RdUJkZw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "The Walt Disney Company and TikTok Announce a First-of-its-Kind Global Short-Form Content-Sharing Deal - The Walt Disney Company",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLMlh0VlpNVVFqY1JHTVEtX3BTdDdTT0NrLWkzVEpuUlI4SXc4aDVCZ3dXZUNzNVJCZkt2WlJGVTFFWV9uSVpVWkMxM0NYMjg4TmJxYUdLVy1EdFRIN1RSME5ORTZvNUd4aGN4bEw2WUpPSWJk?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Disney Consumer Products Announces New Structure and Leadership Details - The Walt Disney Company",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1dESTVKUktaV2x0QnNXOXV6OXZReXlxMDU3QzByLWRaQVdHbjcwSkIwR0phUlRneTRGdTM2U003UjhJTUtZallKaTVRTVFNRVBJaWJKZDM4T09JT1ROM1laUnN3U0h5T2YzQUxBMnhXbTJORjBVQmZjaGgzV2tFM0puTXFLWGtqR05sQWlkNzRyaW9H?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Beta Testing AI-Powered Search and Discovery on ESPN and Disney+ - The Walt Disney Company",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KbmNKNFBXclJ1NmJDcVVIbjdiSzh2eDhQUmZUbEJHTEppYmxzZzlSXzdOOGUxcWxXcnA0QjdGZ1BOeUJ0R2VGeXpmeVpGV25qdWFTNlRwMkZicjJSaHFuRTlhZHVLa3JWYkE0UDZNMzZia0FXRTRrNTRWT0xHZw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Why the World’s Leading Tech Companies Collaborate with Disney - The Walt Disney Company",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1BHb3JQcUtGb0ljVy1Kak5hcW81NGdWQUpya3JZR3ZQZmdVS0w1b3pIS3FpdEdyMUZqckZpUTh6Z3ZjLUxHWHZEWS1zaUdETThoSEoyR0ZiUFNtclFVaEtodjcxSlpQcUFyY0NhNV9zUHRPUEQ4M01LTE9lekljdkI1Zl9KTXRXRlRreW1lZC1JY2s?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "The Toy Story Economy: To Cinemas and Beyond - The Walt Disney Company",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12STAwNzJWV0xLOXZJeW41dzNSckE3VEVDMmR0U2RPWGlFTXAzbkViYldnbUlKOFhwanQ3dnpyOENiQ1JSeUhUMFdnbzQ3b2Zudmh4WTB0Q0Q4Z09GLThlTnB0Vk14TkE?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -29668,14 +29709,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-18T23:27:33+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The posting asks for 5-9 years of experience, which exceeds Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-18T23:27:33+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 5-9 years of experience, which exceeds Shlok's 1.3 years."
   },
   {
    "id": "L0240",

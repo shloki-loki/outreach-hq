@@ -28376,7 +28376,7 @@
    "posted_at": null,
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-15",
-   "open": false,
+   "open": true,
    "jd": "Building the world's first multi-sensor imaging satellite Budgeting, Cash Flow, FP&a, FX, Finance, Financial Modelling, Financial Planning, Forecasting, Hedging, Liquidity, Treasury",
    "exp_min": null,
    "exp_max": null,
@@ -28392,8 +28392,8 @@
    },
    "score": {
     "rules": 67,
-    "research": null,
-    "total": 67,
+    "research": 15,
+    "total": 36,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -28403,15 +28403,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
+    "done": true,
+    "headline": "GalaxEye Lead Finance & Business Ops, Bengaluru: treasury, FX and FP&A focus; not verifiable and weak fit.",
+    "fit_notes": "Posting not opened (Instahyre 403). Skills listed are finance-specific.",
+    "pay_notes": "Unknown.",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T18:38:52+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -28441,9 +28443,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"This job is no longer accepting\""
+    },
+    {
+     "at": "2026-11-18T18:38:52+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 36: rejected (Role is finance-led (FP&A, treasury, FX hedging) at a satellite startup; no profile fact maps and the Instahyre page returns 403 so it could not be verified.)"
     }
    ],
-   "updated_at": "2026-11-15T11:56:01+05:30",
+   "updated_at": "2026-11-18T18:38:52+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "closed",
@@ -28453,7 +28461,8 @@
     "at": "2026-11-15T11:56:01+05:30",
     "reason": "the posting says \"This job is no longer accepting\"",
     "by": "live-check"
-   }
+   },
+   "reject_reason": "Role is finance-led (FP&A, treasury, FX hedging) at a satellite startup; no profile fact maps and the Instahyre page returns 403 so it could not be verified."
   },
   {
    "id": "L0230",

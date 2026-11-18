@@ -196867,15 +196867,15 @@
    "key": "huntingcube|category manager|bengaluru",
    "type": "job",
    "company": "HuntingCube",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "huntingcube.ai",
+   "company_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRbWduOHhsRVdPOENPOE82akI5dS1rbWxSMWZNRFBsTzFjU3dwSDkwWmlmbFdqNzRmeGhQYXF5aUpOaTNfOWFWaXNKREtsd3VTMDdEZ2J6SjJ1UTJrMVVQWDZ3aFNpa1BIaDctWUIwWWxnWmRUM3dRVFpB?oc=5",
    "company_linkedin": "https://in.linkedin.com/company/huntingcubeai",
    "company_note": "",
    "title": "Category Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491557243",
    "source_url": "https://in.linkedin.com/jobs/view/category-manager-at-huntingcube-4491557243",
@@ -196891,7 +196891,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Job Description\n What We Are Looking For:\n Experience: 5+ years of total professional experience, with core experience in Business Development, Category Building, or Scaling Business Verticals.\n Stakeholder Management: Comfortable working with multiple stakeholders to ensure high-performance cross-functional collaboration.\n Proven Track Record: Demonstrable experience in building categories from \"zero to one\" or scaling them rapidly in hyper-growth startups, healthtech ecosystems, or top-tier digital marketplaces.\n Analytical Capabilities: Extremely data-driven, result-oriented, and comfortable making decisions using data-backed frameworks.\n Core Competencies: Exceptional leadership skills, problem-solving capabilities, strong negotiation skills, and deal-closing abilities.\n Patient-First Mindset: Ability to think out of the box to cultivate extreme value for an excellent patient journey. Character Profile:\n The \"Zero-to-One\" Builder (Entrepreneurial Grit) — This role is not for a slow-moving, maintenance-focused administrator. It requires someone who thrives in highly ambiguous, fast-paced, and unstructured environments without a playbook.\n The Analytical Strategist (Data-Obsessed) - At its core, category management is a numbers game. You make decisions using hard data, not intuition.You do not confuse activity with progress. Measure what matters, ignore what doesn't.\n The \"Human Experience\" Architect (Service Quality Obsessive) - You understand that the category involves patients undergoing stressful life events. You treat service design not just as a transaction, but as a critical care journey.\n The Relationship & Network Diplomat (Ecosystem Orchestrator) - You are comfortable communicating with diverse stakeholders—from junior to senior and approach negotiations with not as zero-sum cost-cutting exercises, but as relationship-building opportunities that unlock long-term capacity, preferred pricing, and priority patient scheduling.\n Required Skills\n ['Category Management', 'Demand Generation', 'P&L Management', 'Stakeholder Management']\nAdditional Information\nUse public JD while sourcing.\nSeniority level Not Applicable | Employment type Full-time | Industries Human Resources Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -196906,8 +196906,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -196917,15 +196917,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Category Manager at HuntingCube, asks 5+ years experience; blocks your 1.3 years tenure.",
+    "fit_notes": "The posting asks for \"5+ years of total professional experience, with core experience in Business Development, Category Building, or Scaling Business Verticals\" and P&L management. Shlok has about 1.3 years of experience at Ola Electric. While he has strong analytical and operational execution facts (such as [sop] and [ceo-coo]), his total experience falls far short of the 5+ years required.",
+    "pay_notes": "Pay not stated in the posting, and no pay evidence found for HuntingCube.",
+    "culture_notes": "Company stage, funding, headcount, and ratings were not found in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T13:37:02+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "HuntingCube.ai: Transforming AI-Powered Recruitment in India - Business Outreach Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRbWduOHhsRVdPOENPOE82akI5dS1rbWxSMWZNRFBsTzFjU3dwSDkwWmlmbFdqNzRmeGhQYXF5aUpOaTNfOWFWaXNKREtsd3VTMDdEZ2J6SjJ1UTJrMVVQWDZ3aFNpa1BIaDctWUIwWWxnWmRUM3dRVFpB?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -196949,14 +196962,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T13:37:02+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (The posting asks for 5+ years of professional experience, whereas Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T13:37:02+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 5+ years of professional experience, whereas Shlok has about 1.3 years."
   },
   {
    "id": "L1665",

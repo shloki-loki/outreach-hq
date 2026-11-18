@@ -28955,15 +28955,15 @@
    "key": "aidash|program manager|bengaluru",
    "type": "job",
    "company": "AiDASH",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "aidash.com",
+   "company_url": "https://www.aidash.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "462530",
    "source_url": "https://www.instahyre.com/job-462530-program-manager-at-aidash-bangalore/",
@@ -28994,8 +28994,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -29004,15 +29004,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Program Manager at AiDASH, asks 8-12 yrs, but your 1.3 years of experience is well below the minimum requirement.",
+    "fit_notes": "The posting asks for '6+ years of experience spanning program/project management, business operations, or management consulting' and lists '8-12 Years' at the top. Shlok has about 1.3 years of experience at Ola Electric. While his inventory and operations work ([sop], [ceo-coo]) covers the required operational scope, the experience gap is too large.",
+    "pay_notes": "Salary is not stated in the job posting, and no pay figures are available in the evidence.",
+    "culture_notes": "AiDASH is a Series C climate tech startup backed by leading investors and recently agreed to be acquired by Schneider Electric for $350 million [S1]. Specific employee ratings and Glassdoor scores were not found in the evidence.",
+    "hook": "Schneider Electric agreed to acquire AiDASH for $350 million in one of climate adaptation's biggest ever exits.",
+    "hook_source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2pOMGZLMklCWTlOeFBvaTJITkVTel9SYjR1NlI4LUhwZGhFS095VEgtTVlKVmQ5LXVmMkZzZ0c0ajlOTTUyLXBoSTlZcFJ1bnlZMS1lNGxQMnMtY3M4emluYmxJNjh6NVlZcnlzRnJOS1JycnFTS3FSQTN2SXpveXpjNjRtVXBVaXZ6dXNzWHg?oc=5",
+    "researched_at": "2026-11-18T23:25:44+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Schneider Electric to Acquire Grid Resilience Solutions Provider AiDASH for $350 Million - ESG Today",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVURPMW5ZVmZhRXhKX2xXTkl4d0ItMXpERkpKQ2dSRUpKQW40a0lwbmkzbDEzcG1vQnhsVG1qMTlhd3BULVNYTmlCLURyRW9ueXA2RDN0MHBhWThyMTJNRXFaMXNIU0ZlSFJyNTlqaVROQ21yTGpzSVVaV0N1OVNpby1ZRlNIanJ3T2RMTDFvWFNvVTRuaVBFaElJR210cFAtR2pERE5TUDdYOWlKQUt6Rg?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "How Schneider Electric Plans to Upgrade Grids with AiDASH - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUpudGk4SVpvU1lhWElscnRrejVGdE5LaVhBME94RERla3NsWms3SERlRGJhNGYwRENQTjRiSS1lT21vU1BVdTVoV2lvN3B5ZnBVYW1VWjd3T0RRby10WkJLUGtwY2FKdTE4a2otdTdzaUdTY28yWEN3NU9salVMOERoTjNJTzI4TTdLUEtn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "AiDASH: Schneider's Commitment to Tackling Climate Risks - Sustainability Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUNZRDN4WGR6X2hjVG53bkF5RmNKbTJCS2wxbTg3Wjl1X0RPR1ZtXy1QT2xWbld4Y0xzczFESEZDdmZsY2YyQS1qaGxuc21OeFR5dlBBdDNHdnZybzllQ1NBSktWYVBEb05pUHhHSE9RRVN6cWZ2TnJzUUYwdHE2U05NSTZKVzI2aDFjRzV4RFV2MWs?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "AiDASH: Schneider's Plan to Boost Grids' Climate Resilience - Energy Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUZXQlZRMk82V2diRldZWF82WTRpXzAxeThYMld3UWstTUR5VGk4VHpfMnlDN0xaX1J3NWVvNnBfc1B5dzRyRGlfbDdIVzYyTmVmbEdCcW9MRkoyZ2FKUVZSYll0UlJvV0RqM1BiSXJmNkhMN0Q0VGp6OGhJT0hELU51dm5tTFY1a2ZzVUdIb2E?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Scoop: Schneider Electric agrees to buy AiDASH for $350M in one of climate adaptation's biggest ever exits - Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2pOMGZLMklCWTlOeFBvaTJITkVTel9SYjR1NlI4LUhwZGhFS095VEgtTVlKVmQ5LXVmMkZzZ0c0ajlOTTUyLXBoSTlZcFJ1bnlZMS1lNGxQMnMtY3M4emluYmxJNjh6NVlZcnlzRnJOS1JycnFTS3FSQTN2SXpveXpjNjRtVXBVaXZ6dXNzWHg?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Wilson Sonsini Advises AiDASH on $350 Million Acquisition by Schneider Electric - Wilson Sonsini",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFg5MGt3bmUtTUpOcWMwS1hBVUNCNUQtazNjbERjWTJzQmV0UWRpSWJjVFlfcEx4c3AzZmFDb1M2bUFOdGFFRUVnTmpqd2dzMUFtYU5FSUJEWnBEclBkM3pJM25IamdMRzB1cFZkTkhjWER5end1ak5WUklFTlJOT0o2M3pkbld0SWRISzQ3NFpIR1VqS1d5Q19Pdm5ya2hEOGN1Q0UwTzNWVlZtU0owaHZrM25sZjVORWtkaFFUbw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -29036,14 +29077,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-18T23:25:44+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The role requires 8-12 years (or 6+ years) of experience, whereas Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-18T23:25:44+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 8-12 years (or 6+ years) of experience, whereas Shlok has about 1.3 years."
   },
   {
    "id": "L0235",

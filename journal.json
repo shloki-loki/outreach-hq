@@ -2861,6 +2861,15 @@
    "title": "Ran",
    "detail": "6929 jobs read, 412 passed rules, 40 new leads",
    "ref": ""
+  },
+  {
+   "id": "J0319",
+   "at": "2026-11-19T04:07:37+05:30",
+   "by": "supervisor/check",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
+   "ref": ""
   }
  ]
 }

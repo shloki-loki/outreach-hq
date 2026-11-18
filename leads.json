@@ -186999,15 +186999,15 @@
    "key": "hewlettpackardenterprise|technical program manager software compliance and program budgeting|bengaluru",
    "type": "job",
    "company": "Hewlett Packard Enterprise",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "hpe.com",
+   "company_url": "https://www.hpe.com",
    "company_linkedin": "https://www.linkedin.com/company/hewlett-packard-enterprise",
    "company_note": "",
    "title": "Technical Program Manager - Software Compliance and Program Budgeting",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490610186",
    "source_url": "https://in.linkedin.com/jobs/view/technical-program-manager-software-compliance-and-program-budgeting-at-hewlett-packard-enterprise-4490610186",
@@ -187023,7 +187023,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "This role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office.\n Who We Are\n Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n Job Description\n What you will do :\n AI Governance & Compliance Leadership\n Lead enterprise AI governance and compliance programs across AI, Machine Learning, Generative AI, and software engineering initiatives.\n Establish and operationalize AI governance frameworks covering model lifecycle management, Responsible AI, model risk management, explainability, transparency, and compliance requirements.\n Drive adoption of AI governance controls across engineering and data science organizations.\n Collaborate with executive stakeholders to align AI innovation goals with compliance and risk management objectives.\n Software & Open-Source Compliance\n Lead software compliance initiatives across product portfolios and engineering organizations.\n Ensure compliance with open-source licensing requirements, software supply chain policies, and third-party software governance standards.\n Partner with legal and engineering teams to review and remediate software compliance risks.\n AI/ML Lifecycle Governance\n Partner with AI engineers, data scientists, and architects to govern the end-to-end AI/ML lifecycle.\n Ensure compliance checkpoints are integrated throughout data collection, model development, training, validation, deployment, monitoring, and retirement processes.\n Establish governance processes for model documentation, reproducibility, auditability, and explainability.\n Drive implementation of model performance monitoring and drift management strategies.\n Responsible AI & Risk Management\n Facilitate Responsible AI assessments for AI-powered products and solutions.\n Identify and manage AI-specific risks including model bias, fairness, transparency, explainability, privacy, hallucinations, and security concerns.\n Partner with legal, privacy, ethics, and security teams to establish controls that meet internal and external regulatory requirements.\n Develop mitigation plans and track remediation of identified risks.\n Regulatory & Audit Readiness\n Drive readiness for internal and external audits involving software governance and AI systems.\n Maintain compliance evidence, documentation, audit trails, and governance records.\n Coordinate responses to audit findings and ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -187038,8 +187038,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 30,
+    "total": 44,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -187049,15 +187049,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Technical Program Manager at Hewlett Packard Enterprise, but asks 8+ yrs experience and you have 1.3 yrs.",
+    "fit_notes": "The posting asks for '8+ years of experience in Technical Program Management, Software Engineering Operations, Compliance and Governance.' Shlok has about 1.3 years of experience. While he has program execution and operations experience from Ola Electric ([ceo-coo], [sop]), the 8+ year requirement is a severe gap.",
+    "pay_notes": "Pay not stated in the posting or evidence.",
+    "culture_notes": "Ratings, review counts, and specific culture flags were not found in the evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T13:32:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Hewlett Packard Enterprise Falls 5% as AI Financing Worries Extend Hardware Selloff; Super Micro Sinks 7%, Dell Drops 3% - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGlvVHNtejRjQXI1dlR4cHRLN0Nka1hEN21zc21tRjEteTJOTm40WnF3VGVNTlAwSU1qUXIzYTc3TnJLZ1pTTHFLeW5HMU1xTlhlazFfeTFCLXJCUXZPeWRvbWhBWXlSSmpZSDd3bWtEaTgtMW4xNmxCbml5aHVhNjJxcVloQ0YzOVhETUNDdjN3Vml0akV0M0JnamRSdnp5?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "How Evercore’s Valuation-Driven Downgrade At Hewlett Packard Enterprise (HPE) Has Changed Its Investment Story - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY1JVeHFZZVY4WHNKOUxJbjBPWjdsVGF4cWxPVmRrT2hzWUU5b1hjTDZFOTdQXzRyNHZmdjJvdTFzaDl6WVBNNW1qNW0zcUtCMUwtY3B6eWdiWE1SdXdmVm5WTFpNdGN5cW1ZNENLNkpJdEZiUUxWZjJ3ZmttbVdvVndNczVoa3lqcHZvQmtfeXpuX1E0R3lSeC1HS1lQdGkwSHpCRm12RGpkZVRD?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Hewlett Packard Enterprise stock had a week for the books - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGQ1Q0ZLakUtbFBLUTY0aFFFcFhpOW1Dd0RRb1dYRjdjUG9Ta1RPZ0sySU9zeW1sS042QjdpV0J2TlpBWGRTUXp3Mk9ZVHZVdTc3cV9JMXVvYUtaX1dwMVV3Wm5vZU5qNHIycW9vbUFldGtuYUkyS3FQU2x2UGdNWWVGWi1ydlBYWkpqbHB0ZFBXT09yWXV5alA0YkNuejByMEpVTjVrUlJQVzhLWXFTdURodzhUaWpjbXNGYVlB?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "What Is The Case For Waiting On Hewlett Packard Enterprise Stock? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYnZfRmNnNVBIalZ6LTZPX3d1Z0pDLWFRYlA5VGpJRVNPWUJEY1R1THdYMkV4V2NPTy1sSzZkRTZhYVFvbEU4cjdfSURIbnd0WU5OOENiNElYRDMtYWxwUVhVdVJTeWJWTDJRQ3d6a01qTDd6eG85eVZ1U21uTUdZd3ZNX01WdVZ3Q0ppQkJvaE0ycFBNOUJRTjZGSUVod1BFV01OTTF4SUxXcG5SU3RyMjZaV05ldlBZeHdmb1pxcDdZUQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Why Hewlett Packard Enterprise (HPE) Stock Is Trading Lower Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUllLNGJydnlyOTY3VEFqZFQ5ZEJJSXNIazBjQ2sxMU4zOFNpN2p0SlktV0ktSVRiZzdDSFN6OXNwcGZfTFROVnlNaTdJeVhlV3dzSlFCNERFWk9hTnVQT3B4MVktQmxWT1pQekc1N09SWUJBX01EdHUxOXJRUElLZk5qWjZucXlBMHBvbDViVm83bHRvLWFsVnZYZTFnT1Z2?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Hewlett Packard Enterprise (HPE) Stock Trades Up, Here Is Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmU0cS1VNlFtNXh5VHlyNXhCb1dfMjlnalYyZXQtY1pvMFphaUxXdVR5a1NZNk5kTEVpV2RCQUY0MGt5eHhWa05Gd2c3alF6eUtVM1VpbkpfVUxYYlBoZTlVUXdrTS1qU013UXBGTy1aWnhJYW9ZaVdDYlJ5ZVM2dU9GcmNCM09fLU5RWFBuOFJiN0JuN0JYWEc5bEppU2dQY0RJ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -187081,9 +187119,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T13:32:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 44: rejected (The posting explicitly asks for 8+ years of experience, whereas Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-18T13:32:58+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
@@ -187093,7 +187137,8 @@
     "at": "2026-11-17T14:02:09+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting explicitly asks for 8+ years of experience, whereas Shlok has about 1.3 years."
   },
   {
    "id": "L1574",

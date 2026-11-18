@@ -202366,10 +202366,17 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 65: qualified"
+    },
+    {
+     "at": "2026-11-18T23:27:40+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-18T23:05:40+05:30",
-   "reject_reason": null
+   "updated_at": "2026-11-18T23:27:40+05:30",
+   "reject_reason": null,
+   "people_searched_at": "2026-11-18T23:27:40+05:30"
   },
   {
    "id": "L1707",

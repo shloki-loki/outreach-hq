@@ -197204,7 +197204,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Ahmedabad, Gujarat, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491151925",
    "source_url": "https://in.linkedin.com/jobs/view/product-business-operations-associate-at-svector-4491151925",
@@ -197220,7 +197220,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "PRODUCT & BUSINESS OPERATIONS ASSOCIATE \n Ahmedabad, Gujarat \n Full-time | On-site \n ABOUT THE ROLE \n SVECTOR is hiring a Product & Business Operations Associate to work across product, customer, research and business execution.\n This role is designed for an early-career technical professional who wants to operate beyond a narrow software-development function and work across technology, product, customers, research and company-building.\n You will work closely with the Founder-CEO and relevant functional teams on selected high-priority initiatives across SVECTOR.\n This is not an administrative role.\n You will be expected to understand problems, structure them, identify what needs to happen, coordinate the relevant people and carry assigned work through to a clear and verified result.\n The role requires someone who can move comfortably between technical and business problems.\n WHAT YOU WILL WORK ON \n 1. PRODUCT & BUSINESS EXECUTION \n You will take ownership of assigned product and business initiatives.\n Typical responsibilities may include:\n • Understanding a customer, product or business problem before work begins\n • Converting unclear requests into structured problem statements and requirements\n • Defining expected outcomes, owners, dependencies and timelines\n • Coordinating with Product, Engineering and business teams\n • Identifying missing inputs and blockers\n • Following work through rather than simply forwarding instructions\n • Reviewing whether the delivered result actually solves the original problem\n • Maintaining clear records of open issues, decisions and next actions\n • Escalating decisions when authority or additional support is required\n You should be comfortable taking an objective that is initially ambiguous and turning it into practical execution.\n 2. PRODUCT UNDERSTANDING \n Strong product understanding is important for this role.\n You may be expected to:\n • Use SVECTOR products and understand important workflows\n • Understand the intended user and customer problem\n • Review customer feedback and product issues\n • Distinguish between defects, requirements and new product requests\n • Prepare product requirements and acceptance criteria\n • Understand APIs, integrations, data flows and technical dependencies\n • Follow technical discussions with engineers\n • Participate in demos, pilots and implementation discussions\n • Verify whether an agreed workflow is actually ready\n You do not need to be a full-time software developer.\n However, you should have enough technical understanding to work intelligently with engineers and enough business understanding to know why the technical work matters.\n 3. RESEARCH & ANALYSIS \n Research will be an important part of the role.\n You may investigate:\n • Companies\n • Customers\n • Markets\n • Competitors\n • Technologies\n • Industries\n • Product opportunities\n • Enterprise accounts\n • Candidates\n • Market-entry questions\n • Commercial models\n • Strategic business questions\n Good research should clearly dis",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -197235,8 +197235,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -197246,15 +197246,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Product & Operations Associate at SVECTOR in Ahmedabad, but outside Bengaluru and pay is not stated.",
+    "fit_notes": "The posting asks for 'approximately 1 to 5 years of professional experience' and someone with technical fluency, product thinking, and ownership. Shlok's 1.3 years of experience and execution work at Ola Electric (e.g., [sop], [ceo-coo]) map well to the operational and structured problem-solving requirements. However, the role is on-site in Ahmedabad, Gujarat, violating his location preference for Bengaluru or remote-first.",
+    "pay_notes": "Pay is not stated in the posting, and no evidence or salary benchmarks are available for SVECTOR.",
+    "culture_notes": "No company website, reviews, or news found in web search to evaluate culture.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T13:37:15+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -197278,14 +197288,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T13:37:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Role is located in Ahmedabad, Gujarat, which violates location preferences (Bengaluru or remote first). Furthermore, pay is not stated and likely below the Rs 24.5 LPA threshold for early-stage roles outside tech hubs.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T13:37:15+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role is located in Ahmedabad, Gujarat, which violates location preferences (Bengaluru or remote first). Furthermore, pay is not stated and likely below the Rs 24.5 LPA threshold for early-stage roles outside tech hubs."
   },
   {
    "id": "L1668",

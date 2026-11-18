@@ -200034,15 +200034,15 @@
    "key": "pricewaterhousecoopersservicedeliverycenter|senior associate strategy operations strategy bangalore|bengaluru",
    "type": "job",
    "company": "PricewaterhouseCoopers Service Delivery Center (Bangalore) Private Limited",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "pwc.com",
+   "company_url": "https://www.pwc.com",
    "company_linkedin": "",
    "company_note": "A service delivery center providing consulting and advisory services to a diverse client portfolio.",
    "title": "Senior Associate - Strategy -Operations Strategy – Bangalore",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "hiringcafe",
    "source_id": "phenompeople___pwcta.phenompro.com___774496WD",
    "source_url": "https://pwcta.phenompro.com/global/en/job/774496WD/Senior-Associate-Strategy-Operations-Strategy-Bangalore",
@@ -200058,13 +200058,13 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Senior Associate - Strategy -Operations Strategy – Bangalore in Bangalore, India | Strategy at PwC Acceleration Centres \n We're sorry… the job you are trying to apply for has been filled. \n Maybe you would like to consider the Categories below : \n PwC Acceleration Centers\n follow us\n © 2018 - 2026 PwC. All rights reserved. PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. Please see www.pwc.com/structure for further details.\n 7ec66d2e49494b41b8bd6ce9637815e5",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "4+ years",
    "stretch": true,
    "pay": {
-    "stated": null,
+    "stated": "not stated",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
@@ -200073,8 +200073,8 @@
    },
    "score": {
     "rules": 72,
-    "research": null,
-    "total": 72,
+    "research": 35,
+    "total": 50,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -200085,15 +200085,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Operations Strategy at PwC, but the job posting states the role has been filled.",
+    "fit_notes": "The posting is for Senior Associate - Strategy - Operations Strategy at PwC Acceleration Centres. PwC is a consulting and advisory services firm, which presents a hard gap since you have no consulting background. Furthermore, the posting states that the job you are trying to apply for has been filled.",
+    "pay_notes": "Pay not stated in the posting, and no pay evidence found.",
+    "culture_notes": "A service delivery center providing consulting and advisory services. Ratings and culture flags were not found in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T13:28:57+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -200117,14 +200124,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 72"
+    },
+    {
+     "at": "2026-11-18T13:28:57+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (The posting states that the job you are trying to apply for has been filled, and it requires a consulting background which you do not have.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T13:28:57+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting states that the job you are trying to apply for has been filled, and it requires a consulting background which you do not have."
   }
  ]
 }

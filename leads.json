@@ -201715,7 +201715,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Chandigarh, Chandigarh, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491803348",
    "source_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-the-future-university-4491803348",
@@ -201751,8 +201751,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -201762,15 +201762,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Entrepreneur in Residence at The Future University in Chandigarh, but fails the location preference.",
+    "fit_notes": "The posting asks for a 'get things done' attitude, extreme ownership, and full P&L/sales execution for bootcamps. Shlok's inventory, S&OP, and operational scaling facts (like [sop] and [ceo-coo]) demonstrate extreme ownership, but the role is located in Chandigarh, outside of Shlok's required Bengaluru or remote-first locations.",
+    "pay_notes": "Pay is not stated in the posting and no salary evidence was found in the search results.",
+    "culture_notes": "Headcount, funding stage, ratings, and culture flags were not found in the search results.",
+    "hook": "Saw the recent Future Campus news regarding The Future University's focus on leading through partnerships and creating shared prosperity.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0p4STFnVnVsOVNaLWdNbGJmYTdIaF9sMmZKRUpCQjVWMlVTZW5KSWhLckFhdXlJQ3hYcVVKQmp2QWI0QklldmNyTjZySGJwUjVYVVJjT2hDZEZNNXdVbGZHdGJfM3B2RlNIcTRyTVc1dHJ0eUMwYl9uRGsyOVpoUHJUdlRJa3o5cUxjRVI5bXJSVkJoeWZNVjN3bVZ0SWxZSXV1T09KUkFkNzZQQlF5cFBxWkJveDZx?oc=5",
+    "researched_at": "2026-11-18T23:04:48+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "The future university: leading through partnerships, creating shared prosperity - Future Campus",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0p4STFnVnVsOVNaLWdNbGJmYTdIaF9sMmZKRUpCQjVWMlVTZW5KSWhLckFhdXlJQ3hYcVVKQmp2QWI0QklldmNyTjZySGJwUjVYVVJjT2hDZEZNNXdVbGZHdGJfM3B2RlNIcTRyTVc1dHJ0eUMwYl9uRGsyOVpoUHJUdlRJa3o5cUxjRVI5bXJSVkJoeWZNVjN3bVZ0SWxZSXV1T09KUkFkNzZQQlF5cFBxWkJveDZx?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -201794,9 +201810,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T23:04:48+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The location is Chandigarh, which violates Shlok's strict preference for Bengaluru or remote-first roles.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30"
+   "updated_at": "2026-11-18T23:04:48+05:30",
+   "reject_reason": "The location is Chandigarh, which violates Shlok's strict preference for Bengaluru or remote-first roles."
   },
   {
    "id": "L1706",

@@ -10702,7 +10702,8 @@
      "Name": "Shlok Agrawal",
      "Email": "111shlokagrawal@gmail.com",
      "Phone number": "+91-9343806463",
-     "Resume": "Attach the current resume PDF (Nov 2026) yourself; nothing attached by the agent."
+     "Resume": "Attach the current resume PDF (Nov 2026) yourself; nothing attached by the agent.",
+     "Why this role (cover note)": "Taking an ambiguous problem, giving it structure, and carrying it to a clear result is the core mandate for this role at Sarvam. That's the work I've done. At Ola Electric, I worked directly with the CEO and COO to fix delivery bottlenecks. I built the lotting algorithm for dispatches, cutting order-to-delivery time from 32 to 14 days. I've seen how fast-moving teams need operators who can step into undefined problems, align cross-functional teams, and own outcomes end to end. As Sarvam builds sovereign AI for India, I'd bring that same agency to drive key strategic bets and take operational load off leadership."
     }
    },
    "first_contacted_at": null,
@@ -10776,9 +10777,15 @@
      "actor": "send-track",
      "event": "apply_kit",
      "detail": "application answers prepared"
+    },
+    {
+     "at": "2026-11-18T13:42:16+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-14T15:14:02+05:30",
+   "updated_at": "2026-11-18T13:42:16+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",

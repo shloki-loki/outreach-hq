@@ -202720,15 +202720,15 @@
    "key": "coindcx|growth manager|bengaluru",
    "type": "job",
    "company": "CoinDCX",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "coindcx.com",
+   "company_url": "https://coindcx.com",
    "company_linkedin": "https://in.linkedin.com/company/coindcx",
    "company_note": "",
    "title": "Growth Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4491810218",
    "source_url": "https://in.linkedin.com/jobs/view/growth-manager-at-coindcx-4491810218",
@@ -202744,7 +202744,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "The CoinDCX Journey: Building the Future of Finance: \n At CoinDCX, our mission is clear - to make crypto and blockchain accessible to every Indian and enable them to participate in the future of finance.\n As India’s first crypto unicorn valued at $2.45B, we are reshaping the financial ecosystem by building safe, transparent, and scalable products that power adoption at scale.\n We believe that change starts together. It begins with bold ideas, relentless execution and people who want to build what’s next.\n If you’re driven by purpose and thrive in environments where your work defines the next chapter of an industry, you’ll feel right at home here.\n About This Role: \n We are looking for an experienced Growth Manager (3-7 years of experience) to lead the cross-sell strategy for our newly launched US Stocks category. As a key player on the growth team, you will own the end-to-end user journey and use advanced segmentation and CEP tools (MoEngage, CleverTap) to drive business volumes and ROI. You will bridge creative storytelling and analytical rigor, building GTM plans and gamified campaigns that resonate with our users. If you are a problem-solver with a Tier-1/2 academic background and a proven track record of scaling consumer internet businesses, we want to hear from you.\n You’ll Excel in This Role If You: \n 3-7 years of core CLM-led growth experience in a consumer internet business.\n Hands-on experience across the CLM lifecycle: Acquisition, Retention, and Reactivation.\n Strong understanding of user segmentation and cohorting using events, attributes, and behavioural data.\n Excellent problem-solving, creative thinking, and analytical skills.\n Ability to turn data insights into high-impact campaigns.\n Proven expertise with CEP and in-app engagement tools such as MoEngage, CleverTap, and Plotline, and familiarity with MMP tools.\n Working knowledge of experimentation, testing, and optimisation.\n Ability to succeed in a fast-changing environment.\n Tier-1/2 academic background.\n Bonus if You Have: \n Exposure to fintech, crypto, trading platforms, or agencies\n Ideas to build something useful and a habit of always learning\n A passion for everything crypto\n What You’ll Do: \n Plan and execute engagement and retention campaigns across Push, In-App, Email, and Product Journeys.\n Build a continuously evolving segmentation framework using data and consumer insights.\n Identify the right levers in the user journey and design campaigns that move users from one segment to the next, with a focus on cross-selling existing users into US Stocks.\n Own and drive initiatives to grow key CLM metrics and business volumes.\n Drive gamified and incentive-based campaigns with a well-defined social element, with clarity on target group, positioning, offer, and CTA.\n Supervise execution, monitoring, and measurement of campaigns, and track campaign ROI on a regular basis.\n Ensure brand and identity guidelines are followed across all campaigns and communication channels.\n Lead go",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -202759,8 +202759,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -202770,15 +202770,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Growth Manager at CoinDCX, but asks 3-7 yrs core CLM-led growth experience which exceeds your 1.3 yrs.",
+    "fit_notes": "The posting asks for '3-7 years of core CLM-led growth experience in a consumer internet business' and expertise with CEP tools (MoEngage, CleverTap) and MMP tools. Shlok has ~1.3 years of total experience, primarily in S&OP, inventory planning, and operations at Ola Electric ([sop], [ceo-coo]), which does not map to core CLM-led growth or CEP tool management. No MBA or consulting is required, but the experience band is a hard mismatch.",
+    "pay_notes": "Pay is not stated in the posting. At 1.3 years of experience, a Growth Manager role asking for 3-7 years is unlikely to clear his Rs 24.5 LPA fixed floor without direct evidence.",
+    "culture_notes": "CoinDCX is India's first crypto unicorn valued at $2.45B, offering perks like unlimited wellness leaves and mental wellness support according to the posting. No external review site ratings or employee count data were found in the evidence.",
+    "hook": "We are looking for an experienced Growth Manager (3-7 years of experience) to lead the cross-sell strategy for our newly launched US Stocks category.",
+    "hook_source": "https://in.linkedin.com/jobs/view/growth-manager-at-coindcx-4491810218",
+    "researched_at": "2026-11-18T23:10:39+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -202802,9 +202809,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T23:10:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires 3-7 years of core CLM-led growth experience, whereas Shlok has ~1.3 years of total experience (making this a severe stretch/mismatch), and pay is not stated.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30"
+   "updated_at": "2026-11-18T23:10:39+05:30",
+   "reject_reason": "The role requires 3-7 years of core CLM-led growth experience, whereas Shlok has ~1.3 years of total experience (making this a severe stretch/mismatch), and pay is not stated."
   },
   {
    "id": "L1715",

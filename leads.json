@@ -199799,15 +199799,15 @@
    "key": "give|senior associate ceo s office|remote",
    "type": "job",
    "company": "Give",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "giveindia.org",
+   "company_url": "https://www.giveindia.org",
    "company_linkedin": "",
    "company_note": "",
    "title": "Senior Associate, CEO's Office",
    "tier": "1 - Strategy & Ops",
    "location": "Work From Home",
    "location_bucket": "remote",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "instahyre",
    "source_id": "476243",
    "source_url": "https://www.instahyre.com/job-476243-senior-associate-ceos-office-at-give-2-work-from-home/",
@@ -199838,8 +199838,8 @@
    },
    "score": {
     "rules": 62,
-    "research": null,
-    "total": 62,
+    "research": 60,
+    "total": 61,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Remote, open to India (+15)",
@@ -199849,15 +199849,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "CEO's Office at Give, asks 0-2 yrs, remote-India; your Ola operations work maps, but pay is unstated and likely below your Rs 24.5 LPA floor.",
+    "fit_notes": "The posting asks for '0-2 years of work experience' and someone who 'Understands finance and are comfortable with numbers. Can read a balance sheet, build a simple financial model', plus 'a master's degree or professional qualification (MBA, MSW, CA, etc.) is preferred. Bachelor's degree holders are welcome to apply if the rest of the profile fits.' Shlok has a Bachelor's (IIT Guwahati) and lacks an MBA, which is a mild gap given it is preferred rather than required. His experience in S&OP and working with Ola Electric's COO and CEO [sop, ceo-coo] directly answers the execution-heavy CEO's office requirement.",
+    "pay_notes": "Pay not stated. Given that Give is a non-profit/social impact platform in India, a 0-2 year CEO's Office role will almost certainly fall significantly short of Shlok's fixed Rs 24.5 LPA floor.",
+    "culture_notes": "No Glassdoor ratings or employee review counts found in the posting or search evidence. Values listed in posting: 'Integrity in everything we do | empathy towards all | serve with passion | focused on scale'.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T23:19:53+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "World Blood Donor Day 2026: One Drop of Humanity. Give Blood. Save Lives. - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRGNXMlNsNXk0OEFDanhPQWhBMjJkQnIzRlV2ZndzMVNfNmw5Q0hXcGw4THZKWmxmOEV1WUR1Y0dmcEdKdjJYWVRXS0ZxNEVqd3dEeEpzTWRndVNTc202dHM2cDRXQTV1cGEtbGtPZngxLVJfa3c3aTdLcGYxeUhrVkxqQk9GcGVBalZPa21FQkhqTGp6VVNVUm1BRElFalVVU1BBQWE0S19ybW1BSldjd1NBSkx4Ri0wNXgxLW9RaWF1ZU9CY3g5eU5VSlhSMUloZkdqMzZGQ2Y?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYXY2QVMzcXpqZGY5T3NmRl9BX3FQdWkybktodjNVQWxxTTFFSjhfcHFWdUVNRVlRUkNlWFNFT1hUa2pIQks0ek9DNGp5WFJ3VXROeVZDS1BMU3JGd0JNc3U3LTBJcUNIRHBELUM1UFBGcHdRWGNxdkJJbnU2bk5ZUFlLODFaY2xNaDhrMDFxUy02S3dCWFhtb2VxazZVdERlN3lDX1l6ZjdfVkwtUXM2N0JaaWQ4cGRtbkNWRXVqUEJEdS1WbVRBalZVeWZLLUVMZms2am5mdDBDYnJoNThMUTZwbWUyUUdMRUhMM0tPNUIzN3pXc2s2eTNZWWtjeDA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Despite hurdles, don’t give up on Sustainable Development Goals, UN urges - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjVjZqd2JQd3htNjMyb3hmby1VaGRna1VlZjVyUVNPWGpkdDVtVE1XZUhPdFVjcXAyZm4teWNFUlRQVGpnamVMZ0tpbkpYcjB4cDNmQmFKRQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Give any website a WebMCP interface - Cloudflare Blog",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BeDFWWGtHMFRKbTc3V2lQYVlTN2o5UHVEMldDZTBmQ0ZtdVhyc3BPMXBwLXAyY1QzaFdsR3pycHRYZ0pBblBHYWR0cw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "AI chatbots give wrong answers to financial queries ‘most of the time’ - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEFtelpuWmJCaUJCRFFneWwxblhsZFY4ZmdjWmVSejM3TER3d0R5cVEzaEU5bUdtaFZSWW9vcUd1UG41ak0zRmFPdTFnNm91V0h1eGEzWUE2YXk3RlVfUlh6ZkpRUmpGSDJhbHFFTkxLV2t5NUR0ZDJESGF2RUdEUFdZdDU?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "OpenAI ‘in early talks to give 5% stake to US government’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXdDM0xqUWpsNGxvS0NWd2RXRE5XVXZISXE3ZXE3VGtxNFNEUmhXNXA4bGNLekhtZlYwVjlUNDY3TWVIaktpZjBuY0NLYmtnWF9CbFFLRnRtVmdDcXlzd1h0X1hHR3F6YVdxSGRaQ0dCcnR5R3N2VUk5WmMxM3RWY3BiWEpXcEpQdlk5dWQtbnE0V0dKLVE?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -199881,14 +199922,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 62"
+    },
+    {
+     "at": "2026-11-18T23:19:53+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 61: rejected (Role pays below Shlok's Rs 24.5 LPA threshold (NGO/social impact sector at this early 0-2 yrs level typically pays 8-15 LPA max, far below his floor) and the pay is unstated.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T23:19:53+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role pays below Shlok's Rs 24.5 LPA threshold (NGO/social impact sector at this early 0-2 yrs level typically pays 8-15 LPA max, far below his floor) and the pay is unstated."
   },
   {
    "id": "L1686",

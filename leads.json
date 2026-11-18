@@ -201609,7 +201609,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491472624",
    "source_url": "https://in.linkedin.com/jobs/view/founding-product-manager-finance-platform-at-isomorph-ai-4491472624",
@@ -201640,8 +201640,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -201651,15 +201651,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founding PM at Isomorph AI in Bengaluru, but requires built finance or fintech products and domain expertise you lack.",
+    "fit_notes": "The posting asks for someone who 'has built finance or fintech products, or worked in finance and moved into product' and knows 'how finance teams really work, from the close to the audit.' Shlok's experience is in supply chain, inventory, and operations (e.g., [sop], [ceo-coo], [mrp]), and his only technical product experience is a Flask REST API intern project at InsuranceDekho ([idekho]). He lacks the required finance domain experience and finance product background.",
+    "pay_notes": "Pay is not stated in the posting, and no external pay figures were found in the evidence.",
+    "culture_notes": "Small, high-talent-density founding team from IIT Madras and IIT Delhi, second-time founders; no public employee reviews or culture ratings available.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T23:04:06+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -201683,9 +201690,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T23:04:06+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The role requires building finance or fintech products and deep knowledge of how finance teams work (from close to audit), which does not align with his supply chain and operations experience.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30"
+   "updated_at": "2026-11-18T23:04:06+05:30",
+   "reject_reason": "The role requires building finance or fintech products and deep knowledge of how finance teams work (from close to audit), which does not align with his supply chain and operations experience."
   },
   {
    "id": "L1705",

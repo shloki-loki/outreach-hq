@@ -200983,7 +200983,7 @@
    "posted_at": "2026-11-18",
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
-   "open": true,
+   "open": false,
    "jd": "Business Analyst – CEO Office \n About the Company \n BPL Medical Technologies is a leading Indian medical technology company committed to advancing healthcare through innovative, reliable, and accessible solutions. With a strong legacy and nationwide presence, BPL serves hospitals, clinics, and healthcare providers across India and select international markets.\n The company offers a diverse portfolio across patient monitoring, imaging, and critical care, supported by robust manufacturing, service, and distribution capabilities. With a growing installed base and a focus on quality and customer trust, BPL continues to strengthen its position as a trusted partner in healthcare delivery.\n Driven by innovation and operational excellence, BPL is focused on building future-ready capabilities and delivering long-term value to customers, partners, and stakeholders.\n Get to know about us - https://www.bplmedicaltechnologies.com/ \n Role Summary \n This is a high-impact role that combines business analysis, strategic planning, performance monitoring and executive support. The individual will work closely with the CEO and senior leadership team to analyse business performance, identify opportunities for improvement, track strategic priorities and drive execution across functions.\n The role requires someone who can go beyond preparing reports and dashboards – someone who can interpret data, generate meaningful insights, connect the dots across the business and translate findings into actionable recommendations.\n The individual will also support the CEO in managing key priorities, coordinating cross-functional initiatives, preparing leadership presentations and driving special projects.\n Key Responsibilities \n 1. Business Analysis & Performance Management \n Analyse business performance across key functions, including Sales, Service, Manufacturing, Finance, Supply Chain and other business units.\n Develop and maintain business dashboards, MIS reports and performance trackers to monitor key business metrics and KPIs.\n Identify trends, performance gaps, risks and opportunities through data analysis and provide actionable insights to management.\n Conduct variance analysis against budgets, forecasts and business plans.\n Support financial and operational analysis, including revenue, profitability, cost structures and productivity.\n Develop business models, forecasts and scenario analyses to support management decisions.\n 2. CEO Office & Strategic Initiatives \n Work closely with the CEO in translating strategic priorities into actionable plans, milestones and measurable outcomes.\n Track key business initiatives and ensure timely follow-through on decisions taken during leadership meetings.\n Coordinate with functional heads to monitor progress, identify bottlenecks and drive accountability.\n Prepare periodic business reviews, management updates and strategic presentations for the CEO and leadership team.\n Support the CEO in evaluating new business opportunities, partners…",
    "exp_min": null,
    "exp_max": null,
@@ -200999,8 +200999,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 20,
+    "total": 43,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -201010,15 +201010,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
+    "done": true,
+    "headline": "CEO's Office Business Analyst at BPL Medical, Bengaluru, but the posting is closed and asked 2-4 yrs.",
+    "fit_notes": "Would have matched SAP/S&OP and CEO-COO work, but the LinkedIn posting is closed.",
+    "pay_notes": "Not stated.",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T18:36:47+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -201042,9 +201044,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-18T18:36:47+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 43: rejected (Posting closed: LinkedIn page shows 'No longer accepting applications' (opened 2026-11-18).)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30"
+   "updated_at": "2026-11-18T18:36:47+05:30",
+   "reject_reason": "Posting closed: LinkedIn page shows 'No longer accepting applications' (opened 2026-11-18)."
   },
   {
    "id": "L1703",

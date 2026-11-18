@@ -196444,15 +196444,15 @@
    "key": "amazonweb|technical program manager iii aws infra supply chain automation|bengaluru",
    "type": "job",
    "company": "Amazon Web Services (AWS)",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "aws.amazon.com",
+   "company_url": "https://aws.amazon.com",
    "company_linkedin": "https://www.linkedin.com/company/amazon-web-services",
    "company_note": "",
    "title": "Technical Program Manager III, AWS Infra Supply Chain Automation",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4475561911",
    "source_url": "https://in.linkedin.com/jobs/view/technical-program-manager-iii-aws-infra-supply-chain-automation-at-amazon-web-services-aws-4475561911",
@@ -196483,8 +196483,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 35,
+    "total": 46,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -196494,15 +196494,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Technical Program Manager III at AWS Infrastructure, asks 3+ yrs; your S&OP and supply chain execution map well but pay is unknown.",
+    "fit_notes": "The posting asks for a 'Technical Program Manager III' to 'Lead end-to-end delivery of complex, multi-team supply chain automation programs', requiring program management expertise and technical depth in supply chain operating systems. It lists a minimum of 3 years of experience, making it a stretch for Shlok's 1.3 years. Shlok's experience with supply chain operations, SAP MRP implementation, and S&OP planning ([mrp], [sop], [ceo-coo]) maps directly to the technical supply chain automation domain. However, the role is more senior (Level III) and no pay is stated.",
+    "pay_notes": "Pay not stated in the posting; no reliable estimate available from evidence for this specific role level.",
+    "culture_notes": "Ratings and specific culture details were not found in the provided evidence.",
+    "hook": "Amazon Web Services CFO recently stated that AI spending is sustainable while expanding cloud and infrastructure investments.",
+    "hook_source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2bkxFUFRMWlFOeXFSVU5iVDhhMjBuQk82TkxmNFVWUmQ2YW4zNU1UR0tNeVA3Zms2OWVrXzhJbld4aUlhWmtqY19MVFNncWIwRzBDak1CRDRENmhHdGotZFpQajlsdENBZHNz?oc=5",
+    "researched_at": "2026-11-18T23:16:31+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Nokia, Amazon Web Services expand collaboration to deliver autonomous networks built for the AI era - Nokia",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeGVSMEl3bUZTUGFaWE43REZiOWlzQ09ZeVF5al9TMG9UVTFkRlVSeFg4SWRnc3pLbGR6Qk5GUEFtWFFaVVdfaXRJMDRUU1RtQkItRG1SZnBOeGUxSEVWeG9kUXN1NE9wbXVXUy1SUEZMakdJNlZwTmh1dW14U0lwM25IRnJOdmtWQ2VWS3ByOFVrSmNXNFAtbVh0UE0zQ1pqQ09vbE5yNVd5STNJbW1VM0Z2bGgzLVlqM1ZJUVlzMVZmZGV2OE9zQk5B?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Novo Nordisk selects AWS as strategic partner to accelerate drug discovery with AI | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1hpNWhoZDhpb2oteHM4dVIybE94b0dMMV9nQXNqb3hIeS1JbWsyTjhkUktRUXRwVmtLLXA2akpPSlFYNkhVOE0tQUUyYm1HNmJSYU8xZERmOFAtRXZ6V0sydDdmMDhNVE5YVU1jdFBLY19adWtTSHN0dF9xWFdZRHRHYkRxanZJT3dRX0FlM2tCdTJFVUJFUXJJdTVYUlFZMlZYLXdoT0FFOE9TWmFmbHdCWFZOUkpFX0VoZzFFLWc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Govt launches nationwide cloud & AI skilling initiative in collaboration with Amazon Web Services - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEhQUDJ2TUFyQVR1UkhPb0xVTk5KakYxeXhvaUJuZnNudEJnVm80Z0dnNVUyYTBrUWR2RWoycWhkMnBIM0UzbXU2YndSSTh4VUQycTl5VW1qQkJXQ0xnNFRfYUczREIwVnk4S2FiN3R6VEJVX3FoNmhwWm5YUU1MUi1BY01PTzBnQ3dGVmcxNUhkVFVQMHhFT2dYbXY5UEtXTzVEczU1VGpIQkZTeXJGVkN0Q2FjRXpaM1cydEFn?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Amazon Web Services and Esade join forces to prepare future leaders for digital transformation and AI - Esade",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1NqQ0RYWmxLYmVBUWZCX1JiS3YtanBtSW9COVMybENyeGUyVnFweGR0cmk2dTNWalR5eVlrdG1hUmFMS0xhQTJvMnpwNmpLMjhVY1h5YWZHQjg0Vnd4VTZWRHdiWVZZLU84Z1J5ZE9nVzducTJaSi1mWVQxdHBwUzdJazYzUnB0cnZPUWZ6YjR0UGFiWmtROXd3N0Nna1NCak9pbHBRYkJEWmY1a1RQWnFZUkM3cktFeUctRnQ1SXlwUQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0d2RzRyLXM3VTZNUzEweGx2TFhSSUwycTNoVG0wSng3ZGxqdVlMVjhMZFdpUU5GblB0V1JKVHpORWxLZkxfVGdYWlRlQlotVTJyMFR0N3JVTHJNSHVEaHlmbmtjX21JTVBQZFkzS3NzSWZmMHpTakg1akQtcTBCYnJUTldjaDEtTlo3UWNrTzZkTmtQOGNYLXpwc0dDYjIyZnhKeUliX0VmQmI3STlWMHctdjYyRHRBYUNRWW9Wa2U1X09EZFBIRkZ4eXFFQXZYeGdRa25R?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Exclusive: Amazon Web Services CFO says AI spending is sustainable - Axios",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2bkxFUFRMWlFOeXFSVU5iVDhhMjBuQk82TkxmNFVWUmQ2YW4zNU1UR0tNeVA3Zms2OWVrXzhJbld4aUlhWmtqY19MVFNncWIwRzBDak1CRDRENmhHdGotZFpQajlsdENBZHNz?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "mrp",
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -196526,14 +196568,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-18T23:16:31+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 46: rejected (The role asks for Technical Program Manager III (senior level) with no explicit pay stated, and Shlok's 1.3 years of experience is a stretch for a level III role at Amazon.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:22+05:30",
+   "updated_at": "2026-11-18T23:16:31+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for Technical Program Manager III (senior level) with no explicit pay stated, and Shlok's 1.3 years of experience is a stretch for a level III role at Amazon."
   },
   {
    "id": "L1658",

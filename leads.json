@@ -44769,8 +44769,8 @@
    "key": "convin|strategy and operations|unknown",
    "type": "company",
    "company": "Convin",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "convin.ai",
+   "company_url": "https://www.convin.ai",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy and Operations",
@@ -44808,22 +44808,24 @@
    },
    "score": {
     "rules": 45,
-    "research": null,
-    "total": 45,
+    "research": 30,
+    "total": 36,
     "reasons": [
      "Added by agent despite rule: rule score 39 under threshold"
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Conversation intelligence and AI calling SaaS for contact centers; no mapped fact of his",
+    "fit_notes": "no clear mapping",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T18:38:25+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -44900,14 +44902,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-18T18:38:25+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 36: rejected (contact-center voice AI product company; nothing in his operations/supply chain facts maps, and no dated 2026 fact found on a page I could open)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-18T18:38:25+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "contact-center voice AI product company; nothing in his operations/supply chain facts maps, and no dated 2026 fact found on a page I could open"
   },
   {
    "id": "L0370",

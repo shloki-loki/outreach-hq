@@ -291,7 +291,7 @@
    "opened_at": "2026-11-18T18:39:04+05:30",
    "last_seen": "2026-11-18T18:39:04+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: rule scoring over-ranks by title (CEO's Office, Founder's Office, supply planning) when the JD has no seniority text, so closed, 4+ yr, wrong-city postings reach research (5 of 11 were already closed). Remedy for a coding session: add a live-check gate before research and a seniority-missing penalty in config/targeting.toml. Not changed in this scheduled run; research did its job by rejecting them, so no harm.",
    "resolved_at": null
   }
  ],

@@ -2762,6 +2762,15 @@
    "title": "Diagnosis: No draftable leads: no verified addresses",
    "detail": "Cause: every draftable lead only has guess or catch-all addresses (zamp.ai, nathabit.in catch-all; swiggy, univest, flipkart, zepto guesses) and the Reoon free daily quota is used up, so send-track will not draft (rule: no cold email to unverified addresses). Google Forms (L0003, L0013, L0018, L0007, L0010) return 401 without sign-in, so Shlok must fill those by hand. Remedy: re-run find-email --recheck after the Reoon quota resets, or add a second verifier key (Hunter, bare value). Nothing is lost.",
    "ref": "I0020"
+  },
+  {
+   "id": "J0308",
+   "at": "2026-11-18T21:12:00+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Scout run: 0 qualified of 11 researched",
+   "detail": "Cause: rule scoring over-ranks by title (CEO's Office, Founder's Office, supply planning) when the JD has no seniority text, so closed, 4+ yr, wrong-city postings reach research (5 of 11 were already closed). Remedy for a coding session: add a live-check gate before research and a seniority-missing penalty in config/targeting.toml. Not changed in this scheduled run; research did its job by rejecting them, so no harm.",
+   "ref": "I0021"
   }
  ]
 }

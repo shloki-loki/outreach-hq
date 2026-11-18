@@ -9006,9 +9006,11 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Why this role (cover note)": "Meesho's CEO's Office requires someone to run executive operating cadences and drive high-impact cross-functional priorities. While I'm early in my career with 1.3 years of experience, my track record is built on direct C-suite ownership. At Ola Electric, I partnered directly with the CEO and COO on fulfilment operations, where setting up milk-run routes raised truck utilisation by 45% and cut logistics spend by 34%. I also ran S&OP production planning, cutting working capital by 40%. I'd bring this same operational rigor to Meesho as quarterly losses shrink on rising orders and infrastructure investments scale up."
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -9032,9 +9034,15 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 77: qualified"
+    },
+    {
+     "at": "2026-11-18T14:01:53+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-17T14:08:39+05:30",
+   "updated_at": "2026-11-18T14:01:53+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",

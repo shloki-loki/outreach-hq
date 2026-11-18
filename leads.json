@@ -15219,8 +15219,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 10,
+    "total": 32,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -15230,15 +15230,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
+    "done": true,
+    "headline": "InstaService Chief of Staff (US home-services, remote India, PST hours) is closed and asked 2-6 yrs.",
+    "fit_notes": "Closed.",
+    "pay_notes": "Not stated ('competitive').",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T18:38:07+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -15280,9 +15282,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-18T18:38:07+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 32: rejected (Posting closed: LinkedIn shows 'No longer accepting applications' (read 2026-11-18); also asked 2-6 yrs and PST hours.)"
     }
    ],
-   "updated_at": "2026-11-14T19:01:31+05:30",
+   "updated_at": "2026-11-18T18:38:07+05:30",
    "live_check": {
     "at": "2026-11-14T19:01:31+05:30",
     "state": "closed",
@@ -15292,7 +15300,8 @@
     "at": "2026-11-14T19:01:31+05:30",
     "reason": "the posting says \"No longer accepting applications\"",
     "by": "live-check"
-   }
+   },
+   "reject_reason": "Posting closed: LinkedIn shows 'No longer accepting applications' (read 2026-11-18); also asked 2-6 yrs and PST hours."
   },
   {
    "id": "L0121",

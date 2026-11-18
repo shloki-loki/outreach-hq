@@ -202037,15 +202037,15 @@
    "key": "allendigital|product manager|bengaluru",
    "type": "job",
    "company": "ALLEN Digital",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "allendigital.in",
+   "company_url": "https://www.allendigital.in",
    "company_linkedin": "https://in.linkedin.com/company/weareallendigital",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491804407",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-at-allen-digital-4491804407",
@@ -202061,7 +202061,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "As a Product Manager at ALLEN Digital, you will contribute to building a cutting-edge education\n platform that brings the best of offline learning to the digital world, with a focus on\n personalization, engagement, and scalable learning outcomes.\n You will work at the intersection of learning science, technology, and data, translating student\n needs and business objectives into impactful product experiences that improve the student\n learning journey.\n This role requires strong product thinking, analytical rigor, customer empathy, and execution\n excellence.\n Background & Experience\n ● 2–4 years of product management experience\n ● Experience building consumer-facing digital products, preferably at scale\n ● Experience owning product features or workstreams from problem discovery to launch\n ● Strong motivation to solve meaningful problems in education for students, teachers, and\n parents.\n ● Bachelor's degree, preferably from a strong engineering institution.\n ● MBA from Tier 1 business schools (IIMs, ISB) preferred, but not mandatory\nSeniority level Mid-Senior level | Employment type Full-time | Industries E-Learning Providers",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -202076,8 +202076,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 38,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -202087,15 +202087,30 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at ALLEN Digital, asks 2-4 yrs PM experience; your technical product internship maps, but experience is short.",
+    "fit_notes": "The posting asks for \"2–4 years of product management experience\" and \"Experience building consumer-facing digital products, preferably at scale\". Shlok has 1.3 years of total experience [1.3 years in total], with his only product experience being an internship [idekho]. The posting also prefers an \"MBA from Tier 1 business schools (IIMs, ISB)\", which Shlok does not have [no MBA].",
+    "pay_notes": "Pay not stated in the posting, and no pay evidence found in sources.",
+    "culture_notes": "Company stage, headcount, ratings, and culture flags were not found in the search evidence.",
+    "hook": "Building a cutting-edge education platform that brings the best of offline learning to the digital world.",
+    "hook_source": "https://in.linkedin.com/jobs/view/product-manager-at-allen-digital-4491804407",
+    "researched_at": "2026-11-18T23:08:18+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "ALLEN Digital Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52Q292RWY1ejRxelFvd0FQdFVuY01UVVhVaHB6TkF2NEYyWlFWWUdfa244TTNkaFUtTW1raXIxU3Zpal9lM241MFY4eVpUUGxmVjd5bVdEZUZzRW9iblBCNVdpTzZpblJPNXBXeDRn?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -202119,9 +202134,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T23:08:18+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The role asks for 2-4 years of product management experience, but Shlok has 1.3 years of total experience (with his product experience being an internship at InsuranceDekho) and the pay is unknown.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30"
+   "updated_at": "2026-11-18T23:08:18+05:30",
+   "reject_reason": "The role asks for 2-4 years of product management experience, but Shlok has 1.3 years of total experience (with his product experience being an internship at InsuranceDekho) and the pay is unknown."
   },
   {
    "id": "L1709",

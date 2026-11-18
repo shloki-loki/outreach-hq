@@ -8686,7 +8686,7 @@
    "posted_at": "2026-10-16T12:44:06.067000+00:00",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-18",
-   "open": false,
+   "open": true,
    "jd": "What you will do\nAnalysis, customer interviews, user research, competition analysis and other qualitative/quantitative techniques.\n Problem Identification & Prioritization: Adopt a structured approach to identify what problems need to be solved and break them down into smaller chunks. Prioritize what problems need to be solved now vs. later.\n Solution Discovery: Facilitate a process to come up with the best technology-led ideas to solve the prioritised problems. Harness the creativity of not just yourself but of other teams such as design, engineering., business, etc Be willing to experiment with multiple solution ideas and test them using MVPs, prototypes, etc.\n Product Delivery: Define detailed product requirements and work collaboratively with a cross-functional team (design, engg. business, analytics, etc.) to bring a product to life. Ensure high product quality through processes such as user acceptance testing, dogfooding, etc.\n Go-to-Market Planning: Create a go-to-market plan working with business/marketing stakeholders to maximize product adoption and success.\n Adoption & Metrics: Define product metrics for your area, and track them continuously. Identify usage patterns and come up with action plans to move metrics in the right direction.\n Roadmap Creation: Create a product roadmap for your area that has at least a 3-month forward-looking view of key customer/business problems to be solved.\nWhat you will need \nOverall experience of 3+ yrs with at least 1+ yrs in product management in a tech-led company (consumer internet space is preferred).\n Exceptional problem-solving skills based on first principles of thinking.\n Good understanding of technology, and comfort with product management processes such as A/B experimentation, writing product requirement documents, managing product backlogs, and creating roadmaps.\n Good communication and stakeholder management skills to get work done across different functions and drive product development.",
    "exp_min": 1,
    "exp_max": null,
@@ -8777,9 +8777,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the job board says the posting no longer exists (HTTP 404)"
+    },
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-18T13:05:37+05:30",
+   "updated_at": "2026-11-18T14:43:01+05:30",
    "reject_reason": "Asks 3+ years overall incl. 1+ year as a PM; Shlok has 1.3 years and no full-time PM role.",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
@@ -14647,7 +14653,7 @@
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-18",
-   "open": false,
+   "open": true,
    "jd": "Founder's Office | Growth Valley Community \n Gurugram (in-office) | Full-time | 1-5 years experience | Reports directly to the Founder\n Tier One IIT/IIM Preferred.\n Do not apply if you are looking for structured job with work life balance. Apply if you are mentally young, want to prove to yourself, want to grow and behave like growth. A consistent growth story will be awarded.\n We are looking forward to growth focussed team members, who just are obsessed about making things bigger and better for themselves and people around them. And that MUST reflect in their past journey. You will thoroughly fail in our environment if you are looking for a generic job/work life balance/ multi focus life. \n We are fanatic about what we do. What we are building. It takes intent and energy. It takes time. It takes focus. If you are one already, it could be one of the best place to work together and building something big and beautiful for the world. \n About GVC. \n Growth Valley Community is a global entrepreneurship programme where teenagers build real ventures: real inventory, real customers, real profit and loss. Our students run live businesses through TecTeenShop and are mentored by professionals and alumni from Harvard, MIT, Stanford and Columbia, supported by IITians. Today we stand at 1000+ students across 12 countries with roughly 95% retention, which is among the hardest numbers to earn in education.\n Product-market fit is proven. Parents renew, students stay, and the transformation is visible in the room. What we have not yet built at scale is distribution: the systems, partnerships and engines that take this from X students to 100X. That is the frontier, and that is exactly where this role operates.\n The role. \n You sit beside the founder and function as a force multiplier. Not an assistant, not an analyst producing decks for other people to act on. You take a mandate, own it end to end, and leave behind a running system. You will be in rooms most people wait years to enter: pricing calls, investor material reviews, partnership negotiations, hiring decisions. The compensation for that access is simple: everything you touch must move.\n This is the highest-leverage seat in the company for someone who wants to compress five years of operator learning into one.\n What you will actually own. These are live mandates, not hypotheticals: \n Enrollment engine. Our enrollment function is being rebuilt from the ground up as a system: one shared pipeline, a daily operating cadence, written playbooks, zero dependence on any single person. You will build and run it, starting with the fastest lever we own, a referral programme into our 100s of existing families.\n Admissions product. We have designed a full admission journey (application, staged review, live status tracking, WhatsApp and email automation on an Airtable backbone). You will take it from tested prototype to daily operations.\n AI Founder Programme, Cohort 1. A new one-year product where teens ship their own ",
    "exp_min": null,
    "exp_max": null,
@@ -14752,9 +14758,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-18T13:05:37+05:30",
+   "updated_at": "2026-11-18T14:43:01+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "closed",
@@ -20010,7 +20022,7 @@
    "posted_at": "2026-11-06",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-18",
-   "open": false,
+   "open": true,
    "jd": "What This Role Is\nEvery year, hundreds of thousands of students across India decide they want to study abroad. Some come through K12 school partnerships, some find their way in directly. Either way, they enter a journey - discovery, counseling, application, offer, enrollment - that runs through dozens of handoffs between people, platforms, and teams. When that journey works, a student ends up at a university that fits their budget, their course, and their ambitions, and the business realizes revenue at the moment they enroll. When it doesn't, applications stall, deadlines slip, and a student who could have enrolled goes quiet.\nThe problem is not that any single team is failing. It's that the highest-leverage work in a business like this doesn't live inside one function - it lives in the transformation and optimization projects that cut across Tech, Product, Marketing, and Operations, and someone needs to own them end to end. A funnel improvement that Marketing wants tested needs Product to build it and Tech to ship it. A new process that could remove a structural inefficiency needs someone to design it, prove it, and hand it off cleanly. Right now, that ownership happens informally, project by project, and the work that would compound doesn't get the sustained, disciplined execution it needs.\nThis is where this role sits. You will run multiple 'Strategize - Build - Operate - Transfer' projects a year - some of them genuinely 0-1 (new ideas that need user research, market research, and hypothesis testing before anyone knows if they work), some of them optimization projects on things that already exist but need better process design and a new benchmark for what good looks like. You will also be asked to take on whatever else is critical for the business to win, even when it doesn't have a job title yet.\nYou will own full-cycle delivery for these projects - from framing the problem with the right stakeholders, through build and testing, to launch, operating it long enough to prove it works, and transferring it cleanly to whoever owns it long-term. You are the person who makes sure a project doesn't just get discussed. It gets shipped, it gets proven, and it gets handed off in a state someone else can run with.\nWhat Makes This Role Different\nMost program management roles ask you to track a roadmap someone else designed. This one asks you to build the roadmap itself - deciding what the next transformation or optimization project should even be, then owning it across three or four functions that don't naturally report to the same person. The Strategize-Build-Operate-Transfer model means you don't hand a project off the moment it launches; you stay accountable until it's actually working and someone else can run it without you.\nThe Manifest ecosystem gives this role real range: some projects will be genuinely 0-1 - a new idea nobody has tested yet - and others will be 1-100 - scaling something that already works but is starting to strain under its own…",
    "exp_min": null,
    "exp_max": null,
@@ -20075,9 +20087,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-18T13:05:37+05:30",
+   "updated_at": "2026-11-18T14:43:01+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "closed",
@@ -20123,7 +20141,7 @@
    "posted_at": "2026-11-11",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-18",
-   "open": false,
+   "open": true,
    "jd": "About Aramya \n Our vision is to build some of the world's most loved fashion and lifestyle brands and enable people to express themselves. We are well-funded, with $20M raised from marquee investors like Accel, Z47, and industry veterans. \n Aramya is a 300 Cr ARR fashion & lifestyle company backed by Accel and Z47 . We're building a customer-led portfolio: Aramya (daily wear), Tavira by Aramya (festive), and a new brand in stealth, going live in H2 2026. \n Current Retail footprint: Total 25 - 16 stores in Bengaluru + 3 stores in Hyderabad + 3 stores in Ahmedabad + 1 store in Mysore + 2 stores in Surat (and a few more are yet to go live). \n Opening next: 25 cities in the pipeline. \n Website : www.aramya.in \n Our Team: https://shorturl.at/l6uYJ \n About the Role \n We are hiring an Entrepreneur in Residence (EIR), Operations: a program manager who takes on Aramya's most important operations problems across warehousing and fulfillment and owns them end to end. You will run the ops layer that powers fulfillment end to end, ensure a seamless experience for our customers as we scale, and build systems and processes for all relevant edge cases.\n Background: Operations, strategy, program management, preferably at a consumer or D2C company \n What You Will Do \n We fulfill about 5,000 orders a day today, and that number is growing fast. Your job is to make the operations layer powering this scale-proof as we grow. \n Process Setup and Scale Map current warehousing and fulfilment processes, close gaps and loose ends, and build SOPs that make the function ready for much higher volumes \n Build and manage a team that is process-led and owns its numbers \n Data, Cost and Customer Build an in-depth understanding of cost and performance metrics across the chain, from shipment cost per order to delivery TAT \n Build data-first decision-making frameworks, trackers and weekly reviews SOPs \n Explore and lead the implementation of new customer-first initiatives such as faster delivery and easier returns and exchanges \n What We Are Looking For \n Experience: 2 to 3 years \n Location: Gurgaon (working across multiple cities) \n Education : A graduate of a tier 1 college with a strong academic record \n A self-starter who learns fast \n A high level of commitment to customer centricity \n High ownership of outcomes, not just tasks \n Equally comfortable going deep into ops and into data, and at ease with ambiguity and fast change\nSeniority level Mid-Senior level | Employment type Full-time | Industries Retail Apparel and Fashion",
    "exp_min": null,
    "exp_max": null,
@@ -20226,9 +20244,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-18T13:05:37+05:30",
+   "updated_at": "2026-11-18T14:43:01+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "closed",
@@ -25109,7 +25133,7 @@
    ],
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-18",
    "open": true,
    "jd": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!\n Job Details \n Summary\n The Supply Chain Network Modeling Manager is responsible for leading the development and application of advanced supply chain network models that support operational decision-making across the enterprise. This role combines hands-on modeling expertise with people leadership responsibilities, managing a team of supply chain modelers and analysts while ensuring delivery of high-quality network design, transportation optimization, capacity planning, inventory optimization, and business continuity initiatives.\nThe Manager translates business challenges into analytical solutions that optimize cost, service, capacity, inventory, risk, and growth objectives. The role is accountable for developing team capabilities, establishing modeling standards and best practices, and ensuring successful execution of a portfolio of modeling projects aligned with organizational priorities.\n Primary Duties And Responsibilities\n People Leadership & Talent Development\n Lead, coach, mentor, and develop a team of Supply Chain Modelers and Analysts.\n Conduct performance management, career development planning, and succession planning activities.\n Support hiring, onboarding, training, and capability development of modeling resources.\n Establish technical competency standards and promote continuous learning across the team.\n Foster collaboration, innovation, and a high-performance culture.\n Project & Portfolio Leadership\n Manage a portfolio of network modeling, transportation optimization, simulation, and supply chain strategy projects.\n Prioritize initiatives based on business value, resource availability, and organizational objectives.\n Provide project oversight, quality assurance, and governance throughout project lifecycles.\n Ensure project deliverables are completed on schedule and align with stakeholder expectations.\n Present recommendations and business cases to senior leadership and executive stakeholders.\n Supply Chain Modeling & Optimization\n Lead the design, development, maintenance, and enhancement of end-to-end supply chain network models.\n Evaluate scenarios including network expansion, consolidation, facility location, inventory positioning, manufacturing footprint changes, transportation strategies, and capacity investments.\n Analyze tradeoffs between cost, service levels, inventory, risk, resilience, sustainability, and growth.\n Develop transportation optimization and cost-to-serve models.\n Support long-range planning, annual operating planning, and capital investment decisions through scenario analysis.\n Drive adoption of advanced analytics, optimization, simulat",
    "exp_min": null,
@@ -40108,12 +40132,17 @@
      "source": "linkedin",
      "url": "https://in.linkedin.com/jobs/view/manager-strategy-and-operations-at-r3-consultant-4491285514",
      "seen": "2026-11-16"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/manager-strategy-and-operations-at-r3-consultant-4491478602",
+     "seen": "2026-11-18"
     }
    ],
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-16",
-   "open": false,
+   "last_seen": "2026-11-18",
+   "open": true,
    "jd": "Job description \n Job Description- Manager Strategy and Operations\n Work Location: Hyderabad\n Working Days: 6 Days\n Role Overview\n We are looking for a high-impact Manager Strategy & Operations to work closely with the Founders Office and leadership team. This role will drive strategic initiatives, solve critical business problems, and ensure execution across cross-functional teams in a fast-paced B2C startup environment.\n Key Responsibilities\n 1. Founders Office & Strategic Initiatives\n Partner directly with founders to drive high-priority business initiatives\n Translate ambiguous problems into structured strategies and execution plans\n Own end-to-end delivery of key projects impacting growth, revenue, and efficiency\n 2. Data-Driven Decision Making\n Analyze large datasets to derive actionable insights for business decisions\n Build dashboards, track KPIs, and identify performance gaps\n Act as an Individual Contributor (IC) on critical analytical problem statements\n 3. Business Operations & Execution\n Drive operational excellence across functions (Sales, Product, Marketing, Ops)\n Identify bottlenecks and implement scalable processes\n Ensure timely execution and measurable outcomes of initiatives\n 4. Cross-Functional Leadership\n Lead and manage cross-functional projects across teams\n Align stakeholders and drive accountability without direct authority\n Collaborate with leadership to prioritize initiatives\n 5. Team Management\n Manage and mentor a small, high-performance team\n Ensure strong ownership, output quality, and execution speed\n Ideal Candidate Profile\n Education: B.Tech from IIT / BITS and/or MBA from IIM (preferred)\n Experience:\n 3+ years of total experience\n 2+ years in Strategy / Operations / Founders Office roles in Series A+ B2C startups\n 2+ years of strong hands-on experience working with data as an IC\n Proven experience managing teams and delivering business outcomes\n Strong exposure to cross-functional project leadership\n High ownership, structured thinking, and problem-solving ability\n Ability to thrive in ambiguity and high-growth environments\n What Success Looks Like\n High-impact projects delivered with measurable business outcomes\n Improved operational efficiency and faster decision-making\n Strong alignment across teams and leadership\n Data-backed strategy influencing key business decisions",
    "exp_min": 2,
    "exp_max": null,
@@ -40222,9 +40251,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-18T13:05:37+05:30",
+   "updated_at": "2026-11-18T14:43:01+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "closed",
@@ -40998,7 +41033,7 @@
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-18",
-   "open": false,
+   "open": true,
    "jd": "StoreHQ helps Shopify brands grow through SEO, AEO, paid ads, email marketing, social media, CRO, and AI discoverability. We bring growth channels together to help brands get found, convert more traffic, and retain more customers. We also build our own Shopify apps that help store owners improve their SEO and AI search visibility.\n StoreHQ is looking for an Associate Product Manager to help build and grow our Shopify apps and internal tools. This is a full-time role where you’ll own features from idea to launch, work closely with the founders and engineering team, and shape products used by Shopify merchants.\n What you’ll do: \n Own features and improvements for StoreHQ’s Shopify apps, from discovery and planning through launch\n Talk to merchants, study app reviews and usage data, and turn findings into clear product priorities\n Write product requirements, user stories, and acceptance criteria that engineering can build from\n Work closely with engineering and design to plan sprints, unblock work, and ship on time\n Track product metrics like installs, activation, retention, and reviews, and use them to guide decisions\n Research competitors and market trends in Shopify apps, SEO, and AI search\n Plan and support product launches, including Shopify App Store listings and Product Hunt launches, with marketing\n Run experiments to improve onboarding, conversion, and user experience\n Work cross-functionally with marketing, sales, and support to bring customer feedback into the roadmap\n What you’ll bring: \n 0–3 years of experience in product management, product analytics, engineering, consulting, or a related role\n A degree in any discipline. An engineering or technical background is a plus.\n Strong analytical and problem-solving skills, and comfort working with data\n Ability to write clear product documents and explain ideas simply\n Curious about SaaS, e-commerce, Shopify, and AI products\n Comfortable with ambiguity and taking ownership without being told exactly what to do\n Strong written and verbal communication skills\n Ability to move quickly, learn independently, and take features from idea to launch\n Based in Bangalore and open to working from the office\n Experience with Shopify apps, SEO tools, or AI products is a plus, not required\n If you enjoy building products, talking to users, and shipping things that make a difference, StoreHQ would love to hear from you. \n Employment type: Full-time\n Location: Bangalore\n Compensation: Competitive, based on experience",
    "exp_min": null,
    "exp_max": null,
@@ -41111,9 +41146,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting page no longer exists (HTTP 404)"
+    },
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-18T13:05:37+05:30",
+   "updated_at": "2026-11-18T14:43:01+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "closed",
@@ -41615,7 +41656,7 @@
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "About Tekion:\n Positively disrupting an industry that has not seen any innovation in over 50 years, Tekion has challenged the paradigm with the first and fastest cloud-native automotive platform that includes the revolutionary Automotive Retail Cloud (ARC) for retailers, Automotive Enterprise Cloud (AEC) for manufacturers and other large automotive enterprises and Automotive Partner Cloud (APC) for technology and industry partners. Tekion connects the entire spectrum of the automotive retail ecosystem through one seamless platform. The transformative platform uses cutting-edge technology, big data, machine learning, and AI to seamlessly bring together OEMs, retailers/dealers and consumers. With its highly configurable integration and greater customer engagement capabilities, Tekion is enabling the best automotive retail experiences ever. Tekion employs close to 3,000 people across North America, Asia and Europe.\n About Tekion \n Positively disrupting an industry that has not seen any innovation in over 50 years, Tekion has challenged the paradigm with the first and fastest cloud-native automotive platform. Our platform spans the Automotive Retail Cloud (ARC) for retailers, the Automotive Enterprise Cloud (AEC) for manufacturers and other large automotive enterprises, and the Automotive Partner Cloud (APC) for technology and industry partners. Tekion connects the entire automotive retail ecosystem through one seamless platform, using cutting-edge technology, big data, machine learning, and AI to bring together vehicle manufacturers, dealerships, and consumers. Tekion employs close to 3,000 people across North America, Asia, and Europe.\n About The Role\n Tekion connects dealerships - the businesses that sell and service vehicles - with the automakers that build those vehicles, such as General Motors, Honda, or Ford. Across the industry these automakers are referred to as OEMs (Original Equipment Manufacturers). The software on each side needs to exchange information automatically and reliably: vehicle orders, inventory, repair records, customer details, and much more. The software that makes this exchange happen is called integration. We are seeking a driven, technically curious Product Manager I to join our Integrations team. You will take ownership of one integration pattern - a family of similar integrations that share the same shape (for example, all the integrations that send vehicle service and repair data to automakers). Your mission is to make every integration in that family measurably healthy and best-in-class, shift more of its delivery from manual building to AI-assisted building, and make sure dealerships actually adopt and benefit from it. This is a hands-on role for an early-career product manager who is comfortable with technical concepts, motivated by measurable outcomes, and excited to help modernize how a decades-old industry connects its software. You will work closely with Engineering, Design, and senior product managers, who wi…",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -167036,6 +167077,11 @@
      "source": "linkedin",
      "url": "https://in.linkedin.com/jobs/view/senior-category-manager-fashion-at-snapmint-4490588140",
      "seen": "2026-11-15"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/senior-category-manager-beauty-and-personal-care-at-snapmint-4490588140",
+     "seen": "2026-11-18"
     }
    ],
    "posted_at": "2026-11-13",
@@ -172137,7 +172183,7 @@
    "posted_at": "2026-11-14",
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-18",
-   "open": false,
+   "open": true,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -172202,9 +172248,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-18T13:05:37+05:30",
+   "updated_at": "2026-11-18T14:43:01+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "closed",
@@ -174259,7 +174311,7 @@
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-18",
-   "open": false,
+   "open": true,
    "jd": "Responsibilities\n Responsible for driving business growth for ADAS products across South Asia Pacific region.\n Own and drive region specific KPIs for ADAS business – Opportunity Funnel management – DIN, DWIN, Revenue targets – POA, POS, Long Term planning\n Analyse & understand regional market trends, customer applications ,Competitor landscape & strategy for marketing strategy.\n Provide feedback to product lines regarding regional market dynamics, product & solution needs, competition analysis.\n Define and implement region specific GTM strategy for ADAS products in close collaboration with regional sales teams.\n Drive product related trainings and marketing campaigns for internal stakeholders (CAS, Sales) and external stakeholders (Channel partners, Eco-system partners, Customers).\n Identify and develop eco-system partners to enable system solutions on NXP platform.\n Requirements\n Bachelor’s or Master’s degree in electrical or Electronic Engineering.\n Knowledge and experience in ADAS products & technology\n Prior experience in Automotive electronics is highly desired\n Results-driven self-starter who demonstrates high accountability\n Excellent communication skills (verbal and written) in English\n Strong analytical and presentation skills\n Ability to develop strong business cases for new and existing products\n Proven skills in negotiating pricing versus key products specs and features with customers\n Willingness and ability to travel extensively, occasionally internationally\n An ideal candidate would have at least 10 years of relevant experience in related field, with at least 5 years of experience in customer-facing roles – System engineering, Technical Marketing, or similar roles.\n More information about NXP in India...\nSeniority level Mid-Senior level | Employment type Full-time | Industries Semiconductor Manufacturing, Computers and Electronics Manufacturing, and Software Development",
    "exp_min": null,
    "exp_max": null,
@@ -174368,9 +174420,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-18T13:05:37+05:30",
+   "updated_at": "2026-11-18T14:43:01+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "closed",
@@ -178415,7 +178473,7 @@
    ],
    "posted_at": null,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-18",
    "open": true,
    "jd": "Global finance solutions Customer.io, FX, Fintech, Heap, Linear, Notion, Payments, Product Operations, Product Ops, SQL, SaaS, Stablecoins",
    "exp_min": null,
@@ -182532,7 +182590,7 @@
    ],
    "posted_at": "2026-11-14",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-18",
    "open": true,
    "jd": "Company Description Evolve Energy Group is a premium provider of end-to-end solar power solutions, focused on accelerating India’s transition to clean, reliable, and sustainable energy. The company delivers long-term solar investments designed to perform consistently over a project life of up to 25 years. Evolve combines deep industry expertise, advanced technology, and quality-driven solutions to help commercial and industrial customers maximize returns from solar energy. The team partners closely with businesses to design thoughtful, high-performance installations that support their sustainability and cost-saving goals. Think 25. Think Solar. Think Evolve.\n Role Description The Business Development Manager – C&I is a full-time, on-site role based in Chennai. This role is responsible for identifying and developing new business opportunities in the commercial and industrial (C&I) segment, including prospecting, qualifying leads, and managing the sales pipeline. The Business Development Manager will conduct client meetings and presentations, prepare proposals, coordinate technical and financial evaluations with internal teams, and negotiate contracts to closure. The role involves monitoring market trends, competitor activities, and policy developments, and translating these insights into actionable sales strategies. The individual will collaborate closely with engineering, operations, and finance teams to ensure smooth project handover and strong client relationships throughout the sales and delivery cycle.\n Qualifications\n Strong business development and B2B sales skills, including lead generation, pipeline management, and contract negotiation in the C&I or renewable energy sector.\n Ability to build and maintain long-term client relationships, conduct needs assessments, and deliver clear, persuasive presentations to diverse stakeholders.\n Solid understanding of solar power solutions, basic technical and financial concepts (e.g., ROI, payback, tariffs), and the renewable energy market landscape.\n Excellent communication, analytical, and problem-solving skills, with the capacity to work cross-functionally with technical, commercial, and operations teams.\n Bachelor’s degree in Engineering, Business, or a related field; an MBA or relevant postgraduate qualification is an advantage.\n Prior experience in solar, energy, infrastructure, or related industries, particularly in C&I segments, is highly beneficial.\n Comfort with CRM tools, MS Office (Excel, PowerPoint, Word), and data-driven decision-making.\n Willingness to travel for client meetings and site visits as required.",
    "exp_min": null,
@@ -183572,12 +183630,17 @@
      "source": "linkedin",
      "url": "https://in.linkedin.com/jobs/view/business-development-manager-at-codeus-4491119143",
      "seen": "2026-11-17"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/business-development-manager-at-codeus-4491804133",
+     "seen": "2026-11-18"
     }
    ],
    "posted_at": "2026-11-16",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-17",
-   "open": false,
+   "last_seen": "2026-11-18",
+   "open": true,
    "jd": "We are looking for an ambitious and energetic Business Development Manager to help us expand our clientele. He will be the face of the company and should have the dedication to create and apply an effective sales strategy. The goal is to drive sustainable financial growth through marketing and boosting sales and forming strong relationships with clients. Where appropriate, seeks to build strategic executive relationships externally with clients and partners with internal and external resources to develop best-in-class solutions for the customer. The goal is to drive sustainable financial growth through boosting sales and forging strong relationships with clients.\n Roles and Responsibilities\n Promote the products/services addressing or predicting clients' objectives.\n Develop a growth strategy focused both on financial gain and customer satisfaction\n Conduct research to identify new markets and customer needs\n Arrange & attend business meetings with prospective clients\n Promote the products/services addressing or predicting clients objectives • Prepare sales contracts ensuring adherence to law-established rules and guidelines\n Keep records of sales, revenue, invoices, etc.\n Provide trustworthy feedback and after-sales support\n Build long-term relationships with new and existing customers\n Desired Candidate Profile\n Proven working experience as a business development manager, sales executive, or a relevant role\n Proven sales track record\n Experience in Real Estates Marketing will be a plus.\n Experience in customer support is a plus\n Proficiency in MS Office\n Proficiency in English\n Market knowledge\n Communication and negotiation skills\n Ability to build rapport\n Time management and planning skills\n We need someone who has experience with selling Construction equipment.",
    "exp_min": null,
    "exp_max": null,
@@ -183654,9 +183717,15 @@
      "actor": "research-worker",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-17T23:19:47+05:30",
+   "updated_at": "2026-11-18T14:43:01+05:30",
    "live_check": {
     "at": "2026-11-17T13:25:00+05:30",
     "state": "closed",
@@ -187765,6 +187834,11 @@
      "source": "linkedin",
      "url": "https://in.linkedin.com/jobs/view/business-analyst-l3-at-wipro-4489760233",
      "seen": "2026-11-17"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/business-analyst-l3-at-wipro-4491781340",
+     "seen": "2026-11-18"
     }
    ],
    "posted_at": "2026-11-16",
@@ -189852,7 +189926,7 @@
    ],
    "posted_at": null,
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-18",
    "open": true,
    "jd": "Empowering tomorrow's leaders Business Development, Marketing, Recruitment, Sales",
    "exp_min": null,
@@ -200665,6 +200739,2314 @@
     "why": ""
    },
    "reject_reason": "The posting states that the job you are trying to apply for has been filled, and it requires a consulting background which you do not have."
+  },
+  {
+   "id": "L1700",
+   "legacy_id": null,
+   "key": "intigly|chief of staff|bengaluru",
+   "type": "job",
+   "company": "INTIGLY",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/intigly",
+   "company_note": "",
+   "title": "(COS) Chief of Staff",
+   "tier": "1 - Strategy & Ops",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4488694115",
+   "source_url": "https://in.linkedin.com/jobs/view/cos-chief-of-staff-at-intigly-4488694115",
+   "apply_url": "https://in.linkedin.com/jobs/view/cos-chief-of-staff-at-intigly-4488694115",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/cos-chief-of-staff-at-intigly-4488694115",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "Who Are We? \n INTIGLY is a Leading Creative Agency, having delivered services to 200+ Brands across all domain covering Creative Strategy, Design, Motion, Development & Writing. We work in the intersection of business & media. We are one stop solution for all your creative needs \n At INTIGLY we are passionate about creativity & helping brands grow multi fold! \n Curious about us? \n Location : 917, 5th Main Rd, 7th Sector, HSR Layout, Bengaluru, Karnataka 560102\n Job Type: Full-time (Onsite)\n Office Hours: 10:00 AM - 6:30 PM (Mon-Fri + Alt. Saturdays)\n Experience: 4 + Years progressive experience in Creative Agency / Creative Studio / Digital Production Agency\n Employment Type: Full-Time\n About the Role \n We are looking for a highly organized, execution-driven Chief of Staff who has spent at least 4–5 years managing teams, client portfolios, and creative projects within a creative agency or production studio.\n This is a hands-on leadership role for someone who understands how creative agencies operate, knows how to manage multiple projects simultaneously, and can ensure that creative teams consistently deliver high-quality work on time.\n You will work closely with the founders to oversee day-to-day operations, manage creative teams, streamline workflows, and ensure smooth execution across the agency's client portfolio.\n Key Responsibilities \n Team Management & Leadership\n Manage and coordinate teams of designers, video editors, motion designers, creative strategists, and project managers.\n Allocate resources and balance workloads across multiple projects.\n Set clear priorities, establish accountability, and track team performance.\n Identify operational bottlenecks and resolve execution challenges.\n Support hiring, onboarding, and performance management of creative talent.\n Ensure smooth collaboration between internal teams, freelancers, and external partners.\n Creative Project Management\n Oversee the complete lifecycle of creative projects, from brief to final delivery.\n Manage project timelines, deliverables, approvals, revisions, and deadlines.\n Coordinate multiple creative projects simultaneously without compromising quality.\n Translate client requirements into actionable briefs and production plans.\n Anticipate project risks and proactively resolve delays or resource conflicts.\n Ensure creative output meets client expectations and internal quality standards.\n Client Portfolio Management\n Oversee ongoing relationships and delivery operations across multiple client accounts.\n Understand client requirements, priorities, and expectations.\n Monitor project progress, account health, client satisfaction, and delivery performance.\n Coordinate with account managers and creative teams to maintain consistent service quality.\n Identify potential client escalations and resolve them before they become major issues.\n Support client retention and account growth through operational excellence.\n Agency Operations & Process Optimization\n Build and improve SOPs,…",
+   "exp_min": 4.0,
+   "exp_max": 5.0,
+   "exp_text": "Seniority level Director Employment type Full-time Industries Animation and Post-production",
+   "stretch": true,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 75,
+    "research": null,
+    "total": 75,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "Bengaluru (+20)",
+     "Stretch: asks 4+ years (+4)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 75"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1701",
+   "legacy_id": null,
+   "key": "greengoldanimation|chief of staff ceos office|india",
+   "type": "job",
+   "company": "Green Gold Animation Pvt Ltd",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/greengoldtv",
+   "company_note": "",
+   "title": "Chief of Staff – CEO’s Office",
+   "tier": "1 - Strategy & Ops",
+   "location": "Hyderabad, Telangana, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4490854706",
+   "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-%E2%80%93-ceo%E2%80%99s-office-at-green-gold-animation-pvt-ltd-4490854706",
+   "apply_url": "https://in.linkedin.com/jobs/view/chief-of-staff-%E2%80%93-ceo%E2%80%99s-office-at-green-gold-animation-pvt-ltd-4490854706",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/chief-of-staff-%E2%80%93-ceo%E2%80%99s-office-at-green-gold-animation-pvt-ltd-4490854706",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "Role: Chief of Staff - CEO Office\n Location: Mumbai / Hyderabad\n We are looking for a dynamic and highly motivated professional to work closely with the CEO as Chief of Staff. This is a high-visibility role at the center of the CEO’s office, supporting fundraising initiatives, strategy-related presentations, business planning, investor interactions and key strategic projects. The role is ideal for someone early in their career who is sharp, analytical, execution-oriented and comfortable working directly with senior stakeholders in a fast-paced environment.\n Responsibilities \n Support the CEO across all fundraising activities, including preparation of investor decks, financial exhibits, data room materials, investor updates and diligence responses.\n Assist in developing strategy presentations for the board, investors, lenders, partners and internal leadership discussions.\n Build and refine business plans, operating models, forecasts, budgets and scenario analyses to support strategic and fundraising decisions.\n Prepare high-quality research, market analysis, competitive benchmarking and business case memos for CEO review.\n Support investor and stakeholder interactions by preparing meeting briefs, discussion materials, follow-up notes and action trackers.\n Translate raw data, inputs and CEO direction into clear, decision-ready presentations and concise written summaries.\n Track key business KPIs, monitor performance against plan and highlight risks, gaps and follow-up actions\n Take ownership of special projects and ad hoc analysis for the CEO.\n Qualifications \n 3–5 years of experience in investment banking, management consulting, CEO’s office, strategy, corporate finance, business planning, investor relations or a high-growth startup environment.\n Strong financial and business acumen, with the ability to understand business drivers, unit economics, cash flows and fundraising requirements.\n Excellent PowerPoint skills, with the ability to create crisp, well-structured, senior-level presentations.\n Strong Excel and financial modelling skills, including budgets, projections, scenario analysis and business plans.\n Excellent written and verbal communication skills, with comfort supporting investor and senior stakeholder interactions.\n High energy, strong ownership mindset and comfortable with ambiguity, fast turnarounds and multiple priorities in a founder / CEO-led environment.\n What Success Looks Like \n Fundraising and investor materials are sharp, accurate, well-structured and ready for CEO use with minimal rework.\n Onboarding an investor with required investment.\n Business plans and financial models are reliable, logically built and useful for strategic decision-making.\n The CEO has clear, concise and timely materials for board, investor, lender and strategic discussions.\n Ad hoc requests are handled quickly, thoughtfully and with strong judgment on what matters most.",
+   "exp_min": 3.0,
+   "exp_max": 5.0,
+   "exp_text": "Seniority level Director Employment type Full-time Industries Entertainment Providers",
+   "stretch": true,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 63,
+    "research": null,
+    "total": 63,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Stretch: asks 3+ years (+4)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 63"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1702",
+   "legacy_id": null,
+   "key": "bplmedical|ceo s office|bengaluru",
+   "type": "job",
+   "company": "BPL Medical Technologies",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/bplmedtech",
+   "company_note": "",
+   "title": "CEO's Office",
+   "tier": "1 - Strategy & Ops",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491812018",
+   "source_url": "https://in.linkedin.com/jobs/view/ceo-s-office-at-bpl-medical-technologies-4491812018",
+   "apply_url": "https://in.linkedin.com/jobs/view/ceo-s-office-at-bpl-medical-technologies-4491812018",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/ceo-s-office-at-bpl-medical-technologies-4491812018",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "Business Analyst – CEO Office \n About the Company \n BPL Medical Technologies is a leading Indian medical technology company committed to advancing healthcare through innovative, reliable, and accessible solutions. With a strong legacy and nationwide presence, BPL serves hospitals, clinics, and healthcare providers across India and select international markets.\n The company offers a diverse portfolio across patient monitoring, imaging, and critical care, supported by robust manufacturing, service, and distribution capabilities. With a growing installed base and a focus on quality and customer trust, BPL continues to strengthen its position as a trusted partner in healthcare delivery.\n Driven by innovation and operational excellence, BPL is focused on building future-ready capabilities and delivering long-term value to customers, partners, and stakeholders.\n Get to know about us - https://www.bplmedicaltechnologies.com/ \n Role Summary \n This is a high-impact role that combines business analysis, strategic planning, performance monitoring and executive support. The individual will work closely with the CEO and senior leadership team to analyse business performance, identify opportunities for improvement, track strategic priorities and drive execution across functions.\n The role requires someone who can go beyond preparing reports and dashboards – someone who can interpret data, generate meaningful insights, connect the dots across the business and translate findings into actionable recommendations.\n The individual will also support the CEO in managing key priorities, coordinating cross-functional initiatives, preparing leadership presentations and driving special projects.\n Key Responsibilities \n 1. Business Analysis & Performance Management \n Analyse business performance across key functions, including Sales, Service, Manufacturing, Finance, Supply Chain and other business units.\n Develop and maintain business dashboards, MIS reports and performance trackers to monitor key business metrics and KPIs.\n Identify trends, performance gaps, risks and opportunities through data analysis and provide actionable insights to management.\n Conduct variance analysis against budgets, forecasts and business plans.\n Support financial and operational analysis, including revenue, profitability, cost structures and productivity.\n Develop business models, forecasts and scenario analyses to support management decisions.\n 2. CEO Office & Strategic Initiatives \n Work closely with the CEO in translating strategic priorities into actionable plans, milestones and measurable outcomes.\n Track key business initiatives and ensure timely follow-through on decisions taken during leadership meetings.\n Coordinate with functional heads to monitor progress, identify bottlenecks and drive accountability.\n Prepare periodic business reviews, management updates and strategic presentations for the CEO and leadership team.\n Support the CEO in evaluating new business opportunities, partners…",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Medical Equipment Manufacturing",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 78,
+    "research": null,
+    "total": 78,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 78"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1703",
+   "legacy_id": null,
+   "key": "zinier|associate member founder s office|bengaluru",
+   "type": "job",
+   "company": "Zinier",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/zinier-inc",
+   "company_note": "",
+   "title": "Associate / Member - Founder's Office",
+   "tier": "1 - Strategy & Ops",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491496205",
+   "source_url": "https://in.linkedin.com/jobs/view/associate-member-founder-s-office-at-zinier-4491496205",
+   "apply_url": "https://in.linkedin.com/jobs/view/associate-member-founder-s-office-at-zinier-4491496205",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/associate-member-founder-s-office-at-zinier-4491496205",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "About Zinier\n 80% of the workers across the globe are Deskless. These are the people who keep our lights on and gas flowing, build roads and bridges, run our manufacturing factories, ensure that we get healthcare service, and provide us with reliable phone and internet connectivity. As entrepreneurs, have we considered solving their problems and making them more productive?\nZinier is a company on a mission to empower frontline workers - and the people supporting them - to achieve greater things for themselves and the world around them. With the majority of workers worldwide being deskless, Zinier recognizes the need for Technology Equity to improve the lives and productivity of these workers who keep the world up and running.\nWe have global team headquartered in Silicon Valley, with a hybrid workforce across the United States, Canada, Europe, Latin America, Singapore, and Bangalore, India, with leading investors that include Accel, ICONIQ Capital, Founders Fund, Newfund Capital, NGP Capital, Tiger Global Management, and Qualcomm Ventures LLC.\n What We Are Looking For\n Zinier is searching for a deeply technical, execution-obsessed Product Lead to shape our data and AI strategy. You'll own the roadmap for how Zinier captures, structures, and activates data to power agentic, AI-driven field service products — and you'll be equally comfortable writing epics and stories with engineering as you are challenging architecture decisions on data pipelines and LLM interfaces.\nThis is a hands-on, technical PM role. You'll define what data is needed and translate it into clear requirements for the teams building our solutions, own the lifecycle of data and AI initiatives from intent recognition through execution, and partner across Platform, Data Platform, Product Engineering, Design, Security, and Legal to build a scalable, compliant, and highly intuitive solutions.\n What The Role Offers\n Shape the data & AI strategy: Define and execute the roadmap — plan, execute, self-correct, and learn.\n Treat data as the fuel: Define what data is needed and translate that into clear requirements for the teams building the solutions.\n Own projects end to end: Define, execute, measure, and iterate — owning the full lifecycle from initial intent recognition and planning frameworks through execution and coordination.\n Lead cross-functionally: Partner with cross functional teams like Platform , Data Platform, Product Engineering, Product Designers, Security, and Legal to build a scalable, compliant, and highly intuitive solutions.\n Write epics and stories: Translate strategy into engineering-ready epics and stories, working in Scrum with clear acceptance criteria.\n Define and own data products: Set up and define data products, including data warehouse and data lake requirements.\n Drive analytics maturity: Define how usage and outcomes are captured and analyzed, including analytics for LLM/agent interfaces.\n Must-have\n What you'll bring to the role\n Strong B2B experience.\n Pro…",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Software Development",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 78,
+    "research": null,
+    "total": 78,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 78"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1704",
+   "legacy_id": null,
+   "key": "isomorphai|founding product manager finance platform|bengaluru",
+   "type": "job",
+   "company": "Isomorph AI",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/isomorph-ai",
+   "company_note": "",
+   "title": "Founding Product Manager - Finance Platform",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491472624",
+   "source_url": "https://in.linkedin.com/jobs/view/founding-product-manager-finance-platform-at-isomorph-ai-4491472624",
+   "apply_url": "https://in.linkedin.com/jobs/view/founding-product-manager-finance-platform-at-isomorph-ai-4491472624",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/founding-product-manager-finance-platform-at-isomorph-ai-4491472624",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "Give every finance team AI agents that do their most painful work for them.\n The role\n Finance teams carry some of the most manual, high-stakes work in any company, and spreadsheets and ERPs never solved it. They are already among the heaviest builders on Isomorph. Now we are building a finance platform on top of it: ready-made apps and agents, finance-specific experiences and the integrations that make finance problems easy to solve from day one.\nYou will own it from zero: what we build, who it is for, and how it wins. It is a rare chance to build a product line at the intersection of AI and finance, inside a platform that is already being used.\n What You’ll Own\n The finance product strategy: which problems we solve first, for whom, and why.\n Ready-made finance agents and apps that teams adopt in days and extend with their own AI.\n The integrations finance teams need most.\n The trust a CFO and an auditor need before they rely on it.\n Taking it to market with our sales team and partners.\n What You’ll Get To Build Next\n Build the finance know-how that, over time, becomes finance-specific AI of our own.\n Build toward finance operations that largely run themselves, with people focused on judgment.\n You’ll thrive here if\n You have built finance or fintech products, or worked in finance and moved into product.\n You know how finance teams really work, from the close to the audit.\n You are excited about AI agents and realistic about where people stay in the loop.\n You are as comfortable with a CFO as with an engineer.\n Why Isomorph\n For fifty years, software inside a company has been written by a small group of engineers, for everyone else. That is ending. With AI, the people who know the work best (the finance analyst, the ops lead, the recruiter, the support manager) can now build the software they need themselves. Most of them have never written a line of code.\nThis is one of the biggest shifts in how companies work, and it has a missing piece. The software these people build is useful, and very often unsafe: no sign-in, sensitive data exposed, nobody to run it, and invisible to IT. Multiply that across a large company and you get thousands of apps and agents that nobody governs.\n Isomorph is the foundation that software runs on. Bring an app or agent built with any AI tool, and Isomorph runs it on the company’s own cloud: secured, connected to company data and systems, monitored and kept healthy. Builders never think about infrastructure. IT stays in control of everything.\nWe believe every company will become AI-native one workflow at a time, built by its own people. Isomorph is where that software will live.\n The team. You will join a small, high-talent-density founding team from IIT Madras and IIT Delhi. The founders are second-time founders who have built companies before and sold one.\n Why you’ll love it here\n You’ll be early. You will be one of the first people on the team, with real ownership and a real say in what Isomorph becomes.\n You’ll w…",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Software Development",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1705",
+   "legacy_id": null,
+   "key": "futureuniversity|entrepreneur in residence|india",
+   "type": "job",
+   "company": "The Future University",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/thefutureuniversity",
+   "company_note": "",
+   "title": "Entrepreneur in Residence",
+   "tier": "1 - Strategy & Ops",
+   "location": "Chandigarh, Chandigarh, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491803348",
+   "source_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-the-future-university-4491803348",
+   "apply_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-the-future-university-4491803348",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-the-future-university-4491803348",
+     "seen": "2026-11-18"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-the-future-university-4491804260",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "Key Responsibilities\n Strategic Partner: Collaborate with creators to design and refine bootcamps, driving innovative content strategies and growing their impact.\n Full P&L Ownership: Lead sales and marketing execution for the bootcamps, ensuring their financial and operational success.\n Bootcamp Strategy: Shape positioning, pricing, format, and target audience to maximize impact for both creators and students.\n Cross-Team Collaboration: Work with marketing, operations, and account management teams to ensure seamless execution and timely delivery of key milestones.\n Continuous Improvement: Measure effectiveness through surveys and feedback loops, ensuring bootcamps consistently exceed expectations in quality and relevance.\n Community Engagement: Foster vibrant engagement within the bootcamp community to maximize participant satisfaction and retention.\n Data-Driven Growth: Analyze engagement metrics and sentiment to improve course quality and business outcomes.\n Creator Relationships: Build strong, lasting partnerships with creators, fostering loyalty and mutual growth.\n What We’re Looking For\n A \"get things done\" attitude and a natural bias for action.\n A mindset of extreme ownership, with the ability to thrive in entrepreneurial and ambiguous environments.\n Exceptional communication and presentation skills.\n The agility to adapt and excel in ever-changing roles and contexts.\n Skills: ownership,analytics,communication,entrepreneurial mindset,data,business strategy,community engagement",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Associate Employment type Full-time Industries E-learning",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1706",
+   "legacy_id": null,
+   "key": "materialdepot|program manager|bengaluru",
+   "type": "job",
+   "company": "Material Depot",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/materialdepot",
+   "company_note": "",
+   "title": "Program manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491498598",
+   "source_url": "https://in.linkedin.com/jobs/view/program-manager-at-material-depot-4491498598",
+   "apply_url": "https://in.linkedin.com/jobs/view/program-manager-at-material-depot-4491498598",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/program-manager-at-material-depot-4491498598",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "Program Manager – Retail \n What you'll do \n Retail excellence & governance \n - Define, document and roll out SOPs for every customer-facing process, from walk-in to order to follow-up. \n - Run the operating cadence: daily performance tracking, weekly reviews with centre leadership and monthly business reviews. \n - Run compliance audits and service-standard checks across centres, and drive the fixes to closure. \n - Track issues and actions from every review, with owners and deadlines, until they are resolved. \n Performance management \n - Build and own the retail KPI framework (revenue, footfall, conversion, order value, productivity) and the dashboards leadership uses to run the business. \n - Produce the weekly and monthly business review packs: what moved, why it moved and what to do next. \n - Track profitability for each centre (gross margin, operating costs, contribution) and build turnaround plans for centres that are underperforming. \n Planning & incentives \n - Run annual, quarterly and monthly target setting with leadership, broken down to each centre and each salesperson. \n - Design sales incentive schemes that reward the right behaviours, model what they will cost, and own the monthly payout process with Finance and HR. \n Customer experience \n - Own customer experience metrics (NPS, feedback, complaints). Find the root causes and fix them at the process level. \n - Drive CRM adoption and data discipline so every lead gets a timely, high-quality follow-up. \n Strategic initiatives \n - Find, pilot and scale initiatives that improve conversion, productivity or customer experience. \n - Lead retail-tech projects (CRM enhancements, call tracking, AI-led conversation insights, in-store analytics) through business case, vendor selection, pilot, rollout and adoption. \n - Work with category, marketing and supply chain teams on high-margin category growth, footfall programs and clearing blockers on the floor. \n Who you are \n - 2–4 years in program management, retail operations or business ops, ideally in multi-location retail, omnichannel or consumer businesses. \n - You use AI tools to automate reporting, analyse data and build trackers and workflows. You get leverage from AI, not just help writing emails. \n - Comfortable with data: spreadsheets and dashboards are second nature. SQL is a plus. \n - You handle stakeholders across centre teams, leadership and central functions, and you are as comfortable on the shop floor as in a review meeting. \n - Structured problem-solver with a strong bias to action and follow-through. \n Location: Bengaluru. Travel to Experience Centres expected.",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Entry level Employment type Full-time Industries Retail",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1707",
+   "legacy_id": null,
+   "key": "carapace|business operations associate|india",
+   "type": "job",
+   "company": "Carapace",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/genpack-corp",
+   "company_note": "",
+   "title": "Business Operations Associate",
+   "tier": "1 - Strategy & Ops",
+   "location": "Kolkata metropolitan area, West Bengal, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4490871464",
+   "source_url": "https://in.linkedin.com/jobs/view/business-operations-associate-at-carapace-4490871464",
+   "apply_url": "https://in.linkedin.com/jobs/view/business-operations-associate-at-carapace-4490871464",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/business-operations-associate-at-carapace-4490871464",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "Business Operations & Growth Associate \n Company: Carapace (formerly Genpack)\n Location: Kolkata, West Bengal (On-site)\n Experience: 0–2 Years | Fresh Graduates Welcome\n Employment Type: Full-time\n About the Role \n Carapace is seeking ambitious, intellectually curious, and commercially astute individuals to contribute to its next phase of growth.\n This dynamic, cross-functional opportunity offers direct exposure to the commercial, financial, and operational dimensions of a growing enterprise, with the scope to shape decisions, lead initiatives, and deliver meaningful business impact.\n Key Responsibilities \n 1. Client & Account Management \n Build enduring client partnerships and oversee key accounts.\n Strengthen customer retention, engagement, and lifetime value.\n 2. Finance & Commercial Management \n Analyse costs, optimise pricing structures, and evaluate margins.\n Support budgeting, forecasting, and financial performance analysis.\n 3. Data Analytics & Business Intelligence \n Develop dashboards and interpret key business metrics.\n Deliver actionable insights through MIS reporting and performance analysis.\n 4. Strategy & Business Operations \n Improve operational efficiency and streamline business processes.\n Coordinate cross-functional projects and support strategic planning.\n 5. Business Development \n Identify high-potential prospects and assess market opportunities.\n Contribute to business expansion and revenue growth initiatives.\n 6. Technology & Innovation \n Implement AI-enabled solutions, digital tools, and automation.\n Modernise workflows and improve organisational productivity.\n Key Skills & Competencies \n Financial Modelling, Strategic Planning, Commercial Acumen, Data Visualisation, Business Intelligence, Market Research, Competitive Analysis, Commercial Negotiation, Project Management, Process Optimisation, Stakeholder Management, Critical Thinking, and Executive Communication.\n Technical Proficiency: Advanced Microsoft Excel, Google Workspace, Power BI, SQL, Salesforce, Mixpanel, Tally Prime, and AI Automation Tools.\n Ideal Candidate \n We welcome high-potential graduates in Commerce, Business, Economics, Finance, or related disciplines with strong quantitative aptitude, articulate communication, sound business judgment, and an entrepreneurial outlook.\n Beyond academic credentials, we seek individuals distinguished by initiative, intellectual agility, accountability, and the confidence to navigate ambiguity, challenge assumptions, and execute with conviction. \n Why Carapace? \n Gain first-hand experience across core business functions.\n Work on commercially significant business initiatives.\n Develop a strong foundation in strategy, finance, analytics, and operations.\n Take ownership of meaningful responsibilities with opportunities for accelerated professional development and future leadership growth.\n If you're eager to think beyond conventional roles, embrace meaningful responsibility, and help shape the future of a growing business, w…",
+   "exp_min": 0.0,
+   "exp_max": 2.0,
+   "exp_text": "Seniority level Entry level Employment type Full-time Industries Packaging and Containers Manufacturing",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 74,
+    "research": null,
+    "total": 74,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience fits: asks 0+ years (+15)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 74"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1708",
+   "legacy_id": null,
+   "key": "allendigital|product manager|bengaluru",
+   "type": "job",
+   "company": "ALLEN Digital",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/weareallendigital",
+   "company_note": "",
+   "title": "Product Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491804407",
+   "source_url": "https://in.linkedin.com/jobs/view/product-manager-at-allen-digital-4491804407",
+   "apply_url": "https://in.linkedin.com/jobs/view/product-manager-at-allen-digital-4491804407",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/product-manager-at-allen-digital-4491804407",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1709",
+   "legacy_id": null,
+   "key": "pentlandbrands|manager supply planning|bengaluru",
+   "type": "job",
+   "company": "Pentland Brands",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://uk.linkedin.com/company/pentland-brands",
+   "company_note": "",
+   "title": "Manager - Supply Planning",
+   "tier": "1 - Strategy & Ops",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491808184",
+   "source_url": "https://in.linkedin.com/jobs/view/manager-supply-planning-at-pentland-brands-4491808184",
+   "apply_url": "https://in.linkedin.com/jobs/view/manager-supply-planning-at-pentland-brands-4491808184",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/manager-supply-planning-at-pentland-brands-4491808184",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 78,
+    "research": null,
+    "total": 78,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 78"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1710",
+   "legacy_id": null,
+   "key": "samsungsemiconductor|soc program manager semicon only|bengaluru",
+   "type": "job",
+   "company": "Samsung Semiconductor",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/samsungsemiconductor",
+   "company_note": "",
+   "title": "SOC Program Manager - Semicon Only",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4490843177",
+   "source_url": "https://in.linkedin.com/jobs/view/soc-program-manager-semicon-only-at-samsung-semiconductor-4490843177",
+   "apply_url": "https://in.linkedin.com/jobs/view/soc-program-manager-semicon-only-at-samsung-semiconductor-4490843177",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/soc-program-manager-semicon-only-at-samsung-semiconductor-4490843177",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1711",
+   "legacy_id": null,
+   "key": "cornerstoneondemand|technical program manager|india",
+   "type": "job",
+   "company": "Cornerstone OnDemand",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/cornerstoneondemand",
+   "company_note": "",
+   "title": "Technical Program Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Pune Division, Maharashtra, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4462818232",
+   "source_url": "https://in.linkedin.com/jobs/view/technical-program-manager-at-cornerstone-ondemand-4462818232",
+   "apply_url": "https://in.linkedin.com/jobs/view/technical-program-manager-at-cornerstone-ondemand-4462818232",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/technical-program-manager-at-cornerstone-ondemand-4462818232",
+     "seen": "2026-11-18"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/technical-program-manager-at-cornerstone-ondemand-4462819188",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 54,
+    "research": null,
+    "total": 54,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 54"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1712",
+   "legacy_id": null,
+   "key": "sanas|revenue operations specialist crm and deal operations|bengaluru",
+   "type": "job",
+   "company": "Sanas",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/sanastech",
+   "company_note": "",
+   "title": "Revenue Operations Specialist, CRM & Deal Operations",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491494876",
+   "source_url": "https://in.linkedin.com/jobs/view/revenue-operations-specialist-crm-deal-operations-at-sanas-4491494876",
+   "apply_url": "https://in.linkedin.com/jobs/view/revenue-operations-specialist-crm-deal-operations-at-sanas-4491494876",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/revenue-operations-specialist-crm-deal-operations-at-sanas-4491494876",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1713",
+   "legacy_id": null,
+   "key": "servicenow|solution sales operations manager|bengaluru",
+   "type": "job",
+   "company": "ServiceNow",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/servicenow",
+   "company_note": "",
+   "title": "Solution Sales Operations Manager.",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491739936",
+   "source_url": "https://in.linkedin.com/jobs/view/solution-sales-operations-manager-at-servicenow-4491739936",
+   "apply_url": "https://in.linkedin.com/jobs/view/solution-sales-operations-manager-at-servicenow-4491739936",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/solution-sales-operations-manager-at-servicenow-4491739936",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1714",
+   "legacy_id": null,
+   "key": "coindcx|growth manager|bengaluru",
+   "type": "job",
+   "company": "CoinDCX",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/coindcx",
+   "company_note": "",
+   "title": "Growth Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491810218",
+   "source_url": "https://in.linkedin.com/jobs/view/growth-manager-at-coindcx-4491810218",
+   "apply_url": "https://in.linkedin.com/jobs/view/growth-manager-at-coindcx-4491810218",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/growth-manager-at-coindcx-4491810218",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1715",
+   "legacy_id": null,
+   "key": "hellyandchillyfoods|franchise business and operations manager|india",
+   "type": "job",
+   "company": "Helly and chilly foods private limited",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Franchise business & operations manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Ahmedabad, Gujarat, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4490856967",
+   "source_url": "https://in.linkedin.com/jobs/view/franchise-business-operations-manager-4490856967",
+   "apply_url": "https://in.linkedin.com/jobs/view/franchise-business-operations-manager-4490856967",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/franchise-business-operations-manager-4490856967",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 54,
+    "research": null,
+    "total": 54,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 54"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1716",
+   "legacy_id": null,
+   "key": "wipro|delivery operations manager l2|india",
+   "type": "job",
+   "company": "Wipro",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/wipro",
+   "company_note": "",
+   "title": "DELIVERY OPERATIONS MANAGER L2",
+   "tier": "2 - Product / Program / BD",
+   "location": "Ahmedabad, Gujarat, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4489922612",
+   "source_url": "https://in.linkedin.com/jobs/view/delivery-operations-manager-l2-at-wipro-4489922612",
+   "apply_url": "https://in.linkedin.com/jobs/view/delivery-operations-manager-l2-at-wipro-4489922612",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/delivery-operations-manager-l2-at-wipro-4489922612",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 54,
+    "research": null,
+    "total": 54,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 54"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1717",
+   "legacy_id": null,
+   "key": "integraventures|business development manager|bengaluru",
+   "type": "job",
+   "company": "Integra Ventures",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/integra-ventures---streamlining-healthcare",
+   "company_note": "",
+   "title": "Business Development Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491491674",
+   "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-integra-ventures-4491491674",
+   "apply_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-integra-ventures-4491491674",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/business-development-manager-at-integra-ventures-4491491674",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1718",
+   "legacy_id": null,
+   "key": "stagelevatorsuae|senior business development manager|bengaluru",
+   "type": "job",
+   "company": "Stag Elevators | INDIA | UAE",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/stag-elevators",
+   "company_note": "",
+   "title": "Senior Business Development Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491824194",
+   "source_url": "https://in.linkedin.com/jobs/view/senior-business-development-manager-at-stag-elevators-india-uae-4491824194",
+   "apply_url": "https://in.linkedin.com/jobs/view/senior-business-development-manager-at-stag-elevators-india-uae-4491824194",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/senior-business-development-manager-at-stag-elevators-india-uae-4491824194",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": true,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 60,
+    "research": null,
+    "total": 60,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Senior-sounding title, seniority unconfirmed (-6)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 60"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1719",
+   "legacy_id": null,
+   "key": "cizarhygienecare|territory manager business development manager|india",
+   "type": "job",
+   "company": "Cizar Hygiene Care Pvt. Ltd.",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/cizarhygienecare2017",
+   "company_note": "",
+   "title": "Territory Manager, Business Development Manager (BDM)",
+   "tier": "2 - Product / Program / BD",
+   "location": "Mumbai, Maharashtra, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491800746",
+   "source_url": "https://in.linkedin.com/jobs/view/territory-manager-business-development-manager-bdm-at-cizar-hygiene-care-pvt-ltd-4491800746",
+   "apply_url": "https://in.linkedin.com/jobs/view/territory-manager-business-development-manager-bdm-at-cizar-hygiene-care-pvt-ltd-4491800746",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/territory-manager-business-development-manager-bdm-at-cizar-hygiene-care-pvt-ltd-4491800746",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 54,
+    "research": null,
+    "total": 54,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 54"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1720",
+   "legacy_id": null,
+   "key": "mingrowtm|business development manager|india",
+   "type": "job",
+   "company": "Mingrow™",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/mingrow",
+   "company_note": "",
+   "title": "Business Development Manager (BDM)",
+   "tier": "2 - Product / Program / BD",
+   "location": "Lucknow, Uttar Pradesh, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491498336",
+   "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-bdm-at-mingrow%E2%84%A2-4491498336",
+   "apply_url": "https://in.linkedin.com/jobs/view/business-development-manager-bdm-at-mingrow%E2%84%A2-4491498336",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/business-development-manager-bdm-at-mingrow%E2%84%A2-4491498336",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 54,
+    "research": null,
+    "total": 54,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 54"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1721",
+   "legacy_id": null,
+   "key": "arigohr|business development manager fmcg|india",
+   "type": "job",
+   "company": "Arigo HR Solutions",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/arigo-hr-solutions",
+   "company_note": "",
+   "title": "Business Development Manager-FMCG",
+   "tier": "2 - Product / Program / BD",
+   "location": "Mumbai, Maharashtra, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4490312232",
+   "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-fmcg-at-arigo-hr-solutions-4490312232",
+   "apply_url": "https://in.linkedin.com/jobs/view/business-development-manager-fmcg-at-arigo-hr-solutions-4490312232",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/business-development-manager-fmcg-at-arigo-hr-solutions-4490312232",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 54,
+    "research": null,
+    "total": 54,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 54"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1722",
+   "legacy_id": null,
+   "key": "optimum|chief of staff|india",
+   "type": "job",
+   "company": "Optimum Solutions",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Chief of Staff",
+   "tier": "1 - Strategy & Ops",
+   "location": "Chennai",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "478133",
+   "source_url": "https://www.instahyre.com/job-478133-chief-of-staff-at-optimum-solutions-chennai/",
+   "apply_url": "https://www.instahyre.com/job-478133-chief-of-staff-at-optimum-solutions-chennai/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-478133-chief-of-staff-at-optimum-solutions-chennai/",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "Empowering business with technology Banking, Business Manager, Chief of Staff, Financial Services, Management Consulting, Strategy",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 61,
+    "research": null,
+    "total": 61,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 61"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1723",
+   "legacy_id": null,
+   "key": "microsoft|category manager network cabling|india",
+   "type": "job",
+   "company": "Microsoft",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Category Manager - Network Cabling",
+   "tier": "2 - Product / Program / BD",
+   "location": "Hyderabad",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "477925",
+   "source_url": "https://www.instahyre.com/job-477925-category-manager-network-cabling-at-microsoft-2-hyderabad/",
+   "apply_url": "https://www.instahyre.com/job-477925-category-manager-network-cabling-at-microsoft-2-hyderabad/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-477925-category-manager-network-cabling-at-microsoft-2-hyderabad/",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "We empower the world Cabling, Contract Management, Data Center, Network Cabling, Procurement, Sourcing, Structured Cabling, Telecommunications, Vendor Management",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 49,
+    "research": null,
+    "total": 49,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 49"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
+  },
+  {
+   "id": "L1724",
+   "legacy_id": null,
+   "key": "shell|business analyst|bengaluru",
+   "type": "job",
+   "company": "Shell",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Business Analyst",
+   "tier": "3 - APM / Analyst",
+   "location": "Bangalore",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "477164",
+   "source_url": "https://www.instahyre.com/job-477164-business-analyst-at-shell-bangalore/",
+   "apply_url": "https://www.instahyre.com/job-477164-business-analyst-at-shell-bangalore/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-477164-business-analyst-at-shell-bangalore/",
+     "seen": "2026-11-18"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "open": true,
+   "jd": "Powering progress BI, Business Intelligence, Power BI, SQL, Tableau",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 51,
+    "research": null,
+    "total": 51,
+    "reasons": [
+     "3 - APM / Analyst role (+18)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-18T14:43:01+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 51"
+    }
+   ],
+   "updated_at": "2026-11-18T14:43:01+05:30"
   }
  ]
 }

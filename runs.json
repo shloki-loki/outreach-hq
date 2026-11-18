@@ -1768,6 +1768,18 @@
     "alerts": 3,
     "open_work": 63
    }
+  },
+  {
+   "at": "2026-11-18T13:05:39+05:30",
+   "agent": "live-check",
+   "ok": true,
+   "summary": "1662 postings checked: 572 live, 38 moved to the Bin, 1052 could not be checked",
+   "stats": {
+    "checked": 1662,
+    "live": 572,
+    "binned": 38,
+    "unknown": 1052
+   }
   }
  ]
 }

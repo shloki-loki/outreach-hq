@@ -2501,6 +2501,15 @@
    "title": "Run failed",
    "detail": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
    "ref": ""
+  },
+  {
+   "id": "J0279",
+   "at": "2026-11-18T13:05:39+05:30",
+   "by": "live-check",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "1662 postings checked: 572 live, 38 moved to the Bin, 1052 could not be checked",
+   "ref": ""
   }
  ]
 }

@@ -2807,6 +2807,15 @@
    "title": "Daily review 2026-11-18",
    "detail": "Ran today: lead-scout/scrape, lead-scout, research-worker, people-finder, writer, send-track, follow-up, track, digest, live-check, founder-emails; all ok. Not run: supervisor/check failed 17:19 (expired claims W0006-W0008, I0014). Problems: 12 open issues. New I0022 (GitHub unreachable during this run, diagnosed). Diagnosed today: I0020 (no verified addresses, verifier quota out), I0021 (scoring over-ranks title when seniority missing). Older still open: I0005, I0010, I0011, I0012, I0014, I0015, I0016, I0018, I0019. Changes to system: none by me. Funnel: 1724 leads, 335 researched, 90 qualified, 12 emails sent, 4 applied, 1 replied, 1 interview, 0 offers. Reply rate 8.3%, bounce rate 0%. Verifier credits: Reoon daily quota exhausted, no Hunter key; metrics snapshot not stored (sync failure). Needs Shlok: approve/edit/skip drafts M0016-M0024; fill the Google Form applications by hand; rotate Reoon key / add Hunter key.",
    "ref": ""
+  },
+  {
+   "id": "J0313",
+   "at": "2026-11-18T21:15:34+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "12 open issues (1 new I0022), 0 fixed, reply rate 8.3%, bounce rate 0%",
+   "ref": ""
   }
  ]
 }

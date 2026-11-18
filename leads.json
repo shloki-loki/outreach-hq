@@ -193209,15 +193209,15 @@
    "key": "officeworksgcc|buying operations manager|bengaluru",
    "type": "job",
    "company": "Officeworks GCC India",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "officeworks.com.au",
+   "company_url": "https://www.officeworks.com.au",
    "company_linkedin": "https://www.linkedin.com/company/officeworks-gcc-india",
    "company_note": "",
    "title": "Buying Operations Manager [T500-30812]",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491140058",
    "source_url": "https://in.linkedin.com/jobs/view/buying-operations-manager-t500-30812-at-officeworks-gcc-india-4491140058",
@@ -193233,7 +193233,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "About Officeworks: \n Officeworks’ purpose is “ we bring big ideas to life at low prices”. It’s how we create shared value for customers, team members, suppliers, communities and shareholders.\n We are Australia’s leading omnichannel retailer of complete technology solutions, stationery, furniture, art supplies, and learning resources. We also offer services including Print & Create, and Geeks2U.\n Our products and services provide solutions to our diverse range of customers across Australia from households, students, small to large sized businesses, governments and schools.\n Our culture is built on beginning with customer, doing the right thing, executing with accountability, and leading with ambition. We are one team who are proud to “wear the blues” and deliver for our customers. \n We are an inclusive, forward-thinking organization where diverse perspectives enable innovation, continuous improvement and better outcomes for our customers and teams. The work we do plays an important role in helping Australians work, learn, create and connect.\n The role: \n Title : Buying Operations Manager\n Function : Commercial\n Location : Bengaluru\n About the Commercial Function: \n The Commercial team sits at the heart of Officeworks’ growth agenda. This function brings together customer needs, product innovation, services, supplier partnerships, merchandise planning, and channel growth to shape what Officeworks sells, how it competes, and the value it delivers across Retail, B2B, Government, and Education. This is a unique opportunity to contribute to one of the business’s most commercially impactful areas. \n The team plays a key role in evolving Officeworks’ product and service offering, accelerating growth in high-potential channels (such as B2B and Education), expanding private label and exclusive ranges, strengthening supplier partnerships, and unlocking emerging category opportunities across areas like technology, gaming, mobility, VR, print, installation, telco, and managed services. \n You will help build commercial capability from the ground up, shaping scalable ways of working, strengthening planning and decision-making, and driving outcomes that impact sales, margin, customer experience, inventory performance, and long-term growth. \n These roles are best suited for people who enjoy: \n thriving in a growth-focused retail environment where commercial decisions directly influence customers, sales, margin, and competitiveness\n contributing to key growth areas, including B2B, Education, Government, private label, exclusive products, and emerging categories using insights (customer, competitor, category, supplier, financial, inventory) to identify opportunities and inform decisions, collaborating cross-functionally to turn commercial strategy into practical outcomes\n Why this role exists: \n The Buying Operations Manger exists to ensure merchandise operations are supported trusted data, effective reporting, efficient processes and consistent category support. T",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -193248,8 +193248,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -193259,15 +193259,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Buying Operations Manager at Officeworks GCC, but asks for people management ('Leader of Leaders') which you do not have.",
+    "fit_notes": "The posting asks for a 'Buying Operations Manager' who 'leads the Category Assistant and product data writing functions' and acts as a 'Leader of Leaders'. Shlok has strong supply chain and S&OP background from Ola Electric ([sop], [ceo-coo]), but he lacks full-time team management experience. Furthermore, the role focuses on category assistant operations, data writing, and merchandising processes rather than Shlok's preferred Strategy & Operations priority.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Omnichannel retailer Officeworks in Australia/GCC India. Company culture highlights customer focus, doing the right thing, and execution with accountability.",
+    "hook": "Officeworks operates as Australia’s leading omnichannel retailer of complete technology solutions, stationery, and learning resources.",
+    "hook_source": "https://in.linkedin.com/jobs/view/buying-operations-manager-t500-30812-at-officeworks-gcc-india-4491140058",
+    "researched_at": "2026-11-18T13:36:23+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -193291,9 +193298,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T13:36:23+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The role requires managing direct reports ('Leads the Category Assistant and product data writing functions', 'Leader of Leaders'), which conflicts with Shlok's lack of full-time team management experience, and is an operations/buying role rather than Strategy & Operations.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30",
+   "updated_at": "2026-11-18T13:36:23+05:30",
    "research_attempt": {
     "at": "2026-11-17T23:26:29+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
@@ -193303,7 +193316,8 @@
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires managing direct reports ('Leads the Category Assistant and product data writing functions', 'Leader of Leaders'), which conflicts with Shlok's lack of full-time team management experience, and is an operations/buying role rather than Strategy & Operations."
   },
   {
    "id": "L1631",

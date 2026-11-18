@@ -2663,6 +2663,15 @@
    "title": "Work W0017: claim",
    "detail": "",
    "ref": "W0017"
+  },
+  {
+   "id": "J0297",
+   "at": "2026-11-18T18:39:00+05:30",
+   "by": "lead-scout",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "11 researched, 0 qualified, 11 rejected, 0 emails found; stopped early (budget not reached: remaining candidates Deloitte L1546 unverifiable via Instahyre 403); git data sync flaky mid-run; Apify unused",
+   "ref": ""
   }
  ]
 }

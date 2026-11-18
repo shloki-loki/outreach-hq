@@ -1922,6 +1922,13 @@
    "ok": true,
    "summary": "0 emails drafted, 0 referral notes, 0 application kits; 12 leads skipped: all contacts are guess/catch-all (rechecks on L0105, L1556 stayed catch-all, no lead scores 80+), L0085 CEO on do-not-email list, Google Forms need sign-in (401)",
    "stats": {}
+  },
+  {
+   "at": "2026-11-18T18:39:00+05:30",
+   "agent": "lead-scout",
+   "ok": true,
+   "summary": "11 researched, 0 qualified, 11 rejected, 0 emails found; stopped early (budget not reached: remaining candidates Deloitte L1546 unverifiable via Instahyre 403); git data sync flaky mid-run; Apify unused",
+   "stats": {}
   }
  ]
 }

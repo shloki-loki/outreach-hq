@@ -195439,7 +195439,7 @@
    "key": "iitkanpurdevelopmentfoundation|chief of staff|india",
    "type": "job",
    "company": "IIT Kanpur Development Foundation (IITK DF)",
-   "company_domain": "",
+   "company_domain": "iitk.ac.in",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/iit-kanpur-development-foundation-iitk-df",
    "company_note": "",
@@ -195447,7 +195447,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Kanpur, Uttar Pradesh, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490436805",
    "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-at-iit-kanpur-development-foundation-iitk-df-4490436805",
@@ -195478,8 +195478,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -195489,15 +195489,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff at Gangwal School of Medical Sciences, Kanpur, asks 5-7+ yrs and MBA; your experience is 1.3 yrs and you lack an MBA.",
+    "fit_notes": "The posting asks for: '5-7+ years of experience in business operations, management consulting, project management or a corporate strategy role' and 'Postgraduate degree in management, healthcare administration or a related field (MBA or equivalent preferred)'. Shlok has about 1.3 years of experience and no MBA, representing significant gaps on both criteria. Additionally, the location is Kanpur, which violates Shlok's preference for Bengaluru or remote-first.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company website or news found in web sources; part of IIT Kanpur Development Foundation.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T13:36:29+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -195521,14 +195528,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T13:36:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 35: rejected (The role asks for 5-7+ years of experience and a postgraduate degree/MBA, while Shlok has 1.3 years and no MBA. Furthermore, the location is Kanpur, which is neither Bengaluru nor remote.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:22+05:30",
+   "updated_at": "2026-11-18T13:36:29+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 5-7+ years of experience and a postgraduate degree/MBA, while Shlok has 1.3 years and no MBA. Furthermore, the location is Kanpur, which is neither Bengaluru nor remote."
   },
   {
    "id": "L1652",

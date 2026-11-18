@@ -197082,15 +197082,15 @@
    "key": "fictiv|associate strategic program manager|bengaluru",
    "type": "job",
    "company": "Fictiv",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "fictiv.com",
+   "company_url": "https://www.fictiv.com",
    "company_linkedin": "https://www.linkedin.com/company/fictiv",
    "company_note": "",
    "title": "Associate Strategic Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Greater Bengaluru Area",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4467002241",
    "source_url": "https://in.linkedin.com/jobs/view/associate-strategic-program-manager-at-fictiv-4467002241",
@@ -197106,7 +197106,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "About MISUMI Americas\n MISUMI Americas, a division of MISUMI Group, is a leading provider of standard, configurable, and custom manufacturing solutions. By integrating a vast catalog of components with a world-class digital manufacturing platform, MISUMI Americas empowers engineers and procurement teams to accelerate innovation across the entire product lifecycle. With operations in the San Francisco Bay Area and Chicago, the company serves as a vital partner for the most innovative companies in the Americas.\n This position will be based on-site in our Bangalore office, working overnight IST hours to support the US Pacific Standard Time zone.**\n Impact In This Role\n As an Associate Strategic Program Manager (SPM) at Fictiv, you will work alongside some of the world’s leading enterprises and innovative startups to help accelerate their product launches while maintaining the highest quality standards. In this role, you will closely support the Strategic Program Management team in executing complex programs, helping ensure customers’ products launch on time, within budget, and at optimal quality.\nYou will collaborate cross-functionally with Sales, Costing & DFM, Quality, and Logistics teams to keep projects on track and aligned with customer expectations. With a focus on continuous improvement, you will also contribute ideas and drive internal process improvement and enhance the overall customer experience.\n What You’ll Be Doing\n Build strong relationships with internal stakeholders and support customer-facing interactions as needed to deliver high-quality service\n Maintain accurate and up-to-date program status across multiple systems to support business decision-making processes\n Apply your knowledge of operations or manufacturing to identify process gaps, risks, and drive operational improvements\n Collaborate with cross-functional teams to enhance program efficiency and customer satisfaction\n Track and report on program milestones, supporting adjustments to timelines and deliverables to meet quality and delivery standards\n Support customer change requests and project updates on multiple platforms (external and internal)\n Ability to travel 10% annually\n Quality: All employees are expected to maintain and contribute to the QMS\n Desired Traits\n Bachelor’s degree in Mechanical, Manufacturing or Industrial Engineering\n 3+ years of manufacturing operations experience or 1-2 years of related experience \n Detail-oriented, strong organizational, program management, and time management skills, with the ability to prioritize and manage multiple tasks\n Excellent verbal and written communication skills; experience working with diverse, cross-functional teams is a plus\n Proactive self-starter with a passion for learning, continuous improvement, and driving operational success\n Experience working with global manufacturing sites, in customer-facing role is preferred\n Familiarity with ITAR and EAR regulations, particularly ECCN classifications such as 9A515, is p",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -197121,8 +197121,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -197132,15 +197132,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Strategic Program Manager at Fictiv in Bengaluru, but requires working overnight US PST hours with unknown pay.",
+    "fit_notes": "The posting asks for '3+ years of manufacturing operations experience or 1-2 years of related experience', which fits his ~1.3 years of experience. It asks for knowledge of manufacturing processes and operations, which is answered by his work in S&OP and supply chain at Ola Electric [sop, ceo-coo]. No MBA or consulting is required, but the night shift and unknown pay make it a mismatch.",
+    "pay_notes": "Pay is not stated in the posting, and no external salary evidence was found for Fictiv in India. Given his 1.3 years of experience, an unknown-pay manufacturing program management role is unlikely to reliably clear the Rs 24.5 LPA fixed bar.",
+    "culture_notes": "Company culture and ratings were not found in the search results.",
+    "hook": "This position will be based on-site in our Bangalore office, working overnight IST hours to support the US Pacific Standard Time zone.",
+    "hook_source": "https://in.linkedin.com/jobs/view/associate-strategic-program-manager-at-fictiv-4467002241",
+    "researched_at": "2026-11-18T13:37:09+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -197164,14 +197174,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T13:37:09+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires working overnight IST hours supporting US PST time zones, and the pay is not stated with no evidence to clear the Rs 24.5 LPA fixed bar.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T13:37:09+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires working overnight IST hours supporting US PST time zones, and the pay is not stated with no evidence to clear the Rs 24.5 LPA fixed bar."
   },
   {
    "id": "L1667",

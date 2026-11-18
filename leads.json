@@ -199327,7 +199327,7 @@
    "key": "happyfox|founder s office associate|bengaluru",
    "type": "job",
    "company": "HappyFox",
-   "company_domain": "",
+   "company_domain": "happyfox.com",
    "company_url": "https://happyfox.com",
    "company_linkedin": "",
    "company_note": "A global SaaS company building customer support and service management software.",
@@ -199335,7 +199335,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "hiringcafe",
    "source_id": "adhoc___happyfox___founders-office-associate-bengaluru",
    "source_url": "https://hiring.happyfox.co/jobs/founders-office-associate-bengaluru/",
@@ -199351,7 +199351,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Founder's Office Associate - Careers at HappyFox \n www.happyfox.com/jobs\n ← \n Back to Bengaluru openings \n Founder's Office Associate\n Apply\n Bengaluru \n HR \n In Person \n A front-row seat to building a business. An opportunity to make things happen.\nAre you someone who is curious about how businesses work? Do you enjoy solving problems, connecting the dots, asking questions and figuring out better ways of doing things?\n Would you rather take ownership of a problem than wait for someone to give you a checklist?\nIf that sounds like you, we'd love to meet you!\n At HappyFox, we're looking for a bright, driven and resourceful Founder's Office Associate to work closely with our leadership team. This is an opportunity to get an inside view of how a technology business operates, contribute to important business initiatives and work across multiple functions.\n You'll have the opportunity to learn, experiment, take ownership and make a tangible difference. No two days will necessarily look alike!\n What will you be doing?\n1. Work on what matters\nPartner with leadership on business priorities, special projects and strategic initiatives.\nResearch business problems, gather information, analyse data and present actionable insights.\nFollow through on important initiatives, ensuring that ideas translate into outcomes.\nHelp prepare business reviews, presentations, reports and leadership updates.\n Make People Operations better\nWork closely with the HR team on employee lifecycle processes, from onboarding to offboarding.\nSupport initiatives around employee engagement, performance management and organisational effectiveness.\nExplore ways to simplify HR processes through technology, automation and better workflows.\nHelp analyse people data and create meaningful dashboards and reports.\n Get hands-on with HR compliance\nSupport HR compliance processes, documentation and statutory records.\nHelp coordinate audits, compliance reviews and policy documentation.\nTrack regulatory requirements and ensure that important timelines and obligations are not missed.\nWork with internal teams and external partners to keep processes organised and compliant.\n Be the person who gets things done\nCoordinate cross-functional initiatives involving HR, Finance, Engineering, Sales and other teams.\nIdentify gaps, bring people together and drive closure.\nQuestion existing processes and suggest smarter, more efficient ways of working.\nTake ownership of projects from the initial idea through execution.\n Bring fresh perspectives\nResearch emerging technologies, AI tools and automation opportunities.\nExperiment with tools that can improve productivity and business processes.\nBring new ideas to the table. We value curiosity and initiative over conventional thinking.\n Who are we looking for?\nWe are more interested in how you think than the number of years on your resume.\nYou could be a fresh graduate with exceptional aptitude or someone with up to three years of experience in business operations, HR, con",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -199366,8 +199366,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 45,
+    "total": 58,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -199377,15 +199377,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office Associate at HappyFox, asks 0-3 yrs; heavy HR compliance focus which your S&OP background does not fit.",
+    "fit_notes": "The posting asks for someone with 'up to three years of experience in business operations, HR, consulting, project coordination or a similar role' and states 'Work closely with the HR team on employee lifecycle processes... Support HR compliance processes, documentation and statutory records.' Shlok has 1.3 years of experience but his facts ([msl], [o2d], [sop], [mrp], [ceo-coo], [rebalance], [cell]) are entirely in supply chain operations, S&OP, and inventory management at Ola Electric, which do not align with the heavy HR operations and compliance requirements of this specific role.",
+    "pay_notes": "Pay is not stated in the posting, and no salary evidence was found in the search results for HappyFox.",
+    "culture_notes": "HappyFox is a global SaaS company building customer support and service management software [S1]. No specific culture flags, employee ratings, or review counts were found in the research evidence.",
+    "hook": "HappyFox builds customer support and service management software like AI help desk tools to help businesses deliver exceptional customer experiences.",
+    "hook_source": "https://happyfox.com",
+    "researched_at": "2026-11-18T13:25:47+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "HappyFox website",
+      "url": "https://happyfox.com"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -199409,14 +199422,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 78"
+    },
+    {
+     "at": "2026-11-18T13:25:47+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 58: rejected (The role blends Founder's Office tasks with heavy People Operations and HR compliance work, paying unknown salary below his Rs 24.5 LPA threshold for an in-person Bengaluru role, and his background is in S&OP and core supply chain operations rather than HR workflows.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T13:25:47+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role blends Founder's Office tasks with heavy People Operations and HR compliance work, paying unknown salary below his Rs 24.5 LPA threshold for an in-person Bengaluru role, and his background is in S&OP and core supply chain operations rather than HR workflows."
   },
   {
    "id": "L1696",

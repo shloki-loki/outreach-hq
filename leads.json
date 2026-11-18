@@ -8351,15 +8351,15 @@
    "key": "stripe|finance and strategy data analyst|bengaluru",
    "type": "job",
    "company": "Stripe",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "stripe.com",
+   "company_url": "https://stripe.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Finance and Strategy Data Analyst",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "greenhouse",
    "source_id": "stripe:8364868",
    "source_url": "https://stripe.com/jobs/search?gh_jid=8364868",
@@ -8390,8 +8390,8 @@
    },
    "score": {
     "rules": 62,
-    "research": null,
-    "total": 62,
+    "research": 45,
+    "total": 52,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -8402,15 +8402,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Finance and Strategy Data Analyst at Stripe in Bengaluru, asks accounting and month-end close; your supply chain and S&OP work does not map.",
+    "fit_notes": "The posting asks for 'Experience in month end close processes', 'A strong understanding of accounting, accruals, and opex management', and 'Experience with financial analysis, financial forecasting, BvA'. Shlok's experience is in supply chain, S&OP, and inventory management ([sop], [ceo-coo], [msl]), and he lacks accounting and month-end close experience.",
+    "pay_notes": "Pay not stated in posting; no salary evidence found for this specific role.",
+    "culture_notes": "Stripe is a major financial infrastructure platform [https://stripe.com/jobs/search?gh_jid=8364868], but specific employee ratings and work culture metrics were not found in the provided evidence.",
+    "hook": "Stripe recently launched Stripe Pay to target instant B2B payments.",
+    "hook_source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHZDWWNVRDZIZllXdlhiYWh0S21ncm1xUFZHOEZPdUJvd2drTE9wUTRZVnZJQzdUTWlLb3pIdXhVUE9USzlJZzFWOG1jdEpWZUVRX1puX2xZTWVfT3prMUhyeGhySmJISi1fbkNBM2xPbjlFQVVNMEh4bXlEWjhaUlRFUmxTT0NMME0xeWxVRQ?oc=5",
+    "researched_at": "2026-11-18T23:18:18+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Production-grade AI agents for financial compliance: Lessons from Stripe | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFF0cUlscmRyQ282ZVI5REtKRFBYc1ZVS1VVLURTdmc5UU9vajdxZTZxTnVVS3NjbVhSZmhQcGMxZ0tyRVdkeE5vbU5MT2swN1d2Mk5Hb0pINE1tM1V0WGpMZFlwcjBqaUl2QmlVXzNGQUxNYm1NV1BJSTU4cGFoQnd5Y3lLbTJCS1FodTlIM0tmOFRWS1VKLWVsMEROR1RBcnQtcnBfOFdyLVZqWmJLSW80VUozejg0VUE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Single-stripe magnetic order and bilayer spin dynamics in single-crystalline La - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FQlhZbkZsSlNUVUZTRTdNXzBIZ0dTV0E1eGZLZ21QQUpXWGw0NWdLbkVsWWtRSHJJZGhvVzdrZ2lwUWNUUzRfZk9ua3Nrc2tpdWZab0x4WlotQkt3X3hV?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Stripe Pay Targets Instant B2B Payments - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHZDWWNVRDZIZllXdlhiYWh0S21ncm1xUFZHOEZPdUJvd2drTE9wUTRZVnZJQzdUTWlLb3pIdXhVUE9USzlJZzFWOG1jdEpWZUVRX1puX2xZTWVfT3prMUhyeGhySmJISi1fbkNBM2xPbjlFQVVNMEh4bXlEWjhaUlRFUmxTT0NMME0xeWxVRQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Stripe Uses Graph Search and State Machines to Automate Database Remediation - infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Od1hUcUZkMVItYnpwYWJsSzQyS3h5ZWxzYXIwdld2WW5NR3lHbVg1R0locE1tbDczVW5lMzdvMGVSUEJZTTAwZkV5WXdtWG5TUG84cERuUEhKUFFEY3JQb19pekNDblhtdktISTdTVQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Stripe to buy OpenRouter as fintech expands deeper into AI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlFodUNsWkh6b2Y2dTVORE9hWGVPUVhVMWMyQ1RuQTI2OXhYeGRzRG8ydlYzVFYyLUxPQ3lscjh0Mm43U01pcWhKanp3RE5oUWtsenh2NUlocmVDY0Z4MFFlYnhWZV92QWpSZ25MX3FDd3pfZUIwSFdQaTRZQXhfLWRfTnlsT3hzS0JJYtIBkgFBVV95cUxNQ3BuTzVGUXR4akhfSG93ZW5CMGF6SjBqOFl0S3lRc1QyeW82X3FtVEpzdmd6VEFwZjNjUDlqd1N4UmJWUk11UVRoWWppNlVQN09vakdjd013VjNheW1MVUNpWWdmd29fa2tuT1lHdkJqQW8wWXNPczFJSUZOTkU1WHRkSDM0YVJzLTY0YVdZaTdtdw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Square Vs. Stripe (2026 Comparison) - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54N25fTkFsQkxidmNUT2pRZGdLcUI2Ri1DcWl5N3E4VTY2S0UzZm5IeG93Smt2N0ptWTliRXN1YzNoUGpMcDRUb3RJbGxFb05fVEc5M1ZkejZDUVZhS0JhWVRmZTRfZTlsZURSenNZeFAyZjE5?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -8434,9 +8472,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "greenhouse: rule score 62"
+    },
+    {
+     "at": "2026-11-18T23:18:18+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The role requires hands-on accounting, month-end close processes, and financial auditing experience, which does not match Shlok's supply chain and S&OP background. Furthermore, pay is not stated.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-18T23:18:18+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
@@ -8446,7 +8490,8 @@
     "at": "2026-11-17T23:30:02+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role requires hands-on accounting, month-end close processes, and financial auditing experience, which does not match Shlok's supply chain and S&OP background. Furthermore, pay is not stated."
   },
   {
    "id": "L0065",

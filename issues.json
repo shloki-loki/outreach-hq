@@ -293,6 +293,20 @@
    "count": 1,
    "remedy": "Cause: rule scoring over-ranks by title (CEO's Office, Founder's Office, supply planning) when the JD has no seniority text, so closed, 4+ yr, wrong-city postings reach research (5 of 11 were already closed). Remedy for a coding session: add a live-check gate before research and a seniority-missing penalty in config/targeting.toml. Not changed in this scheduled run; research did its job by rejecting them, so no harm.",
    "resolved_at": null
+  },
+  {
+   "id": "I0022",
+   "key": "supervisor:Data sync and GitHub API unreachable during supervisor run 18 Nov ~19:00 IST",
+   "agent": "supervisor",
+   "severity": "warn",
+   "title": "Data sync and GitHub API unreachable during supervisor run 18 Nov ~19:00 IST",
+   "detail": "Between about 18:50 and 19:20 IST the Mac could not reach GitHub: status, metrics and issue list failed with git fetch exit 128 on first try, gh run list timed out once (dial tcp i/o timeout). metrics never succeeded this run, so today's metrics snapshot was not stored. Same fault as I0015.",
+   "status": "open",
+   "opened_at": "2026-11-18T21:12:04+05:30",
+   "last_seen": "2026-11-18T21:12:04+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

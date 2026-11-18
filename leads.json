@@ -21026,8 +21026,8 @@
     "why": ""
    },
    "research_attempt": {
-    "at": "2026-11-17T00:27:24+05:30",
-    "why": "error: Gemini unreachable: The read operation timed out",
+    "at": "2026-11-18T13:29:19+05:30",
+    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
    }
   },

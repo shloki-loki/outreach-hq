@@ -2672,6 +2672,15 @@
    "title": "Ran",
    "detail": "11 researched, 0 qualified, 11 rejected, 0 emails found; stopped early (budget not reached: remaining candidates Deloitte L1546 unverifiable via Instahyre 403); git data sync flaky mid-run; Apify unused",
    "ref": ""
+  },
+  {
+   "id": "J0298",
+   "at": "2026-11-18T18:39:04+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "Scout run: 0 qualified of 11 researched",
+   "detail": "Top rule-score leads were mostly closed, 4+ yrs, wrong city or non-fit JDs. Rule scoring appears to over-rank by title (CEO's Office/Founder's Office/supply planning) when JD seniority is missing; 5 of 11 were already closed. Also python -m outreach lead show failed once with git reset exit 128 (known intermittent data sync).",
+   "ref": "I0021"
   }
  ]
 }

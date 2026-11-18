@@ -196722,15 +196722,15 @@
    "key": "swish|category manager|bengaluru",
    "type": "job",
    "company": "Swish",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "swish.food",
+   "company_url": "https://swish.food",
    "company_linkedin": "https://in.linkedin.com/company/justswish",
    "company_note": "",
    "title": "Category Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491177168",
    "source_url": "https://in.linkedin.com/jobs/view/category-manager-at-swish-4491177168",
@@ -196746,7 +196746,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Swish is building the next generation of food delivery by owning the entire value chain—from menu design and pricing to kitchen operations and customer experience. Unlike marketplaces, we operate our own kitchens, which means category decisions directly influence demand, freshness, throughput, and profitability.\n About the Role \n As a Category Manager, you'll own the business performance of one or more food categories (e.g. Breakfast, Snacks, Beverages, Late Night). Think of yourself as the General Manager for your category: responsible for driving growth, improving margins, and creating products customers come back for.\n What You'll Own \n Business Performance : Own your category P&L by driving orders, revenue, ASP, contribution margin, wastage, and SKU productivity.\n Customer Growth : Improve conversion, repeat purchase, retention, purchase frequency, and customer lifetime value within your category.\n Category Strategy : Shape assortment, pricing, promotions, and new product launches using customer insights, demand patterns, and market trends.\n Cross-functional Execution : Partner with NPD, Kitchen Operations, Pricing, Product, Analytics, and Customer Experience to execute category initiatives and deliver business outcomes.\n What You'll Do \n Build and execute quarterly category growth plans.\n Analyze customer behavior, pricing, assortment, demand, and competitive trends.\n Launch new products, optimize existing ones, and retire underperforming SKUs.\n Monitor business performance daily, identify issues early, and drive corrective actions.\n Improve forecasting, availability, throughput, and wastage through data-driven decisions.\n Run experiments across pricing, promotions, menu design, and assortment.\n Present category performance, insights, and recommendations to leadership.\n What We're Looking For \n 3–4 years of experience owning a category, business line, or P&L in consumer internet, marketplace, D2C, quick-commerce, retail, or food-tech.\n Food-tech, cloud kitchen, QSR, or grocery experience is a plus, not a requirement.\n You have owned measurable business outcomes such as revenue, orders, margin, or growth, and can clearly articulate the metric you owned, the decisions you made, the trade-offs involved, and the impact you delivered.\n You're comfortable using data to identify opportunities, solve problems, prioritize initiatives, and independently drive multiple cross-functional projects in a fast-paced environment.\n You actively use AI for forecasting, analysis, planning, documentation, workflow automation, or decision-making, and can demonstrate how it improves your effectiveness.\n What Success Looks Like \n Within your first six months, you should be able to demonstrate measurable business impact by growing orders, revenue, ASP, or contribution margin; reducing wastage through better forecasting or operational improvements; launching successful category initiatives or menu innovations; and improving customer retention or repeat purchase.\nSenio",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -196761,8 +196761,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 52,
+    "total": 58,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -196772,15 +196772,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Category Manager at quick-delivery startup Swishes, asks 3-4 yrs P&L experience; your 1.3 years are in S&OP.",
+    "fit_notes": "The posting asks for \"3–4 years of experience owning a category, business line, or P&L in consumer internet, marketplace, D2C, quick-commerce, retail, or food-tech\". Shlok's facts show strong supply chain and operations experience at Ola Electric, such as owning S&OP production planning ([sop]) and managing finished goods inventory ([ceo-coo]), but he does not have prior P&L ownership or the requested 3-4 years of category management experience.",
+    "pay_notes": "Pay is not stated in the job posting and no salary figures were found in the evidence.",
+    "culture_notes": "Swish recently raised $24 million led by Bertelsmann India Investments [S2] and is expanding operations like Swish Go [S1], but specific employee ratings or culture data were not found in the evidence.",
+    "hook": "Noticed Swish recently raised $24 Mn from Bertelsmann and is scaling its 10-minute food delivery model with initiatives like Swish Go.",
+    "hook_source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnUtei1BczhtQ0lEeUxvQ2VlLWZCQUpXOGxkQjU5eFlDbGhhaTdNdnFTTTRjN09QWkh6TThueWpMb0hLMm5Ec2RzSFVYMGhTT21TZVE5X1cxbVdPb3ptTHNFSUpGcE9nbk1aZVFha1hLZTVRYmlGbGNldzIzZXhLTFAxNmwxN3FvRGpSaGFwc19Oenh6MkpHdjZiZ1NMRnRmOEdnc3VjZ1JTczg2Rm5zYmlGdFFqVHZrOGRLTjJDWdIBvwFBVV95cUxOUnUtei1BczhtQ0lEeUxvQ2VlLWZCQUpXOGxkQjU5eFlDbGhhaTdNdnFTTTRjN09QWkh6TThueWpMb0hLMm5Ec2RzSFVYMGhTT21TZVE5X1cxbVdPb3ptTHNFSUpGcE9nbk1aZVFha1hLZTVRYmlGbGNldzIzZXhLTFAxNmwxN3FvRGpSaGFwc19Oenh6MkpHdjZiZ1NMRnRmOEdnc3VjZ1JTczg2Rm5zYmlGdFFqVHZrOGRLTjJDWQ?oc=5",
+    "researched_at": "2026-11-18T13:36:48+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Exclusive: Swish Pilots Swish Go To Take On Swiggy, Zomato - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVpuZnd3akJlYkpYeFdHamd0U0FYbGJFRjZmWmtwbnJyOXhwTXowc0FDcWpPcGhlMkxuX1VmUlowZnhmY1ZkNDVUZzhFbWt0el9tNXJ3U2MzTDlnOWQwYjdWY0Jqa0VIMl9mblloR292M1FLdUhqWGhvQ1JWWDVYUDBQa2NiWWs?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "10-minute food delivery startup Swish raises $24 Mn led by Bertelsmann India Investments - Entrackr",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnUtei1BczhtQ0lEeUxvQ2VlLWZCQUpXOGxkQjU5eFlDbGhhaTdNdnFTTTRjN09QWkh6TThueWpMb0hLMm5Ec2RzSFVYMGhTT21TZVE5X1cxbVdPb3ptTHNFSUpGcE9nbk1aZVFha1hLZTVRYmlGbGNldzIzZXhLTFAxNmwxN3FvRGpSaGFwc19Oenh6MkpHdjZiZ1NMRnRmOEdnc3VjZ1JTczg2Rm5zYmlGdFFqVHZrOGRLTjJDWdIBvwFBVV95cUxOUnUtei1BczhtQ0lEeUxvQ2VlLWZCQUpXOGxkQjU5eFlDbGhhaTdNdnFTTTRjN09QWkh6TThueWpMb0hLMm5Ec2RzSFVYMGhTT21TZVE5X1cxbVdPb3ptTHNFSUpGcE9nbk1aZVFha1hLZTVRYmlGbGNldzIzZXhLTFAxNmwxN3FvRGpSaGFwc19Oenh6MkpHdjZiZ1NMRnRmOEdnc3VjZ1JTczg2Rm5zYmlGdFFqVHZrOGRLTjJDWQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Quick food delivery startup Swish in funding talks with Bertelsmann India Investments months after... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVFNqT3ZoSDdEamRFTERseUhwaEdNcW05QkYxcjlYVERsX01jRUNZZXZidnRPTHNlcUJpQ0NyNS1lQ3hpZFNVNFhnZWlvbU5qbk1aZzFIeWRFM2dtMXc2aW0xUVl1aXUzWkNsd21IQVZlY2oyVWpJSWlQeGF1VmlEZmg5OV9JV1ZFVXVrZ3ZSY3pfczVZdmZHMFpnRndaQ0kweEo1R3pQVGNpbEVQc3hCNU11T0hUZVJiZTJGT3Fmd2NPTkw5aUt2bUhUZkNkcmFvZDBvU0dOclZOTHF5TldoSVZ4eE9WRWU2b29zN2twQllxeHpSVHJqQ0FabElNZHZYUWxpQjhnR3VpUdIBjwJBVV95cUxQU2Z1Qm9tN3EwM2U2VUdCbUVKdnd4b1dJTllwbFFjbllWUmM3LXVzS0Z2RUZucUNVcC1YS1dsWU0taUdfUEpMU0FQTFQ3UGJqU2g1Skl0cjdHc3NYbW9yTGdwNVY5Zm5JbVBTS0dweWJrSExrckVhSjVnZ284eUVaczZZUmhIclNKZmJMZ1A5Z2ozVWRYdkl0LUJGZ3BFM0wzTXR2QmNGWmJKcDNISVRPZC1icFFZVmF1cTd2ZDZPQWhsd09YZURsLXZtQ1Zlb1IyelhsRGtVNHAtLTQzYUFnbnJHZlZvTWhTbWhOdXB6Yy1EeDFnUFgyQTdXZlViZGpuWFVpRnpqZTV6TTJYc200?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Swish raises $24 mn funding led by Bertelsmann India Investments - ET Entrepreneur",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZmlaZENVYWtlTkt3S2pUQmNSWVIwM2hUdGdGXzA5RU5kSnF1ZkNUQkFuUldERV91X3FGT3B3OThuc0JpdWpBRkdiTWNwLWxXNmd3MF9pRnZ2dXNodXZVaDgzbVZ1YUExZndEMk9LLW04QkhDQ3RYNjRsX245Mm5fVnhZZ3p2Z09uU0J3bFBFdm1zVzV1WUtwdm8zTGY1UVVSR0w1TTFjQ0w0Vm50X1lzV2x4dFNPa285NlFOZVIwU1NtNGhvcXZabUQtU1BIcU1wRnfSAdcBQVVfeXFMUGlpRm9OaDJ0X1dNMDViMmxWWjFlTWswSlkyenhyQV83TTBfZ3RMdVhOQVp6NGN4M1A4TXhIUTF6NExEODVZWFdLclFQT3dOOWgtU2ZjRE1CTEtaTHZUbWhid0E3MERScXNIc0JPOFo5d0hGcGhNSkxabWxoYlVOWThJRGx3TVJsdFVBN0o1bUtzVE9kek16MGFxMGU0dExCcVNicFJLcmloNlZaeXpYTTZ4UnNJM0I5dXZGREYyVV9qSGVXQ2tTRGRnU29KVWdQMTJvczdqckU?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Swish tests no-fee restaurant delivery with Swish Go: We compared its prices with Swiggy and Zomato - MediaNama",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMk5yZzZ6ZEVQZG9nZzdSWjNUME9acW00elcyZklxNnY0SkZJeTZuOE9nYlBCT3Rzb3dKR1JqWE1aOVhEOS1YSDNhQWNXb20xY0huNWFDc0tFTzE1NVFVSGFJb2I3VWhGQWJucHNRSWVZek5Yd0ExRFZBenBJTHY5UTdfWmw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Can Swish get better margins from small orders than Swiggy, Zomato? - The Arc Web",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMW9pNlZyYlN3ZkFxaGRMT1phTUhWX1dGRjNjUjhVb3JJX0U4SGs4QXJMc0lXeDhrVGNTQVFBNFRSeWR5WUotUGdhblhaYmtVSXM4MjdRa2c5LWpJZDFHbjQwM3hIUWlZcHYyQl9QY2tHVUExTzJjWXJaZDFCLTlFUlk4bTNJclV4ODdUbEdkUFVWNXVTcXFuSXZVeERpeEdETmJaWDUyYUtlQQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -196804,14 +196845,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T13:36:48+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 58: rejected (The role requires 3-4 years of experience owning a category, business line, or P&L in consumer internet, marketplace, D2C, quick-commerce, retail, or food-tech, and Shlok has ~1.3 years of experience in S&OP and operations at Ola Electric without dedicated P&L ownership.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T13:36:48+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 3-4 years of experience owning a category, business line, or P&L in consumer internet, marketplace, D2C, quick-commerce, retail, or food-tech, and Shlok has ~1.3 years of experience in S&OP and operations at Ola Electric without dedicated P&L ownership."
   },
   {
    "id": "L1664",

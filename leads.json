@@ -202583,15 +202583,15 @@
    "key": "servicenow|solution sales operations manager|bengaluru",
    "type": "job",
    "company": "ServiceNow",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "servicenow.com",
+   "company_url": "https://www.servicenow.com",
    "company_linkedin": "https://www.linkedin.com/company/servicenow",
    "company_note": "",
    "title": "Solution Sales Operations Manager.",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4491739936",
    "source_url": "https://in.linkedin.com/jobs/view/solution-sales-operations-manager-at-servicenow-4491739936",
@@ -202607,7 +202607,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Company Description\n It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today, ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.\n Job Description\n The Solution Sales Operations Manager is an operations role built for analytical, detail-oriented professionals who thrive on keeping a fast-moving global sales organization running smoothly. You will partner directly with leaders and teams across our global Technical Solutions organization, including Solution Consultants and Solution Architects, to deliver the operational backbone that lets them focus on customers. People who excel in this role bring a strong operations or finance foundation, a sharp eye for data, and the curiosity to turn numbers into insight. You will manage core operating rhythms such as planning, onboarding, and commissions, while building the reporting and analytics that help leaders track performance and make better decisions.\nWhat you get to do in this role\n Support annual planning for global Technical Solutions teams, including territory and capacity planning, quota and target inputs, and headcount and coverage modeling. \n Manage onboarding and offboarding processes for Solution Consultants and Solution Architects, ensuring a smooth transition for people, systems access, territories, and assignments. \n Serve as the primary point of contact for commissions and compensation questions, partnering with Sales Compensation, Finance, and HR to resolve issues quickly and accurately. \n Track and report on team performance against key metrics, delivering regular insights to Technical Solutions leadership on productivity, pipeline contribution, and attainment. \n Build, maintain, and enhance dashboards and reports (Power BI or similar) that provide clear, trusted, self-service visibility into team and business performance. \n Deliver ad hoc strategy and analytics support, translating open-ended business questions into structured analysis and clear recommendations for senior leaders. \n Partner cross-functionally with Sales Operations, Finance, HR, and Enablement to align processes, improve data quality, and drive operational consistency across regions. \n Identify opportunities to streamline and automate recurring processes, improving efficiency and scalability for a growing global organization.\n Qualifications\n What you bring\n Bachelor’s degree or above. \n 15+ years of experience in a Finance or Operations role, preferably supporting a sales, go-to-market, or technical organization. \n Experience with Power BI, Ta",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -202622,8 +202622,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -202633,15 +202633,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Solution Sales Operations Manager at ServiceNow, asks 15+ years of experience; your 1.3 years falls far short.",
+    "fit_notes": "The posting explicitly requires '15+ years of experience in a Finance or Operations role, preferably supporting a sales, go-to-market, or technical organization.' Shlok has approximately 1.3 years of total experience [ceo-coo], which represents a massive seniority gap. While his inventory and S&OP background [sop] demonstrates strong analytical and operations capabilities, the 15+ years requirement is an insurmountable barrier for this role.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "ServiceNow is a global market leader with 8,100+ customers, featured positively by Forbes regarding AI talent strategy [S5], but no specific salary data or internal cultural ratings were provided in the evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T23:10:19+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "ServiceNow advances its operational harness for enterprise AI with AI Passport and expanded governance capabilities - ServiceNow",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZEhlV1VaN1ZfNmUxWWtVdGlVeDYtRWRuVkJXclBDMXlhZy1GVXNqVC1JMDFLVEZGRE1yM1FXOWZFNHE4UmpBWUU3Qy1sbWFkOWFENDBQdTZBV1diQ1kxQVdTWW80c0RwOGVCVDRyN3lNUDNZeVFfNS1IWXRId2V3MnQxdnNOenpOVkpzQkNPb2wtZGZ6T1RPQi1zRi1Hc2k5VFJfMEhjanlYaWE4UnpZOExkd3ZwdHI3YVlDTkdUY1ctV1FvSWpNSVdhNGVMcGxhUk5LN0xRaTRHVUdoVzB3bkRkNWV2XzNIWW05WTA5dnZwYlFjdW9kUDJTaWhuQ1ZLWm1NY2dQRDZPVGVnRHh0Rmh4ang4Rm8?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXdEZ3OGhkclFyelppYjhRXzd3dW1mY05Va3hJQWZqWDBXeEJlOURCM2llMG5wV240bEo2bzJPdnNKbDh0a2dBQkRsU2ZCdG9MWHF0dC1YblduV0RKN1ZzY2pEQzdZZFhJdU91R0JUUXFKOUE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhaFd4eFp0OG5ucmFzMXIyaVF0NEJJNU1TMGQxQ185N1ptaktsN2tQZm9aODJkVTRNTjdMRWhZNEZqOE9qbzZFNVFvLTZpZ2lDdjBFOTJ3UURwY2FFLVNYRHBibUpVR250YVA3Q3FOdjFYNmtYSld30gF8QVVfeXFMTWRKSXl6SURkYVVLMGRNdXZ2N1BjWklhb0xxanZFeUljYjZJV0s5Smo3U1R3OHEzWXhBR1E2YWQyWU8wMko2VWVBOXg3cUlKV0lHaTRTcG9DWnF1OHJ2S1N1V3k2UGNMT2VrbUZ1LXRtUWE3Q3RGSUVLMWZyZA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "ServiceNow makes it easier to build AI agents, gives them verifiable identities - CIO",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQXVZSjd6dGphQW9kd1QtaHdjWlV5X2N1TkJyNW4wOHhVQzhiNldwRGRUcHp5ZDU5TWNoOGhLLUQtQTZ5R1NNUkp3QjZ6OC01NjJDdEdZN3NTcV92QkJXZzlmZDB1SE9jQWNpMXJLaDBuOFlGS0J5V2tWTzJUYUExaVlZejZ5M3Z1NVdwMnhRZ2syZW4xMjYzWUZ0WVpyTEJXY0NhS2lDd25nLWQ3V0RrSEI4SUVFaUZpU1Aw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "ServiceNow’s Talent Signature Is The System AI-First Companies Need - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDFFS1ExeFRpVEMwajdvUC1lYmljdnppTkdSbFUwRThUWVBQT1R3SThPYWdKU3l4bGRfQy1XdHp2bVJqc2EweWEwMFFpLUw5UGNiWkoyYy0xUTRERFlPNVI2MFhjRTM4aXdRZVR3R204NkZLN3VvQ0twVVN2QkV6cHIzQ2JLZXNUc3NTbHVRT2trcVFBM3F0b0VyTXFtU3lDX2d0bVB3TXFMRC0zWktSVUozNVpHNTFyRXA3OVd3?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "ServiceNow’s India Bet: Can It Put AI To Work Inside Enterprises? - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmVubDFmckVyQ04yMHlOQ19GcFJIeG0yRVBIMDJZN2lDQ3pEVUd4WGxWUG1RME41S080YmdmWW1Pai1BVFdacjVxN01idkJkb2JEeDhDVm83M1Q2cEdZT1lHVG9XNW1wT2hYY2dnTVpaMENyQXY5RzNJY2xRNVhuVnc5V2U2eG1iWXRuOUJvMzhsc29M?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -202665,9 +202703,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T23:10:19+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (ServiceNow Solution Sales Operations Manager asks for 15+ years of experience in a Finance or Operations role, far exceeding Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30"
+   "updated_at": "2026-11-18T23:10:19+05:30",
+   "reject_reason": "ServiceNow Solution Sales Operations Manager asks for 15+ years of experience in a Finance or Operations role, far exceeding Shlok's 1.3 years."
   },
   {
    "id": "L1714",

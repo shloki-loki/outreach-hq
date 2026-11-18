@@ -44605,8 +44605,8 @@
    "key": "increff|strategy and operations|unknown",
    "type": "company",
    "company": "Increff",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "increff.com",
+   "company_url": "https://www.increff.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy and Operations",
@@ -44644,22 +44644,24 @@
    },
    "score": {
     "rules": 45,
-    "research": null,
-    "total": 45,
+    "research": 62,
+    "total": 55,
     "reasons": [
      "Added by agent despite rule: rule score 39 under threshold"
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Retail supply chain SaaS and fulfilment (Increff Grid dark stores); his dispatch and inventory results map",
+    "fit_notes": "O2D 32 to 14 days via dispatch lotting and Rs 200 Cr stock program map to Grid dark-store dispatch and inventory placement",
     "pay_notes": "",
     "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "hook": "Announced Increff Grid, a dark store fulfilment network promising 2-24 hour delivery, with 50+ dark stores planned across 15+ cities (Nov 26, 2025)",
+    "hook_source": "https://www.tribuneindia.com/news/business/increff-launches-increff-grid-to-enable-2-24-hour-hyperlocal-delivery-across-india",
+    "researched_at": "2026-11-18T18:37:50+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -44736,14 +44738,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-18T18:37:50+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 55: rejected (score 55 is under 65)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-18T18:37:50+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "score 55 is under 65"
   },
   {
    "id": "L0369",

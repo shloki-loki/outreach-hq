@@ -2789,6 +2789,15 @@
    "title": "Supervisor check 18 Nov: runs and workflows",
    "detail": "All agents ran today: lead-scout/scrape 14:43 IST (6800 jobs, 25 new), follow-up/track 16:16, digest 16:26, send-track 18:37, follow-up 18:35, lead-scout 18:39, research-worker 13:37, writer 14:22 (Gemini free quota used up), founder-emails 18:41. GitHub workflows last 15 runs all succeeded (latest 14:36 UTC). supervisor/check run at 17:19 IST failed only because W0006-W0008 claims expired (I0014 already open). Bounces 0, no approved or sending messages stuck; 9 cold drafts waiting (M0016-M0024), M0016 oldest since 15 Nov, hits 3 days tomorrow (I0019). Data git log shows no collisions or repair commits; commits are sequential seconds apart.",
    "ref": ""
+  },
+  {
+   "id": "J0311",
+   "at": "2026-11-18T21:15:28+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Data sync and GitHub API unreachable during supervisor run 18 Nov ~19:00 IST",
+   "detail": "Cause: brief network outage or stall to github.com from the Mac, same as I0015; recovered within about 20 minutes and no data was lost (data log is continuous to 18:41). Remedy: add retry with backoff to store.sync (see I0015).",
+   "ref": "I0022"
   }
  ]
 }

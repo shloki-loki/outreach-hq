@@ -194830,15 +194830,15 @@
    "key": "evam|associate founders office|bengaluru",
    "type": "job",
    "company": "Evam Labs",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "evamlabs.ai",
+   "company_url": "http://www.evamlabs.ai",
    "company_linkedin": "https://sg.linkedin.com/company/evam-labs",
    "company_note": "",
    "title": "Associate - Founders’ Office",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490420346",
    "source_url": "https://in.linkedin.com/jobs/view/associate-founders%E2%80%99-office-at-evam-labs-4490420346",
@@ -194869,8 +194869,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 25,
+    "total": 46,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -194880,15 +194880,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founders' Office Associate at Evam Labs in Bengaluru, but the duties are strictly administrative EA and recruitment coordination.",
+    "fit_notes": "The posting focuses entirely on administrative support: calendar/meeting management, end-to-end travel logistics, planning team events/offsites, vendor management, and interview scheduling. It asks for no technical, analytical, or strategic skill sets, making none of Shlok's core achievements ([sop], [o2d], [mrp], [ceo-coo]) relevant.",
+    "pay_notes": "Pay is not stated. Executive assistant and administrative coordination roles at early-stage companies typically pay well below the target 24.5 LPA fixed threshold.",
+    "culture_notes": "Evam Labs is a Singapore-headquartered holding company building enterprise AI solutions (Propheus and Poiro) with offices in Bengaluru and San Jose. No Glassdoor or AmbitionBox ratings were found.",
+    "hook": "Evam Labs is building next-generation AI-powered enterprise solutions through incubator projects like Propheus and Poiro.",
+    "hook_source": "https://in.linkedin.com/jobs/view/associate-founders%E2%80%99-office-at-evam-labs-4490420346",
+    "researched_at": "2026-11-18T13:22:13+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -194912,14 +194919,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-18T13:22:13+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 46: rejected (The role's actual responsibilities (calendar management, travel bookings, events, admin ops, recruitment scheduling) describe an Executive Assistant / Admin Coordinator position rather than a strategic Founder's Office role, and do not utilize Shlok's S&OP or analytical experience.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:22+05:30",
+   "updated_at": "2026-11-18T13:22:13+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role's actual responsibilities (calendar management, travel bookings, events, admin ops, recruitment scheduling) describe an Executive Assistant / Admin Coordinator position rather than a strategic Founder's Office role, and do not utilize Shlok's S&OP or analytical experience."
   },
   {
    "id": "L1651",

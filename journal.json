@@ -2627,6 +2627,15 @@
    "title": "No draftable leads: no verified addresses",
    "detail": "Needs-draft leads all have guess/catch-all addresses (zamp.ai, nathabit.in catch-all; swiggy, univest, flipkart, zepto guesses; verifier quota exhausted). Google Forms (L0003, L0013, L0018, L0007, L0010) return 401 to unauthenticated fetch so application questions could not be listed. Also: 'outreach status' fails on git fetch of data branch (origin data).",
    "ref": "I0020"
+  },
+  {
+   "id": "J0293",
+   "at": "2026-11-18T18:38:03+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Work W0015: done",
+   "detail": "rejected: research score 62 combined to 55, under the 65 threshold, lead auto-closed (hook found: Increff Grid, tribuneindia link)",
+   "ref": "L0368"
   }
  ]
 }

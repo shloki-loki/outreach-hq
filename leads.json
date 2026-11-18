@@ -171538,15 +171538,15 @@
    "key": "pocketfm|growth manager|bengaluru",
    "type": "job",
    "company": "Pocket FM",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "pocketfm.com",
+   "company_url": "https://pocketfm.com",
    "company_linkedin": "https://in.linkedin.com/company/pocket-fm",
    "company_note": "",
    "title": "Growth Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore Urban, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4488505480",
    "source_url": "https://in.linkedin.com/jobs/view/growth-manager-at-pocket-fm-4488505480",
@@ -171562,7 +171562,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "At our core, we are an AI-powered entertainment company with a deeply human-first philosophy. We believe technology should amplify creativity. Our proprietary AI systems work alongside writers, voice artists, and creative teams to help stories scale globally, faster, smarter, and with cultural depth and emotional integrity intact.\n Today, Pocket FM is home to a vibrant community of 250+ million listeners, 300,000+ creators, and 100,000+ audio series. With over 140 billion minutes streamed annually, we have emerged as one of the fastest-growing media-tech companies in the world, and we are just getting started. We operate at a massive global scale, but with a startup mindset: curious, fast-moving, and deeply owner-driven.At Pocket FM, teams are encouraged to think boldly, move with intent, and build for long-term impact as we shape the future of audio-first storytelling worldwid e. \n You’ll be solving for one of these problem statements: \n Customer Lifecycle Growth & Retention: Drive engagement, retention, and monetization across the user lifecycle with a deep focus on building scalable retention loops and improving lifetime value\n Content-Led Growth & Expansion: Drive the content charter for retention, scaling high-performing content to reach new audience segments while supporting launches in new markets\n Data-Driven Experimentation: Move beyond traditional acquisition experiments to test, iterate, and scale initiatives that deepen user engagement, taking inspiration from gaming industry retention models\n Cross-Functional Leadership: Partner with content, product, and analytics teams to design and execute experiments that drive sustainable growth, leveraging insights to inform scalable strategies across diverse genres\n Scaling: Leverage AI-native workflows to automate and personalize lifecycle interventions, enhancing retention and monetization at scale\n Here’s what we are looking for: \n 2-4 years of work experience in growth or related roles\n Astute problem-solving skills and the ability to break (seemingly) large problems into smaller, practical, solvable pieces with a data-driven approach to decision-making\n Someone who excels at developing and implementing a plan from concept to completion, generating measurable outcomes across retention, engagement, and monetizaton\n Track record of productive teamwork—starts with “why” rather than “what,” enjoys getting hands dirty, and possesses a drive for continuous learnng\n A deep understanding of user needs, preferably gained in consumer-first companies\n Comfort working with AI automation tools and exposure to LLM-based workflows to drive scalable growth initiatives\n Action bias: solves problems, executes, and iterates as needed\nSeniority level Mid-Senior level | Employment type Full-time | Industries Computer Games, Technology, Information and Media, and Internet Marketplace Platforms",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -171577,8 +171577,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 75,
+    "total": 71,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -171588,15 +171588,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Growth Manager at Pocket FM, asks 2-4 yrs; your S&OP and inventory rebalancing data-driven execution maps to it.",
+    "fit_notes": "The posting asks for \"2-4 years of work experience in growth or related roles\", astute problem-solving, and a data-driven approach to decision-making across user lifecycle and retention. Your experience with data-driven execution and operational metrics ([sop], [rebalance]) maps directly to these analytical growth requirements, though it does not explicitly ask for an MBA or consulting.",
+    "pay_notes": "Pay is not stated in the posting and no specific salary data was found in web sources for this exact role.",
+    "culture_notes": "Pocket FM operates as a fast-moving, audio-first media-tech company with 250+ million listeners, but specific culture ratings and reviews were not found in the provided evidence.",
+    "hook": "Today, Pocket FM is home to a vibrant community of 250+ million listeners, 300,000+ creators, and 100,000+ audio series.",
+    "hook_source": "https://in.linkedin.com/jobs/view/growth-manager-at-pocket-fm-4488505480",
+    "researched_at": "2026-11-18T13:31:35+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "rebalance"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -171620,9 +171630,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T13:31:35+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 71: qualified"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-18T13:31:35+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
@@ -171632,7 +171648,8 @@
     "at": "2026-11-17T00:51:45+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1430",

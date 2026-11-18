@@ -22284,15 +22284,15 @@
    "key": "guidewire|product manager data platform|bengaluru",
    "type": "job",
    "company": "Guidewire Software",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "guidewire.com",
+   "company_url": "https://www.guidewire.com",
    "company_linkedin": "https://www.linkedin.com/company/guidewire-software",
    "company_note": "",
    "title": "Product Manager, Data Platform (Data Access & Integration)",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4490099137",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-data-platform-data-access-integration-at-guidewire-software-4490099137",
@@ -22308,7 +22308,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Summary\n Guidewire builds the software that property and casualty (P&C) insurers use to care for customers in a crisis, whether a natural disaster or an accident.\nThe Data Platform team builds the secure, scalable data foundation behind Guidewire's analytics, data science and data management applications. It is built into our product portfolio, and both internal development teams and customers rely on it to put data to work.\nYou will help shape the data access and integration experience of the platform, with a focus on how data gets into it. You will work with engineers, architects and UX to take ingestion capabilities from idea to launch, and with customers and internal teams to make sure they succeed with what we build. You will learn fast, bring clarity to ambiguous problems and grow your ownership over time.\n Job Description\n Define and deliver\n Partner with one or more engineering teams from ideation through launch of data ingestion and integration capabilities.\n Gather and write clear product requirements from a user and functional perspective, with scope and acceptance criteria that engineering can build against.\n Take part in feature-level design sessions with engineers, architects and UX.\n Work through ambiguity and bring clarity to the problem so the team can find creative solutions.\n Manage dependencies across teams and keep features on schedule.\n Align and measure\n Build consensus on priorities and keep your team's work aligned with the Data Platform and Analytics roadmap.\n Define and analyze the metrics that show whether your products succeed.\n Partner with customers and the field\n Learn customers' goals and challenges so they adopt our data products successfully.\n Help customers, QA, support and sales with questions about our cloud-native data infrastructure.\n Triage, prioritize and respond to customer issues and escalations.\n What You Bring (required)\n 2+ years of product management experience.\n 2+ years working with the architecture and security of cloud solutions.\n Conceptual knowledge of the big data ecosystem and the AWS landscape, with a high-level grasp of microservices and distributed systems.\n Experience shipping cloud-native products, meaning products built on cloud services such as AWS.\n Comfort with data ingestion, cataloging, integration and enrichment, and how they connect to end-user analytics needs.\n Comfort using AI tools in your day-to-day product work, such as drafting requirements and specs.\n Ability to run initiatives with limited supervision, own your work and stay effective amid ambiguity.\n Clear written and verbal communication.\n Strongly Preferred\n Experience with data acquisition and replication technologies, such as change data capture (CDC) and streaming.\n Experience working on AI product features, such as agentic AI, LLM-powered capabilities or MCP server integrations.\n Experience at a B2B SaaS company.\n Software engineering experience.\n About Guidewire\n Guidewire is the platform P&C insurers trust to en",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -22323,8 +22323,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -22334,15 +22334,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Guidewire Software, asks 2+ yrs cloud PM; you have 1.3 yrs and lack cloud-infrastructure PM experience.",
+    "fit_notes": "The posting asks for '2+ years of product management experience' and '2+ years working with the architecture and security of cloud solutions'. Shlok has ~1.3 years of total experience [experience] and his background is in S&OP planning, supply chain, and execution at Ola Electric ([msl], [o2d], [sop], [mrp], [ceo-coo], [rebalance], [cell]), rather than building cloud-native data infrastructure products. While he built a Flask REST API and Chrome extension at InsuranceDekho [idekho], he does not meet the explicit 2+ years PM and cloud architecture experience requirement.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures for this role were found in the evidence.",
+    "culture_notes": "Guidewire is a publicly traded P&C insurance software provider (NYSE: GWRE, recent stock up 7.68% [S3]). No specific Glassdoor ratings or culture flags were found in the provided evidence.",
+    "hook": "Guidewire recently saw its stock move up 7.68% on October 20 [S3] as lower migration costs shorten its sales cycle [S2].",
+    "hook_source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTTFvY1Y3c3hEeUZZdk1ESXJyZGVuc3BtRGhlUHFmN0ZxSHl2RHVtem5HaXFzd2NkLVhSYjBmZElrN1VKZVBZYUFWRmFyanJxTDV6S3o1Y3M1WVJ6UXBNOVI2OXRvNjNmaV9RQmZFal92aHdyWTBLT0w2Z1RCU1ZxUWRxRUNhaGhDWHY4?oc=5",
+    "researched_at": "2026-11-18T13:29:33+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Guidewire Software Q3 Earnings Call Highlights - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmFzYnc2dVV0SWFNQktFdW9DanB5Q0podG1yd0FBTzFFLVVZenB2WHlTWnhvUGlSMWx0cl9LSFU4ci1zUE5wRkZaVEdEZ0FQR1A0eVB5WlpCZlZoZ3V3YTlVa25yMzhLSGRUM3RKU1ByYjFtZy1qZ2xScmNWVlB0TDlLekdReVUyVzNfVGVvX0dzMG1UVC10VW5pVzU5RUVxYmhpUE9vVHZPdDg?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "How Lower Migration Costs Are Shortening Guidewire Software’s (GWRE) Sales Cycle - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWFuMW9PWk1uM3ZtaTJ3c0xVS1pKWXRRLVp6ZUxNNUxRcFNmUHZwaHhGMGNNQ0g5cmtSMUluWVdrN1VJcmZmdTZXVnhDSUxBMmM2S2l3akdTdUV3OF90WVBXZ3g3bFUybEN2YVp4N3RiWmptU2lxaHZVUnliUFJmWU52MVpYR3dSdjZmajU5cTRTNVJYZzVzRGl0OWpqQzlYRXVsYnhiLUw2c28?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Guidewire Software Inc Stock (GWRE) Moved Up by 7.68% on Oct 20: Key Drivers Unveiled - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTTFvY1Y3c3hEeUZZdk1ESXJyZGVuc3BtRGhlUHFmN0ZxSHl2RHVtem5HaXFzd2NkLVhSYjBmZElrN1VKZVBZYUFWRmFyanJxTDV6S3o1Y3M1WVJ6UXBNOVI2OXRvNjNmaV9RQmZFal92aHdyWTBLT0w2Z1RCU1ZxUWRxRUNhaGhDWHY4?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Guidewire Software Stock Slides -32% With A 7-Day Losing Spree - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWThSVHpnaHpTNk1NRUk1endXNHM2T2ZFVHBzX3R3QmUyUDZ2WGFRNEx5RE1QdVNEcDVmLUVBZW5yT0xtMHl2RGsxNlo2eWNidlhWZGFGanZZX1BVejNCeHVzbVJQUl80UDVPSUpERElLR3N3QTBqbUNJdUNKNlhRelV2ZFhEakpzM1R5LTNlOFFzMWxwODZoOTVYOGlvamxVZlJ0WjJNUUt5dS1FY1ZfNVA3NkxMUlU2THdjQm9B?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Form 4 Guidewire Software Inc: Michael George Rosenbaum (Director, CEO) For: 16 November By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMzViNVpLMVVjZFl1dnIxX3F5bTJhbTEwazJXYWtuV0NpNXBDMy1OaXhyTy1hRHlwRUpIWXR4OUV5VlBiWHhUYlFhQk9LamZaa0pyODlyOVBjNjVLeHY3bkFJWlpYdndXWHNwSXZEZ01oRkpTWVlSSWNuLXpUcmg4bTJXVk11NFBCUW0tY25ueFJ2eWxwQk9XRkhvN1JqR2pxbzV3ZjV4YXRYdzR2UXVpYUFsMUlrcEozMUl0N09fUGkxdV9tRTY4ekZPdXhGUTZxVHlid3hfRjljTlE1?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Manhattan Associates, Agilysys, Guidewire Software, Pegasystems, and Teradata Stocks Trade Up, What You Need To Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkVyUjhyeFdIOTJwSzk1Y2VjUDU4VGNLMDhEd1V4N0ZwS3VGeFJTOEVvXy1ULXJoMW5VdGNQbVhYT2RUYXd6OGRkNnZvV2xXYVBHZ2wtUkFha1VwRmJGOTk0Y2pzYS1nMlBMbmljU0NyRDl6bXliSEx5d2gyU0FsRE1ObldYcGxaYVNCcUg4bHd4WVlrS1BMUkZ3MXVvNnA0N2E5VGRBa29pMGZnZEMwbDlhYw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -22366,9 +22406,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-18T13:29:33+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The posting specifically requires 2+ years of product management experience and 2+ years working with cloud solution architecture and security, whereas Shlok has ~1.3 years total experience and lacks technical cloud infrastructure PM background.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-18T13:29:33+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
@@ -22378,7 +22424,8 @@
     "at": "2026-11-17T00:32:22+05:30",
     "why": "error: Gemini unreachable: The read operation timed out",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting specifically requires 2+ years of product management experience and 2+ years working with cloud solution architecture and security, whereas Shlok has ~1.3 years total experience and lacks technical cloud infrastructure PM background."
   },
   {
    "id": "L0180",

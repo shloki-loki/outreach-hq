@@ -29350,15 +29350,15 @@
    "key": "unisys|program manager|bengaluru",
    "type": "job",
    "company": "Unisys",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "unisys.com",
+   "company_url": "https://www.unisys.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "445963",
    "source_url": "https://www.instahyre.com/job-445963-program-manager-at-unisys-3-bangalore/",
@@ -29389,8 +29389,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -29399,15 +29399,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Program Manager at Unisys, asks 10-14 yrs; your 1.3 years of S&OP experience does not meet the senior IT governance requirement.",
+    "fit_notes": "The posting asks for 'Large enterprise transformation program leadership' and 'Identity, cloud, or infrastructure migration governance' with '10-14 Years' of experience. Shlok has 1.3 years of experience in supply chain and operations at Ola Electric ([sop], [ceo-coo]), which does not map to enterprise IT IAM migrations, and he is severely under-leveled for a 10-14 year requirement.",
+    "pay_notes": "Pay not stated in the posting, and no verifiable salary evidence is available in the provided sources.",
+    "culture_notes": "Employee reviews and ratings were not found. Culture flags note a recent report stating a '46-year employee says Unisys layoff targeted only older workers' [S3].",
+    "hook": "I noticed Unisys recently announced the dates for its third-quarter 2026 financial results and conference call.",
+    "hook_source": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNRVRCZDNwSWQ5ZFVBZjlzVFNTWHd5WmZVdjd5eE5SN1h6amFXZU94OC0zSTNJVTI5Y0oycmJodnJ2TFBCNC1jdWJHNjNBdHpJek9BazZyMDcyblNNdjYwTEVmdDV4VjhycEJadTNXbmpSMTR4N3FaRGlIU3hmVVluX3RlWHBhVkEwOEtXaTRVQjZSMWNGOXl4U2JvOUJ2OVNzTUR5NTRkYWJPeFR5cTdGVi1PcW9NRkFCaF9HVVMwdXFZa1hnQnJxRXFGVHNVUl9PcE9mc25aYWpVMm1TWWRuaF8welFFMGRUSmpvM3N4S1pfVHpsRnVweGJ3ajBBQ3JHM3ZYQTZSekJrUnUxRmhRNFRRb0hHTlpHdEpLdmhIYw?oc=5",
+    "researched_at": "2026-11-18T23:26:59+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Unisys Announces Dates of Third-Quarter 2026 Financial Results and Conference Call, and Participation in Upcoming Investor Conferences - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNRVRCZDNwSWQ5ZFVBZjlzVFNTWHd5WmZVdjd5eE5SN1h6amFXZU94OC0zSTNJVTI5Y0oycmJodnJ2TFBCNC1jdWJHNjNBdHpJek9BazZyMDcyblNNdjYwTEVmdDV4VjhycEJadTNXbmpSMTR4N3FaRGlIU3hmVVluX3RlWHBhVkEwOEtXaTRVQjZSMWNGOXl4U2JvOUJ2OVNzTUR5NTRkYWJPeFR5cTdGVi1PcW9NRkFCaF9HVVMwdXFZa1hnQnJxRXFGVHNVUl9PcE9mc25aYWpVMm1TWWRuaF8welFFMGRUSmpvM3N4S1pfVHpsRnVweGJ3ajBBQ3JHM3ZYQTZSekJrUnUxRmhRNFRRb0hHTlpHdEpLdmhIYw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "David Bundy Appointed Chief People Officer at Unisys - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RYXNNZXBLcEhadlJVVVNjMXFKZ1dxeE9LSEJ3dC1XRVZ0YmVNVEJDOVpUa1E0N05aRVZucldVMjY4dlNQeFN1c1ZUYWJYUS00SkM1cEg1dHZEcGtlUzRGRnBHUU1FZU5lY1F5eDdpb09CMy1FRjgzcGcyV1I?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "46-year employee says Unisys layoff targeted only older workers - Human Resources Director",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMERnem9nMTFqM2RTLXRES05uRWhJZnF5Si1rOEU4TmpGV0JGTldBY05zVjhEbnpDUkZHSm9nM2NtVDRHempiclUySmpxRlNaaEt0dWhzVExYQ1pMRjh3X1d2dWJ6YjU5aFJ2bko5T1hfNE52TDRpdXNMY3BvVGc3NHFlWW5DSHJORy1JSVBDVXdvem1uYXhfbTltLW5WQnd0ejlZUUF6by1jZjVLc0ZTVEFPTTJXdElxTWItVFJWbWZ1dWd6?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Jefferies cuts Unisys stock price target on valuation review By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUTA2YkJMdVF5WUJmM3QtU1VFa0hRUGtObkxXT0xmeWFnYXlhU0RNWHFFLTNOd2pzZDlwTlhzYjQwQXFnc0ZCdEtjV0RGWVJKWThIT0ZlXzB4T2ZFRExFaVJZUE9WR2JiNmRHeGViLUpncXFzVXc1M25Bcm50Rm1sdjh2X2pfLTdKQTVVS3YwN0lEczEwdEpEbjl6ZjZBTFFCeUFPWnI4NGc1SklNb3d6QWotS2NHU0I3Z3J1OWF3?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Unisys to Report Q2 Earnings: What's in Store for the Stock? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEYwWHJRLThrUGlGWmdCc25QOHk1akZBclpMSWhtV3dUckZzanVyU0g5djNlSzQxb1lZTGd6MXV6ZWlEVHpMWUQwRVJpVUQzZ21HOVIxdmEwdFhZeWVwTVg3ZWptbXhocVM1VG5yTjdQdjlGdnNtSmJsZEd1bjRhaXc4ZFkyQ0lLSC1TQVBIMGFOZTBnallPUVJwNjg?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Post Quantum Finalist Debuts In Unisys Innovation Program - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxWUZ5Sk5MaTFMenJPX0dGWjE3T0JHY29PT2NiZjcwVlF3RUNHRWZ2OXZQMjhlQVhNWEppSDZkdE1Fb0o5aXpuNDYxZXJDSUI2YmVULUxsa0tjWTI3Wnc?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -29431,14 +29469,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-18T23:26:59+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The role asks for 10-14 years of experience and large enterprise IT transformation program leadership, which far exceeds Shlok's 1.3 years of experience and mismatches his supply chain/operations background.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-18T23:26:59+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 10-14 years of experience and large enterprise IT transformation program leadership, which far exceeds Shlok's 1.3 years of experience and mismatches his supply chain/operations background."
   },
   {
    "id": "L0238",

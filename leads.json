@@ -44951,8 +44951,8 @@
    "key": "newme|strategy and operations|unknown",
    "type": "company",
    "company": "Newme",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "newme.asia",
+   "company_url": "https://newme.asia",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy and Operations",
@@ -44990,22 +44990,24 @@
    },
    "score": {
     "rules": 45,
-    "research": null,
-    "total": 45,
+    "research": 82,
+    "total": 67,
     "reasons": [
      "Added by agent despite rule: rule score 39 under threshold"
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Gen Z fast-fashion brand growing stores and 60-minute Zip delivery; his stock and dispatch results map",
+    "fit_notes": "Rs 200 Cr stock program and run-rate rebalancing map to stocking new stores; 32-to-14 day dispatch work maps to Zip and store replenishment",
     "pay_notes": "",
     "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "hook": "Plans to go from 18 stores in 11 cities to 50 stores by December 2026 and expand NewMe Zip 60-minute delivery to Pune and Mumbai (Dec 2025 interview)",
+    "hook_source": "https://www.indianretailer.com/interview/retail-people/new-commerce/newme-plans-50-stores-expands-zip-delivery-more-cities",
+    "researched_at": "2026-11-18T18:39:22+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -45082,14 +45084,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-18T18:39:22+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-18T18:39:22+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0371",

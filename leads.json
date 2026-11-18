@@ -26911,15 +26911,15 @@
    "key": "accenture|ai strategy manager|bengaluru",
    "type": "job",
    "company": "Accenture",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "accenture.com",
+   "company_url": "https://www.accenture.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "AI Strategy Manager",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore,Gurgaon,Pune",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "instahyre",
    "source_id": "440748",
    "source_url": "https://www.instahyre.com/job-440748-ai-strategy-manager-at-accenture-2-bangalore-gurgaon-pune/",
@@ -26950,8 +26950,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 45,
+    "total": 56,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -26960,15 +26960,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "AI Strategy Manager at Accenture, asks 8-12 yrs and consulting experience; you have 1.3 yrs and no consulting.",
+    "fit_notes": "Accenture asks for '8-12 Years' experience, 'Strong consulting, executive communication, stakeholder management, and problem-structuring skills with experience leading cross-functional delivery teams', and deep AI transformation experience. Shlok has ~1.3 years of experience and no consulting background, which represents a hard gap.",
+    "pay_notes": "Pay not stated in posting. Recent news notes Accenture India rolled out bonuses up to 26% while salary hikes are largely on hold [S2].",
+    "culture_notes": "Glassdoor ratings and details not found in posting or evidence. Recent flags indicate salary hikes on hold with bonuses offered [S2].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T13:27:12+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Accenture Clarifies Claude Spending Limits As AI Cost Questions Grow - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYldGejVKbWFaVnhCVDhhNDVrZEw3X25kVkhvVmxOSVRuT1N2SjkxMmxGNmt4YVVRLUx5MzM0anEwSGtzejA5cEZUdHZ6QnctbVB0QUJOa3VjcTYzcXU2Wkpub3RMTVNwcmtDQUVGLVlMZUVwZUdFRFFPQkhGRzJMRE02NmRCTzZKaGNNMzdFQVMtSm9zYkZ1cXpxR2VGY05qSGY3Mk5oOGpSQQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Accenture dangles 26 per cent festive bonus carrot while keeping pay hikes in deep freeze: Report - Indian Television Dot Com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3hXbV9tVFRmYlFkNDY2NDdITENZSHVtSW9Ja1l2NmtmZ09lOWY1OHdxR3R3Y0d0SnY2R0ZJRVI0OEhXamhNd3lWT1pWeE9OalM0MU5fQWNLMEpaQ3BWdzlQOHo2MEVuaTVvMGN1SVBNNTRvMVFUc2xUbTB6RHF6UmowUEhteWctWEdvbW9TZmh0SXJiODlxekQ4TTViaGJQYkNNZVJJenJ6czRLcUs4V3M2a1FaUG5sUGlqbHJwd25WemhRSVVjSkRn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Accenture Acquires Sagacity Solutions to Scale AI-Driven Customer Intelligence Across Accenture Song’s UK & Ireland Operations - Accenture",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTm9xS0FVNTN3Q0FfWlFCY09Lb0M2T3djVE9CNG5CWlg5OEhCa1pDRG9BZjJvRE5QYmhtWVU4RjN3UVlETlQzZGxEUzZCb3ltVnNSWWhRbEVzbjd1MkZKTFgxUUpsdWZwX3dDNkpRVjUtaFpLb3RsbURjNGJlY3B2TGpGbmhEQ0s2MFRDSUtjVVZPT3luU0NmbFVsaldPRTJOU1ZPdzJjQ1V5M0N1Q2FQYlBpRlRYbkdYSGNtYU1NTmFzd2FkWjJXYzhkZ1VmSXVOaGIxWXp4NFBhbEhLdGFaV0o3cmZmc0lBb29ldzRQSjZvRGNwaVgwMA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Will Accenture survive or thrive in the age of AI? - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXEzS2hHZ1BhekxSU1ZEdFF5NHl5R3dZUmg0akp6d2dRNjdWWTQxZmk3Wlo4dFRXQmxSV1pFVF9ERm9fU0RWQ3A1akw1ZF9ucWFzSUpxbHVtY0NSdDl0T0g1dll3TUJKOGUtWF9uV1AxZkxUVXo0S3cxWGpOMlBPX1A3NDM?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "NATO Announces Major Contract with Accenture to Help Advance Towards a More Agile and Resilient Digital Infrastructure - Leonardo",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOT3R4MmpSMHJ2TExVTGRYUHhjRnp2MVZPNXdIRjhEOFVPd0taNUNyYmVybFBqWG93RnVlVXNrWXlTbl9iN0luY3U1SnlNQ2RXNFB0NTJLbUxGOWJWTEFEWDBZa1N3SUh6c1dFb1NSM1czZWdkSGRJaWNoSTEwREwxOEV3VWJBRjhrZmhJRnZqUE5MbE9kTHMyN2RhQkxwWS1Ob05MNXZnUk9rbTFGa21UVkEtMm5VSFN0RE51alhRM2lmelo2TFhqWnhDVG1KcVlFWWFqdGlSOHpyeHBPelR3c2k0R1lETWlXT19QLTZyVVNqSFkwNEpKXzdaaTBBU3kwMFJTODM3OURBQ1FMRWxwc3V4eXZ4UQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Accenture India rolls out bonuses of up to 26%; salary hikes largely on hold - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMkhwSFdEbGxwNFpUR1ZZSU9BaHByQUJPLTJWcE5qb0NJZHBMdDN0M1ZYV1RreEZKM0tXVl9WaGxYSWkwRlFBd2k3QWFkV25qSFFRWlVQTGc1eUtabGsySklFZkpiUTVuSnNKeTNRVzRPei1xX3lMZU5xcV9PMXFTak5RUzZpdXVmMmQweGp0ZkNCSVAwRmlfMmNINTQxSk80OGRaWkRBczM3a1NFcEZyZVJLaXBPUlVZUjVqQmVXTkladHQ4MHZMMDFOVQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -26992,9 +27030,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-18T13:27:12+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 56: rejected (The role asks for 8-12 years of experience and strong consulting background, while Shlok has 1.3 years and no consulting experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-18T13:27:12+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
@@ -27004,7 +27048,8 @@
     "at": "2026-11-17T00:21:51+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 8-12 years of experience and strong consulting background, while Shlok has 1.3 years and no consulting experience."
   },
   {
    "id": "L0221",

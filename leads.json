@@ -196806,15 +196806,15 @@
    "key": "licious|am supply planning|bengaluru",
    "type": "job",
    "company": "Licious",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "licious.in",
+   "company_url": "https://www.licious.in",
    "company_linkedin": "https://in.linkedin.com/company/licious",
    "company_note": "",
    "title": "AM, Supply Planning",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491126866",
    "source_url": "https://in.linkedin.com/jobs/view/am-supply-planning-at-licious-4491126866",
@@ -196830,7 +196830,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Licious is India's most loved meat and seafood brand, founded in 2015 by Abhay Hanjura and Vivek Gupta. We are on a mission to transform the way India consumes meat and seafood by delivering the freshest, highest-quality products directly to consumers.\n We are a technology-driven, consumer-first business that believes quality is our magic ingredient. At Licious, we are constantly innovating, challenging conventions and building processes that enable us to deliver exceptional customer experiences.\n What makes the role meaty? \n We are looking for an analytical and solution-oriented Assistant Manager – Supply Planning to join our Planning team. In this role, you will manage raw material and fresh product planning, drive material availability and build scalable planning processes.\n You will play a key role in strengthening long-term planning capabilities, driving process automation and improving the efficiency of daily planning operations.\n Manage end-to-end supply planning for raw materials and fresh products, ensuring availability in line with business requirements.\n Build structured long-term planning processes for raw and fresh materials, with a focus on sourcing cycles and backward integration.\n Drive demand and supply planning activities to ensure optimal material availability and fulfilment.\n Identify opportunities to automate existing planning processes and minimise manual intervention.\n Automate daily planning activities by streamlining input mechanisms and scheduling planning runs.\n Develop automated tracking mechanisms for material availability and fulfilment.\n Leverage data and analytics to identify supply gaps, improve planning accuracy and drive operational efficiencies.\n Work closely with sourcing, procurement and operations teams to ensure seamless planning and execution.\n We hope you have... \n 2+ years of experience in supply planning, demand planning or any related planning function.\n Strong hands-on expertise in SQL, Python, Power BI, Advanced Excel and R.\n Good understanding of demand/supply planning processes and material planning.\n Strong analytical and problem-solving skills with the ability to work with large datasets.\n Experience in automating reports, planning workflows and repetitive processes.\n Ability to collaborate with cross-functional stakeholders and drive process improvements.\n A structured approach to problem-solving and strong attention to detail.\n A degree from a reputed institution (Tier 1 college preferred).\nSeniority level Mid-Senior level | Employment type Full-time | Industries Food and Beverage Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -196845,8 +196845,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 60,
+    "total": 67,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -196856,15 +196856,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "AM Supply Planning at Licious in Bengaluru asks 2+ yrs, SQL/Python/R; your Ola S&OP and MRP work maps well, but pay is unstated and likely below Rs 24.5 LPA.",
+    "fit_notes": "The posting asks for \"2+ years of experience in supply planning, demand planning or any related planning function\" and \"Strong hands-on expertise in SQL, Python, Power BI, Advanced Excel and R.\" Shlok has about 1.3 years of experience, making the 2+ year requirement a slight stretch. His experience answers the planning and MRP needs directly through [mrp] (Implemented SAP MRP from scratch) and [sop] (Owned S&OP production planning over Rs 200 Cr of inventory). However, the role requires R and Power BI alongside Python/SQL, and payscale evidence for AM roles at Licious typically tracks below his Rs 24.5 LPA fixed floor.",
+    "pay_notes": "No pay figure stated in the posting, and no credible salary benchmark in the evidence for Licious matching the Rs 24.5 LPA fixed threshold for an Assistant Manager title.",
+    "culture_notes": "Licious is a prominent meat and seafood brand in India [S1] focusing on autonomous supply chains [S2] and cold chain infrastructure [S3]. No specific employee ratings or culture flags were found in the provided evidence.",
+    "hook": "Licious has been heavily scaling its automated supply chain initiatives, recently focusing on building out robust cold chain and planning infrastructure.",
+    "hook_source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTYtZlNuamdGbTZDN0lSdXhBQlRhUkJmeUU3X1dzaW5QNWF0ZG5vLWlVNGtWVm53OTVJTkpFdlN3blFPRFNXOHZ4UVlsRm5XQ2pWQXBCeXJtTWJ1c0JiV1lZbFBTWS1RelRYQ0RHaURTeFNMMlg5b0JzMVdDbEJWamlWejk3b1AxenJVa1BWcDdmTkR2U3FRN2Zn?oc=5",
+    "researched_at": "2026-11-18T13:24:55+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Licious wants to be the Amul of meat and seafood, using content to build culture - afaqs!",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFRqLW5tMVFTM2pXdFpETDk5ZnlYWWhidm5UaktRUGN0cExhUlJBZGRjdTY0WUFUSndnVjNodlNoYnVQYkZSQWphZU9mRjN0elpPeVNCbUY1RTh2Qm80cndxWUMyM25uUmpUQjdKVHVMamx3R2pnVHhGTkVGalFvXzh2OHpPU0dMMmhyQWMtdUdDRklkU3NOd3VfTTI4eWxIZzVITjlxSllXWjE0NzY2Z3N0XzhRYmZnRmpUbg?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Licious bets big on autonomous supply chains - Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTYtZlNuamdGbTZDN0lSdXhBQlRhUkJmeUU3X1dzaW5QNWF0ZG5vLWlVNGtWVm53OTVJTkpFdlN3blFPRFNXOHZ4UVlsRm5XQ2pWQXBCeXJtTWJ1c0JiV1lZbFBTWS1RelRYQ0RHaURTeFNMMlg5b0JzMVdDbEJWamlWejk3b1AxenJVa1BWcDdmTkR2U3FRN2Zn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Licious and the Cold Chain Imperative: Building India's First Organized Meat Delivery Infrastructure - MarkHub24",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeE9ubF8zQ0NmRzVoY09BUDE3ZlQtYmJ1OWhnZHZGRFNJcjduSVM2NTIyWmpJZG1fejZMM2lLVWNDS241eEpCdDE1MzlUMmpod3FzdF9rbW03dGE2TW9mdDdDRHpMbVRHYlJBbDdoa1ZYbG1DVi1WaXV0ME5Hd1RaYUJieF8xb0tNNlRKVExReEtYa0ZxajlMb1RlUDJkQVV0ZGZQUDJzcjA4Mzg4bDRuMFNDQVN5Tk03N0dfVnFiQzJBLTRoZFo3enRn?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Licious’ ‘Mother of All Momos’ campaign reaches 18.54 million consumers, Mumbai, Bengaluru and Delhi-NCR report growth - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNWtvSldBeVVPUi1qSGZjNDhBUE5Ya19jN1dVYnk3Vy1rVWRHNDdQMnhWcko2WG83WUdkc0d6NUVjMUROQWNtRlBjWkhudnVLVTF4RF9VekFLRkpyZEMybmVJRkg2OHZ3U2ZraXVmN1FaSWRMdVNYcWpZTFJfVHpEMDdKMVA0NTFFM09Tel8wdFBrNFNYWkhCYkRod2wyX1pEVllZYVpmLUl5WjItTF9NYVZqc0l3ZWZWLTQ0Z1pUWWlkcnhoM1N4NzJMYml2bmtXZHNJTG9nS25aSEJMU08xS0lZZmhiRUdNbFFseGppd3hQVmZtVl9HTmlFY1jSAYICQVVfeXFMTjI3YnVPZ3AyS3Z0M3VWOXNtd1VuM2hrbHZ4b2tUc3JONGRIS1liOXZjWFgtRXFQODI2TlUtSVpHMjNpbnhYVGhZUFlaektMaDZaNnJwdFEzRm15X2ZXT3RuSkN1OXZPeDFDbDVBVUxBakxITTl1a3lySjJMLUpEVXdvT3l6eEFuNzBhUGdRMFJsRUVTU3JhTUlfWGh1YzBsRmxJMG5XeVA1WGJaWm1DZlFfeXhQcEw2ZGZmQjNFazNkMlNrSnpEZWNSQTFPWF9McnRtcDZsNmNTTVlvZWgyQUhaVk1IYmI1Q0UzSU96cVlMQzVTMVBvTFdlcHRLLWRIVk1R?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Licious drives up to 5.2x growth with ‘Mother of All Momos’ campaign - Indian Television Dot Com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTJyOTBra1BfWk5tM1RTeWRjVDFhN1QtWVRJNG9QeVZHamZ3M1AzNGY3eHZVRmxzV3dRcVYzYTRPQlRnZVlNM1BYMnZTcVh5UlVYNjgxby1vV253QnBmTGxrcTN0OF90NjRlbzhaSE1ySHBHM3N3Q1pLdVBRTGFQaTA5TDdIYnRRal9DTTBvQXk5emU2cy0wbERmSm5VWUdsQXc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Licious, Lickicious & Other Cheeky Name Twins: Why Do Brands Sound Alike? - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQzVJTDJyYlhYbVM1ZXI1cmoyNG9VVkhCV2I0cUVQby04Uk91czVWblNNaHAzWWw2OFFYZ3Azd0I0RXZOSFBHQlc0allSVE42QjFXMjZISk5fYnY2c1h2LWZaemJuUmhQY0JzWEJhRzFRem5KampwQ2tPeFlQMEhJYUlMaU90SWI1MFJWd201cC1yOFg2TTlKTDYxQWZtRjZNTC1oSFR0ZFhuWkdaZXhERUFPLVozWWxjWTRMUENkRW9COEJfNTdTbkwzbw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -196888,14 +196930,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-18T13:24:55+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 67: rejected (Pay is not stated and Licious does not have public salary benchmarks matching Rs 24.5 LPA fixed for an Assistant Manager role; plus, the posting explicitly asks for R and Python/Power BI expertise in supply planning while his core background is S&OP and inventory management at Ola Electric.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-18T13:24:55+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Pay is not stated and Licious does not have public salary benchmarks matching Rs 24.5 LPA fixed for an Assistant Manager role; plus, the posting explicitly asks for R and Python/Power BI expertise in supply planning while his core background is S&OP and inventory management at Ola Electric."
   },
   {
    "id": "L1671",

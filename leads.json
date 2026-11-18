@@ -28617,15 +28617,15 @@
    "key": "creditaccessgrameen|operations manager|bengaluru",
    "type": "job",
    "company": "CreditAccess Grameen",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "creditaccessgrameen.in",
+   "company_url": "https://www.creditaccessgrameen.in",
    "company_linkedin": "",
    "company_note": "",
    "title": "Operations Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "435977",
    "source_url": "https://www.instahyre.com/job-435977-operations-manager-at-creditaccess-grameen-bangalore/",
@@ -28656,8 +28656,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 30,
+    "total": 42,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -28666,15 +28666,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Operations Manager at CreditAccess Grameen, asks 9-13 yrs, but you have 1.3 years of experience.",
+    "fit_notes": "The posting asks for 'Experience of 10 - 15 years in managing operations of a digital platform' (and summary lists 9-13 Years). Shlok has about 1.3 years of experience, making this experience requirement a severe mismatch. While he has relevant operations experience at Ola Electric like owning inventory and S&OP planning [sop, msl], he falls far short of the senior decade-long track record demanded.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures were found in the evidence sources.",
+    "culture_notes": "CreditAccess Grameen is a leading microfinance institution headquartered in Bengaluru with over 1,681 branches [S6]. Recent news notes Q2 profit beating estimates, though Nomura flagged asset quality risks [S1].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-18T23:22:43+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "CreditAccess Grameen: Q2 profit beats estimates, but Nomura flags asset quality risks - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVTRhaUNBS0djOExhcVppbnZBTm1wVEdJNkdlQnJaeTg0Mm1pbm1vM0s0UF9BYjhKUzN4U3pJcUtMakdtYWgwV0JpOHA1NVpWNDliMnBWZGNKa2RkUGM3d3ZBTHllZXJ1UkZqTGxjNlNqQ19Jd21hYW5rMWhVM054eWl6R2tBSnptUlZQdnpCel9MRWR6NEp5SllNTWhoNWxmSENkS2FRTGM1bnRocV9KNkMwZUVJcnVCczMwMTlGR1RlUnlWbGhXT1dOZFUyVllHOWhRYXBKalNZUDZOTEFIddIB5gFBVV95cUxPUFRUTkNHN3hQWVdwbnRFYzlHNFJkTGo5MTlCTmptYnNwUmlEMjg3cl9WSDhpdU1FZm8taXRleldEcllfWFZVTkNQdF82QTcwS3BFM2pIZl9laURNT1dBdXZTaHpxTW9BeHQxVmY1dDUzY3ZTd2FaQjZxTzgwZUVuYk5aWmY5WVRsc2Jya3JVTnlyV3I3UGNDeC12ZDRxeWJPMk1tZ3N3QUJhb2gwM3YyQ3dHNXJ5U2x0b0FFSEFxSUR5VEVmcjJ0ZFQ0UkxEdjhrcWl4cTV6NE16X09pU0l0TWpDUHh5dw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "CreditAccess Grameen Ltd. Peer Comparison – Compare with Others - Value Research",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQk1DWWVoYWhwdEVLSk1GYldKZldKcDFFQUpVN3BHR2FrRlRiLXp1alVIT3pDMXZ6b1ZvZ0pBWXVLNFpMTnRpZ3ktdkZFT3dUTFBKZVpmUTZrU09SQmZ0TEJLLXNTdTF5eF9hTVpvS05GRGVWN1lNUVV6OHJZcHhCM0J3Y3lkeW5sRW5WQXdSd0pjMS1w?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "CreditAccess Grameen Raises INR 425 Crore via Private Issue of NCDs - bfsi.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM0ZtU1lZVVZlN1d1ZE1ER3RWa0dVR2p2TjFqR19SLV9QRGp2VzhCdGFacHFFWTNfS3pGZW9zaVVlX3FNTmQ0bjJkQnRJc1FIaXNPTnNCNmVHMlZCcG9NSm85cEFrdGFjQV94MTlsV3k3Yk1YNGJLMFZoNnpMVm53YWxKRkNQV3BvN1NROWk4T2JpVXZqMDJ5LUVmeGhsOUlHX1o1UmNCUkNmbzY5elI3VV80dUYybTdhb2R4WW1wRVhJNEEycU1v0gHMAUFVX3lxTE05ZkVJTjF4MmNyREdJQTVTbDJ6Wk9PbjdDbUdaZFBBQUk0cmxmUmM0c1ktemJ0a3JjNElmNEdXYkpEdHVCbDNBeFdkZGVBdWp0TUpGZVR0TTlNdkRvd1d0NkpkLVlzRUVKTHUwY0c0M2RTQmZsVGIzd19jdU1QRlhiZ281dThXcG44Q2dPUG55RzRieUxJeUpnZGxHX3R2RFhWZGVER0lTd1RoZFFGS3B1dVNoeGhzWUlhd2RvZ19vNzlBeFRiSDRmVllWQg?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "CreditAccess Grameen surges 7%, stock hits 28-month high; here's why - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0gzOV9MVlNQc2hhU2FmTkJMdFhzb0lZcHpuNUM5OG96QXcyQWwwck5vVl9YaTZUdXlKWE1OTGVxZmlBZ1hHUHEtdTJZVTRZOUdIU2FidmhQc1BDRFhucEJkdVVnZFJJRlBDT2VybXVDVXVudW9Sb1FUM040d0t5S0hDcnZkYVVmX1BzSXQ0ZzZkcU45b0tCQk5rOXo3Qmp5enphOS1Dckc5U2VYZkoyTVItSndqdXk5a1ZlbG9pSG4xZlA1RHo0V2JHZ0HSAdIBQVVfeXFMTVJ4V1VXcWdSaDVad3ZnelRCWUIzZ1R5OXFUc1p4LVRhZVh5M0ZvWlg3czhTYjF6V3hCN2RpWVNHWmFBNW9NUTdBb3RsRkp5NlI0Qi1FdzRONWhHZWhFUUdtNlhuS25OM3pLQnVqVEljU3d3dkFKX2s3VU13X21jU19HdDRRX0VmSU51d1NKUENNdjVlMHVXUlZudDdmeXJiZ3NiNnlYOWt0V2dNei1iNG9BcG9QMXJPN3NlWFZ2YXRiUThHRzNvNHpSOVQySGhMR0ZB?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Earnings call transcript: CreditAccess Grameen posts strong Q1 2027 growth - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTIxR2R0Y1pUUHpFQ09YeW9LVjBvWjJ5UGpDVkxRdXJrOE5rV2xGQUxxNkJEY2hRSXBvV1F2MzAxVlhQM3g0TFkwdEpNbDcyMXZwOHFNMFZwamxYREtvUGpza2VEODczbGJrMkZjVkg5aTJBbm1aNHB4TXlabVIyTjRGdGxOaTNCaWRmOFJWRXk3MVZKdlQ1a2kzRFZSaFpCQnNmWGs3M2g5OGJpSlV3UnZKNHptWkdkSzNnMlBSOHN6MXcyd093bw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "CreditAccess Grameen adds 2.5 lakh borrowers in Q1, loan book tops ₹30,000 crore - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlc3M0p0YVkxZTdXTk5UWlRMVnR3RlRYaEFNV1dvQjN4S0lqaHdaOHhSajRsSlIwdEJYLUk0bTZUdWlaalpKWW81X2o3VG5KVDhxNUIzRmNzMllORm9ydHVFNS1xSXZBR1R3cEtSMEZRSVhEQkpabkJCZWlpWWNtM2lDOGpRR0RmSVlVaG01T2hKRXYzZUZNa0FTOUFlLXhiRTBOUmpzeDVBck4yR3NLNkh6WHhCcGQ4M1Iw0gHAAUFVX3lxTFBYODZVZlBDWU14NVZPOFp3TGZJcWx2cHFzRm9aMGZjZ0pzUk5oWHJ2Y1pybURHZWpRUWlNb0g5ZDZVNFV5Y0hIZ25aUk41ZVlRb2pDeEdxejJWWmRKRVBtdE9tNFpjajE4YXNFX25hV1l1MGY4RU44bGFuclY5RE9RRkNuazdqcERFSTJXeUhKYjRaSThxV3dHMFdUZmF4QUxzZG9UdTlxVXl6Y2otdVQtdGNGZUFFZ0FtME16c3FiRQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -28698,14 +28736,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-18T23:22:43+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 42: rejected (The role requires 9-13 years of experience in digital operations, which exceeds Shlok's 1.3 years by a wide margin.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-18T23:22:43+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 9-13 years of experience in digital operations, which exceeds Shlok's 1.3 years by a wide margin."
   },
   {
    "id": "L0232",

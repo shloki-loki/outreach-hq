@@ -1780,6 +1780,41 @@
     "binned": 38,
     "unknown": 1052
    }
+  },
+  {
+   "at": "2026-11-18T13:37:17+05:30",
+   "agent": "research-worker",
+   "ok": true,
+   "summary": "28 researched (3 qualified, 25 rejected), 0 closed postings binned, 12 left for a person",
+   "stats": {
+    "researched": 28,
+    "qualified": 3,
+    "rejected": 25,
+    "binned": 0,
+    "left_for_a_person": 12,
+    "errors": 0,
+    "models": {
+     "research": [
+      "gemini-2.5-flash",
+      "gemini-3.8-flash"
+     ],
+     "judge": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite"
+     ],
+     "reader": [
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash"
+     ]
+    }
+   }
   }
  ]
 }

@@ -34739,6 +34739,11 @@
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
+   },
+   "research_attempt": {
+    "at": "2026-11-19T23:38:12+05:30",
+    "why": "model answer failed the checks: pay basis is 'stated' but the posting states no figure; use estimate or unknown",
+    "by": "research-worker"
    }
   },
   {

@@ -206410,6 +206410,11 @@
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
     "why": "HTTP 429 for https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/4466724059"
+   },
+   "research_attempt": {
+    "at": "2026-11-19T13:30:47+05:30",
+    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
+    "by": "research-worker"
    }
   },
   {

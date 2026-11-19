@@ -207989,8 +207989,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 15,
+    "total": 39,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -208000,15 +208000,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Junior Associate CEO Office at Starclinch, Delhi, 0-2 yrs fresher-level gatekeeping role; below your level and location.",
+    "fit_notes": "Executive-assistance work, not strategy.",
+    "pay_notes": "No pay stated; fresher-level role implies far below floor but no source read.",
+    "culture_notes": "Not researched.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T10:46:24+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -208032,9 +208034,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 74"
+    },
+    {
+     "at": "2026-11-19T10:46:24+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 39: rejected (New Delhi (Okhla) onsite; junior executive-assistant style role ('CEO gatekeeper'), 0-2 yrs, freshers welcome; pay will be well under 24.5 LPA.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30"
+   "updated_at": "2026-11-19T10:46:24+05:30",
+   "reject_reason": "New Delhi (Okhla) onsite; junior executive-assistant style role ('CEO gatekeeper'), 0-2 yrs, freshers welcome; pay will be well under 24.5 LPA."
   }
  ]
 }

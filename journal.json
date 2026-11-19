@@ -3293,6 +3293,15 @@
    "title": "Template job-apply-v1: 3 emails queued",
    "detail": "0 addresses left after today; refused 0",
    "ref": "M0096"
+  },
+  {
+   "id": "J0367",
+   "at": "2026-11-19T23:10:33+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 63 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

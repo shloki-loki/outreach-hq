@@ -44265,15 +44265,15 @@
    "key": "kaleidofin|product manager|bengaluru",
    "type": "job",
    "company": "Kaleidofin",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "kaleidofin.com",
+   "company_url": "https://Kaleidofin.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore,Chennai",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "instahyre",
    "source_id": "449322",
    "source_url": "https://www.instahyre.com/job-449322-product-manager-at-kaleidofin-bangalore-chennai/",
@@ -44304,8 +44304,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 75,
+    "total": 69,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -44314,15 +44314,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager for credit scoring at Kaleidofin, asks 3-7 yrs; your API and analytics work maps well despite the experience gap.",
+    "fit_notes": "The posting asks for \"3 to 7 years of experience as a product manager on ML or data products, or as a data scientist\" with a \"working grasp of how credit or risk models are built\" and \"comfortable with APIs and data\". Shlok has 1.3 years of experience (making 3-7 years a stretch, but his tech background and API experience [idekho] fit the data/API requirements). He does not have an MBA or consulting background, which are not required here.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures are available in the evidence.",
+    "culture_notes": "Kaleidofin is recognized on the Forbes 100 To Watch in Asia list and selected as a Great Place to Work for multiple years. No negative culture flags found.",
+    "hook": "Kaleidofin recently secured a $5 million impact debt facility from WLB Asset VIIB in June 2026 to fuel its financial inclusion mission.",
+    "hook_source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUc1Ym5BMW9wenIxWEE3WVBsNmtpOUJoR1NqMkhvZ0ZPYUV1ZmVTa3VrWS1hNnNOR3RfN2djLWNjczhVUFc5RmNrM0w3cUxmc2szUzZWbG5MS0hIbHZkV19ISTc2TDVmcF9LTUNNX19od0pwX2YxaElObTE5NTVDZlByaDFOQmVGMU1CbDRXZTAySlE?oc=5",
+    "researched_at": "2026-11-19T23:40:31+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Chennai-based Kaleidofin Capital Private Limited secures $5 million - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaGd0aXRFb0RYdVNLQmhkdmxvMm9EQmxZSlk2WmJ0dWJYSlo1YlUzU2hrckFZWmVHSmtGTmh6TFQtaUoxMGk3Ym5UZ29la2JLR1o0SzNHaUgycHdfMk1GTjBtUTB6NDJOYlBmdmxxWkhtUjRyUUlZd0wzbkItYTRpeHplZVRzTkw3UUsyMWhGbzZ2ZFEydC1nbFBVajFEaHB6dzIySDJ2S2h6RFpkT2FNNjV5TUNZS3lJV2M2c0VPR1dzUkV3NmJ5b25IWE4wQWhkUkHSAdgBQVVfeXFMTXFVZWRIYU1LWWRtTlEzTDN4VDdHY1FIeDhrd3VUS2Rnb3dmZzJCUktOWHJxNndpbVd5WS14VVp6UnQ3WVdpUW00V3hjTE1SUDNSblU1Yy1EcDNoU0oySU1fSzdmSEl2V1lIVDY4Z0dSdEQ1OEppXzQxOHZJc1BpTHp5ZXZRTmNxSHpzbUFsLXJpU0k1NzdIcjZPcjZYLWdsbTJEMjlfVDFJNldwbm0xeVN1YWl1eXZtRGwtT2RvbzhRa193UjRORzdQczVKMDR6R2FLUnQ5anF0?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Kaleidofin Capital secures $5m impact debt facility - IBS Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUc1Ym5BMW9wenIxWEE3WVBsNmtpOUJoR1NqMkhvZ0ZPYUV1ZmVTa3VrWS1hNnNOR3RfN2djLWNjczhVUFc5RmNrM0w3cUxmc2szUzZWbG5MS0hIbHZkV19ISTc2TDVmcF9LTUNNX19od0pwX2YxaElObTE5NTVDZlByaDFOQmVGMU1CbDRXZTAySlE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Kaleidofin Capital secures $5 million debt facility from WLB Asset VIIB - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOell1bkpLUnhfMTY4RUdTLUNJb3FoWFlseFlFeVdVbERGamMyU2dKTks2eFRIT2NOYmZMbkg4S2s1VXFJOVg5VVJITHJoOFVQSkJ3YlprWkRfd1BFSi1MTlFvWDM3SVVGUWhYaGNhZTZmbHc1NUlkVWZGVDAxdnJjMWtIcWJydU9pakpHRVctOFQyMzdoRmI3MzNCZnY1UXlLZ2E0LVBGVF9NUjZyWUh4VjBLdnZUVlV3QmY5RmR6LVpXM05FQk5DREtn0gHPAUFVX3lxTE9CVnhHZzJ5V2hiWWJyZGRCSGNKWWIzNG82QkpOZmtMNVRQWjFHRFc1VnNLQlhNcVN0QXl2SEY0dWxrYUhGUXFsc1NJR2JZaFVEVm0wVWNxUmJPc25HQnQ3cV9Za1h3blVYaFpUemVPdjhRSTdaSlFkdXJzUmJ0cEwzRVVtVEl5aHI3X0VoeWdGc3RZM3hOMU9pOHZRTG9ZV3A4MXVaTlBNMkNwXzg5a2p3LXZuMHNDQmdDY0ZuTEJCbUtPNE5vZUxCSFBsSVYyTQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Rabo-backed Kaleidofin’s NBFC arm secures financing from impact investor - VCCircle",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2gxWG1CNHhldnZBX2xkNE51dUZwR3FBTTduZUtIM0lpLUo1M1JnSWJ3dHBDRWVUWXQ4WjF1VjRRS0dqZkJxUWI5X1pJbThmTFkwdTR0bkEyUG1QRWl2a1VsSVJMTzduODJrbE5uRE9kQ2NCamtDazZoTnkyV1pheHBLYkx3WllpRFdNcnVrc0ozR3hVOHRjeXdTQ3XSAaQBQVVfeXFMUGl4Mi1ZUXY1amlDLTR2S0VtNmZOVTNYc2xqTV85clphSG56T2Etdy0xU3NmcFYyQ0xXdUwtX0s5LWtFRDgxdXRITE9yMkIyNGtQQnFqNTJWR3Uxc28wZjVyV2EwLXZJOFhhMGhleWRaSXNZdVowRndlQnRJdUdkNWVOZnEwYmFHSG51SUhoU2R4MTRJMmtSeUY1Q3BIcTRvaE1aN1M?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Kaleidofin Capital raises $5 million debt fund - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUxvSjZUOUJGU2Y1bmp4VFAwWVp5bzQ0RGxLUDNzc3QycEdhUHlNOU1rOWtILWpGWWVTQ3M5bV9QWldrN01VYk5VbEtGcVRzRGYtNnpkTkxzd1ZjTmFQUTRqdFcxZ2JKT2tHVW9VWkhIb0hUR0ViX0lMOUptRTlpb0U5T29pMHJrTjZobDVLVDgzSmo4LTgyS1lOeFlONjJFR3ozTlhSd0t4b25HMlNkVWQ0ZXJLNkpRZURTQdIBwgFBVV95cUxQTkRNV19GQXZ5WldBd3Z4Y1VNWmJnOW12TnlPbnc0VEdtbDBacUFYMWhQaW4yaXg3b1c5TTRDSXNicVRLNUpTcktYX3plYjdTOGIxRVI2TE01OUhlSS1UelVWWUwtankwSTlwTjRpdDUzcTZTUTlKR3JndHhfUDhDVXJua2lGSGJ0T0YwdGFud2lKYnhpXzNpLTVSUmhXc19EQ3hiY3M2LTNxaEJJV3Y2U1lBQmZxQjRtMnpFQnVnMk5PQQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Balaji Varadarajan Joins Kaleidofin Private Limited as Vice President – Human Resources - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWJGQzZxZjZ2MjBMbDB2OURaeEIzcm9XcERqS1dQZUU2X3VOSEVQRk5jaXozSXVZdHpvU1phcjg0aEg3RlV4bE5hSVV4bUF4TGtGVFB2Q1p3S1hHTFhPUkNIQnoxenNaRVJWMWwxbUVqMWhpczF5YTJpWlFTZTNNOXdVeW1qc3Q1SXZYUkplWmxERS1oYzE5eUZRNlByMVNOOEVOSjNhSUo?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -44346,14 +44386,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-19T23:40:31+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 69: qualified"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-19T23:40:31+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0353",

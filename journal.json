@@ -3104,6 +3104,15 @@
    "title": "Supervisor check 19 Nov 21:30 IST",
    "detail": "First status call failed (git fetch of data branch, exit 128); manual fetch and retry worked, same as I0015. All agents ran today: scrape 15:09, track 16:17, digest 16:29, live-check 12:52, research-worker 13:37 (marked failed, 0 of 28 qualified), people-finder 13:37, writer 14:23 (Gemini free quota used up), send-track 10:51 (no draftable leads), follow-up 11:41 (10 drafted), founder-emails 18 Nov. supervisor/check failed 17:17 on expired claims W0006-W0008 (I0014). GitHub workflows: last 15 runs all succeeded. No messages sending, failed or approved. Data log shows no collisions or mass deletions. Site /login answers.",
    "ref": ""
+  },
+  {
+   "id": "J0346",
+   "at": "2026-11-19T21:25:40+05:30",
+   "by": "supervisor",
+   "kind": "review",
+   "title": "Daily review 2026-11-19",
+   "detail": "Ran: scrape, track, digest, live-check, research-worker, people-finder, writer, send-track, follow-up, founder batch; supervisor/check failed on expired claims (I0014). Problems: 16 open issues; new today I0023 (no draftable leads), I0024 (LinkedIn 429, flaky git), I0025 (Reoon key leaked in issue text), I0026 (19 drafts waiting). All diagnosed. None fixed (no code changes in scheduled run). Funnel: 1788 leads, 394 researched, 92 qualified, 12 emails sent, 4 applied, 1 replied, 1 interview, 0 offers. Reply rate 8.3%, bounce rate 0%. Verifier: Reoon free quota spent, no Hunter key. Needs Shlok: approve or skip 19 drafts; rotate Reoon key.",
+   "ref": ""
   }
  ]
 }

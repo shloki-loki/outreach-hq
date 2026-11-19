@@ -206033,16 +206033,23 @@
      "actor": "email-finder",
      "event": "contact_added",
      "detail": "Shravan Subramanyam (hiring_manager)"
+    },
+    {
+     "at": "2026-11-19T13:37:28+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-19T10:52:16+05:30",
+   "updated_at": "2026-11-19T13:37:28+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
    },
-   "verified_at": "2026-11-19T12:52:25+05:30"
+   "verified_at": "2026-11-19T12:52:25+05:30",
+   "people_searched_at": "2026-11-19T13:37:28+05:30"
   },
   {
    "id": "L1731",

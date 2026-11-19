@@ -210994,7 +210994,7 @@
    "key": "aerome|founders office|india",
    "type": "job",
    "company": "Aéromé",
-   "company_domain": "",
+   "company_domain": "aerome.in",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/aerome",
    "company_note": "",
@@ -211002,7 +211002,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489714582",
    "source_url": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-at-a%C3%A9rom%C3%A9-4489714582",
@@ -211033,8 +211033,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -211044,15 +211044,35 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Aéromé in Mumbai, but asks for executive calendar management and the location is outside Bengaluru.",
+    "fit_notes": "The posting asks for someone to 'Take complete ownership of the Founder’s calendar, meetings, appointments and daily priorities' and 'Driving execution and ensuring important decisions translate into action'. While he has strong strategy experience from Ola Electric [sop, ceo-coo], this role has a heavy administrative and calendar-management component based in Mumbai, which violates Shlok's location preference of Bengaluru or remote first.",
+    "pay_notes": "Pay not stated in the posting, and no salary evidence found in sources.",
+    "culture_notes": "Company stage, funding, headcount, and employee ratings were not found in the search evidence.",
+    "hook": "Saw that Aéromé recently brought its scent-led design experience to the AJIO Luxe Weekend 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xeVk2WGF3a2VpQVp2NU1FbjZzRE5wUG5yaEQtWC1DMmVIWVBaZEx4bDQtWFR1TGVEejRDR3YxYU5YN2dOT3NmUlJHcnI0LTF5LWFCRUNDTjYtdFk4dWJyLXNHcnBIUQ?oc=5",
+    "researched_at": "2026-11-19T23:16:31+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Aéromé Brings Scent-led Design Experience To AJIO Luxe Weekend 2026 - IFAB MEDIA",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xeVk2WGF3a2VpQVp2NU1FbjZzRE5wUG5yaEQtWC1DMmVIWVBaZEx4bDQtWFR1TGVEejRDR3YxYU5YN2dOT3NmUlJHcnI0LTF5LWFCRUNDTjYtdFk4dWJyLXNHcnBIUQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Aéromé Collaborates with Sussanne Khan's The Charcoal Project at AJIO Luxe Weekend 2026 - Indian Retailer",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd0NDd1Z3aHpacGR5QjllUmpWbWZGZEtxYWdxNXl4eXNiOTBobzE3eVE1RlRGVlQ1TVJrWUYzcnJTNGx6cWhnRTJIcWVUYTN3WmdMV2h1QnJ5dmNsV0ptc1pQcVUwQ0tIOXdTUnJIYURIdFRoWEpyRXBqTE9CZTdFZWVsSU5UZFMteGl0bkgwc0psNjlxNmg1QnpEMGFKS2VRTlVPeHZlbUNYQmYtd0JmM1FqRUItNkwtMDdYWW00MlpJUzVJdnJJQThqNVR4MkkwS1d2bQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -211076,9 +211096,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T23:16:31+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Role requires Mumbai location (violates Bengaluru/remote requirement) and focuses heavily on executive calendar management and administrative scheduling tasks rather than high-level strategy.)"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30"
+   "updated_at": "2026-11-19T23:16:31+05:30",
+   "reject_reason": "Role requires Mumbai location (violates Bengaluru/remote requirement) and focuses heavily on executive calendar management and administrative scheduling tasks rather than high-level strategy."
   },
   {
    "id": "L1771",

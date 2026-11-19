@@ -212427,7 +212427,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490826581",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-4490826581",
@@ -212443,7 +212443,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Company Description Monome Constructions Private Limited is a growing player in the construction and infrastructure sector, delivering projects with a focus on quality, safety, and timely execution. The company works with a range of clients, including commercial, residential, and industrial partners, and emphasizes long-term relationships built on trust and performance.\n Role Description The Business Development Manager will be responsible for identifying, pursuing, and securing new business opportunities for Monome Constructions Private Limited in Bengaluru. This full-time, on-site role involves prospecting potential clients, managing leads, and building relationships with developers, corporates, and other stakeholders in the construction and real estate ecosystem. Day-to-day activities include conducting market and competitor analysis, preparing and delivering proposals and presentations, coordinating with project and technical teams on bids, and tracking the sales pipeline from initial contact to contract closure. The role also requires maintaining accurate records of client interactions and business activities, participating in industry events and networking opportunities, and providing regular reports and forecasts to leadership. The Business Development Manager will collaborate with senior management to refine go-to-market strategies and support revenue growth targets.\n Qualifications \n Proven experience in business development, sales, or key account management, preferably in construction, real estate, infrastructure, or related industries.\n Strong skills in client relationship management, negotiation, and stakeholder communication, with the ability to engage decision-makers and build long-term partnerships.\n Ability to conduct market research, analyze industry trends, and use data to inform business strategies and identify new opportunities.\n Competence in preparing professional proposals, presentations, and sales documentation, with clear and concise written and verbal communication skills.\n Comfort working on-site in Bengaluru, with readiness to travel locally for client meetings, site visits, and industry events as required.\n Bachelor’s degree in Business, Marketing, Engineering, Construction Management, or a related field; an MBA or equivalent postgraduate qualification is an advantage.\n Strong organizational and time-management abilities, including pipeline tracking, follow-ups, and meeting deadlines in a fast-paced environment.\n Proficiency with common office and CRM tools (e.g., Excel, PowerPoint, CRM software) and a willingness to learn new systems and processes.\n Demonstrated initiative, resilience, and professional ethics, with a collaborative approach to working with cross-functional teams.\nSeniority level Mid-Senior level | Employment type Full-time",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -212458,8 +212458,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 30,
+    "total": 44,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -212469,15 +212469,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "BD Manager at Monome Constructions, asks mid-senior level; your EV supply chain and ops experience does not map to construction sales.",
+    "fit_notes": "The posting asks for 'Proven experience in business development, sales, or key account management, preferably in construction, real estate, infrastructure' and a 'Mid-Senior level' seniority. It mentions a Bachelor's degree with an MBA as an advantage. Shlok has no direct BD experience in construction or real estate, though his sales and curation leadership at Alcheringa [alcheringa] shows general scaling, this is a traditional construction role far from his Strategy & Ops / Founder's Office priority.",
+    "pay_notes": "Pay not stated in the posting; no evidence found.",
+    "culture_notes": "No company website, reviews, or news found; construction contractor with unknown culture.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T23:20:56+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -212501,9 +212510,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T23:20:56+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 44: rejected (Role is a Mid-Senior Business Development Manager at a small construction company with unstated pay and no tech/strategy alignment with Shlok's high-growth EV ops background.)"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30"
+   "updated_at": "2026-11-19T23:20:56+05:30",
+   "reject_reason": "Role is a Mid-Senior Business Development Manager at a small construction company with unstated pay and no tech/strategy alignment with Shlok's high-growth EV ops background."
   },
   {
    "id": "L1784",

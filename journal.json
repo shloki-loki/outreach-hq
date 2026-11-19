@@ -2933,6 +2933,15 @@
    "title": "Ran",
    "detail": "1376 postings checked: 304 live, 19 moved to the Bin, 1375 could not be checked",
    "ref": ""
+  },
+  {
+   "id": "J0327",
+   "at": "2026-11-19T13:37:21+05:30",
+   "by": "research-worker",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "28 researched (0 qualified, 28 rejected), 1 closed postings binned, 10 left for a person",
+   "ref": ""
   }
  ]
 }

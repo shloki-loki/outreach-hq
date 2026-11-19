@@ -2145,6 +2145,17 @@
      ]
     }
    }
+  },
+  {
+   "at": "2026-11-19T13:37:30+05:30",
+   "agent": "people-finder",
+   "ok": true,
+   "summary": "1 companies searched on LinkedIn, 0 people added",
+   "stats": {
+    "leads": 1,
+    "people_added": 0,
+    "skipped": ""
+   }
   }
  ]
 }

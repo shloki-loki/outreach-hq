@@ -211820,15 +211820,15 @@
    "key": "intuitive|lead supply chain planning and logistics|bengaluru",
    "type": "job",
    "company": "Intuitive",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "intuitive.com",
+   "company_url": "https://www.intuitive.com",
    "company_linkedin": "https://www.linkedin.com/company/intuitivesurgical",
    "company_note": "",
    "title": "Lead Supply Chain Planning & Logistics",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4484428326",
    "source_url": "https://in.linkedin.com/jobs/view/lead-supply-chain-planning-logistics-at-intuitive-4484428326",
@@ -211844,7 +211844,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Company Description\n It started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels everything we do at Intuitive. As a global leader in robotic-assisted surgery and minimally invasive care, our technologies—like the da Vinci surgical system and Ion—have transformed how care is delivered for millions of patients worldwide.\nWe’re a team of engineers, clinicians, and innovators united by one purpose: to make surgery smarter, safer, and more human. Every day, our work helps care teams perform with greater precision and patients recover faster, improving outcomes around the world.\nThe problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful—because every improvement we make has the potential to change a life.\nIf you’re ready to contribute to something bigger than yourself and help transform the future of healthcare, you’ll find your purpose here.\n Job Description\n Primary Function of the Position\n We are seeking a supply chain professional to own end-to-end demand forecasting, supply planning, inventory control, and logistics execution for a portfolio of medical devices — capital equipment, instruments, accessories, and spare parts .\nThe role drives a disciplined S&OP process across a regulated, lot-traceable, and often import-dependent supply chain — balancing patient-facing service levels, working capital, regulatory compliance, and cost-to-serve.\nThe incumbent will be the bridge between Commercial (tender + commercial channel), Regulatory Affairs, Quality, Manufacturing / Imports, Finance, and Service — ensuring on-shelf availability of life-critical products and uninterrupted service support to the installed base.\n Key Responsibilities\n Demand Planning & Forecast Management\n Own statistical and consensus demand forecasts at SKU / region / channel level, segmented by capital equipment, instruments, accessories, consumables, and spares, on a rolling 18-month horizon.\n Support New Product Introduction (NPI) launches — build phase-in plans aligned to regulatory milestones, sales-force readiness, and channel fill.\n Manage EOL and product-transition planning with care — clinical preferences and regulatory constraints make abrupt phase-outs risky.\n Run spare-parts and accessory planning driven by installed-base data, attach rates, and service-event history.\n Track forecast accuracy — MAPE, WMAPE, bias, FVA — at category level; isolate tender forecast error from commercial baseline.\n Supply Planning & Inventory Control\n Convert the demand plan into a constrained supply plan across in-house.\n Work closely with global Supply planner.\n Own inventory planning and control — safety stock, cycle stock, and strategic stock — segmented by criticality (lifesaving / Class C-D items held at higher service levels, slow-moving accessories at lower tier).\n Manage expiry, FEFO discipline, and inventory ageing to keep write-offs within t",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -211859,8 +211859,8 @@
    },
    "score": {
     "rules": 72,
-    "research": null,
-    "total": 72,
+    "research": 38,
+    "total": 52,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -211871,15 +211871,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Supply Chain Lead at Intuitive, asks 7-10 years; your inventory and planning work is strong, but the experience gap is too wide.",
+    "fit_notes": "The posting asks for '7–10 years of professional experience in a similar position', a Bachelor's degree, and 'Familiarity with an integrated ERP, preferably SAP (MM / SD / PP modules)' alongside advanced planning systems. Shlok has 1.3 years of experience. While his experience owning S&OP production planning and implementing SAP MRP from scratch ([sop], [mrp], [ceo-coo]) maps exceptionally well to the S&OP, inventory control, and SAP requirements of the role, the 7-10 year experience requirement is a hard blocker for a candidate with just over a year of total experience.",
+    "pay_notes": "Pay not stated in the posting; no external salary benchmarks or estimates found in the evidence.",
+    "culture_notes": "Company quality is high (global leader in robotic-assisted surgery like the da Vinci surgical system), but employee ratings, Glassdoor reviews, and specific culture flags were not found in the evidence.",
+    "hook": "Intuitive recently introduced new enhancements for its da Vinci 5 surgical system.",
+    "hook_source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWRJSnU4anR5UVA4UWNIQmFDQ21IM21Sdm9nVFBmLWlXa2wxN2U4MldvUzVHWm5WS05XbWl0OEw0UGpFbnhMQW85STZDQzFrSHE2Z1ZTZjZRcVFCUkQxWmx2bjdNbkJuUHh1aFdXQkVpbkYtQms3ekU3NkJ0aHRaVDNsTW9xOUVQZEJ3MFhRSWhsbXh3ZUlxVXFXRWZDM1dmRS1xVWVNdlBZdE9mSFE?oc=5",
+    "researched_at": "2026-11-19T23:10:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Intuitive therapist robot patient physical interaction is worth a thousand words - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2ZTBwMUEtMEJvdWRqY1B5dFJ4VVlwNWU3OW9JUFBNbGlDcEN6UlVDVm9qb2xNek55OWNhNDRTUTZCdnFyX05mbGdPZEV4OG13TjYxZUhYemxBNEwyNGFv?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Intuitive, Fortis Mohali to establish India’s first Total Program Observation site in a non-metro city - Express Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWS1OeGVKc2xjdU05TzAwTWUwQk9COC0zeVlRU3dDVGdMVmlPY0k3QzdYTGVTWTdGSVRoaEJFMldYVVBSR3QzcWVqSEJfSGZfTnc1S0ozNkExOGJnby1ubzhhSWF2aGlGLTVNanFvWDJFUzlFWVV5VGp0bzU3Mm9vN0ozT3FrQ2FsVzB0dXEzYTR6RWhnUTM5ZHlpdVZLNHVUdlZCZFZKQTJpblFaM2YzWHhVazFoR242NTlKQmo3aGxiUERFQnBUODNoRnB5N3IwQTgwRFBUdl9vUi1kSDRn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Intuitive introduces new enhancements for da Vinci 5 surgical system - Med-Tech Insights",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWRJSnU4anR5UVA4UWNIQmFDQ21IM21Sdm9nVFBmLWlXa2wxN2U4MldvUzVHWm5WS05XbWl0OEw0UGpFbnhMQW85STZDQzFrSHE2Z1ZTZjZRcVFCUkQxWmx2bjdNbkJuUHh1aFdXQkVpbkYtQms3ekU3NkJ0aHRaVDNsTW9xOUVQZEJ3MFhRSWhsbXh3ZUlxVXFXRWZDM1dmRS1xVWVNdlBZdE9mSFE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Intuitive Surgical Gains CE Mark for Cardiac Robotics - Medical Device and Diagnostic industry",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkI4bnc1dGExSERIN2dDdnRpZ1NkaF9VWXBDV01LRi1DOHBVaXlYY3ROQkNNTHdrYWxzVGh2MWRBNi1DaEVCYUhZWGtCclZMVXFGVXFFOGlHRnhEUmYxQ0F6bl8zTk13MERESDhiTUxRVUY0WXFTZG8zS3JJc080b3cyblJ3MnlRczdCY0x3Q1VIcFhEWXRv?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Intuitive Machines wins contract for three GEO satellites - SpaceNews",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUoxSVdKemRSUkNxRFFUQndxcmw5SEFiVHY4MnUzZFkyQXhOZ0ZUbmVFVGZVZ0szRjAwblRoMmNpanczNHpqQ2xudFhNU0NERVBQcWVMbVNyeTBZWk5GN2Fvc2h5UldKbjJVbWkwWTIwWXNOakV0cWtza05nWXNKZGVUdS1lYW8?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Intuitive single-port robot earns CE mark for new indication - MedTech Dive",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWJWWS14Q3N4SFhGMHR0VE83SWhJTXdBNXVIWllCbTEyOHRMdmRCNjFld0RFbEoyakQxQjZFN21pZGhzaElvRmliX3ozY0ZremV0MmlWM2UxSllsTFdudFdoNUg5Z2JDRC1qQnQzWDFDWkFDWlpXb3V5ZHp4T2ZYTmZHbllVWVdjY0liTWNaNHhhenZqc3pab2FobldWeC1SdmQw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -211903,9 +211945,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 72"
+    },
+    {
+     "at": "2026-11-19T23:10:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The posting asks for 7–10 years of professional experience, far exceeding Shlok's 1.3 years, making this an extreme stretch and an impractical fit for his current seniority.)"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30"
+   "updated_at": "2026-11-19T23:10:58+05:30",
+   "reject_reason": "The posting asks for 7–10 years of professional experience, far exceeding Shlok's 1.3 years, making this an extreme stretch and an impractical fit for his current seniority."
   },
   {
    "id": "L1781",

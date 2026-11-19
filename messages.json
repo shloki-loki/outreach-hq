@@ -723,6 +723,34 @@
    "thread_parent": "<179457191739.2177.5234784387621416903@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0028",
+   "lead_id": "L0057",
+   "contact_id": "C1",
+   "to": "talenthub@career-tree.in",
+   "to_name": "Rajalakshmi Subramanian",
+   "kind": "followup1",
+   "subject": "Re: Chief of Staff, Manufacturing (Chennai)",
+   "body": "Hi Rajalakshmi,\n\nOne more point that may help your client: I implemented SAP MRP from scratch at Ola Electric, which reduced stock-outs by 20% and raw material inventory by 25%. That's the kind of plant-side detail a Chief of Staff has to track. Is your client still reviewing profiles?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "published",
+   "speculative": false,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-19T11:40:55+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179465097399.2271.13000847313796879136@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

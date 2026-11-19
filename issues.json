@@ -349,6 +349,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0026",
+   "key": "supervisor:Drafts waiting over 3 days: 19 drafts, M0016 oldest",
+   "agent": "supervisor",
+   "severity": "warn",
+   "title": "Drafts waiting over 3 days: 19 drafts, M0016 oldest",
+   "detail": "19 messages in draft; M0016 is from 15 Nov (4 days). Nothing approved or failed; no message stuck in sending.",
+   "status": "open",
+   "opened_at": "2026-11-19T21:25:16+05:30",
+   "last_seen": "2026-11-19T21:25:16+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

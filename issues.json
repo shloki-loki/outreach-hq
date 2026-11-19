@@ -307,6 +307,20 @@
    "count": 1,
    "remedy": "Cause: brief network outage or stall to github.com from the Mac, same as I0015; recovered within about 20 minutes and no data was lost (data log is continuous to 18:41). Remedy: add retry with backoff to store.sync (see I0015).",
    "resolved_at": null
+  },
+  {
+   "id": "I0023",
+   "key": "send-track:send-track 19 Nov: no draftable leads",
+   "agent": "send-track",
+   "severity": "warn",
+   "title": "send-track 19 Nov: no draftable leads",
+   "detail": "Data sync flaky (exit 128, slow). Leads read: L0085/L0013/L0018/L0007/L0023 guess, L0105/L1556 catch-all, none score 80+ so no --allow-unverified. L0040 pattern address belongs to a reshare author not at FRND, no hook. L0050 has a published address but no hook and an undisclosed company. L0003/L0008/L0010 could not be read.",
+   "status": "open",
+   "opened_at": "2026-11-19T10:51:14+05:30",
+   "last_seen": "2026-11-19T10:51:14+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

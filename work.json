@@ -351,12 +351,12 @@
    "detail": "founder-batch 2026-11-17: write to C3 Rohit Chouhan; research one sourced hook, write a v3 offer email, queue it with message draft | handed from codex to claude: 16:15 takeover: not started by codex",
    "batch": "founder-batch 2026-11-17",
    "contact_id": "C3",
-   "status": "working",
+   "status": "done",
    "created_at": "2026-11-17T17:41:11+05:30",
-   "lease_until": "2026-11-19T23:26:44.867663+05:30",
-   "result": "",
-   "ref": "",
-   "updated_at": "2026-11-19T21:26:44+05:30"
+   "lease_until": null,
+   "result": "rejected: no findable recent fact or source",
+   "ref": "L0378",
+   "updated_at": "2026-11-19T21:26:58+05:30"
   },
   {
    "id": "W0025",

@@ -1,11 +1,11 @@
 # Application email to the person behind a qualified job (hiring-post author, hiring manager, founder or
 # recruiter with a trusted address), for jobs not yet applied to or emailed. At most 2 people per job.
-# Off until Shlok approves this text in chat. Once on, queued already approved, like founder-v1.
+# Text approved by Shlok in chat on 2026-11-19; sent without a per-email click. Once on, queued already approved, like founder-v1.
 
 id = "job-apply-v1"
 audience = "jobs"
-active = false
-approved_by = ""
+active = true
+approved_by = "Shlok, in chat on 2026-11-19"
 per_day = 30
 per_lead = 2
 

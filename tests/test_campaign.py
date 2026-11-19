@@ -134,8 +134,11 @@ class FollowupAndJobTemplateTests(unittest.TestCase):
         self.assertIn("Co1 Technologies", follow["body"])
 
     def test_inactive_templates_queue_nothing(self):
-        self.assertEqual(campaign.queue_followups("followup-v1")["queued"], 0)
-        self.assertEqual(campaign.queue("job-apply-v1")["queued"], 0)
+        for template_id in ("followup-v1", "job-apply-v1"):
+            off = dict(self.real_load(template_id), active=False)
+            with patch.object(campaign, "load", lambda i, off=off: off):
+                runner = campaign.queue_followups if template_id.startswith("followup") else campaign.queue
+                self.assertEqual(runner(template_id)["queued"], 0)
 
     def test_job_template_targets_qualified_unapplied_jobs_once(self):
         self.activate("job-apply-v1")

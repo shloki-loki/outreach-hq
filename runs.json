@@ -2486,6 +2486,19 @@
      ]
     }
    }
+  },
+  {
+   "at": "2026-11-20T00:05:21+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 1 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 1
+   }
   }
  ]
 }

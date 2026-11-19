@@ -2392,6 +2392,41 @@
    "ok": true,
    "summary": "outside the sending window; 72 approved email(s) wait for the next run",
    "stats": {}
+  },
+  {
+   "at": "2026-11-19T23:44:17+05:30",
+   "agent": "research-worker",
+   "ok": false,
+   "summary": "23 researched (5 qualified, 18 rejected), 3 closed postings binned, 4 left for a person",
+   "stats": {
+    "researched": 23,
+    "qualified": 5,
+    "rejected": 18,
+    "binned": 3,
+    "left_for_a_person": 4,
+    "errors": 10,
+    "models": {
+     "research": [
+      "gemini-2.5-flash",
+      "gemini-3.8-flash"
+     ],
+     "judge": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite"
+     ],
+     "reader": [
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash"
+     ]
+    }
+   }
   }
  ]
 }

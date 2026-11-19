@@ -206528,7 +206528,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491844524",
    "source_url": "https://in.linkedin.com/jobs/view/category-manager-personal-accessories-at-vatatree-consulting-4491844524",
@@ -206544,7 +206544,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "About The Role\n We are looking for a Category Manager - Personal Accessories with a strong understanding of consumer preferences, product trends and category economics. The role will be responsible for driving the Personal Accessories business end-to-end - from identifying category opportunities and building the right product assortment to pricing, sales, margins, inventory and overall category growth. The person should have a strong understanding of what appeals to the customer and be able to combine product judgement, consumer insights and analytics to build commercially successful categories. The role will work closely with Design, Product, Sourcing, Planning, Retail, E-commerce and Marketing teams.\n Key Responsibilities\n Category Strategy & Business Ownership \n Own the overall business performance of the Personal Accessories category including sales, margins, inventory and category profitability.\n Develop annual and seasonal category plans aligned with overall business targets.\n Identify growth opportunities within existing categories as well as potential new sub-categories.\n Define the right product mix, pricing architecture and assortment strategy for the category.\n Track category performance against budgets and take timely corrective actions.\n Build a clear category roadmap based on customer demand, market trends and business priorities.\n Product & Assortment Planning \n Build and curate seasonal product assortments based on customer preferences, market trends and historical sales performance.\n Identify the right products, styles, colours, designs, materials and price points for the Chumbak customer.\n Work closely with Design and Product teams during range development and collection reviews.\n Decide which products should be scaled up, tested, repeated, refreshed or discontinued.\n Identify assortment gaps and recommend new products or sub-categories that can drive incremental growth.\n Maintain the right balance between core commercial products, seasonal products and newness.\n Customer & Market Understanding \n Develop a deep understanding of the Chumbak customer - her taste, preferences, shopping behaviour, occasions and willingness to spend.\n Regularly visit Chumbak stores and interact with Retail teams to understand customer feedback and buying behaviour.\n Track emerging trends across fashion, lifestyle and accessories.\n Benchmark relevant Indian and international brands on product, design, assortment, pricing, innovation and category trends.\n Identify upcoming trends and translate them into actionable inputs for future collections.\n Understand what makes a product commercially successful beyond just its design appeal.\n Commercial & Category Analytics \n Analyse category-wise and SKU-wise performance across sales, sell-through, margins, inventory, ageing and stock turns.\n Identify best sellers, emerging winners and slow movers and recommend appropriate actions.\n Analyse category performance by product type, collection, price point, colour, m",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -206559,8 +206559,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 38,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -206570,15 +206570,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Category Manager (Personal Accessories) at Vatatree, asks 5-8 yrs and fashion/retail P&L; you have 1.3 yrs in EV supply chain.",
+    "fit_notes": "The posting asks for \"5-8 years of experience in Category Management / Buying / Merchandising within fashion, lifestyle, accessories or a consumer brand\" and states \"NIFT / Pearl Academy strongly preferred.\" Shlok has ~1.3 years of experience in S&OP and inventory planning at Ola Electric [sop, msl], and while he has strong analytical skills, he lacks the required 5-8 years of fashion/lifestyle category buying experience and the preferred design institute background.",
+    "pay_notes": "Pay is not stated in the posting and cannot be verified.",
+    "culture_notes": "No company website or news found for Vatatree Consulting in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T13:30:58+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -206602,14 +206609,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T13:30:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The role requires 5-8 years of experience in Category Management/Buying within fashion/lifestyle/accessories and a NIFT/design background, whereas Shlok has ~1.3 years of supply chain and S&OP experience at an EV manufacturer and no fashion retail P&L ownership.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-19T13:30:58+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 5-8 years of experience in Category Management/Buying within fashion/lifestyle/accessories and a NIFT/design background, whereas Shlok has ~1.3 years of supply chain and S&OP experience at an EV manufacturer and no fashion retail P&L ownership."
   },
   {
    "id": "L1741",

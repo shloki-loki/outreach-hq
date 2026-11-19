@@ -3464,6 +3464,15 @@
    "title": "Follow-ups: 1 queued",
    "detail": "generic follow-up template",
    "ref": "M0108"
+  },
+  {
+   "id": "J0386",
+   "at": "2026-11-20T00:05:32+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 73 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

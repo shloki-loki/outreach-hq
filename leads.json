@@ -210615,15 +210615,15 @@
    "key": "inmobi|senior product manager onboarding and activation|bengaluru",
    "type": "job",
    "company": "InMobi",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "inmobi.com",
+   "company_url": "https://www.inmobi.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Senior Product Manager - Onboarding & Activation",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "greenhouse",
    "source_id": "inmobi:8358196",
    "source_url": "https://job-boards.greenhouse.io/inmobi/jobs/8358196",
@@ -210654,8 +210654,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 68,
+    "total": 67,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -210667,15 +210667,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Growth PM (Onboarding & Activation) at InMobi, experience unspecified; your S&OP and operations scaling work maps to user growth loops.",
+    "fit_notes": "The posting asks for a Growth PM owning user journeys, activation, and retention for SMB and D2C brands, with experience unstated (stretch role). It does not require an MBA or consulting. Shlok brings technical execution, APIs and building flows ([idekho]) alongside metric-driven operational scaling ([sop], [ceo-coo]), though he lacks prior dedicated PM titles.",
+    "pay_notes": "Pay not stated in the posting. InMobi is an established unicorn preparing for a $1B IPO, but specific compensation for this role is unlisted.",
+    "culture_notes": "InMobi is India's first tech unicorn [S4] currently expanding into agentic commerce and AI advertising, with active IPO preparations [S6]. Work culture reviews and specific ratings were not found in the search evidence.",
+    "hook": "InMobi is scaling its AI-native self-serve campaign platform Accelerate to automate end-to-end advertiser workflows.",
+    "hook_source": "https://job-boards.greenhouse.io/inmobi/jobs/8358196",
+    "researched_at": "2026-11-19T23:15:25+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Naveen Tewari, Founder & CEO of InMobi Group, shares his perspective on why the current artificial intelligence revolution offers Indian founders an unprecedented Day Zero global opportunity. Watch the full video to catch his complete vision for the AI decad - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHBhT2hJNm0xOWxkREVxc1p6dlpKMzViQWhpdS0zNmFPN2FHa0xhc2JFVEE4YTFrcUIxck9GU3VWazUweHhNUDhVZTE4QjlWbEFsUTROYW12Tjl5eW85dTMxMXZFQnExTGp4cFlTLWdVbVJqNlNGQTVXOHhYdS1RTzFvZnl2bFloU2RlQUlBZjZEN2NNOEFxNjE1ZG1oZXkwM3d4emQzVENmR243SUR2QkltYTBkVHM?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "InMobi to integrate Glance with Siri AI to enable personalised shopping experiences - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdEZjdzRuSWlEUnFDdEUwOE1RYjlMT3B6Z2FoZ1JlQk1JcUNZUmJDQTdMV0VQZVI0c1ZZcUVlUHc0UTBxRWNsa0xXaTZqQzY3MDI3U2F3dW5oeF93WG02bWhNeGZBUDVvRzg1Nkt1ejRoWlR1WlVpS09lVUlidDcteUpqYTVDZ09YOUxQYko5S0lyanZDamtBa1pLR3R2c0xhZ0FRVmNZUUdNanZ6RUJUYWprSEFQV2tLc1JqYUxvUjhVQldzaW9WNlQ3RUdJMlkzNE9BUnkyTkZ3Q3dDTUlGYVU2U3lJMHE1bkR6Rk4ycTVtRTJNanBIRWZSb9IBgAJBVV95cUxNRGJBdDE2NFBjWXVLUVZFRk13b1RfR0FkYmZUMjlvTG5HT3ZIbjllMWtlTTNJcHJvS2hOcDhJMlByNGxqcWR6MFBHMFlmaUhJN1ZKOXRDZnFSRHZhZFN1bGhYR05tcl9RazJVNVVieGR6SlhVVVJzbkFTVU1RSmNzTENMdkhfUksxZFhkbmxTVmlIYjhIaHl0RnBlazlJeVFVNmFqd3pxY0hXUVVsREhjTGpBeFhUVXlkSktxZ0V2cXRaU2tqM3VUYVQtQUx5UmdFZWI5OE8yaXphQzdQbFI1bWlkSG94bmhmTE9qQkE4ZDNNdjEzWkxMRVZvV09DYklU?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "From taking bets on people to embracing AI: InMobi CHRO Shefali Rai’s approach to building a future-ready workforce - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObDB1VkpiUWlLeGFZQnVQeXdEcGFDcXVGNGFjRXdMSVAtVFE2Y0dtNTRiOEdXbllDRnZxNi1VZzI2X3JSQlBBdGVheGZfTE03eFhmaDdoWTRvUlhFNjdxOV9nVWhQNGpHUVRyaDVnOXFmUjFXZmtqY2x2YzYwOFVrUVMtTDgwWGhUMTZXRXhWVEhQVndtQW1ISlJqM0ZZUE9zNEhYcUhHZ21Hei15M3h6a1E3WFNRTjFXZWNxeHVFTlZfMUdfRDBNOE5EM0p5RUozbXJqdkMxQlI5YkxidEhrSDdUaFF2U2ZxTE85QXV1SFo5WEhxSE9vMkt6VFBFdw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "How InMobi, the first unicorn, is remaking itself with bold bets - Forbes India",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQk1xWDB4V1JZMDdfX0JyckNTZ2ptTmpQQV9NQ0x3eHY4UHV2bTd6SGZwaGRQeUx6YXYxNlA5TFVFNnl0MWw4SzlTOU1vWWxBOVFSMjA0ODl5LW16SkQ4VnZtVHAwcW4yMjFvdE9LTDNjd0JFZ0dFUkV3UzVKSUEtNDBmTXJzUG9lOFN1WWxCNkltbnFScmh3YTRmdkFhaXVOaDA3MnVIaFlLYUxwVWktdE5yVTVuWjc0VF92VTZCSFPSAcYBQVVfeXFMTUJQRkZ5c3VhYmFVaHBSWmlxY0QyMU9JVlZDMzVxWFlPQVhEb3ZZRzBsQmFsbS11bDBSS2g3WjVOSzAwcm94YUNYMHJGZE5HZFhCSm1vdkFBRGpQQzZIZnNmeER0bWFFNmdWNDBFYXVkcTFYR0Rld1lvaHladlFhOGJMN212QmtFUHR2aVQzVnJkcl9YUkwtWGFkTHZpVU9Ldm5hX1ZjcVFLdXRHQXVFcTRvaXd3ZUNXTElkSlh4bGxzRlBkazdR?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "From failed SMS startup to Rs 3,000-crore 'InMobi' success: How Naveen Tewari built India's first unicorn... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWUxtMkJZTy1SbUI1LUpSdklLbEFXMUZVX1hsUURsNEdsV3c2WUJYSXZ0akJCUXg1TENOZ2ZFUlc4QkNHOVFubFhWd0ZtcEVPZTc4UFNTWWxKVkdnaWx2Mkl0dG1yNGZPSEtZd21kcF9iNkpQbUl3NVVYZ19WSFRQd3VuQ1JxdHZVWHFmeDRxRVZRMGdMZlZ5dkZCSFRmdjZtUE9DM25UYWg2WHhtLTNlNHdZY0R2WUN6LUhYWTdVWXNUWjJubnEtYnFLdzBYSmlfZ1dXLTlfMmpnWFJtYUpXLTVEWHlpTFlvYjlGZXhBeVVHYVRCeHhzNzRVQTUyZFJ0TVItTzFR0gGLAkFVX3lxTE5xbUUwRTRqSVh5S1FFLTQxbnh6U0FkeDlFT3BOeEpGRS1uYlBtUEdqRGhrM1doZnRBREVBd25JUlJkV1U2Z2dIakdPNWFwR290SEt5d09hQ3pPclRxOC1sVVROY01CWnJ0SkoyZ0xtZGlQc3Y0LXljRVhyY1M1bFNNR3V1RHc3aVBZZUZnZjY0c2VtQTdVaUlWVGZ6dTN4NU5XVFY1MWtfS2ZMZEIyZ25JNTFpWjRGelkzWklCSmdHTXlqaklrSEp2b28yTDE1dmdIeHJoM2VGN1VleHpyakt0OWtRbm9vVm1KaDFYVkJNa0Y2aXA5Rnhyb1Vib29lNXVjZjhHM1hFOHB0VQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "InMobi Ropes In Four Bankers To Helm Its $1 Bn IPO - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0ZVg3T0JjQnNiX2Z2WHhpaEdRMnRHQkdpUFAyMkZ2LVhHOWNvSm05dnljLWdleW8zMEdRUC1pUTVXdjJPWkdPeVllTURMQXBLSG52NXNJSkhiQ0RNWDZ5Z2pLY3Y4NS1aS0ZDdzZ1N21qSU1KMzhod01JLTVFdw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -210699,9 +210740,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "greenhouse: rule score 66"
+    },
+    {
+     "at": "2026-11-19T23:15:25+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30"
+   "updated_at": "2026-11-19T23:15:25+05:30",
+   "reject_reason": null
   },
   {
    "id": "L1768",

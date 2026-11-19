@@ -2064,6 +2064,13 @@
     "alerts": 3,
     "open_work": 117
    }
+  },
+  {
+   "at": "2026-11-19T10:51:18+05:30",
+   "agent": "send-track",
+   "ok": true,
+   "summary": "0 emails drafted, 0 referral notes, 0 application kits; 12 skipped: only guess/catch-all addresses (L0085, L0105, L1556, L0013, L0018, L0007, L0023), none score 80+; L0040 contact not at FRND, no hook; L0050 no hook; sync flaky",
+   "stats": {}
   }
  ]
 }

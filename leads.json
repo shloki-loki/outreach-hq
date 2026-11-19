@@ -32842,15 +32842,15 @@
    "key": "bluevine|product manager|bengaluru",
    "type": "job",
    "company": "BlueVine",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "bluevine.com",
+   "company_url": "https://www.bluevine.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "448981",
    "source_url": "https://www.instahyre.com/job-448981-product-manager-at-bluevine-bangalore/",
@@ -32886,8 +32886,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -32896,15 +32896,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Bluevine in Bangalore asks 4-8 yrs, but your 1.3 yrs fall short and India roles were axed.",
+    "fit_notes": "The posting asks for \"5+ years' experience as a Product Manager in a fast-paced technology company\" and \"4-8 Years\" total. Shlok has about 1.3 years of experience. Furthermore, the role requires an MBA or equivalent or senior product background which he does not match.",
+    "pay_notes": "Pay not stated in posting.",
+    "culture_notes": "Recent reports indicate that Bluevine's India roles were axed and outsourced to the Philippines [S1].",
+    "hook": "I noticed Bluevine's recent developments following the Valley National Bank acquisition [S2] and restructuring of India operations [S1].",
+    "hook_source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yVVJkajJJYTJaMTZ2bUU3UWh2elJ1MzdmS0g2M2VvU1Z4bXFzNjJIc0dqZTJVQVg3RW9pWFplczNSd0FkQVFVSVk1WEVoOEo5LVp6djFqWC0xaktCcndsemk4WHZKR29NYThwU19SakRZTTNHMFRzdFBR?oc=5",
+    "researched_at": "2026-11-19T23:31:57+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Bluevine’s axed India roles outsourced to the Philippines - TheBanker.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yVVJkajJJYTJaMTZ2bUU3UWh2elJ1MzdmS0g2M2VvU1Z4bXFzNjJIc0dqZTJVQVg3RW9pWFplczNSd0FkQVFVSVk1WEVoOEo5LVp6djFqWC0xaktCcndsemk4WHZKR29NYThwU19SakRZTTNHMFRzdFBR?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Valley National Bank to acquire fintech Bluevine for $340M - Banking Dive",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUVaOS1kXzFNNVgyc3ZZRGN2ekpnLWpPWW80aDlWTkRVOEY4aUNYMEVwS3R3MDloVkNmZTFlRFpIM0VJQVFlVVRNbFJ5c25YNnVrR3hzTFdteUVfNkFiM1dMLWVxS0hMeDVBbk1uT1BHX3hTSGR2R2EwaWZDdVM4WngwY08zTkJIZEFvd0hLZDgwMlJ6dXNpdm9VZTQtdUhEWlhWcGd3VE80MC01ZktGVVlycU4?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Bluevine Launches U.S Business Banking Solutions for India-Resident Business Owners Operating in the U.S - CXO Digitalpulse",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWJrSnBnWmN5b01VUGpJOGFpUzVHMS1lOW54M3lOTTljZWN5bUREeUlzRi1oTmFjc2txTFh0dnRTZ1k1dXhjS3BpbWVfeElLQUtETnlpMHRCUmtTaVQ3NFlnRjVSLVNuOFIzY0Y0YlpSeVV4bFZhaFd3RUFJMjhNNmJiUDlPMVhRLURLTTNPSE9WOXd2M0w5TWdROV9vSWZRWGlUeHotMlQteEhfUmM0UVg5MG53SVZHTmR5LTZZSV84T1JZUEJZLWtDallLd3p4YUxr?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "US-based online banking platform Bluevine eyes Indian businesses - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2prMWJXdl91SkVjY2tQeDJOTVotdk96U3dJY00zWG5uc184VUhqN3hnSE4wdkE1SlBlZXU0TlRsVDgxZ2hPS0h1YlcwYWo3Yzd3NzJzcEVjNEJfLTQtV3dpaURWV1RheUFJNUhJMUJBSHlmVDhCd1B4LUVwVk0wa3JKVVBYXy1UdzNHOC1zREVQdTlwRjJEbE1LZ1BKMVgxYk5FenBHUHl0Snk3aWZzUDZ2ZWk1aWtfLThWWmpvU21NMC14T0HSAcwBQVVfeXFMT2NRV0tpeUNPUnJDcnkyODNfdVk1NXNsdk5CcVVXdnhVMzBKeFFfWGlMbWZ2aWI1UEdNSV9zSmlzRHJoZ0JKSUY3M3dkVmUtVWZYOTRUdmdOemtWbzQ5MGhxS3FibHJ0S0hSWER0alUwMUhESDV4cURpNWFmTVF3b05vM0NhQ0FLV3hRaUpOQWxlNWc4cTczQjNRcWp1YWs0MGFzbkdoUGNyZUFtV3JUbHRTY3Y4YkNkQmxGWllFajRycHlOMTJ5M1liblBQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Bluevine Agrees to $340 Million Acquisition by Valley National Bank - Finovate",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS3QyX2hRMERFV19tVVBvc09sd1RGWmNDLVdPOVFLc1pxQ2l4RGFrU24wYTBPX2JmTjJGTHJzMEluMndoaktERk5nMHh3S2Fma3o5clh4ZUowcUttb0diazRTeGp2SmRhTDJrQkUtYmdZSDhIV01Xa19UUlNjOEFPd2MxOC1kLXl4RVQwSGFVSzl5QQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Valley National Bancorp to Acquire Bluevine Inc., Accelerating Its Digital Small Business Growth Strategy and Meaningfully Enhancing Its Core Funding Capabilities - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnVTYWV6R3hZZUtCMjJsNGVlRm5meHJySUc1WHpwOE1kSnJNcXh5ZGJNY29XUzhRRWVOYTJlTWpMTXF1QXlfUHowLXhVdTRLWkxnZnIwMlBPTVhkNUZGNlV3WjZNZlJmRF9aWjRNOFFsM2Z5aG1va2JDZmFWaHpYOUNrZU5HeW9xQ29fdTVuRUpRaDMyTEJJVndQaWR5VEJ1ZkdZM2ZObkE?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -32928,14 +32966,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-19T23:31:57+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (Role asks 4-8 years of experience, and Bluevine axed its India roles and outsourced them to the Philippines.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-19T23:31:57+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role asks 4-8 years of experience, and Bluevine axed its India roles and outsourced them to the Philippines."
   },
   {
    "id": "L0262",

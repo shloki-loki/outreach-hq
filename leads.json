@@ -14480,15 +14480,22 @@
      "actor": "claude",
      "event": "stage",
      "detail": "qualified"
+    },
+    {
+     "at": "2026-11-19T23:44:37+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-19T23:08:13+05:30",
+   "updated_at": "2026-11-19T23:44:37+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
    },
-   "reject_reason": "score 64 is under 65"
+   "reject_reason": "score 64 is under 65",
+   "people_searched_at": "2026-11-19T23:44:37+05:30"
   },
   {
    "id": "L0111",

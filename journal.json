@@ -3338,6 +3338,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 67 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J0372",
+   "at": "2026-11-19T23:16:19+05:30",
+   "by": "claude",
+   "kind": "fix",
+   "title": "PR 11 merged: generic follow-up replaces unedited agent follow-up drafts; PR 12 open",
+   "detail": "PR 11 merged with Shlok's OK (7d34803). 4 of the 9 agent-drafted follow-ups (Oleria, sugar.fit, the manufacturing role via CareerTree, TheCardCompany) were replaced by the generic follow-up and are approved to send from 08:00 on 20 Nov; Helium Air's was already dropped because they replied. The other 5 (Carbon Trail, Badboy Pizza, GBG, Vianaar, Deccan AI) are held because their contacts have no saved name. PR 12 reuses the first email's greeting and is waiting for his OK. 67 approved emails wait for the morning.",
+   "ref": "PR11"
   }
  ]
 }

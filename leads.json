@@ -187723,7 +187723,7 @@
    "posted_at": "2026-11-16",
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-19",
-   "open": true,
+   "open": false,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -187782,9 +187782,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T13:28:37+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-19T13:28:37+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
@@ -187793,6 +187799,11 @@
    "research_attempt": {
     "at": "2026-11-18T13:32:28+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
+    "by": "research-worker"
+   },
+   "bin": {
+    "at": "2026-11-19T13:28:37+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
     "by": "research-worker"
    }
   },

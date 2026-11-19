@@ -28698,7 +28698,7 @@
    "key": "texple|business operations and growth associate|india",
    "type": "job",
    "company": "Texple",
-   "company_domain": "",
+   "company_domain": "texple.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "",
@@ -28706,7 +28706,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "442538",
    "source_url": "https://www.instahyre.com/job-442538-business-operations-growth-associate-at-texple-2-mumbai/",
@@ -28737,8 +28737,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -28747,15 +28747,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Operations & Growth Associate at Texple in Mumbai, asks 0-1 yrs; role focuses on B2B lead generation and CRM management below target pay.",
+    "fit_notes": "The posting asks for 'Freshers / 0-1 year of experience' and focuses on business operations, lead generation, Zoho CRM management, and B2B sales outreach. While Shlok has experience in operations and founder's office work at Ola Electric (e.g., [ceo-coo], [sop]), this role is heavily sales-support and lead-gen oriented, located in Mumbai (violating location preference), and will not meet his fixed pay requirement of Rs 24.5 LPA.",
+    "pay_notes": "Pay not stated in the posting; as a 0-1 years Business Operations & Growth Associate role in a smaller digital services company, it will fall significantly short of Shlok's Rs 24.5 LPA fixed floor.",
+    "culture_notes": "No glassdoor data or employee reviews found in the posting or search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T13:35:07+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -28779,9 +28786,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-19T13:35:07+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role pays far below Shlok's Rs 24.5 LPA minimum (targets 0-1 years freshers/associates doing CRM and lead generation in Mumbai), and the posting is located in Mumbai rather than Bengaluru or remote.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-19T13:35:07+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
@@ -28791,7 +28804,8 @@
     "at": "2026-11-18T23:22:27+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Role pays far below Shlok's Rs 24.5 LPA minimum (targets 0-1 years freshers/associates doing CRM and lead generation in Mumbai), and the posting is located in Mumbai rather than Bengaluru or remote."
   },
   {
    "id": "L0229",

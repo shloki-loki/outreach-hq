@@ -189068,15 +189068,15 @@
    "key": "henkel|business development manager|bengaluru",
    "type": "job",
    "company": "Henkel",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "henkel.com",
+   "company_url": "https://www.henkel.com",
    "company_linkedin": "https://de.linkedin.com/company/henkel",
    "company_note": "",
    "title": "Business Development Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4457375424",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-henkel-4457375424",
@@ -189092,7 +189092,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "What You´ll Do\n Identify and develop new business opportunities to increase market share within the Industrial Electronics segment, with a focus on solutions within PCB Protection, Power Electronics, Optoelectronics & Power Storage\n Drive opportunity with cross India scope including strategic planning, business modeling, and value proposition development to support successful commercialization of targeted growth initiatives. \n Lead cross-functional collaboration with Marketing, Product Development, Legal, Finance, Sales, and Application Engineering teams to ensure alignment with business objectives and country growth strategies. \n Establish and manage a structured evaluation and prioritization process for innovation projects, ensuring a robust and sustainable innovation pipeline. \n Develop and support strategic market maps and customer roadmaps to drive profitable regional growth and long-term business expansion. \n Build and strengthen relationships with key customers and industry stakeholders while executing strategic customer portfolio planning in emerging and high-potential markets. \n Develop, co-create, and deliver tailored business solutions and value propositions that address customer needs and drive market adoption. \n Partner with the global team to design and deliver training programs, enhancing technical and commercial capabilities across relevant internal teams. \n Monitor market trends, competitive activities, and customer requirements to identify new growth opportunities and support strategic decision-making\n What makes you a good fit \n Minimum 7 years of experience in the Electronics industry, with a strong understanding of industry applications, market dynamics, emerging technologies, and market trends. \n Bachelor’s Degree required, preferably in Engineering, Electronics, or a related technical discipline; MBA preferred\n Strong business development and commercial acumen with proven expertise in networking, relationship management, negotiation, and opportunity assessment. \n Demonstrated ability to successfully market and commercialize new value propositions, products, and service offerings. \n Excellent presentation and communication skills, including proficiency in developing impactful business presentations, data visualization, and executive-level stakeholder communication. \n Proven track record of leading and delivering complex, cross-functional projects in multi-stakeholder and matrixed environments. \n Strong analytical and strategic thinking skills with the ability to identify growth opportunities and translate them into actionable business plans. \n Ability to influence and collaborate effectively with internal and external stakeholders across different organizational levels. \n Self-driven, results-oriented professional with excellent problem-solving, project management, and decision-making capabilities. \n Some perks of joining Henkel\n Diverse national and international growth opportunities\n Global wellbeing standards with health ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -189107,8 +189107,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -189118,15 +189118,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at Henkel, but asks 7+ yrs experience which exceeds your 1.3 years.",
+    "fit_notes": "The posting asks for \"Minimum 7 years of experience in the Electronics industry\" and a \"Bachelor’s Degree required, preferably in Engineering, Electronics, or a related technical discipline; MBA preferred\". Shlok has 1.3 years of experience and no MBA. While his experience at Ola Electric in the EV/Cell supply chain touches the industry, the 7-year experience requirement is a hard blocker.",
+    "pay_notes": "Pay not stated in the posting or evidence.",
+    "culture_notes": "No ratings found. Recent news shows Henkel completed the Stahl acquisition and upgraded top-line guidance for 2026 [S1, S5].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T13:29:07+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Henkel delivers strong sales and earnings performance in the first half and upgrades top-line guidance for 2026 - Henkel",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNWnh0cTlJd2hLYnpjNTNFa2lsVERyNWJjOUx3OHQ2cVlBMUctRnBVLXFTZXlXSG9XZWFEa20zYmhhaHFPWURWNnNaYjZ5b0JCZFpHVktpbWM1ZEQyXzVfTTd2aGNnaFo4LVkyeGxzV3VoY1pvb2lGRTh3Mk5xdnVvejhYMzJSbUpDOUVsYlM3SVBMQmhNamdNVFJRSjliczNVS0Y3RWV3UWhEbzVPNXpNR094YlJVVVVCQTdFVld5UnNlN09JczJfR09YNkV1SFBUXzRaSmZuTXJwZVhPcFJGOWNnakVBM1hsaHE3VElyX3g2RXhlVHFsNzFGcDZJOGw2R0Rmdm93Ym9Dd0liZVhHMlFVM0NQSUR6ZDNtaDRR?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Henkel posts very strong sales growth in the third quarter - Henkel",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbEJQRHc3X1Q3UFFhZGpuY1JSclFDTmFwbUJTSkJRd2tPd2tRT0h2WUEyQUFSeUxqcUtGdnFoc2RmUGNVS2RMMEQ0U1hPazRjMHZmX0xzNmUyTjF2MkNiRmhGYnZXcGwyeld6Y0RjbFcwdDBuRzBxeklLRno3RHo0OENmTjVSM1VIckNMLU5YdjlLWV8xWEZLR0xwSWNZLWsyUktaWTlQOTlFbl82UTZOVW8wMW1Ja0twOTZYNTZubGd2R0Y2N3NmZ3RXN3p2WW5XdkJVTnoyTQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Publication of Half-year financial report 2026 - Henkel",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXlHenVnQkdmWERPZG1zTGpvZzlXdVpMTjUyV0xuQTc3ZTFtbm5TQ0tXTC1KWUIzRFlYZGU4N0dTUE9NRnB5QUNVLXdMNE4yWXhjdjZLQ240M1hSa1lkbl85bk5zNFVQempqQXRKMW5YOGUtQnBkQU5JLTdrMGw4QjFTUEp2WTZrVmI1U2RJUm9xLUFDTnNrM2pvTXZWaFduc1VXWldtYm9ERUtNS3VEdllrUEtoYmZjZ2Z2bVdIUjR4MjQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Henkel launches new adhesive and sealant for high-performance bonding in rail and industrial applications - Henkel",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNldLdUU5WkZDWDBpMDlpZXlGS2lzb19ubm80TnBjT3FqR0EzTGtjbDc0TTBMYl91elhvbnFtRFBaanhtSlM0Z0ZncERTMjBSTlJKMGdWU19JbS0xd2tYN0hGN0NtdlJDNmlrSTV4U1pZcDc5Q05TdlVWQzk5NV92Y1dlNFpNU0VEd0ROa0dtOUJsVUdGZVRENFNOUGJ0T2VHLTUxYVd6c3NDTmxwVC1WVW9aRkI4R2pNUEc0bERuaGYxbmd3NDhScXlOMTJXclZXWXdmYm5VOE9HdWVuX0tCaVhoSEVMVjJSZGhuYmpqVlRWcGNYMzQyRHNhemVBbDZQOEZXdXNLN25oTFZMUGtDYjlBYlpxQQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Henkel completes Stahl acquisition to enter specialty coatings market - Indian Chemical News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzlveFR4SDBvbW9CaE1nX05mbXlqRmJiVlVvQkhxdVFVZG9fMGdMaFh2UGE2SnZIT3hJWHZSMEJYUTEyZ2JQZ2xlX0ZPTXFodEc0TENqRzJnMjFBd2trNGFNYzZMbHZHbnZtcEZjSVpjZkFDRldZcEdtMll4bGdkMDNUU0NlcTlobVpFWEdOUXlsNWZnZlZHTlZCLXZTcERFQUI3UEpsZGx1ZXZFSzl6ZE1sVdIBugFBVV95cUxPVTVkSXJqaWJnTHJ0MXpSaXo2LUpkUGdiRHZXYmR2aHdmZ3F0Q0VDajByeGNXUTl0TE5MX2lOM0t2TmRUWGdNSXhwUkZvUWZ6Ym9Vdzd1LTJpQkZ2b2I5TUx1RnZ5eExHTlpvZExiemxGLVRaSTJPdDZyZ1pLcDQ5RlZndTMtUW90eXdoMk8wYUVfdGYwdXJ5aGlwbVZVSWdyTEpVV2NSZnE5dUZScWVpRWtwdi1MNUx4TWc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Henkel successfully closes acquisition of specialty coatings company Stahl - Henkel",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObld6M21zRzdGS2VKV0pKV0NMMzJFZ215eC11WktVZkNVX0Z5QmZaYnc0aDdIV2QybnpsbFB4eXowbG90NkRxVDNYXzdqM0dpcVVGdjFDWTZETHhzdW9MVm9laWdUX0pfWWh4akxTcHJKeGxCaDVpaXBJQU1lQkVQazhZcDVRS1psZFU3bWJjaXV0b0xySUlldG1YUE1RVkNSVDhpejhvbEROZ3M2RmhKWnJnTjVlUlNSclFra0s0TDJhM1ljaVBCMWdZZEwzMkFDSmtKYWtzcnpLb1djdFJJd3ZPQldCSTRNNDNEYg?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -189150,9 +189188,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T13:29:07+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The posting explicitly requires a minimum of 7 years of experience in the Electronics industry, far exceeding Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-19T13:29:07+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
@@ -189162,7 +189206,8 @@
     "at": "2026-11-18T13:35:29+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting explicitly requires a minimum of 7 years of experience in the Electronics industry, far exceeding Shlok's 1.3 years."
   },
   {
    "id": "L1584",

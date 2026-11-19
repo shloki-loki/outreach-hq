@@ -4767,6 +4767,11 @@
      "at": "2026-11-18T13:54:19+05:30",
      "by": "writer",
      "text": "Writer could not produce an application note that passes every check: a reader rated it 2/10 for replying; Replace the placeholder company name with the actual company name and explicitly address why your hardware/operations background translates to a software voice AI Founder's Office role.; it reads mass-produced; make the opener and the question specific to them; unclear to a reader: Leaving the literal placeholder 'Undisclosed AI company (client of recruiter)' m"
+    },
+    {
+     "at": "2026-11-19T13:55:08+05:30",
+     "by": "writer",
+     "text": "Writer could not produce an application note that passes every check: answer was not valid JSON: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     }
    ],
    "timeline": [

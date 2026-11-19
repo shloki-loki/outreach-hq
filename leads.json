@@ -47257,7 +47257,7 @@
    "posted_at": null,
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-15",
-   "open": true,
+   "open": false,
    "jd": "Speculative outreach for Strategy and Operations. No vacancy assumed.",
    "exp_min": null,
    "exp_max": null,
@@ -47273,22 +47273,24 @@
    },
    "score": {
     "rules": 45,
-    "research": null,
-    "total": 45,
+    "research": 20,
+    "total": 30,
     "reasons": [
      "Added by agent despite rule: rule score 39 under threshold"
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Questt: edtech turned enterprise AI, latest findable news is 2021 funding, nothing recent",
+    "fit_notes": "nothing recent found to map his facts to",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T21:27:24+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -47326,14 +47328,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-19T21:27:24+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 30: rejected (no findable company news or sourced hook in the last 12 months)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-19T21:27:24+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "no findable company news or sourced hook in the last 12 months"
   },
   {
    "id": "L0380",

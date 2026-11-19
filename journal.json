@@ -3635,6 +3635,15 @@
    "title": "Ran",
    "detail": "0 replies, 0 bounces, 0 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J0405",
+   "at": "2026-11-20T02:45:30+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 73 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

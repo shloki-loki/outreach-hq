@@ -31406,15 +31406,15 @@
    "key": "komprise|product manager|bengaluru",
    "type": "job",
    "company": "Komprise",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "komprise.com",
+   "company_url": "https://www.komprise.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "instahyre",
    "source_id": "457543",
    "source_url": "https://www.instahyre.com/job-457543-product-manager-at-komprise-bangalore/",
@@ -31450,8 +31450,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 62,
+    "total": 62,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -31460,15 +31460,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Komprise, asks 2-5 yrs and data-storage background; your background is S&OP at Ola Electric.",
+    "fit_notes": "The posting asks for '2-5 years of experience working as a product manager with a track record of shipping features' and 'Background in data storage, data management, infrastructure, or cloud'. Shlok has ~1.3 years of experience in Strategy & Operations and Supply Chain at Ola Electric (facts [sop], [ceo-coo], [cell]) and built a Flask REST API as an intern [idekho], but he lacks professional product management experience and data-storage/infrastructure background.",
+    "pay_notes": "Pay not stated in the posting or evidence.",
+    "culture_notes": "Named to Deloitte Technology Fast 500 for the fourth time [S5]; no glassdoor ratings found in evidence.",
+    "hook": "Komprise was recently named to the Deloitte Technology Fast 500 for the fourth time [S5].",
+    "hook_source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0lQYjlBR2hvUmtOSEZSUWdPUTMxYjNiemNPeFdMdFF5UU9UMDYxUDZCeUhoSzNGaEJiQ3Q5cXFlNnpnOUYtbXlnWkYwLTBkcnVBNXFIVl92Q0VFV2E1RlhRUzdSb0ljb0hEd1ViZ00wN29nR1h4X3pUSDJrTTFsR0YzUVdjWjJpaEdwS0ExN2xDVmFiS0FONnYyajdEblcxYU9j?oc=5",
+    "researched_at": "2026-11-19T13:37:19+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Komprise aims to make messy, unstructured data accessible without the hassle - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS3EtemJET0FfTmU4MGlLSWZ5eFJscHBxT2c1Z3I1aW8xX1NpSWVrd2FhSU8xRk5RU0ZzN3RwRmY3NHhUTEVkdWZETENSQkExYU5yc2w3U2FfbjVqeXBJTTZOcEhoOU9WQ210WTF3enZhTDJ5MnJkYUVUUXFlMVczZmtDa3dVd3EtSUhuTGhFNWItUlhJUWxoR2c2RzFWU1p3SzFqb2tMYWhNNmhkZ1hxUmxna0ZBVTN2cFE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Komprise fights Model Context Protocol bloat - Blocks & Files",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xmcDhfN3JoYUt2WDI1Vk9DT1VrZzFBVnNLajlWUUM1bXJuenFWV1UwUTdQXzVwdUhPdWd4REE5OXBFbFZHQ1JuNlUwRHFsdlVKbzBsS0dnTzFpS3FLNFhySUl6M2NRZjFjSTk0YWlUMXBYNGs5NG9tejB4ZDZDVEpyM2FrSGpldHA1alhnY0wycUZuT0E0R0NkLUEzdGFE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Komprise adds Iceberg for unstructured data management - TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2lVSExUV0hkd29uVG1uMnBTWk82TzBWY1JkWWtqWGhrOThVbFIyaEEteW9Pb2VtVVN1NldRQnNPUkMzVDBDRWdWNnhuVGVsb3hsWko2MXBwQjJncm9lZlhCSTNZT1FFVVpIQThraXJfdTJhOG0zR3VsaS11dUNrTFpWd20xbFFhRlNhNE9NbnQ1MTliaHZHM213?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Komprise COO: Clean your data in order to spend fewer tokens - TechInformed",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb21nZ0Q1by0zRWRpM1pGbTNjQ2hYT0E2Z3BqWnBpNzhxVFBUckszVVZKS1BXNGtqZDluR2NvVjZVcW4tbTlrUW1yQlpCcVkyYXlVRlNtUDJneXdXTEF4dVZab2NoRFZtaUZpYnVGWkZXUVZ0TlRfMEp6RjNvNWpjbUhWTXNnNmtXTmZRQ25B?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Komprise Named to Deloitte Technology Fast 500 for Fourth Time - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0lQYjlBR2hvUmtOSEZSUWdPUTMxYjNiemNPeFdMdFF5UU9UMDYxUDZCeUhoSzNGaEJiQ3Q5cXFlNnpnOUYtbXlnWkYwLTBkcnVBNXFIVl92Q0VFV2E1RlhRUzdSb0ljb0hEd1ViZ00wN29nR1h4X3pUSDJrTTFsR0YzUVdjWjJpaEdwS0ExN2xDVmFiS0FONnYyajdEblcxYU9j?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Komprise and Spectra Logic Bring Automated Data Tiering to Disk and Tape Storage - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWWVpUVBLSmpJZFB3N0hUUGh5U05QcHpkZVZPc3hpMjI1VTNBMHFlc1FmT284Z1J4OXRrRzc3MzRrS0ZleFFYS0ZxYUtCLTNjOUlVUlltSmxlc3E1Ukt1ZVF1c1dKM0w2UWQwYkZGWTN1TkdvN2RGTUwyN0VLcnFZVHlvSGppRmZ3VUdpLWU2YVU1LVpxZmhGZ2UzMDJzckc3YjhpUFpyWHRjQUtkSFFrWVFCWTE4V3dNUjlwVGpDWmQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -31492,14 +31530,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-19T13:37:19+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 62: rejected (The role asks for 2-5 years of experience as a product manager and a background in data storage, data management, infrastructure, or cloud, while Shlok has 1.3 years in S&OP and operations at Ola Electric and lacks product management experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-19T13:37:19+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 2-5 years of experience as a product manager and a background in data storage, data management, infrastructure, or cloud, while Shlok has 1.3 years in S&OP and operations at Ola Electric and lacks product management experience."
   },
   {
    "id": "L0251",

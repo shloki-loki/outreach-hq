@@ -2071,6 +2071,13 @@
    "ok": true,
    "summary": "0 emails drafted, 0 referral notes, 0 application kits; 12 skipped: only guess/catch-all addresses (L0085, L0105, L1556, L0013, L0018, L0007, L0023), none score 80+; L0040 contact not at FRND, no hook; L0050 no hook; sync flaky",
    "stats": {}
+  },
+  {
+   "at": "2026-11-19T10:52:20+05:30",
+   "agent": "lead-scout",
+   "ok": true,
+   "summary": "5 researched, 1 qualified (L1730), 4 rejected, 0 emails found; scheduled run, scrape skipped (under 3h old), Apify unused; LinkedIn 429s and flaky git sync on data branch",
+   "stats": {}
   }
  ]
 }

@@ -3230,6 +3230,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 60 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J0360",
+   "at": "2026-11-19T21:31:05+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Founder list now goes out by template, 60 a day (PR 9)",
+   "detail": "Shlok's decisions in chat on 2026-11-19: Codex subscription ended, Claude takes over its work; send the founder list with a template (text in config/templates/founder-v1.toml, approved by him), 60 a day, to every listed address at each company, without a per-email click. Merged PR 9 (3dd0d9b). 60 queued tonight (1,842 addresses left, about 31 days). Sending starts 20 Nov 08:00 IST. GitHub ran the sender only about twice a day (I0005), so with his OK a Mac launchd job (com.shlok.outreach-hq.sender) runs 'outreach cycle' at :05/:25/:45 from 08:00 to 20:45 IST, only when the shared folder is on main; log at ~/Library/Logs/outreach-hq-sender.log. First run 21:29 worked (inbox read, held outside window). Personalised founder task outreach-founder-emails paused; routing owners all Claude. Stop: set active = false in the template and run 'campaign stop --template founder-v1'. New reply found: Helium Air interview Fri 20 Nov 4-5pm IST.",
+   "ref": "PR9"
   }
  ]
 }

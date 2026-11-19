@@ -31288,15 +31288,15 @@
    "key": "arisinfra|product manager|bengaluru",
    "type": "job",
    "company": "Aris Infra",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "arisinfra.com",
+   "company_url": "https://arisinfra.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "420586",
    "source_url": "https://www.instahyre.com/job-420586-product-manager-at-aris-infra-bangalore/",
@@ -31327,8 +31327,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -31337,15 +31337,30 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Aris Infra, asks 3-7 yrs and an engineering degree with an MBA preferred; you have ~1.3 yrs experience.",
+    "fit_notes": "The posting asks for '3 to 7 years of experience as a product manager or in a similar role' and 'Bachelor's degree in engineering (MBA preferred)'. Shlok has about 1.3 years of experience and no MBA. While he has technical product experience building a Flask REST API [idekho] and engineering background from IIT Guwahati, the required experience range (3-7 years) goes beyond his normal fit.",
+    "pay_notes": "Pay not stated in the posting or evidence.",
+    "culture_notes": "Glassdoor ratings and detailed culture flags were not found in the evidence.",
+    "hook": "Aris Infra successfully launched its IPO on June 18 2025 and is building core infrastructure for construction material sourcing and logistics.",
+    "hook_source": "https://www.instahyre.com/job-420586-product-manager-at-aris-infra-bangalore/",
+    "researched_at": "2026-11-19T13:36:54+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Aris Infra: Mukul Agarwal Holds 1.6% Stake - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkhiT1RRN3B4Umc5akdGVjY0dGxSai0wbGh1YmJkX0pjRERxanRBdjcxWTBpTGZvY2t6b2NIaGdNVVN6YUcwNldwVXlIV3VjWU93UTgzOEpLRWw0RHRDWkotQksxcjNiTV9ISkNudTZUZWRGZmZERUhEMjFqanAzUWdLeGhNZw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -31369,14 +31384,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-19T13:36:54+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role requires 3 to 7 years of experience, making Shlok's ~1.3 years a stretch that falls outside the normal fit, and it states 'MBA preferred' alongside heavy product management requirements where he has no formal PM tenure.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-19T13:36:54+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 3 to 7 years of experience, making Shlok's ~1.3 years a stretch that falls outside the normal fit, and it states 'MBA preferred' alongside heavy product management requirements where he has no formal PM tenure."
   },
   {
    "id": "L0250",

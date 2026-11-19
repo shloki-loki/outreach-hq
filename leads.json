@@ -204886,7 +204886,21 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Shravan Subramanyam",
+     "title": "Managing Director",
+     "role_type": "hiring_manager",
+     "linkedin_url": "",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "Role is MD's Office analyst; MD named in company announcements (bplmedicaltechnologies.com news, June 2025)",
+     "found_at": "2026-11-19T10:51:54+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -204906,9 +204920,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 71: qualified"
+    },
+    {
+     "at": "2026-11-19T10:51:54+05:30",
+     "actor": "email-finder",
+     "event": "contact_added",
+     "detail": "Shravan Subramanyam (hiring_manager)"
     }
    ],
-   "updated_at": "2026-11-19T10:51:40+05:30",
+   "updated_at": "2026-11-19T10:51:54+05:30",
    "reject_reason": null
   },
   {

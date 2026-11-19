@@ -12128,10 +12128,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-19T00:39:50+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -12194,9 +12193,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-19T11:40:51+05:30",
+     "actor": "follow-up",
+     "event": "drafted",
+     "detail": "followup1 email to Madan Somasundaram awaiting approval"
     }
    ],
-   "updated_at": "2026-11-19T00:39:50+05:30",
+   "updated_at": "2026-11-19T11:40:51+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",

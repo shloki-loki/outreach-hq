@@ -30169,7 +30169,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore,Mumbai",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "434860",
    "source_url": "https://www.instahyre.com/job-434860-program-manager-at-inamo-bangalore-mumbai/",
@@ -30215,8 +30215,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -30225,15 +30225,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Program Manager at Inamo, asks 5+ years; your supply chain experience maps well, but experience requirement blocks you.",
+    "fit_notes": "The posting asks for '5+ years of experience in operations and program management'. Shlok has about 1.3 years of experience. While his experience in S&OP and inventory management maps to requirements like 'managing cross-functional teams' and 'data-driven decision making' via facts like [sop] and [ceo-coo], the experience gap makes this a reject.",
+    "pay_notes": "Pay not stated in the posting; no evidence found in web search.",
+    "culture_notes": "Glassdoor data not available in the posting or web search.",
+    "hook": "We are on a mission to transform operations management and enablement for the fast-evolving quick commerce sector in India.",
+    "hook_source": "https://www.instahyre.com/job-434860-program-manager-at-inamo-bangalore-mumbai/",
+    "researched_at": "2026-11-19T13:35:29+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -30257,14 +30267,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-19T13:35:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The posting explicitly requires 5+ years of experience, which is well above Shlok's ~1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-19T13:35:29+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly requires 5+ years of experience, which is well above Shlok's ~1.3 years."
   },
   {
    "id": "L0241",

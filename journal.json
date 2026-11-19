@@ -2960,6 +2960,15 @@
    "title": "Ran",
    "detail": "0 cold emails, 0 follow-ups and 0 LinkedIn note sets drafted for approval; 4 dropped for failing checks; stopped early: free quota used for today on gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash (last: Gemini free quota used for today (gemini-3.5-flash) [limit 20: GenerateRequestsPerDayPerProjectPerModel-FreeTier])",
    "ref": ""
+  },
+  {
+   "id": "J0330",
+   "at": "2026-11-19T15:09:28+05:30",
+   "by": "lead-scout/scrape",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "6800 jobs read, 401 passed rules, 24 new leads",
+   "ref": ""
   }
  ]
 }

@@ -2277,9 +2277,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to  awaiting approval"
+    },
+    {
+     "at": "2026-11-19T23:35:27+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to shivam.balve@vianaar.com queued (template)"
     }
    ],
-   "updated_at": "2026-11-19T11:41:31+05:30",
+   "updated_at": "2026-11-19T23:35:27+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
@@ -2701,9 +2707,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to  awaiting approval"
+    },
+    {
+     "at": "2026-11-19T23:35:27+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to aryan@ghostkitchensindia.com queued (template)"
     }
    ],
-   "updated_at": "2026-11-19T11:41:19+05:30",
+   "updated_at": "2026-11-19T23:35:27+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
@@ -3413,9 +3425,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to  awaiting approval"
+    },
+    {
+     "at": "2026-11-19T23:35:27+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to akash.ceo@gbgev.com queued (template)"
     }
    ],
-   "updated_at": "2026-11-19T11:41:27+05:30",
+   "updated_at": "2026-11-19T23:35:27+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
@@ -5003,9 +5021,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to  awaiting approval"
+    },
+    {
+     "at": "2026-11-19T23:35:27+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to hello@carbontrail.net queued (template)"
     }
    ],
-   "updated_at": "2026-11-19T11:40:42+05:30",
+   "updated_at": "2026-11-19T23:35:27+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
@@ -6502,9 +6526,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to  awaiting approval"
+    },
+    {
+     "at": "2026-11-19T23:35:27+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to careers@deccan.ai queued (template)"
     }
    ],
-   "updated_at": "2026-11-19T11:41:35+05:30",
+   "updated_at": "2026-11-19T23:35:27+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",

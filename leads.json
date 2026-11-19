@@ -247,6 +247,11 @@
      "at": "2026-11-14T15:14:05+05:30",
      "by": "send-track",
      "text": "Application kit ready (same Ashby posting as L0085; apply once)."
+    },
+    {
+     "at": "2026-11-19T14:15:28+05:30",
+     "by": "writer",
+     "text": "Writer could not produce an application note that passes every check: answer was not valid JSON: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     }
    ],
    "timeline": [

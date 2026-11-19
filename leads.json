@@ -210550,7 +210550,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492411172",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-at-trail-4492411172",
@@ -210581,8 +210581,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 25,
+    "total": 46,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -210592,15 +210592,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Trail requires 5+ years of experience and enterprise GTM focus, exceeding your 1.3 years.",
+    "fit_notes": "The posting specifies '5+ years with an undergraduate degree from a Tier 1 institute' and focuses heavily on enterprise outbound GTM, account-based marketing, and pipeline generation. Shlok has 1.3 years of experience primarily focused on operations and supply chain [sop, ceo-coo, msl], falling far short of the 5-year requirement.",
+    "pay_notes": "No compensation data provided in the job posting or external sources.",
+    "culture_notes": "No Glassdoor or AmbitionBox ratings found for Trail.",
+    "hook": "Trail is building the governed graph context layer between company institutional knowledge and AI agents to handle complex business processes.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founder-s-office-at-trail-4492411172",
+    "researched_at": "2026-11-19T23:05:05+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "A multi-sensor approach to monitor trail-running impacts on soil - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xRXlpdkptVnIyMWJxaTMwc1NrVzVhQ2NUYU5vbW80bTdhLUtlbXBTVGRGcGNMVmgtRm5kVEM4eDdTZHhDeWNvV3c3V21PQ0tFck5sc2ZOYzd4UElsYTZV?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Trail Blazers 118-108 Thunder (12 Nov, 2026) Final Score - ESPN India",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMMTc0Z3lCOHNjS3dCMU10QmFFc3pOczFqczU3SEFqNm12QkxkZFlOZ1diWXdFamFEOUJCakRlWURqS2pJRmNENkhnOElDTXhQUFBsZFh0MHFMOHplNFdsZDBmU1J1ZE9uNldGNGRCMnZqUW9yM0N6Mg?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "APOD: 2026 July 17 - The Dust Trail of Comet Tempel 2 - NASA Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGttUEpoQUc4SU8xeTF1QUM5WmlIQWQwbTNha3BUNjh4S3RpUmxDQnJzd2hyNzdHUDlaNHhlM0ljR1d6ZUVXYzJpLUtieV9ab1g4WW5DNFVrTnJtWWkyVWh2Tnc4OHVPQjNPME9mUTRRcHhhZWdmdDhrZ3U0S0hsVnFuLU1tQTRpYmxQNlJXUzk0WXFt?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Frozen Trail - 2.0 Update - ARC Raiders",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Hc1Z1UDNnODlBbVFQYVBiX0ZOWlQzT2hfLUl3YTdtOU1rTDc4Zm5aOWNVeklhU1E0bmJhQ3NPaXZ6TmVlREN1T3JmeTNjRzNCTGt6TEJtYlpNVG9SamRrNA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Finding the Sublime on the John Muir Trail - National Geographic",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVllmcHMwVXJ0d0w0N2VWZ1ZRTVprNmxIVnZRM1lrMkZlNDc0V05WWk0yeGhZSkQzRXVyV2F1dUZhMFJYaGM2QS1aOWh3Yl9oQk9jc3VUNUJ4dkMybGl3cEtENF9yVFZ2bmc5RTFHcmdjZ19qb0U3ZWNzMDdkQ3p4eUxyb2x0aWtGZzNuWURSU3NPQQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Game Recap: Trail Blazers 118, Thunder 108 (Nov. 11) - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb25Bems1SEtqY29PVWctYlFZMmZ0em9UenAzRWN2MDJwZkdJTlBhR3V4RjlFSDkyYTJyQm5XQkhpWHdlZGNDT3J0eU9zbmRNUFllUmpTUTNJWTlFVHlJaWlBQjVEcU9XUjJoazFsUUxMck5IaGtxYWo5aXVMZE9yYnBsUXNUdw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -210624,9 +210664,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-19T23:05:05+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 46: rejected (The posting strictly requires 5+ years of experience, exceeding the 4-year maximum cutoff for Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30"
+   "updated_at": "2026-11-19T23:05:05+05:30",
+   "reject_reason": "The posting strictly requires 5+ years of experience, exceeding the 4-year maximum cutoff for Shlok's 1.3 years of experience."
   },
   {
    "id": "L1770",

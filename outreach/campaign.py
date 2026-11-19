@@ -50,7 +50,7 @@ def role_name(raw: str) -> str:
 
 
 def render(template: dict, contact: dict, lead: dict, kind: str = "") -> tuple[str, str]:
-    fields = {"first_name": first_name(contact.get("name", "")), "company": company_name(lead.get("company", "")),
+    fields = {"first_name": contact.get("greet") or first_name(contact.get("name", "")), "company": company_name(lead.get("company", "")),
               "role": role_name(lead.get("title", ""))}
     if not fields["first_name"] and template.get("audience") == "jobs":
         fields["first_name"] = "there"     # a hiring inbox such as careers@ has no person's name
@@ -273,12 +273,16 @@ def queue_followups(template_id: str = "followup-v1") -> dict[str, Any]:
                 kind = "followup2"
             else:
                 continue
-            contact = store.find(lead.get("contacts", []), contact_id) or {"name": cold.get("to_name", "")}
+            contact = dict(store.find(lead.get("contacts", []), contact_id) or {"name": cold.get("to_name", "")})
+            if not first_name(contact.get("name", "")):
+                # No saved name (hello@, careers@): greet them the way the first email did, else "there".
+                greeting = re.match(r"\s*Hi ([^,\n]{1,40}),", cold.get("body") or "")
+                contact["greet"] = greeting.group(1).strip() if greeting else "there"
             try:
                 _, body = render(template, contact, lead, kind)
             except ValueError:
                 continue
-            problems = [p for p in check("", body, first_name(contact.get("name", "")), company_name(lead.get("company", "")))
+            problems = [p for p in check("", body, contact.get("greet") or first_name(contact.get("name", "")), company_name(lead.get("company", "")))
                         if not p.startswith("company name")]
             if problems:
                 continue

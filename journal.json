@@ -3077,6 +3077,15 @@
    "title": "Drafts waiting over 3 days: 19 drafts, M0016 oldest",
    "detail": "19 messages in draft; M0016 is from 15 Nov (4 days). Nothing approved or failed; no message stuck in sending.",
    "ref": "I0026"
+  },
+  {
+   "id": "J0343",
+   "at": "2026-11-19T21:25:30+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Reoon API key stored in plain text in issue I0010 detail",
+   "detail": "Remedy for Shlok: rotate the Reoon key at reoon.com and update .env and the GitHub secret; the code that logs provider URLs should redact the key parameter (coding session). Old key stays in git history until rotated.",
+   "ref": "I0025"
   }
  ]
 }

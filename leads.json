@@ -210311,15 +210311,15 @@
    "key": "inmobi|senior product manager core product experience|bengaluru",
    "type": "job",
    "company": "InMobi",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "inmobi.com",
+   "company_url": "https://www.inmobi.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Senior Product Manager - Core Product Experience",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "greenhouse",
    "source_id": "inmobi:8358144",
    "source_url": "https://job-boards.greenhouse.io/inmobi/jobs/8358144",
@@ -210350,8 +210350,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -210363,15 +210363,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Product Manager at InMobi for AI ad platform, but requires senior product experience you do not have.",
+    "fit_notes": "The posting asks for a senior, high-ownership role owning 'the heart of Accelerate: the experience that turns a brand's goals into a live, running campaign' using agentic and LLM-driven product features. Shlok has 1.3 years of experience, primarily in operations, S&OP, and supply chain at Ola Electric ([sop], [ceo-coo]), with only an internship experience in product ([idekho]). He lacks the senior product management background and tenure required for a Senior PM role.",
+    "pay_notes": "Pay not stated in the posting; no reliable fixed salary figures found in the web research for this specific senior product role.",
+    "culture_notes": "InMobi is a well-known Indian unicorn currently preparing for a $1 Bn IPO [S4, S6], but specific employee ratings and work culture data were not found in the search results.",
+    "hook": "InMobi recently roped in four bankers to helm its $1 Bn IPO as it scales its AI-native advertising and commerce platforms.",
+    "hook_source": "https://job-boards.greenhouse.io/inmobi/jobs/8358144",
+    "researched_at": "2026-11-19T23:13:01+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Naveen Tewari, Founder & CEO of InMobi Group, shares his perspective on why the current artificial intelligence revolution offers Indian founders an unprecedented Day Zero global opportunity. Watch the full video to catch his complete vision for the AI decad - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHBhT2hJNm0xOWxkREVxc1p6dlpKMzViQWhpdS0zNmFPN2FHa0xhc2JFVEE4YTFrcUIxck9GU3VWazUweHhNUDhVZTE4QjlWbEFsUTROYW12Tjl5eW85dTMxMXZFQnExTGp4cFlTLWdVbVJqNlNGQTVXOHhYdS1RTzFvZnl2bFloU2RlQUlBZjZEN2NNOEFxNjE1ZG1oZXkwM3d4emQzVENmR243SUR2QkltYTBkVHM?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "InMobi to integrate Glance with Siri AI to enable personalised shopping experiences - electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdEZjdzRuSWlEUnFDdEUwOE1RYjlMT3B6Z2FoZ1JlQk1JcUNZUmJDQTdMV0VQZVI0c1ZZcUVlUHc0UTBxRWNsa0xXaTZqQzY3MDI3U2F3dW5oeF93WG02bWhNeGZBUDVvRzg1Nkt1ejRoWlR1WlVpS09lVUlidDcteUpqYTVDZ09YOUxQYko5S0lyanZDamtBa1pLR3R2c0xhZ0FRVmNZUUdNanZ6RUJUYWprSEFQV2tLc1JqYUxvUjhVQldzaW9WNlQ3RUdJMlkzNE9BUnkyTkZ3Q3dDTUlGYVU2U3lJMHE1bkR6Rk4ycTVtRTJNanBIRWZSb9IBgAJBVV95cUxNRGJBdDE2NFBjWXVLUVZFRk13b1RfR0FkYmZUMjlvTG5HT3ZIbjllMWtlTTNJcHJvS2hOcDhJMlByNGxqcWR6MFBHMFlmaUhJN1ZKOXRDZnFSRHZhZFN1bGhYR05tcl9RazJVNVVieGR6SlhVVVJzbkFTVU1RSmNzTENMdkhfUksxZFhkbmxTVmlIYjhIaHl0RnBlazlJeVFVNmFqd3pxY0hXUVVsREhjTGpBeFhUVXlkSktxZ0V2cXRaU2tqM3VUYVQtQUx5UmdFZWI5OE8yaXphQzdQbFI1bWlkSG94bmhmTE9qQkE4ZDNNdjEzWkxMRVZvV09DYklU?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "From taking bets on people to embracing AI: InMobi CHRO Shefali Rai’s approach to building a future-ready workforce - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObDB1VkpiUWlLeGFZQnVQeXdEcGFDcXVGNGFjRXdMSVAtVFE2Y0dtNTRiOEdXbllDRnZxNi1VZzI2X3JSQlBBdGVheGZfTE03eFhmaDdoWTRvUlhFNjdxOV9nVWhQNGpHUVRyaDVnOXFmUjFXZmtqY2x2YzYwOFVrUVMtTDgwWGhUMTZXRXhWVEhQVndtQW1ISlJqM0ZZUE9zNEhYcUhHZ21Hei15M3h6a1E3WFNRTjFXZWNxeHVFTlZfMUdfRDBNOE5EM0p5RUozbXJqdkMxQlI5YkxidEhrSDdUaFF2U2ZxTE85QXV1SFo5WEhxSE9vMkt6VFBFdw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "How InMobi, the first unicorn, is remaking itself with bold bets - Forbes India",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQk1xWDB4V1JZMDdfX0JyckNTZ2ptTmpQQV9NQ0x3eHY4UHV2bTd6SGZwaGRQeUx6YXYxNlA5TFVFNnl0MWw4SzlTOU1vWWxBOVFSMjA0ODl5LW16SkQ4VnZtVHAwcW4yMjFvdE9LTDNjd0JFZ0dFUkV3UzVKSUEtNDBmTXJzUG9lOFN1WWxCNkltbnFScmh3YTRmdkFhaXVOaDA3MnVIaFlLYUxwVWktdE5yVTVuWjc0VF92VTZCSFPSAcYBQVVfeXFMTUJQRkZ5c3VhYmFVaHBSWmlxY0QyMU9JVlZDMzVxWFlPQVhEb3ZZRzBsQmFsbS11bDBSS2g3WjVOSzAwcm94YUNYMHJGZE5HZFhCSm1vdkFBRGpQQzZIZnNmeER0bWFFNmdWNDBFYXVkcTFYR0Rld1lvaHladlFhOGJMN212QmtFUHR2aVQzVnJkcl9YUkwtWGFkTHZpVU9Ldm5hX1ZjcVFLdXRHQXVFcTRvaXd3ZUNXTElkSlh4bGxzRlBkazdR?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "From failed SMS startup to Rs 3,000-crore 'InMobi' success: How Naveen Tewari built India's first unicorn... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWUxtMkJZTy1SbUI1LUpSdklLbEFXMUZVX1hsUURsNEdsV3c2WUJYSXZ0akJCUXg1TENOZ2ZFUlc4QkNHOVFubFhWd0ZtcEVPZTc4UFNTWWxKVkdnaWx2Mkl0dG1yNGZPSEtZd21kcF9iNkpQbUl3NVVYZ19WSFRQd3VuQ1JxdHZVWHFmeDRxRVZRMGdMZlZ5dkZCSFRmdjZtUE9DM25UYWg2WHhtLTNlNHdZY0R2WUN6LUhYWTdVWXNUWjJubnEtYnFLdzBYSmlfZ1dXLTlfMmpnWFJtYUpXLTVEWHlpTFlvYjlGZXhBeVVHYVRCeHhzNzRVQTUyZFJ0TVItTzFR0gGLAkFVX3lxTE5xbUUwRTRqSVh5S1FFLTQxbnh6U0FkeDlFT3BOeEpGRS1uYlBtUEdqRGhrM1doZnRBREVBd25JUlJkV1U2Z2dIakdPNWFwR290SEt5d09hQ3pPclRxOC1sVVROY01CWnJ0SkoyZ0xtZGlQc3Y0LXljRVhyY1M1bFNNR3V1RHc3aVBZZUZnZjY0c2VtQTdVaUlWVGZ6dTN4NU5XVFY1MWtfS2ZMZEIyZ25JNTFpWjRGelkzWklCSmdHTXlqaklrSEp2b28yTDE1dmdIeHJoM2VGN1VleHpyakt0OWtRbm9vVm1KaDFYVkJNa0Y2aXA5Rnhyb1Vib29lNXVjZjhHM1hFOHB0VQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "InMobi Ropes In Four Bankers To Helm Its $1 Bn IPO - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0ZVg3T0JjQnNiX2Z2WHhpaEdRMnRHQkdpUFAyMkZ2LVhHOWNvSm05dnljLWdleW8zMEdRUC1pUTVXdjJPWkdPeVllTURMQXBLSG52NXNJSkhiQ0RNWDZ5Z2pLY3Y4NS1aS0ZDdzZ1N21qSU1KMzhod01JLTVFdw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -210395,9 +210433,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "greenhouse: rule score 66"
+    },
+    {
+     "at": "2026-11-19T23:13:01+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Senior Product Manager role at InMobi requiring senior-level product ownership and experience scaling AI campaign management platforms, which exceeds Shlok's 1.3 years of experience and lack of formal product management background.)"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30"
+   "updated_at": "2026-11-19T23:13:01+05:30",
+   "reject_reason": "Senior Product Manager role at InMobi requiring senior-level product ownership and experience scaling AI campaign management platforms, which exceeds Shlok's 1.3 years of experience and lack of formal product management background."
   },
   {
    "id": "L1766",

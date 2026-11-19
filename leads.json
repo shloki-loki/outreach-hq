@@ -205872,15 +205872,15 @@
    "key": "moengage|product manager 1|bengaluru",
    "type": "job",
    "company": "MoEngage",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "moengage.com",
+   "company_url": "https://www.moengage.com",
    "company_linkedin": "https://www.linkedin.com/company/moengage",
    "company_note": "",
    "title": "Product Manager-1",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore Urban, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491835228",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-1-at-moengage-4491835228",
@@ -205896,7 +205896,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "About MoEngage: \n MoEngage is an insights-led customer engagement platform trusted by 1,350+ global consumer brands, including McAfee, Flipkart, Domino’s, Nestle, Deutsche Telekom, and OYO. MoEngage combines data from multiple sources to help brands gain a 360-degree view of their customers.\n MoEngage Analytics arms marketers and product owners with insights into customer behavior. Brands can leverage MoEngage Personalize to orchestrate journeys and build 1:1 conversations across the website, mobile, email, social, and messaging channels. MoEngage Inform , the transactional messaging infrastructure, helps unify promotional and transactional communication to a single platform for better insights and lower costs. MoEngage’s AI Suite helps marketers develop winning copies and creatives, optimize campaigns and channels that boost engagement, and help with faster execution.\n For over a decade, consumer brands in 60+ countries have been using MoEngage to power digital experiences for over a billion monthly customers. With offices in 15 countries, MoEngage is backed by Goldman Sachs Asset Management, B Capital, Steadview Capital, Multiples Private Equity, Eight Roads, F-Prime Capital, Matrix Partners, Ventureast, and Helion Ventures.\n MoEngage was named a Contender in The Forrester Wave™: Real-Time Interaction Management, Q1 2024 report, and Strong Performer in The Forrester Wave™ 2023 report. MoEngage was also featured as a Leader in the IDC MarketScape: Worldwide Omni-Channel Marketing Platforms for B2C Enterprises 2023.\n About the Role \n Messaging is where marketing actually meets the customer — the push that gets opened, the WhatsApp that gets replied to, the SMS that drives the click. You'll own a slice of the Campaigns product — the engine behind messaging across Push, Email, SMS, WhatsApp, RCS, and In-App channels — and be judged on whether customers actually adopt what you ship, not on how well you followed the spec someone else wrote.\n You're a few years into your PM career, not new to it. You've shipped things end-to-end, learned what \"done\" actually means in practice, and know the difference between a feature customers use every day and a feature that only exists in a release note.\n You'll report into the Campaigns product team, work shoulder-to-shoulder with engineering and design, and spend a meaningful chunk of your week talking to customers, reading support threads, and digging through usage data — because that's where the real opportunities live, not in a brainstorm.\n Roles & Responsibilities \n Customer Research, Relentlessly- Run structured VoC/VoP analysis — customer calls, support ticket audits, CSM conversations, in-app feedback — to build a constantly-updated picture of where Campaigns is winning and where it's losing deals or trust. Turn scattered anecdotes into a ranked list of real problems.\n Opportunity Mining- Don't wait for a PRD to land in your inbox. Mine support channels, churn signals, and feature requests to surface the 2",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -205911,8 +205911,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -205922,15 +205922,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager-1 at MoEngage in Bangalore, asks 3+ yrs of PM experience; your background is S&OP and operations, not B2B SaaS PM.",
+    "fit_notes": "The posting asks for '3+ years of product management experience in a B2B SaaS environment' and 'Experience you've owned something end-to-end'. Shlok has ~1.3 years of experience primarily in Strategy & Operations at Ola Electric (facts [sop], [ceo-coo], [cell]), but does not have the 3+ years of formal B2B SaaS product management experience required.",
+    "pay_notes": "Pay not stated in the posting, and no specific salary figures were found in company evidence.",
+    "culture_notes": "Backed by Goldman Sachs Asset Management, B Capital, Steadview Capital, Multiples Private Equity, Eight Roads, F-Prime Capital, Matrix Partners, Ventureast, and Helion Ventures. No specific employee ratings or culture flags were found in the provided sources.",
+    "hook": "MoEngage turned over 400 APIs into agent tools with AgentCore Gateway.",
+    "hook_source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzJMU250WS1rbDZJUnJSXzlXbHVOT2VzbndaU2piY1hnY2hZc3VYbldHUWoyTU5jWjhJbkNhclV3cmVSR2RRTnRmcUtvcm52RUlyNVBaYVhPekZrNGJQN0VNYnRTMjFIcFFpZkFYNS1JS1MyeXpSbFJDckdyYzBRcG5TUEpTamtDU2YzLUNyYWlUSGhLbkpNR2twSXY2SVZxb0lPY1RYNkdMTDFOT0I2UG05WC0wMkZ5TlpjLQ?oc=5",
+    "researched_at": "2026-11-19T13:30:13+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzJMU250WS1rbDZJUnJSXzlXbHVOT2VzbndaU2piY1hnY2hZc3VYbldHUWoyTU5jWjhJbkNhclV3cmVSR2RRTnRmcUtvcm52RUlyNVBaYVhPekZrNGJQN0VNYnRTMjFIcFFpZkFYNS1JS1MyeXpSbFJDckdyYzBRcG5TUEpTamtDU2YzLUNyYWlUSGhLbkpNR2twSXY2SVZxb0lPY1RYNkdMTDFOT0I2UG05WC0wMkZ5TlpjLQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "When your platform touches a billion consumers every month, the cost of slow answers compounds fast. Ashwin Srinivasan, VP Product at MoEngage, built the architecture to eliminate that entirely. In this episode of Amazon Web Services (AWS) GenAI Tech T - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb253TVhZSFJKRzRtTkFKcjJfNTlrQ0hVdERLOG5zLXlXV1dmb3RkS2Vmb19Id2JWN3VBZ1dUV1pUcTA3QTZWMDh5eVY1Tk0zeEoxN1BPc3ZVVDBzdExYN1ZTUzIwcGZqSmFWdy1ObmhCVGVnaTc0dk1EZHRROXdEVmhtQmYxNWRPYzY4Q1pfT2hXSnpaeXU5Q3BweUpyT0tGeW1QVDVUczdWNzRHWTk0dTRraEZEREJ4?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPek9aamNLWUQxN2V4VVBXNjZ1YWpHSmRfcUVieGYwQklNOWx3QV9JaXpqOV9jQjVGUnJtWktGUWNTcDRJel9rMTFUUVNBaWZaNzJIbFZ6YTdKNFIyc0Z1R25CeEpLeUFZUGNhaXMxem5jMURpQkxpckpHQ1JNOUptbV8zSE15cmxiXzZoMjE5VW1nT1A4SW1lTXBBcHZEWk0?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "MoEngage acquires AI startup Aampe to boost personalised marketing - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkxSeWtlWGFHcFFBdHkydEJvQVNfamFETDE2VHA1bmRjaDZhQU1mRy15MlcybnY1WHFKTGZUZkVGY3ZaU1hBVDZDdzQ1aU1BYVl1enhMVk44NlRDVnMzZGQ1WWNkQ3V4ajl0QjZPOGtNdWVLYk5menVqY2htUjd2R0xuektuZG9XM1dNanlQVE02WFR1YjM0eFdXbTZTQWl0bVRSTlFlQzN5dFlMT3VWTTFqNWVxdWVuUjFqU2lsWWFlbEtUcm9BR3JndkpBN2NXVnZzeGNoUktzTTjSAeABQVVfeXFMUERxN0VjRFkyWDFoYjl4SGxHRHkxZWVRNnpiRGZkVHZsZjVGZ1dwVUlzb0FtODZhNnplb0szZ2o2VXd5QjZ2cFFVeko2d1hvMVctalNxcjNxalpTbXZvX01EQ3dMZFlIWnVnRnZIaUhGTU83UzBrODJnRkxrVjVuVHJvenM3WW5sY2lDT2IxRkgzT3p1MHNoenI5c3BINFg2c1lWRTM4Q2pFZmJqLUU3OU5yYUhpbFBrUHdMWEJPbElUTkJybUtDemhJY2MzRXlwUzF2V3k2cmgybUtaUnlWbl8?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "SaaS firm MoEngage acquires AI startup Aampe in all-cash deal - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzNIYVZIbmlnUWxIOXdDUXl0RmhxLTcyZGpKcE9kQ1Z5MHpnRjFIV09jcGZudVhkU3BnMVNWVUFZYkp6aFFEdXN3SU5WV1J4a3R1T09MeWFKWmVPVDNWNGsyNHJxcXlXNFhMbTE4Yk1ZcWNWN2syUUxfWUt4MlZvWXNkekNEbHFjOE5wa0NLYlFmXzh3eXdlSVI5Mng2S1VGRmk0cllacW11NHZVMi1YTVREMUk2VDhVaFFtdWltSUg3Mmp60gHKAUFVX3lxTE51bTBjbFU5R1VnQTUyakVjUVVuVHF3eW5FazI2Uk9LZDg0TnhYTDFNa3VrcFRVRHJxc3JBX2ZicW40M01ERE82UktsS3ZZMmltUlZ0cnlvQmlxSTY5SVpXM2R0S0hjS0FhY1dydVBBZy01bE9PTno1b2JWVW5xM0NNaDU4cXZSSzhja0Nlc3o0V2VRWW5aWFc0OWt4WTZ2enhCdUFieUcxdkNLM3lLWW14enE2VkE5UFdTTEpoQ0pSWklCanNCaUduSFE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "MoEngage acquires San Francisco-based AI infra startup Aampe - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2FaT1ZkbUVnaEt5SWYzazlaQ2ZJN1JZQzFwbDBHT2swMzhXQmJMMjF0T09KMVY3MEpJNk1sQ2MxSEUyWGtITXp3YWFUOGh2dkhzUXJQX0R3QnBTNzBuNDFSMUwxZWV2QU5mN19rQWNXa1JJbnkyQkU3NkdGR3A0YzI2blhuSWdGQzhSNDh5dk02VzA5?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -205954,14 +205992,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T13:30:13+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The posting explicitly asks for '3+ years of product management experience', which exceeds Shlok's ~1.3 years of experience and represents a stretch/mismatch for a PM-1 role requiring a solid PM background.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-19T13:30:13+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly asks for '3+ years of product management experience', which exceeds Shlok's ~1.3 years of experience and represents a stretch/mismatch for a PM-1 role requiring a solid PM background."
   },
   {
    "id": "L1735",

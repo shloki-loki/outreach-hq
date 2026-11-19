@@ -2098,6 +2098,18 @@
    "ok": true,
    "summary": "10 follow-ups drafted (followup1: L0036 L0049 L0095 L0057 L0014 L0019 L0022 L0024 L0016 L0048), 0 replies flagged, 0 bounces handled. Skipped web news check (unattended run).",
    "stats": {}
+  },
+  {
+   "at": "2026-11-19T12:52:28+05:30",
+   "agent": "live-check",
+   "ok": true,
+   "summary": "1376 postings checked: 304 live, 19 moved to the Bin, 1375 could not be checked",
+   "stats": {
+    "checked": 1376,
+    "live": 304,
+    "binned": 19,
+    "unknown": 1375
+   }
   }
  ]
 }

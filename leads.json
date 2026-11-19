@@ -21332,15 +21332,15 @@
    "key": "optum|associate technical product manager|bengaluru",
    "type": "job",
    "company": "Optum India",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "optum.com",
+   "company_url": "https://www.optum.com",
    "company_linkedin": "https://www.linkedin.com/company/optumindia",
    "company_note": "",
    "title": "Associate Technical Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4489915124",
    "source_url": "https://in.linkedin.com/jobs/view/associate-technical-product-manager-at-optum-india-4489915124",
@@ -21356,7 +21356,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start Caring. Connecting. Growing together.\n Primary Responsibilities\n Partner with Product Managers and Product Owners to advance product initiatives and meet business objectives\n Collaborate with business stakeholders to gather requirements and support backlog creation\n Prioritize and re-evaluate requirements throughout the product lifecycle\n Understand the product strategy, roadmap, and future releases\n Break work into user stories and manageable tasks aligned to OKRs\n Create user flows, acceptance criteria, and definitions of done\n Drive backlog grooming and prioritization activities\n Understand team capacity, priorities, and impediments\n Participate in Agile ceremonies and provide constructive feedback\n Comply with all applicable Company policies, procedures, and business directives, changes including those relating to work location, team assignments, work schedules, and flexible work arrangements\n Required Qualifications\n Bachelor's degree in technology, computer science, mathematics, economics, statistics, physics, health informatics, business, marketing, or a related field; alternatively, a technical certification, bootcamp, or 2-year technical college qualification\n Analytical and problem-solving skills\n Ability to understand and analyze process flow diagrams\n Solid listening, communication, and collaboration skills\n Product-focused mindset\n Preferred Qualifications\n Experience with product management tools such as Aha!, Rally, and GitHub\n Understanding of personas and customer journeys\n Knowledge of healthcare industry processes and technology\n Familiarity with software development practices and Agile methodologies\n At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone - of every race, gender, sexuality, age, location and income - deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.\nSeniority level Not Applicable | Employment type Full-time | Industries IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -21371,8 +21371,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -21382,15 +21382,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Technical Product Manager at Optum India, asks for technology/business degree; lacks pay and tech-firm upside.",
+    "fit_notes": "The posting asks for a 'Bachelor's degree in technology, computer science, mathematics, economics, statistics, physics, health informatics, business, marketing, or a related field; alternatively, a technical certification, bootcamp, or 2-year technical college qualification' and 'Analytical and problem-solving skills'. Shlok has a B.Tech in Electrical and Electronics Engineering from IIT Guwahati, meeting the technical degree requirement. His technical internships like [idekho] show product and API work, but the role does not state pay or match the Rs 24.5 LPA target.",
+    "pay_notes": "Pay is not stated in the job posting and no reliable pay evidence for this specific title at Optum India is present in the search results.",
+    "culture_notes": "Ratings and specific culture scores were not found in the search results. A recent culture flag notes that a former senior director at Optum received 3 years in prison for a 'ghost employee' scheme [S3].",
+    "hook": "Optum Rx recently launched new tools for a simpler pharmacy experience.",
+    "hook_source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVdsZFQ2WFVhYnl2dWdybGFYQXpNY3Z1bXpoYXEtUnlYTVVTWU1tMEZ1eFJYbEdFdjItMHZFUk9RZWlZOUVsZU5lWU8tdzZoY2xTY3hpQlFQRHc4b0p3Y193OVhnUm5pMklLQmdFNW96ejVZSWVOa2pnbEEyTVNOeDlkcmpuelNFVE5iV3FSSDBEUldpU19JRUVlVkk?oc=5",
+    "researched_at": "2026-11-19T13:27:50+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Optum Rx launches new tools for a simpler pharmacy experience - Optum",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVdsZFQ2WFVhYnl2dWdybGFYQXpNY3Z1bXpoYXEtUnlYTVVTWU1tMEZ1eFJYbEdFdjItMHZFUk9RZWlZOUVsZU5lWU8tdzZoY2xTY3hpQlFQRHc4b0p3Y193OVhnUm5pMklLQmdFNW96ejVZSWVOa2pnbEEyTVNOeDlkcmpuelNFVE5iV3FSSDBEUldpU19JRUVlVkk?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "UnitedHealth Group execs detail continued improvements at Optum Health - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnlyYjBkWVh1QWFUQ0dNWUJyaGJUSVdNSkl4dzA3eFlfaXpYcGhIc2x6M3FTTXpmYmltUkpMOUZwNENSUjFFbm04VjBBWWdTOE94eXVUS0ptU3RvU3hvdlNoVy1OY2hpTzlJMTlmRXdsUVpCUHNrUHZEQmNwNXZSNjBEVjV4cG85YmhZcnZn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "‘Ghost employee’ scheme earns former senior director at Optum 3 years in prison - HealthExec",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYUJYYUREcE9fS2pXWG1hdmtBNEE5aEdnSFVVRWViMFVsLWJxNTFKeW5IREJCNWgyNnozbWJDWHIzcFhoWU1GM2pwei1wODYwNEoyZW1RemxmNGJxekYzcFlYSmhVcV95a195X3hsWEd6LVNrbzVSNkNlUkw4cFpmNS1MZ29fWXNYTXhQYVFDSXBEaGVpY2JlM0xPdVc0Q0FqYWdlckxYdWlqWV8wejFOSjVTd2hLdWZQRnV0RUU2aTI5T1I4V0E?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Optum Financial closes acquisition of Alegeus Technologies - Healthcare Finance News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkJzeHI3dkFtRmNSai1hQnA2UFZlZ3pnOFh0a1JDTWVGbW56U3pxOWZzOE5xX2JaeER3S0RNUXNGUGlDaDVQM3g2MExxWXlvMUFkNkdrd1lJWVdYNEpfQVVDcEtiVHl3M29zYXR4TzZjNkI4Y3RITDZWaVk1R3FOOWRnOFV4QXpWQWJzZU5Yb0NZVGVoWTNtMy1BMEU4UTA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Optum, Anthropic team up on AI, but impact on healthcare is still unclear - TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUDI3T051QmZxNGg5dnBhb1djcWxyTkZwX1lKWXZiVXM1UE1iTU5UM3k5UW4zcW1JYUZxVDRjb2hBbnJRT3A0ZXkzWVo2bC02RjRMTUFqYU1jVWx4ZVQyV2F6cXk1ZWtranJ3dG1uR001bnd5MHduY0hVQTRiMjA0N0hLdzhhLWc2TzY3N2ZtU3pjeEQ1WklvQVpYM29EbUdFX1VaWDhBbnU1YWhiNnRDcDBsYXBaUVhmOVl0MUJxd083aFI2?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Inside Optum Health's push to make AI practical for clinicians - Healthcare IT News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1FmdlNDeThJMTE0X01Xb2ZQTGlVOEplWTVMVk5oZ0daRy1QZGRQYUVvdkF6MFJDR2lsQ2VHNXBlZUZ0anBFSmtGR3lnOF81Q3NsTUp0MEdFX21jY21BNzdVd3lBU05kUVRpNVFsTjFycGFHTVdFSHFZSmdoSk9xNFNtR25IVjlSLU14ZHlZTmlVd0RKLVZz?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -21414,9 +21454,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T13:27:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Pay is not stated and cannot be estimated, and Optum is a massive corporate health services enterprise rather than a product-first tech firm or high-growth startup matching Shlok's Rs 24.5 LPA target.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-19T13:27:50+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
@@ -21426,7 +21472,8 @@
     "at": "2026-11-18T13:29:19+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Pay is not stated and cannot be estimated, and Optum is a massive corporate health services enterprise rather than a product-first tech firm or high-growth startup matching Shlok's Rs 24.5 LPA target."
   },
   {
    "id": "L0169",

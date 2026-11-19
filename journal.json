@@ -3032,6 +3032,15 @@
    "title": "Diagnosis: send-track 19 Nov: no draftable leads",
    "detail": "Cause: same as I0020. Every draftable lead has only guess or catch-all addresses and none score 80+, and the Reoon free daily quota is spent, so send-track correctly drafts nothing. Remedy: wait for the Reoon quota reset and re-run find-email --recheck, or fill the Google Forms leads by hand.",
    "ref": "I0023"
+  },
+  {
+   "id": "J0338",
+   "at": "2026-11-19T21:25:00+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: LinkedIn 429 and flaky data-branch git sync",
+   "detail": "Cause: LinkedIn rate-limits plain fetches (429) and the Mac's git fetch of the data branch stalls (see I0015). Both are transient and nothing was lost. Remedy: retry with backoff in store._git (coding session); read LinkedIn through the browser if 429 persists.",
+   "ref": "I0024"
   }
  ]
 }

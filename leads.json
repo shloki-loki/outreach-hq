@@ -856,6 +856,11 @@
      "at": "2026-11-14T15:14:08+05:30",
      "by": "send-track",
      "text": "Application kit ready for the Lever form (18 fields; CTC, notice and location filled from profile.local.toml). Posting asks 3-5 years; Shlok has 1.3."
+    },
+    {
+     "at": "2026-11-19T14:18:29+05:30",
+     "by": "writer",
+     "text": "Writer could not produce an application note that passes every check: answer was not valid JSON: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     }
    ],
    "timeline": [

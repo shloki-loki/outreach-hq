@@ -29270,7 +29270,7 @@
    "key": "docupro|operations manager|bengaluru",
    "type": "job",
    "company": "DocuPro",
-   "company_domain": "",
+   "company_domain": "docupro.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "",
@@ -29278,7 +29278,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "446975",
    "source_url": "https://www.instahyre.com/job-446975-operations-manager-at-docupro-bangalore/",
@@ -29309,8 +29309,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 25,
+    "total": 39,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -29319,15 +29319,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Operations Manager at DocuPro in Bangalore asks for 5-8 years of experience, far above your 1.3 years.",
+    "fit_notes": "DocuPro asks for '5-8 years in operations, with at least 2-3 years leading multi-team operations in a high-volume consumer service business' and 'Fluent in English and Kannada; Hindi preferred'. Shlok has about 1.3 years of experience. While his fulfillment operations and inventory work at Ola Electric [ceo-coo, sop] show strong operational background, the experience gap is too large to qualify.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Glassdoor data and company reviews were not found in the posting or web evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T13:35:19+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -29351,9 +29358,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-19T13:35:19+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 39: rejected (The role asks for 5-8 years of experience, but Shlok has about 1.3 years, making this more than a stretch (over 4 years minimum is a reject).)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-19T13:35:19+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
@@ -29363,7 +29376,8 @@
     "at": "2026-11-18T23:23:43+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 5-8 years of experience, but Shlok has about 1.3 years, making this more than a stretch (over 4 years minimum is a reject)."
   },
   {
    "id": "L0234",

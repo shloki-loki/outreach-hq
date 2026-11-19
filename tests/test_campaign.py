@@ -123,6 +123,22 @@ class FollowupAndJobTemplateTests(unittest.TestCase):
         self.assertTrue(follow["subject"].startswith("Re: ") and follow["body"].startswith("Hi Asha,"))
         self.assertEqual(campaign.queue_followups("followup-v1")["queued"], 0)   # already queued for that person
 
+    def test_agent_followup_draft_is_replaced_but_his_edit_is_kept(self):
+        self.activate("followup-v1")
+        store.save("leads", {"leads": [lead(1, [person("C1", "Asha Rao", "a@co1.com")]),
+                                       lead(2, [person("C1", "Ravi K", "r@co2.com")])]})
+        store.save("suppression", {"emails": {}})
+        draft = lambda mid, lid, to, **kw: dict(id=mid, lead_id=lid, contact_id="C1", to=to, kind="followup1", status="draft",
+                                                created_by="follow-up", subject="Re: x", body="...", **kw)
+        store.save("messages", {"messages": [self.sent("M0001", "L0001", 9), self.sent("M0002", "L0002", 9, to="r@co2.com"),
+                                             draft("M0003", "L0001", "a@co1.com"),
+                                             draft("M0004", "L0002", "r@co2.com", edited_by_shlok=True)]})
+        self.assertEqual(campaign.queue_followups("followup-v1")["queued"], 1)
+        by_id = {m["id"]: m for m in store.load("messages")["messages"]}
+        self.assertEqual(by_id["M0003"]["status"], "skipped")
+        self.assertEqual(by_id["M0004"]["status"], "draft")          # his edited draft stays for him
+        self.assertEqual(by_id["M0005"]["lead_id"], "L0001")
+
     def test_second_followup_after_first(self):
         self.activate("followup-v1")
         store.save("leads", {"leads": [lead(1, [person("C1", "Asha Rao", "a@co1.com")])]})

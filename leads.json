@@ -3121,9 +3121,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Kanika Dang awaiting approval"
+    },
+    {
+     "at": "2026-11-19T23:14:52+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Kanika Dang queued (template)"
     }
    ],
-   "updated_at": "2026-11-19T11:41:23+05:30",
+   "updated_at": "2026-11-19T23:14:52+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
@@ -6658,9 +6664,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Jagadeesh Kunda awaiting approval"
+    },
+    {
+     "at": "2026-11-19T23:14:52+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Jagadeesh Kunda queued (template)"
     }
    ],
-   "updated_at": "2026-11-19T11:40:46+05:30",
+   "updated_at": "2026-11-19T23:14:52+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
@@ -7686,9 +7698,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Rajalakshmi Subramanian awaiting approval"
+    },
+    {
+     "at": "2026-11-19T23:14:52+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Rajalakshmi Subramanian queued (template)"
     }
    ],
-   "updated_at": "2026-11-19T11:40:55+05:30",
+   "updated_at": "2026-11-19T23:14:52+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
@@ -12404,9 +12422,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Madan Somasundaram awaiting approval"
+    },
+    {
+     "at": "2026-11-19T23:14:52+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Madan Somasundaram queued (template)"
     }
    ],
-   "updated_at": "2026-11-19T11:40:51+05:30",
+   "updated_at": "2026-11-19T23:14:52+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",

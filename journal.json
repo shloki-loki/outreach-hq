@@ -3311,6 +3311,15 @@
    "title": "PR 10 merged: auto follow-ups, job application email, more email checkers, one-row apply",
    "detail": "Shlok's decisions in chat on 2026-11-19: generic follow-ups (followup-v1, his approved text) go automatically to every quiet thread, job and founder (1st after 4 working days, 2nd 7 later, same thread, stop on reply or bounce; cap 70 a day). The job application email (job-apply-v1, his approved text) goes automatically to up to 2 people per qualified job with a trusted address (30 a day); 3 queued tonight. Reoon is not a priority; five more free verifiers (MailboxValidator, Verifalia, ZeroBounce, Emailable, DeBounce) are wired in and need keys. Apply today rows have Copy note and Mark applied (81 ready). Qualify bar 65 to 60; 10 jobs re-qualified (L0075 L0090 L0110 L0169 L0182 L0247 L0328 L1383 L1410 L1562). The Mac sender runs at login, on wake and every 20 min, 10 per run; 63 approved emails go from 08:00 on 20 Nov. PR 11 (open) lets the generic follow-up replace the 9 agent-drafted follow-ups waiting since this morning; the 11:30 follow-up drafting task was paused. Not done: lead scout twice a day at 30 each (changing that scheduled task was blocked by the app's safety check).",
    "ref": "5b5d54a"
+  },
+  {
+   "id": "J0369",
+   "at": "2026-11-19T23:14:49+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

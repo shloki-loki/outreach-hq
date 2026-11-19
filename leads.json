@@ -211193,7 +211193,7 @@
    "key": "inmatrixdigital|founder s office associate|india",
    "type": "job",
    "company": "InMatrix Digital",
-   "company_domain": "",
+   "company_domain": "inmatrix.digital",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/inmatrix-digital",
    "company_note": "",
@@ -211201,7 +211201,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Jaipur, Rajasthan, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491860102",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-associate-at-inmatrix-digital-4491860102",
@@ -211232,8 +211232,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 60,
+    "total": 66,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -211243,15 +211243,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office Associate at InMatrix Digital in Jaipur, asks 2-3 yrs; your S&OP and CEO-COO operations work maps well.",
+    "fit_notes": "The posting asks for 'at least 2–3 years of experience in a generalist role at a startup or fast-growing business', strong modeling skills, and working directly with founders. Shlok's 1.3 years of experience is a slight stretch for the 2+ minimum, but his work partnering with Ola Electric's COO and CEO on operations and strategy maps directly to the generalist/special projects requirement [ceo-coo, sop]. However, the location is Jaipur, Rajasthan, which violates Shlok's strict location preference for Bengaluru or remote-first.",
+    "pay_notes": "Pay is not stated in the posting, and there is no external evidence or estimates available.",
+    "culture_notes": "No company website, reviews, or news found in web search; the posting notes the company is funded with a strong runway and led by experienced edtech builders.",
+    "hook": "I noticed InMatrix Digital is building test and performance-analysis tools and AI-assisted question solutions for students across Bharat and India.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founder-s-office-associate-at-inmatrix-digital-4491860102",
+    "researched_at": "2026-11-19T23:10:04+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -211275,9 +211285,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-19T23:10:04+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 66: rejected (Role is based in Jaipur, Rajasthan, and Shlok wants Bengaluru or remote first; pay is unknown.)"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30"
+   "updated_at": "2026-11-19T23:10:04+05:30",
+   "reject_reason": "Role is based in Jaipur, Rajasthan, and Shlok wants Bengaluru or remote first; pay is unknown."
   },
   {
    "id": "L1775",

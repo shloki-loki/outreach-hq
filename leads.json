@@ -21682,7 +21682,7 @@
     "model": "gemini-3.8-flash",
     "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "rejected",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -21699,7 +21699,13 @@
     "kind": null,
     "since": null
    },
-   "notes": [],
+   "notes": [
+    {
+     "at": "2026-11-19T23:08:19+05:30",
+     "by": "claude",
+     "text": "Re-qualified 2026-11-19: qualify bar lowered from 65 to 60 (Shlok's call); it was rejected only for the old bar."
+    }
+   ],
    "timeline": [
     {
      "at": "2026-11-12T21:02:04+05:30",
@@ -21712,9 +21718,15 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 60: rejected (score 60 is under 65)"
+    },
+    {
+     "at": "2026-11-19T23:08:19+05:30",
+     "actor": "claude",
+     "event": "stage",
+     "detail": "qualified"
     }
    ],
-   "updated_at": "2026-11-15T21:52:55+05:30",
+   "updated_at": "2026-11-19T23:08:19+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",

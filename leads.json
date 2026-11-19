@@ -203495,15 +203495,15 @@
    "key": "sanas|revenue operations specialist crm and deal operations|bengaluru",
    "type": "job",
    "company": "Sanas",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "sanas.ai",
+   "company_url": "https://sanas.ai",
    "company_linkedin": "https://www.linkedin.com/company/sanastech",
    "company_note": "",
    "title": "Revenue Operations Specialist, CRM & Deal Operations",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491494876",
    "source_url": "https://in.linkedin.com/jobs/view/revenue-operations-specialist-crm-deal-operations-at-sanas-4491494876",
@@ -203519,13 +203519,13 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Sanas is pioneering the future of human communication. Founded by a team of Stanford researchers and entrepreneurs with deep industry experience, Sanas has developed the world's first real-time speech AI platform capable of accent translation, noise cancellation, speech enhancement, cross-language communication, and more.\nSanas makes conversations clearer, more inclusive, and more effective, removing barriers that prevent people from being understood, regardless of accent, background noise, or native language.\nSanas is currently one of the fastest growing startups in Silicon Valley, growing from $16M to $50M ARR in 2025. The company's core business is profitable and is on track to end 2026 with >$77M ARR. Our team combines deep expertise in model innovation and systems engineering with a design-minded product engineering culture to build and ship cutting-edge AI models and experiences — entirely in-house.\nSanas is a 130 person team, established in 2020. In this short span, we've successfully secured over $100 million in funding. Our innovation has been supported by the industry's leading investors, including Insight Partners, Google Ventures, Quadrille Capital, General Catalyst, Quiet Capital, and other influential investors. Our reputation is further solidified by collaborations with numerous Fortune 100 companies. With Sanas, you're not just adopting a product; you're investing in the future of communication.\nIf you’re looking to have a significant role in roadmapping and driving technical directions, if you’re looking to deploy challenging and big ideas without much overhead or slowness, if you're looking to leave your mark on an ambitious, generational mission to change how the worlds thinks about speech + AI, then Sanas is a well-suited place for you.\n About The Role\n Sanas is looking for a Revenue Operations Specialist to own the health and accuracy of our CRM and support the operations behind our deals. This role sits at the intersection of sales operations, deal desk, and finance, covering CRM data quality, record maintenance, order and contract validation, bookings reconciliation, and customer overage billing. You'll be the go-to resource for keeping Salesforce clean, current, and trusted by the teams who rely on it.\nThis is a hands-on role for someone who is detail-oriented, enjoys bringing structure to data and processes, and wants to make the CRM work better for a fast-growing startup.\n Key Responsibilities\n Own CRM data quality. Keep Salesforce accurate, complete, and trusted by maintaining accounts, contacts, opportunities, and products to a consistent standard across the business. \n Run ongoing data hygiene. Proactively audit records for duplicates, missing fields, incorrect stages, outdated close dates, and ownership issues, then fix them and address the root causes. \n Maintain records through the customer lifecycle. Make sure new deals, renewals, upsells, and amendments are captured correctly, so every account reflects its curren",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "not stated",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
@@ -203534,8 +203534,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -203545,15 +203545,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "RevOps Specialist at Sanas, asks 3+ yrs experience; your background is S&OP and supply chain, not Salesforce admin.",
+    "fit_notes": "The posting asks for '3+ years of experience in Revenue Operations, Sales Operations, CRM administration, Deal Desk, or Order Management, ideally in a SaaS or subscription business' and 'Strong hands-on Salesforce (SFDC) experience'. Shlok has ~1.3 years of experience, lacks Salesforce administration experience, and his background is in S&OP and supply chain operations at Ola Electric ([sop], [mrp], [ceo-coo]).",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures are available in the search evidence for this role.",
+    "culture_notes": "Sanas is a 130-person team established in 2020, growing rapidly from $16M to $50M ARR in 2025 and projecting >$77M ARR by end of 2026, backed by Insight Partners, Google Ventures, and others. A patent challenge from Krisp was noted in the USPTO proceedings [S5], and recent product launches include Supervised AI [S3]. No employee ratings were found.",
+    "hook": "Sanas launched its Supervised AI platform in October 2026, keeping humans in control of AI calls.",
+    "hook_source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUNEODRJajgzM3N0ZjVsTnhaU2hndHNVSndMSy1kekRUSUk3cW43c05JTWNSY3VoVkZQdmJGWmhkbE16d256MWwxMDA5amRROTIyVnhWV096bllQOGJtMHVTQzdBcERzQTIxSjNlYWZtSEE1Q1hVbzFKeUM3MEVwWnFDUkU0cVZPWllMR0t2dUdyRVU?oc=5",
+    "researched_at": "2026-11-19T13:29:54+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Voice AI Startup Sanas Names CFO - Slator",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55LUo3LVctOFRBU2JRaWxER3VFaFgyVlJ6WlFhakdIemYxVDRFekJiVk5Sb1BFclgxWDFONHRRd0JMY0JHemdNc2tMeWU3SHM?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Sanas expands its Philippines push with IBPAP chief Jack Madrid in advisory role - ET CIO SEA",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNamVTT05fSUdNdFR5OHhqM1JKSGdNbW9zN3VZWEZUb3huWU9LZXZDSnE1THFFRFA4RW9HOUVDbDBfN0VTTkZKY3dpUkptRUtoTEpBZFJUaW8xU3g2TGdpVGFWbzNBcU9XOGhiY3hvSXVRWVhnX0hqVmpkUy10NmtkSmFHWUZ5c2lsYzlGN215eV9JdFBMQWo0X0F5VG5DaFM5emMxTVgxa2h1UWJveVJfTEJsR0c2bXBCczBoYS1lLUhTb0VkSkkxdlpZS1FybnZfSV9oQzJCSHVac3hrSnJCNEJneUg2ZTFGR1k2OUQ2Z0hLYUlJR2c?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Sanas Launches Supervised AI, Keeping Humans in Control of AI Calls - CX Today",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUNEODRJajgzM3N0ZjVsTnhaU2hndHNVSndMSy1kekRUSUk3cW43c05JTWNSY3VoVkZQdmJGWmhkbE16d256MWwxMDA5amRROTIyVnhWV096bllQOGJtMHVTQzdBcERzQTIxSjNlYWZtSEE1Q1hVbzFKeUM3MEVwWnFDUkU0cVZPWllMR0t2dUdyRVU?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Sanas and Shroff to continue at the helm of RWITC - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRHlWXzVkR2VQT3RfSDV1RzFWZHdKQUpTYW1RQjVkZWl2WEFQVHd6MWw1RUtSTWo3ZUNZSGIzM2dWb2dOcXRoVjFYa1haZWZsQ0FTZnZkVFBnR09zbGhRakp1SGx2REpjOWltbS1fNk9xWGx4S2FxdVUwNm5id0JFekg0YkpLZXd3Wmc2bC1JN25GSVN2WnVYTm13M0ZKVlJxcmNDTm43REhXd9IBsAFBVV95cUxQVUdZY1RkX0xVU0dnUUhNVGZqZXR3SGhDcnM5dGZWZjBuNzVNb3N3UVUxZ1dBZ0lUcXJLVzJSQkpudjg4TTFnRjhLNTFnMThMZ1h6Z1FqQU9CV0c3ZTZSQ3pIbHluQ3ZEY3c5cWxJTmdKSmN1QmgzRTkwX1JqRjhsSmc3aG9OWXR0aWRRN3NtS2Z5NWk3dzNVT3hkYTRoUEEtOXl0WV9mVk5aaWRYUmZSZw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "USPTO Advances All Six Krisp Challenges After Finding Strong Grounds to Question Sanas’ Patents - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOFE5SWY0UUxOVFpVeG5uTXBkTE1JblFsUXRRZnNkZkVDcGFtSEUtVzU1eDQ0b21YamRqOEFSN3RVS19zb2tUUE5scDNLbXdwRXRHTVRKX0FWZERKcHNHcmZZUUU2SGt3X1E3Y19CQmRQSFlZRm50N1E1MVF1TkZyT2tQdmhaS2k0YjlOcEp5RTR3ek92QzVGLVR2VUZRa0R3cDRIWl9hdUdWMTlpRnJYVkRZZk9rTWNRekxCd0cyZVBTREtaaHRHNnJvOGtVVS05MExaTkRRNnNBdzVaRXN4T1ZTc0NNUQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Sanas ranks No. 8 on Inc. 5000 - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOE1GYnJVLXdoZ2FmTW8yQVlJZnVuZHRNTUpLTm9hbXJBYk5FTlo1clh3MHVxTXpjVjVvejdvbnBHS1ZKMjkxb24weVFZMm9NSnlPVERjaGUycTV6VkkyM0EtSV9BN0gyZndqWGFFVXFxakNMMW9vSTZPNUxpejNBdG1QNlFXVFZZSTEweXQzT3RZek1oUldV?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -203577,9 +203615,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T13:29:54+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires 3+ years of Revenue Operations, CRM administration, or Deal Desk experience, whereas Shlok has ~1.3 years of experience. Furthermore, it is a pure RevOps/Salesforce administration role which does not leverage his core strategy, S&OP, or supply chain execution background.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30",
+   "updated_at": "2026-11-19T13:29:54+05:30",
    "research_attempt": {
     "at": "2026-11-18T23:09:42+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
@@ -203589,7 +203633,8 @@
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 3+ years of Revenue Operations, CRM administration, or Deal Desk experience, whereas Shlok has ~1.3 years of experience. Furthermore, it is a pure RevOps/Salesforce administration role which does not leverage his core strategy, S&OP, or supply chain execution background."
   },
   {
    "id": "L1713",

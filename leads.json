@@ -40914,7 +40914,7 @@
     "hook_source": "https://in.linkedin.com/jobs/view/strategy-operations-manager-onboarding-at-aspire-4490575538",
     "researched_at": "2026-11-14T15:23:42+05:30"
    },
-   "stage": "rejected",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -40931,7 +40931,13 @@
     "kind": null,
     "since": null
    },
-   "notes": [],
+   "notes": [
+    {
+     "at": "2026-11-19T23:08:31+05:30",
+     "by": "claude",
+     "text": "Re-qualified 2026-11-19: qualify bar lowered from 65 to 60 (Shlok's call); it was rejected only for the old bar."
+    }
+   ],
    "timeline": [
     {
      "at": "2026-11-14T00:19:17+05:30",
@@ -40944,9 +40950,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 61: rejected (score 61 is under 65)"
+    },
+    {
+     "at": "2026-11-19T23:08:31+05:30",
+     "actor": "claude",
+     "event": "stage",
+     "detail": "qualified"
     }
    ],
-   "updated_at": "2026-11-14T15:23:42+05:30",
+   "updated_at": "2026-11-19T23:08:31+05:30",
    "reject_reason": "score 61 is under 65",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",

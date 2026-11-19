@@ -319,12 +319,12 @@
    "detail": "founder-batch 2026-11-17: write to C1 Vivek Raghavan; research one sourced hook, write a v3 offer email, queue it with message draft | handed from codex to claude: 16:15 takeover: not started by codex",
    "batch": "founder-batch 2026-11-17",
    "contact_id": "C1",
-   "status": "working",
+   "status": "done",
    "created_at": "2026-11-17T17:41:11+05:30",
-   "lease_until": "2026-11-19T23:25:12.473376+05:30",
-   "result": "",
-   "ref": "",
-   "updated_at": "2026-11-19T21:25:12+05:30"
+   "lease_until": null,
+   "result": "rejected: score 64 under 65 (research 76, rules 45); near miss, hook found: Epoch July 2026 GPU ramp",
+   "ref": "L0376",
+   "updated_at": "2026-11-19T21:25:56+05:30"
   },
   {
    "id": "W0023",

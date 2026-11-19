@@ -211141,15 +211141,15 @@
    "key": "machinify|business operations and fp and a analyst|bengaluru",
    "type": "job",
    "company": "Machinify",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "machinify.com",
+   "company_url": "https://machinify.com",
    "company_linkedin": "https://www.linkedin.com/company/machinify",
    "company_note": "",
    "title": "Business Operations & FP&A Analyst",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4491350991",
    "source_url": "https://in.linkedin.com/jobs/view/business-operations-fp-a-analyst-at-machinify-4491350991",
@@ -211180,8 +211180,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 58,
+    "total": 66,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -211191,15 +211191,48 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "BizOps & FP&A Analyst at Machinify asks 3-5 yrs exp (stretch); your S&OP planning and executive deck work map well.",
+    "fit_notes": "Posting asks for 3 to 5 years in FP&A, business operations, strategy, or analytics (a stretch for your ~1.3 years). Requires SOP creation, FP&A financial dashboard support, spend allocation, market intel, and PowerPoint decks. Your experience running S&OP planning [sop], inventory rebalancing [rebalance], and executive reporting with CEO/COO [ceo-coo] maps directly to the operational and presentation needs.",
+    "pay_notes": "Pay is not stated in the job posting and no verified compensation evidence was found for Machinify India roles.",
+    "culture_notes": "No Glassdoor or AmbitionBox ratings were found in the provided research data.",
+    "hook": "Machinify recently expanded its healthcare payment intelligence platform by adding genetic testing expertise.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVDhCTGMtOGlZT2Zpd3JGR1UyS1FHc1AyX2RnMG8xYVVfV25pazN1dmxNbHVRanphWFFPNlprR2NtV3NDNFB2WjgzVWNVcTIwRlZuUS1CQmlxeWd2d1ZVSGlGWkZqOWN4Qmc5TkdFSGZsZ0Q1UllXeGxnTUwzZEJybm9MTkZMS0wtYnVkSWlyMlBaTHF3MTU2TEdBdDktR012dDJraVA1YndQTGQ0S3Atanp1VkVwVlR3bFEzdVRJcmcxZkQ4Tm9DS01raUcyM3B2eHZQZXVVZzRVd0ZNWWRLejhn?oc=5",
+    "researched_at": "2026-11-19T23:06:50+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Machinify Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwa0RnMWgybEdjZWFaanRJVXBJTGhndzFleVIweVpMYnkwNnZaMTNZZ0hKNTg4MmIxN3BpN25fZHp6dE5DcS0tQ2VTZlI0ek12a1hncDNhSElvVl9HZWs0VktWZkxOWUZn?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Machinify Adds Genetic Testing Expertise to Its Comprehensive Payment Intelligence Platform - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVDhCTGMtOGlZT2Zpd3JGR1UyS1FHc1AyX2RnMG8xYVVfV25pazN1dmxNbHVRanphWFFPNlprR2NtV3NDNFB2WjgzVWNVcTIwRlZuUS1CQmlxeWd2d1ZVSGlGWkZqOWN4Qmc5TkdFSGZsZ0Q1UllXeGxnTUwzZEJybm9MTkZMS0wtYnVkSWlyMlBaTHF3MTU2TEdBdDktR012dDJraVA1YndQTGQ0S3Atanp1VkVwVlR3bFEzdVRJcmcxZkQ4Tm9DS01raUcyM3B2eHZQZXVVZzRVd0ZNWWRLejhn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Scoop: New Mountain Capital shopping health payments co Machinify - Axios",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMHpnc3BCNW5nU19rX0NwZ3c1UDdKOWp5bTZVazBxOXpmRVc5aHFKRExsa2V5YmlNQlFtaXlyZlVyWTY0SE9CMEhzWUFJcE1WQWNFNms5TTZDSFJPdk1tNGxLRDhzU1lUbUVyUGE2anRxN25WLU13NlZkMUV3TWxLd0RJTmpBNXgxTnR6cVc4dEtEYm9XbDhjSQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Healthcare Briefs: Machinify Expands Payment Intelligence Platform With Genetic Testing Capabilities - D Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU25vY2prdG5GWW1zVF9OeEMxY1R0cjhjT3IwbmloaWs3ajhOaDM1aWNXM0JyYW03U0M1WVhISzZaNVZzQjJaNFNQX3JVYS1LbXVZTGFFU3NmM25JUGNiUXpuemhrc0VGcXZaTnhUalFDakwwaGpBTm5tc2ZvZkRlYi1aREJaekRzMzBCcEh2NDdScGFhbC1Xcmtmc0J2MDVJRlIwOVRtLUoydmlPNHZrTHdjcUxGME55T0V1d3k1REotSXpqclluSVFsWnc4QXhMblNsWF91VWNxdGFPRnpxMTRFNTA2eldPS0E?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "rebalance",
+     "ceo-coo",
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -211223,9 +211256,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-19T23:06:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 66: qualified"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30"
+   "updated_at": "2026-11-19T23:06:50+05:30",
+   "reject_reason": null
   },
   {
    "id": "L1776",

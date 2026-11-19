@@ -205766,7 +205766,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Pune City, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491300464",
    "source_url": "https://in.linkedin.com/jobs/view/business-operations-manager-4491300464",
@@ -205797,8 +205797,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -205808,15 +205808,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Operations Manager at Mandar Motors in Pune; requires on-site presence outside Shlok's Bengaluru location.",
+    "fit_notes": "The posting asks for a Business Operations Manager responsible for overseeing day-to-day operational activities, monitoring operational metrics, optimizing processes, and coordinating with cross-functional teams. Qualifications include strong business operations skills, analytical capabilities, program management, finance knowledge, and a Bachelor's degree. Shlok's supply chain, S&OP, and operations experience at Ola Electric ([sop], [ceo-coo]) map well to the operational scope, but the role is strictly on-site in Pune, violating his location constraints.",
+    "pay_notes": "Pay not stated in the posting; no evidence found in web search.",
+    "culture_notes": "No company website or news found; culture and ratings could not be verified.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T13:30:00+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -205840,14 +205850,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T13:30:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (Role is located in Pune City, Maharashtra, which violates Shlok's strict location preference of Bengaluru or remote-first.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-19T13:30:00+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role is located in Pune City, Maharashtra, which violates Shlok's strict location preference of Bengaluru or remote-first."
   },
   {
    "id": "L1734",

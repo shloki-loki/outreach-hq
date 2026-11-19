@@ -46600,8 +46600,8 @@
    "key": "drivetrain|strategy and operations|unknown",
    "type": "company",
    "company": "Drive Train",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "drivetrain.ai",
+   "company_url": "https://www.drivetrain.ai",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy and Operations",
@@ -46639,22 +46639,24 @@
    },
    "score": {
     "rules": 45,
-    "research": null,
-    "total": 45,
+    "research": 60,
+    "total": 54,
     "reasons": [
      "Added by agent despite rule: rule score 39 under threshold"
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Drivetrain: AI-native FP&A platform, Series A; his S&OP and working-capital results map to planning use cases",
+    "fit_notes": "sop fact (working capital down 40%) maps to FP&A planning for operations-heavy customers",
     "pay_notes": "",
     "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "hook": "Launched the first MCP server for finance on Oct 14 2025, connecting AI assistants like Claude to company financial data",
+    "hook_source": "https://www.prnewswire.com/news-releases/drivetrain-launches-first-mcp-server-for-finance-bringing-anthropics-ai-agent-framework-to-the-enterprise-302583678.html",
+    "researched_at": "2026-11-19T21:24:50+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -46705,14 +46707,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-19T21:24:50+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 54: rejected (score 54 is under 65)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-19T21:24:50+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "score 54 is under 65"
   },
   {
    "id": "L0375",

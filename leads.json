@@ -11654,7 +11654,7 @@
     "hook_source": "https://in.linkedin.com/jobs/view/chief-of-staff-at-aisteth-4489081111",
     "researched_at": "2026-11-13T16:53:13+05:30"
    },
-   "stage": "rejected",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -11671,7 +11671,13 @@
     "kind": null,
     "since": null
    },
-   "notes": [],
+   "notes": [
+    {
+     "at": "2026-11-19T23:08:08+05:30",
+     "by": "claude",
+     "text": "Re-qualified 2026-11-19: qualify bar lowered from 65 to 60 (Shlok's call); it was rejected only for the old bar."
+    }
+   ],
    "timeline": [
     {
      "at": "2026-11-12T21:02:04+05:30",
@@ -11684,9 +11690,15 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 64: rejected (score 64 is under 65)"
+    },
+    {
+     "at": "2026-11-19T23:08:08+05:30",
+     "actor": "claude",
+     "event": "stage",
+     "detail": "qualified"
     }
    ],
-   "updated_at": "2026-11-13T16:53:13+05:30",
+   "updated_at": "2026-11-19T23:08:08+05:30",
    "reject_reason": "score 64 is under 65",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",

@@ -212081,10 +212081,17 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 66: qualified"
+    },
+    {
+     "at": "2026-11-19T23:44:23+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-19T23:06:50+05:30",
-   "reject_reason": null
+   "updated_at": "2026-11-19T23:44:23+05:30",
+   "reject_reason": null,
+   "people_searched_at": "2026-11-19T23:44:23+05:30"
   },
   {
    "id": "L1776",

@@ -807,6 +807,34 @@
    "thread_parent": "<179465120831.2271.9620275031453826669@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0031",
+   "lead_id": "L0022",
+   "contact_id": "C1",
+   "to": "kanika@thecardcompany.in",
+   "to_name": "Kanika Dang",
+   "kind": "followup1",
+   "subject": "Re: metal card delivery",
+   "body": "Hi Kanika,\n\nOne more thought on card delivery: at Ola Electric, grouping dispatches into lots improved trucking efficiency by 33%. The same logic could apply to batching card shipments by city. Would that one page on card delivery be useful?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": false,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-19T11:41:23+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179465148875.2438.6481888949260746070@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

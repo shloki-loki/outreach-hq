@@ -205219,15 +205219,15 @@
    "key": "praan|founder s office|india",
    "type": "job",
    "company": "Praan",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "praan.io",
+   "company_url": "https://www.praan.io",
    "company_linkedin": "https://www.linkedin.com/company/praancompany",
    "company_note": "",
    "title": "Founder's Office",
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492004808",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-at-praan-4492004808",
@@ -205258,8 +205258,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 44,
+    "total": 52,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -205269,15 +205269,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Praan in Mumbai, asks 4+ yrs (you have 1.3 yrs), and pay is unstated.",
+    "fit_notes": "The posting asks for a 'Generalist role in the Founder's Office' requiring an individual to 'support fundraising and investor relations efforts', 'lead program management', and 'analyze business metrics'. Experience asked: 'exp_min': 4.0, which stretches beyond his 1.3 years. Location is Mumbai, Maharashtra, which does not match Shlok's preference for Bengaluru or remote. His background in S&OP and operations ([sop], [ceo-coo]) matches the execution requirements, but the experience gap, location mismatch, and lack of pay details make this a reject.",
+    "pay_notes": "Pay not stated in the posting or evidence.",
+    "culture_notes": "Praan is backed by top-tier VCs and CXOs globally, operating between the US and India, focused on clean air filterless technology [S1]. No employee rating sources or specific culture reviews found.",
+    "hook": "Praan recently launched the HIVE air purifier featuring HEPA14 filtration, an AI assistant, and AR visualisation.",
+    "hook_source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42M2NqN0c3bXNtQnluSFJjQUUxU1FwdG05dTFYaHlCQktTVWpQUnl6SUpUTUxWOUR5d0ZLaUZKOUVqbkc5ek55Z3RSRUV5YmtfMVppamxRaldvT1BNLXhBSURtazM0ZGxOVjhsaXpETFNRMEVDeEJV0gF8QVVfeXFMTVJFTmh6NkVOSTh5RWRIVUxpazhMSk1VYUVWdVdsNGlReUdsVlQ4LU5zZ2MzT3IxZ3NVdmN2alBtT2luaHdtVEN1REpGeHVEeTdJbWE2UXdKemxTX1ZDV2lCcTlYT0M1SHpHY0R6Uk1mZkNPWXlBYV9ibDNHZw?oc=5",
+    "researched_at": "2026-11-19T13:34:08+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Praan HIVE air purifier with HEPA14 filtration, AI assistant and AR visualisation launched - FoneArena.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42M2NqN0c3bXNtQnluSFJjQUUxU1FwdG05dTFYaHlCQktTVWpQUnl6SUpUTUxWOUR5d0ZLaUZKOUVqbkc5ek55Z3RSRUV5YmtfMVppamxRaldvT1BNLXhBSURtazM0ZGxOVjhsaXpETFNRMEVDeEJV0gF8QVVfeXFMTVJFTmh6NkVOSTh5RWRIVUxpazhMSk1VYUVWdVdsNGlReUdsVlQ4LU5zZ2MzT3IxZ3NVdmN2alBtT2luaHdtVEN1REpGeHVEeTdJbWE2UXdKemxTX1ZDV2lCcTlYT0M1SHpHY0R6Uk1mZkNPWXlBYV9ibDNHZw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Bengaluru healthcare startup Praan Health opens first full-stack clinic for India’s growing 50+ population - Indian Pharma Post",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ0d2VHBlbGdNcWVkb0lHRklzdjZfUTRNY1ozV0JfZ2dQV0VtS1FPTVltZ2tBNjBlOW5FSXhqRktfNmYzVV82c3pkbjJ4NjRwc3hRNmdlaGpDYzFlWUpPNENmWGdjQmdpcEZQSG05c3M4VTBtQU5HdDBlWS1tM0dXV3NtZ0haaWhRRzZuc1NzUXg0UUJtYXdRR2NZVFF5ZXAzc1BESXpTczJBaGFCTld3ejVMdzh2Sjk4REFCYWFjT2xHbUhTWWctVjBsbjYwc2VLUjZVSGV1bXU0N2g0VU5YMGI0YUVIZ9IB7AFBVV95cUxNRlR3c0liaGNEQm1wNjgwOXFKb05zekhINHlBRWluTWdNeXhZdUxRQmVmRW4tWll2NlZQLUdXczdzZWtTNWVRaFhidDZSNmNXLXEyb0g0THlQUlZEYkRGVThpdlRuNjZlT0VIVFhjT1VsWXpzNk9abVQ4djlYbG14d1FiRjFlTXYtZFVwOFRHU0dyaTVzOTJUa19rOFB6R0NwaENiUWFkUE9HLVNLYllZbTdxNzFldjMyUFdvYVo5azFMdGlYMWo4LUszUFNfMmZyQ0dyd1VXRFBqel91UTVqM1hVVWdpbW9Eb0tjTg?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Praan Health Opens First Fifty+ Clinic in Bengaluru, Linking In-Centre and At-Home Care - https://ascendants.in/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmVUOFY3T2lIcllWWmp0MEd4MFlfSF92M283bWJWei1SODkxRzE1Wjg3bURMV2VwTEIyMGltLVVrd3RUbkg1UTQxRW5rMHNnd096RlBmOVlpbXh0eHJqM1JIWV8yYkdqRGJ4SEluWjN5QlpzLV9NcGxPRXl0T0VJU21lRFpaZEFCS08xM3JOd3l0RUhP?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Praan Health launches first integrated Fifty+ Clinic in Bengaluru for senior care - Indian Pharma Post",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWJjMGxuZjc5MW9ySkszaDNsLU92MWp1akNEUlhlN0NoRGNVMkRLc1RGWEFDaS1RQWJZN051Yk9aa0RIVkNBNjh4SmhsUUx1RS1TQjlWVTNNN0dja21CY0xVNlVpTXlHMEZkSnZ5blR5TnplNGdrTjJ3cFM3RFh6bmZScVcwaDRiSFhaYXpBMng1el83dE43OWpMcU9nNG1xaV9ZdXEtUGIySjVqVFlfU2lQRk5WQlh6TnEtVllxUGtGNW1vUzc1aGZn0gHQAUFVX3lxTE9hQ2VmbXBkUFdjcmZETHl0RlQ0dDhOR2xtaXNCc0ZwX2NUTmdBSk5paE4zdHlXY1RCQjZxRURESFo3VVp0YUE3WE43SkM0T0RVQXc2aTlVOUVsZ1ltUFpfeDdrNnRnTjlYNDl3Y0lGajFkVnVxWjZ6VlpudkE5MjJWRXJtZ2NxXzJ2b0xEbTI4UHV3WVVITlhZN3l3Y2dyNDZEU0pSanlBTHpPb2EwX3BjcHQwMm1jOU52NkZzeVNTLUdUdjNibGlEeExHVDhQX0E?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Best Air Purifiers in India: Dyson Purifier Cool PC2 De-Nox, Praan Hive, More - Gadgets 360",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ0J5Skdyd09wcG1YaV9BOFdPUWV3ZC1IdEZiMFlTaGdxYkdnZk84NTRkRzBGNEdCTVZUM29ub05jTW1jdHNZYjN3Z0l3QkxpcW91a0o2U3otdVN3MW13MVBONVlmc2ZJYzM2aFFvRjE5LUdENXJxaE1zUlc2VFdCZHdsXzVSallpTXR4XzVQVWh4eUlVZ3VlX1BIQ2dseUJTeTRiZ1Flc2ZtMVd2QkR5czMzRU1zeFZDT1JrRWc4Y2Mxc01JWUhfQThZVGdtbjNRN3NtbGhxQmh4d3d3OHfSAeMBQVVfeXFMTzBvMWJQS3VQMmR0Y0kteks4S2hpWHpxNnpuank3TVdZUlU5ODBlV0V1OXZrWmxtS0VfV0pTeWM4djF2SWtZQTl3MXNUUHFVNFI3STBrV0ZKbU9QVkVNd2haWTJYNEhNRTdGR3JicjBGYzhPVDl5Sm9UNTlPWmxSWnluZ0hDUE16R2Z6c01QYzExMWUwUTl0Z0MyT3BqUDBqbmpxcHc5RnFFUXY2dVJmZkZHeTlnUmJEVndHYTVvYXc0ZG9lT2tLNHFXQVlpZGZ6N0d0aC1tNzFqb1VpM3ZtSUUxa1k?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Tanushree Dutta calls Nana Patekar 'Shaitaan': Bhagwan ne iske praan hare hain - IANS LIVE",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFNMaHJSS1VJTzFuM0dHZk1QRkJrRW1RQ2R6QjJMSDZFVHQ2OU9ZQXBNc2d4RG5nYmRzZS1LSWwyTFNqcmVjWHAzVFRrNDRyaUx2blZzUnBRX2FPZFJyLXhNUEozY191VE0xQ19OZXNiZ1oxYUpqY2xPdDRxSFJSOFpEM2I4dFVxYzRlZEFZLWMxbTdtRW5wLVJVQVhaNWhMS0ZBRlIzd1lLZXNDNWNERA?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -205301,14 +205342,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-19T13:34:08+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (Location is Mumbai (not Bengaluru or remote) and minimum experience asked (4.0 years) is a hard block for his 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-19T13:34:08+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Location is Mumbai (not Bengaluru or remote) and minimum experience asked (4.0 years) is a hard block for his 1.3 years."
   },
   {
    "id": "L1728",

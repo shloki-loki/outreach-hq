@@ -210873,7 +210873,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai Metropolitan Region",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492128266",
    "source_url": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-%E2%80%93-strategy-business-operations-at-virtuhr-india-4492128266",
@@ -210904,8 +210904,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 45,
+    "total": 57,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -210915,15 +210915,27 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office in Mumbai with Saturday hours via HR agency; asks 2-5 yrs and lacks salary transparency.",
+    "fit_notes": "Posting asks for 2-5 years experience to partner with a consumer brand founder on SKU economics, channel margins, inventory, and working capital. Shlok's S&OP planning ([sop]), inventory rebalancing ([rebalance]), and CEO/COO operations ([ceo-coo]) cover the operational analytics, but he lacks D2C channel economics experience and the role requires physical presence in Mumbai with Saturday work.",
+    "pay_notes": "Pay is not stated in the job posting and VirtuHR India is acting as a staffing agency for an undisclosed client.",
+    "culture_notes": "Requires onsite work in Andheri-Saki Naka, Mumbai with alternate Saturday shifts (10 AM - 7 PM schedule). Client company name is undisclosed.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T23:07:29+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "rebalance",
+     "ceo-coo",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -210947,9 +210959,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-19T23:07:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 57: rejected (Onsite Mumbai role with alternate Saturday work posted by a third-party recruiter for an unnamed consumer brand, failing location (Bengaluru/remote) and pay (>=24.5 LPA) targets.)"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30"
+   "updated_at": "2026-11-19T23:07:29+05:30",
+   "reject_reason": "Onsite Mumbai role with alternate Saturday work posted by a third-party recruiter for an unnamed consumer brand, failing location (Bengaluru/remote) and pay (>=24.5 LPA) targets."
   },
   {
    "id": "L1773",

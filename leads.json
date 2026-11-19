@@ -26869,7 +26869,7 @@
    "key": "voltseal|chief of staff|india",
    "type": "job",
    "company": "VoltSeal",
-   "company_domain": "",
+   "company_domain": "voltseal.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "",
@@ -26877,7 +26877,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Noida",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "440993",
    "source_url": "https://www.instahyre.com/job-440993-chief-of-staff-at-voltseal-noida/",
@@ -26908,8 +26908,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -26918,15 +26918,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Chief of Staff at pre-seed BESS startup VoltSeal, asks 3-4 yrs and MBA; your Ola experience maps well but lacks MBA.",
+    "fit_notes": "The posting asks for \"3-4 years of experience\" and \"MBA from a leading B-school, preferably with an Engineering/technical undergraduate degree\". Shlok has ~1.3 years of experience and no MBA, which is a hard gap. However, his background working directly with the COO and CEO on supply chain and operations [ceo-coo] maps well to the execution and general management requirements.",
+    "pay_notes": "Pay not stated in posting or company evidence.",
+    "culture_notes": "Pre-seed stage startup raising $1.5M in June 2026 [S1], no employee ratings or culture flags available.",
+    "hook": "VoltSeal recently raised $1.5 Million in a pre-seed round led by Theia Ventures to scale distributed battery storage across India.",
+    "hook_source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTcyQjBfNXJ6czJGYnRXdWlDbHVCRmtqVnE5QnNtQWNMTjgxSWIyYklxMk00NkoyOWpEUU5pLUFnY2s3a1oyUkk2UXg1YWQzVThUOXFNZmtsQkFfcF81YU5WNndVYUlrRDBGTkhRNGdYajk2eFIzQkxEMHpKRUtESmZYQW5WZGt2SWtTMDZMdENSN0x5U1YzUFlZVkFKRFpYUk5yMG5STDhXV3RyNUt6S1NtV1pvWUlPTW9EQ3NKRnQyZ3FtT0xNc21NMm1EZw?oc=5",
+    "researched_at": "2026-11-19T13:35:01+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Energy Storage Startup VoltSeal Raises $1.5 Million in Pre-Seed Round - Mercom Capital Group",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYl9zdEEwaTRLdjhVaXpXTkRpempuYXFRcXp1Q0Y4VnZLb0ExbUxmSTFYNDZseEVaaTczSUdGVVRQZHJnUFQyby1MWUh2Q1FWSFJ2a0VCY1dkNHFBM1Bkc09IVHI5S3ZBLUNNel9fMWJ1b0xXcFBYNDZDYmNDMTRSTE9OUjkydw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "VoltSeal installs batteries at factories and offices to replace diesel generators - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXJxZ0c1Mmt2blNKb3RtRXhoNU5wZzF5Z0VuOXBFYWNVakhleHFlS0oyNXFha0I5ald1S1dwMDBndUJ2YnBxR05WR3NKUWo5OVRNUmNRdEZ4SXRVNzBQWklJSGhSLUx0TFc4cklxcFUxUFdYVWVwTkEyY2d2NFBpZ1FOb3JNOEdZM3c?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Theia Ventures Leads US$1.5 Mn Investment in Distributed Storage Startup VoltSeal - Saur Energy",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTcyQjBfNXJ6czJGYnRXdWlDbHVCRmtqVnE5QnNtQWNMTjgxSWIyYklxMk00NkoyOWpEUU5pLUFnY2s3a1oyUkk2UXg1YWQzVThUOXFNZmtsQkFfcF81YU5WNndVYUlrRDBGTkhRNGdYajk2eFIzQkxEMHpKRUtESmZYQW5WZGt2SWtTMDZMdENSN0x5U1YzUFlZVkFKRFpYUk5yMG5STDhXV3RyNUt6S1NtV1pvWUlPTW9EQ3NKRnQyZ3FtT0xNc21NMm1EZw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "VoltSeal raises $1.5M pre-seed to scale distributed battery storage across India - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUpYalY1bHMxUVoxUWxQcy15MncxVHFpcmtqOWZqVVNxVGNnbTBSYWtfNVFwTGM1Qm1QbXUzM0FOaHlHZk83VUxwN3B2QW41cmRKU3c0YVBJal8wbzlCb3FYRUFrb0x4d0VKYktmRmthQlJtOVNhTXNRNWJiQThkdVdua0RGNlBEbWp5dE44VWdGQ1IxUWd2NHpsNkJPS2VFd2tqdUlTcWlQSHlfSlpHYW9Faw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "TLH Advocates advises VoltSeal on pre-Series fundraise - Bar and Bench",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGgtWndNWHpmckx6WjFGOTdlMGxFQS1ac2FpQ1VhU0U2NnE0T0wxLXJ4NmI3WFZZLXZXM0NOdFFkT2R0MFZ2NThfMXdFbzRCYkhLZjdDMlprVmdGLXcwcEpEOE92bTZZSERyckZEQjBTSWZWX2ZfRTUzaldKOWZaLUwtMFZEWDhUaWJub2RZZ1o0a0hFdHVQbVhJbGVTa29RdFB1YkJR0gGzAUFVX3lxTFAwRkRwVS1EZXJkdlVYa21uMlVWVkZGSl9RNFEzUTZIYU1oeUdTQVdDQklIdi0tbE1yazJQN1MzbzlDbFNLVXljREhJOG11VmFWUGg4QzdVUVRsQmFSbU9HRFFneDFfdDVkZmlxYW9TdUJEU1F3d1paQ2lXSm1CWV9kYlhCeHB5NGx3ZWFRcTRjcXdhRVBsTWZhMW1DXzk2UHZHVXBjVUctRjR3aEN6VnJjcWVF?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "VoltSeal — Funding, Revenue & Investors (2026) - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SRGdLM1pSYVJoMDhpWHo5dExOQlJiaVE0UHhhQ0xBMVU5U2tVd1AtMWp1TlNLaFNoNWVTWFB4enFEaldQekRNWTYyQQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -26950,9 +26990,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-19T13:35:01+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The posting requires an MBA from a leading B-school and 3-4 years of experience, but Shlok has 1.3 years of experience and no MBA.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-19T13:35:01+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
@@ -26962,7 +27008,8 @@
     "at": "2026-11-18T23:21:33+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting requires an MBA from a leading B-school and 3-4 years of experience, but Shlok has 1.3 years of experience and no MBA."
   },
   {
    "id": "L0215",

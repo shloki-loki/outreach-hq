@@ -2438,6 +2438,19 @@
     "people_added": 0,
     "skipped": ""
    }
+  },
+  {
+   "at": "2026-11-19T23:45:16+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
+   }
   }
  ]
 }

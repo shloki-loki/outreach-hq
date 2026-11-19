@@ -206112,7 +206112,7 @@
    "key": "revantageablackstoneportfolio|product manager|bengaluru",
    "type": "job",
    "company": "Revantage, A Blackstone Portfolio Company",
-   "company_domain": "",
+   "company_domain": "revantage.com",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/revantage",
    "company_note": "",
@@ -206120,7 +206120,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "linkedin",
    "source_id": "4467718243",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-at-revantage-a-blackstone-portfolio-company-4467718243",
@@ -206136,7 +206136,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Position Objective\n The Product Manager is responsible for defining the strategy, roadmap, and success metrics for AI-powered products built and maintained by the Technology team. This role partners closely with business Product Owners, data scientists, and engineering teams to translate organizational goals into well-structured requirements and delivery plans. The Product Manager drives alignment across stakeholders, facilitates Agile ceremonies, and ensures that AI product development remains grounded in measurable business outcomes and user needs. This role requires a blend of product strategy, AI literacy, and Agile expertise to drive continuous value delivery in a rapidly evolving technology landscape.\n Critical Duties\n Define and champion the product strategy, vision, and roadmap for AI-powered products, aligning development priorities to enterprise goals and measurable business outcomes.\n Partner with business Product Owners to shape and refine the product backlog, ensuring items are clearly defined, properly prioritized, and sprint-ready.\n Serve as the primary liaison between business stakeholders, business Product Owners, and the development team, translating requirements into actionable backlog items in Jira.\n Lead and facilitate Agile ceremonies including sprint planning, backlog refinement, sprint review, and retrospectives in partnership with the Scrum Master and business Product Owners.\n Drive prioritization decisions that balance urgency, business value, technical feasibility, and AI model performance considerations across the product portfolio.\n Collaborate with data scientists, engineers, and architects to ensure AI model behavior and outputs align with product requirements and business KPIs.\n Define success metrics and key performance indicators (KPIs) for AI products, and track delivery against those measures on an ongoing basis.\n Engage stakeholders at all levels to gather, validate, and communicate product requirements, roadmap status, and delivery progress.\n Evaluate and accept or reject sprint deliverables in collaboration with business Product Owners based on defined acceptance criteria and Definition of Done.\n Identify and manage AI-specific product risks — including model drift, bias, data quality gaps, and ethical considerations — as first-class product concerns.\n Essential Duties\n (OTHER DUTIES MAY BE ASSIGNED)\n Maintain a well-groomed product backlog in Jira in partnership with business Product Owners, including epics, user stories, subtasks, and bug reports with sufficient detail for development execution.\n Develop and manage product roadmaps that reflect business priorities, stakeholder input, AI model capabilities, and technical constraints.\n Collaborate with UX designers and business analysts to ensure user stories reflect validated user needs, personas, and workflows.\n Contribute to test strategy by reviewing acceptance criteria and participating in user acceptance testing (UAT) alongside business Product Owners.",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -206151,8 +206151,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -206162,15 +206162,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Product Manager at Revantage asks 3+ yrs and US hours (CST), but offers unknown pay and no remote-first flexibility.",
+    "fit_notes": "The posting asks for \"3+ years of experience as a Product Manager, Product Owner, Business Analyst, or similar role in a technology environment.\" Shlok has about 1.3 years of experience. The posting requires US hours operating between 8am-4pm CST, which conflicts with Bengaluru normal working hours.",
+    "pay_notes": "Pay not stated in the posting, and no evidence found from web search.",
+    "culture_notes": "Revantage, a Blackstone Portfolio Company, operating under American Campus Communities culture commitments. No Glassdoor or AmbitionBox ratings found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T13:30:19+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -206194,14 +206201,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T13:30:19+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The role requires US hours (8am-4pm CST), and asks for 3+ years of PM experience while offering unknown pay with no clear evidence it meets the Rs 24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-19T13:30:19+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires US hours (8am-4pm CST), and asks for 3+ years of PM experience while offering unknown pay with no clear evidence it meets the Rs 24.5 LPA threshold."
   },
   {
    "id": "L1737",

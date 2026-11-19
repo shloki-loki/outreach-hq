@@ -3041,6 +3041,15 @@
    "title": "Diagnosis: LinkedIn 429 and flaky data-branch git sync",
    "detail": "Cause: LinkedIn rate-limits plain fetches (429) and the Mac's git fetch of the data branch stalls (see I0015). Both are transient and nothing was lost. Remedy: retry with backoff in store._git (coding session); read LinkedIn through the browser if 429 persists.",
    "ref": "I0024"
+  },
+  {
+   "id": "J0339",
+   "at": "2026-11-19T21:25:04+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Work W0021: done",
+   "detail": "rejected: research score 54 under 65 threshold (FP&A software, moderate fit)",
+   "ref": "L0374"
   }
  ]
 }

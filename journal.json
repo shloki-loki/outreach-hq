@@ -3185,6 +3185,15 @@
    "title": "Work W0025: done",
    "detail": "rejected: no recent fact or source (latest news 2021)",
    "ref": "L0379"
+  },
+  {
+   "id": "J0355",
+   "at": "2026-11-19T21:27:32+05:30",
+   "by": "claude",
+   "kind": "note",
+   "title": "Founder worker: score gate rejects most speculative leads",
+   "detail": "Founder leads start at rules score 45, so research score must be 77+ to reach the 65 total (0.4*rules + 0.6*research). Sarvam (research 76, total 64) and Drive Train (60, total 54) were rejected on this gate despite a real sourced hook (Sarvam: Epoch July 2026 GPU ramp; Drive Train: finance MCP server Oct 2025). Worth reviewing whether the gate suits no-opening founder emails. Stopped after 5 items; 55 left queued.",
+   "ref": ""
   }
  ]
 }

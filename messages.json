@@ -186,7 +186,7 @@
    "kind": "cold",
    "subject": "Founder's Office BizOps at Helium Air",
    "body": "Hi Samiksha,\n\nThe BizOps hire at Helium Air will sit between manufacturing, warehouses and dispatch, tracking inventory and installation timelines for a new AC brand. That is the work I did at Ola Electric. I designed the Minimum Stock Limit program, moving from make-to-order to stock-and-sell with a Rs 200 Cr inventory buffer, and built a lotting algorithm for truck dispatches that cut Order-to-Delivery time from 32 to 14 days.\n\nI would like to be considered for the role in Jaipur. Could you share this with the founders, or tell me who is running the search?\n\nShlok\n",
-   "status": "sent",
+   "status": "replied",
    "email_status": "published",
    "speculative": false,
    "hook": "Helium Air's BizOps hire coordinates manufacturing, logistics and warehouse partners and tracks inventory, dispatches and installation timelines",
@@ -200,7 +200,13 @@
    "message_id": "<179465108620.2271.11257808216035115773@gmail.com>",
    "thread_parent": null,
    "error": null,
-   "reply": null
+   "reply": {
+    "at": "2026-11-19T21:30:15+05:30",
+    "from": "hr@heliumair.in",
+    "subject": "Invitation: Helium| BizOps Interview-Shlok Agarwal  @ Fri Nov 20,\r\n 2026 4pm - 5pm (IST) (111shlokagrawal@gmail.com)",
+    "date": "Thu, 19 Nov 2026 10:54:49 +0000",
+    "snippet": "Helium| BizOps Interview-Shlok Agarwal Friday Nov 20, 2026 ⋅ 4pm – 5pm India Standard Time - Kolkata Join with Google Meet https://meet.google.com/tiz-hbvg-fbf?hs=224 Join by phone (US) +1 662-732-2312 PIN: 380811088 More phone numbers https://tel.meet/tiz-hbvg-fbf?pin=1086698001213&hs=0 Attachments Shlok_Agrawal_Resume.pdf https://drive.google.com/open?id=1FgZ3e20gLhoXq3a8A6mv_jkaGxI1h8Hj Organiz"
+   }
   },
   {
    "id": "M0009",
@@ -761,7 +767,7 @@
    "kind": "followup1",
    "subject": "Re: Founder's Office BizOps at Helium Air",
    "body": "Hi Samiksha,\n\nOne more thing that fits the dispatch side of the Helium Air role: at Ola Electric I set up milk-run truck routes that raised first-mile truck utilisation by 45% and cut logistics spend by 34%. Is the BizOps seat in Jaipur still open?\n\nShlok\n",
-   "status": "draft",
+   "status": "skipped",
    "email_status": "published",
    "speculative": false,
    "hook": "",
@@ -777,7 +783,7 @@
    "sent_at": null,
    "message_id": null,
    "thread_parent": "<179465108620.2271.11257808216035115773@gmail.com>",
-   "error": null,
+   "error": "They replied; the queued message was dropped.",
    "reply": null
   },
   {

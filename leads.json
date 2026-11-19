@@ -1903,7 +1903,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-14T15:41:29+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-19T21:30:15+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -1925,7 +1925,7 @@
      "role_type": "generic",
      "linkedin_url": "",
      "email": "hr@heliumair.in",
-     "email_status": "published",
+     "email_status": "verified",
      "email_source": "stated in the hiring post",
      "confidence": 95,
      "why": "",
@@ -1980,9 +1980,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to  awaiting approval"
+    },
+    {
+     "at": "2026-11-19T21:30:15+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "hr@heliumair.in: Helium| BizOps Interview-Shlok Agarwal Friday Nov 20, 2026 ⋅ 4pm – 5pm India Standard Time - Kolkata Join with Google Meet https://meet.google.com/tiz-hbvg-fbf?"
     }
    ],
-   "updated_at": "2026-11-19T11:41:15+05:30",
+   "updated_at": "2026-11-19T21:30:15+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",

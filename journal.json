@@ -3113,6 +3113,15 @@
    "title": "Daily review 2026-11-19",
    "detail": "Ran: scrape, track, digest, live-check, research-worker, people-finder, writer, send-track, follow-up, founder batch; supervisor/check failed on expired claims (I0014). Problems: 16 open issues; new today I0023 (no draftable leads), I0024 (LinkedIn 429, flaky git), I0025 (Reoon key leaked in issue text), I0026 (19 drafts waiting). All diagnosed. None fixed (no code changes in scheduled run). Funnel: 1788 leads, 394 researched, 92 qualified, 12 emails sent, 4 applied, 1 replied, 1 interview, 0 offers. Reply rate 8.3%, bounce rate 0%. Verifier: Reoon free quota spent, no Hunter key. Needs Shlok: approve or skip 19 drafts; rotate Reoon key.",
    "ref": ""
+  },
+  {
+   "id": "J0347",
+   "at": "2026-11-19T21:25:50+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "16 open issues (4 new), 0 fixed, reply rate 8.3%, bounce rate 0%",
+   "ref": ""
   }
  ]
 }

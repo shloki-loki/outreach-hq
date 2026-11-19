@@ -41096,15 +41096,15 @@
    "key": "amazonbusiness|sr program manager abuse prevention|bengaluru",
    "type": "job",
    "company": "Amazon Business",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.in",
+   "company_url": "https://www.amazon.in",
    "company_linkedin": "https://www.linkedin.com/company/amazon-business",
    "company_note": "",
    "title": "Sr. Program Manager, Abuse Prevention",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4455900152",
    "source_url": "https://in.linkedin.com/jobs/view/sr-program-manager-abuse-prevention-at-amazon-business-4455900152",
@@ -41135,8 +41135,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 45,
+    "total": 52,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -41146,15 +41146,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sr. Program Manager at Amazon Business, asks 3+ yrs post-MBA; requires an MBA and experience you do not have.",
+    "fit_notes": "The posting asks for \"3+ years of post Master's, full-time relevant industry (professional or military) experience\" and a \"full-time MBA program in management, business administration, economics, engineering, marketing\". Shlok has about 1.3 years of experience and no MBA, which represents a direct conflict with their hard requirements.",
+    "pay_notes": "Pay not stated in the posting; no reliable fixed salary data in evidence for this specific role.",
+    "culture_notes": "Company quality is high (Amazon Business scaled to $60B [S1]), but specific workplace ratings/reviews for this team were not found.",
+    "hook": "Amazon Business targets procurement efficiency with new AI and reporting features.",
+    "hook_source": "https://in.linkedin.com/jobs/view/sr-program-manager-abuse-prevention-at-amazon-business-4455900152",
+    "researched_at": "2026-11-19T13:33:42+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Business Reaches $60 Billion - Marketplace Pulse",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdjREWXFFaHRLMGVFSVBld1Bfc3JWeTZFU2lUb2d4dHZscE85YlhmUi1GOTU1MXMwSG85NHA4WGZ1Y3A2bFJMTVNFZ2V2V1NfeGM3REp1aDVJY1hLVEppa0tMX3RKWEVpUzJWUFJ5eEItUmZrOVNueGRSUldCX0xFYzNn?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "What Amazon Business Can Do for Your Company - Business.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWnRWcmdjd1U0bEpiT0V3aThnMXY1eEUxTHBRSkZsLWMwNVR1dDNxM3VVTTlTMVE5YmtEUm5zMEpabG0yV0k4UFRzbFBIeDl1VGluX0VMaFFFOG9GUng1VkRJeFFmcHFRelBV?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amazon Business: Simplifying B2B Purchasing at Scale - Procurement Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmhMVXkyX1liZ3RGSGs0d0Ytbmgwb0hrcjE0UWZwTUtIRVM4elN2eDhKejBUeXY0MmFtako0MmI0QmFhamRsbmw0aGZaUUFQSzd4ektjWS1XaFlzbkZ6bTlMU1ZFYnh1SDRyTUc0NE5uQ0ZDSmlCbnVLRkJaM0VJN0Q5WmN5dVhxd0pZ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Amazon Business: The Benefits, the Scams, and How to Stay Safe - Bitdefender",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmtBNzdWZU9FREZqUkZlZmVMSlVfdmY0SFFFSF96UGlDcFk3b0lHdkkyZWxEX1NqaENYcmpkc0dFbmY0TlB0b0hQejc5c1JyeE9haEs2SFhRSXhMY2h2ZEhBNEZLLW56ZWlrNU5yVk42b1dPX0pCUk95MG9VR0FUckR3Q0N5T3d0cmF1Z3VxVlVUcE9nT0tLcWZ4Tk9RX0ZPdGJSd3FJbHZTb2l5dENSalpFaw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Amazon Business Reaches $60 Billion in Sales - Logistics Business",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2VSYUJTM2FMVDFfeTRJQ2kxdFhjUnVKZDRBWFUzWXg0NDJYMU13bVprNUlJYUNYU28wREtzaU41V2hfX3hsSFdHSEFKZ1pYYWFvVVJZekdzT3dfcDI2UWFpalVBUHZjQlN2Q0t0dHYzWkwzUFJFd2s4ejQxUGdCWDBuaEhGY19ZdkU4eTI4Mk1IOE5Td3dUT1MzRUNmdEF0a3BNWWlCMmdIUFVHbDNWYVJnd2U?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Amazon Business targets procurement efficiency with new AI and reporting features - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVjd2ejBwV3NqNTYtTjhMTlZsRW9TNEZJcEV1dS1LTm5kYkk2bXY1ZzN6QkdIdGs2RHk3SEpCb2xfVXUxdGlqa3RWTDdicWMwbGkwZlc5eVVhazVIWVRxVjY5VWdGbV9JaVZ1R0p4Um5yb0U4cEIxRzh5TV9kc1V5QnFVV05YX3JPVk1hZ0hoV0ZoQdIBlwFBVV95cUxQNEs3NG1ESDhsRmpqTEhzY3UxNnFlZjN4OTZONzZHaTd6czdYLVU5UFpkUVhqc2wzMi13bzFxcU9BZll5eHJ0TVo2bFZJQUltQkkwRE5EUGprQWNXaldCVzNWUExEcTJYM2ozMUhPeWtTS2E1eS0zOEpZNWthaUFSQkR2QUVmaHhaZXB4WlZsTm5LNmNZNElv?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -41178,9 +41216,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-19T13:33:42+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The posting requires an MBA and 3+ years of post-MBA experience, while Shlok has 1.3 years of experience and no MBA.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-19T13:33:42+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
@@ -41190,7 +41234,8 @@
     "at": "2026-11-18T23:14:12+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting requires an MBA and 3+ years of post-MBA experience, while Shlok has 1.3 years of experience and no MBA."
   },
   {
    "id": "L0334",

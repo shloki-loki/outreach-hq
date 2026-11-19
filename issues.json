@@ -321,6 +321,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0024",
+   "key": "lead-scout:LinkedIn 429 and flaky data-branch git sync",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "LinkedIn 429 and flaky data-branch git sync",
+   "detail": "WebFetch to linkedin.com/jobs returned HTTP 429 for 2 of 5 postings (L1726, L1728 judged on stored JD). Several 'lead research' calls failed with git fetch/commit exit 128 on the data branch and were retried; L1726, L1764 recorded on first attempt, others after retry. Only 5 of 12 planned leads researched.",
+   "status": "open",
+   "opened_at": "2026-11-19T10:52:23+05:30",
+   "last_seen": "2026-11-19T10:52:23+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

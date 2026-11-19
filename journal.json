@@ -2897,6 +2897,15 @@
    "title": "Ran",
    "detail": "5 researched, 1 qualified (L1730), 4 rejected, 0 emails found; scheduled run, scrape skipped (under 3h old), Apify unused; LinkedIn 429s and flaky git sync on data branch",
    "ref": ""
+  },
+  {
+   "id": "J0323",
+   "at": "2026-11-19T10:52:23+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "LinkedIn 429 and flaky data-branch git sync",
+   "detail": "WebFetch to linkedin.com/jobs returned HTTP 429 for 2 of 5 postings (L1726, L1728 judged on stored JD). Several 'lead research' calls failed with git fetch/commit exit 128 on the data branch and were retried; L1726, L1764 recorded on first attempt, others after retry. Only 5 of 12 planned leads researched.",
+   "ref": "I0024"
   }
  ]
 }

@@ -208064,7 +208064,7 @@
    "key": "aicerts|b2b business development manager|bengaluru",
    "type": "job",
    "company": "AI CERTs®",
-   "company_domain": "",
+   "company_domain": "aicerts.io",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/ai-certs",
    "company_note": "",
@@ -208072,7 +208072,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491314850",
    "source_url": "https://in.linkedin.com/jobs/view/b2b-business-development-manager-at-ai-certs%C2%AE-4491314850",
@@ -208088,7 +208088,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Company Description AI CERTs® is an enterprise-grade global certification platform focused on AI and blockchain, created to help bridge the gap between widespread talent and limited opportunity. The organization provides role-based, vendor-aligned certifications that align with real market needs, enabling professionals from diverse technical backgrounds to become AI-ready, job-ready, and future-ready. Guided by a commitment to lifelong learning, AI CERTs® has a mission to certify one billion people worldwide. Headquartered in New York City, the company is scaling rapidly toward unicorn status, supported by a global network of academic and industry partners. AI CERTs® is building a future-proof ecosystem where practical, up-to-date knowledge empowers the next generation of the global workforce.\n Role Description The APAC Business Development Manager will lead growth initiatives across the Asia-Pacific region, focusing on expanding AI CERTs®’ certification offerings with enterprise clients, academic institutions, and channel partners. This full-time, on-site role is based in Bengaluru and involves identifying and qualifying new business opportunities, managing the sales pipeline, and driving revenue through strategic partnerships and direct client engagements. Day-to-day responsibilities include conducting market research, developing go-to-market plans, preparing proposals and presentations, negotiating commercial terms, and collaborating with internal teams such as marketing, product, and operations. The role also requires maintaining strong relationships with key stakeholders, tracking performance against targets, and providing regular business insights and forecasts to leadership.\n Qualifications\n Business development and sales skills, including lead generation, pipeline management, and consultative selling across B2B and institutional segments.\n Strategic and analytical skills, such as market research, competitive analysis, and the ability to design regional growth plans for APAC.\n Relationship management and communication skills, including stakeholder engagement, negotiation, and effective presentation to executive-level audiences.\n Operational and organizational skills, including CRM proficiency, data-driven reporting, and the ability to coordinate with cross-functional teams.\n Understanding of or strong interest in AI, blockchain, and EdTech, with the ability to translate complex concepts into clear business value for clients.\n Bachelor’s degree in Business, Marketing, Technology, or a related field; an advanced degree (MBA or equivalent) is an advantage.\n Proven experience in business development or sales within APAC, preferably in technology, education, or SaaS domains.\n Comfort working in a fast-paced, high-growth environment with the ability to take initiative and meet ambitious targets.\n Fluency in English; additional APAC regional languages are a plus.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Education",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -208103,8 +208103,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -208114,15 +208114,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "B2B BD Manager at AI CERTs in Bengaluru; mid-senior level with unstated pay and experience.",
+    "fit_notes": "The posting asks for \"Proven experience in business development or sales within APAC, preferably in technology, education, or SaaS domains\" and a \"Bachelor’s degree... an advanced degree (MBA or equivalent) is an advantage.\" It does not state years of experience required or pay. Shlok has 1.3 years of experience and no direct B2B sales or BD background, though his Alcheringa sales and curation leadership ([alcheringa]) shows relevant skills.",
+    "pay_notes": "Pay is not stated in the job posting and no evidence was found.",
+    "culture_notes": "No company website or reviews found in web search.",
+    "hook": "Your mission to certify one billion people worldwide caught my attention.",
+    "hook_source": "https://in.linkedin.com/jobs/view/b2b-business-development-manager-at-ai-certs%C2%AE-4491314850",
+    "researched_at": "2026-11-19T13:32:09+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -208146,14 +208155,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T13:32:09+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Pay and experience level are unknown/unstated for a mid-senior B2B BD role in EdTech, and the role is primarily sales and partnership management rather than Shlok's core Strategy & Operations or Product priority.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-19T13:32:09+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Pay and experience level are unknown/unstated for a mid-senior B2B BD role in EdTech, and the role is primarily sales and partnership management rather than Shlok's core Strategy & Operations or Product priority."
   },
   {
    "id": "L1755",

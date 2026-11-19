@@ -3095,6 +3095,15 @@
    "title": "Diagnosis: Drafts waiting over 3 days: 19 drafts, M0016 oldest",
    "detail": "Cause: drafts need Shlok's approval (supersedes I0019). Remedy: open Approvals, approve, edit or skip the 19 drafts, oldest first (M0016-M0023).",
    "ref": "I0026"
+  },
+  {
+   "id": "J0345",
+   "at": "2026-11-19T21:25:37+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Supervisor check 19 Nov 21:30 IST",
+   "detail": "First status call failed (git fetch of data branch, exit 128); manual fetch and retry worked, same as I0015. All agents ran today: scrape 15:09, track 16:17, digest 16:29, live-check 12:52, research-worker 13:37 (marked failed, 0 of 28 qualified), people-finder 13:37, writer 14:23 (Gemini free quota used up), send-track 10:51 (no draftable leads), follow-up 11:41 (10 drafted), founder-emails 18 Nov. supervisor/check failed 17:17 on expired claims W0006-W0008 (I0014). GitHub workflows: last 15 runs all succeeded. No messages sending, failed or approved. Data log shows no collisions or mass deletions. Site /login answers.",
+   "ref": ""
   }
  ]
 }

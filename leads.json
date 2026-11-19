@@ -46957,8 +46957,8 @@
    "key": "damensch|strategy and operations|unknown",
    "type": "company",
    "company": "DaMENSCH",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "damensch.com",
+   "company_url": "https://www.damensch.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy and Operations",
@@ -46996,22 +46996,24 @@
    },
    "score": {
     "rules": 45,
-    "research": null,
-    "total": 45,
+    "research": 80,
+    "total": 66,
     "reasons": [
      "Added by agent despite rule: rule score 39 under threshold"
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "DaMENSCH: D2C innerwear/apparel brand with own stores, raised Rs 17.4 Cr Sept 2026; his stock rebalancing and working-capital results map to inventory planning",
+    "fit_notes": "rebalance fact (27% working capital) and MSL/sop map to channel and city stock planning for an omnichannel apparel brand",
     "pay_notes": "",
     "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "hook": "Raised Rs 17.4 Cr from A91 Partners and Tancom Electronics (reported Sept 7 2026)",
+    "hook_source": "https://india.entrepreneur.com/business-news/damensch-raises-inr-17-40-cr-at-flat-valuation-of-inr-600-cr",
+    "researched_at": "2026-11-19T21:26:30+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -47062,14 +47064,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-19T21:26:30+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 66: qualified"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-19T21:26:30+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0378",

@@ -4407,9 +4407,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Ragina N.: ragina@haystackanalytics.in (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-19T23:10:21+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template job-apply-v1 email to  queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-14T15:23:05+05:30",
+   "updated_at": "2026-11-19T23:10:21+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
@@ -5502,9 +5508,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Lucky Mehndiratta: lucky@frnd.app (pattern, 70)"
+    },
+    {
+     "at": "2026-11-19T23:10:21+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template job-apply-v1 email to Lucky Mehndiratta queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-16T10:56:56+05:30",
+   "updated_at": "2026-11-19T23:10:21+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
@@ -6782,9 +6794,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 4 (2026-11-12) as R50"
+    },
+    {
+     "at": "2026-11-19T23:10:21+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template job-apply-v1 email to  queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-13T14:13:30+05:30",
+   "updated_at": "2026-11-19T23:10:21+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",

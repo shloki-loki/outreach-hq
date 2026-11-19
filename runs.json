@@ -2078,6 +2078,19 @@
    "ok": true,
    "summary": "5 researched, 1 qualified (L1730), 4 rejected, 0 emails found; scheduled run, scrape skipped (under 3h old), Apify unused; LinkedIn 429s and flaky git sync on data branch",
    "stats": {}
+  },
+  {
+   "at": "2026-11-19T11:39:59+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 10 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 10
+   }
   }
  ]
 }

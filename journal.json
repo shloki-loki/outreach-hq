@@ -2906,6 +2906,15 @@
    "title": "LinkedIn 429 and flaky data-branch git sync",
    "detail": "WebFetch to linkedin.com/jobs returned HTTP 429 for 2 of 5 postings (L1726, L1728 judged on stored JD). Several 'lead research' calls failed with git fetch/commit exit 128 on the data branch and were retried; L1726, L1764 recorded on first attempt, others after retry. Only 5 of 12 planned leads researched.",
    "ref": "I0024"
+  },
+  {
+   "id": "J0324",
+   "at": "2026-11-19T11:39:59+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 10 follow-ups due",
+   "ref": ""
   }
  ]
 }

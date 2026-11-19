@@ -2252,6 +2252,19 @@
    "ok": true,
    "summary": "1 drafted, 4 rejected, 55 left queued",
    "stats": {}
+  },
+  {
+   "at": "2026-11-19T21:30:24+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "1 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 1,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
+   }
   }
  ]
 }

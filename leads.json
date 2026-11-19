@@ -186784,15 +186784,15 @@
    "key": "indegene|product analyst|bengaluru",
    "type": "job",
    "company": "Indegene",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "indegene.com",
+   "company_url": "https://www.indegene.com",
    "company_linkedin": "https://www.linkedin.com/company/indegene",
    "company_note": "",
    "title": "Product Analyst",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490276604",
    "source_url": "https://in.linkedin.com/jobs/view/product-analyst-at-indegene-4490276604",
@@ -186823,8 +186823,8 @@
    },
    "score": {
     "rules": 64,
-    "research": null,
-    "total": 64,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -186834,15 +186834,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Analyst at Indegene, asks 2+ yrs; your S&OP and supply chain background does not match healthcare software product delivery.",
+    "fit_notes": "The posting asks for \"2+ years of relevant experience\", full lifecycle product delivery, turning business requirements into user stories, and building \"wireframes, user flows and clickable prototypes\". Shlok has about 1.3 years of experience, mostly in supply chain, S&OP planning, and manufacturing ops (citing [sop], [ceo-coo]), which does not align with building software UI/UX and healthcare tech products. No MBA or consulting is required.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures were found in the evidence.",
+    "culture_notes": "Headcount, ratings, and specific culture reviews were not found in the evidence, though a US arm TCPA class-action litigation settlement was noted [S6].",
+    "hook": "Indegene hosted its Digital Summit 2026 focusing on driving AI outcomes in life sciences.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa25DZUcxWldReDZGTnY1cVg1SlRoQ3BBRFpsT19MQ0E5dzMyUkxWcXBYU184YUZvdkV2cFgtdUZSd1NkX3JYTUhDRnFsZVFnWTVIUTZYc3p2YTR5aEwxaDZzQ3RzNmVtNmtCeUJacHc1ZUlfYzJ6Qm93VDU1cjV6Y2I1ZmxOdjFfYXh5VEFTcVFDY3RfWWprYVM3dExPUjdPTEZQZnZKa2FZOXhsUjNyRDg2UDVzQ3d0aXlUaWd0M2I?oc=5",
+    "researched_at": "2026-11-19T13:33:18+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVBvQkxNcjgyeFBMczFhOGluQlloLXlpU2ZIY3VsWWdQMEw5d05TUmR1Z3lHRHdESFEyZDdhbGdaaUNKR2Y0LVhCV3dzWEtiTDVfRlBEd1JKdFRsVU53S0ZrQmh0cjltNXV5blZ2QVBBTUlrNFI0NnozV19HaTNOWHZfR3kxMmJUMFY5Z3RzeHhsc095amFRdlBVOEl5aEd3Q3h2clM5QzNiNThOQmJLZHZYUndtcTNVNnZXWFpMWGRQaUpnOEE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Indegene revenue rises 39% to ₹1,063 cr in Q1 FY27; net profit flat - pharma.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNblJYbFk1YjNoNVF4aW53NFRZSWxqWGVhazRhemVTM0FFWTlQOFlnbFJYbTFpTWgydVVmeklCNzE2Z1I2ZXcwSVZSRVZsU3Rjemg3UTZmdi1MdFFZcnd3MlQ0THpZcGVka3ZJQWw2cURNcUpwMURzelJNOFpFUHh0MldudE9ScThpcEpzdy1OT0w0WVJnVWpobFlwTkxqRzVxVGthTnBweXFnN3doR011bVpGQnBkemlzNTlsY19yQ1daYy1RWE5IRkZERzZSd21sY0gteWpUZV9kd00x0gHgAUFVX3lxTFBORlRMZ1JNeFQ1YjdCSDZiX1NiNzdNX2k0WXhJSlluc1hxdGt1Ym54Y3V6X3NVVFZENDRhU2NkUkdmS181V3NOTUJjTDZtczdyOHpmWXc5eGZFVWoyU1pldTJ6UGhSYjYxWE9ZR2xLOGRjWXBNdENCV3ZoWmphaVpqSlhwMnk0TDBUeGs2SHYyaG9aRjdDTUloSldIQW1GVzBvQVoxa2UtTk4zQUQtckc5bXhsYWhrcGh3VzcyWWtWMUJmVkpVRVNKcEl6UTVxZWVDZEQwRk1KekhRWEFxZDVJ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Indegene Ltd Peer Comparison – Compare with Others - Value Research",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS0NLWDk3Y3dMVWZ0U28tYXlZZEt5dnhEVENvODVDTnJRR05NUXpmcVJDTk80QzVEZGR3Ym5IaS1sWnF0NUtKTURRLU01elZZWnYxVnBGQVpJdmxSdUU0NWlRd2RJVXpvVFU5cUJ1ZHMySzhsVk9KbFZLMjh2NTJfUHU0MldiUQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Indegene hosts Digital Summit 2026 to drive AI outcomes in life sciences - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa25DZUcxWldReDZGTnY1cVg1SlRoQ3BBRFpsT19MQ0E5dzMyUkxWcXBYU184YUZvdkV2cFgtdUZSd1NkX3JYTUhDRnFsZVFnWTVIUTZYc3p2YTR5aEwxaDZzQ3RzNmVtNmtCeUJacHc1ZUlfYzJ6Qm93VDU1cjV6Y2I1ZmxOdjFfYXh5VEFTcVFDY3RfWWprYVM3dExPUjdPTEZQZnZKa2FZOXhsUjNyRDg2UDVzQ3d0aXlUaWd0M2I?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Indegene shares hit over one-year high as Motilal Oswal hikes target price - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQzlXbE5iRS05NzBDT2wyM0VTd3ZBeEd0cklPZGhBVnd0Y21WTHhFbXhtRlhPdnhjYnZBNEhTR0ZpZ1dzdFF4N25XVFJJRGFPYlE2YldzclZlRTNEbC1SU2NodnNmVEhTM090ZUJ4c3pNRWl3ZDVtWmhWbjJiVUFVM3R1QUJHZG13amVJYjlOTU84U0N0NTE0QnE1d1ZyQ0x1ekdfQlVZUC1KYktnSEVwSUpEMWRRTU5rdkZEQkJ0YXRYRFFuMGNWbmJkOU5QUFBaTTB2amhB0gHbAUFVX3lxTE91Tl9mVVlhUWVqNkZjSVg2b0JYQXF4c2NJMDFQUFNreWt2VWJSZkRLMzNXaG1kb3BiY2ZtdFkxQUJWaDZQZ041OWFyUXZXd2lmSlpkWi1hV0lJRTUzN2JSWWFqTGtxODF5U1Z1Y0R3c0RuZE5kVERJU1dlZFFHTTZkT3VybjQxSjZxMUplUFA0OTFOTFdyYnVZUkVfcWl6T00xX2xKNHA2MXBrM3NDaXlkRlNHaXFaSFY1N0hsMExXandZWnFyRmJWX3NJdno0Z3UxaXhvRzQtalZsWQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Indegene's US arm settles TCPA class-action litigation for $4.72 million - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRjlNTWJEeFZlYjU4blgxS0ltNjFyTVVxektzQXNIdUU3cHNMdlJNYnplQUZxaG83MHVZSUhhRzFXbno2akVVcEZKOGptWjFHRVlUTFhXYk9zamFxN0FoQ3E5NERoZXBvX3J1c3JtZ0I5bG9iLU1GNXpBejAydjNyaFhHTHRDY1J6MEhablNKY2M5dV9qcWpUZlE5cVd4VjQ3MUwxNDBBdm9wcVJQYXpFbFc5WGlkbWNrYTZJNFd3bEdhbDQ2eThSSFM4QUdtS2dKekdkUXNiMUlzVjdIZ0tpTlgzYTNleEx60gHuAUFVX3lxTE4yQ2p5VDlrTFRKNGdEakp4ZnR5MXFtRFFOZ3I1UjA4aVFocTZKTlU0WnNYRXJ4aXZtUmJNbnU2TVl4ZXpRNWFTT1NNX2dFeHhicE0zYmJJLWM0Q1doRERCYWFuaHhBSE5hdE5aNWhkaTZQQnMzVWExblZ4bzVZRk9NVUVtcHk1U1NteXRkbG5yQjRoVUQwSlJ4MVA1akJnbFlncWlVNDRORm9remUzT0d3TWhHRUZDMThBcUtORnd3MGhKTnBxVXRRVUQ1MFItVFM4NmdNLUN1bk9zbDZLaUtzUDJGOE9JVFhhQTdHVmc?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -186866,9 +186904,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 64"
+    },
+    {
+     "at": "2026-11-19T13:33:18+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Role asks for 2+ years of relevant product/analyst experience and pay is unknown, but more importantly, it requires building wireframes, UI/UX prototyping, and end-to-end agile product delivery for healthcare platforms—a domain and skill set outside Shlok's S&OP, inventory, and operations-heavy background.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-19T13:33:18+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
@@ -186878,7 +186922,8 @@
     "at": "2026-11-18T23:13:05+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Role asks for 2+ years of relevant product/analyst experience and pay is unknown, but more importantly, it requires building wireframes, UI/UX prototyping, and end-to-end agile product delivery for healthcare platforms—a domain and skill set outside Shlok's S&OP, inventory, and operations-heavy background."
   },
   {
    "id": "L1564",

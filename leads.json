@@ -204468,8 +204468,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 25,
+    "total": 46,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -204479,15 +204479,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office at Loop (health), asks 4+ yrs consulting/IB/PE and investor reporting; well beyond your 1.3 yrs.",
+    "fit_notes": "Role is CEO-office work (matches ceo-coo fact) but years and finance/IR background are missing. Could not open live page (HTTP 429).",
+    "pay_notes": "No pay stated; none looked up.",
+    "culture_notes": "Not researched.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T10:46:17+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -204511,9 +204513,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-19T10:46:17+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 46: rejected (Asks 4+ years in consulting/IB/PE/VC or startup strategy/finance plus investor-relations and finance reporting; Shlok has 1.3 years. LinkedIn page returned 429 so live status not re-confirmed; judged on the stored JD.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30"
+   "updated_at": "2026-11-19T10:46:17+05:30",
+   "reject_reason": "Asks 4+ years in consulting/IB/PE/VC or startup strategy/finance plus investor-relations and finance reporting; Shlok has 1.3 years. LinkedIn page returned 429 so live status not re-confirmed; judged on the stored JD."
   },
   {
    "id": "L1727",

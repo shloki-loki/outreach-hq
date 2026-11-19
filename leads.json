@@ -30402,15 +30402,15 @@
    "key": "itcinfotech|program manager|bengaluru",
    "type": "job",
    "company": "ITC Infotech",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "itcinfotech.com",
+   "company_url": "https://www.itcinfotech.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "457264",
    "source_url": "https://www.instahyre.com/job-457264-program-manager-at-itc-infotech-2-bangalore/",
@@ -30441,8 +30441,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -30451,15 +30451,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Program Manager at ITC Infotech in Bangalore, asks 8-13 years of experience; your 1.3 years makes this a severe reject.",
+    "fit_notes": "The posting asks for \"8-13 years of overall professional experience, with substantial experience in project/program management\" and states that \"B.E. / B.Tech in Mechanical Engineering is mandatory\". While Shlok has a B.Tech in Electrical and Electronics Engineering and relevant operational facts like [sop] and [ceo-coo], the experience requirement of 8-13 years is way beyond Shlok's 1.3 years of experience.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figure is available in the evidence.",
+    "culture_notes": "Ratings were not found in the posting or evidence. A recent news flag indicates that ITC Infotech and Happiest Minds are merging to aim for a $1B AI-led entity [S2], though covered critically by The Ken under the headline 'misery loves company' [S4].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T13:35:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "The Happiest Minds-ITC Infotech merger explained - Finshots",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2dlT1VkTWdIMXJzc3ZWXzBzMmxlOHBSUno0ZFhYZDFGa3ZwNGVPOVc2OUdPd21ZQXlNLWhaQmhndktnc3lmZUNQVmdHemNCOENoRjdXWnprSWFDaHJNeEVnSTRXS09vaG52Rml5bkNhWjNDQzd3RU9XOW42S3plXzF1NGdvUQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "ITC Infotech, Happiest Minds to Merge; Aim for $1B AI-Led Entity - HDFC Sky",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3MkdNSnJFTExzVU9NNVNOOFhOX1JNS3ZuQVQyTmVQSWFLaVBVb3U3TUU5MTVMZGFRLXNJS3BuSVBkeWxjd2ttZVNlRFpLV3d5YWgyUWFlZHNwV0ROYXZXeFVuR1VRQTQxY2Z3aV93?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "ITC Infotech & Happiest Minds Technologies Merge - https://www.fintechbiznews.com/",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmZsY3lVaFBRNDVUY2puSm53MnFqS3BtNHZJZU9obUJoek9iek9GQlZWNVRzcHlLcXZJVjJQZ29FZUlCR2RzemFYeUx2WlZrYlliOWZpS185aWNCbkY3ZWFEUmNWWUtyalF2RWZOM0hnYlpIcFJXZ0RtTllsMy1RNUY0WU0zZm4xYUZrT2J1SkxHMW5XQi1LWU5GTlI0Zw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "ITC Infotech-Happiest Minds merger: misery loves company - The Ken",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnAzNHNRSkxJdUZ5UHMzclhud1IzV1ZpUzVheWZBMFVjc2k3TXBJRGlRcDNESVJtS1NUUlZzRERtRE5HdFlpbzVQSmVLbmxkVnA4MGFWdGZYTTYzdFQyQmh3Y0pGdzk4NjQzT3ZpNnlxYmpSTzRtNEFSVjhleFZKd0tTT3FNdjhOQmpKOWdIYWdtUGpQaGc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Happiest Minds Technologies, ITC Infotech Enter Merger Framework; Khaitan & Co Advises on Transaction - Live Law",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON3BpbEw1N0QxX3M5QmtJS3F1V0FaeHVXaXdSNkMwbHllUUpkVng4TEgwcXRrcXVLOTlOUGJiN1hrYnJ3SmlnQzRWaTBzVHBJcVB6SDI2R0ZVVFVoSnp3Q2NnRWoxWG92eHBUTUIzQ3RXdFRpUDgta3V2QUF4X1o5d0xCQ2MycFgtc1AwZ2RqN09GbEFfa1BBOVpJUENZUzlUT1ZZcWpoOHczOHVXNjFVbktLT2RFT2NvZkU5ZUVxR0V0bHJIbnVPTzZKZTgwdTdYdEFWS2hwZGlzbWPSAeABQVVfeXFMT0VlTnJQMWR6ellTaG1OendicUE0V0JibWVXTXhETkd6aTFCUDhBRGdYaktUS1JHYlpVV3UydjVGYng3a1ZQZzNyNUtua1IwckpXbnZya1VEREE5TWZacjRZaU1jYmlSOUxYSVFOWXBWdDJfeENBRTQzajJVa3lidExDbkpyUm1lbHdCamphN3BtNS1fZmJleUxCSWFGRFRUSGcxYmFiTEcwX1I0aGY2SHBkVDNna3I5djlLemxUc2V1XzgySXh6NGs4TWZxZWlvUXhLaXZpeHVabnp4RHgtTFE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "CAM Advises ITC Infotech on Happiest Minds Acquisition | SCC Times - SCC Online",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSlZMa09PMGtubm0zMkU2NU5mR2xKcFI5YjV6ZjMtUmZOSm1KMm9oU2ZIZXNGV3gyX3NfdzVZZExneHpua2Z4cGJXcDg2aWlVSlcwcnhzdzBtVEcyeE40UkFQenNZRVpQZXJRWEQyZEdGQ2s0eXhxdzJsQUhHaEFGQmtYWE1fbFFYdzd3anlXSFNmX19pQ0phUEdvQ0ZsSVUtbEpWQmNCTVpKRWhHb0tjdzhoSDVUUGJYQ0F4UHc0VXl6MlRTVV85Tkc5SHAxdURFcklBMEROc0pjSnVGN0VtVw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -30483,14 +30521,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-19T13:35:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The posting asks for 8-13 years of professional experience and a B.E./B.Tech in Mechanical Engineering with substantial program management experience, which severely exceeds Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-19T13:35:58+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 8-13 years of professional experience and a B.E./B.Tech in Mechanical Engineering with substantial program management experience, which severely exceeds Shlok's 1.3 years of experience."
   },
   {
    "id": "L0243",

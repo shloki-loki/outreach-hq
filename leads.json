@@ -204816,8 +204816,8 @@
    "key": "bplmedical|business strategy analyst|bengaluru",
    "type": "job",
    "company": "BPL Medical Technologies",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "bplmedicaltechnologies.com",
+   "company_url": "https://www.bplmedicaltechnologies.com/",
    "company_linkedin": "https://in.linkedin.com/company/bplmedtech",
    "company_note": "",
    "title": "Business Strategy Analyst",
@@ -204850,13 +204850,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "No role-specific evidence found; AmbitionBox generic Bangalore Business Analyst 5.4-6.9 LPA (19 salaries, all companies) suggests it may be below the floor",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 66,
+    "total": 71,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -204866,15 +204866,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "MD's Office business analyst at BPL Medical Technologies (Bengaluru), asks 2-4 yrs, MBA preferred; your S&OP, MRP and variance work maps, pay unknown.",
+    "fit_notes": "JD (opened on LinkedIn today) wants MD-office analysis, MIS, variance analysis, forecasts, initiative tracking across sales/service/manufacturing/supply chain. Maps to sop (S&OP, working capital), mrp (SAP MRP), ceo-coo (worked with COO/CEO), cell (manufacturing). Asks 2-4 yrs (stretch at top end), MBA preferred but engineers considered; Power BI not in profile, Excel and SQL are.",
+    "pay_notes": "Not stated in posting. Only generic evidence found, pointing below 24.5 LPA; treat as a risk.",
+    "culture_notes": "AmbitionBox shows BPL Medical Technologies salary/benefits rating about 3.5/5 over 172 reviews (search snippet, page not opened). Established MedTech manufacturer.",
+    "hook": "Hiring an MD's Office analyst to turn leadership priorities into tracked initiatives across manufacturing and supply chain.",
+    "hook_source": "https://in.linkedin.com/jobs/view/business-strategy-analyst-at-bpl-medical-technologies-4491808939",
+    "researched_at": "2026-11-19T10:51:40+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -204898,9 +204900,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-19T10:51:40+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 71: qualified"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30"
+   "updated_at": "2026-11-19T10:51:40+05:30",
+   "reject_reason": null
   },
   {
    "id": "L1731",

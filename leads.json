@@ -32318,6 +32318,11 @@
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
+   },
+   "research_attempt": {
+    "at": "2026-11-19T23:25:57+05:30",
+    "why": "error: Gemini unreachable: The read operation timed out",
+    "by": "research-worker"
    }
   },
   {

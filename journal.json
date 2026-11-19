@@ -3392,6 +3392,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 72 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J0378",
+   "at": "2026-11-19T23:35:52+05:30",
+   "by": "claude",
+   "kind": "fix",
+   "title": "PR 12 merged: all 9 follow-ups queued",
+   "detail": "Merged with Shlok's OK (d3b2410). The 5 held follow-ups (Carbon Trail, Badboy Pizza, GBG, Vianaar, Deccan AI) are queued, greeted as the first email was. No agent follow-up drafts are left. 72 approved emails go out from 08:00 IST on 20 Nov: 60 founders, 3 job applications, 9 follow-ups.",
+   "ref": "d3b2410"
   }
  ]
 }

@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 from typing import Any
 
-from . import digest, emailfinder, importers, leads as lead_model, live, llm, messages, metrics, people, research, scout, send, store, track, writer
+from . import digest, emailfinder, importers, leads as lead_model, live, llm, messages, metrics, people, research, scout, send, store, track, writer, campaign
 from .rules import Pay, Verdict, judge, pay_fit
 from .util import load_config, load_env, now, now_iso, parse_iso
 
@@ -608,6 +608,13 @@ def main(argv: list[str] | None = None) -> None:
     p = sub.add_parser("packet", help="assemble existing research, drafts and answers for a lead")
     p.add_argument("id")
     p.set_defaults(func=lambda a: out(supervisor.packet(a.id)))
+    p = sub.add_parser("campaign", help="template emails Shlok approved in chat (config/templates/)")
+    p.add_argument("action", choices=["queue", "stop", "status"])
+    p.add_argument("--template", required=True)
+    p.add_argument("--limit", type=int, help="queue: today's total for this template (default: its per_day)")
+    p.add_argument("--dry-run", action="store_true", help="queue: show what would be queued, save nothing")
+    p.set_defaults(func=lambda a: out(campaign.queue(a.template, a.limit, a.dry_run) if a.action == "queue"
+                                      else campaign.stop(a.template) if a.action == "stop" else campaign.status(a.template)))
     p = sub.add_parser("work", help="shared Codex/Claude ownership and handoff queue")
     p.add_argument("action", choices=["list", "add", "claim", "assign", "release", "done",
                                       "founder-batch", "handover", "next", "batch-status"])

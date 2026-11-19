@@ -1,22 +1,23 @@
 # Preferred owners, not automatic model invocation. Per-item assignment is authoritative.
 # Changes go through a reviewed PR and the shared supervisor log.
+# 2026-11-19: Shlok ended the Codex subscription; Claude owns all of Codex's work.
 [owners]
-research = "codex"
-draft = "codex"
-followup = "codex"
+research = "claude"
+draft = "claude"
+followup = "claude"
 review = "claude"
-engineering = "codex"
+engineering = "claude"
 
 # Who takes over unstarted work when the owner runs out of quota or misses its slot, in order.
 # Decided by Shlok 2026-11-15: GPT (Codex) first, Claude takes over when GPT's limit is used up,
 # Grok joins the chain once he adds it (it is already a valid owner in the work queue).
 [fallback]
-draft = ["codex", "claude", "grok"]
-research = ["codex", "claude", "grok"]
+draft = ["claude", "grok"]
+research = ["claude", "grok"]
 
-# The founder list (data source founder_reoutreach): 60 researched, personal emails a day, each one
-# queued for Shlok's approval. `work founder-batch` creates the day's items; see SUPERVISOR.md.
+# The founder list (data source founder_reoutreach). Was 60 researched emails a day (2026-11-15); off since
+# 2026-11-19, when the founder-v1 template took over. `work founder-batch` still works if per_day is raised.
 [founder_batch]
-per_day = 60
-owner = "codex"
-handover_hour_ist = 16     # unstarted items still with codex at this hour go to claude
+per_day = 0          # 2026-11-19: replaced by the founder-v1 template (config/templates), see SUPERVISOR.md
+owner = "claude"
+handover_hour_ist = 16

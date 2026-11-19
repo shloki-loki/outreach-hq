@@ -1,6 +1,6 @@
-name: Founder batch (queue today's 60)
-# Creates today's founder-email work items in the shared queue (no model, no sending).
-# Codex works them from 12:15 IST; Claude takes over what is left at 16:15 IST (SUPERVISOR.md).
+name: Founder emails (queue today's 60)
+# Queues today's founder emails from the template Shlok approved in chat on 2026-11-19
+# (config/templates/founder-v1.toml), already approved. No model. The sender sends them inside its caps.
 # Two slots because GitHub schedules run late or get dropped (issue I0005); the second run only tops up.
 on:
   schedule:
@@ -29,7 +29,5 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Queue today's founder emails
-        run: python -m outreach work founder-batch ${{ inputs.count && format('--count {0}', inputs.count) || '' }}
-      - name: Status
-        run: python -m outreach work batch-status
+      - name: Queue today's founder template emails (approved in chat 2026-11-19; the sender sends them)
+        run: python -m outreach campaign queue --template founder-v1 ${{ inputs.count && format('--limit {0}', inputs.count) || '' }}

@@ -1,0 +1,27 @@
+# Founder list template (source founder_reoutreach). Text approved by Shlok in chat on 2026-11-19, with
+# 60 a day and every listed address at each company. Messages from this template are queued already
+# approved (no per-email click) and go out through the normal sender: caps, window, pauses, do-not-email
+# list, one email per person in 60 days, bounce and reply tracking all still apply.
+# Do not edit the text without his OK in chat; a new text is a new file (founder-v2.toml).
+# To stop: set active = false and run `python3 -m outreach campaign stop --template founder-v1`.
+
+id = "founder-v1"
+active = true
+source = "founder_reoutreach"
+approved_by = "Shlok, in chat on 2026-11-19"
+per_day = 60
+
+subject = "Ops and strategy help at {company}"
+
+body = """Hi {first_name},
+
+I'm Shlok, an IIT Guwahati grad who spent a year in strategy and operations at Ola Electric, working directly with the CEO and COO.
+
+The work I'm proudest of: I ran production planning over Rs 200 Cr of inventory and cut working capital by 40% in two and a half months. I also built a dispatch algorithm that took order-to-delivery from 32 days to 14.
+
+I'd like to do the same kind of work at {company}, taking planning, operations or special projects off your plate in a Founder's Office or strategy role.
+
+Is a hire like this on your mind in the next few months?
+
+Shlok
+"""

@@ -7,7 +7,7 @@ mode = "live"
 timezone = "Asia/Kolkata"
 
 [sending]
-new_emails_per_day = 60       # first-touch cold emails
+new_emails_per_day = 70       # first-touch cold emails: 60 founder template (speculative cap) + 10 for jobs
 followups_per_day = 10
 max_per_run = 6               # one sender run never sends more than this
 gap_seconds_min = 60          # human-like pause between two sends

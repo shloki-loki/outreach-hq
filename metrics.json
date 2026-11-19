@@ -325,13 +325,13 @@
    "leads_total": 1788,
    "by_status": {
     "applied": 5,
-    "to_approve": 78,
-    "qualified": 67,
-    "rejected": 305,
+    "to_approve": 81,
+    "qualified": 75,
+    "rejected": 297,
     "replied": 1,
     "skipped": 3,
     "interview": 1,
-    "new": 1327,
+    "new": 1324,
     "contacted": 1
    },
    "by_source": {
@@ -352,8 +352,8 @@
     "4 - Other": 4,
     "3 - APM / Analyst": 47
    },
-   "qualified_total": 93,
-   "researched_total": 400,
+   "qualified_total": 104,
+   "researched_total": 403,
    "with_email_total": 1022,
    "emails_sent_total": 12,
    "emails_sent_today": 0,

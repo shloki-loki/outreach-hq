@@ -863,6 +863,34 @@
    "thread_parent": "<179465129225.2271.8862438155130665302@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0033",
+   "lead_id": "L0016",
+   "contact_id": "C2",
+   "to": "shivam.balve@vianaar.com",
+   "to_name": "",
+   "kind": "followup1",
+   "subject": "Re: Business Operations Manager at Vianaar Homes",
+   "body": "Hi Shivam,\n\nOne more example of finding where a process loses time: at Ola Electric I built a lotting algorithm for truck dispatches that cut order to delivery from 32 to 14 days and improved trucking efficiency by 33%. Is the role in Mapusa still open?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "published",
+   "speculative": false,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-19T11:41:31+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179465138548.2271.14596923604232377799@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

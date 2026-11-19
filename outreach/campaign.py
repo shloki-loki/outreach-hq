@@ -252,7 +252,12 @@ def queue_followups(template_id: str = "followup-v1") -> dict[str, Any]:
             if not lead or lead.get("replied_at") or lead.get("outcome") in ("offer", "rejected", "closed") \
                     or lead.get("stage") in ("rejected", "skipped"):
                 continue
-            if any(m.get("status") in ("replied", "bounced", "draft", "approved", "sending") for m in thread):
+            # A follow-up an agent drafted for his approval is replaced by the approved generic one (his call on
+            # 2026-11-19), unless he edited it himself. Anything else pending for this person waits.
+            stale = [m for m in thread if m.get("status") == "draft" and m.get("kind", "").startswith("followup")
+                     and not m.get("edited_by_shlok") and m.get("created_by") != "shlok"]
+            if any(m.get("status") in ("replied", "bounced", "approved", "sending") for m in thread) \
+                    or any(m.get("status") == "draft" and m not in stale for m in thread):
                 continue
             sent = sorted((m for m in thread if m.get("status") == "sent"), key=lambda m: m.get("sent_at") or "")
             cold = next((m for m in sent if m.get("kind") == "cold"), None)
@@ -289,6 +294,8 @@ def queue_followups(template_id: str = "followup-v1") -> dict[str, Any]:
                 "sending_at": None, "sent_at": None, "message_id": None, "thread_parent": cold["message_id"],
                 "error": None, "reply": None,
             }
+            for m in stale:
+                m.update(status="skipped", error=f"replaced by the generic follow-up {message['id']} (template {template_id})")
             data["messages"].append(message)
             lead["followup"] = {"due": False, "kind": None, "since": None}
             store.add_timeline(lead, "campaign", "drafted", f"{kind} to {cold.get('to_name') or cold['to']} queued (template)")

@@ -32080,15 +32080,15 @@
    "key": "karta|product manager|bengaluru",
    "type": "job",
    "company": "Karta",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "karta.ai",
+   "company_url": "https://karta.ai",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "446776",
    "source_url": "https://www.instahyre.com/job-446776-product-manager-at-karta-bangalore/",
@@ -32119,8 +32119,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 70,
+    "total": 66,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -32129,15 +32129,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Karta AI, seed stage, asks 3-7 yrs; your structured execution and founder-level operations map well.",
+    "fit_notes": "The posting asks for 3-7 years of experience ('3-7 Years'), strong product judgment, structured thinking, and the ability to execute independently in a fast-paced environment. Shlok has ~1.3 years of experience, making 3-7 years a stretch, but his intense operational ownership working directly with leadership at Ola Electric ([ceo-coo], [sop]) matches the fast-paced execution required. No MBA or consulting is required.",
+    "pay_notes": "Pay is not stated in the posting or search evidence.",
+    "culture_notes": "Karta AI is an early-stage seed-funded startup [S1]. Glassdoor ratings and employee reviews were not found in the posting or search evidence.",
+    "hook": "Noticed Karta AI recently raised its $3 million seed round led by PeerCapital and Cedar Hill Capital to automate inbound calls for BFSI players.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOVVGWUl1SFV2anVqWkVlMFlpTnRDSTVJa19MbmJ2Y2liVi0tOXBOa1A4YmhzaEtnak1nS0tVLTF1UWpfSHNrU1U4bzBSOUszcUpjWDlYbGVuRm1IQnc5YnFTdVkwOUY0MkltUHhxa0NnY0hveDltZTQwX0JEM05yNFNzeTRtN2F2QTZXdVo5SDA2Ry1wRlB0UjY0MkR3MVZWQUxVS0hxcXQwc0xVVGhOOFhBbW9xM0hxOUJsamljQWtrNmU5cnNyTDlib3c3eXdldVdPY1hGbmZvcGp6?oc=5",
+    "researched_at": "2026-11-19T23:23:05+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Karta AI raises $3 mn seed funding led by PeerCapital, Cedar Hill Capital - ET Entrepreneur",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOVVGWUl1SFV2anVqWkVlMFlpTnRDSTVJa19MbmJ2Y2liVi0tOXBOa1A4YmhzaEtnak1nS0tVLTF1UWpfSHNrU1U4bzBSOUszcUpjWDlYbGVuRm1IQnc5YnFTdVkwOUY0MkltUHhxa0NnY0hveDltZTQwX0JEM05yNFNzeTRtN2F2QTZXdVo5SDA2Ry1wRlB0UjY0MkR3MVZWQUxVS0hxcXQwc0xVVGhOOFhBbW9xM0hxOUJsamljQWtrNmU5cnNyTDlib3c3eXdldVdPY1hGbmZvcGp6?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Backing Karta: Bringing U.S. Credit to a Global Customer Base - Galaxy",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1VhUFJ5emEzekxjWmt0OGhWVEZnV3hQUi1WX1MyNEVEVVpIZkVyX21rNFlxMUc2WFRfVzQ2SnlzV2gwSGQ3aWtYSEFCRk9ZT1ZpWk54WUhHajdqMmhvRU1PN0ZUQ2RiVDhmQWtzZmk4TU9YMlU3ZEZhTFdETkk0NEpEa2N0UGhtVUpCa3JMX1R5UlFDcEo2ejdrTjlmOEw0X19aaHpiTQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "SC on Widow as Karta and Inherited Property - Mahendra Bhavsar & Co.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QVTgweDRkYzNXNW1UaENNMGJ2eGZZY2FoUzhuQWs2WXlaQ0FMcEg5SEhnV1BJUzZldVlZakJud3JIbGF6cnlWVk9iNnFDX0I2R0MyaVBXVmJtaE8tT0RMUmNtLTctVzA0RVVxR0JhTFd3ZlhkMmk0VURCakc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Neturei Karta: Opposing Zionism - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3llakgyMTFVNzB0U2lxejRhNnBOaDN5SmEtTTVvckhCMmlVT1Z2b1dPMm9rQ2VzUWJaTHZoUjVCcmlGeXozbkZjRGc0ckhocUhXYkx0OTFZNi15QW1aSDFmQXNhVnBoUmNRX3RleVc4d1lKTGszWkc1WFM3RVNzc1YxbEZZcjhsa2JmSTliRktaYkXSAZgBQVVfeXFMTmVLdDVsd1hkX3g2Zjg2dkIwUTJWWEpSYnNMdU55cnNFbzdOV1ZlZ0ZWMnRwVmdHU3VwNzVLdmlvSDlCTmI4bkVUSllRX2NlMmFTckFKWEFINERselVZUXNldkxqc3E5UjVrRHZPN0FlV1UzdE9HLU43R0R6UUJFQmpPcnFKUGFhS0NjUmR1WndjRUVEYXk5c0Y?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Karta AI Raises $3 Million: Can Voice AI Fix India’s Bank Helplines? - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMzhGTEJhUzNPanJnaEtHV0cydTBDUUxHRDJBWVlLTWQzYTgwZ2d4MU9CZE8tdXNKNGY2cWEzMFRwOUxtVUdSUjVvZVY2M01BS3JFNU94ZlppUW5RMm1IdjV1d21lbTRobWN6Z1ZzMlJvSnNpRGZ4ckdNNkVkVi1xZnRrWmpxN0pibVd2dm82LVYzUmdXRlhBR3FuWVBzVWlYbjlz?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Karta AI Raises $3 Mn To Automate Inbound Calls For BFSI Players - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXl5NmZCenVBSW8wb2I0QXdrUTBMVkpRYWd2TWRrODd0QVZLVlcydzdUdHlqNGdma2ZkVzR2S0hpc0c5dmd2aXlsTVV5ZXJBUXBpY3lBZjBMNVNKUkxxeVpjZ09UUjJnRk0yNnZGY1JGczE2akRmdlk4NHAzTEM0c3FENTJoMnF3aUNybm8wM0Y?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -32161,14 +32203,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-19T23:23:05+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 66: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-19T23:23:05+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0255",

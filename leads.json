@@ -211659,15 +211659,15 @@
    "key": "curefit|product manager 2|bengaluru",
    "type": "job",
    "company": "Curefit",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cult.fit",
+   "company_url": "https://www.cult.fit",
    "company_linkedin": "https://in.linkedin.com/company/cult.fit",
    "company_note": "",
    "title": "Product Manager 2",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491372768",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-2-at-curefit-4491372768",
@@ -211683,7 +211683,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Position: Product Manager 2- Operations excellence\n About the role: At Cult.fit, we believe a perfect workout starts long before the first rep. The Operations Excellence team is the invisible force that makes this happen — ensuring every one of our 700+ fitness centers delivers a flawless, consistent member experience, every single day, at scale.\n We build the technology that empowers thousands of frontline peers — trainers, center managers, housekeeping staff, and gym owners — and gives central governance teams real-time visibility into what's happening on the ground. Think IoT sensors that measure center health, vision-tech that analyzes CCTV feeds to flag experience issues without human intervention, and workflow automation systems that orchestrate actions across the organization before a single member notices a problem.\n This is high-impact, high-visibility work. The products you build will be used by thousands of Cult.fit employees daily and will directly protect the workout experience of millions of members.\n We are looking for a Product Manager 2 to own and advance the operations excellence charter. You will be the connective tissue between frontline operations, central governance, process design, engineering, analytics, and UX — translating on-ground realities into scalable, intuitive technology solutions. You will work with ambiguous, complex operational problems and drive them to crisp, well-defined product solutions with measurable impact.\n What You'll Do \n Define and drive the product roadmap for operations excellence — building tools that help frontline staff do their best work and giving management teams real-time visibility into center health.\n Conduct deep user research with diverse stakeholders — from housekeeping staff at a Bengaluru center to senior operations leaders — to understand their workflows, pain points, and what \"excellent\" looks like in practice.\n Work with engineering teams to build and scale IoT and vision-tech integrations that enable continuous, automated measurement of center experience.\n Design and iterate on workflow management and automation systems that surface the right information to the right person at the right time — reducing operational toil and increasing accountability.\n Translate operational complexity into clean, intuitive product experiences — the trainer using your app in a 5-minute window between sessions needs it to be fast and effortless.\n Establish the right metrics to measure center experience quality, identify leading indicators, and use data to rigorously validate product decisions and prioritize the highest-leverage interventions.\n Run rapid experiments, test hypotheses, and iterate fast — this is a domain where the feedback loop between product and ground reality is tight.\n Partner closely with process design teams to ensure that product changes and operational processes reinforce each other.\n What We're Looking For \n 3+ years of experience in product management, ideally within consumer ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -211698,8 +211698,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 42,
+    "total": 52,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -211709,15 +211709,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Product Manager 2 at Curefit in Bengaluru, asks 3+ years experience; your background is 1.3 years in operations and supply chain.",
+    "fit_notes": "The posting asks for '3+ years of experience in product management, ideally within consumer or enterprise applications where operational complexity meets user empathy' and a bachelor's or master's degree from a highly regarded institution. Your IIT Guwahati background satisfies the tier 1 education requirement, and your technical internship at InsuranceDekho [idekho] involved building a Flask REST API and Chrome extension, but your main experience is in operations and supply chain ([sop], [ceo-coo]) rather than the requested 3+ years of PM experience.",
+    "pay_notes": "Pay not stated in the job posting.",
+    "culture_notes": "Curefit (Cult.fit) is a well-known health and fitness brand in India, but specific Glassdoor or AmbitionBox ratings were not provided in the search notes.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T23:16:48+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -211741,9 +211750,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T23:16:48+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The posting asks for 3+ years of experience in product management, whereas you have about 1.3 years and primarily operational/supply chain experience rather than dedicated PM experience.)"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30"
+   "updated_at": "2026-11-19T23:16:48+05:30",
+   "reject_reason": "The posting asks for 3+ years of experience in product management, whereas you have about 1.3 years and primarily operational/supply chain experience rather than dedicated PM experience."
   },
   {
    "id": "L1777",

@@ -71,6 +71,18 @@ function latestNote(lead) {
   return '';
 }
 
+// A plain cover note for jobs the writer has not reached yet, so no application waits on the free model's quota.
+// Facts only from config/profile.toml. Shlok reads it before pasting it.
+function genericNote(lead) {
+  const company = (lead.company || '').replace(/\s*\([^)]*\)/g, '').replace(/,?\s+(pvt\.?|private|ltd\.?|limited|inc\.?)\b\.?/gi, '').trim();
+  const role = (lead.title || 'this').split(/\s+[|\u2013\u2014]\s+/)[0].trim();
+  return `I'm applying for the ${role} role at ${company} because it sits where I've done my best work: turning plans `
+    + `into execution alongside a leadership team. At Ola Electric I worked directly with the CEO and COO, ran production `
+    + `planning over Rs 200 Cr of inventory and cut working capital by 40% in two and a half months. I also built a `
+    + `dispatch algorithm that took order-to-delivery from 32 days to 14. I'd bring the same ownership to ${company} `
+    + `from the first week.`;
+}
+
 export default async function LeadsPage({ searchParams }) {
   await requireSignIn();
   const { view } = await searchParams;
@@ -91,8 +103,10 @@ export default async function LeadsPage({ searchParams }) {
     connections: (lead.referrals || []).length, note: latestNote(lead),
     captured: Boolean(lead.first_contacted_at || lead.applied_at), speculative: lead.type === 'company',
     applyUrl: /^https?:\/\//.test(lead.apply_url || '') ? lead.apply_url : '',
-    canApply: lead.type === 'job' && lead.status === 'qualified' && lead.open !== false && !lead.applied_at
-      && /^https?:\/\//.test(lead.apply_url || ''),
+    canApply: lead.type === 'job' && ['qualified', 'to_approve', 'contacted', 'followup_due'].includes(lead.status)
+      && lead.open !== false && !lead.applied_at && /^https?:\/\//.test(lead.apply_url || ''),
+    coverNote: lead.apply?.answers?.['Why this role (cover note)'] || '',
+    genericNote: genericNote(lead),
     search: `${lead.company} ${lead.title} ${lead.location} ${lead.tier || ''}`.toLowerCase(),
   }));
   const readyToApply = rows.filter((r) => r.canApply).length;

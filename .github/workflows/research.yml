@@ -40,6 +40,11 @@ jobs:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
       REOON_API_KEY: ${{ secrets.REOON_API_KEY }}
+      MAILBOXVALIDATOR_API_KEY: ${{ secrets.MAILBOXVALIDATOR_API_KEY }}
+      VERIFALIA_CREDENTIALS: ${{ secrets.VERIFALIA_CREDENTIALS }}
+      ZEROBOUNCE_API_KEY: ${{ secrets.ZEROBOUNCE_API_KEY }}
+      EMAILABLE_API_KEY: ${{ secrets.EMAILABLE_API_KEY }}
+      DEBOUNCE_API_KEY: ${{ secrets.DEBOUNCE_API_KEY }}
       HUNTER_API_KEY: ${{ secrets.HUNTER_API_KEY }}
     steps:
       - uses: actions/checkout@v4

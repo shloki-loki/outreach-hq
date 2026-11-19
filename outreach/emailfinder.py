@@ -14,6 +14,7 @@ Port 25 is blocked on laptops and on GitHub's servers, so there is no direct SMT
 
 from __future__ import annotations
 
+import json
 import os
 import re
 import urllib.parse
@@ -180,6 +181,12 @@ class Quota:
         bucket = self._bucket(provider)
         return self.usage.get(bucket, 0) + self.spent.get(bucket, 0) < self.cfg[provider]["limit"]
 
+    def left(self, provider: str) -> int:
+        if not self.available(provider):
+            return 0
+        bucket = self._bucket(provider)
+        return self.cfg[provider]["limit"] - self.usage.get(bucket, 0) - self.spent.get(bucket, 0)
+
     def spend(self, provider: str) -> None:
         bucket = self._bucket(provider)
         self.spent[bucket] = self.spent.get(bucket, 0) + 1
@@ -227,8 +234,61 @@ def verify_reoon(email: str, key: str) -> str:
     return "catch_all" if status == "catch_all" else "unknown"
 
 
+def verify_zerobounce(email: str, key: str) -> str:
+    data = http_json("https://api.zerobounce.net/v2/validate?" + urllib.parse.urlencode({"api_key": key, "email": email, "ip_address": ""}),
+                     retries=1, timeout=40)
+    status = (data.get("status") or "").lower()
+    return {"valid": "valid", "invalid": "invalid", "spamtrap": "invalid", "abuse": "invalid", "do_not_mail": "invalid",
+            "catch-all": "catch_all"}.get(status, "unknown")
+
+
+def verify_mailboxvalidator(email: str, key: str) -> str:
+    data = http_json("https://api.mailboxvalidator.com/v2/validation/single?" + urllib.parse.urlencode({"email": email, "key": key, "format": "json"}),
+                     retries=1, timeout=40)
+    if data.get("error"):
+        raise ValueError(str(data["error"])[:200])
+    if str(data.get("is_catchall")).lower() == "true":
+        return "catch_all"
+    status = str(data.get("status")).lower()
+    return "valid" if status == "true" else "invalid" if status == "false" else "unknown"
+
+
+def verify_emailable(email: str, key: str) -> str:
+    data = http_json("https://api.emailable.com/v1/verify?" + urllib.parse.urlencode({"email": email, "api_key": key}),
+                     retries=1, timeout=40)
+    if data.get("accept_all"):
+        return "catch_all"
+    return {"deliverable": "valid", "undeliverable": "invalid"}.get((data.get("state") or "").lower(), "unknown")
+
+
+def verify_debounce(email: str, key: str) -> str:
+    data = (http_json("https://api.debounce.io/v1/?" + urllib.parse.urlencode({"api": key, "email": email}),
+                      retries=1, timeout=40).get("debounce") or {})
+    result = (data.get("result") or "").lower()
+    if "accept-all" in result or "accept all" in result:
+        return "catch_all"
+    return "valid" if result == "safe to send" else "invalid" if result in ("invalid", "bounce") else "unknown"
+
+
+def verify_verifalia(email: str, credentials: str) -> str:
+    """credentials = 'username:password' of a Verifalia (sub-)account; the free plan allows 25 a day."""
+    import base64
+    auth = base64.b64encode(credentials.encode()).decode()
+    body = json.dumps({"entries": [{"inputData": email}]}).encode()
+    data = http_json("https://api.verifalia.com/v2.6/email-validations?waitTime=30000", data=body, retries=1, timeout=45,
+                     headers={"Authorization": f"Basic {auth}", "Content-Type": "application/json"})
+    entry = ((data.get("entries") or {}).get("data") or [{}])[0]
+    if (entry.get("status") or "") in ("ServerIsCatchAll",):
+        return "catch_all"
+    return {"Deliverable": "valid", "Undeliverable": "invalid"}.get(entry.get("classification") or "", "unknown")
+
+
+# Every verifier with a key and free quota left takes part. Each call goes to the one with the most quota left
+# today, so the free allowances are used side by side instead of one after another.
 VERIFIERS: list[tuple[str, Callable[[str, str], str]]] = [
-    ("quickemailverification", verify_qev), ("reoon", verify_reoon), ("hunter", verify_hunter)]
+    ("mailboxvalidator", verify_mailboxvalidator), ("verifalia", verify_verifalia), ("zerobounce", verify_zerobounce),
+    ("emailable", verify_emailable), ("debounce", verify_debounce), ("quickemailverification", verify_qev),
+    ("reoon", verify_reoon), ("hunter", verify_hunter)]
 
 
 def hunter_find(first: str, last: str, domain: str, key: str) -> tuple[str | None, int, str]:
@@ -253,7 +313,7 @@ def apollo_match(first: str, last: str, domain: str, key: str) -> tuple[str | No
 
 def verify(email: str, quota: Quota) -> tuple[str, str]:
     """Returns (valid|invalid|catch_all|unknown, provider used or '')."""
-    for provider, check in VERIFIERS:
+    for provider, check in sorted(VERIFIERS, key=lambda pc: -quota.left(pc[0])):
         if not quota.available(provider):
             continue
         quota.spend(provider)

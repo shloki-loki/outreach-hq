@@ -87,3 +87,87 @@ class CampaignTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class FollowupAndJobTemplateTests(unittest.TestCase):
+    def setUp(self):
+        temp = tempfile.TemporaryDirectory()
+        self.addCleanup(temp.cleanup)
+        for target in (patch.object(store, "DATA_DIR", Path(temp.name) / "data"), patch.object(store, "sync", lambda *a, **k: None)):
+            target.start()
+            self.addCleanup(target.stop)
+        self.real_load = campaign.load
+
+    def activate(self, template_id):
+        template = dict(self.real_load(template_id), active=True)
+        loader = patch.object(campaign, "load", lambda i: template if i == template_id else self.real_load(i))
+        loader.start()
+        self.addCleanup(loader.stop)
+
+    def sent(self, mid, lead_id, days_ago, kind="cold", contact="C1", to="a@co1.com", **kw):
+        return dict(id=mid, lead_id=lead_id, contact_id=contact, to=to, to_name="Asha Rao", kind=kind, subject="Ops at Co1",
+                    status="sent", sent_at=(now() - timedelta(days=days_ago)).isoformat(), message_id=f"<{mid}@x>", **kw)
+
+    def test_followups_queue_in_thread_and_stop_on_reply(self):
+        self.activate("followup-v1")
+        store.save("leads", {"leads": [lead(1, [person("C1", "Asha Rao", "a@co1.com")]),
+                                       lead(2, [person("C1", "Ravi K", "r@co2.com")], replied_at="2026-11-18T10:00:00+05:30"),
+                                       lead(3, [person("C1", "New One", "n@co3.com")])]})
+        store.save("suppression", {"emails": {}})
+        store.save("messages", {"messages": [self.sent("M0001", "L0001", 9), self.sent("M0002", "L0002", 9, to="r@co2.com"),
+                                             self.sent("M0003", "L0003", 1, to="n@co3.com")]})
+        result = campaign.queue_followups("followup-v1")
+        self.assertEqual(result["queued"], 1)                         # replied lead and 1-day-old thread skipped
+        follow = store.load("messages")["messages"][-1]
+        self.assertEqual((follow["kind"], follow["thread_parent"], follow["status"]), ("followup1", "<M0001@x>", "approved"))
+        self.assertTrue(follow["subject"].startswith("Re: ") and follow["body"].startswith("Hi Asha,"))
+        self.assertEqual(campaign.queue_followups("followup-v1")["queued"], 0)   # already queued for that person
+
+    def test_second_followup_after_first(self):
+        self.activate("followup-v1")
+        store.save("leads", {"leads": [lead(1, [person("C1", "Asha Rao", "a@co1.com")])]})
+        store.save("suppression", {"emails": {}})
+        store.save("messages", {"messages": [self.sent("M0001", "L0001", 30), self.sent("M0002", "L0001", 12, kind="followup1")]})
+        campaign.queue_followups("followup-v1")
+        follow = store.load("messages")["messages"][-1]
+        self.assertEqual(follow["kind"], "followup2")
+        self.assertIn("Co1 Technologies", follow["body"])
+
+    def test_inactive_templates_queue_nothing(self):
+        self.assertEqual(campaign.queue_followups("followup-v1")["queued"], 0)
+        self.assertEqual(campaign.queue("job-apply-v1")["queued"], 0)
+
+    def test_job_template_targets_qualified_unapplied_jobs_once(self):
+        self.activate("job-apply-v1")
+        job = lambda i, **kw: lead(i, kw.pop("contacts"), type="job", source="linkedin_post", stage=kw.pop("stage", "qualified"),
+                                   title="Strategy & Ops (Founder's Office) | Bengaluru", **kw)
+        store.save("leads", {"leads": [
+            job(1, contacts=[person("C1", "", "careers@co1.com", role="recruiter")]),
+            job(2, contacts=[person("C1", "Ravi K", "r@co2.com", role="hiring_manager")], applied_at="2026-11-18T10:00:00+05:30"),
+            job(3, contacts=[person("C1", "Mia S", "m@co3.com", role="hiring_manager")], stage="rejected"),
+            job(4, contacts=[person("C1", "Om P", "o@co4.com", role="hiring_manager")]),
+        ]})
+        store.save("suppression", {"emails": {}})
+        store.save("messages", {"messages": [self.sent("M0001", "L0004", 2, to="other@co4.com", contact="C9")]})
+        campaign.queue("job-apply-v1")
+        queued = [m for m in store.load("messages")["messages"] if m.get("template") == "job-apply-v1"]
+        self.assertEqual([m["to"] for m in queued], ["careers@co1.com"])     # applied, rejected, already emailed skipped
+        self.assertTrue(queued[0]["body"].startswith("Hi there,"))
+        self.assertEqual(queued[0]["subject"], "Application: Strategy & Ops (Founder's Office)")
+        self.assertFalse(queued[0]["speculative"])
+
+
+class VerifierRotationTest(unittest.TestCase):
+    def test_most_quota_left_goes_first_and_used_up_ones_are_skipped(self):
+        from outreach import emailfinder
+        temp = tempfile.TemporaryDirectory()
+        self.addCleanup(temp.cleanup)
+        with patch.object(store, "DATA_DIR", Path(temp.name) / "data"), \
+                patch.dict("os.environ", {"ZEROBOUNCE_API_KEY": "z", "MAILBOXVALIDATOR_API_KEY": "m"}, clear=False):
+            quota = emailfinder.Quota()
+            quota.usage[quota._bucket("mailboxvalidator")] = 290        # used up this month
+            calls = []
+            fake = [(name, (lambda n: lambda e, k: calls.append(n) or "valid")(name)) for name, _ in emailfinder.VERIFIERS]
+            with patch.object(emailfinder, "VERIFIERS", fake):
+                self.assertEqual(emailfinder.verify("a@b.com", quota), ("valid", "zerobounce"))
+            self.assertEqual(calls, ["zerobounce"])

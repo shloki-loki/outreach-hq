@@ -1,7 +1,8 @@
 'use client';
 
 import Link from 'next/link';
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useTransition } from 'react';
+import { markApplied } from '@/app/actions';
 
 const TOP = 75;
 
@@ -22,13 +23,32 @@ const VIEWS = [
 export default function LeadList({ rows, initialView = 'play' }) {
   const [view, setView] = useState(initialView);
   const [query, setQuery] = useState('');
+  const [applied, setApplied] = useState(() => new Set());
+  const [status, setStatus] = useState('');
+  const [pending, startTransition] = useTransition();
+
+  async function copyNote(r) {
+    const text = r.coverNote || r.genericNote;
+    try { await navigator.clipboard.writeText(text); setStatus(`Cover note for ${r.company} copied${r.coverNote ? '' : ' (plain version)'}.`); }
+    catch { setStatus('Could not copy automatically; open the lead to copy it.'); }
+  }
+
+  function done(r) {
+    startTransition(async () => {
+      const result = await markApplied(r.id);
+      if (result && result.ok === false) { setStatus(result.error || 'Could not save.'); return; }
+      setApplied((prev) => new Set(prev).add(r.id));
+      setStatus(`Marked ${r.company} as applied.`);
+    });
+  }
   const counts = useMemo(() => Object.fromEntries(VIEWS.map((v) => [v.id, rows.filter((r) => v.test(r.status, r)).length])), [rows]);
   const shown = useMemo(() => {
     const active = VIEWS.find((v) => v.id === view) || VIEWS[0];
     const needle = query.trim().toLowerCase();
-    const list = rows.filter((r) => active.test(r.status, r) && (!needle || r.search.includes(needle)));
+    const list = rows.filter((r) => active.test(r.status, r) && (!needle || r.search.includes(needle))
+      && !(active.id === 'apply' && applied.has(r.id)));
     return active.id === 'apply' ? [...list].sort((a, b) => b.score - a.score) : list;
-  }, [rows, view, query]);
+  }, [rows, view, query, applied]);
 
   return (
     <>
@@ -43,6 +63,7 @@ export default function LeadList({ rows, initialView = 'play' }) {
         <input className="search" type="search" placeholder="Search company, role, city" value={query}
           onChange={(event) => setQuery(event.target.value)} aria-label="Search leads" />
       </div>
+      <p role="status" aria-live="polite" className="muted">{status}</p>
       {shown.length === 0 ? (
         <p className="empty">No leads in this view{query ? ' match that search' : ''}.</p>
       ) : (
@@ -75,7 +96,17 @@ export default function LeadList({ rows, initialView = 'play' }) {
               <div className="lead-side">
                 <span className="score" title="Fit score out of 100">{r.score}</span>
                 <span className={`pill tone-${r.tone}`}>{r.statusLabel}</span>
-                {r.canApply ? <a className="button primary" href={r.applyUrl} target="_blank" rel="noreferrer">Apply</a> : null}
+                {r.canApply && !applied.has(r.id) ? (
+                  <>
+                    <a className="button primary" href={r.applyUrl} target="_blank" rel="noreferrer">Apply</a>
+                    <button type="button" className="button" onClick={() => copyNote(r)}
+                      title={r.coverNote ? 'Copy the cover note written for this job' : 'Copy a plain cover note (the written one is not ready yet)'}>
+                      {r.coverNote ? 'Copy note' : 'Copy plain note'}
+                    </button>
+                    <button type="button" className="button go" disabled={pending} onClick={() => done(r)}>Mark applied</button>
+                  </>
+                ) : null}
+                {applied.has(r.id) ? <span className="tag">Applied</span> : null}
               </div>
             </li>
           ))}

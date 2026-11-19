@@ -207022,15 +207022,15 @@
    "key": "amazon|program manager swa claims|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.in",
+   "company_url": "https://www.amazon.in",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Program Manager, SWA Claims",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492073696",
    "source_url": "https://in.linkedin.com/jobs/view/program-manager-swa-claims-at-amazon-4492073696",
@@ -207046,7 +207046,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Description\n Amazon is looking for a motivated individual for the profile of Program Manager I for its Amazon Shipping / Ship with Amazon (SWA) Program team. The goal is to develop easy-to-use, reliable and transparent transportation services that beat all existing shipping alternatives for our customers. In doing this, Amazon Shipping is deeply studying customer shipping needs and building innovative, market-leading solutions that will organically attract customers towards our services. To help us succeed in this large endeavor, we are looking for dynamic, self-starting and entrepreneurial individual who will organize, execute and deliver key features to the Amazon Shipping portfolio.\nKey job responsibilities\n Define, design, launch and manage new products and programs for improving experience and reducing reimbursements within the Amazon Shipping program and thereby enabling scale.\n Gather requirements and conceptualize solutions to solve a business and shipper problems and work with key stake holders across various functions to define and launch the product/program.\n Monitor key metrics on the program and work with all involved stakeholder teams to drive necessary action with field teams, business ops, finance, sales and leadership teams, to achieve goals. Manage Daily/weekly performance, build mechanisms to detect and drive down defects and work on continuous improvements for all processes.\n Launch and expand the program as per the business requirements and build/own all the long term planning, program and product roadmap for Amazon Shipping. Work extensively on industry bench marking, do shipper studies and work with Commercial team to understand the requirements of our prospective Shippers and work on building these capabilities.\n Use customer and market feedback, competitive analysis and bench marking, and business metrics to make informed decisions.\n Setup and manage end-to-end operational, performance measurement and customer satisfaction related processes for all shippers with whom Ship with amazon is tied up.\n A day in the life\nThis role will require exceptional communication and influencing skills, and will work to influence stakeholders across shippers, Business, Operations, Sales and Tech teams. This role will require the ability to work effectively in a fast paced, startup environment, partnering with others as needed, and the ability to exercise sound judgment solving novel problems without clear direction from leadership. The successful candidate has demonstrated the ability to solve complex logistics challenges and possesses bias for action and deliver results in the role.\n About The Team\n Amazon Shipping is the externalization arm for generating revenue by serving external shippers. We are leveraging our existing transportation network which serves a.in customers and use its infrastructure and capacity to serve external shippers who don't use a.in platform in anyway.\n Basic Qualifications\n 3+ years of program or project managem",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -207061,8 +207061,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 52,
+    "total": 58,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -207072,15 +207072,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Program Manager, SWA Claims at Amazon in Bengaluru, but asks 3+ years experience while you have 1.3 years.",
+    "fit_notes": "The posting asks for \"3+ years of program or project management experience\", \"3+ years of working cross functionally with tech and non-tech teams experience\", and \"3+ years of defining and implementing process improvement initiatives using data and metrics experience\". Shlok has about 1.3 years of total experience. While his experience at Ola Electric with S&OP planning ([sop]) and logistics execution ([ceo-coo]) demonstrates cross-functional execution and data-driven process improvement, the 3+ year minimum experience requirement is a strict mismatch for his current tenure.",
+    "pay_notes": "Pay was not stated in the posting, and no specific India salary figure was found in the evidence for this role.",
+    "culture_notes": "No specific culture ratings or employee review counts were found in the provided evidence for this specific team.",
+    "hook": "Amazon recently announced a $48 billion investment plan in India by 2030, scaling its local operations and transportation network.",
+    "hook_source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5",
+    "researched_at": "2026-11-19T13:31:13+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdFh3U0hRSG94d05zeVBjNS13dzNJbWZ1Mml3TTFnd1NfbHBmdWY1UjV3V3ZKbUhudzBKMmxXM0hmZ29qLTFNSmlORER4d2dKVW1HTGhXZXV5MWFfRjRiaGt3c3ZFOEJCbTh0UUhieWJ3MzZ2Z1HSAXtBVV95cUxNbWw4N1JvSTlyRnppc1JXQlRlbHdDS0xqLTcxZm9QdXlmYUNfNVE5UFp2eFk0VGI5WE5nSjl4eDJXN1Rna3BVdnJEQkJicWVJTEpEN3ltZG9RMTJ1QzZ3eURmMDVxNjR2RWxvY0J3MFVMbVR1SzJZMHR2ZG8?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbTVLNjFBU3J5ZTFHR2FjUXpHVzlCdk9kVFZKT0xacUVRN3Z3YWhFdDd6MTY4OWhtM2tDeVVnYTRvNnVXUDNqV2loNTlFWDc3VEhvQlNVclN1WV9qeE56dXpOOVoxX3lycmFNMmg5OXl1U0JSYXpwLWNPODFyTHVObEUtaEFUMzUzdzM4SUktckQ5cndBU2trMTg5b3AyS2ZYNmJXZGNpRVV4Q0ktMENYdDlwY3JoUdIBuwFBVV95cUxOMHZObldxYU9wUV9VdUFJY24xbGtLMzUwY2F1bUk5XzR4VUxwenFJTjc5YU1yZ2Y3ZHJUV2pUVXZvMlFnVy1GVDRZU2gyUTcybkdOVVdDVzZzRGp0cGx6ZE9Oa1lIM1pDWnk4a0lrVFllb0RlU3FnTzlQQ1pPNlpVS3NyRk4xbzJGWXZ5SG5LdDgxQzRRY3NGLTNqdlZlUjV2V0R5WVpfZWVSVmNNeTZzZVN4TlpFcDBFZFJv?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Jeff Bezos Donates $198.9 Million In Amazon Shares, SEC Filing Shows - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZEs5ZjNHQVVnQlo0WEYtQTJiT2RaQkkxenM0SWJ3M2Jvc3l0SlBPOWVuY01ZblY1b0NBNzhJdU5ZR0NhWkVQSkpNVE5pb0V5WGlkTHhpSlVFNXgzSHFrV0I1YXVsMDl1U2kwd0RabWFIZTVEZ0l5RDVSN2w3Wkp5NU9UdVNEVGpkNGx5ZEZXRS1Fdm9CbFBuYzg5TmNNamVKQjdvYmlFR3l3bEQ3UGltZmVLdWZDZTJxQWcybg?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -207104,14 +207145,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T13:31:13+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 58: rejected (Amazon's Program Manager role requires 3+ years of experience, whereas Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-19T13:31:13+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Amazon's Program Manager role requires 3+ years of experience, whereas Shlok has about 1.3 years."
   },
   {
    "id": "L1746",

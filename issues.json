@@ -319,7 +319,7 @@
    "opened_at": "2026-11-19T10:51:14+05:30",
    "last_seen": "2026-11-19T10:51:14+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: same as I0020. Every draftable lead has only guess or catch-all addresses and none score 80+, and the Reoon free daily quota is spent, so send-track correctly drafts nothing. Remedy: wait for the Reoon quota reset and re-run find-email --recheck, or fill the Google Forms leads by hand.",
    "resolved_at": null
   },
   {

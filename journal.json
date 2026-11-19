@@ -3023,6 +3023,15 @@
    "title": "Work W0021: claim",
    "detail": "",
    "ref": "W0021"
+  },
+  {
+   "id": "J0337",
+   "at": "2026-11-19T21:24:55+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: send-track 19 Nov: no draftable leads",
+   "detail": "Cause: same as I0020. Every draftable lead has only guess or catch-all addresses and none score 80+, and the Reoon free daily quota is spent, so send-track correctly drafts nothing. Remedy: wait for the Reoon quota reset and re-run find-email --recheck, or fill the Google Forms leads by hand.",
+   "ref": "I0023"
   }
  ]
 }

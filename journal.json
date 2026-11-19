@@ -3050,6 +3050,15 @@
    "title": "Work W0021: done",
    "detail": "rejected: research score 54 under 65 threshold (FP&A software, moderate fit)",
    "ref": "L0374"
+  },
+  {
+   "id": "J0340",
+   "at": "2026-11-19T21:25:07+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "Reoon API key stored in plain text in issue I0010 detail",
+   "detail": "The detail of I0010 (and the data branch git history) contains a full Reoon API key inside the logged verification URL. The data branch is on GitHub, so anyone who can read the repo can read the key.",
+   "ref": "I0025"
   }
  ]
 }

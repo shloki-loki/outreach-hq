@@ -335,6 +335,20 @@
    "count": 1,
    "remedy": "Cause: LinkedIn rate-limits plain fetches (429) and the Mac's git fetch of the data branch stalls (see I0015). Both are transient and nothing was lost. Remedy: retry with backoff in store._git (coding session); read LinkedIn through the browser if 429 persists.",
    "resolved_at": null
+  },
+  {
+   "id": "I0025",
+   "key": "supervisor:Reoon API key stored in plain text in issue I0010 detail",
+   "agent": "supervisor",
+   "severity": "warn",
+   "title": "Reoon API key stored in plain text in issue I0010 detail",
+   "detail": "The detail of I0010 (and the data branch git history) contains a full Reoon API key inside the logged verification URL. The data branch is on GitHub, so anyone who can read the repo can read the key.",
+   "status": "open",
+   "opened_at": "2026-11-19T21:25:07+05:30",
+   "last_seen": "2026-11-19T21:25:07+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

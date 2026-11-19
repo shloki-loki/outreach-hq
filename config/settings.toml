@@ -8,8 +8,8 @@ timezone = "Asia/Kolkata"
 
 [sending]
 new_emails_per_day = 70       # first-touch cold emails: 60 founder template (speculative cap) + 10 for jobs
-followups_per_day = 10
-max_per_run = 6               # one sender run never sends more than this
+followups_per_day = 70       # generic follow-up template for job and founder emails (2026-11-19)
+max_per_run = 10              # one sender run never sends more than this (Mac runs every 20 min while awake)
 gap_seconds_min = 60          # human-like pause between two sends
 gap_seconds_max = 120
 window_start = "08:00"        # emails only go out inside this window (IST), daily
@@ -55,6 +55,35 @@ limit = 90
 env = "REOON_API_KEY"
 period = "day"
 limit = 18
+
+# More free verifiers, used side by side (whichever has the most free quota left goes first). Each is used
+# only when its key is set. Limits sit just under each free plan (checked 2026-11-19 from comparison sites;
+# confirm on the vendor's page when signing up). One-time allowances use a long period so they are not
+# re-counted each month.
+[providers.mailboxvalidator]
+env = "MAILBOXVALIDATOR_API_KEY"
+period = "month"
+limit = 290
+
+[providers.verifalia]
+env = "VERIFALIA_CREDENTIALS"      # "username:password" of a Verifalia user
+period = "day"
+limit = 24
+
+[providers.zerobounce]
+env = "ZEROBOUNCE_API_KEY"
+period = "month"
+limit = 95
+
+[providers.emailable]
+env = "EMAILABLE_API_KEY"
+period = "month"
+limit = 240                        # one-time 250 at signup; remove the key once it says the credit is used
+
+[providers.debounce]
+env = "DEBOUNCE_API_KEY"
+period = "month"
+limit = 95                         # one-time 100
 
 [providers.apollo]
 env = "APOLLO_API_KEY"

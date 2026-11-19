@@ -1,0 +1,24 @@
+# Generic follow-ups for every sent cold email (job emails and the founder list), sent in the same thread.
+# Timing: settings.toml [followups] (first after 4 business days of silence, second 7 business days later).
+# Stops on a reply, bounce or closed lead. Text approved by Shlok in chat on 2026-11-19; sent without a per-email click.
+
+id = "followup-v1"
+audience = "followups"
+active = true
+approved_by = "Shlok, in chat on 2026-11-19"
+
+body_followup1 = """Hi {first_name},
+
+Just bringing this back to the top of your inbox in case it got buried. Happy to share more about the work I did at Ola Electric, or keep it to a quick 15-minute call if that's easier.
+
+Would that be useful?
+
+Shlok
+"""
+
+body_followup2 = """Hi {first_name},
+
+I know things get busy, so this is my last note on this. If the timing isn't right, no worries at all. If something opens up at {company} later, I'd be glad to hear from you.
+
+Shlok
+"""

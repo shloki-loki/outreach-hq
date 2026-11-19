@@ -1,0 +1,23 @@
+# Application email to the person behind a qualified job (hiring-post author, hiring manager, founder or
+# recruiter with a trusted address), for jobs not yet applied to or emailed. At most 2 people per job.
+# Text approved by Shlok in chat on 2026-11-19; sent without a per-email click. Once on, queued already approved, like founder-v1.
+
+id = "job-apply-v1"
+audience = "jobs"
+active = true
+approved_by = "Shlok, in chat on 2026-11-19"
+per_day = 30
+per_lead = 2
+
+subject = "Application: {role}"
+
+body = """Hi {first_name},
+
+I saw that you're hiring for the {role} role at {company}, and I'd like to apply.
+
+I'm Shlok, an IIT Guwahati grad who spent a year in strategy and operations at Ola Electric, working directly with the CEO and COO. I ran production planning over Rs 200 Cr of inventory and cut working capital by 40% in two and a half months, and I built a dispatch algorithm that took order-to-delivery from 32 days to 14.
+
+My resume is on my portfolio, linked below. Could we find 15 minutes this week to talk?
+
+Shlok
+"""

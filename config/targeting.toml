@@ -75,7 +75,7 @@ stretch = ["\\bsenior\\b", "\\bsr\\.?\\b", "\\blead\\b", "\\bgroup\\b", "\\bii\\
 
 [scoring]
 keep_threshold = 45       # rule score at or above this becomes a lead for the scout agent to research
-qualified_threshold = 65  # final score (rules + research) at or above this is shown as Qualified
+qualified_threshold = 60  # final score (rules + research) at or above this is shown as Qualified (65 -> 60 on 2026-11-19, his call to widen)
 
 # Searches run against LinkedIn's public (logged-out) job search.
 [linkedin]

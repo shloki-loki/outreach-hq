@@ -26579,15 +26579,15 @@
    "key": "innefu|chief of staff|india",
    "type": "job",
    "company": "Innefu",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "innefu.com",
+   "company_url": "https://www.innefu.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Chief of Staff",
    "tier": "1 - Strategy & Ops",
    "location": "Delhi",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "447984",
    "source_url": "https://www.instahyre.com/job-447984-chief-of-staff-at-innefu-delhi/",
@@ -26618,8 +26618,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -26628,15 +26628,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Chief of Staff at Innefu Labs, but asks 5-7 years of experience which is well above your 1.3 years.",
+    "fit_notes": "The posting asks for '5-7 years of overall professional experience, with substantial experience in a founder's office, chief of staff, or similar generalist role at a funded startup' and 'Demonstrated ownership of at least one ₹10 crore+ cross-functional program' and 'Experience establishing and running leadership operating rhythms... for at least one year'. Shlok has about 1.3 years of total experience, which makes this a severe stretch. While his work owning S&OP production planning over Rs 200 Cr of inventory [sop] and partnering with Ola Electric's COO and CEO on fulfillment operations [ceo-coo] aligns with the scale requested, the years of experience requirement is a hard mismatch.",
+    "pay_notes": "Pay not stated in the posting, and no specific salary figures were found in the company research evidence.",
+    "culture_notes": "Glassdoor ratings and review counts were not found in the posting or evidence. Innefu Labs is a Series B funded company ($30 million from Panthera Growth Partners) building sovereign AI for national security.",
+    "hook": "Congratulations on Innefu's $30 million Series B funding from Panthera Growth Partners to scale your sovereign AI national security platforms.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTzVPak1WMmlrSGtvcGtVeGthVk1GbGNQcXJnWlY4aURhYWg1bFJRX19heEw2cHdZaHBYMjRkb295OUY1MF9mRXpCZkd5QU5LbVFXdjBfUTVjYkpTZ3dwYmcyYkdXMWRzZXRYLVhTSFBsN3g1Y2phYmRNWmdUclRGYkkyUThoOGxTU3k5Nm93ckNlMjU5Qk90bmFuQjZwRUlERkFDVndVOWloV0FSRjZpV19HVVJTOVQ1Z2tzUW9lZko1TVpGWUkwWEdVcDA2WkdLMVpVTWdRMHQxVzhIX2lxdml6cG1TMkFTbHZpX2wwTHFGblXSAfgBQVVfeXFMTTFlM2x0ZjhQYjJvVy1zZUVXeU1Qd0syLWRadDRMTkxfdG85X1BJdG9GZWNPZllBWHFDbl92Znd0bnBhMkVDTUxHU1hqUzQtTVdVeWJQVmhiYzdqU05UVXZqLTJuQWM0VW5QZ3E2dFR0R0ZLZEk5enAtcGNRUThjYmxvWTU1QU42QW1LSHQ0eFRuY1VoZXBETnVTcGI4NzRKanBtS2t6VG94VzZsX0JZWFp1UUttbUVMc01DSkhiWnlIWTVWZVpHRmI0OWhBTG5meHBQVDNUV2FfT3ZJSVpUR3l6UzhOTm90ejI5RnltTW42eUdERUFveXc?oc=5",
+    "researched_at": "2026-11-19T13:34:46+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Panthera invests in AI security startup Innefu Labs - VCCircle",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdWhOQkVvdGVkV0dVdlBaUGtEeE5majlyOVdqMDVJY2JlSmtSdDFkb2x5RFhWRXZKYnNzSUJvTWVCSURKclRVOThuYWtsOHdwdjVQYW83Yzhzb1ZPWGlmM0FmT3plZTVxMDA0azByZm5DZk1qQkxMYTJhaVBUQXduWdIBiAFBVV95cUxNOGE3WjVsY0JKaDZRbm02RVdLeUs0S3Bla1dyWDZiendIZDdtRktqemRfaFVzV1ZZUThiMjR2dGdLc0wyWHdwcnNoYnJRTm05cGFmQ25tT2V0TUFndnZPMmpDNTU3c3NoUTVabWUyQllPOUloUlBQQ0hQbW94T1ZoZlEzdDZYcHVa?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Innefu Labs: India’s Palantir Building the Sovereign AI Backbone for National Security - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGlmdEJKTkRSbXBWMXlkeWdEekR0YWtHek8zLWRDWEdSTUVGNEItazdqUzJRRnJYZFp2Q0xZdFFWdmJLRkVtdWtuZS1pYVpnZFUySFl3Y1lxVFRfWTJRQWR5ZlhWX3dhMWNuc3hCZm1BZGlBc3pOaFE5MGRVaXpXWHRoZ2w5Q1BodlFoTUZnNkFjOFQ0aDA4OWd6Zm82ekV3NWpTMnRkZkJqa0hKM216RWExWlM5bm9VN2RKdkJUekQxNE5yYzJzS2pPdzjSAdIBQVVfeXFMTU9vbEI3ckkwQ09wdzJubUlzVHlPdlpXZl9QNzY0OUcyWnhxVFVqd2FHcll3ZmdKaU42c0J6SzhRcU8waXZoR2xzSl9OOVQ3QU5jd1FXeDlBeDZOSnhBMGVsSlZ2cTFZbGFkd1A3TkVFWFh6dW1SeHAwRnI0QTRwaUJlLXlsSng2TzhWM0djME9tQk8xa2thMlRiTHVmZUM5ejhFWmFEbUltMm5DaC1RNERpQWtkcFBINV9XZ1FuYklrNFNtczRnWFhXZFZ4N0lwY2tR?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Innefu Labs raises $30 million from Panthera Growth Partners ahead of planned IPO - ET Enterprise AI",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTzVPak1WMmlrSGtvcGtVeGthVk1GbGNQcXJnWlY4aURhYWg1bFJRX19heEw2cHdZaHBYMjRkb295OUY1MF9mRXpCZkd5QU5LbVFXdjBfUTVjYkpTZ3dwYmcyYkdXMWRzZXRYLVhTSFBsN3g1Y2phYmRNWmdUclRGYkkyUThoOGxTU3k5Nm93ckNlMjU5Qk90bmFuQjZwRUlERkFDVndVOWloV0FSRjZpV19HVVJTOVQ1Z2tzUW9lZko1TVpGWUkwWEdVcDA2WkdLMVpVTWdRMHQxVzhIX2lxdml6cG1TMkFTbHZpX2wwTHFGblXSAfgBQVVfeXFMTTFlM2x0ZjhQYjJvVy1zZUVXeU1Qd0syLWRadDRMTkxfdG85X1BJdG9GZWNPZllBWHFDbl92Znd0bnBhMkVDTUxHU1hqUzQtTVdVeWJQVmhiYzdqU05UVXZqLTJuQWM0VW5QZ3E2dFR0R0ZLZEk5enAtcGNRUThjYmxvWTU1QU42QW1LSHQ0eFRuY1VoZXBETnVTcGI4NzRKanBtS2t6VG94VzZsX0JZWFp1UUttbUVMc01DSkhiWnlIWTVWZVpHRmI0OWhBTG5meHBQVDNUV2FfT3ZJSVpUR3l6UzhOTm90ejI5RnltTW42eUdERUFveXc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Innefu Labs raises $30M in Series B from Panthera Growth Partners - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ09XT3BHeWQ2eFp6VkpMWFM1RVRMRlFuaGJWMUV5SU1mWEtSZENVNWtsTTh6OXFYeUdkNndHWTRMOHE5VXU0d0lfQlZIbVhKZ05Zc3BYOVRCcW5MVTBpbXlVTmFZUTd3ZTBUN3ZyUlhnUjRvZkpqdkE4M1o2U2lhdG5Cd284a0VzRXFFQTN5SXE1UktSbm9TcFpzbDZPNm1DNjFJ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "ISS World MEA 2026: Innefu Labs to Showcase AI-Powered National Security Platforms - Raksha Anirveda",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelJEbkE5MmJ1RVh6TVUtRVBWNWc1czhnQUM5SXFLaXZuaHNjRzNaWjcycFd4V29kalVzd0JOXy1pNGl3T1p5Z2VjUy1FOWNTN3lsTkxEWlFCeF9xWnZva012TTlzaWFWMWNpR2gwSGIzSVhJZlhkZFFXNDc5TVRuY3dwT2REWmNKTVhUUmpSMmVTNnR2aHFpSkU0VVRmOV9OSWM4b3UwclVFcXVZVlE4?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Innefu Labs to Showcase AI-Powered Security Platforms at ISS World MEA 2026 - Machine Maker",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGtCRWlid19Ed2xzdV8tNl9XN2l6MWIyMTJDUkxsZWgyRDJ3bm95QjF0Z1U3NkJONnp6UUdxRGFEcGFZbEFEV2ZPYXM3VlRLMm5SQndJM1c3OWZlVmlpYTdoelpJT3JBWFFjN0toRXJacXZvcjhoaFBRMmI5dEZ1OWMxOEpWVnkxSmFfN1RyZzFXc1NNM1lwb3c3aUJnc2VqaThzRnF1RHNGSVc3dnc?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -26660,9 +26701,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-19T13:34:46+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The posting asks for 5-7 years of overall professional experience, while Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-19T13:34:46+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
@@ -26672,7 +26719,8 @@
     "at": "2026-11-18T23:20:14+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting asks for 5-7 years of overall professional experience, while Shlok has about 1.3 years."
   },
   {
    "id": "L0213",

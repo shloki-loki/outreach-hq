@@ -639,6 +639,34 @@
    "thread_parent": null,
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0025",
+   "lead_id": "L0036",
+   "contact_id": "C2",
+   "to": "hello@carbontrail.net",
+   "to_name": "",
+   "kind": "followup1",
+   "subject": "Re: Founder's Office role at Carbon Trail",
+   "body": "Hi Carbon Trail team,\n\nOne more thing that may matter for the supply chain side of your work: I implemented SAP MRP from scratch at Ola Electric, which cut raw material inventory by 25%. I could help turn messy inventory data into a steady weekly rhythm for your team. Is the Founder's Office seat still open?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "published",
+   "speculative": false,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-19T11:40:42+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179457025389.2264.17274780725826037803@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

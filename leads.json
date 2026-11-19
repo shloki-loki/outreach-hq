@@ -202343,15 +202343,15 @@
    "key": "greengoldanimation|chief of staff ceos office|india",
    "type": "job",
    "company": "Green Gold Animation Pvt Ltd",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "greengold.tv",
+   "company_url": "https://www.greengold.tv",
    "company_linkedin": "https://in.linkedin.com/company/greengoldtv",
    "company_note": "",
    "title": "Chief of Staff – CEO’s Office",
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490854706",
    "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-%E2%80%93-ceo%E2%80%99s-office-at-green-gold-animation-pvt-ltd-4490854706",
@@ -202382,8 +202382,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 60,
+    "total": 61,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -202393,15 +202393,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Chief of Staff at Green Gold Animation, asks 3-5 yrs and consulting/IB experience you do not have.",
+    "fit_notes": "The posting asks for '3–5 years of experience in investment banking, management consulting, CEO’s office, strategy, corporate finance, business planning, investor relations or a high-growth startup environment.' Shlok has ~1.3 years of experience and no consulting or MBA background, which is a gap. While his experience at Ola Electric working with the C-suite maps well to executive office operations ([ceo-coo]), the experience requirement is a stretch turning into a mismatch, and the pay is completely unstated with no evidence meeting his Rs 24.5 LPA floor.",
+    "pay_notes": "Pay not stated in the posting, and no salary figures were found in the company research evidence.",
+    "culture_notes": "Company headcount, ratings, and employee reviews were not found in the search evidence.",
+    "hook": "I noticed Green Gold Animation recently expanded its presence with new character-themed cafes and streaming offerings like Green Gold TV.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmgyWjVpNXYtRDdUd1RjTS1KZVVaOVI1WDNjdkk4d09EYUhTZVEzcW1wQmp2QlBUV1g3Wmc1OTJFcmJLbDBEVnpvTmxTeEQ5U0RiU1dvMTg5LUx1Q21nZHlMeHQ5UWxtYW82SXA4T1gwTDlCTnp5eWV3T0R5dE03c3ctZlF6TllhZ0JtUHdkaVFSYnVwYU1FV0RDZkxJckVZbkE4dVFYMDF0N2NDcER5VkVjbWkydTVfWHc4ck5LSEtrOTDSAcsBQVVfeXFMTWU2dHB0TEtwYVQ3TlBOUUdWWHh0VUVoZ0xyWEVSSXM1VW9uWHAyS3p3UGNqaFhtWXhVbGxMeU1DLUdwTUI1WEdiYy02S2xteElfUW5JekJJSlpIMFg3M1cwaVY4UUlKMU5vaHhBMTlnVHp5bHU0ZHlRS0ZNckNXNnlpRy1HaS1BbjZOMnhHand1Z3ItcVlucTVUYUw5RXBHb1J2RWRYWDl2VUZ0Um5McTQwNmtFLXFrNFA2TTBmQ0xQUEdlT1BlVklYY2c?oc=5",
+    "researched_at": "2026-11-19T13:33:55+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Green Gold Animation and EBG Group open India’s first character café in Hyderabad - Animation Xpress",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmgyWjVpNXYtRDdUd1RjTS1KZVVaOVI1WDNjdkk4d09EYUhTZVEzcW1wQmp2QlBUV1g3Wmc1OTJFcmJLbDBEVnpvTmxTeEQ5U0RiU1dvMTg5LUx1Q21nZHlMeHQ5UWxtYW82SXA4T1gwTDlCTnp5eWV3T0R5dE03c3ctZlF6TllhZ0JtUHdkaVFSYnVwYU1FV0RDZkxJckVZbkE4dVFYMDF0N2NDcER5VkVjbWkydTVfWHc4ck5LSEtrOTDSAcsBQVVfeXFMTWU2dHB0TEtwYVQ3TlBOUUdWWHh0VUVoZ0xyWEVSSXM1VW9uWHAyS3p3UGNqaFhtWXhVbGxMeU1DLUdwTUI1WEdiYy02S2xteElfUW5JekJJSlpIMFg3M1cwaVY4UUlKMU5vaHhBMTlnVHp5bHU0ZHlRS0ZNckNXNnlpRy1HaS1BbjZOMnhHand1Z3ItcVlucTVUYUw5RXBHb1J2RWRYWDl2VUZ0Um5McTQwNmtFLXFrNFA2TTBmQ0xQUEdlT1BlVklYY2c?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Green Gold Animation opens Chhota Bheem eatery - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVNWZFZZTzhBVHlVb0RLSk5TUjB5YnNoQWtmMzZCWURDVjlJWV80WExVWUpyM1I5azdMVTNPc2xrRUV5bm1VMWRvR0xNNnl1RUZJazdkYmtMTzFzNmJnZGZjd1pPSTRZMTZpX1dtSDVoYlFxWFdtWlhYYTRzbmhObUs0VUU4MzM1emRwVE5ReGlJbE44Y0JxcElCc2d1R2xzSVZLMDhjOEpUUWR4RWNPUWJpNNIBugFBVV95cUxOS2pTVnhMR0JaMFIzaExNdFpEbUZFRFF0Z25NaVB3Tzd0VG9UbUdoNDNLcnNrWUVkNmlBVVdLcXM1UkNCdzZCZlRhclVDcVZmX2dNMHBQblZqSzRoeEtqNVFCUmJFYWctT2RVbngyVlV5VUE4d0hsTl9JcHAwQ0dEdUttOGJmaU1Senp6TnZ0UHZJVXdLUEJPb3JKVHRmaklfa2ZkZTNWejNwc1k2UHNpeHlXRDVLT2VUalE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Green Gold Animation Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KOEZvbWNyb0Q2TmNwSHNHejFIN1RMVXRlaHI5aDlHR0hzS014Wk5panRSZDlxV2xPbVhFNWtwcG5ZRjQ2U2Iwd1Q5QkYxZ3MwbzJrMHFXU0N1azJfTk53VEpVdW93aGRlWUdWeDFMMEhnQmc5b1Bj?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Samsung TV Plus expands its FAST offerings in India with the launch of Green Gold Animation’s ‘Green Gold TV’ - Adgully",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZE9MZFFwZUpLLXAwbTVYZEdxLTF6UFk1MWtuUkdkM3RfTWx5SkJSdW9rUVctWG9ESG1KRkJWQVRfVEczVktBMS1Yb0VQZHpjQ3llZG9uRmxnSnRod2NiYVl0bGxMeDUtVnZpNVY2Ty1YdUhpY014cVlpU2VnYzU1YmE4aW9xWnpmLXVQUl9vVjlTZE1nU3BIbVh1c1JIWU0yZ2J5UU1aaUo1S2lPWnczTkJabzRzYS1zbktUM3Z4SnpmaDhvTGxzQ3MzN0NadkktU2d1bHd2Q0k?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Green Gold Animation opens Chhota Bheem-themed cafe in Hyderabad - afaqs!",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDlkUmV1ZjV5Z2tMblROcHdBbTdBV1psTHY5Y0xQM0tVNXFlZXY4eUhoSnBEeVdzbzlQNDkxZXRMTkRvckI0YkxpTEZYNWhnZ3piZFc5djh1QkhHMmk2Nk40YzJpSEVLdGsycWdwejFuT2Rtb3EyejlQQTh4ZkQ4Y2tXN1ppUHNDRnFMZ2Y2TW5jSlRQYWRYdVJKbzlLM2k0YjR1RVg2alA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "The Engineer Who Wanted to Tell Stories: In Conversation With Rajiv Chilaka | Green Gold Animation - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNFlSU1hQajkwcFJ5M2NZbmVNX2t5OWdQR3g3Sm5senU3SGluY0dVWUN2YmF2YnRldkpGbGJRenJYclJMdEJ2ajhFaDNTX2J1ckJkZjdIc1hyd0NtUl84ZWRPMFNSZmJtM2NmenczV2RTWm51UEs4YnE0amRvcUVFcTEzYXVoeW9RYWg3Q0RsVXg5N2VVVFNvLUpYM1lqajZBME5yUzNtMUI2cTlCYkVGQ2MyWUZtc1U1a1F4YkFKVlB2U3VsTWV1N1FydzlaWk1uUl9KZVg2dG5WZ9IB3wFBVV95cUxPVTE3OGxpdGxCTXJ0aWpZWG4zSUNNUkpxUEI0R1FtR2h0MjEzMkpMemhaR3doZ09YR3ltMFNvSEZua0tuUThraWR1Z19jNXZLVldtYk51anZrdEJ5TE1ITnBWZmt5NHYxaDJ5bm1iVGJXUUFmTVpMR0MyU0tSRkxMSW01ck5mbGxiX2d4S3JxRDJqR1UwWElJYVdxcHo2aG1lQWthZ3QycUVISC16Y2FOTV9xVnRmQkdLMXdKN2EwaVlUcC1xTG9QSlBTZHpkZDBUZFc5UVpZanFaUHpPTGhN?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -202425,9 +202466,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-19T13:33:55+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 61: rejected (The role asks for 3-5 years of experience in investment banking, management consulting, or CEO's office, while Shlok has about 1.3 years and no consulting or MBA background. Furthermore, the pay is not stated and no evidence of compensation matching Shlok's Rs 24.5 LPA threshold is available.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30",
+   "updated_at": "2026-11-19T13:33:55+05:30",
    "research_attempt": {
     "at": "2026-11-18T23:17:41+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
@@ -202437,7 +202484,8 @@
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 3-5 years of experience in investment banking, management consulting, or CEO's office, while Shlok has about 1.3 years and no consulting or MBA background. Furthermore, the pay is not stated and no evidence of compensation matching Shlok's Rs 24.5 LPA threshold is available."
   },
   {
    "id": "L1702",

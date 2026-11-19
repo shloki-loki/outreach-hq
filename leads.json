@@ -207556,7 +207556,7 @@
    "key": "treelife|founders office sales operations|india",
    "type": "job",
    "company": "Treelife",
-   "company_domain": "",
+   "company_domain": "treelife.in",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/treelife-consulting",
    "company_note": "",
@@ -207564,7 +207564,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492001918",
    "source_url": "https://in.linkedin.com/jobs/view/founders-office-sales-operations-at-treelife-4492001918",
@@ -207580,7 +207580,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Profile hiring for Founders Office: Sales Operations \n Location : BKC, Mumbai\n Reporting to : Founders\n Whom are we looking for? \n We are looking for an organised, self-driven individual to join the Founders Office and own the engine behind Treelife's sales efforts. You will manage our CRM, keep improving how our sales process runs, and look after key client relationships, working closely with the founders. The role suits someone who is comfortable with autonomy and enjoys bringing structure to a fast-moving setup.\n What will be your key responsibilities? \n A Founders Office role means taking ownership of several things at once. The focal point of this one is keeping Treelife's sales operations running smoothly, and making them better over time. Broadly, the work covers:\n 1. CRM Management:\n Own and maintain the CRM, keeping records of sales activities, client interactions and opportunities accurate and up to date.\n Set up and refine CRM pipelines, workflows and reports so the team can rely on the data.\n Track sales activities and performance metrics through the CRM.\n 2. Sales Process Improvement:\n Review the sales process end to end, from lead generation to closure, and spot gaps and bottlenecks.\n Work with the founders to design and roll out process improvements that make the team faster and more consistent.\n Support sales planning: targets, KPIs, and regular reports and forecasts for management review.\n 3. Client Relationship Management:\n Build and nurture strong, long-term relationships with key clients and stakeholders.\n Coordinate with internal teams to meet client needs and resolve issues as they come up.\n Support the founders on after-sales operations.\n 4. Reporting and Documentation:\n Generate regular sales reports and forecasts for management review.\n Prepare sales presentations, proposals, contracts and related documentation.\n What are the key requirements for the role?\n 4-6 years of experience in sales operations, CRM management or B2B sales support, preferably in a startup or high-growth environment.\n Hands-on experience with CRM software and GSuite.\n A solid understanding of B2B sales processes, with a data-driven approach to decision making.\n Excellent communication and presentation skills.\n Takes ownership, works independently, and manages time well in a fast-paced environment.\n Agile and open-minded, and quick to pick up new services and industry terminology.\nSeniority level Associate | Employment type Full-time | Industries Financial Services, Legal Services, and Venture Capital and Private Equity Principals",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -207595,8 +207595,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -207606,15 +207606,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office Sales Operations at Treelife in Mumbai, but asks 4-6 yrs of experience while you have 1.3 yrs.",
+    "fit_notes": "The posting asks for '4-6 years of experience in sales operations, CRM management or B2B sales support'. Shlok has about 1.3 years of experience, making this a significant experience mismatch. The location is BKC, Mumbai, which violates Shlok's preference for Bengaluru or remote first. His facts like [sop] and [ceo-coo] show strong operations experience, but not the 4-6 years specifically in sales ops demanded here.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company website or news found in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-19T13:31:57+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -207638,14 +207648,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-19T13:31:57+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires 4-6 years of experience, but Shlok has about 1.3 years; furthermore, the work location is Mumbai while Shlok wants Bengaluru or remote-first.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-19T13:31:57+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 4-6 years of experience, but Shlok has about 1.3 years; furthermore, the work location is Mumbai while Shlok wants Bengaluru or remote-first."
   },
   {
    "id": "L1750",

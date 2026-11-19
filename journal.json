@@ -3716,6 +3716,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 73 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J0414",
+   "at": "2026-11-20T04:11:00+05:30",
+   "by": "supervisor/check",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
+   "ref": ""
   }
  ]
 }

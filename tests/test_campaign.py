@@ -139,6 +139,18 @@ class FollowupAndJobTemplateTests(unittest.TestCase):
         self.assertEqual(by_id["M0004"]["status"], "draft")          # his edited draft stays for him
         self.assertEqual(by_id["M0005"]["lead_id"], "L0001")
 
+    def test_nameless_contact_is_greeted_like_the_first_email(self):
+        self.activate("followup-v1")
+        store.save("leads", {"leads": [lead(1, [person("C1", "", "hello@co1.com")]), lead(2, [person("C1", "", "jobs@co2.com")])]})
+        store.save("suppression", {"emails": {}})
+        first = self.sent("M0001", "L0001", 9, to="hello@co1.com", body="Hi Co1 team,\n\nText\n\nShlok\n")
+        second = self.sent("M0002", "L0002", 9, to="jobs@co2.com", body="Hello team,\n\nText\n\nShlok\n")
+        first["to_name"] = second["to_name"] = ""
+        store.save("messages", {"messages": [first, second]})
+        self.assertEqual(campaign.queue_followups("followup-v1")["queued"], 2)
+        bodies = sorted(m["body"].splitlines()[0] for m in store.load("messages")["messages"] if m.get("template"))
+        self.assertEqual(bodies, ["Hi Co1 team,", "Hi there,"])
+
     def test_second_followup_after_first(self):
         self.activate("followup-v1")
         store.save("leads", {"leads": [lead(1, [person("C1", "Asha Rao", "a@co1.com")])]})

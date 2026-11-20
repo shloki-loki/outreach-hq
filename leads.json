@@ -184450,7 +184450,7 @@
    "key": "aitainment|growth product manager|bengaluru",
    "type": "job",
    "company": "Aitainment",
-   "company_domain": "",
+   "company_domain": "aitainment.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "",
@@ -184458,7 +184458,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "448266",
    "source_url": "https://www.instahyre.com/job-448266-growth-product-manager-at-aitainment-bangalore/",
@@ -184489,8 +184489,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -184499,15 +184499,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Growth PM at Aitainment, asks 4-8 yrs and consumer-tech PM experience; you have 1.3 yrs and an Operations background.",
+    "fit_notes": "The posting asks for '4-8 Years' and '2+ years as a Product Manager in consumer tech, with a clear growth or retention focus.' Shlok has ~1.3 years of total experience, primarily in Strategy & Operations at Ola Electric ([sop], [ceo-coo]), with a single technical product internship ([idekho]). He lacks the required years of experience and consumer-tech PM track record.",
+    "pay_notes": "Pay is not stated in the posting; benefits mention competitive salary and ESOPs.",
+    "culture_notes": "Aitainment is a VC-funded stealth AI education startup scaling to over 1 million users. Glassdoor ratings are not available in the posting.",
+    "hook": "Aitainment is scaling its AI-generated short videos for government exam preparation to over 1 million users.",
+    "hook_source": "https://www.instahyre.com/job-448266-growth-product-manager-at-aitainment-bangalore/",
+    "researched_at": "2026-11-20T22:58:37+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -184531,14 +184540,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T22:58:37+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role asks for 4-8 years of experience in consumer tech growth product management, while Shlok has ~1.3 years of experience and no direct consumer-tech PM background.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-20T22:58:37+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 4-8 years of experience in consumer tech growth product management, while Shlok has ~1.3 years of experience and no direct consumer-tech PM background."
   },
   {
    "id": "L1513",

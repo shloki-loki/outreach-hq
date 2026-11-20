@@ -213952,8 +213952,8 @@
    "key": "rippling|strategy and operations lead peo and hrs product operations|bengaluru",
    "type": "job",
    "company": "Rippling",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "rippling.com",
+   "company_url": "https://www.rippling.com",
    "company_linkedin": "https://www.linkedin.com/company/rippling",
    "company_note": "",
    "title": "Strategy & Operations Lead – PEO & HRS Product Operations",
@@ -213991,8 +213991,8 @@
    },
    "score": {
     "rules": 81,
-    "research": null,
-    "total": 81,
+    "research": 25,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -214003,15 +214003,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "S&O Lead for Rippling PEO/HRS product ops, but asks 4-6+ yrs and a Tier-1 MBA; out of reach at 1.3 yrs.",
+    "fit_notes": "JD read 2026-11-20 via stored lead text; MBA and 4-6 yrs required. Not re-verified as live (posting id is older).",
+    "pay_notes": "Not stated.",
+    "culture_notes": "Not researched.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T10:53:22+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -214035,9 +214037,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 81"
+    },
+    {
+     "at": "2026-11-20T10:53:22+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 47: rejected (Asks 4-6+ yrs consulting/strategy and a Tier-1 MBA.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30"
+   "updated_at": "2026-11-20T10:53:22+05:30",
+   "reject_reason": "Asks 4-6+ yrs consulting/strategy and a Tier-1 MBA."
   },
   {
    "id": "L1794",

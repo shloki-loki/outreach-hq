@@ -476,7 +476,7 @@
    "posted_at": "2026-10-15",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-20",
-   "open": false,
+   "open": true,
    "jd": "Job Description: Manager-CEO's office \n Role Overview: We are seeking a highly motivated and strategic thinker to join our team as a Strategy Associate/Manager. This role is pivotal in driving key initiatives and strategy projects that will shape the future of our organization. You will work closely with the CEO and leadership team to ensure rigor in problem-solving, strategic planning, and execution across various functions. This is meant to be a pre-MBA role, if you thrive in a fast-paced environment and are passionate about driving impactful change, this role is for you. Past Alumni have gotten admits at HBS, Wharton etc, Moved on to leadership roles at large MNCs.\n Key Responsibilities: \n Drive Strategic Projects: Lead critical strategy projects from 0->1 and 1->10, initiating and scaling new business initiatives across the organization.\n Org-level streamlining: Ensure timely interventions and rigorous problem-solving on key projects through close collaboration with leadership.\n Business Understanding & Metrics: Develop a deep understanding of the business and success metrics, tracking progress through detailed dashboards and analytics.\n Planning & Execution: Drive quarterly and annual planning cycles across the organization, and monitor execution through regular weekly reviews.\n Culture & Change Initiatives: Collaborate with functional and organizational leadership to drive initiatives that define and evolve the company culture.\n Qualification \n Educational Background: Strong academic pedigree with an undergraduate degree from IITs/BITS \n Experience: \n 2-4 years of experience in strategy consulting firms (MBB, ATK, Strategy&, Dalberg, Auctus), high-growth startups (Flipkart, Ola, Swiggy), or leading corporations (ITC, HUL, P&G).\n Demonstrable spike in academic or professional achievements.\n Skills & Attributes: \n High degree of ownership and accountability.\n Strong aptitude and ability to quickly grasp new concepts and domains.\n Proven experience in structured problem-solving and stakeholder management.\n Ability to switch contexts and manage multiple priorities with passion, hunger, and perseverance.\n Desired Personal Traits: \n Passionate about driving change and making an impact.\n Hunger for learning and growth, with the ability to persevere through challenges.\n Strong context-switching skills, comfortable navigating complex and dynamic environments.\n Excellent interpersonal skills with the ability to manage and influence senior stakeholders.\n What We Offer: \n Opportunity to work directly with senior leadership and have a meaningful impact on the organization’s strategic direction.\n A dynamic and entrepreneurial work environment where your ideas and contributions will be highly valued.\n Competitive compensation and benefits package.\n If you are a strategic thinker with a passion for solving complex problems and driving impactful change, we would love to hear from you!",
    "exp_min": 2,
    "exp_max": null,
@@ -604,9 +604,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-20T14:48:43+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-20T12:37:41+05:30",
+   "updated_at": "2026-11-20T14:48:43+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "closed",
@@ -9023,7 +9029,7 @@
    "posted_at": "2026-10-16T12:44:06.067000+00:00",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-20",
-   "open": false,
+   "open": true,
    "jd": "What you will do\nAnalysis, customer interviews, user research, competition analysis and other qualitative/quantitative techniques.\n Problem Identification & Prioritization: Adopt a structured approach to identify what problems need to be solved and break them down into smaller chunks. Prioritize what problems need to be solved now vs. later.\n Solution Discovery: Facilitate a process to come up with the best technology-led ideas to solve the prioritised problems. Harness the creativity of not just yourself but of other teams such as design, engineering., business, etc Be willing to experiment with multiple solution ideas and test them using MVPs, prototypes, etc.\n Product Delivery: Define detailed product requirements and work collaboratively with a cross-functional team (design, engg. business, analytics, etc.) to bring a product to life. Ensure high product quality through processes such as user acceptance testing, dogfooding, etc.\n Go-to-Market Planning: Create a go-to-market plan working with business/marketing stakeholders to maximize product adoption and success.\n Adoption & Metrics: Define product metrics for your area, and track them continuously. Identify usage patterns and come up with action plans to move metrics in the right direction.\n Roadmap Creation: Create a product roadmap for your area that has at least a 3-month forward-looking view of key customer/business problems to be solved.\nWhat you will need \nOverall experience of 3+ yrs with at least 1+ yrs in product management in a tech-led company (consumer internet space is preferred).\n Exceptional problem-solving skills based on first principles of thinking.\n Good understanding of technology, and comfort with product management processes such as A/B experimentation, writing product requirement documents, managing product backlogs, and creating roadmaps.\n Good communication and stakeholder management skills to get work done across different functions and drive product development.",
    "exp_min": 1,
    "exp_max": null,
@@ -9138,9 +9144,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the job board says the posting no longer exists (HTTP 404)"
+    },
+    {
+     "at": "2026-11-20T14:48:43+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-20T12:37:41+05:30",
+   "updated_at": "2026-11-20T14:48:43+05:30",
    "reject_reason": "Asks 3+ years overall incl. 1+ year as a PM; Shlok has 1.3 years and no full-time PM role.",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
@@ -10481,7 +10493,7 @@
    "posted_at": "2026-04-17T19:17:20.479+00:00",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-20",
-   "open": false,
+   "open": true,
    "jd": "About Sarvam\n\nSarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.\n\n \n\nAbout the Role\n\nWe are hiring a Model Product Manager to own charters for Automatic Speech Recognition (ASR), Text-to-Speech (TTS), and model evaluation pipelines. You will work closely with research and engineering teams to define roadmaps, run training and evaluation cycles, and ship models that directly improve product experience and reliability.\n\n \n\nWhat You'll Do\n\n• Define and drive roadmaps for ASR, TTS, and evaluation systems.\n\n• Partner with engineering and research teams on data collection, training cycles, and model release planning.\n\n• Set up and own evaluation frameworks and quality metrics covering accuracy, latency, MOS, and robustness.\n\n• Run structured experiments — offline tests, A/Bs, and human evaluations — to quantify model improvements.\n\n• Ensure scalable deployment and monitoring of models in collaboration with infra and data teams.\n\n• Translate user and business needs into measurable model goals.\n\n• Communicate priorities, timelines, and trade-offs clearly across stakeholders.\n\n \n\nWhat We're Looking For\n\n• 3+ years of experience building AI, applied AI, ML products, or model training pipelines.\n\n• Familiarity with the model lifecycle: training, fine-tuning, deployment, and monitoring.\n\n• Strong analytical skills and comfort with data-driven decision making.\n\n• Ability to collaborate effectively across research, engineering, and product teams.\n\n \n\nBonus Points\n\n• Exposure to speech technologies (ASR, TTS) or evaluation pipelines.\n\n• Experience with quality metrics such as WER, CER, MOS, or latency tracking.\n\n• Hands-on familiarity with SQL, Python, or ML toolkits.\n\n \n\nWhy Sarvam?\n\nSarvam is a fast-moving, high talent-density team building full-stack AI for India, working on problems that push the frontiers of AI with real population-scale impact.\n\n• Work alongside researchers, engineers, builders, and business leaders who move fast and hold each other to a very high bar\n\n• High ownership and high impact, from day one\n\n• Everything we do is AI-first, from the way we build and ship to the way we think about problems\n\n• You can work on problems that could change how an entire country learns, works, and communicates\n\nIf you want to work on problems at the frontier of AI in India, Sarvam is the place to be.",
    "exp_min": 3,
    "exp_max": null,
@@ -10559,9 +10571,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: no longer on the company's Ashby job board"
+    },
+    {
+     "at": "2026-11-20T14:48:43+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-20T12:37:41+05:30",
+   "updated_at": "2026-11-20T14:48:43+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "closed",
@@ -29316,7 +29334,7 @@
    ],
    "posted_at": null,
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "open": true,
    "jd": "Dil to roaming hai Business Operations, Excel, Powerpoint",
    "exp_min": null,
@@ -33221,7 +33239,7 @@
    ],
    "posted_at": null,
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-20",
    "open": true,
    "jd": "Global Mobile Advertising Leader, Pioneering the era of agentic commerce Consumer, GTM, Product, Technology",
    "exp_min": null,
@@ -33662,6 +33680,11 @@
      "source": "instahyre",
      "url": "https://www.instahyre.com/job-429049-product-manager-at-nuplay-ai-bangalore/",
      "seen": "2026-11-12"
+    },
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-432369-product-manager-at-nuplay-ai-bangalore/",
+     "seen": "2026-11-20"
     }
    ],
    "posted_at": null,
@@ -193449,7 +193472,7 @@
    ],
    "posted_at": null,
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "open": true,
    "jd": "Your innovation and technology destination Category, GTM, Laptops, Launch, Notebooks, PCS, Portfolio, Pricing, Roadmap",
    "exp_min": null,
@@ -219073,6 +219096,556 @@
     "why": ""
    },
    "reject_reason": "Pay is unstated and likely far below the Rs 24.5 LPA threshold for an entry-level data analyst role at an outsourcing GCC (RSM Delivery Center India), and the role is a standard analytics/reporting support position rather than Shlok's priority areas of Strategy & Operations or Product."
+  },
+  {
+   "id": "L1835",
+   "legacy_id": null,
+   "key": "bitespeed|chief of staff|bengaluru",
+   "type": "job",
+   "company": "BiteSpeed",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/bitespeed",
+   "company_note": "",
+   "title": "Chief of Staff (CEO's Office)",
+   "tier": "1 - Strategy & Ops",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4492759935",
+   "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-ceo-s-office-at-bitespeed-4492759935",
+   "apply_url": "https://in.linkedin.com/jobs/view/chief-of-staff-ceo-s-office-at-bitespeed-4492759935",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/chief-of-staff-ceo-s-office-at-bitespeed-4492759935",
+     "seen": "2026-11-20"
+    }
+   ],
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "open": true,
+   "jd": "About BiteSpeed\n Hey there! We are a Sequoia-backed SaaS startup building an AI-native Marketing, Support & Sales suite for e-commerce brands. We’re currently working with 3000+ e-commerce brands globally across 50+ countries and are fortunate to have raised $5.5M+ along the journey with marquee investors like Sequoia Capital India, Kunal Shah, Gaurav Munjal & more backing us.\n Check out more about us here - https://www.bitespeed.co/ and do read through our 200+ odd 5-star reviews to get a sense of what our customers say about us here - https://apps.shopify.com/bitespeed-fb-messenger-chatbot (we openly brag about this 😉)\n We’ve had some solid investors back us (making it easier for you to stalk us since you’d do this anyway):-\n BiteSpeed Raises USD 3.5M Funding, Led by Peak XV’s Surge- https://www.businesswireindia.com/e-commerce-ai-startup-bitespeed-raises-usd-3-5m-funding-led-by-peak-xvs-surge-92455.html\n E-commerce AI start-up BiteSpeed raises $3.5 million funding led by Peak XV’s Surge- https://www.thehindubusinessline.com/info-tech/e-commerce-ai-start-up-bitespeed-raises-35-million-funding-led-by-peak-xvs-surge/article68863058.ece\n BiteSpeed Raises $1.9 Million Seed Funding From Sequoia India's Surge- https://www.entrepreneur.com/en-in/business-news/bitespeed-raises-19-million-seed-funding-from-sequoia/418414\n About The Role\n This is a true generalist business role that involves working closely with our CEO on growth and revenue initiatives . It’s an intense, always on, high impact role. If you enjoy all things business & sales, juggling multiple initiatives and like rolling up your sleeves to get the job done this might be the role for you :).\nThe role spans across unlocking new 0-1 motions in international markets , starting and scaling new channels like partnerships and events, overseeing sales and account management strategy & revenue operations.\n What You’ll Do\n Partner with sales teams on revenue maximisation initiatives ranging from pricing and packaging strategy to optimising demos and pitches for different segments of customers.\n Setting up tooling and operational processes for sales monitoring and revenue planning.\n Partner with CS teams on upselling and churn management strategy.\n Own new 0-1 initiatives in international markets for expansion.\n Own new channel initiatives like partnerships and event marketing.\n Work closely with CEO on enterprise deals.\n What Makes You a Good Fit\n 2+ years of early stage startup experience on the business side.\n Love all things business and sales and don’t shy away from getting your hands dirty to get the job done.\n Comfortable with early stage startup imperfections and able to operate in disorder.\n Extremely high agency and adaptability to make things happen.\n Salary and Location\n Location: Bangalore\n Expected CTC: We pay top of market for the right folks and also offer generous equity (ESOP) to everyone in the team\n Our Way Of Life - https://www.notion.so/bitespeed/Way-Of-Life-At-BiteSpeed-44d9…",
+   "exp_min": 2.0,
+   "exp_max": null,
+   "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Software Development",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 86,
+    "research": null,
+    "total": 86,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "Bengaluru (+20)",
+     "Experience fits: asks 2+ years (+15)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-20T14:48:43+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 86"
+    }
+   ],
+   "updated_at": "2026-11-20T14:48:43+05:30"
+  },
+  {
+   "id": "L1836",
+   "legacy_id": null,
+   "key": "hubofcreators|founder s office executive|india",
+   "type": "job",
+   "company": "Hub Of Creators",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/hub-of-creators",
+   "company_note": "",
+   "title": "Founder's Office Executive",
+   "tier": "1 - Strategy & Ops",
+   "location": "Indore, Madhya Pradesh, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491609760",
+   "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-executive-at-hub-of-creators-4491609760",
+   "apply_url": "https://in.linkedin.com/jobs/view/founder-s-office-executive-at-hub-of-creators-4491609760",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/founder-s-office-executive-at-hub-of-creators-4491609760",
+     "seen": "2026-11-20"
+    }
+   ],
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "open": true,
+   "jd": "Company Description \n Hub Of Creators is a creative and social media marketing agency focused on helping brands build meaningful connections in a fast-changing digital environment. The team specialises in brand strategy, creative direction, social media management, content creation, documentary production, website design and development, and digital marketing solutions. By combining strategic insight with strong creative execution, Hub Of Creators designs brand experiences that enhance visibility, deepen audience engagement, and support sustainable growth. The agency is driven by a collaborative team of creative professionals who are passionate about bringing ideas to life and elevating brand storytelling.\n About the Role \n We're looking for a sharp, driven individual to join our Founder's Office team. This is a high-visibility role for someone who wants direct exposure to how a growth-focused marketing agency is built and scaled working closely with founders on strategy, operations, and the day-to-day decisions that shape the business.\n What You'll Do \n Work alongside the Founder's Office team on daily operations, projects, and priorities\n Support growth and strategy initiatives across the agency\n Assist with data analysis, reporting, and tracking key business metrics\n Take on ad hoc projects that require quick thinking and ownership\n Thrive in a fast-paced, dynamic environment where priorities can shift daily",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Executive Employment type Full-time Industries Marketing Services",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-20T14:48:43+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-20T14:48:43+05:30"
+  },
+  {
+   "id": "L1837",
+   "legacy_id": null,
+   "key": "talentiser|strategy analyst digital transformation 1 7 years bangalore upto 45lpa|bengaluru",
+   "type": "job",
+   "company": "Talentiser",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/talentiser",
+   "company_note": "",
+   "title": "Strategy analyst | Digital transformation | 1-7 years | Bangalore | upto 45lpa",
+   "tier": "1 - Strategy & Ops",
+   "location": "Greater Bengaluru Area",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4492560668",
+   "source_url": "https://in.linkedin.com/jobs/view/strategy-analyst-digital-transformation-1-7-years-bangalore-upto-45lpa-at-talentiser-4492560668",
+   "apply_url": "https://in.linkedin.com/jobs/view/strategy-analyst-digital-transformation-1-7-years-bangalore-upto-45lpa-at-talentiser-4492560668",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/strategy-analyst-digital-transformation-1-7-years-bangalore-upto-45lpa-at-talentiser-4492560668",
+     "seen": "2026-11-20"
+    }
+   ],
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "open": true,
+   "jd": "Strategy analyst | Digital transformation \n Experience :1-7years \n Bangalore \n 5 days WFO \n Key Responsibilities \n 1. Strategic Analysis & Problem Solving \n  Support the team in breaking down ambiguous business questions into structured analyses and\n workstreams.\n  Conduct quantitative and qualitative analysis to identify trends, root causes, performance gaps and improvement opportunities.\n  Develop hypotheses, validate them using data and convert findings into actionable recommendations.\n  Prepare business cases, scenario analyses and concise presentations to support decision-making.\n 2. Data Analytics & Business Intelligence \n  Use advanced Excel to clean, organise and analyse large datasets, build models and create management\u0002ready analyses.\n  Write SQL queries to extract, join, validate and analyse data from relevant business databases.\n  Build and maintain Power BI dashboards and reports to monitor business, operational and project KPIs.\n  Ensure data accuracy and consistency; highlight anomalies, trends and insights rather than reporting numbers alone.\n 3. Strategy & Transformation Projects \n  Support the planning and execution of high-priority strategic and transformation initiatives.\n  Map existing processes, identify inefficiencies and support the design of improved workflows.\n  Work with business, operations, technology, finance and other teams to gather inputs and move initiatives forward.\n  Support digitalisation, automation and technology-led improvement opportunities where relevant.\n 4. Program Tracking & Execution \n  Translate project objectives into milestones, action plans, owners and measurable outcomes.\n  Track progress against timelines, deliverables and KPIs; flag risks, dependencies and delays early.\n  Maintain project trackers, meeting notes, decision logs and follow-up actions.\n  Help assess whether initiatives are delivering the expected business and operational impact.\n 5. Stakeholder Communication & Management Reporting \n  Prepare structured presentations, dashboards and written updates for leadership reviews.\n  Summarise complex analysis into clear, concise insights, implications and recommended next steps.\n  Coordinate with stakeholders to collect information, validate findings and close action items.\n  Communicate findings confidently and work collaboratively across teams.\n What We Are Looking For\n Must-have \n  Approximately 1–4 years of relevant experience in strategy consulting, business consulting, business\n analytics, corporate strategy or a similar problem-solving role; strong freshers may be considered if they have relevant internship/project experience.\n  Strong hands-on proficiency in Excel, including data cleaning, lookups, pivot tables, analytical models and working with large datasets.\n  Working proficiency in SQL for querying, joining and analysing structured data.\n  Experience creating dashboards and reports in Power BI, including translating business questions into useful metric…",
+   "exp_min": 1.0,
+   "exp_max": 7.0,
+   "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Human Resources Services",
+   "stretch": false,
+   "pay": {
+    "stated": "upto 45lpa",
+    "min_lpa": null,
+    "max_lpa": 45.0,
+    "basis": "stated",
+    "source": "linkedin",
+    "fit": "In range (stated)"
+   },
+   "score": {
+    "rules": 100,
+    "research": null,
+    "total": 100,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "Bengaluru (+20)",
+     "Experience fits: asks 1+ years (+15)",
+     "Pay upto 45lpa: In range (stated) (+20)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-20T14:48:43+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 100"
+    }
+   ],
+   "updated_at": "2026-11-20T14:48:43+05:30"
+  },
+  {
+   "id": "L1838",
+   "legacy_id": null,
+   "key": "mettle|founder s office associate|india",
+   "type": "job",
+   "company": "Mettle Labs",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/mettle-labs",
+   "company_note": "",
+   "title": "Founder's Office Associate",
+   "tier": "1 - Strategy & Ops",
+   "location": "Mumbai, Maharashtra, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491688649",
+   "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-associate-at-mettle-labs-4491688649",
+   "apply_url": "https://in.linkedin.com/jobs/view/founder-s-office-associate-at-mettle-labs-4491688649",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/founder-s-office-associate-at-mettle-labs-4491688649",
+     "seen": "2026-11-20"
+    }
+   ],
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-20T14:48:43+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-20T14:48:43+05:30"
+  },
+  {
+   "id": "L1839",
+   "legacy_id": null,
+   "key": "rapidclaims|technical program manager|bengaluru",
+   "type": "job",
+   "company": "RapidClaims",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Technical Program Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bangalore",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "462837",
+   "source_url": "https://www.instahyre.com/job-462837-technical-program-manager-at-rapidclaims-bangalore/",
+   "apply_url": "https://www.instahyre.com/job-462837-technical-program-manager-at-rapidclaims-bangalore/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-462837-technical-program-manager-at-rapidclaims-bangalore/",
+     "seen": "2026-11-20"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "open": true,
+   "jd": "A revenue cycle management platform Agile, Asana, Confluence, Jira, Kanban, Program Management, Project Management, Scrum, Technical Program Management",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 61,
+    "research": null,
+    "total": 61,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-20T14:48:43+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 61"
+    }
+   ],
+   "updated_at": "2026-11-20T14:48:43+05:30"
+  },
+  {
+   "id": "L1840",
+   "legacy_id": null,
+   "key": "valeo|product manager|bengaluru",
+   "type": "job",
+   "company": "Valeo",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Product Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bangalore",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "157380",
+   "source_url": "https://www.instahyre.com/job-157380-product-manager-at-valeo-bangalore/",
+   "apply_url": "https://www.instahyre.com/job-157380-product-manager-at-valeo-bangalore/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-157380-product-manager-at-valeo-bangalore/",
+     "seen": "2026-11-20"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "open": true,
+   "jd": "Smart Technology for Smarter Cars B2C, Product, Roadmap",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 61,
+    "research": null,
+    "total": 61,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-20T14:48:43+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 61"
+    }
+   ],
+   "updated_at": "2026-11-20T14:48:43+05:30"
   }
  ]
 }

@@ -3124,6 +3124,16 @@
     "sent": 2,
     "failed": 0
    }
+  },
+  {
+   "at": "2026-11-20T16:46:27+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 0, failed 0. daily cap of 70 new emails reached",
+   "stats": {
+    "sent": 0,
+    "failed": 0
+   }
   }
  ]
 }

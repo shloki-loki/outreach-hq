@@ -4004,6 +4004,15 @@
    "title": "Ran",
    "detail": "sent 2, failed 0. daily cap of 70 new emails reached",
    "ref": ""
+  },
+  {
+   "id": "J0446",
+   "at": "2026-11-20T16:46:27+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 0, failed 0. daily cap of 70 new emails reached",
+   "ref": ""
   }
  ]
 }

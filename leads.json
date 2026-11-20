@@ -168063,7 +168063,7 @@
    "key": "cashflo|founder s office associate|india",
    "type": "job",
    "company": "CashFlo",
-   "company_domain": "",
+   "company_domain": "cashflo.io",
    "company_url": "https://cashflo.io",
    "company_linkedin": "",
    "company_note": "A fintech company providing B2B payments and credit solutions for businesses in India.",
@@ -168071,7 +168071,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai or Maharashtra",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "hiringcafe",
    "source_id": "freshteam___cashflo-talent___cP58pPvdpctp",
    "source_url": "https://cashflo-talent.freshteam.com/jobs/cP58pPvdpctp/founder-s-office-associate",
@@ -168102,8 +168102,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 42,
+    "total": 50,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -168113,15 +168113,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office Associate at CashFlo in Mumbai, asks 0-1 yrs; you lack the consulting background preferred by their ex-BCG/ISB founding team.",
+    "fit_notes": "The posting asks for a self-starter with an entrepreneurial bent of mind and first-principles thinking to join a core team of 'ex-BCG and ISB / IIM alumni'. Shlok has strong Strategy & Ops experience at Ola Electric ([sop], [ceo-coo]), but the role is located in Mumbai or Maharashtra (violating Shlok's Bengaluru or remote-first preference) and no pay is stated.",
+    "pay_notes": "Pay not stated in posting; no pay evidence found on the company website or search results.",
+    "culture_notes": "Backed by Elevation Capital and General Catalyst; core team consists of ex-BCG and ISB/IIM alumni [S1]. No employee reviews or culture ratings found.",
+    "hook": "Building India’s largest B2B Payments Platform processing INR 20,000+ Crores of invoices monthly with 30+ lenders plugged in.",
+    "hook_source": "https://cashflo.io",
+    "researched_at": "2026-11-20T22:52:00+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "CashFlo website",
+      "url": "https://cashflo.io"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -168145,14 +168161,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 61"
+    },
+    {
+     "at": "2026-11-20T22:52:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (Location mismatch (Mumbai or Maharashtra vs Shlok's Bengaluru/remote preference), pay is not stated, and team consists of ex-BCG and ISB/IIM alumni while Shlok lacks consulting/MBA background which matches the founding team's profile preference.)"
     }
    ],
-   "updated_at": "2026-11-15T01:20:54+05:30",
+   "updated_at": "2026-11-20T22:52:00+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Location mismatch (Mumbai or Maharashtra vs Shlok's Bengaluru/remote preference), pay is not stated, and team consists of ex-BCG and ISB/IIM alumni while Shlok lacks consulting/MBA background which matches the founding team's profile preference."
   },
   {
    "id": "L1368",

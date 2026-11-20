@@ -4013,6 +4013,15 @@
    "title": "Ran",
    "detail": "sent 0, failed 0. daily cap of 70 new emails reached",
    "ref": ""
+  },
+  {
+   "id": "J0447",
+   "at": "2026-11-20T16:46:41+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 8, failed 0. daily cap of 70 new emails reached",
+   "ref": ""
   }
  ]
 }

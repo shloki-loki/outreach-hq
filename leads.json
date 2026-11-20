@@ -194697,15 +194697,15 @@
    "key": "persistent|program manager|bengaluru",
    "type": "job",
    "company": "Persistent Systems",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "persistentsys.com",
+   "company_url": "https://www.persistent.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "463125",
    "source_url": "https://www.instahyre.com/job-463125-program-manager-at-persistent-systems-bangalore/",
@@ -194736,8 +194736,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -194746,15 +194746,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Program Manager at Persistent Systems, but asks 15-20 yrs experience against your 1.3 yrs.",
+    "fit_notes": "The posting asks for '15 to 20 years of experience in Information Technology, Software Engineering, or Technology Consulting' and 'Minimum 5 years of experience managing large-scale programs and enterprise projects'. Shlok has about 1.3 years of experience at Ola Electric. While he has program execution experience ([sop], [ceo-coo]), the experience gap of over 10 years is an absolute mismatch.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figure is available in the evidence.",
+    "culture_notes": "Persistent Systems reported $1,409.1M in FY25 revenue with an 18.8% YoY increase and an EBIT margin of 14.7% per the posting. Employee satisfaction score is cited as 8.2/10 in the posting text. Recent news notes acquisition plans for Nagarro [S1, S3].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T23:08:53+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "India's Persistent Systems plans debut rupee debt sale to fund acquisition, bankers say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcERlU2MzZ3lfNS1ZaFBEaWlxWGhDMWFmMW91a0JUMDE0eHNfVV83aVBjT05OVzhqeVJwSWVUVk9Ga1RjSE9rZmZzc1RvSk1mSVA5VlQ3Z2w4WFFuWkEzVUZaWXJ4Y1M5LWljQkJEbk1sVE5nTTlDNEpTN0pIaHBqZGM0Z1BuZWpKN0VfaUdBdnJXSHdEMWFPMURIYnpzdS1FdVVSbXBieUlDRFhGYzZNem9OWkJZQk5jWW1pTk94ZnFxcWlV?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Persistent Systems Q1 FY27 on Aug 3: Will Nagarro Deal Overshadow? - NiftyTrader",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVHMwOXM5ejJqSWxjLUJFWHRadzg4dUM3NTJ6bG1nMFpjYzZjd19YcXY0eU05QlpwSHZLY1ZuV0ZYdnhqX0pCc05scnlIVWdMeFFycllDR3BfY01YNy1aYzItNElUZ0M3RWo3MV9Fa0VmeEIzTmdrQnhMWjFqZ0hlaHV2SjQ0N2V2VEE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Persistent Systems Share Plummets 10%, Tests 52-Week Low on Nagarro Buyout, $650-mn US Deal - HDFC Sky",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3ZhRlRGYnF5TWE2bk9Lb3BVSmN6eUxSZGgyQ2lxZ3lwbXFwSmhnRHZSTmctb0FjTTJ0Q2pEQzNRQzVBS0lBUTRWSGJyOVZTbDlPTTlLTEJCcXBGUWVvaFpJTEpwalMwdHdsZjc1VXhvakhFOHFXT1pEWGE2U01EcUtsNzhwTE8zSi1MSEZyd1RPcEFtaU4xRGcteWlkNzlSeE9V?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Buy Persistent Systems; target of Rs 6200: Motilal Oswal - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ3dRNVIzSVctVjlOVEdzLXBiS2w5eVo4bENBQXpqcUl3d1NNQTZlTHJEWkJTOE1HQjFPUXNsbzNPOG1IN0RaZF9lY3pCV2UwMnNfeWpuQmtUbXoxbHJmM0xhZVhsZGoyalI2eTVBbENZT010dE9uUXBHYWxtZzdsS1JjTG4zek1mdlRxSFY1ei1GTkFDSXV5VWMzeVM1Ykpvb1d0cW9LT2poRVdQZE1lR181ZzVVM0ww?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Persistent Systems may soon launch up to $450 million QIP; proceeds part of financing plan for Nagarro... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQalVQekNQOVg5Uzd2Q0NvWjdYdzBnY3VDX1E2TkVaM2xDVUZiN1FWSmhwM29BY05YdEV4LUNUMWdGNjBia0kxY18xRlpxanNDRDY2MWRyb095NkZ5dVJDWHZtM2VkVWxLU3ZIbjNrMnlrNDg4SElVazNtV2tRTFM3ZjFHUy1WRWlHc2tOSFREX29maFIyWlNIZl9pVTl3SzF0RWZDZ3RsaUdkYjBhZXhnTkxTWk9LNW9ibGlzOVpBV1JUcnBOOGtyREdubXlqR1FFeUNpblFMQ0Y0ZlZzUl9wQmRqZUVVLVF2Q0dqdFhEOXJzVU1qZkJ1c1VlMUJPd9IBgwJBVV95cUxOQi1QbjIzNERNSkhhaDc1V19IdTRZRWdTZHlPYmZLQzNHeHpNek01WDctRVRLcGIxYVA0Si01UjlVRWUwWHFkZUFsVE93ZHhUYU9PYUgxRVJTMFZWckRIeTZfMDdfQVk0VzQwYm5TZ3Noeml3UVVUVnlWeFhhdXNET3JvNDJodk1qaHpLTlk4V1hoOGlLZUdRcEJxbHdQSHQ2OXRUVGV4LWdkWElIQUg4STR4YkVfcmk4N2NWdDFfc0xaYmVvSjRQX3NLSFJhU1NpX3BaZ0NWeDBLcjJJOHpoSmVXbmktQlFKX2N5OFJ5dExQZGRfUlY2RWhmMXJGdTJOREw0?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Persistent Systems to Acquire Nagarro in Major Digital Engineering Deal - Elets BFSI",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnB4MHg0RkdKRTZPMndkT1JOdzFCRVBIUmJvblh3UmVseEZhT25lSGo5YWtaalVqRngtcE54a2xFaTZiNlpwSkVnNlpSY2kxWkNCeEx0YW95OVVlX3pjRnlJdnlJalBjM0t1dzFIZUtqdGNoM25XdGtkTUxGZTdOZGllV3E4R1FBUGlfWEo3d05TNklBTGM5d2NNMVJfbWUxaWh3?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -194778,14 +194816,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T23:08:53+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The posting requires 15 to 20 years of experience, whereas Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-20T23:08:53+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting requires 15 to 20 years of experience, whereas Shlok has about 1.3 years."
   },
   {
    "id": "L1603",

@@ -195148,15 +195148,15 @@
    "key": "lenovo|category manager premium notebooks|bengaluru",
    "type": "job",
    "company": "Lenovo",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "lenovo.com",
+   "company_url": "https://www.lenovo.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Category Manager - Premium Notebooks",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "470249",
    "source_url": "https://www.instahyre.com/job-470249-category-manager-premium-notebooks-at-lenovo-bangalore/",
@@ -195187,8 +195187,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -195197,15 +195197,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Category Manager for Premium Notebooks at Lenovo, asks 3-7 yrs; your S&OP and supply-chain work is strong but experience is short.",
+    "fit_notes": "The posting asks for '3-7 Years' of experience. Shlok has about 1.3 years of experience, making 3-7 years a hard reject based on his criteria (more than 4 years is a reject). While his background in S&OP and inventory management maps well to supply and demand alignment ([sop], [ceo-coo]), the experience gap is too large.",
+    "pay_notes": "Pay not stated in posting and no company-specific salary data provided in evidence.",
+    "culture_notes": "Glassdoor ratings and detailed culture data not found in evidence.",
+    "hook": "Lenovo recently launched its new budget laptop with a 120 Hz OLED display and 24 GB RAM.",
+    "hook_source": "https://www.instahyre.com/job-470249-category-manager-premium-notebooks-at-lenovo-bangalore/",
+    "researched_at": "2026-11-20T23:10:14+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Lenovo - World Trade Organization",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10eWdUeUhqNnhEbG80Z3FkOTYwZXlIZElGYlpmSDdkaVJ3WF8zMDBnazJ4NHhhR0Z2TWVWcjBvS1UxYk9lNGoxckcwY2VkZDBjT081VFFRcWZRSkFXZXNrcUxmcDJkWVI4UURESXJuSFdPTElaclE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Lenovo launching new budget laptop with 120 Hz OLED display and 24 GB RAM - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYVd6UEJ5Ynkyc210V2h3SnZJVkJveXF6ZnQzMGJtbHYyZzg3R2NJNUVrTjFLbTRLNmlyWHdUQkdVdFM4SmdJb1l1eHBackotcXVjSktsQTlzX0toWTQ5WWt0SWdTY3NZSW15OVpIV0dUWUYway1nUEZiamhtcElhSkZKSUZ2aXFPSlprNVVIeEY5UDEyTmdUbDk0MWZlTUZVOElyTGQ5dGQ0azRvMFRTU0tQQWVqeUd0OXc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Lenovo Expands Personal AI with Colorful New IdeaPad Vibe Series and IdeaCentre All-in-One AI PCs - Lenovo StoryHub",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNzFndEkwOC1ZX0ZQZUhOanIwM0Zfblo1MHhxc0g5OUIzbUIxMjIwOURnNVl6NVhpYUR1NnktbG02TXNxWDVVVXB2U3lOMFRlLXpCSlhVc0dtOVlBQ0kxWVlhUy16YkdlRElrZHFudkctOElpbzNuakk4SEh1VTIzang4WGNkZHlMVU5SVE4zc3RZVlBGYnZnUXhCSEs?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "China's Lenovo posts 43% jump in Q1 revenue, riding AI infrastructure boom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1FkcWU0azdRWDdsZ3lmTkN5VzM2c01DakprRTFmZmk2bk1aSm5ZUXZDemk5a2Q2SnptclFrb3lQZzJiUW11YU9jaHpXaEl1YmpFRlIyUFU4aXFYOFFJTVQ2R3MyU2VUMTZTU1piOXY4M3BzRHpmYlVxd0ZjQjYxUTZiUWtQRUFiVDZvUEtENA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Lenovo Cloud Gaming Handheld G700 is now official with a unique feature - GSMArena.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXBxNEFYdm5WUjlhblEzclh3bU1oRFUzMWRQR1dJZjY0OUxUcndHRnpQTDQzNDJrVWwzSjNnb2NPYkRpNC1NaU80V2JkMm5jNDl1VHFReTJGWUdoRkNZWXhmSE5XaUs2ZThMN2VNVjRLbEtRSldxWnkwQzdWV0FscEcxMkJOQS1UM0JfR1o3VkFVTlo3dmZrdUhuTVFldEQ4a3BCcWFqRlFGVURGWng5Mw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Exclusive: This is Lenovo's IdeaPad Vibe, its answer to the MacBook Neo, and it comes in 7 colors - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTUwU3dZOHZGQUtZblE1R3dmRGpwai12bTB6b0JZV1ZDZGEyZ3VVeVZfVmMtNlFucGF4LU5wTmFNR3ZQMFRteXJRRWhtUF9pTDdibVdKQ1diWm9EM2NnRG1uSEViTW96M2FBRi1zTjZHNVhTRVJReDlqZGJzcndxbS1QQjJzSlpRYnF1YVNfbUU4ZVhpRmw3X1VlLXZ2REhNMGZQQWNSUmRHRHRfUHJXWGJtZU1MNm5MTHZUVnNmQjA0Z0tKX2ZqQ1NDZHBiR1ZC?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -195229,14 +195270,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T23:10:14+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Lenovo's Category Manager role requires 3-7 years of experience, exceeding Shlok's ~1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-20T23:10:14+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Lenovo's Category Manager role requires 3-7 years of experience, exceeding Shlok's ~1.3 years."
   },
   {
    "id": "L1607",

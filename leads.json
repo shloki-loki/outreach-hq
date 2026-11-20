@@ -214406,15 +214406,15 @@
    "key": "studiokfounderresidency|entrepreneur in residence|bengaluru",
    "type": "job",
    "company": "StudioK Founder Residency",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "studiok.dev",
+   "company_url": "https://www.studiok.dev",
    "company_linkedin": "https://in.linkedin.com/company/founderresidencystudiok",
    "company_note": "",
    "title": "Entrepreneur in Residence",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489236823",
    "source_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-studiok-founder-residency-4489236823",
@@ -214436,17 +214436,17 @@
    "exp_text": "Seniority level Executive Employment type Full-time Industries Education Administration Programs",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "Monthly stipend of INR 50K",
     "min_lpa": null,
     "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
+    "basis": "stated",
+    "source": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-studiok-founder-residency-4489236823",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 45,
+    "total": 58,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -214456,15 +214456,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Entrepreneur in Residence at StudioK, asks for a BTech and AI coding, but pays a monthly stipend of INR 50K.",
+    "fit_notes": "The posting asks for a 'BSc or BTech (final year, or graduated in the last 2 years)' and 'Strong command of AI coding and LLM tooling'. Shlok has a BTech in Electrical and Electronics Engineering from IIT Guwahati and 1.3 years of experience. However, the pay is only a monthly stipend of INR 50K, which fails his Rs 24.5 LPA requirement.",
+    "pay_notes": "Stated stipend is INR 50K per month, which is significantly below the Rs 24.5 LPA threshold.",
+    "culture_notes": "Backed by Amir Khan (MARL Accelerator) and David Lambert (Right Side Capital Management); offers housing, meals, and tools at StudioK HackHouse. No employee reviews or ratings found.",
+    "hook": "Backed by Amir Khan (MARL Accelerator) and David Lambert (Right Side Capital Management) to back the next generation of AI-native B2B founders.",
+    "hook_source": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-studiok-founder-residency-4489236823",
+    "researched_at": "2026-11-20T13:20:05+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -214488,14 +214495,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-20T13:20:05+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 58: rejected (Monthly stipend of INR 50K falls far below Shlok's required minimum fixed pay of Rs 24.5 LPA.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-20T13:20:05+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Monthly stipend of INR 50K falls far below Shlok's required minimum fixed pay of Rs 24.5 LPA."
   },
   {
    "id": "L1796",

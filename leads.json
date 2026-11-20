@@ -216434,7 +216434,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru South, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492170814",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-peoplex-ventures-4492170814",
@@ -216450,7 +216450,7 @@
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Department: Sales & Business Development\n Location: Gurgaon (Delhi/NCR), Noida or Bangalore\n Industry: Commercial Design & Build\n Reporting To: Chief Executive Officer (CEO)\n Employment Type: Full-Time\n Role Overview \n We are looking for an experienced Business Development Manager – Sales with experience in business development or sales within the commercial Design & Build industry. The ideal candidate will drive business growth by identifying new opportunities, acquiring corporate clients, building strategic partnerships, and expanding the company's market presence.\n The role requires strong industry knowledge, commercial acumen, negotiation skills, and the ability to lead and mentor a sales team while building long-term client relationships.\n Key Responsibilities \n Business Development Strategy: Develop and implement business development strategies aligned with the company's growth objectives and market opportunities.\n Client Acquisition: Identify and acquire new clients, particularly corporate clients, and build relationships with key decision-makers and industry stakeholders.\n Sales Team Leadership: Lead, mentor, and manage the sales team to achieve business targets and improve overall sales performance.\n Market Research: Identify emerging opportunities, monitor market trends, and analyse the competitive landscape within the commercial Design & Build industry.\n Proposals & Presentations: Develop business proposals, presentations, and pitches that effectively communicate the company's offerings and value proposition.\n Client Relationship Management: Build and maintain strong relationships with existing clients to drive customer satisfaction, repeat business, and referrals.\n Sales & Negotiations: Lead commercial discussions, negotiate contracts, and drive opportunities from initial engagement through deal closure.\n Performance Monitoring: Track sales pipelines, revenue targets, and business development metrics to evaluate performance and optimise sales strategies.\n Cross-functional Collaboration: Work closely with design, project management, and execution teams to align client requirements with project capabilities and delivery expectations.\n Requirements \n Experience in business development or sales, preferably within the commercial Design & Build industry.\n Strong understanding of commercial interiors, workspace design, fit-outs, and turnkey project execution.\n Proven track record of acquiring clients, generating business, negotiating contracts, and closing high-value deals.\n Experience in leading and managing sales teams, setting targets, and driving revenue growth.\n Strong understanding of corporate client requirements, industry trends, and the commercial real estate ecosystem.\n Excellent communication, presentation, negotiation, and relationship management skills.\n Ability to develop business strategies, manage sales pipelines, and build long-term client partnerships.\n Strong commercial acumen and an established network within the Design &",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -216465,8 +216465,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -216476,15 +216476,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "BDM for commercial Design & Build at PeopleX Ventures; asks for industry experience and network you do not have.",
+    "fit_notes": "The posting asks for 'experience in business development or sales, preferably within the commercial Design & Build industry' and 'an established network of corporate decision-makers, real estate stakeholders'. Shlok's facts like [ceo-coo] and [sop] show strong supply chain and strategy operations experience at Ola Electric, but he lacks the specific commercial interiors industry experience and network required.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company website or news found; no employee reviews or culture data available.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T13:32:55+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -216508,14 +216515,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-20T13:32:55+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The role requires experience in the commercial Design & Build industry with an established network of corporate real estate stakeholders, which does not match Shlok's supply chain and strategy background at Ola Electric.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-20T13:32:55+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role requires experience in the commercial Design & Build industry with an established network of corporate real estate stakeholders, which does not match Shlok's supply chain and strategy background at Ola Electric."
   },
   {
    "id": "L1812",

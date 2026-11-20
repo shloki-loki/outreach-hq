@@ -185027,15 +185027,15 @@
    "key": "vestas|supply planning professional|india",
    "type": "job",
    "company": "Vestas",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "vestas.com",
+   "company_url": "https://www.vestas.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Supply Planning Professional",
    "tier": "1 - Strategy & Ops",
    "location": "Chennai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "455201",
    "source_url": "https://www.instahyre.com/job-455201-supply-planning-professional-at-vestas-chennai/",
@@ -185071,8 +185071,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -185081,15 +185081,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Supply Planning Professional at Vestas in Chennai, asks 3-5 yrs; your Ola inventory work maps, but location and experience mismatch.",
+    "fit_notes": "The posting asks for \"3 - 5 years of experience from a global international supply chain function within production, material planning and spare parts/service environment\". Shlok has about 1.3 years of experience. The posting also mentions SAP MM, which maps to his experience [mrp]. However, the role is onsite in Chennai and does not meet Shlok's Bengaluru or remote-first location preference.",
+    "pay_notes": "Pay is not stated in the posting, and no salary evidence for this role at Vestas in India is available.",
+    "culture_notes": "Glassdoor ratings were not found in the evidence. Recent news indicates Vestas announced a new round of redundancies [S3] and profits were hit by weak volume and a broken turbine blade [S2].",
+    "hook": "Noted Vestas's recent focus on supply chain and global spare parts availability for installed wind turbines.",
+    "hook_source": "https://www.instahyre.com/job-455201-supply-planning-professional-at-vestas-chennai/",
+    "researched_at": "2026-11-20T23:03:16+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Vestas acquires Indian and Mexican blade factories - EnergyWatch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mZWdjUm5nMjRhamVkUkZXMmRtakZLR2N6OWU2RUppVi16cnFKRTlpRng0eHMzRzAyblZzc003dEV3bFd4RktHV2tUM0tCcm1yTUFqNG9DeDJYNG14NWJnc2ZBZllUWUZ2djVF?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Vestas profit hit by weak volume, broken turbine blade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlRrOHBwZkRJNmViSHUwYkQ1NG42YWcyR3JyZFNRYXowZVJySUZKc0xDWFZoaTNNQmd4UDF2UjdtcURWZVhEQll0bGVqNUw3OHNGazVIZjdHQXl5OGlsLWtBLW9RVm43QnVZcE02MUVKcmJ6Y1NqaE5TbGVLenFIb2FmZ0JtWEJVMG5XRzNOSmdneXZwWngzWFRCS3poTHBnQTFDb0dzNS0?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Vestas announces new round of redundancies - Recharge News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSVMtb2tVZE1kV0wweXBDLW9EVUZGS0VzOVYxMG5JQW9xc3pqNVJpcTRHa0F1Z3hlZk1tVU5BSmFoYl9RVnRWbElPTjFsTktFRzhxYUptb1RjTGlaQjRvaDQ2bFRSbzA0SFoxWnFVZkVrRVcyWEtmV3B0MC1YRm5kT2FjTUtwb05RMlp0UVlKU2JrQlNhQXdHTg?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Vestas Jumps Most in Four Years on Higher Profit Guidance - Energy Connects",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1BObU5aeFNSeUVnNjhIelQtbkMwZEQ0akExc1lDUkxyQXdMZV9sRi1DZnNhRm1mX2g1TUhwcG1SeXpFQ0NqVER2TndHWUV1WjNKYTRzOWpuOTdmakhEMWpjYmgwRUFHMXZBWExZejlyVU1ibDdFNzdOOFhOakh6eGR1V0lXdFpWZnE2eXJLc1ZGMFlhM1FULUQwbm5nUndadHMydTlvaVhrdW95QTRpeHBTa0o4TWst?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Vestas reveals orders for 451 MW of wind turbines - Renewables Now",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMW9aMEtNS1BrRl9HSldqSjg1cVp5WGNTd05RTW5HZGxsdVphT1VWWl9PdkNhRDMwMnRhaVYzX0w0UTU5Uk5FOGlLWVhEeFZXUTJpTDUwWTBxNGd2WWM3V2JPVERRZ0tVUDRrOVYxcTdWd1N2Q1RzcDVDVVV6X0x1QUZiOEJ1RE5TNmljeHZEa0o5MkE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Wind turbine manufacturer Vestas sees revenue up 26.1% in second quarter - Sustainability Online",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnV5SnZkcDFWY3NkdlQxV1lyTkxETll0LVVrSUx1T1ZMOHhGRS1EN29WNGF4YktJUGpRTmIyT1NlOWxtSFpUWjB6cExCN0ZZQXloSFluTFVydk1ETms5cXlMWTRJWk1SVHZ1UVJTUE4tM0lRZnZOSlpHYnNPaVhwSUlfUGdFeUxGWVhhTTVZZFUxNU1ock16ZXA3Ym9XOGIwdmM4bUxzWHdFUWVHRHI4?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "mrp",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -185113,14 +185154,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T23:03:16+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (Role requires 3-5 years of experience (Shlok has 1.3 years), is based in Chennai (outside Bengaluru), and offers unknown pay without meeting the Rs 24.5 LPA fixed threshold.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-20T23:03:16+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role requires 3-5 years of experience (Shlok has 1.3 years), is based in Chennai (outside Bengaluru), and offers unknown pay without meeting the Rs 24.5 LPA fixed threshold."
   },
   {
    "id": "L1518",

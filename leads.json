@@ -7914,9 +7914,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Rajalakshmi Subramanian"
+    },
+    {
+     "at": "2026-11-20T22:25:16+05:30",
+     "actor": "follow-up",
+     "event": "auto_reply",
+     "detail": "talenthub@career-tree.in: Automatic reply: Chief of Staff, Manufacturing (Chennai)"
     }
    ],
-   "updated_at": "2026-11-20T16:34:16+05:30",
+   "updated_at": "2026-11-20T22:25:16+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
@@ -167051,7 +167057,7 @@
     }
    },
    "first_contacted_at": "2026-11-20T16:42:32+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-20T22:25:16+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -167159,9 +167165,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Yogesh Ghaturle"
+    },
+    {
+     "at": "2026-11-20T22:25:16+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "yogesh@origin.tech: Adding @Nishanth S <nishanth@origin.tech> and @Deeptha B S <deeptha@origin.tech> to have a chat. Please share your resume. Best Regards, Yogesh Ghaturle, Co-Fou"
     }
    ],
-   "updated_at": "2026-11-20T16:42:32+05:30",
+   "updated_at": "2026-11-20T22:25:16+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:53:28+05:30",
     "why": "the posting page has no readable description",

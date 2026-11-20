@@ -150,7 +150,12 @@
    "message_id": "<179465097399.2271.13000847313796879136@gmail.com>",
    "thread_parent": null,
    "error": null,
-   "reply": null
+   "reply": null,
+   "auto_reply": {
+    "at": "2026-11-20T22:25:16+05:30",
+    "subject": "Automatic reply: Chief of Staff, Manufacturing (Chennai)",
+    "snippet": "Hi, Thank you for your interest in CareerTree HR Solutions and for sharing your profile with us. Your profile has been received. Our team will carefully review it against the roles we are currently working on. If your experience and skills match a requirement, we will get in touch with you directly. If you are not contacted right away, please do not be disheartened. We will keep your profile on re"
+   }
   },
   {
    "id": "M0007",
@@ -431,7 +436,7 @@
    "kind": "cold",
    "subject": "build plan for the robots",
    "body": "Hi Yogesh,\n\nCongrats on coming out of stealth with Accel and Zacua behind Origin. A goal of 150 robots on sites by the end of 2027 means the build plan and the cost per robot have to hold up month after month.\n\nI'm Shlok, I spent the last year in strategy and operations at Ola Electric. I drove the production planning for the cell-line launch, where yield went from 42% to 67% in two months. For your Founder's Office manufacturing role, I could own the rolling build plan and the yield tracking that feeds back into design.\n\nHow are you planning builds against the deployment pipeline today?\n\nShlok\n",
-   "status": "sent",
+   "status": "replied",
    "email_status": "verified",
    "speculative": false,
    "hook": "Origin came out of stealth in October with $20M led by Accel and Zacua and a goal of 150 robots on sites by end-2027",
@@ -448,7 +453,13 @@
    "message_id": "<179517314377.75685.10813292372378692157@gmail.com>",
    "thread_parent": null,
    "error": null,
-   "reply": null
+   "reply": {
+    "at": "2026-11-20T22:25:16+05:30",
+    "from": "yogesh@origin.tech",
+    "subject": "Re: build plan for the robots",
+    "date": "Fri, 20 Nov 2026 18:48:45 +0530",
+    "snippet": "Adding @Nishanth S <nishanth@origin.tech> and @Deeptha B S <deeptha@origin.tech> to have a chat. Please share your resume. Best Regards, Yogesh Ghaturle, Co-Founder & CEO, Origin <https://www.origin.tech/> +91-9980942947 On Fri, 20 Nov 2026 at 16:42, Shlok Agrawal <111shlokagrawal@gmail.com> wrote:"
+   }
   },
   {
    "id": "M0018",

@@ -11844,7 +11844,21 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Satish S Jeevannavar",
+     "title": "Founder & CEO",
+     "role_type": "founder",
+     "linkedin_url": "",
+     "email": "satish.sj@aihighway.org",
+     "email_status": "published",
+     "email_source": "stated in the posting",
+     "confidence": 0,
+     "why": "Role reports to him; he wrote the hiring post and asks for CVs at this address",
+     "found_at": "2026-11-20T15:35:12+05:30"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -11882,9 +11896,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-20T15:35:12+05:30",
+     "actor": "email-finder",
+     "event": "contact_added",
+     "detail": "Satish S Jeevannavar (founder)"
     }
    ],
-   "updated_at": "2026-11-19T23:44:30+05:30",
+   "updated_at": "2026-11-20T15:35:12+05:30",
    "reject_reason": "score 64 is under 65",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",

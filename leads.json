@@ -213790,7 +213790,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491627206",
    "source_url": "https://in.linkedin.com/jobs/view/strategy-associate-at-talentrabbit-4491627206",
@@ -213821,8 +213821,8 @@
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 35,
+    "total": 55,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -213832,15 +213832,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Executive - Founder's Office at TalentRabbit asks 0-3 yrs; junior fresher-level role handling TA tracking and social content, unlikely to meet target pay.",
+    "fit_notes": "The posting asks for 0–3 years of experience (freshers welcome) for an 'Executive – Founder's Office' role involving TA tracking, client follow-ups, and social media branding. While Shlok has experience working directly with the CEO and COO [ceo-coo] and running operations [sop], this posting is a junior executive/coordinator role at a recruitment firm.",
+    "pay_notes": "No pay stated. Junior executive roles open to freshers at recruitment/staffing firms fall significantly below the Rs 24.5 LPA fixed requirement.",
+    "culture_notes": "No company website, news, or culture ratings found for TalentRabbit.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T13:10:24+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -213864,14 +213874,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-20T13:10:24+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 55: rejected (Role is a junior executive/fresher position ('Executive – Founder's Office', asks 0-3 years) focused on recruitment tracking and social media execution, which will not clear Shlok's Rs 24.5 LPA fixed pay threshold.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-20T13:10:24+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Role is a junior executive/fresher position ('Executive – Founder's Office', asks 0-3 years) focused on recruitment tracking and social media execution, which will not clear Shlok's Rs 24.5 LPA fixed pay threshold."
   },
   {
    "id": "L1790",

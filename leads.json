@@ -216759,7 +216759,7 @@
    "key": "waveultra|business development manager|bengaluru",
    "type": "job",
    "company": "Waveultra",
-   "company_domain": "",
+   "company_domain": "waveultra.in",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/wave-ultra-engineers-automation-private-limited",
    "company_note": "",
@@ -216767,7 +216767,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492139784",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-waveultra-4492139784",
@@ -216783,7 +216783,7 @@
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Company Description Waveultra is an engineering and manufacturing company specializing in ultrasonic cleaning systems, precision component manufacturing, and contract manufacturing for industrial applications. Established in 2008, the company has grown into a comprehensive partner for precision machining, fabrication, sub‑system manufacturing, machine assembly, and specialized engineering solutions. Its capabilities span CNC machining (including milling, turning, turn‑mill, and 5‑axis machining), fabrication (laser cutting, sheet metal bending, welding, and custom enclosures), and end‑to‑end contract manufacturing. Waveultra also delivers engineering solutions such as ultrasonic cleaning systems, special purpose machines, and design support, with quality and inspection integrated throughout the manufacturing process. From prototypes and low‑volume runs to repeat production and complete machine builds, Waveultra focuses on tailoring solutions to customer requirements.\n Role Description \n The Business Development Manager is a full-time, on-site role based in Bengaluru, responsible for driving revenue growth and expanding Waveultra’s customer base in industrial and manufacturing sectors. \n Day-to-day activities include identifying and qualifying new business opportunities, managing the sales pipeline, and building long-term relationships with engineering and procurement teams. \n The role involves understanding customer requirements for CNC machining, fabrication, contract manufacturing, and engineering solutions, preparing proposals and quotations, and coordinating with internal technical and operations teams to ensure accurate scope and timely delivery. \n The Business Development Manager will conduct market research, attend industry events, and provide input into sales strategies and pricing. Regular reporting on sales performance, forecasting, and maintaining CRM data are also key responsibilities.\n Qualifications \n Proven experience in business development, sales, or account management within engineering, manufacturing, industrial equipment, or related sectors.\n Strong ability to understand and communicate technical offerings such as CNC machining, fabrication, ultrasonic cleaning systems, and contract manufacturing solutions.\n Excellent skills in prospecting, negotiation, proposal development, and closing deals with B2B customers.\n Effective communication, presentation, and interpersonal skills, with the ability to collaborate with cross-functional internal teams.\n Solid analytical and commercial acumen, including market research, opportunity assessment, and sales forecasting.\n Comfort with using CRM tools, spreadsheets, and basic business productivity software to manage pipeline and reporting.\n Bachelor’s degree in Engineering, Business, or a related field; an MBA or equivalent business qualification is an advantage.\n Demonstrated ability to work on-site with customers and internal teams in Bengaluru, with occasional travel as required.\n Contac",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -216798,8 +216798,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -216809,15 +216809,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Development Manager at Waveultra, an industrial manufacturing firm; asks mid-senior B2B sales experience and offers unknown pay.",
+    "fit_notes": "The posting asks for 'Proven experience in business development, sales, or account management within engineering, manufacturing, industrial equipment, or related sectors' and 'Mid-Senior level'. While Shlok has engineering background (B.Tech Electrical & Electronics from IIT Guwahati) and operations experience at Ola Electric ([sop], [ceo-coo]), this role requires direct B2B industrial sales and account management for CNC machining and fabrication rather than high-growth startup strategy, operations, or product management. No years are explicitly specified, but it targets mid-senior level. Pay is not stated.",
+    "pay_notes": "Pay not stated in the posting; no evidence found online.",
+    "culture_notes": "Waveultra is an engineering and manufacturing company established in 2008 specializing in ultrasonic cleaning and precision component manufacturing. No review data or culture notes found.",
+    "hook": "I noticed Waveultra provides custom CNC machining, fabrication, and ultrasonic cleaning systems for industrial applications.",
+    "hook_source": "https://in.linkedin.com/jobs/view/business-development-manager-at-waveultra-4492139784",
+    "researched_at": "2026-11-20T13:33:38+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -216841,14 +216848,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-20T13:33:38+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (Role is a mid-senior level on-site traditional B2B industrial sales and business development position for a small manufacturing firm with no pay data, completely misaligned with Shlok's strategy, operations, and product priorities.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-20T13:33:38+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Role is a mid-senior level on-site traditional B2B industrial sales and business development position for a small manufacturing firm with no pay data, completely misaligned with Shlok's strategy, operations, and product priorities."
   },
   {
    "id": "L1815",

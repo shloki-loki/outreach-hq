@@ -10143,6 +10143,11 @@
      "at": "2026-11-19T23:07:56+05:30",
      "by": "claude",
      "text": "Re-qualified 2026-11-19: qualify bar lowered from 65 to 60 (Shlok's call); it was rejected only for the old bar."
+    },
+    {
+     "at": "2026-11-20T15:35:58+05:30",
+     "by": "send-track",
+     "text": "Application kit saved from the Ashby form (9 fields, all required). Two answers need Shlok: the variable/ESOP split of current CTC, and one number for expected fixed CTC. Role asks 2-4 years, 6-day in-office in Delhi."
     }
    ],
    "timeline": [
@@ -10177,7 +10182,7 @@
      "detail": "application answers prepared"
     }
    ],
-   "updated_at": "2026-11-20T15:35:44+05:30",
+   "updated_at": "2026-11-20T15:35:58+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",

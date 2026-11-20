@@ -3178,9 +3178,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup1 to Kanika Dang queued (template)"
+    },
+    {
+     "at": "2026-11-20T16:35:30+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup1 email to Kanika Dang"
     }
    ],
-   "updated_at": "2026-11-19T23:14:52+05:30",
+   "updated_at": "2026-11-20T16:35:30+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

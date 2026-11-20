@@ -220209,7 +220209,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Indore, Madhya Pradesh, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491609760",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-executive-at-hub-of-creators-4491609760",
@@ -220240,8 +220240,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -220251,15 +220251,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office Executive at an Indore marketing agency; non-Bengaluru/remote location and junior title fail basic criteria.",
+    "fit_notes": "The role asks for a Founder's Office Executive at a social media marketing agency in Indore to support daily operations and metrics tracking. While Shlok has experience working directly with C-suite executives [ceo-coo], the location is Indore (not Bengaluru or remote) and the executive title at an agency indicates a junior role.",
+    "pay_notes": "Pay is not stated in the posting. Agency executive roles in Indore typically pay well below Rs 24.5 LPA fixed.",
+    "culture_notes": "No company domain, Glassdoor, or AmbitionBox data found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T22:42:31+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -220283,9 +220292,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-20T22:42:31+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (Role is based onsite in Indore (not Bengaluru or remote) with a junior Executive title at a local social media marketing agency, making it extremely unlikely to meet his 24.5 LPA pay target.)"
     }
    ],
-   "updated_at": "2026-11-20T14:48:43+05:30"
+   "updated_at": "2026-11-20T22:42:31+05:30",
+   "reject_reason": "Role is based onsite in Indore (not Bengaluru or remote) with a junior Executive title at a local social media marketing agency, making it extremely unlikely to meet his 24.5 LPA pay target."
   },
   {
    "id": "L1837",

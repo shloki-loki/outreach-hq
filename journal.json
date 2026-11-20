@@ -3932,6 +3932,15 @@
    "title": "Template job-apply-v1: 1 emails queued",
    "detail": "0 addresses left after today; refused 0",
    "ref": "M0145"
+  },
+  {
+   "id": "J0438",
+   "at": "2026-11-20T16:13:29+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

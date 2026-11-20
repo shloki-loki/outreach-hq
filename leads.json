@@ -185578,15 +185578,15 @@
    "key": "enterpret|revenue operations and systems|bengaluru",
    "type": "job",
    "company": "Enterpret",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "enterpret.com",
+   "company_url": "https://enterpret.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Revenue Operations & Systems (RevOps)",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "452035",
    "source_url": "https://www.instahyre.com/job-452035-revenue-operations-systems-revops-at-enterpret-bangalore/",
@@ -185617,8 +185617,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -185627,15 +185627,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "RevOps & Systems at Enterpret in Bangalore, asks 5-9 years; far above your 1.3 years of experience.",
+    "fit_notes": "The posting asks for '5-9 Years' of experience and expertise in owning revenue operations, business systems, CRM (Salesforce/HubSpot), and APIs. While Shlok has strong operations experience at Ola Electric (such as implementing SAP MRP and handling S&OP), the experience requirement of 5-9 years is a hard block for his 1.3 years of experience.",
+    "pay_notes": "Pay is not stated in the posting, and no compensation evidence was found in the search notes.",
+    "culture_notes": "Glassdoor ratings and detailed culture reviews were not available from the posting or web evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T23:03:39+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -185659,14 +185666,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T23:03:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The posting explicitly requires 5-9 years of experience, which is well beyond Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-20T23:03:39+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly requires 5-9 years of experience, which is well beyond Shlok's 1.3 years of experience."
   },
   {
    "id": "L1523",

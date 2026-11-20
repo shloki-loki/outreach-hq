@@ -5099,9 +5099,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup1 to hello@carbontrail.net queued (template)"
+    },
+    {
+     "at": "2026-11-20T16:36:28+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup1 email to hello@carbontrail.net"
     }
    ],
-   "updated_at": "2026-11-19T23:35:27+05:30",
+   "updated_at": "2026-11-20T16:36:28+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

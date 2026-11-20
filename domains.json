@@ -262,6 +262,12 @@
     "first"
    ],
    "confirmed": []
+  },
+  "traveltriangle.com": {
+   "bounced_patterns": [
+    "first.last"
+   ],
+   "confirmed": []
   }
  }
 }

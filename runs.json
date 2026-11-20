@@ -3081,6 +3081,16 @@
     "sent": 10,
     "failed": 0
    }
+  },
+  {
+   "at": "2026-11-20T16:27:35+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "stats": {
+    "sent": 10,
+    "failed": 0
+   }
   }
  ]
 }

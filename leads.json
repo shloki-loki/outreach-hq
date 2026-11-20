@@ -41399,15 +41399,22 @@
      "actor": "claude",
      "event": "stage",
      "detail": "qualified"
+    },
+    {
+     "at": "2026-11-20T13:36:00+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-19T23:08:31+05:30",
+   "updated_at": "2026-11-20T13:36:00+05:30",
    "reject_reason": "score 61 is under 65",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "people_searched_at": "2026-11-20T13:36:00+05:30"
   },
   {
    "id": "L0329",

@@ -3788,6 +3788,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 73 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J0422",
+   "at": "2026-11-20T12:37:44+05:30",
+   "by": "live-check",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "1324 postings checked: 265 live, 9 moved to the Bin, 1473 could not be checked",
+   "ref": ""
   }
  ]
 }

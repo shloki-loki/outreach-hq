@@ -214206,7 +214206,7 @@
    "posted_at": "2026-11-19",
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-20",
-   "open": true,
+   "open": false,
    "jd": "Key Responsibilities \n 1. Business & Operational Oversight \n Work closely with the Founder to monitor business operations and strategic priorities across multiple business verticals.\n Establish effective coordination mechanisms between business heads and functional departments.\n Monitor key business activities, deliverables, milestones and operational dependencies.\n Ensure alignment between organisational priorities and execution at the departmental level.\n 2. Transaction Monitoring & Execution Visibility \n Develop and maintain a centralised tracking mechanism for ongoing transactions across business verticals.\n Monitor transaction pipelines, critical milestones, documentation, approvals and closure timelines.\n Ensure timely follow-ups with internal stakeholders and concerned departments.\n Provide the Founder with regular updates on transaction progress, pending actions, bottlenecks and critical developments.\n Identify execution gaps and proactively escalate matters requiring management intervention.\n 3. SOP & SLA Implementation \n Develop, review and implement Standard Operating Procedures (SOPs) across departments.\n Define and monitor Service Level Agreements (SLAs), turnaround times and interdepartmental deliverables.\n Establish accountability frameworks and ensure adherence to defined processes.\n Identify operational inefficiencies and recommend process improvements.\n Drive standardisation of workflows, reporting mechanisms and internal coordination processes.\n 4. Interdepartmental Coordination \n Act as the central coordination point between Investment Banking, Broking, PMS, Angel Network, Finance, Operations, Compliance, Technology and other functions.\n Ensure seamless information flow and coordination between departments.\n Track pending deliverables and ensure timely resolution of interdepartmental dependencies.\n Facilitate periodic reviews with business heads and functional leaders.\n Drive closure of action points arising from management meetings.\n 5. MIS, Reporting & Management Reviews \n Prepare periodic management dashboards, business updates and operational MIS.\n Establish visibility on business performance, transaction status, departmental productivity and pending deliverables.\n Organise management review meetings and monitor action-point closures.\n Present concise reports highlighting progress, delays, operational challenges and areas requiring intervention.\n Ensure the Founder has timely and accurate information for decision-making.\n 6. Strategic Initiatives & Special Projects \n Work on strategic and operational initiatives assigned by the Founder.\n Drive execution of cross-functional projects involving multiple business units.\n Support business expansion initiatives, organisational restructuring and operational improvements.\n Act as an execution partner to the Founder in translating strategic priorities into actionable plans.",
    "exp_min": null,
    "exp_max": null,
@@ -214265,13 +214265,24 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-20T13:27:58+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-20T13:27:58+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
+   },
+   "bin": {
+    "at": "2026-11-20T13:27:58+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "research-worker"
    }
   },
   {

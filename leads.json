@@ -48810,7 +48810,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "jitender@zipgo.in",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 39 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -48842,9 +48842,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Jitender Sharma"
+    },
+    {
+     "at": "2026-11-20T16:07:18+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "jitender@zipgo.in does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-20T15:17:37+05:30",
+   "updated_at": "2026-11-20T16:07:18+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
@@ -52312,7 +52318,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "shalabh@fluidvc.in",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 85 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -52357,9 +52363,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Shalabh Gupta"
+    },
+    {
+     "at": "2026-11-20T16:07:18+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "shalabh@fluidvc.in does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-20T15:57:37+05:30",
+   "updated_at": "2026-11-20T16:07:18+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
@@ -52721,7 +52733,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "ville@outerbounds.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 88 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -52779,9 +52791,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ville Tuulos"
+    },
+    {
+     "at": "2026-11-20T16:07:18+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "ville@outerbounds.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-20T16:01:02+05:30",
+   "updated_at": "2026-11-20T16:07:18+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

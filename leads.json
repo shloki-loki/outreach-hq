@@ -8347,7 +8347,7 @@
     "evidence_model": "fetched (website + Google News; no web search)"
    },
    "stage": "qualified",
-   "outcome": null,
+   "outcome": "rejected",
    "applied_at": null,
    "apply": {
     "status": "not_started",
@@ -8382,9 +8382,15 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 74: qualified"
+    },
+    {
+     "at": "2026-11-20T16:34:30+05:30",
+     "actor": "shlok",
+     "event": "outcome",
+     "detail": "rejected"
     }
    ],
-   "updated_at": "2026-11-20T15:36:17+05:30",
+   "updated_at": "2026-11-20T16:34:30+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",

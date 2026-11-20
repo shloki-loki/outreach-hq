@@ -10115,9 +10115,19 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Name": "Shlok Agrawal",
+     "Email": "111shlokagrawal@gmail.com",
+     "Contact Number": "+91-9343806463",
+     "LinkedIn Profile URL": "https://www.linkedin.com/in/shlok-agrawal-iitg/",
+     "What is your earliest joining date?": "Immediate (notice period: Immediate). Date field: pick the earliest date that suits Atlys after an offer.",
+     "Are you currently based in Delhi NCR? If not, are you open to relocating to Delhi?": "No, I am based in Bengaluru. Yes, I am open to relocating to Delhi.",
+     "What is your current CTC? Please mention fixed, variable, and equity/ESOPs separately.": "Fixed: 20 LPA. Variable: NEEDS SHLOK. Equity/ESOPs: NEEDS SHLOK.",
+     "What is your expected fixed CTC?": "NEEDS SHLOK: the field takes one number; your saved range is 24-30 LPA fixed, so pick one figure in it.",
+     "Resume": "Attach the current resume (https://shlokagrawal-portfolio.vercel.app/resume)."
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -10153,9 +10163,21 @@
      "actor": "claude",
      "event": "stage",
      "detail": "qualified"
+    },
+    {
+     "at": "2026-11-20T15:35:44+05:30",
+     "actor": "send-track",
+     "event": "apply",
+     "detail": "kit_ready"
+    },
+    {
+     "at": "2026-11-20T15:35:44+05:30",
+     "actor": "send-track",
+     "event": "apply_kit",
+     "detail": "application answers prepared"
     }
    ],
-   "updated_at": "2026-11-19T23:07:56+05:30",
+   "updated_at": "2026-11-20T15:35:44+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",

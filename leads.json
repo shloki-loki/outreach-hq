@@ -834,7 +834,8 @@
      "Current Compensation (Yearly)": "20 LPA fixed",
      "Expected Compensation (Yearly)": "24-30 LPA fixed",
      "Notice Period (In days)": "Immediate",
-     "How did you get to know about this role?": "LinkedIn post by Meesho's talent acquisition team (Pradipta Jamaiyar)"
+     "How did you get to know about this role?": "LinkedIn post by Meesho's talent acquisition team (Pradipta Jamaiyar)",
+     "Why this role (cover note)": "Fulfilment program management comes down to improving delivery timelines while keeping logistics spend efficient. I've spent the last year in strategy and operations at Ola Electric handling fulfilment and inventory operations. When order-to-delivery times stretched to 32 days, I built a lotting algorithm for truck dispatches that brought it down to 14 days. Working with leadership on finished goods inventory, setting up milk-run routes cut logistics spend by 34%. Meesho's focus on e-commerce experience makes delivery speed and efficiency central, and I'd bring this execution rigor to your team."
     }
    },
    "first_contacted_at": null,
@@ -912,9 +913,15 @@
      "actor": "shlok",
      "event": "outcome",
      "detail": "rejected"
+    },
+    {
+     "at": "2026-11-20T14:04:02+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-15T18:17:05+05:30",
+   "updated_at": "2026-11-20T14:04:02+05:30",
    "live_check": {
     "at": "2026-11-15T11:56:01+05:30",
     "state": "live",

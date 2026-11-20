@@ -363,6 +363,20 @@
    "count": 1,
    "remedy": "Cause: drafts need Shlok's approval (supersedes I0019). Remedy: open Approvals, approve, edit or skip the 19 drafts, oldest first (M0016-M0023).",
    "resolved_at": null
+  },
+  {
+   "id": "I0027",
+   "key": "lead-scout:Run ended before the 12-lead budget (20 Nov)",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "Run ended before the 12-lead budget (20 Nov)",
+   "detail": "outreach CLI calls took 5-15 min each (data-branch sync, another outreach cycle process holding the lock); macOS has no timeout command. 8 researched, 8 rejected. 4 Instahyre leads (L1546 L1822 L1823 L1826) left unresearched: pages return 403. Apify unused.",
+   "status": "open",
+   "opened_at": "2026-11-20T15:05:55+05:30",
+   "last_seen": "2026-11-20T15:05:55+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

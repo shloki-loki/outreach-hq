@@ -45207,15 +45207,15 @@
    "key": "reliancejio|product manager|bengaluru",
    "type": "job",
    "company": "Reliance Jio",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "jio.com",
+   "company_url": "https://www.jio.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "328461",
    "source_url": "https://www.instahyre.com/job-328461-product-manager-at-reliance-jio-bangalore/",
@@ -45246,8 +45246,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -45256,15 +45256,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Reliance Jio, asks 5+ yrs and an MBA which you do not have; your S&OP work does not map to SASE B2B SaaS.",
+    "fit_notes": "The posting asks for \"5+ years as a Product Manager in B2B SaaS, preferably in cybersecurity or networking\" and an \"MBA degree\". Shlok has about 1.3 years of experience, no MBA, and a background in S&OP/fulfilment operations at Ola Electric ([sop], [ceo-coo]), which does not map to SASE B2B SaaS product management.",
+    "pay_notes": "Pay not stated in the posting, and no salary evidence available in the search results for this specific role.",
+    "culture_notes": "Reliance Jio recently made news with its IPO filing [S3, S4]. Glassdoor ratings and specific culture reviews were not available in the provided text.",
+    "hook": "Reliance Jio recently lined up a $4bn IPO, making it one of India's biggest share offerings.",
+    "hook_source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHFMNXhRZExWc3VIOGtSMUZUVWdwaEMtZ3VwbnNuUE9iUWZ4TmtldkNCUEhDY2JhMUhqbjFMcTVzU3RKVjdGNXB6ZkNJV1hJM1FoVk5aYnFacDNaVmhKQlFjTEdUUHJqWUNJRkh4SGd0cEpoVXVTQzZCMkxVV1l4WUl2TWZvNi1NT3dQTjlyUXUxaWQ1TV9icDJLRQ?oc=5",
+    "researched_at": "2026-11-20T22:51:17+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "India's Reliance Jio signals interest in the LEO satellite sector - Developing Telecoms",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdktvb2ROc1VGdVVGUXlwcmJFQ0R3NjdQVUhseVg3YW5ORldJSVp5R0JicThId2VBcE1jODdaRDhuLWtYS1c5M1dZX0xvdWlheTBQYTdCUlcxeVpTd1FINEFwWWFsczRUclIxYjQxVkZPQzBuUXU1T0RqRzdMWGN1Z04yY21ZNkQ3YmJkYXFPV3lyOHBaeWdqUEhfbGkwc3ZrdlRjQUZIbWZCMDZXMGVxQU5haG9OaFNOaHYzZEtDTlNZYTQ3a21vTFJnMDd0U2RVYTIyUDZXa2FwVlJRSV9fM1dZeWpSdVE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Reliance Jio IPO filing nears: A look at its rise, scale, profitability - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLVZvdmdlVjZoZFp6TXVva01hQ2pWdnRkZ3NNN3N6aGFtbHNIWE5aaGxOS2N3bXRPMkpMTmxzXzBQZGJ0T2VoaGpDd3h1T1pGWi04akcxZ0xRM0w0YkJGX2lvb0ZwU1VMaks5SndzSkhkM0lqckJqN1hrWmZTY0dTVEVac3FfQjFYVUNNcERkcVpqOXdzbVNBZEJHckhKM0xCWjNkcmg0LVptbUl0M1ZRemRhMjBRS1Z6MktFYmtIS2ZtZjRzYnlpdGEzUTFGRDjSAdQBQVVfeXFMTlZfaDJIRy01aUtNd3ZpSGRjOHpJVWFYNXh2UmZvLWdnTFdCSmRxUkstM0JjbmVyVEVGaWJZd2VlaDRsZzhnSldJVENianFyVk9pRTlweENodGE2eWMwYTNrYjRmaWdYbE54UlZQNks0SG1qTGFBc0NjX1pxTjM1Ny1TN1AtSG1iTWlRQ1d2TnZ4VGRlcHUzZzdTeTd0U2lEcXEwN3QzdU44Vk1OWnNHX1R4OG1kQTRyWVZVcjc3TGFZa1E4RDNZYWRnWlU1UGppNUgyWFA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Reliance Jio lines up $4bn IPO, biggest ever in India - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHFMNXhRZExWc3VIOGtSMUZUVWdwaEMtZ3VwbnNuUE9iUWZ4TmtldkNCUEhDY2JhMUhqbjFMcTVzU3RKVjdGNXB6ZkNJV1hJM1FoVk5aYnFacDNaVmhKQlFjTEdUUHJqWUNJRkh4SGd0cEpoVXVTQzZCMkxVV1l4WUl2TWZvNi1NT3dQTjlyUXUxaWQ1TV9icDJLRQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Reliance Jio re-launches ‘Jio Prime’ programme to offer price lock for 1-year, enhances ₹299 plan - ET Telecom",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPblJtd2pSRTg1WFUtU2laaTRuSmFGUjFOMmthbG4wQU9ObVNFRkV5VkVZR1RWWTJpN2tTNVMxRk1lc3FlMmhzOEo3cnplX1A1Z0U1ekp3azd5N3BzeDNDdmpkYUdZWFo5M0pSX1luaWN0c19HcTFwbzg2VTJzMHJsdWZ2OEpnTG0zcFA4Rm93RUdxcjZLVUI2dnV3RlM4RVBGd29pLTBPcFpjN25pZUxERkVPVEtVNTlMODlyTGdYQUpzNlc0X0Q1a2ZZMjktZG1NVE5wQzI5c2p5blRCSTVzVmJ5T2FMSHkxSXVqbDhHQUNsM01RcmdPSUtoYkVIOVnSAYQCQVVfeXFMUExNSjExRDFHemR5V3JGekJlYkt0MXRLd1p3R1h6b1JnNXdJQ1NfQU9rNHdSQmJuY3RkM29IeU5Pczh1dFdxcFZucXU4bWhzRU9sOTIxRmpjVU44UXl1eVFTM2FxUS05SzBlejZCRGtEMmxNTWhMQXo3aFR4eTlPYktVZWVTQnFoQXR3RGpPSDJFVWFRYV9LNjZRbTZGQ1ZzUm84NkFRbkhqcVkwaUNEbFhMaW11VlhRLUg4dHVwdm9ZdTBhdG5YQkRaVU9zQ2hyb2tnSnBjV2RVNVRsQ01mWlREM1FkTy14VFA2QUNhcVB0Rnl1YV8wREZKa1dkV2pOMUhSRDQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "In the wake of Reliance Jio's listing, what are India's biggest share offerings? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFg4YXVTc1NzMUVRcEJxei1XTjhrYTV4dG5sbmp5cTZmUHlmSUhwalhTQXF6SjNIN1pTb0ppQzhHcC13akhwSGVkMVhOcWRMVVZKSlpDd25oNTNmaUxLSEo3bnV0M1JjNDZfOVBxZjVPOXljV1VTZ3V6NjJxNlhxVm1iaXpzS3hXZk4xZnU0eXRybU1JZ0JzU1hWbjJxcmNZ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -45288,9 +45326,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T22:51:17+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The posting explicitly requires 5+ years of experience in B2B SaaS and an MBA, while Shlok has 1.3 years of experience and no MBA.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-20T22:51:17+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
@@ -45300,7 +45344,8 @@
     "at": "2026-11-19T23:42:10+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting explicitly requires 5+ years of experience in B2B SaaS and an MBA, while Shlok has 1.3 years of experience and no MBA."
   },
   {
    "id": "L0356",

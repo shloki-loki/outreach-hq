@@ -167020,7 +167020,7 @@
      "Current CTC / expected CTC / notice period (only if the form asks)": "NEEDS SHLOK: fill from config/profile.local.toml at submit time; not stored here."
     }
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-20T16:42:32+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -167123,9 +167123,15 @@
      "actor": "send-track",
      "event": "apply_kit",
      "detail": "application answers prepared"
+    },
+    {
+     "at": "2026-11-20T16:42:32+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Yogesh Ghaturle"
     }
    ],
-   "updated_at": "2026-11-16T10:59:32+05:30",
+   "updated_at": "2026-11-20T16:42:32+05:30",
    "research_attempt": {
     "at": "2026-11-16T02:53:28+05:30",
     "why": "the posting page has no readable description",

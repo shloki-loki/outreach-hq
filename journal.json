@@ -4058,6 +4058,15 @@
    "title": "Diagnosis: Bounce rate 6.5% (6 of 92), 6 bounces on 20 Nov",
    "detail": "Cause: the Mac slept until 15:04 IST, then the backlog was sent in a burst (62 emails, 15:08-16:46) to founder addresses that were pattern guesses or unverified (Reoon free quota is spent, I0016/I0020); 2 bounces were job-application addresses taken from posts (FRND address belonged to a reshare author, see I0023 note; careers@haystackaalytics.in likely a typo). Remedy for Shlok: pause guess/catch-all addresses in the 60 approved founder emails for 21 Nov (skip or hold them on Approvals) until Reoon credits reset, and keep sends to verified or published addresses only. Bounced addresses are already suppressed by follow-up/track.",
    "ref": "I0028"
+  },
+  {
+   "id": "J0452",
+   "at": "2026-11-20T20:12:14+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Run ended before the 12-lead budget (20 Nov)",
+   "detail": "Cause: CLI calls took 5-15 min each because the data-branch sync stalled (I0015) and a Mac send loop held the lock at the same time; Instahyre pages 403 (I0012). Nothing lost, leads still queued. Remedy: retry/backoff in store.sync (coding session); research Instahyre via browser or Apify.",
+   "ref": "I0027"
   }
  ]
 }

@@ -375,7 +375,7 @@
    "opened_at": "2026-11-20T15:05:55+05:30",
    "last_seen": "2026-11-20T15:05:55+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: CLI calls took 5-15 min each because the data-branch sync stalled (I0015) and a Mac send loop held the lock at the same time; Instahyre pages 403 (I0012). Nothing lost, leads still queued. Remedy: retry/backoff in store.sync (coding session); research Instahyre via browser or Apify.",
    "resolved_at": null
   },
   {

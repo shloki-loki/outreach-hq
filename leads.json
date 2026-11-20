@@ -11981,7 +11981,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-20T16:41:55+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -12047,9 +12047,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template job-apply-v1 email to Satish S Jeevannavar queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-20T16:41:55+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Satish S Jeevannavar"
     }
    ],
-   "updated_at": "2026-11-20T16:07:29+05:30",
+   "updated_at": "2026-11-20T16:41:55+05:30",
    "reject_reason": "score 64 is under 65",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",

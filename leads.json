@@ -2752,9 +2752,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup1 to aryan@ghostkitchensindia.com queued (template)"
+    },
+    {
+     "at": "2026-11-20T16:37:34+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup1 email to aryan@ghostkitchensindia.com"
     }
    ],
-   "updated_at": "2026-11-19T23:35:27+05:30",
+   "updated_at": "2026-11-20T16:37:34+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

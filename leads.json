@@ -218847,15 +218847,15 @@
    "key": "rsmscapabilitycenter|smi data analyst|bengaluru",
    "type": "job",
    "company": "RSM's India Global Capability Center",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "rsm.global",
+   "company_url": "https://www.rsm.global",
    "company_linkedin": "",
    "company_note": "AmbitionBox 3.3 (522 reviews, via Naukri)",
    "title": "SMI Data Analyst",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "naukri",
    "source_id": "191126927410",
    "source_url": "https://www.naukri.com/job-listings-smi-data-analyst-rsm-delivery-center-india-private-limited-bengaluru-0-to-3-years-191126927410",
@@ -218886,8 +218886,8 @@
    },
    "score": {
     "rules": 64,
-    "research": null,
-    "total": 64,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -218897,15 +218897,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "SMI Data Analyst at RSM Delivery Center India in Bengaluru, asks 0-3 yrs; pay unstated and likely below your Rs 24.5 LPA threshold.",
+    "fit_notes": "The posting asks for '0 to 3 years' of experience, 'Strong Microsoft Office skills', and 'Ability to extract, compile, and analyze data from existing reporting tools (e.g., Power BI, Excel)' as well as PowerPoint presentation development. While Shlok has strong data skills and MS Excel/PowerPoint usage in his work like [sop] and [ceo-coo], this is a junior reporting and presentation support analyst role rather than a Strategy & Operations or Founder's Office role, and it does not offer evidence of meeting his Rs 24.5 LPA fixed pay requirement.",
+    "pay_notes": "Pay is not stated in the posting, and no pay evidence was found in the search results for RSM Delivery Center India regarding this role.",
+    "culture_notes": "AmbitionBox 3.3 rating (522 reviews, via Naukri); no further company culture details or flags found in the search results.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T13:35:25+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -218929,14 +218939,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 64"
+    },
+    {
+     "at": "2026-11-20T13:35:25+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (Pay is unstated and likely far below the Rs 24.5 LPA threshold for an entry-level data analyst role at an outsourcing GCC (RSM Delivery Center India), and the role is a standard analytics/reporting support position rather than Shlok's priority areas of Strategy & Operations or Product.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-20T13:35:25+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Pay is unstated and likely far below the Rs 24.5 LPA threshold for an entry-level data analyst role at an outsourcing GCC (RSM Delivery Center India), and the role is a standard analytics/reporting support position rather than Shlok's priority areas of Strategy & Operations or Product."
   }
  ]
 }

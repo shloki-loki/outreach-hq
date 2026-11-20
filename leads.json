@@ -4195,6 +4195,11 @@
      "at": "2026-11-12T20:56:06+05:30",
      "by": "import",
      "text": "Earlier draft (LinkedIn connection note), not sent:\nHi Akash, I've applied via the Keka link for the Data Analyst (RevOps) role at FloBiz. The n8n/API automation piece fits my work at InsuranceDekho, where I built REST APIs and Chrome extensions that cut ~30 min of manual effort per instance. Happy to share more."
+    },
+    {
+     "at": "2026-11-20T15:36:21+05:30",
+     "by": "send-track",
+     "text": "No application kit: the Keka application form loads by script, so its questions could not be listed without a browser. JD asks 1-2 yrs RevOps with CRM tools."
     }
    ],
    "timeline": [
@@ -4205,7 +4210,7 @@
      "detail": "from tracker batch 1 (2026-10-28) as R19"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-20T15:36:21+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",

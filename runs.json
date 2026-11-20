@@ -3161,6 +3161,19 @@
    "ok": true,
    "summary": "18 open issues (1 new, I0028), 0 fixed, reply rate 2.4%, bounce rate 6.5%",
    "stats": {}
+  },
+  {
+   "at": "2026-11-20T22:25:23+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "1 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 1,
+    "auto_replies": 1,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
+   }
   }
  ]
 }

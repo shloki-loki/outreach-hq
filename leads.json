@@ -211478,15 +211478,15 @@
    "key": "meesho|product manager ii dau labs|bengaluru",
    "type": "job",
    "company": "Meesho",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "meesho.com",
+   "company_url": "https://www.meesho.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager II - DAU Labs",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore, Karnataka",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "lever",
    "source_id": "meesho:ee1aa9f3-e5a1-4488-93fb-963127eebe0c",
    "source_url": "https://jobs.lever.co/meesho/ee1aa9f3-e5a1-4488-93fb-963127eebe0c",
@@ -211517,8 +211517,8 @@
    },
    "score": {
     "rules": 69,
-    "research": null,
-    "total": 69,
+    "research": 45,
+    "total": 55,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -211529,15 +211529,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager II at Meesho, asks 4+ yrs PM experience; your background is in Strategy & Operations.",
+    "fit_notes": "The posting asks for \"Overall experience of 4+ years, with at least 4+ years of experience in Product Management in a tech-led company\". Shlok has about 1.3 years of total experience, primarily in Strategy & Operations (e.g., [sop], [ceo-coo]), and does not have the required 4+ years of dedicated Product Management experience.",
+    "pay_notes": "Pay not stated in the posting; no reliable estimate found in evidence.",
+    "culture_notes": "Recent news notes Meesho's quarterly loss shrinks on rising orders [S2]. No specific Glassdoor or culture rating found in the fetched evidence.",
+    "hook": "Indian e-commerce player Meesho's quarterly loss shrinks on rising orders",
+    "hook_source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMExLVTU4MmRnZmVqdFQ4YW5GMVBLOFRtZmUwTnF3WGU3Z05WRndOcFB2STR2RG5YYVllWnh4MzlVY3RBTGlZRjFFMVFuSDJiV19ZNHRPQjRVTGFmOFhvTXp1UHJhc05mRnI4X3lCdllITlc4NnkzNE1iNkRicWIxc2JHTzAtTDNRQU11MjNyUkt0UUx0WWQydXlSS1dOQ0Q2ZmM0VWYwUnV0UEJGMUlTZFY4eWgtUGMy?oc=5",
+    "researched_at": "2026-11-20T13:23:50+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Meesho: Making e-commerce everyone’s business - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTh6OFd6cFY3UDM0R2VERDMxdDI3MDVCY3ZUVUlldTdCSkJxbzBIVFQyU01xZTZhSnpwR0VYQlFkOC1kN29KS0R3QlVxT0Zic1NEdHZaMGdzM2FnMEN1RWZUNXF1MjRQVmtOTFRJNDBrS19YZjJmMjAwTUhUZHAyUlc4TVk4V1VTOUZjRnh2MDEzdWRiSzZ5YU1JS1pEbDF3ZGU4?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Indian e-commerce player Meesho's quarterly loss shrinks on rising orders - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMExLVTU4MmRnZmVqdFQ4YW5GMVBLOFRtZmUwTnF3WGU3Z05WRndOcFB2STR2RG5YYVllWnh4MzlVY3RBTGlZRjFFMVFuSDJiV19ZNHRPQjRVTGFmOFhvTXp1UHJhc05mRnI4X3lCdllITlc4NnkzNE1iNkRicWIxc2JHTzAtTDNRQU11MjNyUkt0UUx0WWQydXlSS1dOQ0Q2ZmM0VWYwUnV0UEJGMUlTZFY4eWgtUGMy?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Meesho Revenue and Usage Statistics (2026) - Business of Apps",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40blU0WjZIYTBuS0dGUjBnZHBvclF4VkNaOVRjMHRoVXl5c1hHSGxOdkdhaC1XN2dfRGNDWEdpQVhPUzJkUVlHR3hTanJTRDd2THFncjlaSXNYdDY5eXhXUFVKd1U?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Inside Meesho's big AI bet: Why India's most-downloaded shopping app is betting on infrastructure - Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWnBCa19LTkVNdW5wWVBOdjVicTg3aDMteklPZkFYbWkxN1lncHA3ZUl6aTJEZjVFc0JzT1gxS2l5b2ZjUGVrSnNIQmFISW1kaUlOWlgtbWlfZ1hCTmNrdGVqbElQOWMtMEsxaUQtV1ZpeDNpT255bXMzS2VlcjR2YlIzQkVTOFprVFZKTUIzZXJta3g4bXMzVDQ5Z2llaU5DWWg1MWlVOGMwWlRCakF3QnhVcFYtYTdNaFhTY0pFOTdOb3pQYXpTNklzZjBFZXVnSTVWb1AyS1BPOGkw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "BlissClub raises ₹160 crore; founder Minu Margeret, Meesho's Vidit Aatrey invest personal capital - CNBC TV18 - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0RENmV2bXFUeFJHaGdtU1IwY25LX09YNW5qNjJVN0VWc1NwcTNzR0dGUTFYNUNZYUkwWUNjRDdReWVLU3NTR2JjVXdrejVWcmJZeWNLVl9CSG8xOXRHRWp1OVY2dFViVkxiMUlsRHM2M3RvMnc3VFpnY3RVVkxDOV9KWlBtcGs1X0dpYnZJaGUxdEFyZjEyeU9zTTdzWGhUOFFEekx5M1hfN3M5Wjd5bkpsQkY?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "SoftBank sells $186M Meesho stake in block deal - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFBYZ24zZTdYX3RDOWhkRXhyaU5YZU5BMjJWM3VSZmdwZEFNN09hNXNya2JwZlExMUFCUjlpTVo4eFJsSHE3dGJSMGxxakJvWTF6TDhPNWF3TlVZb3lwdnF5MlA1X2RIUlBxWVVMYTlWdEJvR2VldVl1SU9TdGNtUFdKekVuVUE?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -211561,9 +211599,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "lever: rule score 69"
+    },
+    {
+     "at": "2026-11-20T13:23:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 55: rejected (The posting asks for 4+ years of Product Management experience, which exceeds Shlok's 1.3 years of total experience, and requires a product background.)"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30",
+   "updated_at": "2026-11-20T13:23:50+05:30",
    "research_attempt": {
     "at": "2026-11-19T23:11:36+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
@@ -211573,7 +211617,8 @@
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 4+ years of Product Management experience, which exceeds Shlok's 1.3 years of total experience, and requires a product background."
   },
   {
    "id": "L1769",

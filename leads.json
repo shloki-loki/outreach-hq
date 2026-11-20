@@ -6647,9 +6647,11 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Why this role (cover note)": "Scaling executive operations at a fast-growing identity security startup like Oleria requires turning strategy into tight execution fast. I've spent the last year in strategy and operations at Ola Electric, working directly with the CEO and COO on fulfilment operations. When delivery times stretched, I built a lotting algorithm for truck dispatches that brought order-to-delivery down from 32 to 14 days. I've also owned S&OP production planning, cutting working capital by 40% through tighter inventory flow. Oleria's momentum in identity security needs that same operational speed in the CEO Office to keep execution moving."
+    }
    },
    "first_contacted_at": "2026-11-13T17:39:15+05:30",
    "replied_at": null,
@@ -6741,9 +6743,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup1 to Jagadeesh Kunda queued (template)"
+    },
+    {
+     "at": "2026-11-20T14:12:15+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-19T23:14:52+05:30",
+   "updated_at": "2026-11-20T14:12:15+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

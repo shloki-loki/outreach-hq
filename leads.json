@@ -186453,15 +186453,15 @@
    "key": "deloitte|consultant ft strategy and ops|bengaluru",
    "type": "job",
    "company": "Deloitte",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "deloitte.com",
+   "company_url": "https://www2.deloitte.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Consultant | FT: Strategy & Ops",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "469535",
    "source_url": "https://www.instahyre.com/job-469535-consultant-ft-strategy-ops-at-deloitte-bangalore/",
@@ -186492,8 +186492,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 50,
+    "total": 59,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -186502,15 +186502,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Consultant Strategy & Ops at Deloitte, asks 3-5 yrs; your 1.3 yrs and lack of consulting background block it.",
+    "fit_notes": "The posting asks for '3-5 years of relevant experience across consulting and/or industry roles, post degree completion would be preferred' and an 'Undergraduate degree from Tier 1 engineering college'. Shlok has an IIT Guwahati degree and 1.3 years of experience, falling short of the 3-5 years. The posting falls under Consulting -> Management Consulting, and Deloitte is a Big Four consulting firm where he has no prior consulting or MBB background.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figure is provided in the company evidence for India.",
+    "culture_notes": "Glassdoor ratings and detailed culture reviews were not found in the provided evidence.",
+    "hook": "Deloitte recently published an economic outlook report discussing private capital-fueled economic growth knocking on India's doors soon [S3].",
+    "hook_source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVNEUF9teW9VSlNOTVBOOXNjbVkybkFnOTVDNkljbWpGTld4Z1BhS243VUhJcHJqMjh3UWJDRkQwYlhTam9fMzQwTTRuejFnMlJrUjNteUVmZE5LeUc4ODVPRHhFYVlQNGU4S3RwX1dKc01XTTB4VTR0STVNbVVMN0F5WndKRnNiSlpUcUlCV2pIY2ZiVUdBb09XMA?oc=5",
+    "researched_at": "2026-11-20T13:21:04+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "2027 Manufacturing Industry Outlook - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaExYSjNBLW1OTXdrTXBMazNIdEp6LVFYSUl0aWt4cUY1dEIxVFN6Q1plNm5KWUd5eDJHbk9BSVpLX01FdktXMl9JOG4tVnVpU2dhX0ZxckVOOVdQejZXWk1FTXdvMko0cmJCTld4QmNHWDNyVjBqSU1vMkp0RFNIb05oWmVMTVNSRk1ra3F0bmc4TmtwcFoyUnl0X3lfTk9WbEdGU3BKRmxRSmlwaTJqRzRoZGozVmlZMnc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "2026 Deloitte Back-to-School Survey - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMDY5ODBWN1VEWmkzMFAwd3o3ZkxpTlFzcWpLc2lWRnotai12OTdGNjktdXc5X1NyQnhHU1Jaa0pxVkxWZ0pabExrM1VFX0hwcHA4aDNhdWRRTkZYUjY3dGlnRmYzQzVLUHZheDNTZFliTjRHRkx0NHd4SHlSMkcybF9fQ3hEemtjOVd4eVprekExN0poQkdrRjU5cw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Private capital–fueled economic growth might be knocking on India’s doors soon - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVNEUF9teW9VSlNOTVBOOXNjbVkybkFnOTVDNkljbWpGTld4Z1BhS243VUhJcHJqMjh3UWJDRkQwYlhTam9fMzQwTTRuejFnMlJrUjNteUVmZE5LeUc4ODVPRHhFYVlQNGU4S3RwX1dKc01XTTB4VTR0STVNbVVMN0F5WndKRnNiSlpUcUlCV2pIY2ZiVUdBb09XMA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Europe’s Battery Industry at a Crossroads – Deloitte Battery Maturity Assessment - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUndjUXlfR0hyak0zVmhaOVoxMkxOMDV2TWRrRWVIZTJ3VXQtdnFQNUgxMHJYYXNSOXNCWG9aWU11MXhIcmxQVzd5QUw0RnRmVllFWm43YUttMG82Y2RQZmJSVFVoM0lmTFByNnF6cFF3WlFNS3VnMkt6VHpGaHFKSUk1UnBZWlY0V3RXNHBsRVBPUmEtOGxLa053OEY3b0loV1RzdTdBdGtIbG8?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Why the memory chip crunch is greater than expected, and may not ease until 2029 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTc5a0lDYlc0VWhwVmhoWWtpMUI2c01wSTRnTGNHWC0ySXo1QW11U2lZdDJmTktOeHZURHpIWUJjcDliNWJhcklENk9USFhqemJYVFhTZm9XTHNXUDB4bV9icEZHaUJTOHd2eTFYaHlEQ1oxek5keVVRcGZ2TUttUFQ4QVZsLUlVTGVDRnJlY1ZhMzRJcUNwV3ppd1BrTFhuaXZSdEJzQV94TVZjejFrdFZB?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "2026 Deloitte Holiday Retail Survey - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUkzb0FpUGdvVnpCM0pEWEF5QzJnNHpWam9MeVVKNGh0SV9lc3BkYkt4VTVTTzAzTHE0RjZRcVFLMXdnU25nUG52T1lLa1dIWk9OU09GMVhIYjNYZXNGT0FSWlc0cFhsOFNybjYxSlE0QndSd1RVcDQ4MWtjRk9WX0pVN0o0Y0FkNGpuS0szRDNLNjFpUF9mSXFFOW1VelRxVUNzX0ZWcldkOHdqRFVV?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -186534,9 +186572,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-20T13:21:04+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 59: rejected (Deloitte's Consultant | FT: Strategy & Ops role asks for 3-5 years of relevant experience post-degree completion, and requires consulting and/or industry experience aligned with management consulting; Shlok has 1.3 years of experience and no consulting background, making this a significant experience and background gap.)"
     }
    ],
-   "updated_at": "2026-11-16T14:12:14+05:30",
+   "updated_at": "2026-11-20T13:21:04+05:30",
    "research_attempt": {
     "at": "2026-11-19T13:22:08+05:30",
     "why": "error: Gemini unreachable: The read operation timed out",
@@ -186546,7 +186590,8 @@
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Deloitte's Consultant | FT: Strategy & Ops role asks for 3-5 years of relevant experience post-degree completion, and requires consulting and/or industry experience aligned with management consulting; Shlok has 1.3 years of experience and no consulting background, making this a significant experience and background gap."
   },
   {
    "id": "L1547",

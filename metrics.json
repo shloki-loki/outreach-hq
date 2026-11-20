@@ -373,15 +373,15 @@
   "2026-11-20": {
    "leads_total": 1840,
    "by_status": {
-    "applied": 5,
-    "to_approve": 63,
-    "qualified": 80,
-    "rejected": 337,
+    "applied": 6,
+    "contacted": 41,
+    "qualified": 77,
+    "rejected": 339,
     "replied": 1,
     "skipped": 3,
     "interview": 1,
-    "new": 1330,
-    "contacted": 20
+    "new": 1319,
+    "to_approve": 53
    },
    "by_source": {
     "linkedin_post": 58,
@@ -404,18 +404,18 @@
    "qualified_total": 110,
    "researched_total": 449,
    "with_email_total": 1023,
-   "emails_sent_total": 68,
-   "emails_sent_today": 56,
-   "cold_sent_total": 68,
+   "emails_sent_total": 92,
+   "emails_sent_today": 80,
+   "cold_sent_total": 82,
    "people_replied": 2,
-   "bounces_total": 3,
-   "reply_rate": 0.029,
-   "bounce_rate": 0.044,
-   "applied_total": 5,
+   "bounces_total": 6,
+   "reply_rate": 0.024,
+   "bounce_rate": 0.065,
+   "applied_total": 6,
    "referrals_sent": 0,
    "interviews": 1,
    "offers": 0,
-   "to_approve": 10,
+   "to_approve": 0,
    "followups_due": 0,
    "new_leads_7d": 1535
   }

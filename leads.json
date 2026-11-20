@@ -184562,15 +184562,15 @@
    "key": "helium|growth manager|bengaluru",
    "type": "job",
    "company": "Helium",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "helium.rent",
+   "company_url": "https://www.instahyre.com/job-442062-growth-manager-supply-at-helium-2-bangalore/",
    "company_linkedin": "",
    "company_note": "",
    "title": "Growth Manager (Supply)",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "442062",
    "source_url": "https://www.instahyre.com/job-442062-growth-manager-supply-at-helium-2-bangalore/",
@@ -184606,8 +184606,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -184616,15 +184616,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Growth Manager (Supply) at Helium, asks 1-3 yrs in sales and BD; your S&OP and supply chain execution do not map to landlord acquisition.",
+    "fit_notes": "The posting asks for a 'Bachelor's degree in Business Administration, Marketing, or a related field' and '1-3 years of experience in sales, business development or related domains'. It focuses entirely on property owner onboarding, pitching and negotiation, and local travel. Shlok has strong S&OP, operations, and supply chain execution experience at Ola Electric ([sop], [ceo-coo], [mrp]), but lacks a direct match for frontline sales/landlord acquisition.",
+    "pay_notes": "Pay not stated in posting; no pay evidence found in web search or sources.",
+    "culture_notes": "Glassdoor ratings and work-life balance data not found in the posting or web search.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T22:59:12+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Strong coupling of a microwave photon to an electron on helium - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vU2lmelJ1OElSel9kQzQwWlRNdG9mZXBiUmM2Q0piaFFpYWxxVEVmV3FkeDFtLW9oeGNtTUZSOTVIVThGNURZZGZNZnFRSHpqVTRlcFBYXzg2ZWgxa3R3?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Drawn by helium-3, lunar mining companies prepare for initial missions - Aerospace America",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXRSRlk2aEVYSk5pSUFkMk1HcmtEeDF5U3JkMmpkdEZBaTlTZ2ZxN05yakl5Y1Q3cXlPR2dUQkJBV2Y0dTQwNEIyQl8wMkdqdi1sU2VLZ0RjUGpoOFJCUlpIQ25rcnFMQk9VR1k2bmU3Zm02RmZkeEI0UklBbldiNWZBUGhCWE11bVZNMFh4LUVKcmZLcmtsd0lYeVRNMkhfY21kWHVGVQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Who Owns the Moon? A Case Study on Helium-3 - HARVARD Kennedy School - Belfer Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM21XaFFpb3R1Z2R6QjlNaklDVnFxeTltWWNkYVMzS0Jab3U5ekFGWTY3b25pcVg5V2NSc1hCUktnYWdwWnVFY3UxWHVldlpNeHRFOGdZSENEVmVPNUdVd3NsSWN1eFBUamVNYUpOTjNibDhxYm5WZm85LVlhdmtTTE5Wa2NpbU0?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Alien life? Why the possibility of exoplanet LHS 1140b emitting helium gas is so exciting - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdkFVRmtkeGRxMWdvWGJQMGJyc1pUVU1vNGk4bFBvNVFwNkpoR3Y4YzBEdHNRNEFwWXdaOEJzSjVNQWoyZXhfczBmN0VmclpjbTE0OV8wcW9UZkVpam94OThKc21mT3JhNnVKRkZxck5SeFYxWEs1NmxCRXFsbEtZWjZhQVZoT015X3ducWxkOWpBMEdyYV8yX3J0cEg2cm5WcTg3eGxVQ3FIamtDaVZQYU9WMGtIUDhBX3VoVFNiaXE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Helium escaping from the atmosphere of a nearby rocky exoplanet orbiting in a habitable zone - Science | AAAS",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mNVd4RC1yUmRwbGZ1bENUTWI4OHN5eWxlZFVzVm5Tc250bHcxRnhsU1hzcWZxOVBydWtNb2l6bHBSNkl5T3hwMnZsUVBXOGpWYkpWc0QwWlVqSjBQYXdDVw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "TAE Technologies and Black Moon Energy Corporation Enter into Strategic Helium-3 Supply and Commercialization Agreement for Fusion Power - TAE Technologies",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ3FYT0U5OVU0ZEZsdW5YVDFhbWtKU3FwcGVzbDFtZS0zTjBxdmk2U3RHbDhOdGFIMjV1cmJ5cm1HU2szN0U0REM4UmQ3eEpBemZRSlZUTUJYdE1zQ2theTg3UkwzRlNUZVV5VnM1cTltLUgtLUVXSC12VWZINHFSWEhad0pFMzRYWGZYaVBZMnFFY1Vsb2ZIRS1lU2pMbEQtZk9JbUFWa054a0VFTm1YSm56V3dHSllDMXZ3clc3RXRPZzB3WlFic0pJWFdfZFFWXzNSTEJnVVFLanJZY3FiVWdpWFhIWHpv?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -184648,14 +184686,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T22:59:12+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role is a standard property acquisition sales/BD role ('Growth Manager (Supply)') at a home rental platform requiring 1-3 years in sales/BD, paying below Shlok's threshold with no pay stated, and does not utilize his core S&OP/Strategy background.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-20T22:59:12+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role is a standard property acquisition sales/BD role ('Growth Manager (Supply)') at a home rental platform requiring 1-3 years in sales/BD, paying below Shlok's threshold with no pay stated, and does not utilize his core S&OP/Strategy background."
   },
   {
    "id": "L1514",

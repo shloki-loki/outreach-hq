@@ -215586,7 +215586,7 @@
    "key": "algoleap|functional consultant supply planning|bengaluru",
    "type": "job",
    "company": "algoleap",
-   "company_domain": "",
+   "company_domain": "algoleap.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/algoleap",
    "company_note": "",
@@ -215594,7 +215594,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore North Rural, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "linkedin",
    "source_id": "4482298924",
    "source_url": "https://in.linkedin.com/jobs/view/functional-consultant-supply-planning-d406-at-algoleap-4482298924",
@@ -215610,7 +215610,7 @@
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Senior Functional Consultant – Supply Planning\nPosition Summary\nWe are seeking a Senior Functional Consultant with 5–9 years of experience and\nminimum 2 years hands-on in o9 Solutions to lead supply planning\nimplementations. The role covers functional design, configuration, data analysis,\nclient workshops, and technical troubleshooting. Currently remote; preference for\nBangalore-based candidates or those willing to travel to Bangalore as required.\n Experience Required\n 6–9 years total experience\n Minimum 2 years hands-on o9 Solutions (mandatory)\n Immediate joiners preferred\n Location\n Currently remote\n Bangalore travel required as needed\n Education\n Bachelor’s or Master’s in Engineering, Supply Chain, Operations, Computer\n Science, or related field\nKey Responsibilities\n Lead supply planning implementations on o9 Solutions, including design,\n configuration, and testing.\n Conduct workshops, demos, and client discussions to gather requirements\n and articulate solutions.\n Validate data, perform reconciliations, and troubleshoot datasets using SQL\n and Python.\n Configure planning hierarchies, master data, allocation/replenishment logic,\n and inventory optimization.\n Drive technical analysis for integrations, APIs/ETL, and data transformations.\n Collaborate with stakeholders to ensure alignment on supply chain best\n practices.\n Required Skills & Qualifications\n Functional Expertise\n Strong recent hands-on o9 Solutions experience.\n Proven supply planning implementations.\n Deep understanding of demand/supply processes, inventory optimization,\n planning hierarchies/master data, allocation/replenishment logic, and supply\nchain best practices.\n Ability to confidently explain projects, configurations, and business use cases.\n Experience leading workshops and client discussions.\n Technical / Techno-Functional Skills\n Strong SQL: complex queries, data validation/reconciliation,\n analysis/troubleshooting.\n Good Python: data manipulation, automation scripts, processing/validations.\n Strong grasp of o9 data models/datasets, integrations/interfaces, APIs/ETL,\n data mapping/transformations.\n Independent technical analysis and issue resolution.\n Soft Skills & Behavioral Expectations\n Strong communication, client-facing, and stakeholder management skills.\n Ability to lead discussions and articulate solutions clearly.\n Self-driven with high ownership, proactive, energetic, solution-oriented.\n Works independently, contributes quickly; confident in\n workshops/demos/requirements.\n Preferred Qualifications\n End-to-end o9 implementation projects.\n Agile delivery methodologies.\n Prior supply chain planning consulting.\n Global clients and cross-functional teams experience.\nSeniority level Not Applicable | Employment type Full-time | Industries IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -215625,8 +215625,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 45,
+    "total": 58,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -215636,15 +215636,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Senior Functional Consultant at Algoleap, but asks 6-9 yrs and o9 Solutions experience you do not have.",
+    "fit_notes": "The posting asks for '6–9 years total experience' and 'Minimum 2 years hands-on o9 Solutions (mandatory)'. Shlok has about 1.3 years of experience and does not have o9 Solutions experience. While his S&OP and supply planning facts ([sop], [ceo-coo]) show strong supply chain exposure, the seniority and mandatory software stack requirements are hard blockers.",
+    "pay_notes": "Pay not stated in the posting or evidence.",
+    "culture_notes": "Algoleap was certified as a Best Firm for Data Scientists in July 2026 [S1]. No other specific employee ratings found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T13:20:19+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Algoleap Certified as a Best Firm for Data Scientists - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOFE2T3Jxa2MxWnFMaWt6bXR2dThEV2VIY2Y5SkZZR2dsVi1YRnB3MjlnZ2VzUUlBMXh5Q2dBdlJ6WUdjOG13VDloUjBqVWtZVEF2bjE0WXcwTU1lVlp5NTVJcmhpVExXdlNKNC1JQjJ6TGl4T2sxUnk3ck1feEhpT1B6TWl3dmY1bXl5Qno1cDU4YzFwbF9vMmNMVi1ydw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -215668,14 +215681,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-20T13:20:19+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 58: rejected (The role requires 6-9 years of total experience with a minimum of 2 years hands-on o9 Solutions, whereas Shlok has ~1.3 years of experience and no o9 Solutions experience.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-20T13:20:19+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role requires 6-9 years of total experience with a minimum of 2 years hands-on o9 Solutions, whereas Shlok has ~1.3 years of experience and no o9 Solutions experience."
   },
   {
    "id": "L1808",

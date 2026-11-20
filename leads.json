@@ -182557,7 +182557,7 @@
    "key": "spincycleslaundry|assistant operations manager|bengaluru",
    "type": "job",
    "company": "Spin Cycles Laundry Solutions",
-   "company_domain": "",
+   "company_domain": "spincycles.co.in",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "",
@@ -182565,7 +182565,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "441373",
    "source_url": "https://www.instahyre.com/job-441373-assistant-operations-manager-at-spin-cycles-laundry-solutions-bangalore/",
@@ -182596,8 +182596,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 30,
+    "total": 42,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -182606,15 +182606,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Assistant Operations Manager at Spin Cycles Laundry Solutions, asks 0-4 yrs; pay unstated but likely low for a local laundry chain.",
+    "fit_notes": "The posting asks for 0-4 years of experience in operations and customer service coordination (\"Assistant Operations Manager ... connective layer between the customer-facing network ... and the backend\"). While Shlok has strong supply chain and operations experience at Ola Electric like S&OP production planning [sop] and logistics/fulfillment operations [ceo-coo], this role is junior, operationally transactional, and does not align with his target role priority or pay threshold of Rs 24.5 LPA.",
+    "pay_notes": "Pay is not stated in the posting. Given that this is an assistant operations manager role at a regional laundry service with 30 stores, it will not meet Shlok's Rs 24.5 LPA fixed pay requirement.",
+    "culture_notes": "No Glassdoor ratings or employee reviews were found in the posting data.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T22:54:54+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -182638,14 +182648,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T22:54:54+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 42: rejected (The role is junior (Assistant Operations Manager at a local laundry chain with 30 stores) and does not meet Shlok's fixed pay requirement of Rs 24.5 LPA, with pay left unstated and likely far below his target.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-20T22:54:54+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role is junior (Assistant Operations Manager at a local laundry chain with 30 stores) and does not meet Shlok's fixed pay requirement of Rs 24.5 LPA, with pay left unstated and likely far below his target."
   },
   {
    "id": "L1495",

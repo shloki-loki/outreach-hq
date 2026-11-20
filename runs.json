@@ -3154,6 +3154,13 @@
     "alerts": 3,
     "open_work": 172
    }
+  },
+  {
+   "at": "2026-11-20T20:12:37+05:30",
+   "agent": "supervisor",
+   "ok": true,
+   "summary": "18 open issues (1 new, I0028), 0 fixed, reply rate 2.4%, bounce rate 6.5%",
+   "stats": {}
   }
  ]
 }

@@ -215020,7 +215020,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492139707",
    "source_url": "https://in.linkedin.com/jobs/view/demand-supply-planning-manager-at-ashish-life-science-pvt-limited-4492139707",
@@ -215036,7 +215036,7 @@
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Demand & Supply planning for international markets based on marketing forecast, current, historical & seasonal sales trend.\n Production planning and release of the production plans as per the demand for 3 months in ERP considering opening inventory of FG for in-house plants.\n Production plan release for LL & P2P plants & follow up for FG availability at hub.\n Ensure availability of RM/PM for production at plant by 28th of earlier month for smooth production.\n Maintain FG inventory as per the norms decided.\n Weekly follow up with plant for readiness of FG as per the priority given.\n Follow up with quality team for FG release to align dispatches of ready goods from plant to hub.\n Follow up with Packaging Development for change in artworks & BOM upload in ERP.\n To prepare monthly MIS data like Plan vs Actuals report, Marketing forecast accuracy report, FG opening stock report, and stock aging report.\n Monthly preparation of PPT slides for presentation to management.\n Inventory monitoring and control.\n Effective planning on safety stock build-up.\n Work closely with marketing and operations team for demand assessment and serviceability.\n Work closely with Production, QC, Marketing team to derive best serviceable date within 10 days of order and ensure commitment is fulfilled with 95% OTIF.\n Follow the R&D rolling plan for new products scale-up & registration batches and provide slot for the execution.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Pharmaceutical Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -215051,8 +215051,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -215062,15 +215062,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Demand Supply Planning Manager at Ashish Life Science in Mumbai, but outside Bengaluru and pay is unknown.",
+    "fit_notes": "The posting asks for mid-senior level demand and supply planning in the pharmaceutical industry. Shlok's S&OP production planning and inventory work [sop] maps to the planning requirements, but the role requires being in Mumbai, and pay is unstated.",
+    "pay_notes": "No pay stated in the posting or evidence.",
+    "culture_notes": "No company website or news found in web research.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T13:29:23+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -215094,14 +215104,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-20T13:29:23+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (Role is located in Mumbai, violating Shlok's Bengaluru or remote-first rule, and pay is unknown with no evidence of reaching Rs 24.5 LPA.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-20T13:29:23+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Role is located in Mumbai, violating Shlok's Bengaluru or remote-first rule, and pay is unknown with no evidence of reaching Rs 24.5 LPA."
   },
   {
    "id": "L1799",

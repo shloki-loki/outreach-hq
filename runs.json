@@ -3702,6 +3702,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-21T05:05:22+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 64 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

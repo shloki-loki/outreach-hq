@@ -210,7 +210,7 @@
      "Why this role (cover note)": "Building generative AI products at Sarvam AI requires moving fast from strategy to execution. At InsuranceDekho, I've built a Flask REST API and Chrome extension that automated form-filling, cutting response times by 40% and saving 30 minutes per instance. Later in strategy and operations at Ola Electric, I've worked directly with the CEO and COO on fulfilment operations, cutting working capital by 40% in 2.5 months through production planning. Sarvam AI stands out for building full-stack AI for Indian context, and I'd take on both the technical building and operational planning in the CEO's Office."
     }
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-20T16:44:41+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -291,9 +291,15 @@
      "actor": "writer",
      "event": "apply_kit",
      "detail": "application note written (free model)"
+    },
+    {
+     "at": "2026-11-20T16:44:41+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Karman Sethi"
     }
    ],
-   "updated_at": "2026-11-20T14:00:47+05:30",
+   "updated_at": "2026-11-20T16:44:41+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",

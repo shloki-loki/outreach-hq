@@ -9451,7 +9451,7 @@
     "evidence_model": "fetched (website + Google News; no web search)"
    },
    "stage": "qualified",
-   "outcome": null,
+   "outcome": "rejected",
    "applied_at": null,
    "apply": {
     "status": "kit_ready",
@@ -9488,9 +9488,15 @@
      "actor": "writer",
      "event": "apply_kit",
      "detail": "application note written (free model)"
+    },
+    {
+     "at": "2026-11-20T16:35:12+05:30",
+     "actor": "shlok",
+     "event": "outcome",
+     "detail": "rejected"
     }
    ],
-   "updated_at": "2026-11-18T14:01:53+05:30",
+   "updated_at": "2026-11-20T16:35:12+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",

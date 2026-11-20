@@ -184805,7 +184805,7 @@
    "key": "capslock|associate product manager growth|bengaluru",
    "type": "job",
    "company": "CapsLock",
-   "company_domain": "",
+   "company_domain": "capslock.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "",
@@ -184813,7 +184813,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "443596",
    "source_url": "https://www.instahyre.com/job-443596-associate-product-manager-growth-at-capslock-bangalore/",
@@ -184844,8 +184844,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -184854,15 +184854,33 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Associate Product Manager - Growth at CapsLock in Bangalore, asks 1-3 yrs; pay unstated and profile lacks clear growth analytics mapping.",
+    "fit_notes": "The posting asks for '1-2 years of experience in Product Management, Growth, Product Analytics, or Business Analytics', 'Hands-on experience with Mixpanel', and 'Good working knowledge of SQL is preferred'. Your facts show strong quantitative and tech skills (Codeforces Expert, Flipkart Grid top 0.05%, SQL skill), but your core background is in supply chain, S&OP planning, and execution ([sop], [mrp], [cell]) rather than product growth, funnels, or Mixpanel analysis. No MBA or consulting is required, but the pay and company quality remain entirely unstated.",
+    "pay_notes": "Pay is not stated in the posting, and no credible salary evidence is available for CapsLock in the provided search results.",
+    "culture_notes": "Company employee reviews and culture ratings were not found in the posting or web evidence. Recruiter listed is Vikrant Singh from Success Pact.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T22:59:26+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Capslock Marketplaces Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNUFzVjQ2TVdkbXp0QTdMSDRWMkZ5cktXbmFTOXBwRm5WMDFUd2pMcWdzRHNzMFVId0J0UUJPczdXSVBKNjNjek8yLU5Ta0E0OVg3TVo5QU95SGNLQ3VuZmszbnVpQ2FWZUdaOE83clU2cGpPZWF5Wg?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "mthree buys CAPSLOCK to boost cyber skills training - SecurityBrief UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS25saEpBNXhiNnRoXzF0Vk5YaG54X2l5anJ4bHZkdEVVQjJhMm85WXo4Z0h0YjdaMGFGQmhaQ3JJV0hDSmxGUy1jazdJMGlLMkNOcGxiZ0RyZWh2YXRrTW9ta0E1aC1fb3dlb3owZE5haTU1RVIzQmpLeTdzbDVuZ3o4QS1uV01GMDR5bGJB?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -184886,14 +184904,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T22:59:26+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Pay is unstated, and the role is at an ambiguous company profile via an external recruiter (Success Pact) with no clear fit for your heavy supply chain and S&OP background compared to product growth requirements.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-20T22:59:26+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Pay is unstated, and the role is at an ambiguous company profile via an external recruiter (Success Pact) with no clear fit for your heavy supply chain and S&OP background compared to product growth requirements."
   },
   {
    "id": "L1516",

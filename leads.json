@@ -2079,9 +2079,11 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Why this role (cover note)": "Emversity's Director's office needs someone to own CXO-facing business reviews, dashboards, and cross-functional execution. Partnering directly with the CEO and COO at Ola Electric on fulfilment operations, I've run this exact operational rhythm. When order-to-delivery stretched to 32 days, I built the lotting algorithm for truck dispatches that brought it down to 14. Managing production planning over Rs 200 Cr of inventory, I've cut working capital by 40%. I can bring that same structured execution to Emversity to drive alignment across teams."
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -2136,9 +2138,15 @@
      "actor": "send-track",
      "event": "drafted",
      "detail": "cold email to Aditya Sharma awaiting approval"
+    },
+    {
+     "at": "2026-11-20T14:05:53+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-16T10:56:00+05:30",
+   "updated_at": "2026-11-20T14:05:53+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

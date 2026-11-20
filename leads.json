@@ -7564,9 +7564,11 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Why this role (cover note)": "Swiggy's supply strategy relies on precise operational planning to keep delivery times low and rider capacity balanced across dense urban grids. Having spent a year in strategy and operations at Ola Electric, I've handled similar supply and dispatch bottlenecks at scale. When scooter order-to-delivery times stretched to 32 days, I built a dispatch algorithm that grouped dispatches into lots, cutting delivery times to 14 days while raising trucking efficiency by 33%. I've also managed S&OP production planning over rolling plans, cutting working capital by 40%. Swiggy's focus on fast-paced urban execution makes this a place where structured supply strategy directly drives customer trust."
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -7609,9 +7611,15 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 4 (2026-11-12) as R56"
+    },
+    {
+     "at": "2026-11-20T14:12:48+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-20T14:12:48+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

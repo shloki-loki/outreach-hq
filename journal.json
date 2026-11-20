@@ -4076,6 +4076,15 @@
    "title": "Diagnosis: Work items W0006-W0008 left in working after the work shipped",
    "detail": "Still open 20 Nov: supervisor/check failed again at 04:11 and 17:17 IST with W0006-W0008 expired claims; it hides real failures. Remedy unchanged: mark W0006-W0008 done with evidence PR 4 (dd7409c) and PR 6 (b4831bb) in an interactive session.",
    "ref": "I0014"
+  },
+  {
+   "id": "J0454",
+   "at": "2026-11-20T20:12:21+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Checked double-send risk 20 Nov",
+   "detail": "Data log shows the Mac send loop (IST 16:3x-16:46) and a GitHub Track-and-send run (dispatched 11:03 UTC = 16:33 IST) sending in the same minutes, with interleaved 'claim' commits. Checked message list: no recipient got two cold emails; the 10 recipients with two messages are each one cold plus one follow-up (e.g. Oleria M0001 then M0099, Shipsy M0015 then M0108), as intended. Claim step worked. 0 stuck in sending, 0 failed, 64 approved cold waiting for the daily cap. 8 PM-IST check: gh run list shows 15 latest runs all success, no dropped slots since 07:04 UTC today.",
+   "ref": ""
   }
  ]
 }

@@ -4049,6 +4049,15 @@
    "title": "Bounce rate 6.5% (6 of 92), 6 bounces on 20 Nov",
    "detail": "All 6 bounces came from sends on 20 Nov 15:17-16:30 IST: M0041 jitender@zipgo.in, M0065 shalabh@fluidvc.in, M0068 ville@outerbounds.com, M0075 sanchit.garg@traveltriangle.com (founder-v1 emails), M0096 lucky@frnd.app (job application, L0040), M0098 careers@haystackaalytics.in (job application, L0032; the domain looks misspelled). Above the 5% limit. 60 more founder emails are approved for 21 Nov.",
    "ref": "I0028"
+  },
+  {
+   "id": "J0451",
+   "at": "2026-11-20T20:12:11+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Bounce rate 6.5% (6 of 92), 6 bounces on 20 Nov",
+   "detail": "Cause: the Mac slept until 15:04 IST, then the backlog was sent in a burst (62 emails, 15:08-16:46) to founder addresses that were pattern guesses or unverified (Reoon free quota is spent, I0016/I0020); 2 bounces were job-application addresses taken from posts (FRND address belonged to a reshare author, see I0023 note; careers@haystackaalytics.in likely a typo). Remedy for Shlok: pause guess/catch-all addresses in the 60 approved founder emails for 21 Nov (skip or hold them on Approvals) until Reoon credits reset, and keep sends to verified or published addresses only. Bounced addresses are already suppressed by follow-up/track.",
+   "ref": "I0028"
   }
  ]
 }

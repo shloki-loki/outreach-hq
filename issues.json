@@ -389,7 +389,7 @@
    "opened_at": "2026-11-20T20:11:57+05:30",
    "last_seen": "2026-11-20T20:11:57+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: the Mac slept until 15:04 IST, then the backlog was sent in a burst (62 emails, 15:08-16:46) to founder addresses that were pattern guesses or unverified (Reoon free quota is spent, I0016/I0020); 2 bounces were job-application addresses taken from posts (FRND address belonged to a reshare author, see I0023 note; careers@haystackaalytics.in likely a typo). Remedy for Shlok: pause guess/catch-all addresses in the 60 approved founder emails for 21 Nov (skip or hold them on Approvals) until Reoon credits reset, and keep sends to verified or published addresses only. Bounced addresses are already suppressed by follow-up/track.",
    "resolved_at": null
   }
  ],

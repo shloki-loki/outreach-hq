@@ -167721,15 +167721,15 @@
    "key": "ekincare|founders office associate manager manager|india",
    "type": "job",
    "company": "ekincare",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "ekincare.com",
+   "company_url": "https://ekincare.com",
    "company_linkedin": "",
    "company_note": "A leading corporate health benefits platform delivering healthcare to millions of lives across India.",
    "title": "Founder’s Office  - Associate Manager/Manager",
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "hiringcafe",
    "source_id": "zohorecruit___ekincare___168961000004509703",
    "source_url": "https://ekincare.zohorecruit.in/jobs/Careers/168961000004509703/Founder-s-Office-Associate-Manager-Manager",
@@ -167760,8 +167760,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 62,
+    "total": 62,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -167770,15 +167770,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at corporate health platform ekincare in Hyderabad, asks 2-4 yrs; location mismatch and asks consulting/business analysis experience.",
+    "fit_notes": "The posting asks for \"2–4 years in consulting, business analysis, founder's office, strategy or business ops\" and \"Strong data analysis: Excel / Sheets and dashboards; SQL is a plus\". Shlok has about 1.3 years of experience (making 2-4 a stretch/mismatch) and has no consulting background. However, his work running S&OP planning and owning finished goods inventory end-to-end [sop, ceo-coo] maps to executing priorities and driving strategic operations.",
+    "pay_notes": "Pay not stated in the posting; evidence mentions Series B-funded status [S1] but no specific salary figures are provided.",
+    "culture_notes": "Ekincare is a VC-backed Series B-funded corporate health benefits platform [S1] planning acquisition-fuelled growth and expecting breakeven soon [S1]. No employee ratings or major culture flags found.",
+    "hook": "Noticed ekincare's recent acquisition of Superclaims to expand its insurance and health-claims operations [S2], aligning with rapid scaling.",
+    "hook_source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVl5b1I2VFh3dUY2c2VsN2Z6RTdLME1lR21WNTFpSkZNby1Nc0xpOUY4YThWLXVwMVFxRHlNekRoV0xOTWE5eEtsMzFXNmxtZDdQNjA2TEwwVk1CTWhzWlNxVGlVUzFURnpkQS1GbWxDSklvTjJ3X3hGNDdGQVdOT3liSWVmSTNwY283dG1VVVJHR1pfRDA5b0RHNnNPZEhQR2V3UkMwTFhNeHdEUndzUVp5c3l3QQ?oc=5",
+    "researched_at": "2026-11-20T22:51:45+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "VC-backed Ekincare plans acquisition-fuelled growth, expects breakeven soon - VCCircle",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWtXaTVrWnVvdGJHaEplUktmZVZQQ25Ua0E1ZGt4YTY5SW9aUXlHVHA3RjMyQlJITnZGRTFsa1B6R20yNmlWRUwwVTRjbGFqVFU5eU83MzFQVzMzclMzdXlGLTdqcWtqZkdGRjJ3ZXFzOTlNbjJyejh1LXU0UVpib2dxSm85b1p2LVRUVXlmTW1hclJiRC1ncTdB0gGiAUFVX3lxTE8xWHRRV0ktRGNFTHplZERubGFjRlc2b19wb282a05URjh3Y1FnR3ZTWGkwUDI0dnlJSUxwb3JnQnRlRFY0MVZQUDd2R0tFc2RNRUt6WTZlNEtxYzdrbnFsbjlNSVJ2SldZREhJMnNfVkMwMGNYRFRUUUVKYjR6ZXZFWGQ0bktzOEVYTHNJM2FhTldSZFpzTlp5aEZTQzhSTGdHdw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "[Exclusive] ekincare Acquires Superclaims to Expand Its Insurance Operations - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVl5b1I2VFh3dUY2c2VsN2Z6RTdLME1lR21WNTFpSkZNby1Nc0xpOUY4YThWLXVwMVFxRHlNekRoV0xOTWE5eEtsMzFXNmxtZDdQNjA2TEwwVk1CTWhzWlNxVGlVUzFURnpkQS1GbWxDSklvTjJ3X3hGNDdGQVdOT3liSWVmSTNwY283dG1VVVJHR1pfRDA5b0RHNnNPZEhQR2V3UkMwTFhNeHdEUndzUVp5c3l3QQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "ekincare acquires claims adjudication SaaS platform Superclaims - Entrackr",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRndXbFVBM0F1V2Jkcmx0VTZJOGY1cmh6b3Z0Sl8yaWdNN3hDRG1Sc0U2WE5zeG1JSDB2UjZndXFKMHpLZmgwZ3Iyeno0aXpLYU5VQTBYcWpWMFBzZ19QeFdHMXlSbzhVa1hNWS1mLUJyUGVma25URjJVa1NrUTZreDFBQjBIYTFJclh6dlRWTDRoOU4waVhCem8xdFB6NmhhVEE3NtIBpAFBVV95cUxPRndXbFVBM0F1V2Jkcmx0VTZJOGY1cmh6b3Z0Sl8yaWdNN3hDRG1Sc0U2WE5zeG1JSDB2UjZndXFKMHpLZmgwZ3Iyeno0aXpLYU5VQTBYcWpWMFBzZ19QeFdHMXlSbzhVa1hNWS1mLUJyUGVma25URjJVa1NrUTZreDFBQjBIYTFJclh6dlRWTDRoOU4waVhCem8xdFB6NmhhVEE3Ng?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "ekincare acquires Superclaims to expand health insurance claims capabilities - MediaBrief",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UZHg1ZGJEdE8tZ1kyR3JueTZzUkZGcGFsMVByUlV0c2lNNlFXQzN4YWlJZW0xUURuOWdvRTZKczcyd2RZZzdCZ3pWX1lTSEJzbG1uQkhxYWdlVFQtd2tSUUQ1OA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "ekincare acquires Superclaims to boost AI health‑claims SaaS - SaasRise",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRThqVFZzeXJvNUd3YVdNb0Jya0dPVHVmX3k0X0wtZFlZQ2VZaWhkbl9tUWRCRmxDTWpkcW82R3daLTlXRWZYUG1RRlV2cFpiUkswaUZyeXZjM2FiSzhPX1k2TTduVmRjTFo5UEx3ZTZ1ZVZCWUprRjg5aW5kVUNKTnk0Rjg2Nmg4SmRzYjlwa2NtODNaSklGTkJPQ01URVRiMk9iZU1QUTlnMTJKMERRS3pvSjI4QzJuY2V1bWtaZnUyUlFwUUVwa05ONA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "India Inc’s ‘young & fit’ workforce is hiding a heart health crisis: ekincare co-founder | Exclusive interview - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQV1k1SGJZamNManRWbnJFN3RYTDF0TjM3UGJqd3gxS3JSaUg1ZmcxWG5RajlqWkZiQkgxTHFxM0tHanp3NV9HS1pXblVmUkdUckVnMHpGQndOZWM3aHpHcy1MYXVqTnlmckxIeUVmdXpVX1lMWUxCSlJ1QzU1VjBfRlBvQkdJMWl6ZkRNckpuV3ZmVEYwc2lpRDEzRUVCdlpHLUQ4MEJOV2FWenNwbmdKQTlFQnRMZmRwWnVWc0xHb3BtdlJYb0g1YUgtWmdMUmswS3RybnBZRmhaVjBrQ2RseFlZUmVhLWtTVzRDYUVtUUEzMmx6dVHSAfsBQVVfeXFMTjhMbnQ0TzlmUzhCWjFSUlZsSE1jSWNRUmJlT1BERDg5TzdqYzloeXQ4bjQwbmo5aW1NSkl6VHl1Wm9iSEdWMkJnN25fcVlnRWJZTTgtdllwamU0Y1l3NE5UQXk1YVdpSlM5SjdaeGVwRHZObnV5dmdjZDFRelRZMXhpenBYZ29icFlNbUlBYWY3bWJBZ010VmJya1BwNEdIVTAyeUtRQy1Ma19xc093b3RTdGp5YVdfUkxOT0o2VE9nNHk1dmRWVnlsdVlqcmREMDV0VGVvOHV0SUhxTE5ySnczLTM4Z0ktNi1fUzBWX2s1QnQzVzlYdmNoWGM?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -167802,14 +167843,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 61"
+    },
+    {
+     "at": "2026-11-20T22:51:45+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 62: rejected (Location is Hyderabad, whereas Shlok wants Bengaluru or remote first. Additionally, the role asks for 2-4 years of experience while he has 1.3 years, and the posting asks for consulting or business analysis background while he does not have consulting experience.)"
     }
    ],
-   "updated_at": "2026-11-15T01:20:54+05:30",
+   "updated_at": "2026-11-20T22:51:45+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Location is Hyderabad, whereas Shlok wants Bengaluru or remote first. Additionally, the role asks for 2-4 years of experience while he has 1.3 years, and the posting asks for consulting or business analysis background while he does not have consulting experience."
   },
   {
    "id": "L1365",

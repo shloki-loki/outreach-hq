@@ -3004,6 +3004,16 @@
    "ok": true,
    "summary": "0 emails drafted, 0 referral notes, 0 application kits; skipped: L0105 L1556 L0003 L0008 L0013 L0018 L0007 L0010 L0023 only guess/catch-all addresses, none score 80+ (verifier quota out); L0029 published address akash.ceo@gbgev.com refused: already has cold email in last 60 days; referral match found 0 leads with connections; application kits skipped (Google Forms/LinkedIn posts need signed-in look, private values unconfirmed); sync flaky",
    "stats": {}
+  },
+  {
+   "at": "2026-11-20T15:25:14+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "stats": {
+    "sent": 10,
+    "failed": 0
+   }
   }
  ]
 }

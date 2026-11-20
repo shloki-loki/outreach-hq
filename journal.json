@@ -3842,6 +3842,15 @@
    "title": "Run ended before the 12-lead budget (20 Nov)",
    "detail": "outreach CLI calls took 5-15 min each (data-branch sync, another outreach cycle process holding the lock); macOS has no timeout command. 8 researched, 8 rejected. 4 Instahyre leads (L1546 L1822 L1823 L1826) left unresearched: pages return 403. Apify unused.",
    "ref": "I0027"
+  },
+  {
+   "id": "J0428",
+   "at": "2026-11-20T15:06:12+05:30",
+   "by": "lead-scout",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "8 researched, 0 qualified, 8 rejected (L1789 L1790 L1793 L1794 L1795 L1807 L1773 L1792), 0 emails found; 4 Instahyre leads unverifiable (403); Apify unused; slow CLI sync",
+   "ref": ""
   }
  ]
 }

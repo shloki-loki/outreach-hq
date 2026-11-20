@@ -2990,6 +2990,13 @@
    "ok": true,
    "summary": "8 researched, 0 qualified, 8 rejected (L1789 L1790 L1793 L1794 L1795 L1807 L1773 L1792), 0 emails found; 4 Instahyre leads unverifiable (403); Apify unused; slow CLI sync",
    "stats": {}
+  },
+  {
+   "at": "2026-11-20T15:10:02+05:30",
+   "agent": "follow-up",
+   "ok": true,
+   "summary": "0 follow-ups drafted, 1 reply flagged (L0014 Helium Air: interview invite for Fri 20 Nov 4pm IST), 0 bounces handled; note: store.sync git reset failed intermittently (exit 128) on first tries, succeeded on retry",
+   "stats": {}
   }
  ]
 }

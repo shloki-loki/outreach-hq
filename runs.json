@@ -3071,6 +3071,16 @@
    "ok": true,
    "summary": "Outreach HQ 20 Nov: 1 reply, 10 to approve",
    "stats": {}
+  },
+  {
+   "at": "2026-11-20T16:23:22+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "stats": {
+    "sent": 10,
+    "failed": 0
+   }
   }
  ]
 }

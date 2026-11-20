@@ -3950,6 +3950,15 @@
    "title": "Ran",
    "detail": "Outreach HQ 20 Nov: 1 reply, 10 to approve",
    "ref": ""
+  },
+  {
+   "id": "J0440",
+   "at": "2026-11-20T16:23:22+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

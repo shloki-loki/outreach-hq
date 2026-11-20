@@ -2931,6 +2931,34 @@
     "people_added": 0,
     "skipped": ""
    }
+  },
+  {
+   "at": "2026-11-20T14:12:50+05:30",
+   "agent": "writer",
+   "ok": true,
+   "summary": "0 cold emails, 0 follow-ups and 0 LinkedIn note sets drafted for approval; 2 dropped for failing checks; stopped early: free quota used for today on gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash",
+   "stats": {
+    "cold": 0,
+    "followups": 0,
+    "linkedin": 0,
+    "apply_notes": 7,
+    "dropped": 2,
+    "models": {
+     "writer": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash"
+     ],
+     "judge": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite"
+     ]
+    }
+   }
   }
  ]
 }

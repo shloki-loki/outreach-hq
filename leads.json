@@ -193912,15 +193912,15 @@
    "key": "propelld|sales and growth manager|india",
    "type": "job",
    "company": "Propelld",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "propelld.com",
+   "company_url": "https://propelld.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Sales & Growth Manager (Founder's Office)",
    "tier": "1 - Strategy & Ops",
    "location": "Chennai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "464179",
    "source_url": "https://www.instahyre.com/job-464179-sales-growth-manager-founders-office-at-propelld-chennai/",
@@ -193956,8 +193956,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -193966,15 +193966,33 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Sales & Growth Manager in Founder's Office at Propelld in Chennai, asks 5-9 yrs; your 1.3 yrs and lack of team management do not fit.",
+    "fit_notes": "The posting asks for '5-9 Years' of experience and 'Experience managing or leading a team of 5 or more individuals'. Shlok has about 1.3 years of experience and no full-time team management. While the role touches Founder's Office strategy and business development, the heavy field sales execution and 5-9 year experience barrier make it a reject.",
+    "pay_notes": "Pay is not stated in the posting, and no concrete salary figures were found in the evidence.",
+    "culture_notes": "Company size and detailed Glassdoor ratings were not found in the posting or fetched evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T23:06:55+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Propelld - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZjlIMFEzaVZ1c2dQeFFoR2xZUWFyaFJ2QTJ6bGliU3Aya0tQNGE5TUdleTN1UWRNUFhIcnRZLWRvMHdYcjlyU01rZnltYnRjS0xUVFhNZDUwSVpyeUJlaXVGWm82cGpPUi14Sml0TDV0cU1VRW02SG1UcjBPekg0cVVtMXgyQ095VGpCcHd2TnRVNmpDT0plRlVpbUd1bmRvdkh3LUI5UklhbkE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Propelld - 2026 Latest Shareholding & Valuation - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDgwSDYxUkl6eGxCOHV5QmdqdW94UTVaLTBCdFpwSm5DYldXdVZFbTdWLWNudERQQXZIcEItOEZSbjhWRW1yZFRlQU02OUNfN3RKRXp3TlM2c0R6bTFuTV9RQTJSMVYwc2twcnYyVmlsQVBDOGdaWUpHMTlqQlFITFNCWjZFaGdGR1NNbmhoUmlTczVMMDlVelBUUVFGYWtMX2pyTGZYLVg?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -193998,14 +194016,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T23:06:55+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role requires 5-9 years of experience and experience managing a team of 5+ individuals, neither of which Shlok has with his 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-20T23:06:55+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 5-9 years of experience and experience managing a team of 5+ individuals, neither of which Shlok has with his 1.3 years of experience."
   },
   {
    "id": "L1596",

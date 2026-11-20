@@ -4094,6 +4094,15 @@
    "title": "Reply: Helium Air interview invite Fri 20 Nov 4pm IST",
    "detail": "follow-up flagged L0014 Helium Air reply at 15:10 IST: interview invite for today 4pm IST. That time has passed by this check (17:2x IST); Shlok should confirm he saw it and reply to reschedule if missed. Lead status 'interview' count is 1.",
    "ref": ""
+  },
+  {
+   "id": "J0456",
+   "at": "2026-11-20T20:12:34+05:30",
+   "by": "supervisor",
+   "kind": "review",
+   "title": "Daily review 2026-11-20",
+   "detail": "RAN: lead-scout/scrape 14:48, follow-up/track 16:34, send-track 15:36, send-track/send 16:46 (80 sent today, 70 new-email cap hit), lead-scout 15:06 (8 researched, 0 qualified), follow-up 15:10, digest 16:18, writer 14:12 (Gemini free quota used up, 0 drafted), people-finder 13:36 (0 added), live-check 12:37. FAILED: research-worker 13:35 (marked failed though 24 researched), supervisor/check 17:17 (W0006-W0008 expired claims, I0014). GitHub runs: last 15 all success. PROBLEMS: NEW I0028 bounce rate 6.5% (6/92, all today) diagnosed, open; I0027 lead-scout stalls on slow sync, diagnosed; 17 other warn issues still open (I0005, I0010, I0011, I0012, I0014, I0015, I0016, I0018-I0026), all diagnosed except none new. Mac slept 06:33-15:04 so nothing sent in the morning; Claude sent the backlog (J0448). No double sends (checked). CHANGES: none by me. FUNNEL: 1840 leads, 449 researched, 110 qualified, 41 contacted + 6 applied, 2 people replied, 1 interview, 0 offers. Reply rate 2.4%, bounce rate 6.5%. Verifier credits: Reoon free quota spent, no Hunter key. NEEDS SHLOK: (1) Helium Air interview invite was for today 4pm IST, confirm he saw it; (2) before 21 Nov 08:00 hold the guess/catch-all addresses among the 64 approved cold emails; (3) rotate the Reoon key leaked in I0010 (I0025); (4) fix W0006-W0008 so supervisor/check stops failing.",
+   "ref": ""
   }
  ]
 }

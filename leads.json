@@ -214870,15 +214870,15 @@
    "key": "trail|product manager|bengaluru",
    "type": "job",
    "company": "Trail",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "nanonets.com",
+   "company_url": "https://nanonets.com",
    "company_linkedin": "https://www.linkedin.com/company/trailhq",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492426528",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-at-trail-4492426528",
@@ -214894,7 +214894,7 @@
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Trail is the context layer AI agents run on.\n We're building the missing layer between your company's rules, exceptions, and institutional knowledge and the agents trying to act on them. It's a governed graph that lets any agent or platform, including Trail agents, make the right call on your most complex business processes. Agents today fail not because models are weak, but because they're never given the judgment a business builds up over years. We're fixing that.\n Learn more about what we're building here : \n Youtube \n Hugging Face \n Trail \n Nanonets Research \n About the role \n As we continue to scale, we are looking to hire a dynamic and results-driven Product Manager to join our growing team at Nanonets. You will be playing a key role in building solutions and driving forward the product roadmap. You will be deeply engaged in understanding our customers, prioritizing pain points to solve, converting them into detailed stories, and seeing them through to releases.\n What we’re looking for \n 3+ years of experience, including experience working on user-facing SAAS products.\n At least 2+ years of hands-on experience in software engineering.\n Background in Machine Learning not a requirement but a major plus.\n Impact focused and a consistent history of delivering measurable results for both users and the business.\n Ability to think big and small to build incremental features and prototypes in service of a larger vision. You are as comfortable working in paper-prototypes as you are building out scalable features for demanding enterprise clients and know when to do which.\n Comfort and skill at presenting to and gaining traction with audiences of all sizes — from executive meetings with our CEO and customer syncs to company all-hands and external events You are a self-motivated team player with the ability to work in fast-paced environments with minimal oversight.\n Product sense and craftsmanship. You will own important product interactions with every Nanonets customer and should show the attention to detail this responsibility deserves.\n You listen well. You build consensus by default, but can drive hard decisions when needed. You push the pace. You take blame and pass on praise. People love working with you.\n B.E/B.Tech or a business graduate from a Tier 1 school.\n What you’ll do \n Develop the product vision, strategy, and roadmap for Nanonets customers to fully deploy Nanonets to serve their partners and customers.\n Product Strategy: Collaborate with cross-functional teams to define and execute the product roadmap, considering market trends, competitive landscape, and customer feedback.\n Requirements Gathering: Conduct thorough market research and engage with stakeholders to identify user needs, pain points, and opportunities for product improvement.\n New Feature Development: Evaluate feature requests and prioritize them based on business value, technical feasibility, and customer impact.\n Product Development: Work closely with engineering teams th",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -214909,8 +214909,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -214920,15 +214920,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Product Manager at Trail (Nanonets), asks 3+ yrs and 2+ yrs software engineering; you have 1.3 yrs and no core SE background.",
+    "fit_notes": "The posting asks for '3+ years of experience, including experience working on user-facing SAAS products' and 'At least 2+ years of hands-on software engineering'. Shlok has about 1.3 years of experience. While he has some coding skills (C++, Python, Flask), his primary experience is in Strategy & Operations at Ola Electric ([sop], [ceo-coo]), not dedicated software engineering or SaaS product management. The role also requires a B.E/B.Tech or a business graduate from a Tier 1 school (IIT Guwahati fits the engineering part).",
+    "pay_notes": "Pay not stated in the posting, and no pay evidence found in sources.",
+    "culture_notes": "Company quality and culture details not found in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T13:29:16+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Trail Blazers 118-108 Thunder (12 Nov, 2026) Final Score - ESPN India",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMMTc0Z3lCOHNjS3dCMU10QmFFc3pOczFqczU3SEFqNm12QkxkZFlOZ1diWXdFamFEOUJCakRlWURqS2pJRmNENkhnOElDTXhQUFBsZFh0MHFMOHplNFdsZDBmU1J1ZE9uNldGNGRCMnZqUW9yM0N6Mg?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "APOD: 2026 July 17 - The Dust Trail of Comet Tempel 2 - NASA Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGttUEpoQUc4SU8xeTF1QUM5WmlIQWQwbTNha3BUNjh4S3RpUmxDQnJzd2hyNzdHUDlaNHhlM0ljR1d6ZUVXYzJpLUtieV9ab1g4WW5DNFVrTnJtWWkyVWh2Tnc4OHVPQjNPME9mUTRRcHhhZWdmdDhrZ3U0S0hsVnFuLU1tQTRpYmxQNlJXUzk0WXFt?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Frozen Trail - 2.0 Update - ARC Raiders",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Hc1Z1UDNnODlBbVFQYVBiX0ZOWlQzT2hfLUl3YTdtOU1rTDc4Zm5aOWNVeklhU1E0bmJhQ3NPaXZ6TmVlREN1T3JmeTNjRzNCTGt6TEJtYlpNVG9SamRrNA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Kashmir’s digital boom leaves behind toxic trail of e-waste - Rising Kashmir",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjhrcjREZTczQ0RnSWFjUnI5ZnYxLVRQRmhEb01LeDAzeUlpYmI1RjdsQjNmV3hmX2FaNXd3QlIzY1U4RkdVd3FLUWN4M2pmYnFHbFJKWU5jRElBdzhybnJJdmJ0VEdjNUg1RW1ncXhUUTNzZkhBYU9NOWNFaEE3UHR5clRldXBQaHNUcmszNE5CNjJ6ZFlmZUdxM2hmeFJHSXc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "England’s Forgotten Castle Trail—And the Woman Behind It - National Geographic",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUhfdEZuTVBvSG9VUmtiQU1DRThFaFowNi1Gc0N4djVHZ1lOMndMWmxHd2NqXzFUTjZ6RThmUnJBTXE1NmtNYjU4eWpMUFN3NEdsMldvTWtrWFlsdS0wdWJBbGV4bVc5THNvTlpHNkxUdVFCTjZsbWlZVldBQ1dUYjEtX3VrNmdmdjN5NGhCd2lENkY0ZmJRcWpVQTFjM1lZS1lybFhoRC13UmVCa2xMUzU2N3E1UmdpQlRR?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "WhatsApp Chat Without Money Trail Insufficient To Deny Bail: Uttarakhand High Court Grants Bail In NDPS... - Live Law",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXhYS0doOXdWNzJjdGs5dVFGa2VjVmtPRVFOUTh5TFowS1l2THFrcURHZnBZZFlVbkZDc0U0d0pPeVNtMjlTbUo0djFjSGRQOEJBVmRyMldkZkJkQXZENkRMU1lKUl9OSGNPUVRIemQxUlU2TU0waEl0MWtoNGMtZG1EdUcyLUtGaTBIY2hPSk9URHdWTTZhN1NCb01LWmF3RUdzWEZQM3phSnVOOVhLa3dDbTlRQ1FtOV9xY9IBwgFBVV95cUxOVVFvdDBEdG9mUkJEcm1vS2xGMGR1YWVCUTFpRjFGQW1TN1ljNUIwWENCdlB3YzV0dkYyZ2U0NGFUbTdyYkVlYUR5NF8xRFVzdEpNS0p1eHdXcVZhN0ZqX0Z2Y1kxaVptZEdiWVdiNDRrV3pvdEdkckNCc3djNzJPdnQzMXBTcnJScjFUallpeWlzbTVsb2o4eGRHc2pZUjJXOTN4YzlsZW9wYUtMbldNMGNXTFc2OTZEaDJaOUpac1BCdw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -214952,14 +214990,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-20T13:29:16+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The posting asks for 3+ years of experience and 2+ years of hands-on software engineering, and the company is Nanonets rather than a direct match for Shlok's primary strategy/operations preferences.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-20T13:29:16+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting asks for 3+ years of experience and 2+ years of hands-on software engineering, and the company is Nanonets rather than a direct match for Shlok's primary strategy/operations preferences."
   },
   {
    "id": "L1798",

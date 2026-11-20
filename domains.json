@@ -244,6 +244,12 @@
    "confirmed": [
     "hr@heliumair.in"
    ]
+  },
+  "fluidvc.in": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

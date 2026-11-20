@@ -6782,9 +6782,15 @@
      "actor": "writer",
      "event": "apply_kit",
      "detail": "application note written (free model)"
+    },
+    {
+     "at": "2026-11-20T16:32:48+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup1 email to Jagadeesh Kunda"
     }
    ],
-   "updated_at": "2026-11-20T14:12:15+05:30",
+   "updated_at": "2026-11-20T16:32:48+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

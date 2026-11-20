@@ -33737,15 +33737,15 @@
    "key": "solugenix|product manager|bengaluru",
    "type": "job",
    "company": "Solugenix",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "solugenix.com",
+   "company_url": "https://www.solugenix.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "443387",
    "source_url": "https://www.instahyre.com/job-443387-product-manager-at-solugenix-bangalore/",
@@ -33776,8 +33776,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -33786,15 +33786,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Solugenix, asks 3-4 yrs and MBA; your Ola supply-chain background does not match PM requirements.",
+    "fit_notes": "The posting asks for '3-4 years of product management experience, preferably in B2B SaaS products' and states 'Education: MBA from a Tier-1 institute preferred'. Shlok has about 1.3 years of experience, no MBA, and a background in S&OP, inventory management, and operations ([sop], [ceo-coo]) rather than software product management.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Glassdoor ratings and details were not found in the posting or search evidence, other than a recent expansion in Hyderabad [S1].",
+    "hook": "Solugenix expanded significantly in Hyderabad recently, highlighting ongoing service delivery growth.",
+    "hook_source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWNtNGg2WTVPdjU5UmxReHUtZEM1Tk1OWFMzT2JIaUZDMzY2aHU2akl2aVpWbGRGSTZFR3ZxODhPbnFxMkVJekVNZmZxa0wxZWl2TVhENEI3a2dDelotdmhjZC11bk5ONEpXZTl1bjBEd3Y2cFBmczhMeEJwaDZTY2lRZ3p0cVVUNHNVRG9YUQ?oc=5",
+    "researched_at": "2026-11-20T22:47:37+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Solugenix expands significantly in Hyderabad - The Hans India",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWNtNGg2WTVPdjU5UmxReHUtZEM1Tk1OWFMzT2JIaUZDMzY2aHU2akl2aVpWbGRGSTZFR3ZxODhPbnFxMkVJekVNZmZxa0wxZWl2TVhENEI3a2dDelotdmhjZC11bk5ONEpXZTl1bjBEd3Y2cFBmczhMeEJwaDZTY2lRZ3p0cVVUNHNVRG9YUQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -33818,9 +33831,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T22:47:37+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role asks for 3-4 years of PM experience and a preferred Tier-1 MBA, while Shlok has 1.3 years of experience and no MBA.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-20T22:47:37+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
@@ -33830,7 +33849,8 @@
     "at": "2026-11-19T23:34:02+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 3-4 years of PM experience and a preferred Tier-1 MBA, while Shlok has 1.3 years of experience and no MBA."
   },
   {
    "id": "L0265",

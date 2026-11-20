@@ -208242,15 +208242,15 @@
    "key": "amazon|technical program manager stores application security|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.com",
+   "company_url": "https://www.amazon.com",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Technical Program Manager, Stores Application Security",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4466724059",
    "source_url": "https://in.linkedin.com/jobs/view/technical-program-manager-stores-application-security-at-amazon-4466724059",
@@ -208266,7 +208266,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Description\n Amazon Application Security is looking for a security-focused Technical Program Manager who wants to make a difference and support Amazon builders to ensure that protecting customer data is at the forefront of all development.\nOur team approaches security challenges with empathy and curiosity to help Amazon builders identify areas of improvement and learn how to navigate the highly dynamic space of application security. Amazon Application Security focuses on enabling our builders to provide a secure and trustworthy experience to our customers without compromising the overall customer experience.\nIn this role you will work directly with security teams and Amazon builders providing direct front line support and security expertise to Amazon teams.\nYou’ll also find this role will routinely challenge your background in technical product ownership, process development, operational and management skills, project management, critical thinking, relationship-building, and problem-solving. You’ll also find yourself challenged in unique ways when operating at the massive scale of Amazon, unique to a select few corporations in the world. You must be self-directed and open to new challenges, adept at prioritization, innovation, and collaborating with others.\nKey job responsibilities\n Plan, organize, and manage all phases of the project lifecycle ensuring successful delivery. This includes defining success criteria, developing and managing project governance plans, project schedules, team goals, communication strategies and project milestones.\n Collaborate with internal customers (senior business leaders, development teams, application security engineering teams and other partner security teams) to understand their needs, their business and how we can improve their security posture.\n Architect and manage internal scope of work documents with the customer clearly defining success criteria and timelines. Hold all stakeholders accountable to these documents through the project lifecycle, escalating as necessary.\n Build and manage relationships with key internal stakeholders and security teams and while advocating on behalf of our customers to deliver on their security goals.\n Guide the evolution and adoption of internal security support solutions, at times with complex priorities, prioritizing the work most beneficial to Amazon builders.\n Use knowledge of software system design to scope architecture, review associated threat models, educate customers on potential severity of security findings and guide developer and security engineering teams through remediation.\n Define and implement best practice methods, processes, tools and continuous improvement initiatives aimed at scaling and increasing the efficiency of Amazon’s security guidance and builder support processes.\n Own the creation and delivery of business proposals (growth, new areas of focus, etc) and metrics to security leadership.\n Proactively identify and manage program risk, identifying path",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -208281,8 +208281,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 55,
+    "total": 59,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -208292,15 +208292,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Technical Program Manager at Amazon, asks 3+ yrs TPM and 5+ yrs engineering experience; your ~1.3 years is a gap.",
+    "fit_notes": "The posting asks for '3+ years of technical product or program management experience' and '5+ years of working directly with engineering teams'. Shlok has about 1.3 years of experience. While his technical background includes building APIs [idekho] and managing production planning [mrp], the experience duration requirement makes this a stretch/reject.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "Ratings and specific culture scores were not found in the evidence, though recent FTC settlement news is noted [S6].",
+    "hook": "Amazon announced it will invest $48 billion in India by 2030, expanding its footprint across the region [S2].",
+    "hook_source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5",
+    "researched_at": "2026-11-20T13:27:24+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1NKRzBoR3ZXbnRFOFZ2QnI3aUFBMy15QnludHNqYlVXVHdVcFFFWXhOWmQtTGJ4QVBRQlhpVjNSemJfaHZJRnM4U0JnR0V0TWc5VkpWUVRHYjE2WG5NR3VMRnJDazU2Qk0wNG9pcTJNbURhRDYwTDRDSURyVUZJM3pPSmVzODRSOHdpUTA2cWlJMGdKQXB6czFTbjZMMF93VU000gGoAUFVX3lxTE02UVJuZkU4c3NYMFNUUGxITHRQUGlLU2plV0dDMFg3WVB6cGRjTDJUdHZOOVN3MTdsLWxIenFKUHlDejZHOG4ya3RERGt3SXpnb0hXUzdNbFBNXzhvZHN4UWt1d3dWcjljdGVvZlZBbXRjWDJaSk1maHhmR0RmVThaSENESC10TTNFUnR6S2FsQkY2bVprOEU3ejlWRTJjSURxa3hyTVA5RA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Google And Amazon Own More Anthropic Stock Than All Cofounders Combined - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeklDWmlvTnBsS1JFMkZ6LXJBS3FzN3ZxZFFRNDJDWDJvNE0xS1dleFpxYUdsd2pJcDBKaDZ0UU9MRkxkd0dWbmxWVGVIOV9HUUR6d1V2TjNOR2dVZEx6Z0Q2UndacjRpVi1vNENlZllaZTdsdDlISU0xbHJhTXdJMVRwakh5NGdITVdCWFJqSlpWS0VmcmJlQXQtT21sSjBOUUFLSlVjTTl4eXFSSVZPMkNOS0gwWUZHcVEtQlBma1hGNGkzZUVVaVBR?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement - Federal Trade Commission (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLXJVZEYtT0JDUmdPeUZxdjlXaHZSQzZFbGFraVRFeVIyYXRFLXN4bzhnZUUtZl9ZdXJlUERrOEY0eXFMZnNvSno2aVpPZTN1SlJDTUtqYUJka3BKV2JubFBuajloYU15b2VPWUlEUmNzX3RGX1NEVE9QQTlNRmRUbWRUbjQtU1o3MHE2amZfdDlJRmhNLTdMRm5DT09SSzFYNjNqYWpSWnVXU09Yc3BPLWlTVzVnMzhaOG12T2xZQUtxd2twNjRZNHlWNTc4OWFnSDlnMlJVWUc?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -208324,9 +208362,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-20T13:27:24+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 59: rejected (The role asks for 3+ years of technical product or program management experience and 5+ years working directly with engineering teams, exceeding Shlok's ~1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-20T13:27:24+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
@@ -208336,7 +208380,8 @@
     "at": "2026-11-19T13:30:47+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 3+ years of technical product or program management experience and 5+ years working directly with engineering teams, exceeding Shlok's ~1.3 years of experience."
   },
   {
    "id": "L1739",

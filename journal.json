@@ -3923,6 +3923,15 @@
    "title": "Template founder-v1: 36 emails queued",
    "detail": "1806 addresses left after today; refused 0",
    "ref": "M0109"
+  },
+  {
+   "id": "J0437",
+   "at": "2026-11-20T16:07:30+05:30",
+   "by": "campaign",
+   "kind": "update",
+   "title": "Template job-apply-v1: 1 emails queued",
+   "detail": "0 addresses left after today; refused 0",
+   "ref": "M0145"
   }
  ]
 }

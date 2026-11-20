@@ -183782,15 +183782,15 @@
    "key": "instahyre|growth manager|bengaluru",
    "type": "job",
    "company": "Instahyre",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "instahyre.com",
+   "company_url": "https://www.instahyre.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Growth Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "447569",
    "source_url": "https://www.instahyre.com/job-447569-growth-manager-at-instahyre-bangalore/",
@@ -183821,8 +183821,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -183831,15 +183831,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Growth Manager at Instahyre in Bangalore, asks 2-3 years of growth marketing experience which does not match your supply chain background.",
+    "fit_notes": "The posting asks for \"2-3 years of prior experience in a growth hacking/growth marketing role\" and strong knowledge of digital/performance marketing channels and user acquisition. Shlok's experience is in operations, S&OP, and inventory management (citing [sop], [ceo-coo], [msl]). While he has technical skills like Python/Flask from an internship [idekho], he does not possess the requested growth marketing or user acquisition experience.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "Company culture details and employee reviews were not found in the posting or search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T22:56:44+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -183863,14 +183870,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T22:56:44+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The Growth Manager role requires 2-3 years of prior experience in digital/growth marketing and user acquisition, a domain where Shlok lacks direct experience since his background is in S&OP, supply chain, and operations.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-20T22:56:44+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The Growth Manager role requires 2-3 years of prior experience in digital/growth marketing and user acquisition, a domain where Shlok lacks direct experience since his background is in S&OP, supply chain, and operations."
   },
   {
    "id": "L1507",

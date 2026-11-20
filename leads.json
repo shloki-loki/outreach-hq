@@ -4427,9 +4427,9 @@
      "role_type": "generic",
      "linkedin_url": "",
      "email": "careers@haystackaalytics.in",
-     "email_status": "published",
+     "email_status": "bounced",
      "email_source": "stated in the hiring post",
-     "confidence": 95,
+     "confidence": 0,
      "why": "",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -4492,9 +4492,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to careers@haystackaalytics.in"
+    },
+    {
+     "at": "2026-11-20T16:34:04+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "careers@haystackaalytics.in does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-20T16:30:59+05:30",
+   "updated_at": "2026-11-20T16:34:04+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
@@ -5564,9 +5570,9 @@
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/luckymehndiratta",
      "email": "lucky@frnd.app",
-     "email_status": "pattern",
+     "email_status": "bounced",
      "email_source": "company pattern is first (from a confirmed address)",
-     "confidence": 70,
+     "confidence": 0,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     }
@@ -5618,9 +5624,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Lucky Mehndiratta"
+    },
+    {
+     "at": "2026-11-20T16:34:04+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "lucky@frnd.app does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-20T16:27:47+05:30",
+   "updated_at": "2026-11-20T16:34:04+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
@@ -53999,7 +54011,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "sanchit.garg@traveltriangle.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 496 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -54050,9 +54062,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sanchit Garg"
+    },
+    {
+     "at": "2026-11-20T16:34:04+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "sanchit.garg@traveltriangle.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-20T16:09:59+05:30",
+   "updated_at": "2026-11-20T16:34:04+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

@@ -4022,6 +4022,15 @@
    "title": "Ran",
    "detail": "sent 8, failed 0. daily cap of 70 new emails reached",
    "ref": ""
+  },
+  {
+   "id": "J0448",
+   "at": "2026-11-20T16:47:07+05:30",
+   "by": "claude",
+   "kind": "fix",
+   "title": "Sent the day's emails after the Mac slept",
+   "detail": "The Mac slept 06:33-15:04 IST on 20 Nov and GitHub's cycle did not run, so nothing went out in the morning. Ran send in a loop with caffeinate from 15:08 to 16:46: 62 sent in this run, 0 failed; 80 emails sent today in total, stopped by the 70 new-email daily cap. 60 founder emails stay approved for tomorrow. Bounce rate is 6.5% (6 of 92), 4 of them founder addresses. Found: 'campaign status' crashes for followup-v1 (KeyError 'source'); job-apply-v1 has 0 targets left until more contacts are verified.",
+   "ref": ""
   }
  ]
 }

@@ -33205,7 +33205,7 @@
    "key": "aspora|product manager|bengaluru",
    "type": "job",
    "company": "Aspora",
-   "company_domain": "",
+   "company_domain": "aspora.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "",
@@ -33213,7 +33213,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "462511",
    "source_url": "https://www.instahyre.com/job-462511-product-manager-at-aspora-bangalore/",
@@ -33244,8 +33244,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -33254,15 +33254,50 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Aspora, asks 4-6 yrs in consumer fintech; you have ~1.3 yrs in S&OP and operations.",
+    "fit_notes": "The posting asks for '4-6 years of experience in Product Management or Growth roles within an Indian consumer fintech company', 'Strong data analysis skills, including writing SQL queries', and 'Hands-on experience designing and managing referral, cashback, or incentive programmes'. Shlok has SQL and product internship experience [idekho], but his primary experience is in supply chain, S&OP, and operations [sop, msl, o2d]. Furthermore, his total experience is about 1.3 years, falling well short of the 4-6 years required.",
+    "pay_notes": "Pay is not stated in the posting; benefits mention competitive salary and ESOPs.",
+    "culture_notes": "Ratings and glassdoor reviews were not found in the evidence. Backed by Sequoia Capital, Greylock Partners, Hummingbird Ventures, Y Combinator, and Global Founders Capital.",
+    "hook": "Aspora recently partnered with OGold to bring gold investing to over two million NRI customers in the UAE.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOUE5Z3A4ekRlbHlDVmFYdW8tMUVkTWl0cEdHOU5oUmxxSURLMWl0LTlDbUpHNFZlSEN4VS1iTnFSMVZuTjRqNjllZ2pId19XYjZVampISWRWRE9oMXN2eTlrLUFMSmtUa2NpSl9xM3RpWVNBb1FlcTI5eWR5dmZUMDBwemdSWklaMHc0Z3hYWHNkQWxHcjBKMEFqajNXQy1tUV96MmpKbGJHTFhTNVA5TjFIeVNhR1JyVWdyTHdSLXZ6LWU3dGp1aTV0V1lWT3gyYi1hamVteUdXQUJVOS1JWFYxbkZvd9IB-AFBVV95cUxPRkJnVWM1OUJISEtlbDUyWHFBbmpESlpfYUNKUmZ1YVJwQThQV2VobG9pRzZzZ2dEY25PRU5KeUlWam9PWmE2RDIycUdNdzRzRGpYaUpocG9UZGFkeFZtOF9hSVNSYi11cTU4cldwdDNEYnllM0xKVWhIVjRlaDltV2dkVnJvZEhSZzdkQkVZakVxakZOSVBQaC1oMTg4RVlfXzFqWlo4bmY3QlM0NnBjbjMxRG9uSjVwZk5Jei1JX3h1S1UzeEFMNnY0TGZSODl0M1JiTWZIRkJLSjlhd0t3a0hoVHV3R0lUZ1NIYnlqNU5BY3pVNkdhag?oc=5",
+    "researched_at": "2026-11-20T22:46:00+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Aspora buys control of Lithuanian e-money firm Hokodo to expand in Europe - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQk9yRllaaHp5UUhGWllRMUVicmFPbW4zaHctODVOU19ORGx2R0E1ZlB2REI3NTFQT1diSUtnbW1JOTBDV1oxYzByemREZ1VPOHVIWlc4Mmt5d1Zyei1uRHdZbVdaT19hZkJrVklIY3BJNWpNd2tQY25XaW9NYnU5dmFoRWJFTEhQbHpndEg1Q28wVDFFbFN2cUhITUFRVC1sV3VoR19ncXR2bEU?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Aspora Turns a Legal-Looking Letter Into a Conversation Starter for Indians in the UK - Pressat.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMnNBaEtIaGJac1JPRUlpdGV5MlVMMUpQcXZOSFRlem9mZC0xS1A3ZGtja3VXRV9ROTY5YkwwMUNVeW5mSkc2NFFvWTlnRkMyTFh2aEdTajEyWlJ4VzFFRHhZNUlVTHpncHNlNmlVd0FBM0RvS3R6RXJpd1dFNDJnUW02RUJzNDhiTXFBYjI5T2hGbmg0dkY3cVQxV3BRVWxKME1PZ0JIZmFFSlN5U0l4N3Z3WS1MdDE4MnVYVkFKS25KSG1jVXl3OTg0TEpiZGdTazN0ZDNtb1h2d3lJYnItSm5rVTE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Aspora and OGold Partner to Bring Gold Investing to Overt Two Million NRI Customers in the UAE - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOUE5Z3A4ekRlbHlDVmFYdW8tMUVkTWl0cEdHOU5oUmxxSURLMWl0LTlDbUpHNFZlSEN4VS1iTnFSMVZuTjRqNjllZ2pId19XYjZVampISWRWRE9oMXN2eTlrLUFMSmtUa2NpSl9xM3RpWVNBb1FlcTI5eWR5dmZUMDBwemdSWklaMHc0Z3hYWHNkQWxHcjBKMEFqajNXQy1tUV96MmpKbGJHTFhTNVA5TjFIeVNhR1JyVWdyTHdSLXZ6LWU3dGp1aTV0V1lWT3gyYi1hamVteUdXQUJVOS1JWFYxbkZvd9IB-AFBVV95cUxPRkJnVWM1OUJISEtlbDUyWHFBbmpESlpfYUNKUmZ1YVJwQThQV2VobG9pRzZzZ2dEY25PRU5KeUlWam9PWmE2RDIycUdNdzRzRGpYaUpocG9UZGFkeFZtOF9hSVNSYi11cTU4cldwdDNEYnllM0xKVWhIVjRlaDltV2dkVnJvZEhSZzdkQkVZakVxakZOSVBQaC1oMTg4RVlfXzFqWlo4bmY3QlM0NnBjbjMxRG9uSjVwZk5Jei1JX3h1S1UzeEFMNnY0TGZSODl0M1JiTWZIRkJLSjlhd0t3a0hoVHV3R0lUZ1NIYnlqNU5BY3pVNkdhag?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "US fintech Aspora to establish EU hub in Lithuania, create up to 100 jobs - LRT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWJ2VWNKd3dzNzNidHRqajdLMG9pV0FReEJ6RnllRm1lT2RoSi1qLWhWV3QtdUlHdlEySVktWjFFUXRQMk8wd1FhWHZIRGlKMXg5b0JQcGJGeFRwUjAyRWt1N0RWdDBmaEo2djBYdnRyVnBKX1MzcTgzQThiU2hvRTBOX09waUlnbk9ITGFlU2tjbDY3LXNFSzBpTjFjdjJhVVdPbldZck11VjRCM2t0aVpOZlJ6UGNGZUk3ZXBB?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Aspora, OGold partner to bring gold investing to over 2m NRI customers in the UAE - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVdMMmRkeHBJZktGY01xMzMtMzFvYm0zbnJNTzdGLTIxVWhVZW9XT1BJT1I0RjBTYmUwSjdTU184anJnLWR3d1psZVJtbXY3bXI5ZjBRa0VXY01aUE9NUWFhbExzMDhjN0o1aU1CN3o1ZHEwSlQwMlV1MGx5MUdveVFSMVZGY3hadFRGS3ZYN2w1ZkxNOWlHTDVWZlc1eEJUUElfV1E5cFJtVmNOanMwdHptV0NDZFpRODdqeEE4SWJsQTQ4c1HSAcYBQVVfeXFMTzFXTDJkZHhwSWZLRmNNcTMzLTMxb2JtM25yTU83Ri0yMVVoVWVvV09QSU9SNEYwU2JlMEo3U1NfOGpyZy1kd3dabGVSbW12N21yOWYwUWtFV2NNWlBPTVFhYWxMczA4YzdKNWlNQjd6NWRxMEpUMDJVdTBseTFHb3lRUjFWRmN4WnRURkt2WDdsNWZMTTlpR0w1VmZXNXhCVFBJX1dROXBSbVZjTmpzMHR6bVdDQ2RaUTg3anhBOElibEE0OHNR?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -33286,9 +33321,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-20T22:46:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role asks for 4-6 years of experience in product management or growth within an Indian consumer fintech company, and Shlok has only ~1.3 years of experience, mostly in S&OP and operations rather than pure product management.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-20T22:46:00+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
@@ -33298,7 +33339,8 @@
     "at": "2026-11-19T23:30:32+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 4-6 years of experience in product management or growth within an Indian consumer fintech company, and Shlok has only ~1.3 years of experience, mostly in S&OP and operations rather than pure product management."
   },
   {
    "id": "L0261",

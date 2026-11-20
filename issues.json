@@ -377,6 +377,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0028",
+   "key": "supervisor:Bounce rate 6.5% (6 of 92), 6 bounces on 20 Nov",
+   "agent": "supervisor",
+   "severity": "error",
+   "title": "Bounce rate 6.5% (6 of 92), 6 bounces on 20 Nov",
+   "detail": "All 6 bounces came from sends on 20 Nov 15:17-16:30 IST: M0041 jitender@zipgo.in, M0065 shalabh@fluidvc.in, M0068 ville@outerbounds.com, M0075 sanchit.garg@traveltriangle.com (founder-v1 emails), M0096 lucky@frnd.app (job application, L0040), M0098 careers@haystackaalytics.in (job application, L0032; the domain looks misspelled). Above the 5% limit. 60 more founder emails are approved for 21 Nov.",
+   "status": "open",
+   "opened_at": "2026-11-20T20:11:57+05:30",
+   "last_seen": "2026-11-20T20:11:57+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

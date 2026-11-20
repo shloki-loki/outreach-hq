@@ -214725,15 +214725,15 @@
    "key": "google|associate product manager university graduate 2027 start|bengaluru",
    "type": "job",
    "company": "Google",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "google.com",
+   "company_url": "https://google.com",
    "company_linkedin": "https://www.linkedin.com/company/google",
    "company_note": "",
    "title": "Associate Product Manager, University Graduate, 2027 Start",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4483016048",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-university-graduate-2027-start-at-google-4483016048",
@@ -214764,8 +214764,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 85,
+    "total": 77,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -214775,15 +214775,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Product Manager at Google (Bengaluru), university graduate start; your technical internship and leadership map directly.",
+    "fit_notes": "The posting asks for a degree in a technical field or equivalent practical experience, internship or TA experience in product management or software development, and experience building cross-functional relationships. Shlok's internship at InsuranceDekho building a Flask REST API and Chrome extension ([idekho]) and his leadership at Alcheringa ([alcheringa]) answer these technical and leadership needs. No MBA or consulting is required, and experience asked is entry-level university graduate.",
+    "pay_notes": "Pay is not stated in the posting and no specific salary figure was found in the evidence. Google APM packages typically clear Rs 24.5 LPA at the junior level, but it is unverified by explicit text here.",
+    "culture_notes": "Google is a top-tier company with strong engineering culture; specific local ratings and culture flags were not found in the search evidence.",
+    "hook": "Google for Developers Blog announced building full-stack Android apps with Gemini in Google AI Studio.",
+    "hook_source": "https://in.linkedin.com/jobs/view/associate-product-manager-university-graduate-2027-start-at-google-4483016048",
+    "researched_at": "2026-11-20T13:28:34+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Shutting the Door on the XCPE Botnet - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmJ2VVhPbGtGcWJHSGJKcV9UUHU1NzJrdWxPYndXeFNhSDdtaWtZWFl0NFJuQjFYM3pJbVlDR2J6eDdIejBQazh3RDhHYTgweGdvUHllajQyenl2UDB4dVIyZEdzd3Q0RXRHT2xDWEFzcVJlUERFRmkzZkQ4aTd2bEpEQnl2M1NfbHRxQXlONTdTaDg0S3o1aw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Build full-stack Android apps with Gemini in Google AI Studio - Google for Developers Blog",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOckRKc192RjhrUEFoOXUxTE11eTFBY082ZXZTZGxxdDRlZlp3aXg3R2tmUVJqRWFncjEyd2U2dWwwOTR0dnZ0dUs0Zm0wU1BzX01zMGF6cjdfTmpwbjhISHI1d1BiRTRHLWdmd0FmTGkxTzVKbjJ2TXJWODV1VFhYLS1PdzRZelZZeTJlS3lwNEEwRElIXzZIRjJkUTE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "OpenAI models are coming to Google Cloud - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9US2kzdWs5bHhuMThHOEpkbFZ4VTh6UEdodGJRVWJ0OXJBYlVsZk5lbnRKT3FQVUxXRFNJbDNCS3hlTVFDcTJSSm9nUzJ6R2FGWVAwRHhORm16NjdySHNleTBKMTRzWnNvejZRZGtfSXo0WWtKdFlYbURhX2haZXFRTlhvdUtrV3U1UFBiY0RMQlFsQTVpRDl5RWk1RDBnazYtbUM4Z0I?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Genie 4: A new generation of world simulation - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSHE1Q2pvLWgzQk5SaDNUVjcwWnpNLUoteDhJZVRLU3RPZjFhX2dtSGdSRW9OVGdLbUZRQ2dyd3pMeWRqNEtUM080azFBX2l6RGZCd2diZkxYU19LSE9HNUNoTUFHa3NLMUN4SjhwMmRXdFFHVW1hVEpsZkxnWTA?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho",
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -214807,14 +214848,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-20T13:28:34+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 77: qualified"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-20T13:28:34+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1797",

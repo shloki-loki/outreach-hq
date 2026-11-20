@@ -250,6 +250,12 @@
     "first"
    ],
    "confirmed": []
+  },
+  "zipgo.in": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

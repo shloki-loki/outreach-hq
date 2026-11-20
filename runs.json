@@ -3415,6 +3415,30 @@
    "ok": true,
    "summary": "outside the sending window; 64 approved email(s) wait for the next run",
    "stats": {}
+  },
+  {
+   "at": "2026-11-21T01:04:28+05:30",
+   "agent": "lead-scout/scrape",
+   "ok": true,
+   "summary": "6917 jobs read, 427 passed rules, 58 new leads",
+   "stats": {
+    "fetched": 6917,
+    "passed_rules": 427,
+    "new": 58,
+    "updated": 341,
+    "closed": 0,
+    "by_source": {
+     "greenhouse": 3744,
+     "lever": 112,
+     "ashby": 2017,
+     "linkedin": 512,
+     "instahyre": 220,
+     "yc": 182,
+     "naukri": 73,
+     "wellfound": 0,
+     "hiringcafe": 57
+    }
+   }
   }
  ]
 }

@@ -214879,9 +214879,11 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Why this role (cover note)": "Google's Associate Product Manager role bridges technical execution and user experience to guide products from concept to launch. At InsuranceDekho, manual workflows were slow; I built a Flask REST API and Chrome extension that autofilled form fields, cutting response times by 40% and saving 30 minutes per instance. Leading 280+ executives at Alcheringa, I built the ticketing portal that drove a 300% YoY rise in ticket sales. I'm drawn to Google because seeing the Google for Developers Blog announce building full-stack Android apps with Gemini in Google AI Studio shows how rapidly Google delivers useful tools to developers."
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -214911,9 +214913,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-20T13:59:35+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-20T13:35:48+05:30",
+   "updated_at": "2026-11-20T13:59:35+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

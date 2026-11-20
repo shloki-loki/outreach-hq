@@ -5472,7 +5472,7 @@
      "Why this role (cover note)": "FRND's Chief of Staff role needs someone who can move between high-level strategy and zero-to-one execution across functions. During my year in strategy and operations at Ola Electric, I partnered directly with the CEO and COO on fulfilment operations and S&OP, cutting working capital by 40% in 2.5 months. Earlier at IIT Guwahati, I led 280 executives and built the ticketing portal from scratch, which drove a 300% rise in ticket sales. FRND's focus on building new revenue lines and scalable operating rhythms fits how I work. I've attached my resume to show how this experience maps to what you're building."
     }
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-20T16:46:18+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -5531,9 +5531,15 @@
      "actor": "writer",
      "event": "apply_kit",
      "detail": "application note written (free model)"
+    },
+    {
+     "at": "2026-11-20T16:46:18+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Shashwat D."
     }
    ],
-   "updated_at": "2026-11-20T14:11:28+05:30",
+   "updated_at": "2026-11-20T16:46:18+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

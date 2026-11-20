@@ -217599,15 +217599,15 @@
    "key": "colliers|business operations project management|bengaluru",
    "type": "job",
    "company": "Colliers",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "colliers.com",
+   "company_url": "https://www.colliers.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Business Operations | Project Management",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore,Gurgaon,Mumbai",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "480481",
    "source_url": "https://www.instahyre.com/job-480481-business-operations-project-management-at-colliers-bangalore-gurgaon-mumbai/",
@@ -217638,8 +217638,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 50,
+    "total": 59,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -217648,15 +217648,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Project Management Analyst at Colliers asks 0-4 yrs; requires PMO and reporting, below your Ola S&OP scope.",
+    "fit_notes": "The posting asks for '0-4 Years' of experience and a 'Bachelor's degree in Engineering, Management, NICMAR or SPA' with skills in 'PMO, Power BI, Project' coordination, reporting, and tracking project milestones. Shlok has an engineering degree from IIT Guwahati and heavy operations experience including owning S&OP production planning over Rs 200 Cr of inventory [sop] and implementing SAP MRP [mrp], but this role is heavily skewed toward administrative project management and PMO support rather than core Strategy & Operations or Founder's Office execution.",
+    "pay_notes": "Pay is not stated in the posting. No salary figures were found in the company research evidence for this specific role at Colliers.",
+    "culture_notes": "Glassdoor ratings and detailed culture metrics were not found in the provided evidence. Colliers is a major global real estate professional services and investment management firm with over 15,000 professionals globally [S1].",
+    "hook": "Colliers reported that Jan-Sep 2026 investments in Indian real estate touched USD 5.9 Bn, marking the highest 9-month volume in recent years.",
+    "hook_source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmw1aExVdjRSMU9VNmNoNHpqM1JPTm1BUkh6NnlzeHhlUXh2LTFQLXF0c0JncjBJVFA1bmlYcWdreTJ4UUZ1QnlDNXNEc0EwY1dRdGt0a1RVZ0ZFMEhzMVo5RU15RUNnd3R4QnhMc1NmcjRVSWdqcXVkYUQtR1FlRF8zaw?oc=5",
+    "researched_at": "2026-11-20T13:22:23+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Jan-Sep 2026 investments in Indian real estate touch USD 5.9 Bn, highest 9-month volume in recent years - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmw1aExVdjRSMU9VNmNoNHpqM1JPTm1BUkh6NnlzeHhlUXh2LTFQLXF0c0JncjBJVFA1bmlYcWdreTJ4UUZ1QnlDNXNEc0EwY1dRdGt0a1RVZ0ZFMEhzMVo5RU15RUNnd3R4QnhMc1NmcjRVSWdqcXVkYUQtR1FlRF8zaw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Industrial facilities gained momentum in Q3: Colliers, JLL - Facilities Dive",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmVfR0lEYUMxUy1IVnJHOUVZWnRmN1FlbEFuUlVHbTJSeDJhdEc2RHQwWThiQ1VSZVJCSkhvbk4ycDFoOERuOTQ5RUVTWXd5MHNtdzdMVW1vUVFRYktSYzFQRGpzUWtnOXNFWFk3Y3pnX0RsRC1zT0wzdVF2Rkc3bmFrQzF5T2x2TDRRR0VCNVRQWXlzQzhUd2VsckE5Tm9UZ0E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Colliers : Delivering Purpose-Driven Projects Across Asia Pacific - Construction Outlook",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaWNHNGE0QUw4TEEzYm9hRm56aG1vOUZDcmNJSTBqTDBISmtLZmRyNUxabTN2ejNacHdJcEEzOGtnZG0yLVZxRGhCTFpsYXVwS2NhRnk3MXNxVUxXMlJQbTlULWZKUlBHbUlpazJGUEhmdjNwRmx3OU5zYzlQQmNqYkloLU9BdU93VjU2NV9FSXRkNkhOUUZFTll0Z0J5V0ZOWnBnR1FteExKRUk0bUh4ZGVSV0FzRGRrY1hEelZTZWc5UWk5Wjk5dmR2Zjk?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Colliers France entrusts the management of its Valuation & Advisory Services department to Christopher Lavery - ASSETPHYSICS",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbjItcWYzRWEwaVNqeE8tcG1xQWphV3RKZFNMR0ZCTzNzbUdQTjNXdzFMZFFOMzViTnJ4Wi1mR2hBa3RIVnF4WE5KWnFhTW5LSFlDX0YyVk9rdE92V28zRnpwbzdybk9qOC02Z19xTUNHUWpqVTBtOU9RUm0xeU1rNlhCSlJqT0ZiUFlHVWpOcjlCdUxyMTJxMUwzREE2RUwxTHgzN1M3TWN6N1pjRVFsRENkQzF0WGw3eHR1d2ZDX09mU2ZVX1hlTVZ5Y08?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Institutional investment in housing dips 39% mn in 9 months: Colliers - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmFEQklvRHBzWE15cTl3aE80eVBLaV92WFlPdk5vQUdPcmZoaWdRbG5KY2t5V3NQbzRadjItVmQxcTNwMnhWbERkSDhTcFRUUkN4MUtGOWJNZFRETmdfWEtqSGZfNmk4cXI3YTZxeUFobVc3Z0NUa2tkSTVxXzh3aDlVeGtOYUVuTFJHRDFnNXZSa2h4WWRBUnNRWl9hX1RyTDB5VmhaNUVCOGtYNGlaTV9hcU1SSVRHTkh1XzBab2JETEZwRGw3SF9MZGNDbENP0gHWAUFVX3lxTE1YMHh3UHNnekVHXzZHbzBYODJLOTVYc25ad05TcHo4c0F1dkh2b0hBZnhjM0RKVkZtMjVSQ3hNQ1F1UFBwZ3d4TDh3Yk1xMUI4ZV9UWW1Rd1h0TlFDR3pPdTFfdXltUDZzc1dnSzdRZWg4a0dfTTB3bWJQbXM0NnJDYXprMm1pczMyRWoyb0huVmQ0c0M2WWFoUXdfVmZON2dxVm8yZGRUdUI3UFU0WEItMUttTG41WFp4dVUwNlVYdHE1MkJJYUFUcHlULWRaZGk4VVFob1E?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Colliers’ APAC Survey Finds India and Southeast Asia Leading Office Market Growth - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ1dQYXVOaWU5am8xeDVHMVRLWmkwN0lnMk05TnhoVmNlMWpUNlI3Yi0tc0NqS193ay1SSGhDUjlXMnVLS0FXXzR0TTRxWVhTMVAyVDRlSzZRRllyQUhRYVNMUS1sczhjMHZUbjdGb3hRal9EMkhWanVfVlBfMGtNU0Vhc2FJbjFmZnBfZzAxRE95YzdDbE0ybDJETExPZUJqUWU2cm4wakFQOTlGaFJwemVfeFhtS0M5TXYteHBDMy1uanFBR2hj?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -217680,14 +217721,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-20T13:22:23+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 59: rejected (This is a junior Project Management Analyst role focused on project administration and PMO reporting, which is a step below Shlok's high-impact Strategy & Operations and Founder's Office trajectory at Ola Electric. Furthermore, pay is not stated and Colliers' real estate services profile typically does not hit his Rs 24.5 LPA fixed target for junior analyst tracks.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-20T13:22:23+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "This is a junior Project Management Analyst role focused on project administration and PMO reporting, which is a step below Shlok's high-impact Strategy & Operations and Founder's Office trajectory at Ola Electric. Furthermore, pay is not stated and Colliers' real estate services profile typically does not hit his Rs 24.5 LPA fixed target for junior analyst tracks."
   },
   {
    "id": "L1827",

@@ -8316,7 +8316,13 @@
     "kind": null,
     "since": null
    },
-   "notes": [],
+   "notes": [
+    {
+     "at": "2026-11-20T15:36:17+05:30",
+     "by": "send-track",
+     "text": "No application kit: Shlok has been in Prodigal's Strategy and Operations interview loop since October (R3 case on 2026-10-30). Check with him before applying again."
+    }
+   ],
    "timeline": [
     {
      "at": "2026-11-12T21:02:04+05:30",
@@ -8331,7 +8337,7 @@
      "detail": "score 74: qualified"
     }
    ],
-   "updated_at": "2026-11-17T14:08:11+05:30",
+   "updated_at": "2026-11-20T15:36:17+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",

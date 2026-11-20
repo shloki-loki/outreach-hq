@@ -51522,7 +51522,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-20T15:47:59+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -51558,9 +51558,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v1 email to Animesh Singh queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-20T15:47:59+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Animesh Singh"
     }
    ],
-   "updated_at": "2026-11-19T21:29:37+05:30",
+   "updated_at": "2026-11-20T15:47:59+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

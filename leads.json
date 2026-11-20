@@ -220414,7 +220414,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491688649",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-associate-at-mettle-labs-4491688649",
@@ -220430,7 +220430,7 @@
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "About Mettle \n Mettle is an AI product for vulnerability discovery and validation. We turn offensive security knowledge into agent capabilities, tools, and backend workflows that investigate customer and open source systems reliably.\n Role overview \n The Associate, Founder's Office will work directly with the founder on high-priority projects across the business. The role combines research, X content writing, and strategy and operations support. You will own deliverables, meet deadlines, and report progress directly to the founder.\n Responsibilities \n Social media and content\n Write and publish content on X, including posts, threads, and short-form scripts\n Convert ideas, notes, and voice memos into finished, publishable content\n Maintain a consistent brand voice on X\n Track performance metrics and use them to improve future content\n Founder's office\n Own special projects from planning through execution, including campaigns and launches\n Research markets, competitors, customers, and technical developments in AI and security, and summarize findings in short, clear reports\n Prepare investor updates, presentations, and internal memos\n Coordinate with product, growth, and operations teams, and follow up until tasks are complete\n Flag risks and propose improvements to existing processes\n Requirements \n Engineering degree, preferably in AI/ML, cybersecurity or a related field\n 0-1 year of internship/work experience\n Strong research skills, with the ability to read technical papers and reports and turn them into clear insights\n Demonstrated writing ability on X, shown through public work such as a personal account, threads, newsletter, or side project\n Strong written communication, with the ability to explain technical topics clearly to different audiences\n Ability to generate original ideas and select the strongest ones to execute\n Structured thinking and the ability to break down ambiguous problems\n Strong attention to detail\n Ability to work independently and to accept and act on feedback\n Preferred qualifications \n Working knowledge of spreadsheets and basic data analysis\n Experience using AI tools for content and research\n Basic design skills in Canva or Figma\nSeniority level Executive | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -220445,8 +220445,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -220456,15 +220456,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office Associate at Mettle Labs in Mumbai, asks 0-1 yrs; but requires X content writing and lacks pay.",
+    "fit_notes": "The posting asks for '0-1 year of internship/work experience' and an 'Engineering degree, preferably in AI/ML, cybersecurity or a related field' with strong research and X content writing. Shlok has an Electrical and Electronics Engineering degree from IIT Guwahati and 1.3 years of Strategy & Operations experience at Ola Electric, which answers the engineering background and structured problem-solving needs, but he lacks the required X content writing focus. Furthermore, it requires neither an MBA nor consulting.",
+    "pay_notes": "Pay is not stated in the posting, and no evidence was found online.",
+    "culture_notes": "No company website, employee reviews, or culture data found for Mettle Labs.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T22:43:19+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -220488,9 +220495,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-20T22:43:19+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Role location is Mumbai while Shlok wants Bengaluru or remote; pay is unstated and likely below the Rs 24.5 LPA threshold for an early-stage AI startup; and the job heavily emphasizes X content writing and social media execution rather than core Strategy & Operations.)"
     }
    ],
-   "updated_at": "2026-11-20T14:48:43+05:30"
+   "updated_at": "2026-11-20T22:43:19+05:30",
+   "reject_reason": "Role location is Mumbai while Shlok wants Bengaluru or remote; pay is unstated and likely below the Rs 24.5 LPA threshold for an early-stage AI startup; and the job heavily emphasizes X content writing and social media execution rather than core Strategy & Operations."
   },
   {
    "id": "L1839",

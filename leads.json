@@ -16629,7 +16629,7 @@
      "Why this role (cover note)": "Airbound's goal of scaling autonomous drone delivery requires tight operational modeling to make flights cost-effective. At Ola Electric, I've spent the last year in strategy and operations working directly with leadership on fulfilment. When order-to-delivery took 32 days, I built a lotting algorithm that brought it down to 14. I also ran S&OP planning across inventory, cutting working capital by 40% in two and a half months. Following Airbound's $37 million raise to expand its network, I can bring this experience in route planning and S&OP to help build your operational roadmap."
     }
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-20T16:43:43+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -16708,9 +16708,15 @@
      "actor": "writer",
      "event": "apply_kit",
      "detail": "application note written (free model)"
+    },
+    {
+     "at": "2026-11-20T16:43:43+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Naman Pushp"
     }
    ],
-   "updated_at": "2026-11-18T14:14:35+05:30",
+   "updated_at": "2026-11-20T16:43:43+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "live",

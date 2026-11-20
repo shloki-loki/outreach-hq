@@ -213666,8 +213666,8 @@
    "key": "atherenergy|associate founders office|bengaluru",
    "type": "job",
    "company": "Ather Energy",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "atherenergy.com",
+   "company_url": "https://www.atherenergy.com",
    "company_linkedin": "https://in.linkedin.com/company/ather-energy",
    "company_note": "",
    "title": "Associate – Founders Office",
@@ -213705,8 +213705,8 @@
    },
    "score": {
     "rules": 81,
-    "research": null,
-    "total": 81,
+    "research": 30,
+    "total": 50,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -213717,15 +213717,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founders Office at Ather Energy (Bengaluru), but asks 3+ yrs consulting or 5+ yrs in startups; too senior for 1.3 yrs.",
+    "fit_notes": "Posting opened 2026-11-20, live (200+ applicants). Ola Electric S&OP and CEO/COO work maps to the domain, but the stated experience bar is far above his.",
+    "pay_notes": "Not stated; no evidence read.",
+    "culture_notes": "Not researched.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-20T10:53:17+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -213749,9 +213751,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 81"
+    },
+    {
+     "at": "2026-11-20T10:53:17+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 50: rejected (Asks 3+ yrs top-tier consulting or 5+ yrs startup; MBA preferred. Shlok has 1.3 yrs.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30"
+   "updated_at": "2026-11-20T10:53:17+05:30",
+   "reject_reason": "Asks 3+ yrs top-tier consulting or 5+ yrs startup; MBA preferred. Shlok has 1.3 yrs."
   },
   {
    "id": "L1791",

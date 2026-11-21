@@ -35284,7 +35284,7 @@
    "key": "superkalam|founding product manager|bengaluru",
    "type": "job",
    "company": "SuperKalam",
-   "company_domain": "",
+   "company_domain": "superkalam.com",
    "company_url": "https://superkalam.com",
    "company_linkedin": "https://www.linkedin.com/company/superkalam",
    "company_note": "YC Winter 2023 · team of 20 · AI-Powered Super Mentor for Test Prep",
@@ -35292,7 +35292,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, IN",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "superkalam:92808",
    "source_url": "https://www.ycombinator.com/companies/superkalam/jobs/W6Eoh7m-founding-product-manager",
@@ -35323,8 +35323,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -35333,15 +35333,35 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founding PM at YC W23 test-prep startup asks for active AI product building and vibe-coding skills not present in your background.",
+    "fit_notes": "Posting asks for 0–2 years experience, product judgment, SQL/PostHog analytics, active AI usage ('built products with it'), and 'knack of vibe coding'. Shlok has 1.3 years in S&OP/operations at Ola Electric [sop, ceo-coo] and built a Flask extension at InsuranceDekho [idekho], but lacks AI product development experience.",
+    "pay_notes": "Lead metadata indicates pay is not stated and no third-party compensation estimates were found.",
+    "culture_notes": "YC W23 startup with a team of 20. Users give positive reviews (4.7/5) for its UPSC preparation app and instant mains evaluation.",
+    "hook": "SuperKalam is building an AI mentor for UPSC preparation with instant handwritten answer evaluation rated 4.7/5 by users.",
+    "hook_source": "https://superkalam.com",
+    "researched_at": "2026-11-21T22:13:24+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "SuperKalam website",
+      "url": "https://superkalam.com"
+     },
+     {
+      "id": "S2",
+      "title": "SuperKalam - 2026 Latest Shareholding & Valuation - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTS1ybjNmVHlQSWkwdEpkNUxGVGpaNE9EZHJTaVNqNXpDdjF6cmJqQnRNbWpzUE1NNm5YNW5RNG0tUEZ3RElIYUJuZk1FSHk5MFNfZnhLSzJDYmZULVdqejRwN1VfblZ3X2p1NXlTb1V0TjFZQkZ0MGdlQ3VPRGwyd19mWHhjU2FjTUxuNW8tZ2RfNFFIQ2pHVW5JazhWWnN1QndfdWV0dzlXZW8?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -35392,9 +35412,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:13:24+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role requires active AI product building and vibe coding experience, which Shlok lacks coming from an S&OP and operations background.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-21T22:13:24+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
@@ -35404,7 +35430,8 @@
     "at": "2026-11-20T22:49:04+05:30",
     "why": "model answer failed the checks: pay basis is 'stated' but the posting states no figure; use estimate or unknown",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Role requires active AI product building and vibe coding experience, which Shlok lacks coming from an S&OP and operations background."
   },
   {
    "id": "L0276",

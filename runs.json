@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-14T12:26:22+05:30",
-   "agent": "follow-up",
-   "ok": true,
-   "summary": "0 follow-ups drafted (none due), 1 reply flagged (L0035 Sumit: interested, couldn't reach phone), 0 bounces. lead list sync failed once on git reset in data/ (exit 128), passed on retry.",
-   "stats": {}
-  },
-  {
    "at": "2026-11-14T13:33:31+05:30",
    "agent": "lead-scout/scrape",
    "ok": true,
@@ -3860,6 +3853,16 @@
    "ok": true,
    "summary": "Outreach HQ 21 Nov: 1 reply",
    "stats": {}
+  },
+  {
+   "at": "2026-11-21T16:02:21+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "stats": {
+    "sent": 10,
+    "failed": 0
+   }
   }
  ]
 }

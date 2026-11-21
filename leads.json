@@ -210171,15 +210171,15 @@
    "key": "optimum|chief of staff|india",
    "type": "job",
    "company": "Optimum Solutions",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "optimumsolutions.co.in",
+   "company_url": "https://www.optimumsolutions.co.in",
    "company_linkedin": "",
    "company_note": "",
    "title": "Chief of Staff",
    "tier": "1 - Strategy & Ops",
    "location": "Chennai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "478133",
    "source_url": "https://www.instahyre.com/job-478133-chief-of-staff-at-optimum-solutions-chennai/",
@@ -210210,8 +210210,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -210220,15 +210220,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff at Optimum Solutions in Chennai, but asks 8-12 yrs experience and banking background you lack.",
+    "fit_notes": "The posting asks for '8+ years' experience, including at least 3 years in a Chief of Staff, Business Manager, strategy or management consulting role' and a 'Banking or financial services background'. Shlok has about 1.3 years of experience in supply chain and operations at Ola Electric and no banking background. While his Ola work with the CEO/COO ([ceo-coo]) demonstrates executive exposure, the experience gap and domain requirement make this a clear reject.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Glassdoor data and specific culture ratings were not found in the posting or search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T22:27:30+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Optimum Solutions Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50TThkaTc5aGxXcUpleE1PcklNZ004RjdNSzVuNFlQWlVvSS1zRzNKOG40dlhjNWd2VnAzYWJZbWtyUWJzX25LNXFCMUM1ZWxoRkdQVDI1QXRlOG10U3ZTWkF1VkxGMUpneGN5Tk1NQjR0b3M?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -210252,14 +210265,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:27:30+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The posting explicitly asks for 8+ years of experience including 3 years in a Chief of Staff, Business Manager, strategy or management consulting role, plus a banking or financial services background. Shlok has 1.3 years of experience and is vastly under-qualified.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30",
+   "updated_at": "2026-11-21T22:27:30+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "HTTP 503 for https://www.instahyre.com/job-478133-chief-of-staff-at-optimum-solutions-chennai/"
-   }
+   },
+   "reject_reason": "The posting explicitly asks for 8+ years of experience including 3 years in a Chief of Staff, Business Manager, strategy or management consulting role, plus a banking or financial services background. Shlok has 1.3 years of experience and is vastly under-qualified."
   },
   {
    "id": "L1723",

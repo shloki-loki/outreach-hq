@@ -482,7 +482,7 @@
    "posted_at": "2026-10-15",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-21",
-   "open": false,
+   "open": true,
    "jd": "Job Description: Manager-CEO's office \n Role Overview: We are seeking a highly motivated and strategic thinker to join our team as a Strategy Associate/Manager. This role is pivotal in driving key initiatives and strategy projects that will shape the future of our organization. You will work closely with the CEO and leadership team to ensure rigor in problem-solving, strategic planning, and execution across various functions. This is meant to be a pre-MBA role, if you thrive in a fast-paced environment and are passionate about driving impactful change, this role is for you. Past Alumni have gotten admits at HBS, Wharton etc, Moved on to leadership roles at large MNCs.\n Key Responsibilities: \n Drive Strategic Projects: Lead critical strategy projects from 0->1 and 1->10, initiating and scaling new business initiatives across the organization.\n Org-level streamlining: Ensure timely interventions and rigorous problem-solving on key projects through close collaboration with leadership.\n Business Understanding & Metrics: Develop a deep understanding of the business and success metrics, tracking progress through detailed dashboards and analytics.\n Planning & Execution: Drive quarterly and annual planning cycles across the organization, and monitor execution through regular weekly reviews.\n Culture & Change Initiatives: Collaborate with functional and organizational leadership to drive initiatives that define and evolve the company culture.\n Qualification \n Educational Background: Strong academic pedigree with an undergraduate degree from IITs/BITS \n Experience: \n 2-4 years of experience in strategy consulting firms (MBB, ATK, Strategy&, Dalberg, Auctus), high-growth startups (Flipkart, Ola, Swiggy), or leading corporations (ITC, HUL, P&G).\n Demonstrable spike in academic or professional achievements.\n Skills & Attributes: \n High degree of ownership and accountability.\n Strong aptitude and ability to quickly grasp new concepts and domains.\n Proven experience in structured problem-solving and stakeholder management.\n Ability to switch contexts and manage multiple priorities with passion, hunger, and perseverance.\n Desired Personal Traits: \n Passionate about driving change and making an impact.\n Hunger for learning and growth, with the ability to persevere through challenges.\n Strong context-switching skills, comfortable navigating complex and dynamic environments.\n Excellent interpersonal skills with the ability to manage and influence senior stakeholders.\n What We Offer: \n Opportunity to work directly with senior leadership and have a meaningful impact on the organization’s strategic direction.\n A dynamic and entrepreneurial work environment where your ideas and contributions will be highly valued.\n Competitive compensation and benefits package.\n If you are a strategic thinker with a passion for solving complex problems and driving impactful change, we would love to hear from you!",
    "exp_min": 2,
    "exp_max": null,
@@ -628,9 +628,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-21T12:47:43+05:30",
+   "updated_at": "2026-11-21T14:22:18+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "closed",
@@ -9181,7 +9187,7 @@
    "posted_at": "2026-10-16T12:44:06.067000+00:00",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-21",
-   "open": false,
+   "open": true,
    "jd": "What you will do\nAnalysis, customer interviews, user research, competition analysis and other qualitative/quantitative techniques.\n Problem Identification & Prioritization: Adopt a structured approach to identify what problems need to be solved and break them down into smaller chunks. Prioritize what problems need to be solved now vs. later.\n Solution Discovery: Facilitate a process to come up with the best technology-led ideas to solve the prioritised problems. Harness the creativity of not just yourself but of other teams such as design, engineering., business, etc Be willing to experiment with multiple solution ideas and test them using MVPs, prototypes, etc.\n Product Delivery: Define detailed product requirements and work collaboratively with a cross-functional team (design, engg. business, analytics, etc.) to bring a product to life. Ensure high product quality through processes such as user acceptance testing, dogfooding, etc.\n Go-to-Market Planning: Create a go-to-market plan working with business/marketing stakeholders to maximize product adoption and success.\n Adoption & Metrics: Define product metrics for your area, and track them continuously. Identify usage patterns and come up with action plans to move metrics in the right direction.\n Roadmap Creation: Create a product roadmap for your area that has at least a 3-month forward-looking view of key customer/business problems to be solved.\nWhat you will need \nOverall experience of 3+ yrs with at least 1+ yrs in product management in a tech-led company (consumer internet space is preferred).\n Exceptional problem-solving skills based on first principles of thinking.\n Good understanding of technology, and comfort with product management processes such as A/B experimentation, writing product requirement documents, managing product backlogs, and creating roadmaps.\n Good communication and stakeholder management skills to get work done across different functions and drive product development.",
    "exp_min": 1,
    "exp_max": null,
@@ -9308,9 +9314,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the job board says the posting no longer exists (HTTP 404)"
+    },
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-21T12:47:43+05:30",
+   "updated_at": "2026-11-21T14:22:18+05:30",
    "reject_reason": "Asks 3+ years overall incl. 1+ year as a PM; Shlok has 1.3 years and no full-time PM role.",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
@@ -10684,7 +10696,7 @@
    "posted_at": "2026-04-17T19:17:20.479+00:00",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-21",
-   "open": false,
+   "open": true,
    "jd": "About Sarvam\n\nSarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.\n\n \n\nAbout the Role\n\nWe are hiring a Model Product Manager to own charters for Automatic Speech Recognition (ASR), Text-to-Speech (TTS), and model evaluation pipelines. You will work closely with research and engineering teams to define roadmaps, run training and evaluation cycles, and ship models that directly improve product experience and reliability.\n\n \n\nWhat You'll Do\n\n• Define and drive roadmaps for ASR, TTS, and evaluation systems.\n\n• Partner with engineering and research teams on data collection, training cycles, and model release planning.\n\n• Set up and own evaluation frameworks and quality metrics covering accuracy, latency, MOS, and robustness.\n\n• Run structured experiments — offline tests, A/Bs, and human evaluations — to quantify model improvements.\n\n• Ensure scalable deployment and monitoring of models in collaboration with infra and data teams.\n\n• Translate user and business needs into measurable model goals.\n\n• Communicate priorities, timelines, and trade-offs clearly across stakeholders.\n\n \n\nWhat We're Looking For\n\n• 3+ years of experience building AI, applied AI, ML products, or model training pipelines.\n\n• Familiarity with the model lifecycle: training, fine-tuning, deployment, and monitoring.\n\n• Strong analytical skills and comfort with data-driven decision making.\n\n• Ability to collaborate effectively across research, engineering, and product teams.\n\n \n\nBonus Points\n\n• Exposure to speech technologies (ASR, TTS) or evaluation pipelines.\n\n• Experience with quality metrics such as WER, CER, MOS, or latency tracking.\n\n• Hands-on familiarity with SQL, Python, or ML toolkits.\n\n \n\nWhy Sarvam?\n\nSarvam is a fast-moving, high talent-density team building full-stack AI for India, working on problems that push the frontiers of AI with real population-scale impact.\n\n• Work alongside researchers, engineers, builders, and business leaders who move fast and hold each other to a very high bar\n\n• High ownership and high impact, from day one\n\n• Everything we do is AI-first, from the way we build and ship to the way we think about problems\n\n• You can work on problems that could change how an entire country learns, works, and communicates\n\nIf you want to work on problems at the frontier of AI in India, Sarvam is the place to be.",
    "exp_min": 3,
    "exp_max": null,
@@ -10774,9 +10786,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: no longer on the company's Ashby job board"
+    },
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-21T12:47:43+05:30",
+   "updated_at": "2026-11-21T14:22:18+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "closed",
@@ -195408,12 +195426,17 @@
      "source": "instahyre",
      "url": "https://www.instahyre.com/job-465058-operations-manager-at-concentrix-gurgaon/",
      "seen": "2026-11-17"
+    },
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-483005-operations-manager-at-concentrix-gurgaon/",
+     "seen": "2026-11-21"
     }
    ],
    "posted_at": null,
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-19",
-   "open": false,
+   "last_seen": "2026-11-21",
+   "open": true,
    "jd": "Deliver exceptional experiences, with exceptional outcomes BPO, Call Center, Contact Center, Management, Operations",
    "exp_min": null,
    "exp_max": null,
@@ -195477,9 +195500,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"This job is no longer accepting\""
+    },
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-19T12:52:25+05:30",
+   "updated_at": "2026-11-21T14:22:18+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "closed",
@@ -216570,7 +216599,7 @@
    ],
    "posted_at": "2026-11-19",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "open": true,
    "jd": "Introduction\n A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long-term career development while valuing your unique skills and experiences.\n Your Role And Responsibilities\n As a Business Transformation Consultant specializing in Supply Chain Planning, you will help clients optimize their supply chain operations to achieve better advantaged pricing, greater efficiency, and improved service levels. This role involves transforming operations from suppliers to the ultimate client and refining or developing business strategies in targeted areas or across the whole supply chain.\n Your Primary Responsibilities Will Include\n Identify Supply Chain Improvements: Analyze existing supply chain operations to identify areas for improvement, enabling clients to achieve better pricing, efficiency, and service levels.\n Implement Operational Changes: Develop and implement strategic changes to transform supply chain operations, driving competitive advantage through operational improvements across various value chain areas.\n Refine Business Strategies: Collaborate with clients to refine or develop business strategies in targeted areas or across the whole supply chain, ensuring alignment with their goals and objectives.\n Drive Strategic Change: Recognize opportunities for operational improvements and drive strategic change initiatives to deliver next-generation supply chain operations.\n Preferred Education\n Master's Degree\n Required Technical And Professional Expertise\n Supply Chain Operations Knowledge: Experience with analyzing and optimizing supply chain operations to achieve better pricing, efficiency, and service levels.\n Strategic Change Implementation: Experience in developing and implementing strategic changes to transform supply chain operations, driving competitive advantage through operational improvements.\n Business Strategy Development: Experience with refining or developing business strategies in targeted areas or across the whole supply chain, ensuring alignment with client goals and objectives.\n Operational Improvement Identification: Experience in identifying areas for improvement in existing supply chain operations, enabling clients to achieve better pricing, efficiency, and service levels.\n Value Chain Optimization: Experience with recognizing opportunities for operational improvements across various value chain areas to deliver next-generation supply chain operations.\n Preferred Technical And Professional Experience…",
    "exp_min": null,
@@ -227659,6 +227688,11 @@
      "source": "hiringcafe",
      "url": "https://jobs.appliedmaterials.com/job/tainan-city/chief-of-staff-role-to-be-based-in-india/95/103505725776",
      "seen": "2026-11-21"
+    },
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-483766-chief-of-staff-at-applied-materials-2-bangalore/",
+     "seen": "2026-11-21"
     }
    ],
    "posted_at": "2026-11-19",
@@ -228002,6 +228036,1649 @@
     "why": ""
    },
    "reject_reason": "Role is located in Gurugram, Haryana rather than Bengaluru or remote, and fixed pay is unknown with no evidence clearing Rs 24.5 LPA."
+  },
+  {
+   "id": "L1899",
+   "legacy_id": null,
+   "key": "skillscapital|chief of staff ai native specialist talent cloud global tech talent venture|india",
+   "type": "job",
+   "company": "SkillsCapital",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/skillscapital",
+   "company_note": "",
+   "title": "Chief of Staff (Founder's Office) | AI-Native Specialist Talent Cloud | Global Tech Talent Venture",
+   "tier": "1 - Strategy & Ops",
+   "location": "India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491843055",
+   "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-founder-s-office-ai-native-specialist-talent-cloud-global-tech-talent-venture-at-skillscapital-4491843055",
+   "apply_url": "https://in.linkedin.com/jobs/view/chief-of-staff-founder-s-office-ai-native-specialist-talent-cloud-global-tech-talent-venture-at-skillscapital-4491843055",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/chief-of-staff-founder-s-office-ai-native-specialist-talent-cloud-global-tech-talent-venture-at-skillscapital-4491843055",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1900",
+   "legacy_id": null,
+   "key": "recrivio|founders office|india",
+   "type": "job",
+   "company": "RECRIVIO",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/recrivio",
+   "company_note": "",
+   "title": "Founder’s Office (Petcare Brand)",
+   "tier": "1 - Strategy & Ops",
+   "location": "Delhi, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4492995458",
+   "source_url": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-petcare-brand-at-recrivio-4492995458",
+   "apply_url": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-petcare-brand-at-recrivio-4492995458",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-petcare-brand-at-recrivio-4492995458",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1901",
+   "legacy_id": null,
+   "key": "spacewire|entrepreneur in residence|bengaluru",
+   "type": "job",
+   "company": "SpaceWire Tech",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/spacewire-tech",
+   "company_note": "",
+   "title": "Entrepreneur In Residence (Product)",
+   "tier": "1 - Strategy & Ops",
+   "location": "Bengaluru South, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4491941251",
+   "source_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-product-at-spacewire-tech-4491941251",
+   "apply_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-product-at-spacewire-tech-4491941251",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-product-at-spacewire-tech-4491941251",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 78,
+    "research": null,
+    "total": 78,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 78"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1902",
+   "legacy_id": null,
+   "key": "yesbank|program manager|india",
+   "type": "job",
+   "company": "YES BANK",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/yes-bank",
+   "company_note": "",
+   "title": "Program Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Mumbai Metropolitan Region",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4493203951",
+   "source_url": "https://in.linkedin.com/jobs/view/program-manager-at-yes-bank-4493203951",
+   "apply_url": "https://in.linkedin.com/jobs/view/program-manager-at-yes-bank-4493203951",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/program-manager-at-yes-bank-4493203951",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 54,
+    "research": null,
+    "total": 54,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 54"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1903",
+   "legacy_id": null,
+   "key": "bnpparibas|chief of staff|india",
+   "type": "job",
+   "company": "BNP Paribas",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://fr.linkedin.com/company/bnp-paribas",
+   "company_note": "",
+   "title": "Chief of Staff",
+   "tier": "1 - Strategy & Ops",
+   "location": "Tamil Nadu, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4493208401",
+   "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-at-bnp-paribas-4493208401",
+   "apply_url": "https://in.linkedin.com/jobs/view/chief-of-staff-at-bnp-paribas-4493208401",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/chief-of-staff-at-bnp-paribas-4493208401",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 66,
+    "research": null,
+    "total": 66,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 66"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1904",
+   "legacy_id": null,
+   "key": "kapturecx|manager growth and strategy|india",
+   "type": "job",
+   "company": "Kapture CX",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Manager - Growth & Strategy",
+   "tier": "1 - Strategy & Ops",
+   "location": "Mumbai",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "484840",
+   "source_url": "https://www.instahyre.com/job-484840-manager-growth-strategy-at-kapture-cx-mumbai/",
+   "apply_url": "https://www.instahyre.com/job-484840-manager-growth-strategy-at-kapture-cx-mumbai/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-484840-manager-growth-strategy-at-kapture-cx-mumbai/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "AI-driven customer support platform for enterprises AI, Automation, CRM, Consulting, GTM, Growth, SaaS",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 61,
+    "research": null,
+    "total": 61,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 61"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1905",
+   "legacy_id": null,
+   "key": "gokwik|associate business operations|bengaluru",
+   "type": "job",
+   "company": "GoKwik",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Associate - Business Operations",
+   "tier": "1 - Strategy & Ops",
+   "location": "Bangalore",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "483880",
+   "source_url": "https://www.instahyre.com/job-483880-associate-business-operations-at-gokwik-bangalore/",
+   "apply_url": "https://www.instahyre.com/job-483880-associate-business-operations-at-gokwik-bangalore/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-483880-associate-business-operations-at-gokwik-bangalore/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "Think Conversion ~ Think GoKwik Chargebacks, Excel, Payment Operations, Payments, Reconciliation, Refunds, Settlements, Transactions",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 73,
+    "research": null,
+    "total": 73,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 73"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1906",
+   "legacy_id": null,
+   "key": "gokwik|associate business operations|india",
+   "type": "job",
+   "company": "GoKwik",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Associate - Business Operations",
+   "tier": "1 - Strategy & Ops",
+   "location": "Gurgaon",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "483589",
+   "source_url": "https://www.instahyre.com/job-483589-associate-business-operations-at-gokwik-gurgaon/",
+   "apply_url": "https://www.instahyre.com/job-483589-associate-business-operations-at-gokwik-gurgaon/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-483589-associate-business-operations-at-gokwik-gurgaon/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "Think Conversion ~ Think GoKwik Chargebacks, Excel, Payment Operations, Payments, Reconciliation, Refunds, Settlements",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 61,
+    "research": null,
+    "total": 61,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 61"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1907",
+   "legacy_id": null,
+   "key": "pine|manager business operations|india",
+   "type": "job",
+   "company": "Pine Labs",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Manager - Business Operations",
+   "tier": "1 - Strategy & Ops",
+   "location": "Pune",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "483473",
+   "source_url": "https://www.instahyre.com/job-483473-manager-business-operations-at-pine-labs-2-pune/",
+   "apply_url": "https://www.instahyre.com/job-483473-manager-business-operations-at-pine-labs-2-pune/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-483473-manager-business-operations-at-pine-labs-2-pune/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "Grow Your Business  With Pine Labs' Payment Acceptance Solution Cards, Operations, Payments, Production Support, Support",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 61,
+    "research": null,
+    "total": 61,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 61"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1908",
+   "legacy_id": null,
+   "key": "hp|business operations associate 4|bengaluru",
+   "type": "job",
+   "company": "HP",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Business Operations Associate 4",
+   "tier": "1 - Strategy & Ops",
+   "location": "Bangalore",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "483769",
+   "source_url": "https://www.instahyre.com/job-483769-business-operations-associate-4-at-hp-bangalore/",
+   "apply_url": "https://www.instahyre.com/job-483769-business-operations-associate-4-at-hp-bangalore/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-483769-business-operations-associate-4-at-hp-bangalore/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "Make life better for everyone everywhere Demand Planning, Operations, SAP, Supply Planning",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 73,
+    "research": null,
+    "total": 73,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 73"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1909",
+   "legacy_id": null,
+   "key": "airtel|program manager|india",
+   "type": "job",
+   "company": "Airtel",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Program Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Chandigarh",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "485267",
+   "source_url": "https://www.instahyre.com/job-485267-program-manager-at-airtel-2-chandigarh/",
+   "apply_url": "https://www.instahyre.com/job-485267-program-manager-at-airtel-2-chandigarh/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-485267-program-manager-at-airtel-2-chandigarh/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "Express Yourself CCNA, CCNP, Routing, SD-WAN, Switching",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 49,
+    "research": null,
+    "total": 49,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 49"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1910",
+   "legacy_id": null,
+   "key": "xceedance|program manager|india",
+   "type": "job",
+   "company": "Xceedance",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Program Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Gurgaon",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "484681",
+   "source_url": "https://www.instahyre.com/job-484681-program-manager-at-xceedance-gurgaon/",
+   "apply_url": "https://www.instahyre.com/job-484681-program-manager-at-xceedance-gurgaon/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-484681-program-manager-at-xceedance-gurgaon/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "Powering insurance transformation Insurance, Program Management, Transformation",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 49,
+    "research": null,
+    "total": 49,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 49"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1911",
+   "legacy_id": null,
+   "key": "jpmorganchase|program manager|bengaluru",
+   "type": "job",
+   "company": "JPMorgan Chase",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Program Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bangalore",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "484591",
+   "source_url": "https://www.instahyre.com/job-484591-program-manager-at-jpmorgan-chase-bangalore/",
+   "apply_url": "https://www.instahyre.com/job-484591-program-manager-at-jpmorgan-chase-bangalore/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-484591-program-manager-at-jpmorgan-chase-bangalore/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "The Right Relationship is Everything Atlassian, Confluence, Jira",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 61,
+    "research": null,
+    "total": 61,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 61"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1912",
+   "legacy_id": null,
+   "key": "teradata|program manager|india",
+   "type": "job",
+   "company": "Teradata",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Program Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Navi Mumbai",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "483923",
+   "source_url": "https://www.instahyre.com/job-483923-program-manager-at-teradata-navi-mumbai/",
+   "apply_url": "https://www.instahyre.com/job-483923-program-manager-at-teradata-navi-mumbai/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-483923-program-manager-at-teradata-navi-mumbai/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "Data Warehousing, Data analytics, Big Data & Cloud Jira, LMS, Microsoft Project, PMI-ACP, PMP, Project Management, SharePoint, Smartsheet, Trello",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 49,
+    "research": null,
+    "total": 49,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 49"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1913",
+   "legacy_id": null,
+   "key": "goodera|program manager|bengaluru",
+   "type": "job",
+   "company": "Goodera",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Program Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bangalore",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "483524",
+   "source_url": "https://www.instahyre.com/job-483524-program-manager-at-goodera-bangalore/",
+   "apply_url": "https://www.instahyre.com/job-483524-program-manager-at-goodera-bangalore/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-483524-program-manager-at-goodera-bangalore/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "Corporate volunteering made simple, engaging, and impactful Event, Logistics, Program, Shipping",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 61,
+    "research": null,
+    "total": 61,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 61"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1914",
+   "legacy_id": null,
+   "key": "marvellsemiconductor|operations manager|bengaluru",
+   "type": "job",
+   "company": "Marvell Semiconductor",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Operations Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bangalore",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "484873",
+   "source_url": "https://www.instahyre.com/job-484873-operations-manager-at-marvell-semiconductor-bangalore/",
+   "apply_url": "https://www.instahyre.com/job-484873-operations-manager-at-marvell-semiconductor-bangalore/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-484873-operations-manager-at-marvell-semiconductor-bangalore/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "Essential technology solutuions done right Compliance, Governance, Operations, Procurement, Program Management, Strategy, Vendor Management, Workforce Operations",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 61,
+    "research": null,
+    "total": 61,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 61"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1915",
+   "legacy_id": null,
+   "key": "amazon|operations manager|india",
+   "type": "job",
+   "company": "Amazon",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Operations Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Chennai",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "483935",
+   "source_url": "https://www.instahyre.com/job-483935-operations-manager-at-amazon-chennai/",
+   "apply_url": "https://www.instahyre.com/job-483935-operations-manager-at-amazon-chennai/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-483935-operations-manager-at-amazon-chennai/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "Earth's most customer-centric company Access, Excel, Logistics, Operations, SQL, Transportation",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 49,
+    "research": null,
+    "total": 49,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 49"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
+  },
+  {
+   "id": "L1916",
+   "legacy_id": null,
+   "key": "taskus|operations manager|india",
+   "type": "job",
+   "company": "TaskUs",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Operations Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Gurgaon",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "instahyre",
+   "source_id": "483233",
+   "source_url": "https://www.instahyre.com/job-483233-operations-manager-at-taskus-gurgaon/",
+   "apply_url": "https://www.instahyre.com/job-483233-operations-manager-at-taskus-gurgaon/",
+   "sources": [
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-483233-operations-manager-at-taskus-gurgaon/",
+     "seen": "2026-11-21"
+    }
+   ],
+   "posted_at": null,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "open": true,
+   "jd": "Delivering next-gen digital solutions CX, Customer Experience, Operations, Operations Management",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 49,
+    "research": null,
+    "total": 49,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+7)",
+     "Pay not stated; needs evidence (+6)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-21T14:22:18+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "instahyre: rule score 49"
+    }
+   ],
+   "updated_at": "2026-11-21T14:22:18+05:30"
   }
  ]
 }

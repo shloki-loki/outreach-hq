@@ -201277,15 +201277,15 @@
    "key": "thrillophilia|category manager|bengaluru",
    "type": "job",
    "company": "Thrillophilia",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "thrillophilia.com",
+   "company_url": "https://www.Thrillophilia.com/",
    "company_linkedin": "",
    "company_note": "",
    "title": "Category Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "472977",
    "source_url": "https://www.instahyre.com/job-472977-category-manager-at-thrillophilia-3-bangalore/",
@@ -201316,8 +201316,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 42,
+    "total": 50,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -201326,15 +201326,41 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Category Manager at Thrillophilia in Bengaluru, but asks 6-12 years of experience which exceeds your 1.3 years.",
+    "fit_notes": "The posting asks for \"6-12 years of experience in category management, business ownership, travel product management, P&L management, or a related role\" and mentions that \"MBA or equivalent business education is an advantage, but not mandatory.\" While Shlok has strong P&L and operational experience at Ola Electric (e.g., [sop], [ceo-coo]), his 1.3 years of total experience is far below the 6-12 year requirement.",
+    "pay_notes": "Pay not stated in the posting or evidence.",
+    "culture_notes": "Employee reviews and glassdoor ratings were not found in the posting or search evidence.",
+    "hook": "Thrillophilia operates as India's largest online platform for experiential travel, featuring over 25,000 experiences and 2,500 holiday packages across 150+ destinations.",
+    "hook_source": "https://www.instahyre.com/job-472977-category-manager-at-thrillophilia-3-bangalore/",
+    "researched_at": "2026-11-21T22:25:41+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Thrillophilia Adventure Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GX09UQ0d5aExhalBhTWdTVTRKV0dmeTliSXJBSVFpUnQzX0p4N1RPRjI4TTN1Zlk3Yl85Zlh3dFBaVzhQRXBUOFRxSXNiTkt6ckxrYzhId1BpY3YxRjZBaXVxbGcxcEN3VVZieWw5QXMzNG1YMmRUYzJoWQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Comparing Thrillophilia, MakeMyTrip and Veena World for a Northeast India Tour - eSamskriti",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVGRpRHhZSXY5VnhYTnM5UlJZRXI3SDY4Tnd0UDdsdl9IMWpSQS15QjJaTDhkbEU3cEt2dkVGYzRSQ2RCZFJ5b0hMYjFUUkV2VmpFTGhodWE2S2VxMURLVDk2MENIQ0txZGE5RWNLazZYWjFNZ1RHbUtlR0N0ZDB5OUpyZUxxRGk1SG4zc1ZvSVlWaWpORWJkUXozNXV4U2phMHFiNWZ2YVN0aG5pZXM4OE55ZmN2N0FqSlczTE1lMkVxOXM5OXFCSDBNa1A3YXFvWnZ3aWNmME1ieEFVTnJr?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Thrillophilia Vs MakeMyTrip Vs Veena World: Which Is Better For A Thailand Trip? - IndiaPost NewsPaper",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnBnY2RnSGlHMnhVMnNXSmVibWdMWEhZbC0tTl9BRW90bmVVdmpZUENIZUh5WTluMXoyRTVST1l5VGxmYUFOQzE4MHM4eW5EUXMzLVA2cFNQMDFwREFad1I4OWVXSmdMdGhvLW5xejJMMkI5N3dqdlBPZ3VoSERZM3NOT210RHdobm9iUVJ0c0lLQ2xyRUZGM0dkZ0tmalhyQVdR?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -201358,14 +201384,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:25:41+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (The posting explicitly requires 6-12 years of experience, whereas Shlok has about 1.3 years, making this an extreme stretch well beyond his 3-4 year comfort limit.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30",
+   "updated_at": "2026-11-21T22:25:41+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "HTTP 503 for https://www.instahyre.com/job-472977-category-manager-at-thrillophilia-3-bangalore/"
-   }
+   },
+   "reject_reason": "The posting explicitly requires 6-12 years of experience, whereas Shlok has about 1.3 years, making this an extreme stretch well beyond his 3-4 year comfort limit."
   },
   {
    "id": "L1646",

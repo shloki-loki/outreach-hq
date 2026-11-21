@@ -1,6 +1,6 @@
 name: Founder emails (queue today's 60)
 # Queues today's founder emails from the template Shlok approved in chat on 2026-11-19
-# (config/templates/founder-v1.toml), already approved. No model. The sender sends them inside its caps.
+# (config/templates/founder-v2.toml; v1 retired 2026-11-21), already approved. No model. The sender sends them inside its caps.
 # Two slots because GitHub schedules run late or get dropped (issue I0005); the second run only tops up.
 on:
   schedule:
@@ -29,5 +29,5 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Queue today's founder template emails (approved in chat 2026-11-19; the sender sends them)
-        run: python -m outreach campaign queue --template founder-v1 ${{ inputs.count && format('--limit {0}', inputs.count) || '' }}
+      - name: Queue today's founder template emails (v2 approved in chat 2026-11-21; the sender sends them)
+        run: python -m outreach campaign queue --template founder-v2 ${{ inputs.count && format('--limit {0}', inputs.count) || '' }}

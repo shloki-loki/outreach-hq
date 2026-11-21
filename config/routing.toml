@@ -16,7 +16,7 @@ draft = ["claude", "grok"]
 research = ["claude", "grok"]
 
 # The founder list (data source founder_reoutreach). Was 60 researched emails a day (2026-11-15); off since
-# 2026-11-19, when the founder-v1 template took over. `work founder-batch` still works if per_day is raised.
+# 2026-11-19, when the founder-v1 template took over (founder-v2 since 2026-11-21). `work founder-batch` still works if per_day is raised.
 [founder_batch]
 per_day = 0          # 2026-11-19: replaced by the founder-v1 template (config/templates), see SUPERVISOR.md
 owner = "claude"

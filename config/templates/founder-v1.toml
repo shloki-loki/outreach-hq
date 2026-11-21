@@ -6,7 +6,7 @@
 # To stop: set active = false and run `python3 -m outreach campaign stop --template founder-v1`.
 
 id = "founder-v1"
-active = true
+active = false   # 2026-11-21: replaced by founder-v2 (his call: v1 read like an offer of free help)
 audience = "founders"
 source = "founder_reoutreach"
 approved_by = "Shlok, in chat on 2026-11-19"

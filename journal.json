@@ -5264,6 +5264,15 @@
    "title": "New founder email text (founder-v2) ready, PR #13",
    "detail": "Shlok asked to fix the founder email: the subject 'Ops and strategy help at {company}' read like an offer of free help, and the template had 0 replies from about 110 sends. Tested on free graders: Emailchaser v1 86 -> v2 100, FirstSales v1 63 -> v2 78. He approved the v2 text and asked to re-queue the 52 waiting old-text emails with it. PR #13 adds founder-v2 (subject 'Strategy and Ops role | Shlok Agrawal'), retires v1 and points the daily queue job at v2; 90 tests pass. Not live until merged.",
    "ref": "PR #13"
+  },
+  {
+   "id": "J0586",
+   "at": "2026-11-21T20:05:21+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

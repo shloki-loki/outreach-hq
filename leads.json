@@ -222102,7 +222102,7 @@
    "key": "edvube|founders office associate|india",
    "type": "job",
    "company": "Edvube Pvt Ltd",
-   "company_domain": "",
+   "company_domain": "edvube.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/edvube-pvt-ltd",
    "company_note": "",
@@ -222110,7 +222110,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Kochi, Kerala, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492547889",
    "source_url": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-associate-at-edvube-pvt-ltd-4492547889",
@@ -222141,8 +222141,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 40,
+    "total": 50,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -222152,15 +222152,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office Associate at Edvube in Kochi, Kerala; requires on-site work and fluency in Malayalam.",
+    "fit_notes": "The posting asks for someone to 'turn founder priorities into plans' and 'run experiments across operations, growth and content', and requires 'Fluency in spoken and written Malayalam. Ability to work on-site in Kochi.' While your operations and Founder's Office experience at Ola Electric ([ceo-coo], [sop]) match the general scope, you are based in Bengaluru and the role requires on-site work in Kochi, and Malayalam fluency is not mentioned in your facts.",
+    "pay_notes": "Pay not stated; needs evidence. Early-stage KSUM-incubated edtech startups typically do not offer Rs 24.5+ LPA fixed for early-career associates.",
+    "culture_notes": "Edvube Pvt Ltd is a KSUM-incubated startup in Kerala offering upskilling courses; no external employee reviews or ratings found.",
+    "hook": "Working directly with Mohammed Aflal P to turn founder priorities into projects and run experiments across operations and growth at the Kerala Startup Mission campus.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-associate-at-edvube-pvt-ltd-4492547889",
+    "researched_at": "2026-11-21T13:16:33+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -222184,14 +222191,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-21T13:16:33+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (Location mismatch (Kochi vs Bengaluru/remote) and pay unknown (likely below Rs 24.5 LPA for an early-stage startup in Kerala).)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:16:33+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Location mismatch (Kochi vs Bengaluru/remote) and pay unknown (likely below Rs 24.5 LPA for an early-stage startup in Kerala)."
   },
   {
    "id": "L1845",

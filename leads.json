@@ -223327,15 +223327,22 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 67: qualified"
+    },
+    {
+     "at": "2026-11-21T13:23:10+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-21T13:18:39+05:30",
+   "updated_at": "2026-11-21T13:23:10+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
    },
-   "reject_reason": null
+   "reject_reason": null,
+   "people_searched_at": "2026-11-21T13:23:10+05:30"
   },
   {
    "id": "L1855",

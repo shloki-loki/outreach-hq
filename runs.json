@@ -1,27 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-14T13:33:31+05:30",
-   "agent": "lead-scout/scrape",
-   "ok": true,
-   "summary": "6542 jobs read, 215 passed rules, 5 new leads",
-   "stats": {
-    "fetched": 6542,
-    "passed_rules": 215,
-    "new": 5,
-    "updated": 3,
-    "closed": 0,
-    "by_source": {
-     "greenhouse": 3868,
-     "lever": 124,
-     "ashby": 2009,
-     "linkedin": 227,
-     "instahyre": 120,
-     "yc": 194
-    }
-   }
-  },
-  {
    "at": "2026-11-14T14:30:39+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3862,6 +3841,19 @@
    "stats": {
     "sent": 10,
     "failed": 0
+   }
+  },
+  {
+   "at": "2026-11-21T16:05:15+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
    }
   }
  ]

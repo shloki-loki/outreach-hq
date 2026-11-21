@@ -228327,8 +228327,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 35,
+    "total": 52,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -228338,15 +228338,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "EIR at consumer-app studio Spacewire, onsite Bengaluru, asks 1-2 yrs; no pay shown and you have no paid-product record.",
+    "fit_notes": "Alcheringa ticketing portal is the only zero-to-one fact; no P&L or paid-product ownership (never_claim).",
+    "pay_notes": "No pay stated; no salary source found.",
+    "culture_notes": "Lean founder-led team per posting; no reviews checked.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T14:39:08+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -228370,9 +228372,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-21T14:39:08+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 52: rejected (Posting (opened 2026-11-21, 61 applicants) is an EIR to build a revenue-first consumer product at a small consumer-apps LLC; asks 1-2 yrs of building a product customers paid for, onsite Bengaluru, no pay stated and no pay evidence found. The company's apps (BhaktiLok, MeraTune, CashAlert, HeyBuddy) are unreviewed here.)"
     }
    ],
-   "updated_at": "2026-11-21T14:22:18+05:30"
+   "updated_at": "2026-11-21T14:39:08+05:30",
+   "reject_reason": "Posting (opened 2026-11-21, 61 applicants) is an EIR to build a revenue-first consumer product at a small consumer-apps LLC; asks 1-2 yrs of building a product customers paid for, onsite Bengaluru, no pay stated and no pay evidence found. The company's apps (BhaktiLok, MeraTune, CashAlert, HeyBuddy) are unreviewed here."
   },
   {
    "id": "L1902",

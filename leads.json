@@ -223674,15 +223674,15 @@
    "key": "rapidclaims|technical program manager|bengaluru",
    "type": "job",
    "company": "RapidClaims",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "rapidclaims.ai",
+   "company_url": "https://www.rapidclaims.ai",
    "company_linkedin": "",
    "company_note": "",
    "title": "Technical Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "462837",
    "source_url": "https://www.instahyre.com/job-462837-technical-program-manager-at-rapidclaims-bangalore/",
@@ -223713,8 +223713,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -223723,15 +223723,48 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Technical Program Manager at RapidClaims, asks 4-6 yrs; your 1.3 yrs and S&OP/operations background is a severe gap.",
+    "fit_notes": "The posting asks for \"4-6 Years\" in \"technical program management, project management or engineering leadership\" and a \"Bachelor's degree in Computer Science, Engineering or a related technical field\". Shlok has ~1.3 years of experience and his background is in S&OP planning, inventory, and operations at Ola Electric ([sop], [ceo-coo]), not dedicated technical program management in SaaS/healthcare tech.",
+    "pay_notes": "Pay is not stated in the posting; benefits mention competitive salary and bonus but no figures are provided.",
+    "culture_notes": "RapidClaims is an AI-driven medical coding automation enabler that has raised $11M in total funding from Accel and Together Fund and is in talks to raise $30 Mn with WestBridge Capital [S2, S4]. Earned a Second Consecutive Black Book AI Claims Automation Distinction [S3]. No specific Glassdoor ratings found.",
+    "hook": "Noted RapidClaims' second consecutive Black Book AI Claims Automation distinction and ongoing talks with WestBridge Capital.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVms4ejVOTi00Z09uSEgwN1JIa2NsaXMwWW1ORTNDNWZkQjk5MmxuY1JIMzNkT3RZalktek1jZGVONV9XWXlNWWtqWFF1TzR4Y0FZV01LUVJQakI3ZGRoYjNWR1poRGxGcWFhaG5WZktnS3Rpclg3SFpCWEQ0TWpDQV9VMVBzenhRTi1mQURySVhnbjg5NmlTTlRVZU93cE9CdVBJNDVVbmdtajQ?oc=5",
+    "researched_at": "2026-11-21T22:30:00+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "RapidClaims Appoints Dhwaneet Mishra As Director – Legal & Compliance - BW Legal World",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGtwckFWRTF3cXNneTh2Vl92VTFsSlo1NWxEV016bE5Ka19qelJHQ0M0ZERPZHR1NVI0Q01jT2lBaDdJeXZ0aEVDemlodEtfOGdxVmEyYWRmbWJzVHpZaEtXVmVDVTd0Nm5rci02bHV0MG9zbXByeUR1UnBEQjRxeUNiWW9CRG10NG1laWJjNFl3TTR4ODB4UHgyMTYtVmtHRllOaGRGbjZNUTM0Rnc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "[Update] Exclusive: RapidClaims In Talks To Raise $30 Mn - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUc4Zi1BbG1EZHJpbG5RQlRFZ3FXTUJiN2FjbkRRb0EtZWpaZTFHRmpIajFHbjlFaDFNT0tDWHh5cXFHSVdNcm02dEF3MjJXbERlV2tuVG9XQVNlOVgxU3ZJaXZvZXMzRGgtU1Q0YzQ4M1FCZ0E3LUNQb2N2aFNyRXdkLWdhRE5xbzZ6anFCYjhIc3h1?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "RapidClaims Earns Second Consecutive Black Book AI Claims Automation Distinction - Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVms4ejVOTi00Z09uSEgwN1JIa2NsaXMwWW1ORTNDNWZkQjk5MmxuY1JIMzNkT3RZalktek1jZGVONV9XWXlNWWtqWFF1TzR4Y0FZV01LUVJQakI3ZGRoYjNWR1poRGxGcWFhaG5WZktnS3Rpclg3SFpCWEQ0TWpDQV9VMVBzenhRTi1mQURySVhnbjg5NmlTTlRVZU93cE9CdVBJNDVVbmdtajQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Medical coding automation enabler RapidClaims in talks with WestBridge Capital for $30 M: report - Venture Intelligence News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTk1BWk9NaFgxZ0x3SXVlT3hMcDVSOURQdzZKUUlxUjBYbXhVdko5dHFDUmFHMzQxdzhRaHViY19CTEg1RXpzbE5PME9EN042cTVkYlhqYS0yVVdIWUFiTzV5bDlaNkhkZGhxMlpUcGNLSWx5RDFCM1UyWG1VQmZEa2tEQ1cyendkRUw5aEVHeHFmVm5XRVhlN2IxRURLaEtNRnlySjA5U3VYQVJyU2prY09rYUlRMjZWZ2prN1o1ZkNHeU9pZmEwWnc4amQyUDYzalFXYjV5bk5xaGdRSXhrbEt3?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "RapidClaims Showcases Revenue Cycle Management Software at HIMSS 2026 as Health Systems Prioritize AI-Driven Billing - North Penn Now",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOS2NLMjE4MnlPRWJMUjZzYm9ic3ZSdFdpSTJ5Sm03RlBrTGxGR0JFRHc0SDRkXzI0OXhLZ04yRDJGYjBBY21zWG9HQWRPY2VNNjB0UURnbWtzYWRDSm9zTk13YkZ6UVVhLVo1alFSZzRid1p6NG5CckFYNEZKTlhzbnhueUYyd19wY1ZBbjkyemtOb1c1cG4wRUg0cDBGU1dieU9XY2RfUnhPbWVQcEZOMUJlU2U3UnJyaHRLTktLWlhLUmF5TXNBcHVSbkM0R3l5ckNXRU1vazZtRjh4SU90TXdzYVh0bF85bk9qenh6bWw1S2JYbnZlTQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -223755,14 +223788,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:30:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role requires 4-6 years of experience in technical program management, whereas Shlok has ~1.3 years of total experience, making this a severe over-stretch.)"
     }
    ],
-   "updated_at": "2026-11-20T14:48:43+05:30",
+   "updated_at": "2026-11-21T22:30:00+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "HTTP 503 for https://www.instahyre.com/job-462837-technical-program-manager-at-rapidclaims-bangalore/"
-   }
+   },
+   "reject_reason": "The role requires 4-6 years of experience in technical program management, whereas Shlok has ~1.3 years of total experience, making this a severe over-stretch."
   },
   {
    "id": "L1840",

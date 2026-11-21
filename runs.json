@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-13T14:14:36+05:30",
-   "agent": "send-track",
-   "ok": true,
-   "summary": "7 emails drafted (L0017 WarpDrive, L0014 Helium Air, L0019 Ghost Kitchens, L0024 GBG, L0016 Vianaar, L0048 Deccan AI, L0035 Noida AI via recruiter), 0 referral notes, 0 application kits. Skipped: L0085 Sarvam (CEO on do-not-email), L0050 (needs CS B.Tech or MBA), L0022 (intern role, no COO address), L0029 (same person as L0024), L0032 (address misspelt, only a guess). Stopped early: leads.json was truncated by concurrent commit 015cf9d, so referral and application steps could not run; see issue.",
-   "stats": {}
-  },
-  {
    "at": "2026-11-13T14:14:52+05:30",
    "agent": "lead-scout",
    "ok": true,
@@ -3840,6 +3833,17 @@
       "gemini-3.5-flash"
      ]
     }
+   }
+  },
+  {
+   "at": "2026-11-21T13:23:12+05:30",
+   "agent": "people-finder",
+   "ok": true,
+   "summary": "4 companies searched on LinkedIn, 0 people added",
+   "stats": {
+    "leads": 4,
+    "people_added": 0,
+    "skipped": ""
    }
   }
  ]

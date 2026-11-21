@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-15T15:44:42+05:30",
-   "agent": "follow-up/digest",
-   "ok": true,
-   "summary": "Outreach HQ 15 Nov: 2 to approve",
-   "stats": {}
-  },
-  {
    "at": "2026-11-15T16:31:56+05:30",
    "agent": "supervisor/check",
    "ok": false,
@@ -3815,6 +3808,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-21T23:17:29+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

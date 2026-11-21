@@ -46,16 +46,22 @@ class CampaignTests(unittest.TestCase):
         self.assertEqual(campaign.company_name("Co2 (YC W21)"), "Co2")
         self.assertEqual(campaign.company_name("Acme Technologies Pvt Ltd"), "Acme Technologies")
         self.assertEqual(campaign.first_name("Dr. Vikram Shah"), "Vikram")
-        template = campaign.load("founder-v1")
+        template = campaign.load("founder-v2")
         subject, body = campaign.render(template, {"name": "Neha Jain"}, {"company": "Co2 (YC W21)"})
-        self.assertEqual(subject, "Ops and strategy help at Co2")
+        self.assertEqual(subject, "Strategy and Ops role | Shlok Agrawal")
         self.assertTrue(body.startswith("Hi Neha,"))
         self.assertEqual(campaign.check(subject, body, "Neha", "Co2"), [])
         self.assertTrue(campaign.check(subject, body.replace("Co2", "{company}"), "Neha", "Co2"))
 
+    def test_only_one_founder_template_is_active(self):
+        self.assertFalse(campaign.load("founder-v1").get("active"))
+        active = [p.stem for p in (campaign.CONFIG_DIR / "templates").glob("*.toml")
+                  if campaign.load(p.stem).get("active") and campaign.load(p.stem).get("audience") == "founders"]
+        self.assertEqual(active, ["founder-v2"])
+
     def test_queue_targets_every_listed_address_round_robin_and_skips_the_unsafe(self):
-        result = campaign.queue("founder-v1")
-        messages = [m for m in store.load("messages")["messages"] if m.get("template") == "founder-v1"]
+        result = campaign.queue("founder-v2")
+        messages = [m for m in store.load("messages")["messages"] if m.get("template") == "founder-v2"]
         self.assertEqual([m["to"] for m in messages],
                          ["vikram@co1.com", "neha@co2.com", "asha@co1.com", "hr@co1.com"])  # CEO first, round-robin
         self.assertEqual(result["queued"], 4)
@@ -64,18 +70,18 @@ class CampaignTests(unittest.TestCase):
             self.assertIn("approved_by", m)
 
     def test_daily_top_up_never_passes_per_day_and_stop_pulls_back(self):
-        self.assertEqual(campaign.queue("founder-v1", limit=2)["queued"], 2)
-        self.assertEqual(campaign.queue("founder-v1", limit=2)["queued"], 0)    # same day: no doubling
-        self.assertEqual(campaign.queue("founder-v1", limit=3)["queued"], 1)
-        self.assertEqual(campaign.stop("founder-v1")["pulled_back"], 3)
+        self.assertEqual(campaign.queue("founder-v2", limit=2)["queued"], 2)
+        self.assertEqual(campaign.queue("founder-v2", limit=2)["queued"], 0)    # same day: no doubling
+        self.assertEqual(campaign.queue("founder-v2", limit=3)["queued"], 1)
+        self.assertEqual(campaign.stop("founder-v2")["pulled_back"], 3)
         self.assertFalse([m for m in store.load("messages")["messages"] if m.get("status") == "approved"])
 
     def test_dry_run_saves_nothing(self):
-        self.assertEqual(campaign.queue("founder-v1", dry_run=True)["queued"], 4)
+        self.assertEqual(campaign.queue("founder-v2", dry_run=True)["queued"], 4)
         self.assertEqual(len(store.load("messages")["messages"]), 1)
 
     def test_sender_picks_them_up_within_the_founder_cap(self):
-        campaign.queue("founder-v1")
+        campaign.queue("founder-v2")
         settings = load_config("settings")
         settings["sending"]["speculative_per_day"] = 60
         message, why = send.pick_next(settings, 0)

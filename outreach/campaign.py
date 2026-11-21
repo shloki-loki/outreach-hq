@@ -2,7 +2,7 @@
 
 Why this exists: on 2026-11-19 Shlok asked for the founder list to be worked through with a template instead
 of researched one-by-one emails, sent without a per-email click. He approved the exact text
-(config/templates/founder-v1.toml), 60 a day, and every listed address at each company.
+(config/templates/founder-v1.toml, replaced by founder-v2.toml on 2026-11-21), 60 a day, and every listed address at each company.
 
 What still applies to every message, because the normal sender sends them: the daily caps and window,
 pauses between sends, the do-not-email list, one cold email per address in `one_email_per_person_days`,

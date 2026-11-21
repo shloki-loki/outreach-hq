@@ -1,0 +1,31 @@
+# Founder list template, version 2 (source founder_reoutreach). Replaces founder-v1 on 2026-11-21.
+# Shlok approved this text in chat on 2026-11-21: v1's subject ("Ops and strategy help at ...") read like an
+# offer of free help, and v1 got 0 replies from about 110 founder emails. v2 says plainly that this is a job
+# ask. Scored 100/100 on Emailchaser's grader (v1: 86) and 78/100 on FirstSales (v1: 63).
+# Same rules as v1: 60 a day, every listed address, queued already approved (no per-email click), sent
+# through the normal sender (caps, window, pauses, do-not-email list, one email per person in 60 days,
+# bounce and reply tracking). People already emailed with v1 are never emailed again by v2.
+# Do not edit the text without his OK in chat; a new text is a new file (founder-v3.toml).
+# To stop: set active = false and run `python3 -m outreach campaign stop --template founder-v2`.
+
+id = "founder-v2"
+active = true
+audience = "founders"
+source = "founder_reoutreach"
+approved_by = "Shlok, in chat on 2026-11-21"
+per_day = 60
+
+subject = "Strategy and Ops role | Shlok Agrawal"
+
+body = """Hi {first_name},
+
+I'm looking for a Strategy and Ops or Founder's Office role, and I'd like to be considered at {company}.
+
+Over the last year at Ola Electric, I ran production planning for Rs 200 Cr of inventory and cut working capital by 40% in under three months. I also built a dispatch system that took order-to-delivery from 32 days to 14.
+
+At {company}, I can take planning, ops reviews and special projects off your plate, so you have more time for the work only you can do.
+
+Are you hiring for a role like this, now or in the next few months? If yes, I'd love a 15-minute call to share more.
+
+Shlok
+"""

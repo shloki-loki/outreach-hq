@@ -221509,17 +221509,17 @@
    "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Human Resources Services",
    "stretch": false,
    "pay": {
-    "stated": "upto 45lpa",
+    "stated": "upto 45lpa (in title, for 1-7 years)",
     "min_lpa": null,
     "max_lpa": 45,
     "basis": "stated",
-    "source": "linkedin",
+    "source": "LinkedIn posting title",
     "fit": "In range (stated)"
    },
    "score": {
     "rules": 100,
-    "research": null,
-    "total": 100,
+    "research": 52,
+    "total": 71,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -221529,15 +221529,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Strategy Analyst, digital transformation, via staffing firm Talentiser, 5 days WFO Bengaluru; pay is only 'upto 45 LPA' and client unnamed.",
+    "fit_notes": "Excel and SQL match; analytics and S&OP work map to the analysis duties; no Power BI, no consulting background.",
+    "pay_notes": "Ceiling only; no floor or fixed/variable split.",
+    "culture_notes": "Client company not named; nothing to assess.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T14:39:56+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -221561,9 +221563,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 100"
+    },
+    {
+     "at": "2026-11-21T14:39:56+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 71: rejected (Posting is live (opened 2026-11-21, over 200 applicants) but is posted by a staffing firm for an unnamed client; the only pay is a title ceiling 'upto 45lpa' on a 1-7 yr band, so pay for about 1.3 yrs is unknown. Asks 1-4 yrs in consulting/analytics/corporate strategy plus Power BI, which Shlok lacks; 5 days WFO. No decision-maker reachable. Reconsider if the recruiter names the client and a band.)"
     }
    ],
-   "updated_at": "2026-11-20T14:48:43+05:30",
+   "updated_at": "2026-11-21T14:39:56+05:30",
    "research_attempt": {
     "at": "2026-11-21T13:07:09+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
@@ -221573,7 +221581,8 @@
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Posting is live (opened 2026-11-21, over 200 applicants) but is posted by a staffing firm for an unnamed client; the only pay is a title ceiling 'upto 45lpa' on a 1-7 yr band, so pay for about 1.3 yrs is unknown. Asks 1-4 yrs in consulting/analytics/corporate strategy plus Power BI, which Shlok lacks; 5 days WFO. No decision-maker reachable. Reconsider if the recruiter names the client and a band."
   },
   {
    "id": "L1838",

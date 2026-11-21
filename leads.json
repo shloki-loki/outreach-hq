@@ -49689,9 +49689,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v1 email to Mayank Goyal queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-21T11:52:56+05:30",
+     "actor": "send-track",
+     "event": "send_failed",
+     "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer"
     }
    ],
-   "updated_at": "2026-11-20T16:34:11+05:30",
+   "updated_at": "2026-11-21T11:52:56+05:30",
    "live_check": {
     "at": "2026-11-20T12:37:41+05:30",
     "state": "unknown",

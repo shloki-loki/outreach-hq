@@ -233014,15 +233014,15 @@
    "key": "tesco|technical programme manager|bengaluru",
    "type": "job",
    "company": "Tesco Technology",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "tesco.com",
+   "company_url": "https://www.tesco.com",
    "company_linkedin": "https://uk.linkedin.com/company/tesco-technology",
    "company_note": "",
    "title": "Technical Programme Manager (Cyber).",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4483624133",
    "source_url": "https://in.linkedin.com/jobs/view/technical-programme-manager-cyber-at-tesco-technology-4483624133",
@@ -233053,8 +233053,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -233064,15 +233064,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Technical Programme Manager (Cyber) at Tesco Technology; asks cybersecurity delivery experience you do not have.",
+    "fit_notes": "The posting asks for 'Proven experience managing cyber security delivery, programmes or portfolios within a Cyber, Security or Technology Risk environment.' Shlok's facts show heavy supply chain, S&OP, and inventory work ([sop], [ceo-coo], [cell]), but no cybersecurity programme management experience.",
+    "pay_notes": "Pay not stated in posting or research evidence.",
+    "culture_notes": "No company ratings, reviews, or culture flags found in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T03:26:20+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Tesco Technology grows in Kraków - EurobuildCEE",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03Tndld3VpMkEwU2VsQ0VzT2g2dU1CTU1zYUNFMU9kVG41d04xWmVra0VOdUhHeDJFRGZQVlFfdWNMY0VEb3NjaWw4WDFsVnhubW51SDlVa1B2VjUweGhmSUFYeWtYTEk5ZWI4dXRJcTFvSmt5WXM4RFJpaw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -233096,9 +233109,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-22T03:26:20+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires proven experience managing cyber security delivery, programmes or portfolios, which is a specialized domain requirement absent from Shlok's S&OP and operations background.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30"
+   "updated_at": "2026-11-22T03:26:20+05:30",
+   "reject_reason": "The role requires proven experience managing cyber security delivery, programmes or portfolios, which is a specialized domain requirement absent from Shlok's S&OP and operations background."
   },
   {
    "id": "L1925",

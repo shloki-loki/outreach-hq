@@ -39236,7 +39236,13 @@
     "kind": null,
     "since": null
    },
-   "notes": [],
+   "notes": [
+    {
+     "at": "2026-11-21T14:40:00+05:30",
+     "by": "lead-scout",
+     "text": "LinkedIn posting returned 404 on 2026-11-21"
+    }
+   ],
    "timeline": [
     {
      "at": "2026-11-13T04:00:41+05:30",
@@ -39261,9 +39267,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting page no longer exists (HTTP 404)"
+    },
+    {
+     "at": "2026-11-21T14:40:00+05:30",
+     "actor": "lead-scout",
+     "event": "posting_closed",
+     "detail": "confirmed closed"
     }
    ],
-   "updated_at": "2026-11-14T19:03:02+05:30",
+   "updated_at": "2026-11-21T14:40:00+05:30",
    "live_check": {
     "at": "2026-11-14T19:03:02+05:30",
     "state": "closed",

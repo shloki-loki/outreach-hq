@@ -14068,6 +14068,11 @@
      "at": "2026-11-16T10:56:33+05:30",
      "by": "send-track",
      "text": "Not drafted 2026-11-16: zamp.ai is catch-all (Amit Jain, Raghav Saraf) and score 73 is under 80, so no unverified send allowed; needs a verified address or an apply route."
+    },
+    {
+     "at": "2026-11-21T14:38:20+05:30",
+     "by": "send-track",
+     "text": "Not drafted 21 Nov: all 5 addresses catch-all pattern guesses, score 73 (<80), recheck blocked by verifier/git sync error. Needs verified address."
     }
    ],
    "timeline": [
@@ -14174,7 +14179,7 @@
      "detail": "Linson Thomas: linson.thomas@zamp.ai (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-18T18:36:43+05:30",
+   "updated_at": "2026-11-21T14:38:20+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",

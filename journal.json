@@ -5444,6 +5444,15 @@
    "title": "Template founder-v1 stopped",
    "detail": "52 approved emails pulled back before sending",
    "ref": "M0178"
+  },
+  {
+   "id": "J0606",
+   "at": "2026-11-21T20:12:52+05:30",
+   "by": "campaign",
+   "kind": "update",
+   "title": "Template founder-v2: 60 emails queued",
+   "detail": "1714 addresses left after today; refused 0",
+   "ref": "M0230"
   }
  ]
 }

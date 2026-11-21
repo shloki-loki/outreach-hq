@@ -5597,6 +5597,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 60 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J0623",
+   "at": "2026-11-21T22:31:00+05:30",
+   "by": "research-worker",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "25 researched (1 qualified, 24 rejected), 1 closed postings binned, 8 left for a person",
+   "ref": ""
   }
  ]
 }

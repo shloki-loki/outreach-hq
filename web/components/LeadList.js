@@ -13,14 +13,23 @@ const VIEWS = [
   { id: 'you', label: 'Needs you', test: (s) => ['replied', 'followup_due', 'to_approve'].includes(s) },
   { id: 'qualified', label: 'Qualified, untouched', test: (s) => s === 'qualified' },
   { id: 'captured', label: 'Contacted or applied', test: (s, r) => r.captured },
-  { id: 'spec', label: 'No opening (speculative)', test: (s, r) => r.speculative && !['rejected', 'closed', 'skipped'].includes(s) },
   { id: 'new', label: 'Not researched yet', test: (s, r) => s === 'new' && !r.binned },
   { id: 'bin', label: 'Bin (posting closed)', test: (s, r) => r.binned },
   { id: 'off', label: 'Rejected', test: (s, r) => ['rejected', 'closed', 'skipped'].includes(s) && !r.binned },
   { id: 'all', label: 'All', test: () => true },
 ];
 
-export default function LeadList({ rows, initialView = 'play' }) {
+const COLD_MAIL_VIEWS = [
+  { id: 'all', label: 'All', test: () => true },
+  { id: 'drafts', label: 'Drafts', test: (s, r) => r.messageStatuses.includes('draft') },
+  { id: 'queued', label: 'Queued', test: (s, r) => r.messageStatuses.some((status) => ['approved', 'sending'].includes(status)) },
+  { id: 'sent', label: 'Sent', test: (s, r) => r.messageStatuses.some((status) => ['sent', 'replied', 'bounced'].includes(status)) },
+  { id: 'followups', label: 'Follow-ups due', test: (s, r) => r.followupDue },
+  { id: 'replies', label: 'Replies', test: (s, r) => s === 'replied' || r.messageStatuses.includes('replied') },
+];
+
+export default function LeadList({ rows, initialView = 'play', coldMails = false }) {
+  const views = coldMails ? COLD_MAIL_VIEWS : VIEWS;
   const [view, setView] = useState(initialView);
   const [query, setQuery] = useState('');
   const [applied, setApplied] = useState(() => new Set());
@@ -41,26 +50,26 @@ export default function LeadList({ rows, initialView = 'play' }) {
       setStatus(`Marked ${r.company} as applied.`);
     });
   }
-  const counts = useMemo(() => Object.fromEntries(VIEWS.map((v) => [v.id, rows.filter((r) => v.test(r.status, r)).length])), [rows]);
+  const counts = useMemo(() => Object.fromEntries(views.map((v) => [v.id, rows.filter((r) => v.test(r.status, r)).length])), [rows, views]);
   const shown = useMemo(() => {
-    const active = VIEWS.find((v) => v.id === view) || VIEWS[0];
+    const active = views.find((v) => v.id === view) || views[0];
     const needle = query.trim().toLowerCase();
     const list = rows.filter((r) => active.test(r.status, r) && (!needle || r.search.includes(needle))
       && !(active.id === 'apply' && applied.has(r.id)));
     return active.id === 'apply' ? [...list].sort((a, b) => b.score - a.score) : list;
-  }, [rows, view, query, applied]);
+  }, [rows, views, view, query, applied]);
 
   return (
     <>
       <div className="filters">
         <div className="chips" role="group" aria-label="Filter leads">
-          {VIEWS.map((v) => (
+          {views.map((v) => (
             <button key={v.id} type="button" className="chip" aria-pressed={view === v.id} onClick={() => setView(v.id)}>
               {v.label}<span className="n">{counts[v.id]}</span>
             </button>
           ))}
         </div>
-        <input className="search" type="search" placeholder="Search company, role, city" value={query}
+        <input className="search" type="search" placeholder={coldMails ? "Search company" : "Search company, role, city"} value={query}
           onChange={(event) => setQuery(event.target.value)} aria-label="Search leads" />
       </div>
       <p role="status" aria-live="polite" className="muted">{status}</p>
@@ -68,7 +77,12 @@ export default function LeadList({ rows, initialView = 'play' }) {
         <p className="empty">No leads in this view{query ? ' match that search' : ''}.</p>
       ) : (
         <ul className="leads">
-          {shown.map((r) => (
+          {shown.map((r) => coldMails ? (
+            <li key={r.id} className={`lead s-${r.status}`}>
+              <h3><Link href={`/lead/${r.id}`}>{r.company}</Link></h3>
+              <span className={`pill tone-${r.tone}`}>{r.statusLabel}</span>
+            </li>
+          ) : (
             <li key={r.id} className={`lead s-${r.status}`}>
               <div>
                 <h3><Link href={`/lead/${r.id}`}>{r.title} <span className="at">· {r.company}</span></Link></h3>
@@ -79,7 +93,6 @@ export default function LeadList({ rows, initialView = 'play' }) {
                   <span className="tag">{r.location || 'Location not stated'}</span>
                   <span className={`pill tone-${r.address.tone}`}>{r.address.label}</span>
                   {r.connections ? <span className="pill tone-done">{r.connections} connection{r.connections > 1 ? 's' : ''} there</span> : null}
-                  {r.speculative ? <span className="tag">No opening</span> : null}
                   {r.applied ? <span className="tag">Applied</span> : null}
                   {r.open === false ? <span className="tag warn-tag">{r.binned ? 'In the Bin' : 'Posting closed'}</span> : null}
                   {r.machine ? <span className="tag" title="Researched on GitHub by the free model">Free-model research</span> : null}

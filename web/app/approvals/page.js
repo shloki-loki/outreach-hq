@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import ApproveAll from '@/components/ApproveAll';
 import MessageCard from '@/components/MessageCard';
 import TopBar from '@/components/TopBar';
@@ -8,9 +9,17 @@ import { EMAIL_BADGE } from '@/lib/status';
 
 export const dynamic = 'force-dynamic';
 
-export default async function ApprovalsPage() {
+export default async function ApprovalsPage({ searchParams }) {
   await requireSignIn();
   const [{ leads, messages }, mode] = await Promise.all([loadBoard(), sendingMode()]);
+  const { view } = await searchParams;
+  const filters = [
+    { id: 'all', label: 'All mail', href: '/approvals' },
+    { id: 'jobs', label: 'Job outreach', href: '/approvals?view=jobs' },
+    { id: 'cold', label: 'Cold Mails', href: '/approvals?view=cold' },
+  ];
+  const active = filters.find((filter) => filter.id === view)?.id || 'all';
+  const matches = (lead) => active === 'all' || (active === 'cold' ? lead?.type === 'company' : Boolean(lead) && lead.type !== 'company');
   const leadById = Object.fromEntries(leads.map((lead) => [lead.id, lead]));
   const label = (message) => {
     const lead = leadById[message.lead_id];
@@ -20,22 +29,29 @@ export default async function ApprovalsPage() {
     const contact = (leadById[message.lead_id]?.contacts || []).find((c) => c.id === message.contact_id);
     return EMAIL_BADGE[contact?.email_status || message.email_status];
   };
-  const by = (status) => messages.filter((m) => m.status === status);
+  const by = (status) => messages.filter((m) => m.status === status && matches(leadById[m.lead_id]));
   const drafts = by('draft').sort((a, b) => (a.kind === b.kind ? (a.created_at < b.created_at ? -1 : 1) : a.kind === 'cold' ? 1 : -1));
   const waiting = by('approved');
   const trouble = [...by('failed'), ...by('sending')];
-  const followDue = leads.filter((lead) => lead.followup?.due);
+  const followDue = leads.filter((lead) => lead.followup?.due && matches(lead));
   const today = new Date(Date.now() + 5.5 * 3600 * 1000).toISOString().slice(0, 10);
   const sentToday = messages.filter((m) => (m.sent_at || '').startsWith(today)).length;
 
   return (
     <>
-      <TopBar current="/approvals" toApprove={drafts.length} />
+      <TopBar current="/approvals" toApprove={messages.filter((message) => message.status === 'draft').length} />
       <main>
         <div className="page-head">
           <h1>Approvals</h1>
-          <p>Nothing is emailed until you approve it here. Edit any draft first; your version is what goes out. {sentToday} sent today (cap: 15 new, 10 follow-ups).</p>
+          <p>Review drafts and check the send queue. {sentToday} sent today across all mail.</p>
         </div>
+        <nav className="chips" aria-label="Filter approvals">
+          {filters.map((filter) => (
+            <Link key={filter.id} href={filter.href} className="chip link" aria-current={active === filter.id ? 'true' : undefined}>
+              {filter.label}
+            </Link>
+          ))}
+        </nav>
         {mode !== 'live' ? (
           <p className="banner">Dry run is on: approving marks an email as approved but nothing is sent. To go live, set <strong>mode = "live"</strong> in config/settings.toml after the test email to yourself works.</p>
         ) : null}
@@ -50,7 +66,7 @@ export default async function ApprovalsPage() {
         <section className="section">
           <div className="card-head">
             <h2 className="section-label" style={{ margin: 0 }}>Waiting for you<span className="n">{drafts.length}</span></h2>
-            <ApproveAll ids={drafts.map((m) => m.id)} mode={mode} />
+            <ApproveAll key={active} ids={drafts.map((m) => m.id)} mode={mode} />
           </div>
           {drafts.length === 0 ? <p className="empty">Nothing to approve. New drafts appear here after the send agent's next run.</p>
             : drafts.map((message) => <MessageCard key={`${message.id}-${message.status}`} message={message} mode={mode} showLead leadLabel={label(message)} emailBadge={badge(message)} />)}

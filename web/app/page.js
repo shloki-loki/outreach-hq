@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { redirect } from 'next/navigation';
 import LeadList from '@/components/LeadList';
 import TopBar from '@/components/TopBar';
 import { requireSignIn } from '@/lib/auth';
@@ -86,9 +87,12 @@ function genericNote(lead) {
 export default async function LeadsPage({ searchParams }) {
   await requireSignIn();
   const { view } = await searchParams;
-  const { leads } = await loadBoard();
+  if (view === 'spec') redirect('/cold-mails');
+  const { leads: allLeads, messages } = await loadBoard();
+  const leads = allLeads.filter((lead) => lead.type !== 'company');
   const tally = counts(leads);
-  const toApprove = leads.reduce((sum, lead) => sum + lead.messages.filter((m) => m.status === 'draft').length, 0);
+  const toApprove = messages.filter((message) => message.status === 'draft').length;
+  const jobDrafts = leads.reduce((sum, lead) => sum + lead.messages.filter((m) => m.status === 'draft').length, 0);
   const rows = leads.map((lead) => ({
     id: lead.id, title: lead.title, company: lead.company, location: lead.location, status: lead.status,
     statusLabel: STATUS[lead.status].label, tone: STATUS[lead.status].tone, score: lead.score?.total ?? 0,
@@ -101,7 +105,7 @@ export default async function LeadsPage({ searchParams }) {
     machine: lead.research?.by === 'research-worker', stretch: lead.stretch, applied: Boolean(lead.applied_at) && lead.status !== 'applied',
     emails: (lead.contacts || []).filter((c) => c.email && !['bounced', 'invalid'].includes(c.email_status)).length,
     connections: (lead.referrals || []).length, note: latestNote(lead),
-    captured: Boolean(lead.first_contacted_at || lead.applied_at), speculative: lead.type === 'company',
+    captured: Boolean(lead.first_contacted_at || lead.applied_at),
     applyUrl: /^https?:\/\//.test(lead.apply_url || '') ? lead.apply_url : '',
     canApply: lead.type === 'job' && ['qualified', 'to_approve', 'contacted', 'followup_due'].includes(lead.status)
       && lead.open !== false && !lead.applied_at && /^https?:\/\//.test(lead.apply_url || ''),
@@ -112,7 +116,7 @@ export default async function LeadsPage({ searchParams }) {
   const readyToApply = rows.filter((r) => r.canApply).length;
   const strip = [
     { label: 'Ready to apply', value: readyToApply, href: '/?view=apply', tone: 'hot' },
-    { label: 'Emails to approve', value: toApprove, href: '/approvals', tone: 't-approve' },
+    { label: 'Emails to approve', value: jobDrafts, href: '/approvals?view=jobs', tone: 't-approve' },
     { label: 'Follow-ups due', value: tally.followup_due || 0, href: '/?view=you', tone: 't-due' },
     { label: 'Replies', value: tally.replied || 0, href: '/?view=you', tone: 't-reply' },
     { label: 'Contacted or applied', value: leads.filter((l) => l.first_contacted_at || l.applied_at).length, href: '/?view=captured', tone: 'hot' },

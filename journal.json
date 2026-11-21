@@ -5336,6 +5336,15 @@
    "title": "Diagnosis: Sending M0116 failed",
    "detail": "SMTP connection was reset by Gmail/network mid-send (Errno 54), not a bad address; the same runs later sent 10 emails each without error (15:00, 15:20, 15:41, 16:00 IST), so it is transient. Press Retry on the Approvals page for the failed messages (M0109-M0119) — but check first they are not already in Gmail Sent (M0110, M0112 said interrupted).",
    "ref": "I0034"
+  },
+  {
+   "id": "J0594",
+   "at": "2026-11-21T20:11:47+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Sending M0117 failed",
+   "detail": "SMTP connection was reset by Gmail/network mid-send (Errno 54), not a bad address; the same runs later sent 10 emails each without error (15:00, 15:20, 15:41, 16:00 IST), so it is transient. Press Retry on the Approvals page for the failed messages (M0109-M0119) — but check first they are not already in Gmail Sent (M0110, M0112 said interrupted).",
+   "ref": "I0035"
   }
  ]
 }

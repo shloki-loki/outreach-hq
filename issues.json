@@ -487,7 +487,7 @@
    "opened_at": "2026-11-21T13:31:51+05:30",
    "last_seen": "2026-11-21T13:31:51+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "SMTP connection was reset by Gmail/network mid-send (Errno 54), not a bad address; the same runs later sent 10 emails each without error (15:00, 15:20, 15:41, 16:00 IST), so it is transient. Press Retry on the Approvals page for the failed messages (M0109-M0119) — but check first they are not already in Gmail Sent (M0110, M0112 said interrupted).",
    "resolved_at": null
   },
   {

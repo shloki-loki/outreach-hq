@@ -1,16 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-14T15:38:56+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "sent 0, failed 0. M0004: lead replied or closed since approval",
-   "stats": {
-    "sent": 0,
-    "failed": 0
-   }
-  },
-  {
    "at": "2026-11-14T15:39:30+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3863,6 +3853,16 @@
     "bounces": 1,
     "settled": 0,
     "followups_due": 0
+   }
+  },
+  {
+   "at": "2026-11-21T16:45:28+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 0, failed 0. daily cap of 60 speculative notes reached",
+   "stats": {
+    "sent": 0,
+    "failed": 0
    }
   }
  ]

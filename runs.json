@@ -1,17 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-15T01:51:00+05:30",
-   "agent": "people-finder",
-   "ok": true,
-   "summary": "3 companies searched on LinkedIn, 8 people added",
-   "stats": {
-    "leads": 3,
-    "people_added": 8,
-    "skipped": ""
-   }
-  },
-  {
    "at": "2026-11-15T01:54:56+05:30",
    "agent": "writer",
    "ok": true,
@@ -3829,6 +3818,17 @@
       "gemini-3.5-flash"
      ]
     }
+   }
+  },
+  {
+   "at": "2026-11-21T22:31:02+05:30",
+   "agent": "people-finder",
+   "ok": true,
+   "summary": "0 companies searched on LinkedIn, 0 people added",
+   "stats": {
+    "leads": 0,
+    "people_added": 0,
+    "skipped": ""
    }
   }
  ]

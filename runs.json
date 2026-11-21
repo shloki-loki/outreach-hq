@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-14T15:25:23+05:30",
-   "agent": "lead-scout",
-   "ok": true,
-   "summary": "12 researched (1 qualified: L0326 GoKwik Strategy & Growth, stretch; 11 rejected incl. Kepler L0099 64 and Aspire L0328 61 just under cut), 3 contacts added, 1 email (recruiter address stated in GoKwik posting) + 2 catch-all for Zamp L0105 founders; no Apify used; scrape skipped (12h old); outreach CLI only works outside the sandbox (git fetch hang, issue filed)",
-   "stats": {}
-  },
-  {
    "at": "2026-11-14T15:38:53+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3860,6 +3853,16 @@
    "stats": {
     "sent": 0,
     "failed": 0
+   }
+  },
+  {
+   "at": "2026-11-21T16:43:27+05:30",
+   "agent": "supervisor/check",
+   "ok": false,
+   "summary": "M0109: failed; needs investigation; M0110: failed; needs investigation; M0111: failed; needs investigation; M0112: failed; needs investigation; M0113: failed; needs investigation; M0114: failed; needs investigation; M0115: failed; needs investigation; M0116: failed; needs investigation; M0117: failed; needs investigation; M0118: failed; needs investigation; M0119: failed; needs investigation; W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
+   "stats": {
+    "alerts": 14,
+    "open_work": 172
    }
   }
  ]

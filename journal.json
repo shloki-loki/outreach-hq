@@ -4724,6 +4724,15 @@
    "title": "Sending M0113 failed",
    "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer",
    "ref": "I0031"
+  },
+  {
+   "id": "J0526",
+   "at": "2026-11-21T11:53:00+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "Sending M0114 failed",
+   "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer",
+   "ref": "I0032"
   }
  ]
 }

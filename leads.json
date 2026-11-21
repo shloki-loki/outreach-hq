@@ -57836,9 +57836,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Jitender Bedwal"
+    },
+    {
+     "at": "2026-11-21T16:17:21+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Nikhil Tripathi"
     }
    ],
-   "updated_at": "2026-11-21T15:52:03+05:30",
+   "updated_at": "2026-11-21T16:17:21+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

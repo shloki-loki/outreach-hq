@@ -54657,9 +54657,15 @@
      "actor": "follow-up",
      "event": "bounced",
      "detail": "sanchit.garg@traveltriangle.com does not exist; needs a new address"
+    },
+    {
+     "at": "2026-11-21T15:07:16+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Vishnu Khandelwal"
     }
    ],
-   "updated_at": "2026-11-20T16:34:04+05:30",
+   "updated_at": "2026-11-21T15:07:16+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

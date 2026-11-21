@@ -221736,15 +221736,15 @@
    "key": "airtribe|founders office|bengaluru",
    "type": "job",
    "company": "Airtribe",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "airtribe.live",
+   "company_url": "https://airtribe.live",
    "company_linkedin": "",
    "company_note": "",
    "title": "Founders Office",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492586729",
    "source_url": "https://in.linkedin.com/jobs/view/founders-office-at-airtribe-4492586729",
@@ -221775,8 +221775,8 @@
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 60,
+    "total": 70,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -221786,15 +221786,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founders Office at Airtribe, asks 1-4 yrs, but requires prior founder experience that you lack.",
+    "fit_notes": "The posting asks for '1 to 4 years' of experience and states 'This role is for people who have built a company before. You started something, ran it, and then moved on for some reason.' While Shlok fits the 1-4 year window (1.3 years) and the Bengaluru location, he does not have prior company-building experience. His background at Ola Electric ([sop], [ceo-coo]) demonstrates strong S&OP and operations execution, but does not match the founder requirement.",
+    "pay_notes": "Pay is not stated in the posting, and no credible salary evidence was found for this role at Airtribe.",
+    "culture_notes": "Airtribe is an early-stage company building live cohort programs for AI-native builders with a small team, but no formal review aggregator data or employee ratings were found.",
+    "hook": "Airtribe is scaling live cohort programs with 40,000+ learners and aims to reach 1 million people by 2030, but the role specifically requires prior company-building experience.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founders-office-at-airtribe-4492586729",
+    "researched_at": "2026-11-21T13:11:40+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -221818,14 +221825,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-21T13:11:40+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 70: rejected (The role explicitly asks for people 'who have built a company before', which Shlok has not done, making it a poor fit for his background.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:11:40+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role explicitly asks for people 'who have built a company before', which Shlok has not done, making it a poor fit for his background."
   },
   {
    "id": "L1843",

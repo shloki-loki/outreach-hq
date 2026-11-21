@@ -230760,7 +230760,12 @@
      "detail": "instahyre: rule score 61"
     }
    ],
-   "updated_at": "2026-11-21T14:22:18+05:30"
+   "updated_at": "2026-11-21T14:22:18+05:30",
+   "research_attempt": {
+    "at": "2026-11-21T22:30:58+05:30",
+    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L1905",

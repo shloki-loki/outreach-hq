@@ -169387,7 +169387,7 @@
    "key": "umeintelligence|business operations manager founders office|india",
    "type": "job",
    "company": "Ume Intelligence, Inc.",
-   "company_domain": "",
+   "company_domain": "umehq.ai",
    "company_url": "https://umehq.ai",
    "company_linkedin": "",
    "company_note": "A marketing science company building analytics and automation infrastructure for multi-location restaurant brands.",
@@ -169395,7 +169395,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "hiringcafe",
    "source_id": "dover___8bd58313-1661-4423-b004-67632c15c7e1___858ad577-52bf-4c31-a1cc-4d5e6df89e04",
    "source_url": "https://app.dover.com/apply/8bd58313-1661-4423-b004-67632c15c7e1/858ad577-52bf-4c31-a1cc-4d5e6df89e04",
@@ -169426,8 +169426,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 28,
+    "total": 41,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -169436,15 +169436,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founders' Office at Ume Intelligence focuses on administrative back-office ops (bookkeeping, ATS scheduling, state filings) rather than strategic ops.",
+    "fit_notes": "The posting asks for hands-on operational back-office building including ATS recruiting coordination, transaction categorization, US state and local tax filings, virtual mailbox management, and GTM lead enrichment. While Shlok has generalist experience working with founders [ceo-coo] and scripting/automation skills [idekho], his core background is in large-scale supply chain S&OP planning [sop], inventory optimization [msl], [mrp], and operations analytics [o2d], [cell]. This job is essentially an executive admin / ops coordinator position.",
+    "pay_notes": "No compensation is stated in the posting or available from evidence for this early-stage company.",
+    "culture_notes": "No public employee ratings or headcount data found.",
+    "hook": "Ume Intelligence builds modern analytics and automation infrastructure for multi-location restaurant brands to convert operational data into measurable revenue.",
+    "hook_source": "https://umehq.ai",
+    "researched_at": "2026-11-21T22:18:37+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Ume Intelligence, Inc. website",
+      "url": "https://umehq.ai"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -169468,9 +169481,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:18:37+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (The role consists primarily of administrative back-office tasks (ATS interview scheduling, US state/tax compliance filings, invoice chasing, vendor management) rather than strategic business operations, and is unlikely to reach the Rs 24.5 LPA fixed pay threshold.)"
     }
    ],
-   "updated_at": "2026-11-15T01:20:54+05:30",
+   "updated_at": "2026-11-21T22:18:37+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
@@ -169480,7 +169499,8 @@
     "at": "2026-11-20T22:51:48+05:30",
     "why": "the posting page has no readable description",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role consists primarily of administrative back-office tasks (ATS interview scheduling, US state/tax compliance filings, invoice chasing, vendor management) rather than strategic business operations, and is unlikely to reach the Rs 24.5 LPA fixed pay threshold."
   },
   {
    "id": "L1367",

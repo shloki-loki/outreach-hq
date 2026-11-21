@@ -222049,7 +222049,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491901747",
    "source_url": "https://in.linkedin.com/jobs/view/head-business-strategy-at-taglynk-4491901747",
@@ -222080,8 +222080,8 @@
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 40,
+    "total": 55,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -222091,15 +222091,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Head Business Strategy at Taglynk, but requires a Tier-1 MBA and management consulting background you do not have.",
+    "fit_notes": "The posting asks for: 'Education: Engineering graduate from a Tier-1 institute AND an MBA from a Tier-1 business school. Experience: Background in top-tier management consulting, followed by strategy, founder’s office, or business leadership roles'. Shlok has an engineering degree from IIT Guwahati [alcheringa] and Strategy & Ops experience at Ola Electric [ceo-coo], but he has no MBA and no consulting background.",
+    "pay_notes": "Pay not stated in the job posting.",
+    "culture_notes": "No company website or news found in the search results.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T13:11:50+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -222123,14 +222132,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 78"
+    },
+    {
+     "at": "2026-11-21T13:11:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 55: rejected (The posting explicitly requires an MBA from a Tier-1 business school and background in top-tier management consulting, which Shlok lacks.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:11:50+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting explicitly requires an MBA from a Tier-1 business school and background in top-tier management consulting, which Shlok lacks."
   },
   {
    "id": "L1846",

@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-14T20:13:53+05:30",
-   "agent": "supervisor",
-   "ok": true,
-   "summary": "2 open issues (I0005 late GitHub schedules, seen again; I0009 Vercel deploy limit, remedy written), 4 confirmed fixed earlier today (I0004, I0006-I0008), reply rate 9.1%, bounce rate 0%",
-   "stats": {}
-  },
-  {
    "at": "2026-11-14T22:07:40+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3844,6 +3837,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-21T21:45:22+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

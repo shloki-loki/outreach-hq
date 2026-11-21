@@ -277,6 +277,12 @@
     "first"
    ],
    "confirmed": []
+  },
+  "rario.com": {
+   "bounced_patterns": [
+    "firstl"
+   ],
+   "confirmed": []
   }
  }
 }

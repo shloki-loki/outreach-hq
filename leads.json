@@ -227704,7 +227704,7 @@
    "key": "appliedmaterials|chief of staff|bengaluru",
    "type": "job",
    "company": "Applied Materials",
-   "company_domain": "",
+   "company_domain": "appliedmaterials.com",
    "company_url": "https://appliedmaterials.com",
    "company_linkedin": "",
    "company_note": "A global leader in materials science and engineering solutions for semiconductor chips and advanced displays.",
@@ -227739,17 +227739,17 @@
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "Posting shows $100,000-$120,000 (likely a generic band, not India pay)",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "jobs.appliedmaterials.com posting",
     "fit": "Unknown"
    },
    "score": {
     "rules": 78,
-    "research": null,
-    "total": 78,
+    "research": 25,
+    "total": 46,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -227759,15 +227759,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff to Applied Materials India head, but requires a top MBA and consulting background you do not have.",
+    "fit_notes": "Hardware/EV manufacturing planning facts map, but MBA and consulting are stated as all-required.",
+    "pay_notes": "USD band on posting; India fixed pay unverified.",
+    "culture_notes": "Not researched; rejected on requirements.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T14:38:51+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -227791,9 +227793,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 78"
+    },
+    {
+     "at": "2026-11-21T14:38:51+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 46: rejected (Posting (opened 2026-11-21 on jobs.appliedmaterials.com) requires all of: engineering degree plus hardware org experience, MBA from a top-tier school, and premier strategy/consulting firm experience. Shlok has no MBA or consulting.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T14:38:51+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
@@ -227803,7 +227811,8 @@
     "at": "2026-11-21T13:12:26+05:30",
     "why": "model answer failed the checks: an estimated pay must name a site that the evidence reported pay from",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Posting (opened 2026-11-21 on jobs.appliedmaterials.com) requires all of: engineering degree plus hardware org experience, MBA from a top-tier school, and premier strategy/consulting firm experience. Shlok has no MBA or consulting."
   },
   {
    "id": "L1897",

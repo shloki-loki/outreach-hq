@@ -4877,6 +4877,15 @@
    "title": "Naukri/instahyre/Talentiser pages not fetchable by curl",
    "detail": "Naukri (UC leads) returns JS-only shell, instahyre returns 403 (GoKwik L1905, HP L1908 left unresearched), LinkedIn rate-limits with 429 intermittently. Posting liveness could not be confirmed for UC L1893/L1894; rejected on pay evidence instead.",
    "ref": "I0039"
+  },
+  {
+   "id": "J0543",
+   "at": "2026-11-21T14:45:16+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

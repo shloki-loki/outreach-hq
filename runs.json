@@ -1,17 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-15T22:04:27+05:30",
-   "agent": "people-finder",
-   "ok": true,
-   "summary": "4 companies searched on LinkedIn, 7 people added",
-   "stats": {
-    "leads": 4,
-    "people_added": 7,
-    "skipped": ""
-   }
-  },
-  {
    "at": "2026-11-15T22:05:40+05:30",
    "agent": "writer",
    "ok": true,
@@ -3796,6 +3785,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-21T23:45:22+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

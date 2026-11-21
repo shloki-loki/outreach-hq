@@ -5786,6 +5786,15 @@
    "title": "Ran",
    "detail": "0 replies, 0 bounces, 0 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J0644",
+   "at": "2026-11-22T01:05:22+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 60 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

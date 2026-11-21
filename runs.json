@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-15T20:24:55+05:30",
-   "agent": "supervisor",
-   "ok": true,
-   "summary": "6 open issues (I0005 late schedules, I0010/I0011 verifier keys 401, I0012 Instahyre 403, new I0013 research worker idle, new I0014 stale work claims), all diagnosed, 0 fixed, reply rate 9.1%, bounce rate 0%",
-   "stats": {}
-  },
-  {
    "at": "2026-11-15T22:03:42+05:30",
    "agent": "research-worker",
    "ok": false,
@@ -3818,6 +3811,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-21T23:25:22+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

@@ -226521,15 +226521,15 @@
    "key": "porter|product manager|bengaluru",
    "type": "job",
    "company": "Porter",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "porter.in",
+   "company_url": "https://porter.in",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "442962",
    "source_url": "https://www.instahyre.com/job-442962-product-manager-at-porter-bangalore/",
@@ -226560,8 +226560,8 @@
    },
    "score": {
     "rules": 67,
-    "research": null,
-    "total": 67,
+    "research": 45,
+    "total": 54,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -226571,15 +226571,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Product Manager at Porter in Bengaluru, asks 4-6 yrs; exceeds your 1.3 yrs and lacks B2C product experience.",
+    "fit_notes": "The posting asks for '4-6 years of product management experience, with at least 2 years on B2C consumer-facing products' and full-stack PM skills. Shlok has about 1.3 years of experience primarily in Strategy & Operations (Ola Electric) rather than B2C product management, making this a clear mismatch on experience level and domain background.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Glassdoor ratings and details not found in the posting or fetched evidence; one news flag noted pilots holding informational pickets [S1].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T13:14:16+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Porter Pilots Hold Informational Picket as Strike Authorization Vote Opens - ALPA",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUdlRVhwQ3lROG1xT0xHZlNJZnBzaHVhTnhucE82b3NGTjhtVTdiTEZFOFdLSVA4U19PWW9Mb2RtclBTS1FCTVdnTV9pbkpBR0JOS3pCSnVnNGFiZlRwUGtxYmp0TmtveC1QVVhwUVNQRkJ3YXpHMU9lRzgyVnRfa1F5Y1hhUmt6N01Ob1FMRU82WUE2OEIxV1R5N25Kbm9CQ2hRRmpwaw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Win a bundle of Max Porter books and a Booker Prizes tote bag - The Booker Prizes",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHR0eWVCUzR0WnNmeTRIOUxfWmwxczFYUmZhTENhODIya3R4SGtNYTVLRTdXdWxlZmlYZnUzUERSeDFpTi1nWXhNcGtaOFNBNWw5NFcxbTZSc1gtcTlJZXFTNjNld1hubkFTVjJ2RDhRWjlXNXNLTENJWjN1cjg5U1c5YmVLSE90WnU0bFBNV2djUk1zM3A2SWY4amlPcG0wbUpNaGxwUlkzMDNpWU1qZ2lvdzJwbTA1?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "PHILLY!! HELLO!! | By Porter Martone - The Players' Tribune",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMVNlZzVremNhMlctSW5lM2hCQUpjN0cxTkl5UE9fYnV5UnhCV3JZX09XbnFpODZ6SndzUlNsejhndjFhWm5MenNadTVzY0VPbGJWWkVHcWhHOThESU83RWVSVDk4V2NLSi1rYk5ZdWwzVVBSemQ1d0R0ckZuRmlzY0FNdXdkUQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Obituary information for Barbara Porter Watkins - www.pearsonfuneralhome.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUVlTSmpsZmtxbm94SHYzZFFmSk40eXJnNEZaMXBKbEQ1Y1d3NGdNTzV6UzNpWlp6cGl4YWY2b2tyUWNXRnlYeHVKbGY5Nzl6SnJwamx4QUVUYmtVRXQ1bUR6QURnaXFYd2Rjc1FQX2VNbkpVdUF1VTY4bWtJbENHaVNUdzBDbVJNT3c?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Dane Allen Porter Obituary Sep 18, 2026 - McComas Family Funeral Homes",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93dHliV2FibTVjeUpRMmp2NnR3a2RoQlBnSkVtazRhM19HS3REQ0ttQUsyTnl5T0VSUnJ5WHdOTzRGY0txVHBsQlZ2Y1NJVUctTjJIVkoxWjluX1dVS1EtNXNoTHRHb25z?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Pauline Porter Obituary Aug 9, 2026 - Goss Funeral Services",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lVFMtMlFKT0l6Q3VpY2dCYUtncDVITXhoVmtsMDAyMTFZbWtCdXk1TUQ2bDR1dTQwNHhZVHdOaWJSMjVLOVpqQnVuanVzbGZFQm5UdzFFTHdlQUo2?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -226603,14 +226641,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 67"
+    },
+    {
+     "at": "2026-11-21T13:14:16+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 54: rejected (The posting explicitly requires 4-6 years of experience, which exceeds Shlok's 1.3 years and is a stretch/reject threshold, alongside requiring specific B2C consumer PM experience he lacks.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:14:16+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "HTTP 503 for https://www.instahyre.com/job-442962-product-manager-at-porter-bangalore/"
-   }
+   },
+   "reject_reason": "The posting explicitly requires 4-6 years of experience, which exceeds Shlok's 1.3 years and is a stretch/reject threshold, alongside requiring specific B2C consumer PM experience he lacks."
   },
   {
    "id": "L1891",

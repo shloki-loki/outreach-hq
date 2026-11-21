@@ -53401,7 +53401,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "savin@outerbounds.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 89 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -53470,9 +53470,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Savin Goyal"
+    },
+    {
+     "at": "2026-11-21T15:05:13+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "savin@outerbounds.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-21T14:53:55+05:30",
+   "updated_at": "2026-11-21T15:05:13+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

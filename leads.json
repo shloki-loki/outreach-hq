@@ -206235,6 +206235,11 @@
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "HTTP 503 for https://www.instahyre.com/job-476809-business-strategy-manager-at-traya-health-mumbai/"
+   },
+   "research_attempt": {
+    "at": "2026-11-21T22:26:24+05:30",
+    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
+    "by": "research-worker"
    }
   },
   {

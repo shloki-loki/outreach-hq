@@ -225710,15 +225710,15 @@
    "key": "siltnutrition|d2c growth manager|bengaluru",
    "type": "job",
    "company": "SILT Nutrition",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "drinksilt.com",
+   "company_url": "https://drinksilt.com",
    "company_linkedin": "https://www.linkedin.com/company/silt-nutrition",
    "company_note": "",
    "title": "D2C Growth Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490292070",
    "source_url": "https://in.linkedin.com/jobs/view/d2c-growth-manager-at-silt-nutrition-4490292070",
@@ -225734,7 +225734,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "D2C Growth Manager , SILT Nutrition, Bengaluru (in office, full-time).\n We hire for four things: ownership, intent, the ability to learn and unlearn, and a generalist attitude. At this 0 to 1 stage, relatively empty slates eager to wear many hats are welcome.\n Experience: ideally 3 to 5 years, but ownership, intent, learning speed and a generalist attitude matter more than years.\n You own CAC and ROAS, not impressions.\n About SILT Nutrition \n SILT makes evidence-based daily wellness rituals for India's busy professionals. Two drink mixes: SILT Mornings (gut + energy + vitamins) and SILT Nights (recovery + calm + sleep). Clinical doses, every mg printed on the pack, no proprietary blends.\n We opened the cart on 28 October 2026. Three weeks in: 248 orders, 1,870 pre-bookers, ~90% organic, rated 4.9/5 by verified buyers. Four of us did that. SILT is not short of demand. It is short of hands.\n What you will own \n Run paid acquisition on Meta and Google end to end: structure, creative testing, budgets\n Own CAC, ROAS, conversion rate and repeat on Shopify, every day\n Build the creative testing engine with brand and content\n Improve the funnel: landing pages, offers, checkout, retention flows (email, WhatsApp)\n Report weekly with numbers, not adjectives\n Pitch in beyond your role: content, ops, customer calls, whatever ships\n What you bring \n Performance or growth marketing experience at any D2C or FMCG brand. No wellness background needed\n Hands-on in Meta Ads Manager, Google Ads, GA4 and Shopify\n Has scaled spend profitably and can show the numbers\n Comfortable with spreadsheets, attribution and unit economics\n Who we're looking for \n You don't need a wellness background: the best D2C and FMCG operators learn this category fast. Numbers over adjectives, and the habit of reading the label.\n What you get \n An early seat at the table in a 0 to 1 consumer brand\n Every number in the open\n Direct work with the founders\n Full-time, in office, Bengaluru\n How to apply \n Apply here: https://tinyurl.com/silt-jobs (or write to careers@drinksilt.com with the role in the subject line). The question that matters most: what would you fix about SILT in your first 30 days? That answer matters more than the CV.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Wellness and Fitness Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -225749,8 +225749,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 42,
+    "total": 52,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -225760,15 +225760,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "D2C Growth Manager at SILT Nutrition, asks 3-5 yrs and paid acquisition experience; your background is S&OP and supply chain.",
+    "fit_notes": "The posting asks for 'performance or growth marketing experience at any D2C or FMCG brand' and 'hands-on in Meta Ads Manager, Google Ads, GA4 and Shopify' with 3 to 5 years ideally. Shlok's facts cover S&OP, inventory, and supply chain ([sop], [ceo-coo], [msl]), and technical product execution ([idekho]), but he lacks D2C paid acquisition, ROAS/CAC management, and Shopify growth experience.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "0 to 1 stage consumer brand launched in October 2026 with 4 team members; no company reviews or external ratings found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T13:21:12+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -225792,14 +225799,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-21T13:21:12+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (Role requires direct D2C or FMCG performance/growth marketing experience (running Meta/Google ads, Shopify CAC/ROAS), which is explicitly outside Shlok's S&OP, inventory, and supply chain background.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:21:12+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Role requires direct D2C or FMCG performance/growth marketing experience (running Meta/Google ads, Shopify CAC/ROAS), which is explicitly outside Shlok's S&OP, inventory, and supply chain background."
   },
   {
    "id": "L1879",

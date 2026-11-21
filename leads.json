@@ -222494,15 +222494,15 @@
    "key": "miq|associate program manager|bengaluru",
    "type": "job",
    "company": "MiQ",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "wearemiq.com",
+   "company_url": "https://wearemiq.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Associate Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "instahyre",
    "source_id": "448095",
    "source_url": "https://www.instahyre.com/job-448095-associate-program-manager-at-miq-bangalore/",
@@ -222533,8 +222533,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -222543,15 +222543,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Associate Program Manager at MiQ, asks 6+ yrs of Atlassian Cloud experience; your 1.3 yrs and lack of Jira admin background block it.",
+    "fit_notes": "The posting asks for '6+ years of experience managing Atlassian Cloud, including Jira and Confluence, together with hands-on Scrum team and agile-delivery facilitation experience' and 'Strong technical expertise in Jira Cloud configuration, scheme architecture, JSM portals and SLAs, and Jira Automation.' Shlok has ~1.3 years of experience at Ola Electric [ceo-coo] and no Atlassian administration background. His facts cover S&OP planning [sop], inventory programs [msl], and dispatch algorithms [o2d], which do not map to administering enterprise Jira/Confluence systems.",
+    "pay_notes": "Pay not stated in the posting or search evidence.",
+    "culture_notes": "Ratings, review counts, and work-life balance data were not found in the posting or evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T22:29:32+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "MiQ’s Total Video Solutions Event Spotlights Google’s YouTube Activation Partner Program, and MiQ’s homegrown AI powered advertising technology, MiQ Sigma - Agency Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTnBtcW1mT1BmZE1sbV8xQlZkZVl1Tk5STklvQ0ZpVjRaQ0ZoWkdvYVFUSmRHVHM2MWtwN3dKTUZocjBvVVZmT3ltbDZaRV9EUEFjQTZNX01xV3lHdU5jQ01FQUZvS3FNSERSMkRmTkVVMjJNRldqZWhjUmJPNHhWSFp4dlJIRzRsOTlOXy1KSWRmTDBzY1lQaVRPbjdIQTc1RTBHZlM5cExMcllhLXFiSlpMVVdpeUhoZEVZd0NHMGNWcDRJQ3JjQ1FaRkZLWVJoTlU0ejBENWFTY1R2cUFRSE9Qel9mVnpSak9Ca3dCYXp2MkgzZ2wzTmpnVUhaVHVyTHNTb2NnbTI?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "MiQ strengthens India leadership with three senior appointments - Adgully",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmR5Vkhrc2IweU1PS1NjYlROdmhNLVRvSmtIX0hDZ2JsMllUTEpxRWpBaFZ3OE9HVHc4Z0pXVFV3VFJ0MkFTX2xCRy1TWEt0S3NPb0pBeXpUeXo3cHpaaUExX0NsblZvdjZYT0l6ZjlDcGpKTDN3V05FQ2tlLVp1TnpsNnBDd3YyVkREc29xc09UbDBGX2NWUmhyNXRMMDg?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "MiQ India appoints Yasser Suhail as director- strategy - afaqs!",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0tBSUM1dDhVQnZNVWJnRlpZRVBLQmlDWC1ZQWhYLWMyUmkzODRlNVc4Wlk1SG9FWVRGS3BVZjQtbGhKcEJSemNsNWwtWG03dDdDaTZqT2gzbllvcHpmdmw1d3RWVDdCbjVDQ002Rk1pZUhYdVdGY1NvS1hUWWRiSFlZM1JoTGMzMWlFaUM1VGpESkJ1Mk53WWx6QWhpLWNoZ3c?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "MiQ India strengthens business team with three key appointments across sales and strategy - MediaNews4U",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkhNSzlhdXljd2hsQ2doUTY3MDhFWkIzaTRMU2hGTm80blphMHdQbnp4MjhVOVY1QmJQOGxiTFQ0amxNOFpiWmMyX2xfaDhlN2xPOW9BbUluSmRncHhwSE5GREN3REpZZXJqQkhMT3BhRDdaRzljdk9UaWpKNFpUbnZmOF9fWXNSa0tsc0pxY0s3V1RMT0UwYnZ5aUpCeWZwY1ZOdzZnajlPUXVnMmdIZmRtMEdYWVBXZUE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "MiQ expands Sigma with new AI advertising capabilities - Campaign India",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZWtiVGEycTRiU0lNN21JMjdNeUg2UjRqMzVBc09LTzlyY2JUQ0pQcEpOMXUxNUxrOHNSZWNxdWFVbWZrd1BMdm9ycVk1aVFrSVNhSnNxQUMyY2JOUDVpaXNxamhVSHk3OGJFZHVVX1BCLWZZWXJfcVdSWjFHMklfVjJENHRUYXIyREpZd2pfcWVlSDRmMnZqNXJ4MHZXWEkyWDVRT1padl9YV0hXZzNza0NsOXBwQW1Ubnc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "MiQ makes sales leadership appointments - Exchange4Media",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUWk0b3UtN1BicEhPUXhfRG9TWnoyR0VuTGpIQjVOdHJ0UkI4QkNscXBVZW5VTlFtU1R3TmxYeWxXVnNxYmNpOVhLc3Vza3JhQVZVbEVzdlptZ0Zab0xKbDhMVk9ZSGpPanhSYUN3bUJZTkw4UmZfMVJrWVFaM1JqcEJFTUFpMUtRSTN1YUFJUkQ4WXExVVhVcFFxWjIyR281Z0ZQU3Nn?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -222575,14 +222613,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:29:32+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The role requires 6+ years of experience managing Atlassian Cloud (Jira/Confluence), while Shlok has 1.3 years of experience and no Atlassian administration background.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-21T22:29:32+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "HTTP 503 for https://www.instahyre.com/job-448095-associate-program-manager-at-miq-bangalore/"
-   }
+   },
+   "reject_reason": "The role requires 6+ years of experience managing Atlassian Cloud (Jira/Confluence), while Shlok has 1.3 years of experience and no Atlassian administration background."
   },
   {
    "id": "L1830",

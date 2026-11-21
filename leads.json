@@ -234370,15 +234370,15 @@
    "key": "microfocus|business operations associate 4|bengaluru",
    "type": "job",
    "company": "Micro Focus",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "microfocus.com",
+   "company_url": "https://www.microfocus.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Business Operations Associate 4",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "486684",
    "source_url": "https://www.instahyre.com/job-486684-business-operations-associate-4-at-micro-focus-bangalore/",
@@ -234409,8 +234409,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 60,
+    "total": 65,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -234419,15 +234419,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Operations Associate 4 at Micro Focus, asks 2-6 yrs; your S&OP and SAP experience matches, but pay is unstated.",
+    "fit_notes": "The posting asks for '2-6 Years' of experience and 'Advanced knowledge of SAP and Microsoft Office suite' along with 'Good understanding of demand and supply planning processes.' Your experience implementing SAP MRP from scratch [mrp] and owning S&OP production planning [sop] answers these needs. However, the role is an operations associate position which typically undercuts Shlok's Rs 24.5 LPA fixed requirement.",
+    "pay_notes": "Pay is not stated in the posting, and no salary evidence is available in the provided research data.",
+    "culture_notes": "Ratings and employee reviews were not found in the provided evidence.",
+    "hook": "Micro Focus has undergone significant structural evolution through multiple major acquisitions, such as its integration of HPE Software [S1].",
+    "hook_source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdG5qcVRLYUJIbWJRZ1JRb0lDTnV1UlRSVWlWQUJaUU5GelZtcnRTc3hWNDJEZXVKZlprYUZvNGRIaWNDRGJlT3huUVg2MTdMTlRIcmJwT2lHSUthbVN6VjFuV1dKN2lkUFZRT3JvVE9qRmFlYXczN1g4RFpGcTA2UUUyN3hWVThXVHczTFJ3a2lQRVJSOFl4a0stNVlHUUh1NTQ2RXROcEF6M2c?oc=5",
+    "researched_at": "2026-11-22T03:21:22+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "List of 22 Acquisitions by Micro Focus (Nov 2026) - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdG5qcVRLYUJIbWJRZ1JRb0lDTnV1UlRSVWlWQUJaUU5GelZtcnRTc3hWNDJEZXVKZlprYUZvNGRIaWNDRGJlT3huUVg2MTdMTlRIcmJwT2lHSUthbVN6VjFuV1dKN2lkUFZRT3JvVE9qRmFlYXczN1g4RFpGcTA2UUUyN3hWVThXVHczTFJ3a2lQRVJSOFl4a0stNVlHUUh1NTQ2RXROcEF6M2c?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -234451,9 +234467,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-22T03:21:22+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 65: rejected (Role asks for 2-6 years with operations and supply chain management focus, and pay is unstated with no evidence suggesting it meets Rs 24.5 LPA for an Associate 4 level at an enterprise software firm.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30"
+   "updated_at": "2026-11-22T03:21:22+05:30",
+   "reject_reason": "Role asks for 2-6 years with operations and supply chain management focus, and pay is unstated with no evidence suggesting it meets Rs 24.5 LPA for an Associate 4 level at an enterprise software firm."
   },
   {
    "id": "L1942",

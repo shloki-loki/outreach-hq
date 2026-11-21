@@ -37529,7 +37529,7 @@
    "key": "algouniversity|ceo s office|india",
    "type": "job",
    "company": "AlgoUniversity",
-   "company_domain": "",
+   "company_domain": "algouniversity.com",
    "company_url": "http://algouniversity.com/",
    "company_linkedin": "https://www.linkedin.com/company/algouniversity",
    "company_note": "YC Summer 2021 · team of 40 · Building Job driven Virtual Tech University for India 🇮🇳",
@@ -37537,7 +37537,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "algouniversity:54040",
    "source_url": "https://www.ycombinator.com/companies/algouniversity/jobs/NvJtiyq-ceo-s-office",
@@ -37568,8 +37568,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 25,
+    "total": 39,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -37578,15 +37578,30 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "CEO's Office role at YC-backed AlgoUniversity; rejected because it is an internship position.",
+    "fit_notes": "The posting specifies an Internship role under founder Manas focused on GTM strategies, market research, and growth. While Shlok has experience working directly with executive leadership [ceo-coo], this is a junior internship role.",
+    "pay_notes": "Pay not stated for a full-time role; posting lists internship stipend.",
+    "culture_notes": "No ratings or flags found in evidence.",
+    "hook": "AlgoUniversity is building live teaching infrastructure to enable top educators to coach software engineering students at scale.",
+    "hook_source": "http://algouniversity.com/",
+    "researched_at": "2026-11-21T22:14:51+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "AlgoUniversity website",
+      "url": "http://algouniversity.com/"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -37637,9 +37652,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:14:51+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 39: rejected (The role is explicitly an internship, making it an entry-level position unsuitable for someone with full-time experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-21T22:14:51+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
@@ -37649,7 +37670,8 @@
     "at": "2026-11-20T22:49:26+05:30",
     "why": "model answer failed the checks: pay basis is 'stated' but the posting states no figure; use estimate or unknown",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role is explicitly an internship, making it an entry-level position unsuitable for someone with full-time experience."
   },
   {
    "id": "L0294",

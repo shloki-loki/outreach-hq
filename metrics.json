@@ -471,14 +471,14 @@
   "2026-11-22": {
    "leads_total": 1946,
    "by_status": {
-    "applied": 7,
+    "applied": 8,
     "contacted": 71,
-    "qualified": 82,
-    "rejected": 413,
+    "qualified": 84,
+    "rejected": 424,
     "replied": 2,
     "skipped": 3,
     "interview": 1,
-    "new": 1296,
+    "new": 1282,
     "to_approve": 71
    },
    "by_source": {
@@ -499,8 +499,8 @@
     "4 - Other": 4,
     "3 - APM / Analyst": 57
    },
-   "qualified_total": 116,
-   "researched_total": 529,
+   "qualified_total": 119,
+   "researched_total": 543,
    "with_email_total": 1023,
    "emails_sent_total": 153,
    "emails_sent_today": 0,
@@ -509,7 +509,7 @@
    "bounces_total": 9,
    "reply_rate": 0.021,
    "bounce_rate": 0.059,
-   "applied_total": 7,
+   "applied_total": 8,
    "referrals_sent": 0,
    "interviews": 1,
    "offers": 0,

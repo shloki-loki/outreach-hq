@@ -5075,6 +5075,15 @@
    "title": "Run failed",
    "detail": "M0109: failed; needs investigation; M0110: failed; needs investigation; M0111: failed; needs investigation; M0112: failed; needs investigation; M0113: failed; needs investigation; M0114: failed; needs investigation; M0115: failed; needs investigation; M0116: failed; needs investigation; M0117: failed; needs investigation; M0118: failed; needs investigation; M0119: failed; needs investigation; W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
    "ref": ""
+  },
+  {
+   "id": "J0565",
+   "at": "2026-11-21T16:45:19+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 1 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

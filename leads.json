@@ -232432,7 +232432,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Delhi, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4460241082",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-growth-strategy-and-transformation-at-99yellow-4460241082",
@@ -232463,8 +232463,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 38,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -232474,15 +232474,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office at 99Yellow in Delhi, asks on-site; your Ola CEO-office and S&OP work maps well, but location is a mismatch.",
+    "fit_notes": "The posting asks for experience in 'strategic planning, business analysis' and 'project and program management'. Shlok's work on S&OP planning and execution [sop] and partnering with Ola's CEO and COO [ceo-coo] are strong fits. The posting prefers a 'Background in management, business, finance, consulting' but does not hard-require an MBA. However, the role requires working 'on-site in Panchkula' / Delhi, which fails Shlok's location filter (Bengaluru or remote-first).",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "No company website or news found in web search to evaluate company quality or culture.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T03:25:56+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -232506,9 +232516,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-22T03:25:56+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (Location mismatch: Role is on-site in Delhi/Panchkula, violating Shlok's preference for Bengaluru or remote-first.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30"
+   "updated_at": "2026-11-22T03:25:56+05:30",
+   "reject_reason": "Location mismatch: Role is on-site in Delhi/Panchkula, violating Shlok's preference for Bengaluru or remote-first."
   },
   {
    "id": "L1920",

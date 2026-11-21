@@ -217788,15 +217788,15 @@
    "key": "xoxoday|marketing operations manager|bengaluru",
    "type": "job",
    "company": "Xoxoday",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "xoxoday.com",
+   "company_url": "https://www.xoxoday.com",
    "company_linkedin": "https://www.linkedin.com/company/xoxoday",
    "company_note": "",
    "title": "Marketing Operations Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru East, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492155440",
    "source_url": "https://in.linkedin.com/jobs/view/marketing-operations-manager-at-xoxoday-4492155440",
@@ -217812,7 +217812,7 @@
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "About This Role\n Xoxoday’s largest wins come from landing and growing enterprise accounts, and HubSpot is the system that runs how we find, engage and convert them. We’re hiring a HubSpot CRM & ABM Manager to own that system and the account-based programs built on top of it.\nYou’ll own and operate HubSpot across CRM, Marketing Hub and Sales Hub, and use it to power targeted, multi-channel campaigns, automation and reporting. You’ll work closely with Sales and Product Marketing, and your work will show up in pipeline and revenue.\nWhat You’ll Do\n HubSpot CRM, workflows and reporting\n Own and operate HubSpot (CRM, Marketing Hub, Sales Hub), including properties, lifecycle stages, lead scoring, lead routing, sequences and integrations.\n Build and maintain automated workflows for lead nurturing and for the journey from MQL to SQL to closed-won, including upsell and cross-sell.\n Build dashboards and reports on account engagement, funnel conversion, pipeline influenced, attribution and campaign ROI, and share insights with the team.\n Keep CRM data clean, enriched and reliable so targeting and reporting can be trusted.\n Set up signal-based triggers, waterfall data enrichment and CRM syncs that move high-intent accounts to Sales quickly.\n ABM programs\n Identify decision-makers and buying-committee personas in target accounts using tools like Apollo, LinkedIn Sales Navigator, ZoomInfo and Clay.\n Plan and run personalized campaigns across email, LinkedIn, paid media, outbound and events that reach the full buying committee.\n Use buying signals such as intent data, job changes, funding news and website activity to time and prioritize outreach.\n Create ABM playbooks, messaging and sales plays, and work with Sales and Product Marketing to drive adoption.\n AI and GTM automation\n Use AI tools and agents for account research, personalized messaging, lead enrichment and outbound at scale.\n Build automated outbound and enrichment workflows using tools like Clay and Zapier, with APIs and webhooks where needed.\n Manage outbound infrastructure and email deliverability, including domain setup, warm-up and sequencing, with tools like Apollo, HeyReach, Outreach or Salesloft.\n Experimentation and tooling\n Run A/B tests on messaging, channels and audiences, measure results, and scale what works.\n Evaluate new AI and GTM tools, and own the marketing tech stack and its cost.\n What We’re Looking For\n Demonstrate expert-level HubSpot skills across workflows, lead scoring, dashboards, reporting and integrations.\n Bring 4+ years in B2B SaaS marketing across ABM, demand generation or marketing automation, including at least 2 years running ABM or target-account programs.\n Show hands-on experience with ABM and prospecting tools such as Apollo, LinkedIn Sales Navigator, ZoomInfo, Lusha or Cognism, Clay, 6sense or Demandbase, and G2 intent data, along with outbound tools such as HeyReach, Outreach or Salesloft.\n Use AI tools such as ChatGPT or Claude for research, personalization an",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -217827,8 +217827,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -217838,15 +217838,43 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Marketing Operations Manager at Xoxoday asks 4+ yrs in B2B SaaS and HubSpot, but your background is supply chain operations.",
+    "fit_notes": "The posting asks for '4+ years in B2B SaaS marketing across ABM, demand generation or marketing automation, including at least 2 years running ABM or target-account programs' and 'expert-level HubSpot skills'. Shlok has about 1.3 years of experience focused on supply chain, S&OP, and operations [sop, ceo-coo] with no B2B SaaS marketing or HubSpot experience.",
+    "pay_notes": "Pay not stated in the posting, and no salary figures found in the company evidence.",
+    "culture_notes": "Ratings and reviews not found. Company expands loyalty and rewards focus in Rwanda [S1, S4] and acquires Amara.ai [S1, S3].",
+    "hook": "Xoxoday recently acquired Amara.ai to bring real-time AI listening into HR.",
+    "hook_source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSU5MM1c4THAzZGlkNG1qVHRLMmdsdnFhd2gwMkFUdGZiT3d2RExMSnZmemJlRmI2TXF3UWVZOE1NVmxKTXZLbG01N2dEak9IRkJDbm1JYU9ZNUhMMXNqOFQzQWRaTUdkS3EyZ2NvRW1idGM3Sm5ia1JaRURVSjl1b0JQc1pQUTNyVk5EVE1SOGNIeEpHVi1rQ1VuVlhXRUJOLXRETVpjclVHYUN2QkdjZWp6TkZEVE9BRjhZeERhMGMtRi16cnc?oc=5",
+    "researched_at": "2026-11-21T13:15:44+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Xoxoday acquires Amara.ai to bring real-time AI listening into HR - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSU5MM1c4THAzZGlkNG1qVHRLMmdsdnFhd2gwMkFUdGZiT3d2RExMSnZmemJlRmI2TXF3UWVZOE1NVmxKTXZLbG01N2dEak9IRkJDbm1JYU9ZNUhMMXNqOFQzQWRaTUdkS3EyZ2NvRW1idGM3Sm5ia1JaRURVSjl1b0JQc1pQUTNyVk5EVE1SOGNIeEpHVi1rQ1VuVlhXRUJOLXRETVpjclVHYUN2QkdjZWp6TkZEVE9BRjhZeERhMGMtRi16cnc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "How Much Did Xoxoday Raise? Funding & Key Investors - Clay",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HUTduWlg3Z0ZtQ3NwVWVzaXdMdmEydXB6RHZXTFg0UWZaeTFoMzJ0SGVFdndWQmx5Vng0cHprVzc5R2NvLUJtVU4wcXRaMTRDbjVGUzNzWQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Xoxoday acquires Amara.ai to bring real-time AI listening into HR - People Matters Global",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUDZKMjAzS0I5YTlHVVdEWUJpaXY2eENGTWRRSWt3MS1TN21WaExmZEpwYzY0QVFMbXJLLXp0Ny1BMU9ZQjY3U2JyNWx4czhlcU1UTmJKMElIWmQ2SFlXYVpYMkQ2ekZaRGhmMTRGVEhqdEhwS05wdEJzaUs1dFZEQ1dXM0NBc25KdEsxY3g2MHlKMzdfbGNBSXpLdmVKTTlCUGlhNW5QSjlDTk5qUUNQVk5teTc4cW1jdXFSRm9HWVlkeDVReDBSTlZOOGdaSzA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Xoxoday expands loyalty and rewards focus in Rwanda as AI reshapes customer engagement| The New Times - The New Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdnFEQl82cl9hU1lhaWJDNmlYaWlaVGhoWDhHajhxVmg2RndJanVKQjJSUG9NNF9iaVRJN2ZpUnczcUNhTnZHZW1ibVNuZU53Z1M3dE1VYi1Kb3lnUTdoYU9FRlpfU1FzenUzN0RoUzMzSEljalJJVTdlSzRZLVI0QlVvOGllQ3BfTHc2bHZSOGNzaDlYSUoxZUpTNlBfbmEtVGh2YnJMLXBpRzJvLUl3VUZmdmVQaTBVUGhjbUVSNzl4U0VGV3JjaHE5d1RSQUNKbEpVTjA4S2HSAd4BQVVfeXFMTkJPcTlwWDlrRXlVX2RVZl81aFFuMS1tRE5iR3Y4RmJZc2U1czNtOThvanVVWE53bWJJcjJFeU9uZ0czS3lDTEstcjFrUG1hTTdCZ3FJSGw0X1VlQ25RekttbkZmZFdORmkwZm56c2VRb1dLWEdESjR0YUxxbVlQN1dGSjZRSUdCREtoMWd1SEVuY1JQOF91T2NhQ3JlODhLb2xlc2pySm5RSWRqQlRsNDJVMlh5YTZxUDVabEZ3QVZKWHdoRzhpUnJ0R2VPR21QVC1PMm4zTUZvRjlpa3pn?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -217870,9 +217898,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-21T13:15:44+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires 4+ years in B2B SaaS marketing and HubSpot CRM management, which does not match Shlok's supply chain and operations background or his 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-21T13:15:44+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -217882,7 +217916,8 @@
     "at": "2026-11-20T13:31:55+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role requires 4+ years in B2B SaaS marketing and HubSpot CRM management, which does not match Shlok's supply chain and operations background or his 1.3 years of experience."
   },
   {
    "id": "L1806",

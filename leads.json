@@ -215962,8 +215962,8 @@
    ],
    "updated_at": "2026-11-19T15:09:24+05:30",
    "research_attempt": {
-    "at": "2026-11-21T13:15:11+05:30",
-    "why": "the posting page has no readable description",
+    "at": "2026-11-22T03:23:11+05:30",
+    "why": "could not open the posting: HTTP 429 for https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/4492406424",
     "by": "research-worker"
    },
    "live_check": {

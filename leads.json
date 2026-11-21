@@ -56011,9 +56011,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Archit Agarwal"
+    },
+    {
+     "at": "2026-11-21T15:17:30+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Harry Sehrawat"
     }
    ],
-   "updated_at": "2026-11-20T16:17:24+05:30",
+   "updated_at": "2026-11-21T15:17:30+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

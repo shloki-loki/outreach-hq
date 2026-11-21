@@ -54162,9 +54162,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Shivam Satrawal"
+    },
+    {
+     "at": "2026-11-21T15:05:23+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v1 email to Rohan Vijay queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-21T14:58:40+05:30",
+   "updated_at": "2026-11-21T15:05:23+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -54495,9 +54501,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v1 email to Chris Re queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-21T15:05:23+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v1 email to Brandon Yang queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-21T14:45:20+05:30",
+   "updated_at": "2026-11-21T15:05:23+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -57395,9 +57407,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v1 email to Alok Thakur queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-21T15:05:23+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v1 email to Vinay Singh queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-21T14:45:20+05:30",
+   "updated_at": "2026-11-21T15:05:23+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -57949,9 +57967,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v1 email to Max Mathieu queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-21T15:05:23+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v1 email to Vivek Vaidya queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-21T14:45:20+05:30",
+   "updated_at": "2026-11-21T15:05:23+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -58848,9 +58872,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v1 email to Siddarth Jain queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-21T15:05:23+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v1 email to Dipesh Mittal queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-20T16:34:11+05:30",
+   "updated_at": "2026-11-21T15:05:23+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -59081,9 +59111,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-21T15:05:23+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v1 email to Prashant Kumar queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-21T15:05:23+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -59214,9 +59250,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-21T15:05:23+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v1 email to Chandranshu Sinha queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-21T15:05:23+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -59321,9 +59363,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-21T15:05:23+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v1 email to Arjun Attam queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-21T15:05:23+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -59441,9 +59489,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-21T15:05:23+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v1 email to Pawan Gupta queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-21T15:05:23+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -59561,9 +59615,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "founder_reoutreach: rule score 45"
+    },
+    {
+     "at": "2026-11-21T15:05:23+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v1 email to Rohan Tomar queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-15T00:59:25+05:30",
+   "updated_at": "2026-11-21T15:05:23+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

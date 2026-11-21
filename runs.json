@@ -1,18 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-15T11:56:03+05:30",
-   "agent": "live-check",
-   "ok": true,
-   "summary": "1348 postings checked: 297 live, 3 moved to the Bin, 1048 could not be checked",
-   "stats": {
-    "checked": 1348,
-    "live": 297,
-    "binned": 3,
-    "unknown": 1048
-   }
-  },
-  {
    "at": "2026-11-15T13:06:35+05:30",
    "agent": "lead-scout",
    "ok": true,
@@ -3841,6 +3829,19 @@
       "gemini-3.5-flash-lite"
      ]
     }
+   }
+  },
+  {
+   "at": "2026-11-21T22:45:17+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
    }
   }
  ]

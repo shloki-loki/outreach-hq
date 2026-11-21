@@ -5399,6 +5399,15 @@
    "title": "research-worker run marked failed 21 Nov 13:22",
    "detail": "Run logged failed but summary shows 23 researched (4 qualified, 19 rejected), 16 left for a person. Work was done; failure flag cause not visible in the log. Check run output on the Mac. Writer also stopped at 13:26 because Gemini free quota (20/day/model) was used on all four models: 0 drafts today.",
    "ref": "I0041"
+  },
+  {
+   "id": "J0601",
+   "at": "2026-11-21T20:12:18+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Supervisor/check keeps failing on expired claims",
+   "detail": "supervisor/check at 16:43 IST 21 Nov failed listing M0109-M0119 as failed sends and W0006-W0008 expired claims (I0014). Failed sends are transient SMTP resets (see I0029-I0037); work-item claims are stale bookkeeping and mask real failures.",
+   "ref": ""
   }
  ]
 }

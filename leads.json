@@ -223330,7 +223330,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492540538",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-consumer-growth-at-time-hack-consulting-4492540538",
@@ -223346,7 +223346,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Hiring PMs For a Consumer Fintech Company In Bangalore.\n The fintech company is around 8+ years old, profitable and recently raised a good round of funding. They have a strong foundation in terms of tech infrastructure built in-house. Products: Personal Loans, Investment, Insurance, UPI, etc.\n Employee size: 1000-1500 | Tech Team size: 70 people | Product Team size: 20 people\n Experience: 2-3 years in a product company (not B2B/SaaS).\n Top 3 Requirements\n Experience with Backend systems and API workflows\n Hands-on with SQL and data visualisation tools\n Should have worked on driving growth and funnel optimisation\n Why join them?\n Profitable for the last 3 years and Fast-track career growth\n Recently funded and will launch new consumer credit products soon\n Skills: api,fintech,growth\nSeniority level Mid-Senior level | Employment type Full-time | Industries Business Consulting and Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -223361,8 +223361,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -223372,15 +223372,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Product Manager at Time Hack Consulting for a fintech client, asks 2-3 yrs PM experience; your background is Ops and Data, not PM.",
+    "fit_notes": "The posting asks for: '2-3 years in a product company (not B2B/SaaS)', 'Experience with Backend systems and API workflows', 'Hands-on with SQL and data visualisation tools', 'Should have worked on driving growth and funnel optimisation'. Shlok has SQL and technical backend exposure via his internship at InsuranceDekho ([idekho]), but lacks direct product management experience and does not meet the 2-3 year PM requirement.",
+    "pay_notes": "Pay not stated in the posting; no evidence found in web search.",
+    "culture_notes": "Company is listed as Time Hack Consulting acting as an agency/consultancy for an undisclosed 8+ year old fintech company. No employee reviews or ratings found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T13:18:45+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -223404,14 +223413,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-21T13:18:45+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role is at a consulting firm ('Time Hack Consulting') rather than the direct fintech company, and the posting asks for 2-3 years of product management experience in a product company, whereas Shlok has zero formal product management experience.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:18:45+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role is at a consulting firm ('Time Hack Consulting') rather than the direct fintech company, and the posting asks for 2-3 years of product management experience in a product company, whereas Shlok has zero formal product management experience."
   },
   {
    "id": "L1856",

@@ -167969,7 +167969,7 @@
    "key": "humanarchive|chief of staff|bengaluru",
    "type": "job",
    "company": "Human Archive",
-   "company_domain": "",
+   "company_domain": "humanarchive.ai",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "A startup that manages robotics data annotation operations.",
@@ -167977,7 +167977,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "hiringcafe",
    "source_id": "ashby___humanarchive___08389253-b397-4e12-bb3f-7278e12fe4b9",
    "source_url": "https://jobs.ashbyhq.com/humanarchive/08389253-b397-4e12-bb3f-7278e12fe4b9",
@@ -168008,8 +168008,8 @@
    },
    "score": {
     "rules": 65,
-    "research": null,
-    "total": 65,
+    "research": 76,
+    "total": 72,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -168019,15 +168019,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Chief of Staff leading data ops at a YC-backed robotics startup ($8.2M raised, 2+ YOE); your Ola Electric S&OP and CEO/COO ops experience maps directly.",
+    "fit_notes": "Posting asks for 'Ideally 2+ YOE' to lead end-to-end data annotation operations, manage annotator workforce, track daily metrics/throughput, build operating systems with engineering, and work directly with the founder. No MBA or consulting required. Shlok's experience working directly with the CEO/COO on ops [ceo-coo], managing S&OP production planning and metrics [sop], and optimizing dispatch workflows [o2d] directly addresses the requirements.",
+    "pay_notes": "Pay is not stated in the job posting and no external pay data is available for Human Archive.",
+    "culture_notes": "No Glassdoor or AmbitionBox ratings found. Company is a recently funded YC W26 startup ($8.2M raised).",
+    "hook": "Human Archive recently raised $8.2M to build physical AI robot training infrastructure using gig workforce operations in India.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXR5OVVxOVhSWU5OeDE2UnJGWGk3bVk5a2xMWFJQSzgxZlAzTmViTXE5WHViMWdCbW11dElKNTRjUUJULXBEM1V1LVJ1NmQ5ZENJaDZPNE1EQlFmVk9sQk95d24tZEFQakY3VzMtcWVRMXplXzU2Ti02UEkwdjY0WEc5amhweW16U1g2QloyNUJpajljNm4xSi1lemZQdEpyc1NxT0E2ZnJuY28?oc=5",
+    "researched_at": "2026-11-21T22:08:02+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Inside Human Archive: The Y Combinator Startup Recording Indian Workers To Train The World’s Robots - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGRIaFRMR0pXQmVtaGZSOHFDdnlSWncteHNRTXNrYlFDOGhoSkwzWDJ2OGxQSEJoeWdZNm9hYS1PRDJwdUhWVzBpWnMyZG5jaXp5Z0JLYlFFWG93SXhoam1hUGE2TGZrTE82bFhSbWd4dW83VGZGLVFIendzdEl3ZDdFal9uVWo2RnFtN3VHSzdJeml3OE8zV0h0U1RFMWI2SE5Gb0tWc0F5dHB3LTZjcUJ3?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Human Archive raises $8.2M to turn India's gig workers into robot trainers - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXR5OVVxOVhSWU5OeDE2UnJGWGk3bVk5a2xMWFJQSzgxZlAzTmViTXE5WHViMWdCbW11dElKNTRjUUJULXBEM1V1LVJ1NmQ5ZENJaDZPNE1EQlFmVk9sQk95d24tZEFQakY3VzMtcWVRMXplXzU2Ti02UEkwdjY0WEc5amhweW16U1g2QloyNUJpajljNm4xSi1lemZQdEpyc1NxT0E2ZnJuY28?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "AI training data provider Human Archive raises $8.2M - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZi10akg3M1BKN2JPVi1FZ2xHMmFRUEN5bkVjZlBxcWRPQ1dFMVJaYVExck9iWlZ3ajVuM0x4MV9tcElPb0I2a2p3QlBwNnMzNVh0VkV4NWZpLVlXLVA5eTVDSy1idTJweHZPUlFhU0l1OC16YVRTMmtETHJXWjdKcFd0SGJQSDc5UGlkcTVaazUydw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Exclusive: Human Archive Raises $8.2 Million to Turn Indian Gig Workers Into Physical AI Robot Trainers - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUENxazJqdmhiMkJZV1dYTjFtRnhUVVg2bWo5bGRUX0FpeE5qWTEzYWR6S0NWQUJHNXN6NDE3VWFpRFdFOVMteFE2ZUpmTlN0MDl6eHlObEoxQ1BrOGp1TQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Robotics Raises: Stord, Human Archive, August Robotics, Roboxi, PerPlant - A3 Association for Advancing Automation",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY2oxbWRMbWUzRXUzN3I4eVBjcHJvMFFOV2trZ1IwNmxCNzZLVXd1VDYtWlhnblR1Tkh6U0RnQmtrb0dfVldNWEdNT1doeVdlOTZEMUpzWTQwZkxhMkZod0ZRNFhaMzRUdGdlbDRtZzFyUjYxWEU1Nzg3MVpwb3FCR3VBZ1ZmTVR0NGhLME5Xa0tSV1dDN25OV1lxOHlkNVQzU2ViWTdvWjdFQ0pDdk9xUlFBTjEyVWRHNHhB?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Human Archive wants India’s gig workers to train tomorrow’s robots - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVFVUk9QYXBvcXZZaTFiMTlPUGJSUE5FWTdFVVQ5U21zNXd1UVdzRzNMWFo1aFBMVDdzZmJyMHloUkxJaUVwUGxhV0pFaWlpQWNQNWlnTkdLRVhlWHp4S1RzaUUxVjF1MUNpUGxwMlkzTW1TMGtiWFZHd3hJdWo0eE5HZ1FmNFktNkdFSF9Zd3VHMkwzb2tZ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "o2d"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -168051,9 +168093,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 65"
+    },
+    {
+     "at": "2026-11-21T22:08:02+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 72: qualified"
     }
    ],
-   "updated_at": "2026-11-15T01:20:54+05:30",
+   "updated_at": "2026-11-21T22:08:02+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
@@ -168063,7 +168111,8 @@
     "at": "2026-11-20T13:35:10+05:30",
     "why": "the posting page has no readable description",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1357",

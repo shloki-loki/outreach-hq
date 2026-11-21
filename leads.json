@@ -227244,15 +227244,15 @@
    "key": "ethos|product operations analyst|bengaluru",
    "type": "job",
    "company": "Ethos",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "ethoslife.com",
+   "company_url": "https://www.ethoslife.com",
    "company_linkedin": "https://www.linkedin.com/company/ethoslife",
    "company_note": "",
    "title": "Product Operations Analyst",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492918940",
    "source_url": "https://in.linkedin.com/jobs/view/product-operations-analyst-at-ethos-4492918940",
@@ -227268,7 +227268,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "About Ethos\n Ethos (Nasdaq: $LIFE) is a leading life insurance technology company on a mission to protect families by democratizing access to life insurance and empowering agents at scale. With its robust three-sided technology platform, Ethos is transforming the life insurance experience for consumers, agents, and carriers alike. Ethos offers instant, accessible products and a seamless online process that requires no medical exams and just a few health questions; it eliminates traditional barriers, making it easier than ever for everyone to protect their families. Ethos is redefining how life insurance is bought, sold, and underwritten.\n About The Role\n We’re looking for a Product Operations Associate to join our product team, and help support growth of our suite of products. In your day-to-day, you'll collaborate with a talented team of Product Managers, Engineers, & Designers, taking on a wide range of mission-critical initiatives, helping us make rapid progress on the experiences we offer and the underlying systems that make those experiences possible. The ideal candidate will work cross-functionally with teams throughout the organization to own the process of collecting, triaging, and sizing software and automated communication issues to help shrink the feedback loop from discovery to resolution.\nThis role requires a candidate who is excited about hands-on triaging and investigating technical issues for users (end consumers and internal stakeholders). The ideal candidate is passionate about building processes, establishing documentation, and up leveling the product development process. We’re looking for someone who puts consumers first with a meticulous attention to detail!\n Duties And Responsibilities\n Designing and implementing key processes that help us scale our products\n Creating and maintaining documentation to make processes sustainable and scalable\n Facilitating internal and external communications around feature launches, training materials, and onboarding plans\n Ensuring that bugs are being escalated and triaged appropriately\n Monitoring alerts and investigating potential product performance issues\n Establishing high quality processes and infrastructure for cross functional stakeholders to share issues with the consumer product team\n Codifying documentation of internal best practices, tooling, and process improvements\n Ensuring a thorough QA program for all product and feature releases\n A deep understanding of customer needs, and strong motivation to tackle their problems\n Strong analytical skills (experience with SQL preferred)\n An owner’s mindset - you don’t shy away from the hard stuff\n Strong collaboration skills in team environments but able to act quickly as the decision-maker\n Qualifications And Skills \n A minimum of 2 years of relevant product operations experience\n Excellent communication skills (written and verbal) \n Comfort with quality assurance\n A passion for fixing problems, honing processes, and driving projects forw",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -227283,8 +227283,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 68,
+    "total": 67,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -227294,15 +227294,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Operations Analyst at Ethos, asks 2 yrs; your S&OP planning and process documentation work maps directly.",
+    "fit_notes": "The posting asks for \"A minimum of 2 years of relevant product operations experience\", strong analytical skills (SQL preferred), \"Creating and maintaining documentation to make processes sustainable and scalable\", and \"Ensuring a thorough QA program for all product and feature releases\". Shlok has ~1.3 years of experience (a normal fit) and strong operations ownership at Ola Electric across production planning and process building ([sop], [mrp], [ceo-coo]), plus SQL skills. The 2-year minimum is a slight stretch for his 1.3 years, but his high-impact scale at Ola Electric compensates.",
+    "pay_notes": "Pay is not stated in the job posting. Evidence from ICICI Direct notes Ethos Q2 profit jumped 26% to Rs 29.4 cr [S6], indicating strong financials, but specific salary bands are unavailable.",
+    "culture_notes": "Ratings, review counts, and specific cultural flags were not found in the search evidence. Public reports show strong financial growth (e.g., Q2 profit jumped 26% to Rs 29.4 cr [S6]).",
+    "hook": "Ethos Q2 profit jumped 26% to Rs 29.4 cr as revenue surged 30% YoY on strong volume growth.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVnpLelEzb1oxbWxDdkFRN2xJWVhZTk9maXByZ1JKVmQwZlFwMDdsUUNuWGhZU2U1RVhhWXNwNGtsTjIxTmlvaGFIVFJFT1NJMmZkUE9ESVhxbnRzOEFqWU1fOVp3cGJLUU5UN1F6Qlgtb25VY1RFXzdsSEtaZWdXSHZpOGl1VjlTREZLd2xaMDZ4TnZXZWNXX0E0SHUybVZQOWh5WXVSNlZtbDFqQktpR2dBS2NPaURtR2duem9GOUtBaGV1cmNVUzZTUWpwNnE5aWFWaU0yU2JfOGtU?oc=5",
+    "researched_at": "2026-11-22T03:24:39+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "ETHOSLTD Share Price Today - Ethos on NSE/BSE - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VUUdhS1VDc1JfWk1kUzZTZm9zaU5OdEZ1NmlWT09ITDNVVGhWS1FOY1RJdHJ0UEQ0djhrcmQyU05nbkNfZlNUYzZ4QWs3UQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Stephenson Harwood advises Ethos Partners on investment in House of Marketers - Stephenson Harwood",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbjQxM3pveDk5c2h3ZjJPYlBkVnlwTnpwTnBSWFVDNWZpMnQ4OVNRM2dwRm4yVWk4ZTdHU1hYOU1pWndsWGNPMjB2NXczVmFrbFZfdzV0UElOREgwQXViSVhlWnhnWmNLaXBJOGRVSWlBR2tucUNTUXVEc1lSeV95V2MwLXJpY0t1WjFxU181LWZLYVhIU2hiOUc5NzViN0hWMUtFU053QnFTS2NsZzBNSE01Qm5JeW1P?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Ethos shares hit 20% upper circuit intraday after 47% jump in Q1 net profit - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSk1aWGNLU1VKZmxzbkZsb1BRbm1yZjhzOWRhdWUtcFoyb2E0bWxKOGMwUWtSOThkSi1RVFdsT1lScXV4YmRRMEVTX2s2eVpZWHNUNUhTMkMwMGNmWGx1Zy1PeFdGSHh6TkE5SklmT2pSOEtRdGNuRThFdjhoRjRXTGhNV0djTHNkb01tdFQ3VjFZZ1ZHVjM1OFZZVGdYVnhQdTYtWGdFM1VMUlFyQ0poZENxUUtXWGFDdnVIZVNEM09WNjNWdmFRd2lOczBGSUZGTlVSRNIB2gFBVV95cUxPOUc3bFg1V1VJZTRKV3N1Wlh0RlNEaE1OcFptNGNiN3lVdzl5anFnOThXMUhGRFpncFlyaXlEcXRValVIOExYaWNfQlljZWo4eE00SEl1MkJoX3dMTDFJR2FtbEJPb0doM3FzUk50NHNTVE52XzgyV240QnNxN1FBRUgtQlpIOTNyRWtEYnV0a2xaV0RGTDV1Z240Y0VrcllDWDYyb1J4bEk2NTllQ2oxYXBMZXVlcFNPaFhmd2hublQ3NXVmcVh4SGVKTGtsb1JrYWtEWE8wQ0F5UQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Quant Mutual Fund Buys Rs 175 Crore Ethos Stake, BofA Picks Kalyan Jewellers - NiftyTrader",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa29iQnlHaUJ3eXZVRjlVdlowMkJObDZoWDMzeUJkSzE4ejFubm9xTXlydndGYnF3V29iTE1yQ2tQNlZ1ZTNUeC1YYzFkaUc3SlRNT2N4Ym1xY1JOUGhFSnJ2TlFsN3dnbDlmb1diU2VLa0NscmFNdy1BblktLU1EOTFNa08?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Kroll’s Investment Banking Team Advised Ethos Partners on Its Sale of Motocaddy to Corbel Capital Partners - Kroll",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QVTBvNVVPYjg4NnlGdGxLbE1vSmNFOEVWRVl5Q1NwbFppaU42YVlXN1VHVGxySGpRSlRrRFdUM0wtMmZ1aEJqT3p2ajdGWWNFWENIVUlxRjhBcElqVTVUM0taMXhuRXRWRmhxMEpTWmxhLThUeF9fb3h3?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "ETHOS Q2 PROFIT JUMPS 26% TO RS 29.4 CR AS REVENUE SURGES 30% YOY ON STRONG VOLUME GROWTH - ICICI Direct",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVnpLelEzb1oxbWxDdkFRN2xJWVhZTk9maXByZ1JKVmQwZlFwMDdsUUNuWGhZU2U1RVhhWXNwNGtsTjIxTmlvaGFIVFJFT1NJMmZkUE9ESVhxbnRzOEFqWU1fOVp3cGJLUU5UN1F6Qlgtb25VY1RFXzdsSEtaZWdXSHZpOGl1VjlTREZLd2xaMDZ4TnZXZWNXX0E0SHUybVZQOWh5WXVSNlZtbDFqQktpR2dBS2NPaURtR2duem9GOUtBaGV1cmNVUzZTUWpwNnE5aWFWaU0yU2JfOGtU?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -227326,9 +227368,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-22T03:24:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-22T03:24:39+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -227338,7 +227386,8 @@
     "at": "2026-11-21T13:20:13+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1872",

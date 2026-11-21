@@ -226648,15 +226648,15 @@
    "key": "hempelas|business development manager infrastructure|bengaluru",
    "type": "job",
    "company": "Hempel A/S",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "hempel.com",
+   "company_url": "https://www.hempel.com",
    "company_linkedin": "https://dk.linkedin.com/company/hempel-as",
    "company_note": "",
    "title": "Business Development Manager – Infrastructure",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491623901",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-%E2%80%93-infrastructure-at-hempel-a-s-4491623901",
@@ -226672,7 +226672,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Business Development Manager, Infrastructure \n Do you want to build a career with responsible impact?\n Do you have the drive to build strong client relationships and grow strategic accounts in the energy sector?\n Then you could be our new Business Development Manager, Infrastructure, South India\n Are You Looking to Build a Career That Contributes to a Brighter Future?\n The Business Development Manager is tasked with expand and develop market opportunities for Hempel in the Protective Coating and cellulosic passive fire protection i.e. Infrastructure and Performance OEM segment.\n This role places an onus on developing strong relationships with industry influencers and important stakeholders in driving and penetrating specifications and business development efforts.\n Drive business development activities and collaborate closely with various function (Sales team, PFP Estimators, Marketing and TS team to achieve sales growth in Infrastructure and Performance OEM segment.\n Support overall Marketing activities for South India events targeting key non-buying accounts.\n Develop business development strategy to promote, expand and develop market opportunities for infrastructure and P.OEM in South India.\n Identify and establishing new customer contacts, maintain existing relationships with the assets owners, architects, civil engineers and main contractors, and to elevate Hempel to the “top of the recall” brand amongst these key customers.\n Speak to OEMs, major decision maker in organization, tier suppliers to prospect, open the opportunity, and secure large scale projects\n To strengthen relationships with country regulatory agencies other relevant parties. \n Identify and target to specify Hempel systems into transportation hub, data centers, factories/warehouse, water and waste water treatment facilities, bridges, port equipment and cranes etc. \n Prepare technical project proposals & presentations for submission to developers, architects and civil structure engineers based on the project specification criteria· \n Develop project pipeline on targeted segment and ensure there is a regular and systematic approach to project tracking through CRM (project details, awarded stakeholders and tendering dates etc.)\n What Are We Looking For?\n Required Education, Experience And Job-related Skills\n Good experience in sales & Business Development· \n Minium University / bachelor's degree or above education \n At least 5-8 year in the building construction related industry; preferably in coating, e.g a materials’ related position in one of the major owners/engineering companies, together with a sound business acumen, and/or a key account management position, working for an international supplier of technical solutions to the construction industry· \n Chemical background is beneficial· \n Good presentation skills\n Strongly communication skills\n Understanding of buying process for Infrastructure segment \n Should have worked with cross functional teams and been able to drive r",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -226687,8 +226687,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -226698,15 +226698,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "BD Manager at Hempel asks 5-8 yrs in building construction/coatings; you have 1.3 yrs at Ola.",
+    "fit_notes": "The posting asks for 'At least 5-8 year in the building construction related industry; preferably in coating... together with a sound business acumen'. You have about 1.3 years of experience total, which makes this a significant experience mismatch. No MBA or consulting is required, but the industry-specific tenure requirement is well above your 1.3 years.",
+    "pay_notes": "Pay is not stated in the job posting or evidence.",
+    "culture_notes": "Hempel A/S is a global player in coatings with over 7,000 employees worldwide, but specific review metrics were not found in the search evidence.",
+    "hook": "The Business Development Manager is tasked with expand and develop market opportunities for Hempel in the Protective Coating and cellulosic passive fire protection i.e. Infrastructure and Performance OEM segment.",
+    "hook_source": "https://in.linkedin.com/jobs/view/business-development-manager-%E2%80%93-infrastructure-at-hempel-a-s-4491623901",
+    "researched_at": "2026-11-21T13:21:40+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -226730,14 +226737,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-21T13:21:40+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role asks for 5-8 years of experience in the building construction related industry, specifically in coatings, whereas you have about 1.3 years of experience. Furthermore, pay is not stated.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:21:40+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role asks for 5-8 years of experience in the building construction related industry, specifically in coatings, whereas you have about 1.3 years of experience. Furthermore, pay is not stated."
   },
   {
    "id": "L1888",

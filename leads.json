@@ -195876,15 +195876,15 @@
    "key": "dxc|associate manager business operations|india",
    "type": "job",
    "company": "DXC Technology",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "dxc.com",
+   "company_url": "https://www.dxc.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Associate Manager Business Operations",
    "tier": "1 - Strategy & Ops",
    "location": "Gurgaon",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "470755",
    "source_url": "https://www.instahyre.com/job-470755-associate-manager-business-operations-at-dxc-technology-gurgaon/",
@@ -195920,8 +195920,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -195930,15 +195930,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Manager Business Operations at DXC Technology in Gurgaon asks 5-9 yrs, well above your 1.3 yrs experience.",
+    "fit_notes": "The posting asks for '5-9 Years' of experience and responsibilities in operations management, forecasting, invoicing, and account leadership. Shlok has about 1.3 years of experience. While his operational work in S&OP and order-to-delivery ([sop], [o2d]) matches business operations, the experience gap of 5-9 years is a definitive rejection.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary evidence is available.",
+    "culture_notes": "No employee ratings or culture metrics found in the evidence. DXC was named a Leader in Avasant's Manufacturing Digital Services 2026 Market Insights Report [S1].",
+    "hook": "DXC was named as a Leader in Avasant's Manufacturing Digital Services 2026 Market Insights Report.",
+    "hook_source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVlTM3lQZ0YzM2JnOVhNTmE1VzlHanRNcnZfSkpramM2ZUUzaWpaVGV4QUZHaU5lUzBVcURMdjVNNWM4eTR6MFp6MEJmdkFybjc1V2lKbENYZUVWTlYyZWJsRmVjUldVVlFGLTI0WWVKeTRxcDE4QXJYVTJVLVZCSXZiam1nUk80bFlOTDNFODkyUkpWSVZkR3FOWmpnTm1nay1PNXJtbVJMbG5pazU4Qw?oc=5",
+    "researched_at": "2026-11-21T22:24:45+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "DXC named as a Leader in Avasant's Manufacturing Digital Services 2026 Market Insights Report - DXC Technology",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVlTM3lQZ0YzM2JnOVhNTmE1VzlHanRNcnZfSkpramM2ZUUzaWpaVGV4QUZHaU5lUzBVcURMdjVNNWM4eTR6MFp6MEJmdkFybjc1V2lKbENYZUVWTlYyZWJsRmVjUldVVlFGLTI0WWVKeTRxcDE4QXJYVTJVLVZCSXZiam1nUk80bFlOTDNFODkyUkpWSVZkR3FOWmpnTm1nay1PNXJtbVJMbG5pazU4Qw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "DXC and Anthropic Announce Multi-Year Global Alliance to Bring AI into Mission-Critical Enterprise Systems - DXC Technology",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHpvVTBab1Qtc2dtZlpIS3BBcVFidFgtc3pPZWtyNGRPMWVjN0c5d1hlSkUzM2pUdFhBdURVNmMxakFyeTV0YzJJeGJZcVhENHhFTzVnNlBURkxYZlhfeWVEUGlsTnpuRC1BNEp0RFA4cnEyVUNRc0xaVjFEVDdKR0xvT0hSME40LWU1Rzh0SUJUYXVkWkpKZGU5NHgxM1U3TFdpN0dUSkQ0YXp3X0c0bi1jNFNmczlMY0kwMnZob25xM2VxblV4S3BCcVFHQlVZZzdKUWRkYw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "DXC Launches DXC CoreIgnite to Help Financial Institutions Rapidly Connect to and Scale Fintech Ecosystems - DXC Technology",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaUlaSkxSdk5fUndxRVQyU2tUa0FubVZ0SF9wZV9RaVRZcy1oZW9TT0ZncURFb2V0N3g5aVlwcmx2TklhOXZqTGFySi1CdG5FZ1EyTFdLME82dlQwXzNrMEljXzdKS0dvUlh4YlJBS0pPTlVBdGZUYTVVWVRJSmNfd1BSLWNFRFhRYmZ3R0RHOG1GbmxwaGtKOF82WjJuYkhncW5VUkpmUThxRjlNTVA2cHJSdnh6NC1leXhESU1GZFNWZ1lLX05mQ2dKS2ZKZm5fNGtpd0Rqaw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Perth Airport partners with DXC as Master Systems Integrator for New Terminal Project - DXC Technology",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkt3VUpXcjhINWMycHo0eWUtcUlOTFkwZEZNd3B1bktiUHc2WmhSRVRmck5IVkVzenBEN3JpM3Y3RzBpQmswTmkwX3BpWXlrMEY1NFAxeXcyZkZfNkt6c2QybGdUR0xyblBsSWFGejlOWG5oWi1ZVVp5Tko5NjlicDZYNmRSamIxeC1HempJbWR2OHFzYlR2a2hiTVBjUXl6aUpCVFhVQzBkVXJ5Y19NUGVKMTRwYkpNZGI4?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "DXC to Simplify and Strengthen If’s Technology Estate Across the Nordics with DXC OASIS - DXC Technology",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXE1OHVjQzA4WmpUWEctWUg2Tndnc0Vpb0gyT2N6eFRJeks3Vk9HY3NrUWJHRGNzZEhKTnFpT3gycjY0XzBXY1hzeE9XMTMtZy16LTJzLVpkamJMVVdjVDZuQ2FVQXctVHBSQTZGRks4TE9nYWxZb0NTeDRBWDhlejZMQ2lBekxzREoxcTdEc1F5Nk9zNGJEQWd0MlRXTFJ4c0dVdm8zMlFVMHpHLWRXSDFJUmpiZE5UbUlrVg?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "DXC Welcomes Milan Rao as CES Americas Leader to Accelerate DXC Engineering, Applications, Data and AI-Led Growth - DXC Technology",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUjZwbFJ3MEpmalMwa3R5eFZhUmVudzhmaTlQZ2xXd1hxNTFxMmNxa2p0cGQ2TFEzRlZ6dzEwYzJzNmhWVnREMGZuWjk3WnpNcDEzZ0tGa05zdWlhSnYwMTlOTF9WbFRGdjVIbldieDJkcEQ3Ylh6UUpBTE15RHNsME80dVZUczgwcVhHNDVjOWpzT2YtV0FJWVZ2TWt0ZjRQZjFUNVQyaE5jeUJzYms4cUNtb0wzYlNoM0s5azFWZ3ZjRkFrRHBldzR4dHFWWV9sNS1HdW1fYzVFWnc0aHc?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "o2d",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -195962,9 +196004,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:24:45+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The role asks for 5-9 years of experience, whereas Shlok has about 1.3 years, far exceeding his maximum threshold of 3-4 years.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-21T22:24:45+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -195974,7 +196022,8 @@
     "at": "2026-11-20T23:08:09+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 5-9 years of experience, whereas Shlok has about 1.3 years, far exceeding his maximum threshold of 3-4 years."
   },
   {
    "id": "L1599",

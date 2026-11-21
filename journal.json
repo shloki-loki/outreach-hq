@@ -4868,6 +4868,15 @@
    "title": "Ran",
    "detail": "9 researched, 0 qualified, 9 rejected, 3 closed (404), 0 emails; scrape under 3h old so skipped; Apify and stale re-verify not used",
    "ref": ""
+  },
+  {
+   "id": "J0542",
+   "at": "2026-11-21T14:40:11+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "Naukri/instahyre/Talentiser pages not fetchable by curl",
+   "detail": "Naukri (UC leads) returns JS-only shell, instahyre returns 403 (GoKwik L1905, HP L1908 left unresearched), LinkedIn rate-limits with 429 intermittently. Posting liveness could not be confirmed for UC L1893/L1894; rejected on pay evidence instead.",
+   "ref": "I0039"
   }
  ]
 }

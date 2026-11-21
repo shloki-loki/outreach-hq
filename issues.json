@@ -531,6 +531,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0039",
+   "key": "lead-scout:Naukri/instahyre/Talentiser pages not fetchable by curl",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "Naukri/instahyre/Talentiser pages not fetchable by curl",
+   "detail": "Naukri (UC leads) returns JS-only shell, instahyre returns 403 (GoKwik L1905, HP L1908 left unresearched), LinkedIn rate-limits with 429 intermittently. Posting liveness could not be confirmed for UC L1893/L1894; rejected on pay evidence instead.",
+   "status": "open",
+   "opened_at": "2026-11-21T14:40:11+05:30",
+   "last_seen": "2026-11-21T14:40:11+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

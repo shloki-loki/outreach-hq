@@ -214624,7 +214624,7 @@
    "key": "onsite|product manager|bengaluru",
    "type": "job",
    "company": "Onsite",
-   "company_domain": "",
+   "company_domain": "onsite.club",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "",
@@ -214632,7 +214632,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "167584",
    "source_url": "https://www.instahyre.com/job-167584-product-manager-at-onsite-2-bangalore/",
@@ -214663,8 +214663,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -214673,15 +214673,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Product Manager at Onsite asks 3+ years of product experience, exceeding your 1.3 years and background.",
+    "fit_notes": "The posting asks for '3+ years of product management experience along with an academic background from a Tier 1 University (Btech or MBA).' Shlok has ~1.3 years of experience primarily in Strategy & Operations (Ola Electric) and an IIT Guwahati B.Tech, but lacks the 3+ years of dedicated product management experience required.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "No glassdoor ratings or specific culture metrics were found in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T22:28:00+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Bloom Energy Introduces Power Connect, Cutting Onsite Power Installation Time by Over 40% - Bloom Energy",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLTFKaFpSU0FFTV9OWDI3Q1BTajdtYldHeVR5eHdQR05EbmFENGFiSUN1QXVMWnEzY2JQcWJmeE40blpnQWV3Nm1Wclh3YnQxa2hLZjlKNDBjbHhOVUF0Snp0ck9SRUU0cXdKc0NzQlNiT2RxSDZCUGNOVDJOSU04UjljQk1mU05LREYyaXY4X0tWM3pod0pDZktQMFktNWFmamNVUmZNVUVHQkQ0XzFXMGwzMzE0MGhDUXJEci0wc3FQbXlINDhLc21WM1hhRVJwRTlaanRWbVdIeG5qelhDSl92UzBiNFZjWGw2S0ZrRllZVm1mTEZveVhITnRHT3VlTWJBVjVR?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "AAAI-27 Onsite Childcare - The Association for the Advancement of Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3anFKM2kwUnBMajB3VEpmMkhZY0VvYkYzckRCYzBaampkMVEzMndORkFuWERFMzFXbTlna0FEaEY5UnRDM0htbnNPdjdvd3lGbnA2SWtlSzFWc013RkV3NnJQcWM1UkpTWFNoX1AwakNGejJ4?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Guidelines for Septic and Onsite Wastewater Systems | Floods - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDBWN3JmWjAxajJERHBZZ0VEbFpXMDZwSTdjN1A4T1VPTnhBdWJnbDZxa1BSRzFxT3RGRFRaZTFoMDB3dXY3bUlsbHVkOWNJUGNRNm1yd29taE9zd0xmbC0zMWFCUlFYZkR6YVV0Q0hDc3lLZFhHam1ab18wXzJzblBQaFVQODE2bVFHR0lFUWpObUwt?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Static Sankey Diagram of Onsite Generation in U.S. Manufacturing Sector (2014 MECS) - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMU5qVzZrcUozWG1WeGlGNGZGa29DcXdRdjJrbDRhRjFPdDRoWHJMMDlRN0QtdG9vSU9rU3pXXzZGWlFGT1RyODNfQjB3VWMyUHhyZk1jby1WQTJLTWtBSFZuczNTZmx2WjFsMFBYdkJ1eWZ3d3hWS1MydnhPLXA0dS1MRGt3OXhTWE9VVzVXaEM0eXBDZWdpeWdrVk9BRnRNWkU4OEdReWg?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Division of Onsite Water and Wastewater Services - Virginia Department of Health (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjhEVmphYWhVYWVXdHF2NFRycXl0WlJKWUdPQUhETlRIWVR6X2dyLVZqOEM1V0p1V2t0X1NDUVZWZmlvTFdRWkZRNGRBek5LZG5tZ290YnotYlFzLXVKYmFMUXlkTTB0NTlLVU85bFNIeURTanhvd0dZNXBDa3EzNXg0U1EzVVdvaDdWTDdQUXhQV1pGYS04WG1YTWFUaUtIRWN1UjdiOW0xTkVfenc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Wärtsilä to supply 282 MW onsite power solution for a U.S. data center as AI growth intensifies demand for reliable power - Wärtsilä",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdUI2SzlmRHZoMldnck4yaTRVRVBpOGpTT3BpWWlscDkzV2p4ak42eDdCcFM1d3hHMXFXWEFUOXhqcE1BX3BTcnd6SjdEYWpzTm9mMGtyTWtPZUZKbDdWWnBMRXQ5bFlwOTZTUDFiR0doTUQ3RHVoN2hNN0NmWUZXOEdxMXRyNlgwZE9CZS0tbENOWS1pNnJVRjlETjhtNFBMR3BhUF96blg2M2o0aHBvVDdJWk56TVVBcDF5TDV0X3dvaEl1ZU9rNFNYeFdzZGNvdWU5WUw1TzFKY1NwTWZzZ1hPZFBHY1VMbE5UN01oeUs2NjRNUlpuUTRfOVJqOTRhakVwWVVn?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -214705,14 +214743,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:28:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The posting explicitly requires 3+ years of product management experience and an academic background from a Tier 1 University (Btech or MBA) along with consulting/product background requirements that exceed his 1.3 years of experience and lack of formal product management history.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-21T22:28:00+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "HTTP 503 for https://www.instahyre.com/job-167584-product-manager-at-onsite-2-bangalore/"
-   }
+   },
+   "reject_reason": "The posting explicitly requires 3+ years of product management experience and an academic background from a Tier 1 University (Btech or MBA) along with consulting/product background requirements that exceed his 1.3 years of experience and lack of formal product management history."
   },
   {
    "id": "L1763",

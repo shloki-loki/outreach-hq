@@ -40932,9 +40932,15 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 75: qualified"
+    },
+    {
+     "at": "2026-11-22T03:30:44+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-22T03:28:50+05:30",
+   "updated_at": "2026-11-22T03:30:44+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -40945,7 +40951,8 @@
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
    },
-   "reject_reason": null
+   "reject_reason": null,
+   "people_searched_at": "2026-11-22T03:30:44+05:30"
   },
   {
    "id": "L0320",

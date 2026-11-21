@@ -423,14 +423,14 @@
    "leads_total": 1916,
    "by_status": {
     "applied": 7,
-    "contacted": 72,
+    "contacted": 71,
     "qualified": 81,
     "rejected": 389,
     "replied": 2,
     "skipped": 3,
     "interview": 1,
-    "new": 1312,
-    "to_approve": 49
+    "new": 1291,
+    "to_approve": 71
    },
    "by_source": {
     "linkedin_post": 58,

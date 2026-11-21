@@ -1,30 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-17T02:52:57+05:30",
-   "agent": "lead-scout/scrape",
-   "ok": true,
-   "summary": "6873 jobs read, 374 passed rules, 57 new leads",
-   "stats": {
-    "fetched": 6873,
-    "passed_rules": 374,
-    "new": 57,
-    "updated": 302,
-    "closed": 0,
-    "by_source": {
-     "greenhouse": 3832,
-     "lever": 122,
-     "ashby": 2000,
-     "linkedin": 545,
-     "instahyre": 217,
-     "yc": 84,
-     "naukri": 73,
-     "wellfound": 0,
-     "hiringcafe": 0
-    }
-   }
-  },
-  {
    "at": "2026-11-17T05:15:51+05:30",
    "agent": "supervisor/check",
    "ok": false,
@@ -3655,6 +3631,19 @@
       "gemini-3.5-flash-lite"
      ]
     }
+   }
+  },
+  {
+   "at": "2026-11-22T03:45:18+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
    }
   }
  ]

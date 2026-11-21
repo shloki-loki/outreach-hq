@@ -32849,7 +32849,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "442056",
    "source_url": "https://www.instahyre.com/job-442056-product-manager-at-jetstream-security-bangalore/",
@@ -32880,8 +32880,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -32890,15 +32890,30 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at JetStream Security asks 1-4 yrs and an MBA from IIM Bangalore or equivalent, which you do not have.",
+    "fit_notes": "The role asks for 1-4 years of experience and specifies 'MBA from IIM Bangalore or equivalent' as a requirement. Responsibilities focus on PRDs, technical documentation, backlog grooming, and customer security questionnaires. While Shlok has technical background with Flask APIs and extensions [idekho], he lacks the required MBA degree.",
+    "pay_notes": "Pay is not mentioned in the posting and no company-specific salary evidence was found.",
+    "culture_notes": "No employee reviews or ratings were found in evidence.",
+    "hook": "JetStream Security was selected by Redpoint for its 2026 InfraRed 100 list of leading enterprise AI infrastructure companies.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1ZBNnNqUTF6WGFVaVZ3RVJYcVdqZm4yWnlCQmQ4VkYyZ1RZOFFiemY2cGw1WkhYUU5TX0EtbGIxYmFUdnBuX1VTU2MtNkV0UDN4dW1OcTR6VU9kZkhmZXlzMHJMVjRGV25tT0tXSHZHVlplYWJzWHc5b3hqRE95VnpiOVF0UFRZNlFpbVlnZHpBSHFkdUxaU0MzakdHbE1GU3BiajBra0xHdw?oc=5",
+    "researched_at": "2026-11-21T22:10:13+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Redpoint Names JetStream Security to 2026 InfraRed 100 Amid Growing Enterprise AI Governance Crisis - Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1ZBNnNqUTF6WGFVaVZ3RVJYcVdqZm4yWnlCQmQ4VkYyZ1RZOFFiemY2cGw1WkhYUU5TX0EtbGIxYmFUdnBuX1VTU2MtNkV0UDN4dW1OcTR6VU9kZkhmZXlzMHJMVjRGV25tT0tXSHZHVlplYWJzWHc5b3hqRE95VnpiOVF0UFRZNlFpbVlnZHpBSHFkdUxaU0MzakdHbE1GU3BiajBra0xHdw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -32922,9 +32937,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:10:13+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The job explicitly requires an MBA from IIM Bangalore or equivalent under requirements, which Shlok does not have.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-21T22:10:13+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -32934,7 +32955,8 @@
     "at": "2026-11-20T22:44:33+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The job explicitly requires an MBA from IIM Bangalore or equivalent under requirements, which Shlok does not have."
   },
   {
    "id": "L0257",

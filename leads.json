@@ -53464,9 +53464,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v1 email to Oleg Avdeev queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-21T14:53:55+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Savin Goyal"
     }
    ],
-   "updated_at": "2026-11-20T16:34:11+05:30",
+   "updated_at": "2026-11-21T14:53:55+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

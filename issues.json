@@ -545,6 +545,20 @@
    "count": 1,
    "remedy": "Same as I0012: Naukri is JS-only, Instahyre 403s, LinkedIn 429s. Needs browser-based fetch (Chrome) for those leads or manual check by Shlok; curl will never work.",
    "resolved_at": null
+  },
+  {
+   "id": "I0040",
+   "key": "supervisor:Bounce rate 5.9% (9 of 153), 2 more bounces on 21 Nov",
+   "agent": "supervisor",
+   "severity": "error",
+   "title": "Bounce rate 5.9% (9 of 153), 2 more bounces on 21 Nov",
+   "detail": "Bounced today: M0128 savin@outerbounds.com (14:53 IST), M0134 vishnu@innerfit.me (15:07 IST); 7 on 20 Nov. Total 9 bounced of 153 sent = 5.9%, above the 5% limit. Cause: guess/unverified founder addresses while Reoon credits are spent (I0016). Remedy: hold guess/catch-all addresses in the founder queue until credits reset; send only verified/published ones. Bounced addresses are suppressed.",
+   "status": "open",
+   "opened_at": "2026-11-21T20:12:12+05:30",
+   "last_seen": "2026-11-21T20:12:12+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

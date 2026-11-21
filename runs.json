@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-14T15:12:02+05:30",
-   "agent": "follow-up/digest",
-   "ok": true,
-   "summary": "Outreach HQ 14 Nov: 1 reply, 8 to approve",
-   "stats": {}
-  },
-  {
    "at": "2026-11-14T15:23:20+05:30",
    "agent": "send-track",
    "ok": true,
@@ -3851,6 +3844,19 @@
    "stats": {
     "sent": 8,
     "failed": 0
+   }
+  },
+  {
+   "at": "2026-11-21T16:25:16+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
    }
   }
  ]

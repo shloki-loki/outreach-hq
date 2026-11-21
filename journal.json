@@ -5390,6 +5390,15 @@
    "title": "Bounce rate 5.9% (9 of 153), 2 more bounces on 21 Nov",
    "detail": "Bounced today: M0128 savin@outerbounds.com (14:53 IST), M0134 vishnu@innerfit.me (15:07 IST); 7 on 20 Nov. Total 9 bounced of 153 sent = 5.9%, above the 5% limit. Cause: guess/unverified founder addresses while Reoon credits are spent (I0016). Remedy: hold guess/catch-all addresses in the founder queue until credits reset; send only verified/published ones. Bounced addresses are suppressed.",
    "ref": "I0040"
+  },
+  {
+   "id": "J0600",
+   "at": "2026-11-21T20:12:15+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "research-worker run marked failed 21 Nov 13:22",
+   "detail": "Run logged failed but summary shows 23 researched (4 qualified, 19 rejected), 16 left for a person. Work was done; failure flag cause not visible in the log. Check run output on the Mac. Writer also stopped at 13:26 because Gemini free quota (20/day/model) was used on all four models: 0 drafts today.",
+   "ref": "I0041"
   }
  ]
 }

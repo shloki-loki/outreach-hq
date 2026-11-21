@@ -559,6 +559,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0041",
+   "key": "supervisor:research-worker run marked failed 21 Nov 13:22",
+   "agent": "supervisor",
+   "severity": "warn",
+   "title": "research-worker run marked failed 21 Nov 13:22",
+   "detail": "Run logged failed but summary shows 23 researched (4 qualified, 19 rejected), 16 left for a person. Work was done; failure flag cause not visible in the log. Check run output on the Mac. Writer also stopped at 13:26 because Gemini free quota (20/day/model) was used on all four models: 0 drafts today.",
+   "status": "open",
+   "opened_at": "2026-11-21T20:12:15+05:30",
+   "last_seen": "2026-11-21T20:12:15+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

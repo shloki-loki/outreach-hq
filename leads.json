@@ -185348,15 +185348,15 @@
    "key": "magtapp|growth manager|bengaluru",
    "type": "job",
    "company": "MagTapp Technologies",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "magtapp.com",
+   "company_url": "https://www.instahyre.com/job-439071-growth-manager-at-magtapp-technologies-bangalore/",
    "company_linkedin": "",
    "company_note": "",
    "title": "Growth Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "439071",
    "source_url": "https://www.instahyre.com/job-439071-growth-manager-at-magtapp-technologies-bangalore/",
@@ -185382,13 +185382,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "No pay stated in posting or research evidence.",
     "fit": "Unknown"
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 30,
+    "total": 42,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -185397,15 +185397,33 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Growth Manager at MagTapp (1-5 yrs, Bengaluru) asks for Meta/Google Ads and performance marketing, which your supply chain background lacks.",
+    "fit_notes": "The posting requires 2-5 years of experience in performance marketing, Meta/Google Ads, GA4, ASO/SEO, and user acquisition funnels for their exam prep app 'Crack Govt Exam'. Shlok's experience is in S&OP planning, inventory optimization, and supply chain operations at Ola Electric ([sop], [ceo-coo], [mrp]), with no performance marketing or digital user acquisition experience.",
+    "pay_notes": "Pay is unstated and no salary benchmark is available for MagTapp Technologies.",
+    "culture_notes": "No Glassdoor rating or culture reviews available in the posting or evidence.",
+    "hook": "MagTapp recently crossed 6 million downloads, rebuilt its browser around AI, and expanded to iOS.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTVMzREdfMFdRSV84SWNEUElZM0VtLTd3UGhGT1VoM01PRzYzSWxJNXNDRUtlLXVRU21UOUZYbUxOcjQwUjFQam45bl9hNGt1SUdPQ1hoaS1leTNrRjJtbERZbFdVNFE4ODJaRGdiS2QyeENILXN1ZXF4NzA1N3dRemlzWFFrbHprRnZOQ1hnOFpwTktVWl9GVXAtQzNqU0tJeDZUbGtvdnpNOUNmRU9FTnZNSkdJUTlsQnd6UnZObkNkTDVNdGlRYtIBzgFBVV95cUxOR3pRTm42LV95MEd0cUpFNzR4SXo2TWRrdzhBQjFjVGdNS3BWNVBkZ0JuRVpsU1pIOTJCU0w4cjlZZGJjWXBqZG9KQ3Y5d2t2OThldGtHMHhDTXVHeEZMWVlEYlVvb0VHb1IxLUJxeTdQdHRaamROdTJRMTdRa1dOSDVlQjRFbkppcXpuNkE0dHRRblVPaVk0dVBLb0FjQVZMbmQ0WUc0a2s5WlpNX0l3Y2VlOGt0N2F4Z0ZFMFdoLXhRSGkwRnhQMk1hYXg4UQ?oc=5",
+    "researched_at": "2026-11-21T22:22:07+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "MagTapp Crosses 6 Million Downloads, Rebuilds Browser Around AI and Expands to iOS - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTVMzREdfMFdRSV84SWNEUElZM0VtLTd3UGhGT1VoM01PRzYzSWxJNXNDRUtlLXVRU21UOUZYbUxOcjQwUjFQam45bl9hNGt1SUdPQ1hoaS1leTNrRjJtbERZbFdVNFE4ODJaRGdiS2QyeENILXN1ZXF4NzA1N3dRemlzWFFrbHprRnZOQ1hnOFpwTktVWl9GVXAtQzNqU0tJeDZUbGtvdnpNOUNmRU9FTnZNSkdJUTlsQnd6UnZObkNkTDVNdGlRYtIBzgFBVV95cUxOR3pRTm42LV95MEd0cUpFNzR4SXo2TWRrdzhBQjFjVGdNS3BWNVBkZ0JuRVpsU1pIOTJCU0w4cjlZZGJjWXBqZG9KQ3Y5d2t2OThldGtHMHhDTXVHeEZMWVlEYlVvb0VHb1IxLUJxeTdQdHRaamROdTJRMTdRa1dOSDVlQjRFbkppcXpuNkE0dHRRblVPaVk0dVBLb0FjQVZMbmQ0WUc0a2s5WlpNX0l3Y2VlOGt0N2F4Z0ZFMFdoLXhRSGkwRnhQMk1hYXg4UQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Magtapp AI Browser Crosses Six Million Downloads - TelecomTalk",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUFpRTXphbkY5VzB0NW0zWjB4NmI5WVRzM1Q3WUNfemNaR25TQUo1cGthY1lWajhnT1ozcDk2OW9LYjJtaWk5UE9PdXZoY3ZBWkEwMTgzai04a2Q5MHhPTzlMcjl3RVJXbE5FNjYwdjQxbW5QTUpLVVpEQVlrbVM3NnNvdHdWaEdyYUE?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -185429,9 +185447,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:22:07+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 42: rejected (Role requires 2-5 years in performance marketing, Meta/Google Ads execution, and GA4 analytics for consumer edtech, which does not overlap with Shlok's supply chain planning and S&OP background.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-21T22:22:07+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -185441,7 +185465,8 @@
     "at": "2026-11-20T22:57:47+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Role requires 2-5 years in performance marketing, Meta/Google Ads execution, and GA4 analytics for consumer edtech, which does not overlap with Shlok's supply chain planning and S&OP background."
   },
   {
    "id": "L1508",

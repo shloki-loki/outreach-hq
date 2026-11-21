@@ -233824,15 +233824,15 @@
    "key": "amazonmusic|product operations manager amazon music|bengaluru",
    "type": "job",
    "company": "Amazon Music",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.com",
+   "company_url": "https://www.amazon.com/music",
    "company_linkedin": "https://www.linkedin.com/company/amazon-music",
    "company_note": "",
    "title": "Product Operations Manager, Amazon Music",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4468613615",
    "source_url": "https://in.linkedin.com/jobs/view/product-operations-manager-amazon-music-at-amazon-music-4468613615",
@@ -233848,7 +233848,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Description\n Love music? Want to build customer-facing products that touch the lives of millions of people? Come join Amazon Music where we are reinventing how people discover and experience music and culture within a community of passionate fans. Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and culture. We offer experiences that serve all listeners with our different tiers of service: Prime members get access to all the music in shuffle mode, and top ad-free podcasts, included with their membership; customers can upgrade to Amazon Music Unlimited for unlimited, on-demand access to 100 million songs, including millions in HD, Ultra HD, and spatial audio; and anyone can listen for free by downloading the Amazon Music app or via Alexa-enabled devices. Join us for the opportunity to influence how Amazon Music engages fans, artists, and creators on a global scale. Learn more at https://www.amazon.com/music.\nWe are looking for a Product Operations Manager to join the Amazon Music Product Operations team in Bangalore. In this role you will be the bridge between customers and the Amazon Music product teams across key areas. You will ensure product roadmaps meet the most critical needs of our customers and effectively address quality issues. A successful candidate will be analytical and detail oriented, capable of distilling customer insights from a broad and complex set of data. You are a problem solver that can effectively manage ambiguity, capable of working cross functionality to deliver results. You are comfortable with technically complex subject matter and are able to communicate effectively on technical subjects.\nKey job responsibilities\n Develop deep product and technical subject matter expertise in key areas of the Amazon Music service\n Monitor customer feedback channels and analyze and synthesize data to provide actionable insights for product teams to inform product planning\n Use AI and automated tools to optimize efficiency and improve the quality of outputs\n Work cross-functionally across product, engineering, design, QA and BI stakeholders to ensure customer issues are routed to the correct teams and track progress towards addressing them along with other key quality metrics\n Maintain and help groom backlogs of quality related features and bug fixes\n Support product teams launching new features and experiments by driving dogfooding and beta testing, aggregating feedback and reporting results\n Look for and identify opportunities to streamline and standardize feedback gathering and analysis processes.\n Basic Qualifications\n 2+ years of program or project management experience\n Knowledge of Lean principles and DMAIC methodology\n Knowledge of software development lifecycle, including design, developme",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -233863,8 +233863,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -233874,15 +233874,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Operations Manager at Amazon Music, asks 2+ yrs; your S&OP and supply chain execution map well, but pay is unstated.",
+    "fit_notes": "The posting asks for '2+ years of program or project management experience', 'Knowledge of Lean principles and DMAIC methodology', and 'Knowledge of software development lifecycle'. Shlok has ~1.3 years of experience, making 2+ years a stretch (though close), but he lacks software development lifecycle ownership. His facts [sop], [ceo-coo], and [mrp] show strong operational execution and Lean-adjacent supply chain work, but the role's focus on software lifecycle and customer feedback tooling is an imperfect fit compared to his core supply chain/operations background.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figure is available in the web search evidence for Amazon Music in India.",
+    "culture_notes": "No ratings or culture flags were found in the provided evidence. Amazon is a large established tech company with well-known high-intensity corporate culture.",
+    "hook": "Amazon Music recently introduced ads for Prime members in India alongside the launch of Music Unlimited [S1].",
+    "hook_source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DWUkzdUtuS0hHT1RxMF84aVNjc2NJR3loc1ZETnFHTjk1MVZPTUhFSTlGb0U1Qmk1V3hXNkRYcld0MkpoaUNYTzBnTzRsMDk4OF9yTnYzbzduaGNEZFVPSFp6WUNucE9IVkwtNWtJWnY?oc=5",
+    "researched_at": "2026-11-22T03:27:44+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Music introduces ads for Prime members in India as it launches Music Unlimited - RouteNote",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DWUkzdUtuS0hHT1RxMF84aVNjc2NJR3loc1ZETnFHTjk1MVZPTUhFSTlGb0U1Qmk1V3hXNkRYcld0MkpoaUNYTzBnTzRsMDk4OF9yTnYzbzduaGNEZFVPSFp6WUNucE9IVkwtNWtJWnY?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Amazon Music is getting pricier in India — but will also be available for free - Music Ally",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY045LUZDc2xRRm5meEhLNlRpSkotaTd1c29PSm1JMjI0Y3p4UFN0SThkSjdBOGozLTJvRWRIbkUyeTh0T0lYRFRNTWt6RmxWTkszYkM5UEU2bWNRcldFYW1vc2s1ODF1UlB6akd5V2ROX2k3N1I5WVpKNjM2MHh3azVDTnJTamlJbmJmQWI4bXNVclIyaGYxRUlWdjRZS3Z0aFR3QW43VU1yMkpaaHc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amazon Music goes HD: Prime Music Unlimited launched for audiophiles - 91Mobiles",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVlhYkFnaklLWGw5R3AzVDZMZHNSRl9sYzYyLXZmb3JDSWE0Z292Z2Rta0ptQWlmNnlhbDdoSm9aaWVEeU5xRklESlk5RFpPMG9WdVJWV1dSbWxWaFFFV2hoaU1nRzhUWFo3MGNwdWZoZHdFV3ZaY0l1cFROU2lZVjViampQSHNBVjdELdIBkgFBVV95cUxONG4xekx1ZlVZM0ZkTS13dFhsNXdhM1N2MV9YaWtjQ3lZRU5ZN3Fsd24wd3FOVjVjeVdXTkFTTklZNGE5bHI4aWFFdzBOMVpXdk9zWGkzRXoxTlAxRVRMUFNGbXRza0daVWxjdW1VOWNiMTVHYVRudGVMZUlEY0ZrNnVDcnpaRVdFbTE5MGNzTy1fdw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Amazon Music Unlimited Launches in India. What’s Really Changed? - Rolling Stone India",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LYkpQdFVuQUFNQ3JSMkk4bWx4VXpmUmlUTlBjSTk5clY3Q3Z1bWRuSWRDWWZkTy1lakNsSlMtY1B1TUtnQ0IwSmhwRVk5RWdDZGd5Q0FZNUNBcDBzYXBuUTI2ZGJnM0l5bXdsd3ZaWmZIUEVVenJseXUzd9IBgAFBVV95cUxPRkl6M0dnYS1ieXJRc1Juc2hRdVpnM0xlXzMxQXlEQ2hXeF9qRG12WFRTenNTNlFYS0FoT1JSZ0lYXzI3a1hzbzNOekROQVpCOVI5RExfQkxIVVFoaFdobUMta2RBZVV5eTJTbFZHV284VWdTSk4wUnFyV3l1NkxHbA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Amazon Music Unlimited launches in India: Plans, pricing and 6-month free offer - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNzRBeV9rVVBVUk9vLXRkb3dVdDBmTUM3NjdaWW8xX1RmcjVkRjZOVUxfY1pYNFhOMnVIWm9kODdQYkNQXzhKbjRVZ3JkeHUxLVpDODYzQnR3Nm8tRUtiYTdYeXJQRW92ZnRWa1A1YWtaMFdTU1FrdzJJSDBTaEk5X1ZKSDhZUzNjR2xTR1JxSm9mVmltUEJWQXVtZmR6dzRyV204NXdnTW4xcWRFeUJvWHA4akFCM055VEN0dUl5LWtGR2hRY0Uxb3JGbTE3X2lPVE1pSFNJM2V0RmRMcnlwa3VqTHhHeFVrTk5fREFtRXdXZ9IB9wFBVV95cUxPcDYtUG9HUS13MXNyRmREZW95ZmFwMDNkMDVVRlN0WmtVY043U3JHaExwMXF1RFBLbWtsVnBJSHdpb0R2QXBUa3NXaVRNbFBkRDdMTHBSU2FhTHV6WlJ4VFNodFAzSGtlZjBETVVIdmN0ejNFYW1oeHJaTHRyZUlDV3VIcTdZZDVPQnVrVW1SaDJZN3Z3T1p3aDBKVVQySVZoYU1RRnZibWNTNVNCTEprQUtWOVF1Ry00V3F1VEhxVlBQV3V3M1I3Um1kLWkzWlRodFBGZTd1Vy1JT3RjZUM2V3FmWkNyREtGMktnNDVPeUk3Y3Z4cTVV?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Amazon Music adds ads for Prime members, ad-free costs extra: Details here - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeEgxX3A3N2d5ZHVpdmhSRHJOZVEtMEk3ZHR1MjNmTDJpUDc0eDFVZ1RYY0xFZmZtd09xNkxyeE5fY0hNRmd3VE1aakUyamhOWTBlU2JzcjZNbWNzRWVrVTA1VnFTVy1GWUU2VzR2SHVCMDlMbnhIcjljS0ZGSDhsYm9mN1dtdWhUU0Q2T1B1V1I5ZkpMT1lyeGFrbTdaTnhvdnFQSThLWFZodnZKUU9VUTBIandYaE14cnhleGxINExmNkU0NnZiS0pIc2pXUDEtWGw4ZWpjRjdCZV9DYnlISdIB5gFBVV95cUxNcThpc0xHMXdlSzk0bXZmRHA3TVdRTXdWX0lZOWJsN2dzazhVVmtwS1lFbVdnOXltYUdLZW4tMDFLZEhvYjF2a3FSdldPRXFBeUlQZkxER29YTDFlSXR4VWxfZ3ZVVFItRFN1bzc3QkxLUUR1dmRQRDlyTmNYMmNhWnYzT2VhcHZhcmN0NjNQUTZIX2o2UXI5cnNfbDNiSjNJUjZuVVVRU1UwWnVZTzJaOHMzZ3dsQUc2aWVkTHZTRDI5RFVKQ0F6eEZMNDlVMTRnejktQVRCNVRoMkNtNXFReDkxU0h1UQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -233906,9 +233948,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-22T03:27:44+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Role asks 2+ years of program or project management experience while Shlok has ~1.3 years, and pay is unknown with no evidence it clears his Rs 24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30"
+   "updated_at": "2026-11-22T03:27:44+05:30",
+   "reject_reason": "Role asks 2+ years of program or project management experience while Shlok has ~1.3 years, and pay is unknown with no evidence it clears his Rs 24.5 LPA threshold."
   },
   {
    "id": "L1932",

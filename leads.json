@@ -222048,9 +222048,9 @@
    },
    "stage": "qualified",
    "outcome": null,
-   "applied_at": null,
+   "applied_at": "2026-11-21T18:30:55+05:30",
    "apply": {
-    "status": "not_started",
+    "status": "applied",
     "notes": "",
     "answers": {}
    },
@@ -222082,9 +222082,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-21T18:30:55+05:30",
+     "actor": "shlok",
+     "event": "applied",
+     "detail": "application submitted"
     }
    ],
-   "updated_at": "2026-11-21T13:22:52+05:30",
+   "updated_at": "2026-11-21T18:30:55+05:30",
    "research_attempt": {
     "at": "2026-11-20T22:42:06+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
@@ -222778,8 +222784,8 @@
    "last_seen": "2026-11-21",
    "open": true,
    "jd": "📍 Location: Bengaluru, HSR Layout (In office)\n 🕒 Type: Full-time\n 🎯 Experience: 1 to 4 years\n About Airtribe \n Airtribe is the home for AI-native builders. We run live cohort programs in product, software engineering and GenAI, taught by practitioners who build what they teach.\n Our mission: help 1 million people become AI-native builders by 2030. 40,000+ have learned with us so far. We’re early. Getting there means new programs, new formats and new geographies, and you’ll lead some of them.\n The Context \n Every company in India is working out what AI changes for its teams. Most of the people who will do that work haven’t learned how yet. We sit in that gap, and it grows every month.\n 120K+ people follow us on Instagram and LinkedIn.\n We run many different types of events for builders all across India.\n Companies trust us and hire us to train their teams on modern GenAI tools and techniques.\n We’ve built the base. The team is small, so your work shows up fast: a program you launch, a partner you close, a number you move.\n The Role \n We’re looking for someone to build and lead our new programs and initiatives: find the next program, launch it and grow it into a business. You’ll work directly with Airtribe’s founders.\n This role is for people who have built a company before. You started something, ran it, and then moved on for some reason. You know how to find users, ship without a team and make every rupee count. Now you want to join a company that’s already growing and help it grow several times over.\n What You’ll Build \n New programs. Find gaps in the market and size them. Design the program with our mentors, launch the first cohort, and grow it into a line of revenue.\n New initiatives. Formats, partnerships and bets we haven’t tried yet: workshops, hackathons, hiring partners, tool partners, new markets. Test small, read the numbers, scale what works.\n The team. When a program works, you hire the people to run and grow it.\n The numbers. You own revenue and learner outcomes for what you launch, and report them every week. Every program or initiative you launch is a step toward that 1 million.\n How You Work \n You decide with data. You pull the numbers yourself, you know when they’re wrong, and you bring a recommendation, not just a chart.\n You own the outcome. Once a project is yours, you see it through to launch and report what happened, good or bad.\n You find a way. Blocked on data? You scrape it. No intro to a partner? You cold-email them. No designer? You ship the page anyway.\n You build with AI every day. Claude Code, Codex and all key AI tools. Work that took a team a week takes you a day.\n No cap on AI tools. If a tool makes you faster, we pay for it. You also get a clear target and direct access to the founders, with no layers of approval in between.\n Your First 30 Days \n In your first week, you pick the first program or initiative to launch, and we agree on its target. By day 30, it’s live: a landing page, first sign-ups, and numbers yo…",
-   "exp_min": 1.0,
-   "exp_max": 4.0,
+   "exp_min": 1,
+   "exp_max": 4,
    "exp_text": "Seniority level Executive Employment type Full-time Industries E-Learning Providers",
    "stretch": false,
    "pay": {
@@ -222889,8 +222895,8 @@
    "last_seen": "2026-11-21",
    "open": true,
    "jd": "About VuduCom: \n VuduCom is building at the intersection of creators, commerce, and technology helping brands scale through influencer-led growth. We operate across influencer marketing, content, and performance-driven campaigns, working with creators to drive measurable business outcomes. \n Our core product, MintLink, is a tech platform designed to power the next wave of creator monetisation enabling influencers to earn through affiliate links, track performance, and build deeper connections with their audience. We are now doubling down on the next phase of growth scaling MintLink and unlocking new channels like affiliate commerce, Reddit-led marketing, and performance-driven distribution. \n The Role: \n This is founder training disguised as a job. You will work directly with the founders on VuduCom's most critical priorities building new growth engines, scaling MintLink, and driving execution across teams. This is a high-intensity, high-ownership role - and growth - where you will operate across strategy, product, growth, and operations. \n What You will Do: \n - Work on 0 - 1 initiatives like affiliate marketing, Reddit growth, and new distribution channels \n - Scale MintLink across product, growth, and monetisation \n - Drive cross-functional coordination between teams \n - Translate ambiguous ideas into execution plans \n - Build systems, processes, and playbooks to enable scale \n - Work closely with founders on key projects and decisions \n Who You Are: \n - MBA or graduate from a top institute \n - 1 - 3 years of experience (startup / consulting / business roles preferred) \n - High ownership, strong execution ability \n - Comfortable operating in ambiguity and fast-paced environments \n - Founder mindset you take initiative and build \n Why This Role: \n - Work directly with founders on high-impact projects \n - Exposure across business, product, and growth \n - Build and scale new initiatives from scratch",
-   "exp_min": 1.0,
-   "exp_max": 3.0,
+   "exp_min": 1,
+   "exp_max": 3,
    "exp_text": "Seniority level Director Employment type Full-time Industries Advertising Services",
    "stretch": false,
    "pay": {
@@ -228119,8 +228125,8 @@
    "last_seen": "2026-11-21",
    "open": true,
    "jd": "ABOUT CheQ \n At CheQ, were turning the chaos of credit into a journey thats clear, rewarding, and even a little fun. With 80,000 Cr+ in lifetime payments, a growing tribe of users (30%+ using more than two products), and $16M raised from marquee investors, we’re fast becoming India’s favourite way to go from credit-stressed to credit-smart.\n What you’ll be doing \n We're looking for a Business Analyst with around 2 years of experience to join our Analytics team. You'll work closely with product, business, operations and marketing teams to turn data into clear insights — building the reports, dashboards and analyses that help us understand our users and make better decisions, faster.\n Key Responsibilities \n Pull, clean and analyse data using SQL and Excel/Python to answer business questions and get to the root cause of problems\n Build and maintain dashboards and recurring reports that give stakeholders clear, timely visibility into key metrics\n Help defi ne and track KPIs for products and business functions, fl agging trends, anomalies and opportunities early\n Analyse user behaviour, conversion funnels and retention to surface insights that improve the customer experience\n Segment users by behaviour and engagement to support targeted product and marketing initiatives\n Support the design of A/B tests and measure the impact of product and marketing changes\n Gather requirements from cross-functional teams and translate them into well-scoped analyses\n Spot manual or ineffi cient processes and help automate reports and data workfl ows\n Present fi ndings and recommendations to stakeholders in a clear, actionable way\n What We're Looking For \n 1–2 years of experience in a business analytics or data analytics role; experience at a startup or consumer tech company is a plus\n Bachelor’s degree in a quantitative or related fi eld (e.g., Engineering, Statistics, Economics, Business Analytics)\n Working knowledge of SQL for querying and analysing data\n Good command of Excel/Google Sheets and hands-on exposure to a visualisation tool (e.g., Tableau, Power BI, Looker); basic Python or R is a plus\n Strong analytical and problem-solving skills with a keen eye for detail\n Clear communication skills to explain analytical fi ndings to non-technical stakeholders\n Eagerness to learn, a strong sense of ownership, and the ability to work well in a fast-paced, cross-functional team\n Why you should join CheQ? \n You own it, we trust you\n Shape your work with freedom, deliver with ownership, backed by trust\n Bold, fast & human\n We push boundaries together, and deliver with agility, rigor, and heart. Always looking out for one another.\n Growth by osmosis\n Learn directly from a stellar leadership team with rich, diverse backgrounds.\n What you will not get \n Monotony Work is dynamic, expect variety every day.\n Slow climbs Growth here is about leaps, not ladders.\n Layers of red tape We believe in speed, not bureaucracy.",
-   "exp_min": 1.0,
-   "exp_max": 2.0,
+   "exp_min": 1,
+   "exp_max": 2,
    "exp_text": "1-3 Yrs",
    "stretch": false,
    "pay": {
@@ -228216,7 +228222,7 @@
    "last_seen": "2026-11-21",
    "open": true,
    "jd": "Proficient in advanced Excel/ SQL / Tableau/Power BI \nWe promise our customers a high-quality,standardized,and reliable service experience\nBe part of projects that are focused on improving customer and partner experience \n6 months -2 years of work experience",
-   "exp_min": 2.0,
+   "exp_min": 2,
    "exp_max": null,
    "exp_text": "1-3 Yrs",
    "stretch": false,
@@ -228328,8 +228334,8 @@
    "last_seen": "2026-11-21",
    "open": true,
    "jd": "Minimum 1-3 years of experience in an ops-related\nWe promise our customers a high-quality,standardized,and reliable service experience",
-   "exp_min": 1.0,
-   "exp_max": 3.0,
+   "exp_min": 1,
+   "exp_max": 3,
    "exp_text": "1-3 Yrs",
    "stretch": true,
    "pay": {

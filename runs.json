@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-13T13:33:09+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-13T14:14:36+05:30",
    "agent": "send-track",
    "ok": true,
@@ -3818,6 +3805,41 @@
     "live": 119,
     "binned": 3,
     "unknown": 1679
+   }
+  },
+  {
+   "at": "2026-11-21T13:22:46+05:30",
+   "agent": "research-worker",
+   "ok": false,
+   "summary": "23 researched (4 qualified, 19 rejected), 0 closed postings binned, 16 left for a person",
+   "stats": {
+    "researched": 23,
+    "qualified": 4,
+    "rejected": 19,
+    "binned": 0,
+    "left_for_a_person": 16,
+    "errors": 1,
+    "models": {
+     "research": [
+      "gemini-2.5-flash",
+      "gemini-3.8-flash"
+     ],
+     "judge": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite"
+     ],
+     "reader": [
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash"
+     ]
+    }
    }
   }
  ]

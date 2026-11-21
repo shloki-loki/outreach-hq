@@ -40845,7 +40845,7 @@
     "why": "a company with no posting; nothing to check"
    },
    "research_attempt": {
-    "at": "2026-11-20T22:50:43+05:30",
+    "at": "2026-11-21T22:17:43+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
    }

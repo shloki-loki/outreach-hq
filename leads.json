@@ -232908,7 +232908,7 @@
    "key": "tescobengaluru|technical programme manager|bengaluru",
    "type": "job",
    "company": "Tesco Bengaluru",
-   "company_domain": "",
+   "company_domain": "tesco.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/tesco-bengaluru",
    "company_note": "",
@@ -232916,7 +232916,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4483607961",
    "source_url": "https://in.linkedin.com/jobs/view/technical-programme-manager-cyber-at-tesco-bengaluru-4483607961",
@@ -232947,8 +232947,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -232958,15 +232958,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Technical Programme Manager (Cyber) at Tesco Bengaluru, but requires cyber security delivery experience you do not have.",
+    "fit_notes": "The posting asks for 'Proven experience managing cyber security delivery, programmes or portfolios within a Cyber, Security or Technology Risk environment.' Shlok has strong supply chain and operations facts like [sop] and [ceo-coo], but none of his facts map to cyber security or technical risk management.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company website or news found in research notes.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T03:26:03+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -232990,9 +232997,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-22T03:26:03+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires specialized cyber security delivery and technical risk management experience, which does not align with Shlok's supply chain and operations background.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30"
+   "updated_at": "2026-11-22T03:26:03+05:30",
+   "reject_reason": "The role requires specialized cyber security delivery and technical risk management experience, which does not align with Shlok's supply chain and operations background."
   },
   {
    "id": "L1924",

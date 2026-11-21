@@ -230827,15 +230827,15 @@
    "key": "gokwik|associate business operations|bengaluru",
    "type": "job",
    "company": "GoKwik",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "gokwik.co",
+   "company_url": "https://www.gokwik.co",
    "company_linkedin": "",
    "company_note": "",
    "title": "Associate - Business Operations",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "483880",
    "source_url": "https://www.instahyre.com/job-483880-associate-business-operations-at-gokwik-bangalore/",
@@ -230866,8 +230866,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 45,
+    "total": 56,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -230876,15 +230876,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Business Operations at GoKwik, asks 2-3 yrs; your S&OP and supply chain execution maps, but pay unstated and outside strategy focus.",
+    "fit_notes": "The posting asks for '2-3 years of experience in payment operations, financial services, fintech, eCommerce operations, or a similar role' and a 'Bachelor's degree in any relevant discipline.' It does not require an MBA or consulting. Shlok has 1.3 years of experience, making 2-3 years a normal/minor stretch fit, and his supply chain operations and execution background ([sop], [ceo-coo]) provides operational skills, but the role focuses heavily on payments, chargebacks, and reconciliation rather than Shlok's top-priority Strategy & Operations or Founder's Office roles.",
+    "pay_notes": "Pay is not stated in the posting or reliable evidence; given it is an associate operations role in a mid-stage Indian tech company, it is unlikely to clear Shlok's Rs 24.5 LPA fixed floor.",
+    "culture_notes": "Glassdoor ratings and review counts were not found in the evidence. Recent news flags indicate potential culture and retention concerns: Inc42 reported on 2026-11-11 that GoKwik's non-compete clause puts vested ESOPs in jeopardy [S1].",
+    "hook": "Inc42 recently reported on GoKwik's non-compete clauses affecting vested ESOPs, highlighting retention dynamics during your expansion in D2C commerce.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUlHcW4tTExJZ0JndlVHQTI5X1BlWlBieWRva0RCcnB2YmJzVFNjb0FsalRuYUtIMDdYYlVWN0tjYVdWRWR0d3ZHSldEVm13WGoyQTlURzdMa0ttVHZHV0JFWDV1aUJzcTJ1MnQxR25CTGN0Vko2RUxwV2g5b0M5eGg1TU1GLU1xUW9jSmxzVXdUMnBndVhvcjFhWGNldmplUHZN?oc=5",
+    "researched_at": "2026-11-22T03:20:55+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "GoKwik’s Golden Handcuffs: Non-Compete Clause Puts Vested ESOPs In Jeopardy - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUlHcW4tTExJZ0JndlVHQTI5X1BlWlBieWRva0RCcnB2YmJzVFNjb0FsalRuYUtIMDdYYlVWN0tjYVdWRWR0d3ZHSldEVm13WGoyQTlURzdMa0ttVHZHV0JFWDV1aUJzcTJ1MnQxR25CTGN0Vko2RUxwV2g5b0M5eGg1TU1GLU1xUW9jSmxzVXdUMnBndVhvcjFhWGNldmplUHZN?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "GoKwik appoints Aseem Goyal as Vice President of Business for ‘Kwik Ship’ - Exchange4Media",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnN6UmpBYmY3dTNZWE00UzBmdHVUWVNpeHF5b1g5N2U0b1VONnVpS1NwVFNkQlZPbWlJV1dUeEQyb3hyRV9GWkJFRXEza2tkZTBCYlJUbF84eGZkSDR6endjZ2RrMDlRdjRWR0d6aFlWaWxvYUlTeE5UaHJFTjI0WTlFR1htajh3Y2dIekh0OHp5Y282M0J4bWdyYXE4R09VOEE0bU42elBLZXh0eURWS0hGUFF3UzhQc3ZKRi1uUVZFUDl4S2ZfbUNOVzdLZXZL?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "GoKwik appoints Aseem Goyal as VP - Business for Kwik Ship - IMPACT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlVuUklLeDB4ak9YOFpmdWpIOHVQVkwzU1h2NUVKcXFKRDN4dExMME1iYzRHNk5MR3NYUEdYREt2OHUyS3kwWW1BYVhEakcxY3k0RzZzdDhxOXpZOVNRa0kyQXAwczlpMkQwZEt3aDBWUkpuNDRQeVFyTFlkQnlvekVUbVA3cGVuMVBDb2x6ZGdvX21VdlRsYU1vcWZ0MzlMU3JWSmxZaVNMVEE1SEVNczF3?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "GoKwik and PayU bring multi-brand D2C shopping to ChatGPT, launch AI-powered commerce experience - Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM1liU0t1UDJWSjBtaHFpQjZmdnoycktLWXpHQTZDZzFCUjROT3JkaEZ5M2JJRURKV0VRZWZpc2lsWDBCNGZCSjRVbmtuZExvMHF2SF9hOWQtV2Uxc09mZEVzQ0UzTVhFQV9ldHBZemVVNUVDRmJpdnhiWE1oZG5MNGdn?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "GoKwik launches first brand campaign with Aman Gupta - afaqs!",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnJLOGJoX3FFNGpmNGNwZS1EOWMzM0NLR1MyOFVzU2h6ckc1eHlYc2V5ZGlMWUlmRjlndG5QdnRyanBOYmRXQVNjb3I2WUZzSlBfSTVTLTVlNUxNOUdGXzM4c0JtN1FOaDlWa3FGQUNKSzM2VGZIVmYydEFrSmRfNzJDMTh5WDh0b3c1Z1dJbzF3TnJmODkwOXFkM0FPbFhsMnc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "GoKwik Partners with Aman Gupta for first brand campaign to reduce checkout friction - Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTk1rQktkdFRtU1dQNFhvMXMzZGxzbmlZM1VtMUhuZ3pTYzBZWlJNS2lzZW01dE1pOGdNUjRNSTJEX2pGWTIwa3NxMUc1b1p2cDNFNlVqU2dXdHctVGRwT20xMnlKU0diVDNrb1VoZDhKU3RTTFdPd3cwNW0tdUVLREU0TVNoZ1BLcmpNZHFYZ0NhRVMyNUtHaGRnaS1ZVFhxTXJqRkMxcllSVnUyLWVPQXdlN0hRZTFxbU8temdkRVhzUEx0bnZsbTY3a3ZhbEHSAdwBQVVfeXFMUFd0THdGcmc0bDdqaVEtSVhwMlNwdThFS0lLbTV4YTU1UFlzc193eldSdDJaR1hndzNROFdiT2htSHFFQXcyLVB0QWpQN1BDUFZyUmR5dERVT3lfR2EzSHk4UEFCMVZyYkJhMmM5X05rQXF3MUcwLXdORU54S2tFeV9IWmkwc1V2ZXJEcU10a1VNbXpsWFZSTUctMktBVmRCQ3FJb0lWeWgwNnptVW00ejA3WFczRGp4clItN3BMdXd4QXJPZ1ExT2dFaHpKaTNCdkdrY0h2dUdib1d3Yw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -230908,14 +230949,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-22T03:20:55+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 56: rejected (The role asks for 2-3 years in payment operations and financial services, which is operational execution rather than Shlok's core strategy, S&OP, and founder's office priority. Furthermore, pay is not stated and likely falls below his 24.5 LPA floor for an Associate operations role, and GoKwik has recent negative culture flags regarding ESOP non-compete clauses.)"
     }
    ],
-   "updated_at": "2026-11-21T14:22:18+05:30",
+   "updated_at": "2026-11-22T03:20:55+05:30",
    "research_attempt": {
     "at": "2026-11-21T21:51:17+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 2-3 years in payment operations and financial services, which is operational execution rather than Shlok's core strategy, S&OP, and founder's office priority. Furthermore, pay is not stated and likely falls below his 24.5 LPA floor for an Associate operations role, and GoKwik has recent negative culture flags regarding ESOP non-compete clauses."
   },
   {
    "id": "L1906",

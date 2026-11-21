@@ -227824,7 +227824,7 @@
    "key": "unitedairlines|associate analyst ao business strategy and insight|india",
    "type": "job",
    "company": "United Airlines",
-   "company_domain": "",
+   "company_domain": "united.com",
    "company_url": "https://united.com",
    "company_linkedin": "",
    "company_note": "A global airline operating flights to airports around the world.",
@@ -227832,7 +227832,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "hiringcafe",
    "source_id": "phenompeople___unitedairlines.phenompeople.net___GGN00002736",
    "source_url": "https://careers.united.com/us/en/job/GGN00002736/Associate-Analyst-AO-Business-Strategy-Insight",
@@ -227848,7 +227848,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Associate Analyst - AO Business Strategy & Insight in Gurugram, Haryana, India | Corporate at United Airlines \n Thank you for your interest in joining the United team. While we are no longer accepting new applications for this position, our recruitment team is thoroughly evaluating all candidates. We're committed to keeping you informed and will notify you once we've completed our selection process.\n Join our Talent Community \n We will notify you about relevant positions, and keep you in mind whenever we have interesting opportunities. Come get them. \n Sign in \n United Careers – Accessibility and Accommodations \nUnited complies with all state and federal laws and supports applicants and employees by providing reasonable accommodations for disabilities and sincerely held religious beliefs, observances, and practices. Applicants, employees, and individuals with conditional job offers may request an accommodation or support at any stage of the hiring process or employment to help perform essential job functions. For assistance, please contact JobAccommodations@united.com .\n Copyright © 2026 United Airlines, Inc. All rights reserved.\n fb3ebc3c500544ddac1f96b5e9e93362",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -227863,8 +227863,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -227874,15 +227874,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Strategy and Insight at United Airlines in Gurugram, but located outside Bengaluru and pay is unknown.",
+    "fit_notes": "The posting is for Associate Analyst - AO Business Strategy & Insight at United Airlines in Gurugram, Haryana. Years of experience and explicit skill requirements are not stated in the text. While his strategy and operations background at Ola Electric (e.g., [sop], [ceo-coo]) maps well to business strategy, the location is Gurugram and the company requires relocation or local presence outside his preferred Bengaluru/remote criteria.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures were found in the evidence for this company and role.",
+    "culture_notes": "No ratings or culture flags were found in the evidence; recent news mentions cybersecurity concerns regarding AI bots [S2] and a temporary system outage [S5].",
+    "hook": "I noticed United Airlines recently moved to block AI agents from its platform over security concerns.",
+    "hook_source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sUlY3UW5HVV9CZXk5TG9CeGNyZnN2aGViT2lvcFJHa1lDQTB0c0xvN3NFcmJrdlRaSmdoNk9MWmRRenFBX3RidklYWTVPZGtUZHFRUnZ3RzNrWThBXzJvQ0JRTm5ua3JDTEc1cHQ4TdIBdEFVX3lxTE44MHItRk83bzdkejFDRTRENHU1WkV6cVlFa0psT0poQllxSUhyaFJ3Y1JzUVROUVJRbHBrNGlwSjhzeDl1Njk2d0xQQW5mQVZ1WDBmWE5nbWl3SVA3eVBBbHdSWHFnbDZhRGc1eXloVEZtbS1z?oc=5",
+    "researched_at": "2026-11-21T13:22:44+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Exclusive | United Airlines Is Banning AI Bots From Booking Flights - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmJHb3JWSEhmc1BHMWxtalktN2E1bHZPZkN4dFRDT2dfVGFSLTNLRktaUXphdHVkZm9JT0dWTG5PamFFLUxTNlVGS01GVm5EYllERWRTSE9RQVBPNWNjWmNuWmZFdTJKNzFHZmRBS3VYT3JtYUwyWnNoQTE5Q09wNVh0R1lqanZubEU0VmdhSmZ2OUNXaVdR?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "United Airlines moves to block AI agents from its platform over security concerns - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sUlY3UW5HVV9CZXk5TG9CeGNyZnN2aGViT2lvcFJHa1lDQTB0c0xvN3NFcmJrdlRaSmdoNk9MWmRRenFBX3RidklYWTVPZGtUZHFRUnZ3RzNrWThBXzJvQ0JRTm5ua3JDTEc1cHQ4TdIBdEFVX3lxTE44MHItRk83bzdkejFDRTRENHU1WkV6cVlFa0psT0poQllxSUhyaFJ3Y1JzUVROUVJRbHBrNGlwSjhzeDl1Njk2d0xQQW5mQVZ1WDBmWE5nbWl3SVA3eVBBbHdSWHFnbDZhRGc1eXloVEZtbS1z?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "1.5-hour-long system outage forces United Airlines to delay departing flights - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "United Airlines System Outage Resolved After Impacting Departing Flights - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYUxuVnJUMGJfdGJRMUhXRHdLNHpWUzZ1bFBucUVLOGxzei03czZPZG1kRVJZSW41aW5ZSVd2WjlaNkNoUXRieHVHOEFmVkpWRTc0VFBxRGVyeFNVWU5tV1NTcW5LcEZpcVFPc3c2V2xybkNvZnU4Y2ZIRmZxdHM5ZjhJRF9ReEk2eFc2M2txQy1PQkp2QU1ja05Rd29NOXVmQmFKUVh2S1oxYTFXUnIzTXMzTmdDUU1ycHQ1RTd1dVROaXd5NEtmNGkwM19LZ0l0eTlvRTN3?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "United Airlines Experiences Temporary System Outage in the Wake of Nationwide Ground Stop - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaDVrRE1VZTNRbUtoSkxiSVVlbktQQmNBRzRhMjlURDh0ZW9iaWNiaXg1ZDlLbmFDWnRiN3VHaHNYUnNJQkNFZkI1VjBWZEplb2k1cHhPQUt1RUhvZUc2cjctaXcxVUJCbGg2MDNTTVRnejI3ZC1KaHZuRTZodTA2V0pWRkZVMk5rTUw2REtXMVpGS25CYXRVRm1aQ3hNZw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHJBWXhNR29UYzZjcTVBaS1YT1dYRnd3clBFN3hObnZ2MElMMDlvZEh1czA2RkU5YXJMN3gwbF9GUzNOdk5Dcy1oSTNzd09NbG9ObGZTbHQwWng5UmRkWUptSlRLbWxVUWdUeGZWLXhza1ZzS3RuZ0RYN1Zkd2d0VkZsLUFYdFJRcXZBV1BwamtQZlFucE5MSS1qb3NRUkdkZnFTb19ZUDkyaThJc1Jxd0p5MExodw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -227906,14 +227947,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 66"
+    },
+    {
+     "at": "2026-11-21T13:22:44+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Role is located in Gurugram, Haryana rather than Bengaluru or remote, and fixed pay is unknown with no evidence clearing Rs 24.5 LPA.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:22:44+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role is located in Gurugram, Haryana rather than Bengaluru or remote, and fixed pay is unknown with no evidence clearing Rs 24.5 LPA."
   }
  ]
 }

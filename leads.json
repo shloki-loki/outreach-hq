@@ -220973,15 +220973,15 @@
    "key": "bitespeed|chief of staff|bengaluru",
    "type": "job",
    "company": "BiteSpeed",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "bitespeed.co",
+   "company_url": "https://www.bitespeed.co",
    "company_linkedin": "https://in.linkedin.com/company/bitespeed",
    "company_note": "",
    "title": "Chief of Staff (CEO's Office)",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492759935",
    "source_url": "https://in.linkedin.com/jobs/view/chief-of-staff-ceo-s-office-at-bitespeed-4492759935",
@@ -221003,7 +221003,7 @@
    "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Software Development",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "We pay top of market for the right folks and also offer generous equity (ESOP) to everyone in the team",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
@@ -221012,8 +221012,8 @@
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 78,
+    "total": 81,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -221023,15 +221023,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Chief of Staff (CEO's Office) at Peak XV-backed BiteSpeed in Bengaluru; asks 2+ yrs early-stage business exp; your direct CEO/COO work at Ola maps well.",
+    "fit_notes": "The posting asks for 2+ years of early stage startup experience on the business side to partner with the CEO on revenue, growth, and 0-1 international initiatives. No MBA or consulting experience is required. Shlok's direct partnership with Ola Electric's CEO/COO [ceo-coo], ownership of major S&OP initiatives [sop, msl], and student sales leadership [alcheringa] fulfill the generalist demand. The main gap is that his core experience is in hardware/supply chain operations rather than B2B SaaS revenue operations.",
+    "pay_notes": "The posting promises 'top of market' pay and equity, but states no numerical compensation. No company-specific compensation figures were available in the provided evidence.",
+    "culture_notes": "No Glassdoor or AmbitionBox ratings were present in the evidence. The company is backed by Peak XV Surge and Sequoia Capital India, and recently hit $8M ARR profitably [S5].",
+    "hook": "BiteSpeed recently crossed $8M in ARR with 3X YoY growth and turned profitable.",
+    "hook_source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLThrZDNBVnlFVlBWNUdiRm5SUktDaUk0WVE5WWhPaDMtem5kdm95UXRKZU1OQlBPUmpELWtkTTQzSHltd243Wm1seUtIbmVqUmd5T0hicWhfY09GOTY1Q1k0eDlBakhrSlFQaVFNTDBfTmNFMkFxNGF5MzlxVGM3TGpiSlJIRXljS2szYjNOTHBEZHNsT1B3akhlWFFnbGplR2kyM3o4ZGlKYjdCY3ozLXoxSEI?oc=5",
+    "researched_at": "2026-11-21T13:11:28+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Bitespeed Crosses 8M ARR, Grows 3X YoY, Turns Profitable - TheWire.in",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmRBekVyeERJNmZtVmpRa0k4VVRQUmU1elFMa0tXeWphV0FuTTFJb1R5dlRaei1XTzN5QXZzeVNxV0FDZUhDdUdBdmtfTWdXMUYyV3NYU0ZqTl85SVdyb1o4RkVaT1hxcDhBbURNY2FBaGVQMjlaVWN0ZlFLdTBCSW43ZG1lZldjZTFhOWhUMkR1cFYtb29UWtIBngFBVV95cUxOb29HZFlQUFd4ZzNpTWZQeV9yb0dsLXVQd3NHazIwSzJuSGtza1hlS0E0M3hscTlxS0JIZERNMWxSczA2eUhnaUlTUDdHNUR3WXk3WDJlWmlUNUxsVXZmVFRXZlJSLUw4cjhTdVlmN183SlRYWlhpTDRqVU5fU01PeXQ5UEwyLU02clNmaXZqd2didWtDY0hkaUh1U0xpdw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "BiteSpeed Partners with Razorpay to Launch Unified AI Conversion and Retention Stack for D2C Brands - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWjFVUG11UExFTHJiY2FPQ2hCdE5mcy1ZV2k4aXJpREJKYWFWbXJlZTBPSnlVdkFiRWw2ODdja2w1RlVxZFRZd0ZoZnpJZWIwd21pLU9uckxfWkxqQ09JMmVZOVMyMm5PbC10V2czZ3lRRTJHcTVNWHo2SldMSlNiR19kNlVIWnRPZ1VPYU1nY1EtWDM1dEptZ1dGT25nS1JvNnd1eENHUTJVelBQUi1GN2RfWWYwdmR4QTNjQ0dTQzhXTmlQYUhfQXlWalRhRDdEb2EwVlEzV19OalByNVk4VEItbzg?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "BiteSpeed Launches AI Creative Studio, Aims to Build the Higgsfield for E-Commerce - Sangri Today",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb1BycjRTTWhnTERzVXg0T2o0bHZ2ZU9VN1VCRVNqZm1fblo5OUVpSWhyVEYyV0NUVmRfRmpGTHQwNXIwYnZpcFo5LVZzb2c1UUhDQ0VhMHkyTzAzNVV3dWtRMTJ2Sng0MVpsOHdHdVc2LTVRcmpDdmNqWjh0YlJmVkhGV0E1SllXZGd5azJpNTFlWUY2b0dsSTF6eDIwLTB3dVVzRTR0X2x2QTlZVXRsd2ZBMV9MMGlnd0NMMUszM3lHSW1wMWRZ0gHMAUFVX3lxTE5ab29yZWRWNmtoazIxYXZ6VHdTRWxrWVhDVEJlNVVybXpnalVWRnJZRGQ1YVYySGQxYTdTYnpEWUo2RTd5b0lyTlViV0p6VUsxbG56VlVMZy1sbjVhOUh3OVJJR2dWdzVFbWRJVmRkTThHNWd4eVhMN1NXUFpqWGU3WUZjSjFBenFGRHVWMWtaTjZDa2hZUjJTQl9hTlZLTUIzeE5Cb1F3NmZzbi1Ld0FZZUJVZ2YzZHNGd1hpRTBRQnhKd2hDMHVDQnhCUA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "BiteSpeed Crosses 50 Million AI Voice Calls, Onboards Mamaearth, Mokobara, Beardo In Enterprise Push - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRVRVaU8zWE5OMkRta1pnb3ZYbHZKZFl3ZkVrblowM3VycHNaX1NmaHhsWEFrYnNRZkg4MzRPTkthaXRvam0tNmVENmhPandhUXRodVp3N25lNEU1b2o3dnFiYi1PWDhRQXg3T2Rhd281T0NDSFRNRzBIX2NSZE8tMnlpVVJsUHpIeHFjaGpGSjVBc29LSm5GU19PaFZ5Y1RqVlYycEFUZmI0NzZnTjJfSkRlNk1sYlJ1VFZRNkVOUHhGRGE3aV9qek1pM05BTUdtQ2hydk13YmpGRzFOc05iRFln?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Bitespeed crosses $8M in ARR with 3X YoY growth, turns profitable - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLThrZDNBVnlFVlBWNUdiRm5SUktDaUk0WVE5WWhPaDMtem5kdm95UXRKZU1OQlBPUmpELWtkTTQzSHltd243Wm1seUtIbmVqUmd5T0hicWhfY09GOTY1Q1k0eDlBakhrSlFQaVFNTDBfTmNFMkFxNGF5MzlxVGM3TGpiSlJIRXljS2szYjNOTHBEZHNsT1B3akhlWFFnbGplR2kyM3o4ZGlKYjdCY3ozLXoxSEI?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop",
+     "msl",
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -221055,9 +221093,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-21T13:11:28+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 81: qualified"
     }
    ],
-   "updated_at": "2026-11-20T14:48:43+05:30",
+   "updated_at": "2026-11-21T13:11:28+05:30",
    "research_attempt": {
     "at": "2026-11-20T22:42:06+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
@@ -221067,7 +221111,8 @@
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1836",

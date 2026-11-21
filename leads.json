@@ -221820,15 +221820,15 @@
    "key": "orange|business operations analyst|india",
    "type": "job",
    "company": "Orange",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "orange.com",
+   "company_url": "https://www.orange.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Business Operations Analyst",
    "tier": "1 - Strategy & Ops",
    "location": "Gurgaon",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "480264",
    "source_url": "https://www.instahyre.com/job-480264-business-operations-analyst-at-orange-gurgaon/",
@@ -221859,8 +221859,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -221869,15 +221869,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Operations Analyst at Orange in Gurgaon, asks 1-2 yrs; your supply chain experience maps well, but location and pay fail.",
+    "fit_notes": "The posting asks for \"1 to 2 years of professional experience in evaluation and reporting within telecom or related environments\" and a \"university degree in business, commerce, or science\". Shlok has 1.3 years of experience and a B.Tech in Electrical and Electronics Engineering from IIT Guwahati. While his operational experience with inventory and S&OP planning at Ola Electric ([sop], [ceo-coo]) matches operations and data analysis, the role is located in Gurgaon rather than Bengaluru or remote-first, and requires relocation.",
+    "pay_notes": "Pay not stated in posting; no pay evidence found in search results.",
+    "culture_notes": "Ratings, employee reviews, and culture data were not found in the posting or search results.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T22:28:21+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Secretary Kennedy Announces Major Update to 63-Year-Old Orange Juice Regulation - HHS.gov",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjJ1MzJmcnVNaEFEekNpTGxvV0h1Y3A5Wi1GTEZSV0JMUHpNSGZST3pCRG80Qk0wY1dORFowUGZBQVVKa1pCajZNR3NJTndaRE9WNzcyYUVISVBBazNXLXQ4SndrTjlLRWx0UmZSbi1Hb0V1YnFOMlF3R292eWhjMzI3Ml82eGRDNVdlRUN6aC1KbWJsX1k0eDBmVlpmRTZLa2c?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Kolkata Metro Orange line: Beleghata-Sector V stretch likely to open by year-end - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVVzT0otVjNONldtTlFTSGVRS0FJdVV6VVhxejJSVWI2a2VjbVAwUDBMdnFQVl96QmRiNzJOVW81Y3RKblFkeU44VlNidUk2TWJxNGJuekQ0dnk0dWllRkxRY1JIalVaUXpzSUE1OFpCejNUcjJoNm5zc2NYTE5JTVNjQTdTWHRDSE5HZVFia0dWWXEybzFfOHRjaTRjbW43a0cwZ1BEV2RHaTh1ODQ2TDJjaUZoVEJkRzdreGhaRHJpQWZJUkpCeWZwSS03b2FxYUkxb0NBVTFGQdIB3wFBVV95cUxONjFCQ2hFX3pMNW5UVGd4VksweWU0VXROYU80MzNxYXFhcHA2ZEx4eFM0cDl4MUZyM0NuY2JoV2JZV0tvMXFiT3lGQmRfOUFxTW9WZkFhaXZWNnAyclBPNGJJdFRXX3FzWGlvajl6RWg0aUxwejc0UHEzXzdJdTN1VnZBdmlQSEQyNWg5MmRUTjJWQmwzNEpwVjBXNzlIMzJ0WXVXZkxKckd0ZG56c2R2X1Y2dHdRdDBFczc4bU1WWmhpbF9vRXRWd0pQbjZQZWlvVHN0UzV3U0ZXMlFsREdr?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Why Is Burnt Orange Our Color? - UT News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ETHd3RWpWU2toUUJ4MUhqc0F0TG1kR1NuRGlEbVg5MlRuOUNNWmIxMzhRUGR4WnFNQ05Oa2tNU3RxTWpxNlFBTk8xVGpjWG5DQzRYLTJKMG9yMjZ3ZThkTE9hbl9udDF3RHVYdDVqc3RHNlE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Is Orange Coffee the Drink of the Summer? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NcFRISGUtcTVvSjBaT1gzdlM3X0QtLTNqQW9wU3lHRXdVaWN5dnlnMWh4ZHhhVU03RlhfWE9SYWl5QnA2NDV2YjQyXzc5UXNaWVgtdmR4MmRYS25DR0d0cF9kVVh6dVl3cjJFRFI5b3FaZGFqaGFSbGZB?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Cyclone Akvan impact: Kolkata, 7 other districts under orange alert for rain - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXg2Y0hfYmk3dndsOF9wUURRS2RPcEstdnBST1FkbFJLTGxnaGdLb2tPbzhuaVBzNHVOemxNb19sdmZIN3ZpRWVGVHZuOGlqalpMMEtWWU00VDNhbTNIUl9uMXRabFdGVGlxTE1vckd5cTZ0akNfMXBVS0FYWVJFNDZzOGJBVF9qUHQ1T2F3dnZSTzROZHBCaDBHM1VKcWpVU1k0QUp2ZFBQcE1Ib0g4UmdhTmctd1E4aWxETHpmMHF5ekJmUWFncHl30gHQAUFVX3lxTE5jUWk2dXpOYUtNNlVCZ25Hd3plNDk0TlI1Zk1jU05OUTU4WFd4ckdYMnlCV3lWaU5MU2drUEpWX2R3NjJtaUtRcFJieFczNGRXZjJ6VXp1dW12REpkam5QWnNJeEc1LXhtc2FBblpBeng4TllUZDB4MTVnc25nYUNxc1RET041bFNSWFJpdk84ZWhTRFNoV2JIakx2UjdqV1d6MUViTVF2dlpLbjQ3ZGQzbzVrN05SVDZhMzQ1dy00cUhxMzM1QV80OWRQWDBBZkk?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "I Tried ‘Southern Living’s’ 1979 Orange Surprise Salad—And The Secret Ingredient Wasn’t What I Expected - Southern Living",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NdnkxaHJUZm1zWmo1MzZuZElZMG5BcTg5NnV5ME9TYnJzQ0d6bkJkeXRxUEZZU0Q0QmE5S2NHSkp5Si1IOUxMNzdIU2sxLTdsWmNWbVBVaXpaYm9fS21GTXhnLVRGTnZzUXhMQ21fd0VhUjd1TFVr?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -221901,14 +221942,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:28:21+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role pays in an unknown range and is located in Gurgaon (not Bengaluru or remote), failing location and pay visibility rules for Shlok.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-21T22:28:21+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "HTTP 503 for https://www.instahyre.com/job-480264-business-operations-analyst-at-orange-gurgaon/"
-   }
+   },
+   "reject_reason": "Role pays in an unknown range and is located in Gurgaon (not Bengaluru or remote), failing location and pay visibility rules for Shlok."
   },
   {
    "id": "L1825",

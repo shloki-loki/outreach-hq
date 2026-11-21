@@ -231153,15 +231153,15 @@
    "key": "hp|business operations associate 4|bengaluru",
    "type": "job",
    "company": "HP",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "hp.com",
+   "company_url": "https://www.hp.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Business Operations Associate 4",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "483769",
    "source_url": "https://www.instahyre.com/job-483769-business-operations-associate-4-at-hp-bangalore/",
@@ -231192,8 +231192,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 45,
+    "total": 56,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -231202,15 +231202,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Operations Associate 4 at HP, asks 2-6 years; transactional back-office operations role misaligned with your Strategy & Operations priority.",
+    "fit_notes": "The posting asks for 2-6 years of experience and background in operations, demand planning, supply planning, and SAP. While Shlok has SAP and supply planning experience ([mrp]), the posting explicitly targets transactional back-office processes (\"Supporting advanced-level transactional processes for non-typical assignments\") rather than strategic or founder's office work.",
+    "pay_notes": "Pay not stated in the posting; estimated to be below Shlok's Rs 24.5 LPA fixed requirement for an associate-level back-office operations role at this level.",
+    "culture_notes": "Company reviews and glassdoor ratings were not provided in the snippet.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T03:21:01+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -231234,14 +231243,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-22T03:21:01+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 56: rejected (The role is a transactional back-office/data entry and operations support position (\"Data Entry / MIS / Back Office\") that pays below Shlok's threshold and does not match his Strategy & Operations or high-ownership priority.)"
     }
    ],
-   "updated_at": "2026-11-21T14:22:18+05:30",
+   "updated_at": "2026-11-22T03:21:01+05:30",
    "research_attempt": {
     "at": "2026-11-21T21:52:16+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role is a transactional back-office/data entry and operations support position (\"Data Entry / MIS / Back Office\") that pays below Shlok's threshold and does not match his Strategy & Operations or high-ownership priority."
   },
   {
    "id": "L1909",

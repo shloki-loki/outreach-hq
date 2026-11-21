@@ -5471,6 +5471,15 @@
    "title": "Never-sent emails go to the back of the list (PR #14)",
    "detail": "Shlok asked that every email not sent goes to the back of the list. PR #14: emails pulled back by 'campaign stop' or lost to a network drop keep the person eligible but queue them after everyone else; server refusals still count as contacted; new 'campaign requeue'; 'campaign status' no longer crashes for followup-v1. 93 tests pass. Read-only check on real data: 63 never-sent people (52 pulled back + 11 network failures), 38 of them in tomorrow's 60; after requeue 0. Not live until merged.",
    "ref": "PR #14"
+  },
+  {
+   "id": "J0609",
+   "at": "2026-11-21T20:25:16+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

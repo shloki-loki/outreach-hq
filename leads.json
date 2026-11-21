@@ -40080,9 +40080,9 @@
    },
    "stage": "qualified",
    "outcome": null,
-   "applied_at": null,
+   "applied_at": "2026-11-22T03:12:08+05:30",
    "apply": {
-    "status": "not_started",
+    "status": "applied",
     "notes": "",
     "answers": {}
    },
@@ -40165,9 +40165,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "3 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-22T03:12:08+05:30",
+     "actor": "shlok",
+     "event": "applied",
+     "detail": "application submitted"
     }
    ],
-   "updated_at": "2026-11-16T12:46:51+05:30",
+   "updated_at": "2026-11-22T03:12:08+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
@@ -231958,8 +231964,8 @@
    "last_seen": "2026-11-21",
    "open": true,
    "jd": "ABOUT ATLYS\n\nOur mission is to enable every person on Earth to travel freely.\n\nTravel should feel exciting. Instead, too much of it is still defined by paperwork, uncertainty, and processes that were never designed for travellers.\n\nAtlys http://atlys.com/ is changing that.\n\nWe’re building an AI-first platform that removes friction and uncertainty from travel. To date, we’ve processed visas for 1M+ travellers across 127 countries. But we’re still early.\n\n\n\n\nTHE ROLE\n\nWe’re looking for a Product Manager - Growth to own a critical part of the Atlys growth engine and build product experiences that drive acquisition, activation, referrals and retention.\n\nYou’ll define the product direction, understand what makes users convert and come back, identify growth opportunities, and work closely with Engineering, Design, Analytics and other teams to build experiments, growth loops, referral and rewards experiences that move key business metrics.\n\nThis is a high-ownership role for someone who can operate across product strategy, growth and execution, navigate ambiguity, use data to make sharp decisions, and build product-led experiences that scale across markets and customer segments.\n\n\n\n\nTHE JOB\n\n - Own product strategy and roadmap for growth, defining priorities across acquisition, activation, engagement and retention based on customer behaviour, business impact and growth opportunities.\n\n - Build product-led growth loops by identifying opportunities across referrals, rewards, sharing, virality and network effects that drive organic user acquisition and repeat usage.\n\n - Drive acquisition and conversion through experimentation, funnel optimisation and product improvements across landing experiences, onboarding, activation and core journeys.\n\n - Build and scale growth programs across referrals, rewards, incentives and lifecycle experiences, using data and experimentation to improve CAC, conversion, engagement and retention.\n\n - Lead cross-functional execution by partnering closely with Engineering, Design, Marketing, Analytics and other teams to define growth bets, run experiments, make trade-offs and ship quickly.\n\n\nTHE IDEAL CANDIDATE\n\nYou’ll likely thrive in this role if you:\n\n - Have 3-5 years of product management experience, ideally in consumer technology, fintech, travel, mobility or another high-growth B2C environment.\n\n - Have strong product judgment and a track record of owning growth-focused product areas across acquisition, activation, referrals, rewards, engagement or retention.\n\n - Are highly analytical and comfortable using data, experimentation and customer insights to identify growth levers and make product decisions.\n\n - Understand product-led growth and have experience building loops, incentives, referral programs or experiences that turn users into acquisition channels.\n\n - Have strong ownership, prioritisation and execution skills, and can work effectively with Engineering, Design, Analytics, Marketing and cross-functional stakeholders.…",
-   "exp_min": 3.0,
-   "exp_max": 5.0,
+   "exp_min": 3,
+   "exp_max": 5,
    "exp_text": "",
    "stretch": true,
    "pay": {
@@ -232051,8 +232057,8 @@
    "last_seen": "2026-11-21",
    "open": true,
    "jd": "WE'RE HIRING | ASSOCIATE – FOUNDER'S OFFICE \n Dehradun, Uttarakhand | On-site | Full-time \n Experience: 2–5 Years \n Are you someone who can think strategically, work independently and turn ideas into execution?\n We are looking for a dynamic and driven Associate – Founder’s Office to work directly with the Founder & CEO for the growing ventures.\n What will you work on? \n Strategic planning, research and business intelligence.\n Business development and institutional partnerships.\n Project management and execution.\n Preparing business proposals, presentations and reports.\n Leadership coordination and stakeholder management.\n Exploring new business opportunities and growth initiatives.\n Leveraging AI tools for research, productivity and execution.\n Who are we looking for? \n 2–5 years of relevant professional experience.\n Excellent written and verbal communication.\n Strong analytical, research and presentation skills.\n Proficiency in MS Office, Google Workspace and AI tools.\n Ability to manage multiple priorities and work independently.\n A high sense of ownership, accountability and problem-solving.\n Why join us? \n This is not a conventional administrative role. You will work closely with the Founder, participate in strategic discussions, interact with industry and institutional leaders, and gain hands-on exposure to entrepreneurship, business strategy and organisational growth.\n We value initiative over designations, ownership over instructions, and execution over ideas.\n Interested? Send your updated CV to drjuhigarg@divinpro.com \n Subject: Application – Associate, Founder’s Office | Dehradun\n Know someone who could be a great fit? Tag them or share this opportunity.\n #Hiring #DehradunJobs #FoundersOffice #StartupJobs #BusinessStrategy #BusinessDevelopment #ProjectManagement #DivInPro #AlumProACE #Careers",
-   "exp_min": 2.0,
-   "exp_max": 5.0,
+   "exp_min": 2,
+   "exp_max": 5,
    "exp_text": "Seniority level Executive Employment type Full-time Industries Consumer Services",
    "stretch": false,
    "pay": {
@@ -232235,7 +232241,7 @@
    "last_seen": "2026-11-21",
    "open": true,
    "jd": "Description\n Senior Program Manager, Purchase – Retail Business Services\nWe are seeking a Senior Program Manager to lead strategy and execution for Shopping Mission Completion, ensuring customers can seamlessly discover, evaluate, and purchase products across the Amazon store.\n About Amazon\n Amazon.com, Inc. seeks to be Earth's most customer-centric company, where customers can find and discover anything they might want to buy online, and endeavors to offer its customers the widest of selection at low price that drives Amazon’s flywheel.\n About The Team\n The vision of Retail Business Services (RBS) Organization at Amazon is to accelerate Amazon’s flywheel by improving customer experience and enabling our Selling Partners (SPs) to grow their business with Amazon. RBS provides catalog augmentation and correction technologies for the Amazon selling community. Our solutions ensure information in Amazon's catalogs is both complete and comprehensive enough to give our customers a great shopping experience every time.\nRole Overview\nRBS is looking for a Senior Program Manager to lead a Strategy for Shopping Mission Completion for Customers. Amazon Store Walk analysis uncovers critical defects across the Amazon shopping journey; spanning across product discovery, evaluation, and purchase completion. These systemic problems impact the customer shopping journey, from how customers discover and evaluate products to their ability to complete purchases. These issues are categorized into four key defect themes: Data, Search, Catalog and Customer Experience. To resolve these issues, we recommend a coordinated, cross-functional engagement with partner teams that will improve overall customer shopping experience . This role will be at the center of collaboration between multiple world wide teams in re-imagining the purchase experience for customers.\nKey job responsibilities\nShopping Mission is an essential part of the consumer experience and can fundamentally influence the way customers shop on Amazon as well as shape their perception of Amazon.\nAs a Senior Program Manager - Purchase, you will\n Think Big and own vision for building a Strategy that enables customers to complete their shopping journey.\n Disambiguate the problem space and size the problem and opportunity for RBS\n Be responsible for end-to-end business strategy, goal setting, program management, review and collaboration mechanisms.\n Break down ambiguous problems into clear abstract use cases and solution workflows for Tech and Product teams.\n Be responsible for end to end program management with multiple parallel tasks.\n Establish accountability with partner teams and influence them without authority on a common goals.\n Identify risks and develop strategies to mitigate them.\n Be responsible for reporting and review mechanisms and communication to Leadership (Flash updates, WBR, QBR, Deep dives)\n To be successful in this role, you should be comfortable and confident liaising with remote global teams i…",
-   "exp_min": 2.0,
+   "exp_min": 2,
    "exp_max": null,
    "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries Software Development",
    "stretch": true,
@@ -232420,7 +232426,7 @@
    "last_seen": "2026-11-21",
    "open": true,
    "jd": "Company:\n Qualcomm India Private Limited\n Job Area:\n Engineering Services Group, Engineering Services Group > Program Management\n General Summary:\n The Qualcomm Datacenter team stands at the forefront of innovation, crafting cutting-edge hardware and software solutions that transform the data center, edge, and infrastructure landscapes. Our advanced Datacenter products are trusted and utilized by some of the world’s most prominent organizations, powering critical operations, at scale. As we embark on an exciting phase of rapid expansion, we are actively seeking talented professionals across diverse disciplines to join us in shaping the future of technology and delivering breakthrough deployments on a global stage.\n Job Overview:\n Develops, defines, and executes Application SW plans of record, including schedules, budgets, resources, deliverables, and risks across multiple large projects. Monitors and drives the program from initiation through delivery, interfacing with internal and external stakeholders across functions. Monitors budget/spending, on-time delivery, and achievement of program milestones. Represents the program and drives alignment across stakeholders.\n Preferred Qualifications:\n 12+ years of experience in a combination of technical product development and program management in the industry.\n Strong technical understanding of AI Application SW stack, architecture, scope, Models, LLM serving, orchestration, optimization techniques overview, overview of compilers, PyTorch, performance, accuracy metrics, industry trends, key use cases and deliverables.\n Create Program Management AI enabled dashboards, analyze existing processes, define new processes driving improvements at scale end-to-end across milestones and multiple products\n Drive AI adoption in Program Management increasing efficiencies working with cross functional organization.\n Proven leadership driving Application AI SW stack program management creates roadmaps, tracking, delivering working with several cross functional teams \n Manage resource allocations, prioritization, costs and milestones \n Strong working knowledge of software development principles.\n Experience with multiple technology development and end-to-end product integration.\n Experience managing products through the entire development life cycle, including risk management.\n Principal Duties And Responsibilities:\n Build strong technical and program understanding to develop key insights and influence.\n Drive and deliver overall program alignment and execution across multiple projects.\n Understand requirements priority and drive scoping and planning, including interdependencies, staffing constraints, and schedule optimization across multiple projects.\n Partner with Product Management and Engineering to establish clear Plan of Records commitments and enable prioritization.\n Establish rigorous execution discipline and communication processes, including risk management, mitigation, tracking, schedule trends vs. baseli…",
-   "exp_min": 4.0,
+   "exp_min": 4,
    "exp_max": null,
    "exp_text": "Seniority level Not Applicable Employment type Full-time Industries Semiconductor Manufacturing",
    "stretch": true,

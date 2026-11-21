@@ -40770,7 +40770,7 @@
    "key": "cashfreepayments|founder s office|bengaluru",
    "type": "company",
    "company": "Cashfree Payments",
-   "company_domain": "",
+   "company_domain": "cashfree.com",
    "company_url": "https://www.cashfree.com/",
    "company_linkedin": "https://www.linkedin.com/company/cashfree",
    "company_note": "YC Summer 2017 · team of 200 · Next-gen digital payments provider for India.",
@@ -40778,7 +40778,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "cashfree-payments:company",
    "source_url": "https://www.ycombinator.com/companies/cashfree-payments",
@@ -40809,8 +40809,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 85,
+    "total": 75,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -40821,15 +40821,61 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Cashfree Payments, team of 200, pay unknown; your S&OP and supply chain scaling work maps directly.",
+    "fit_notes": "The posting is a speculative note to founders for a Founder's Office role at Cashfree Payments [yc]. It does not state years of experience, pay, MBA, or consulting requirements. Shlok has 1.3 years of experience and brings direct execution experience running S&OP planning, inventory buffers, and fulfilment operations at Ola Electric [sop, ceo-coo]. Nothing is missing for a speculative founder outreach, though pay is unstated.",
+    "pay_notes": "Pay not stated in the posting or fetched evidence.",
+    "culture_notes": "Cashfree Payments is a licensed payment aggregator in India [S1] with a revenue of Rs 967 Cr in 2026 [S7], working with leading banks and merchants like Zomato, Swiggy, and Cred [S1]. No specific culture flags or rating counts found in the evidence.",
+    "hook": "Noted that Cashfree Payments recently reported a revenue jump of 51% to Rs 967 Cr in 2026 and continues to scale its digital payments and infrastructure for Indian businesses.",
+    "hook_source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWRPbFE0RUNrX2RmcFdCTVFBMTdDUkhFNmFoR28yRGlmcXlvdU1ibjVkNW5WZ2Q2R0lnRklmNnZVTE5UZmU1Sk16N3BRWENyb3hSaWVUWkNfUmJtRnc2OXVYSXQwbWlHVjFHVDhqTzFoc2I2X0xDQmJCUUkzSk1WZC1qaWtJWDM3NFJyV0tnMFNaUnFNV3dVU1h4T1k?oc=5",
+    "researched_at": "2026-11-22T03:28:50+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Cashfree Payments website",
+      "url": "https://www.cashfree.com/"
+     },
+     {
+      "id": "S2",
+      "title": "India's SBI-backed Cashfree Payments bets on cross-border push with travel, investment payments - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbmZxOU8wVXVDdGM1Z25uYUlxYUhnWktYdW9TdlVwMlJBM2NiVGtPRlBwRUQyX09VV2lOeGVhLTdMNk9GbkFxZy1pLW5QajBCaDBNejdYWk51VDJtYTdSeExZRlFiZWI1elEyYk9tUmwzbGRXSzktTkRZcG1idThoeGxUVmZPMFFCSDVqYnU0OEhYT2ZNT19DYUFic1NwWVVTMXRZSkJwM1pjdWlETHhyVXZLMUNEQlFpc0E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "How Cashfree Payments is helping India’s next wave of SMBs build and scale - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWF9MM3BaVUlubnBMWV9vWENnTFkxT0cwZXdwbnF5Q2RWVTc1eVZQZW5DNUxWVWM0cElqOVFjY0t4b2pyejZCNkVwUmg3eE5sR3Bya3J4LW56MHMyM2NZakRJWHZsM2xnZ0lHSTVmUGtMQXU3d2g4MktKSmk2VkhGcW5LU2Z5QURYVklEbzJybnY0ak0?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Cashfree Payments Announces zero percent Payment Gateway Fees for its New Businesses Till March 2027 - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUGs3aGxWRy1NZjN6MzBtREV6bnZ1QzZ4bktJYUVvNk5vY2NRMHZXZHl2T1JYNkhvRHFrVy1xMEtGMUEtUGJ4dWdBQmxoRnFIZm5YV3ZwakVrYUJqLS16SGdvOFh6N21WVUd5aXNDOVlxeHJZT2JUZUs4YlZJbUtCdmh4TTZ4b1diR2tUaVozX254UW02UmF6dWJDYjJiaEZNdi1GQWg0ZGNWemZMUlZJemRURXRnLVUwZzVmYWE4ZmhPUDVZRFRUS25xeFNMQUFVb1ZiTVFicEJWb3BSbFZNOHZuY1RXUQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Cashfree Payments offers zero payment gateway fees to woo new merchants - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcWgtSGxqRVBtc2FuNFhPeXpiVVVicDBmSllOSFY4TGtUelZ1NVplYU5GZnI1WjRHYS14eVNzbTJrei1yTlFnNDBjZjdRWk5Xd3FvZjBGTEp2anRhWkZaVE5Pa0hfTjlkQkMxa0NESW1MZ2lOT3FKYXZDdGw5XzZ3bTdRZDRPOU9UVnlPdDJ0UXNxYmdFSFdzalBYc2xySnhBT2JzNE01cXdBMzJCTTVWUXR2WklVeTZqcjNXOEo4bk9iZThFTG52T05RUndlc0JEamRET3dhdkg1QmJ4bHfSAeMBQVVfeXFMT3I5azZXRVBSM29xbkN5LXVmcHdEZ254aVlSWU9YbkdreVRza1lHVXpaX3BHS3ZKNlMwNF9hcFBnZ01zQlk2WWZqSlVDYTE5Z09fSGRVYVUxamxfOXZOazZUdkd1VUFtaGxOTUNuMEVUSFNtRmNISExrTkNPSFdseDd4cHFQTi16UW9RZExCUVp3ZXhuOC1nYXplWFFNbmFHa1VBSktNV3ZFX1ZRRUZ1ckprTlJ3ekZieGhuZENJTTZpcUM3TkN3YXl3bVRPdEhpb1Z4U2FUemdlckcyZ1ByNjNUTVk?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Cashfree Payments Launches ‘Relay’, AI Super Agents to Automate End-to-End Payment Operations for SMBs - Elets BFSI",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQczZnS2xvRTVibURMb3hWY0xNWV9QZmxkRlZjdGpqa1hqSWVmSWRaTDhlUlJvMVIxNFVDWWNLRVlmbjZlLTZ5QlJuUDRfUGkzTmZUeFpwakdoQkpvYTBDQnY4cFFoZEdmTFEzN2xRMHlmZmdSTzZUcGgydVdMTnphZE4xel9xWXpraWtyUU5qOEZVbGwtcjA2WTBCaGJDMUhaU2JaVFlnZEJwaXlsdFMyekwtYXhJcDZueVE5Y2t3NDhDaWxTc2NGUA?oc=5"
+     },
+     {
+      "id": "S7",
+      "title": "Cashfree Payments Revenue Jumps 51 % To Rs 967 Cr In 2026 - BW Disrupt",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWRPbFE0RUNrX2RmcFdCTVFBMTdDUkhFNmFoR28yRGlmcXlvdU1ibjVkNW5WZ2Q2R0lnRklmNnZVTE5UZmU1Sk16N3BRWENyb3hSaWVUWkNfUmJtRnc2OXVYSXQwbWlHVjFHVDhqTzFoc2I2X0xDQmJCUUkzSk1WZC1qaWtJWDM3NFJyV0tnMFNaUnFNV3dVU1h4T1k?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -40880,9 +40926,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 61"
+    },
+    {
+     "at": "2026-11-22T03:28:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 75: qualified"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30",
+   "updated_at": "2026-11-22T03:28:50+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -40892,7 +40944,8 @@
     "at": "2026-11-21T22:17:43+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0320",

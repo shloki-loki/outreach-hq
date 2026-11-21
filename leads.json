@@ -22426,7 +22426,13 @@
     "kind": null,
     "since": null
    },
-   "notes": [],
+   "notes": [
+    {
+     "at": "2026-11-21T14:39:33+05:30",
+     "by": "lead-scout",
+     "text": "LinkedIn posting returned 404 on 2026-11-21"
+    }
+   ],
    "timeline": [
     {
      "at": "2026-11-12T21:02:04+05:30",
@@ -22451,9 +22457,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-21T14:39:33+05:30",
+     "actor": "lead-scout",
+     "event": "posting_closed",
+     "detail": "confirmed closed"
     }
    ],
-   "updated_at": "2026-11-14T19:01:52+05:30",
+   "updated_at": "2026-11-21T14:39:33+05:30",
    "live_check": {
     "at": "2026-11-14T19:01:52+05:30",
     "state": "closed",

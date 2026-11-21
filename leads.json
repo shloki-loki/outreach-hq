@@ -206370,15 +206370,15 @@
    "key": "trayahealth|business strategy manager|india",
    "type": "job",
    "company": "Traya Health",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "traya.health",
+   "company_url": "https://traya.health",
    "company_linkedin": "",
    "company_note": "",
    "title": "Business Strategy Manager",
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "476809",
    "source_url": "https://www.instahyre.com/job-476809-business-strategy-manager-at-traya-health-mumbai/",
@@ -206409,8 +206409,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -206419,15 +206419,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Strategy Manager at Traya Health in Mumbai, asks 2-5 yrs and consulting background; location and pay gap.",
+    "fit_notes": "The posting asks for '2-5 years of proven experience in business strategy, growth, category management, or founder's office roles within startups or high-growth environments' and 'Relevant experience in consulting, corporate strategy, or startup strategy'. It also requires 'B.Tech (Tier 1) or MBA (Tier 1)', which Shlok's IIT Guwahati background satisfies. His experience of about 1.3 years makes 2-5 years a stretch, and he lacks consulting or formal corporate strategy background. Furthermore, the role is in Mumbai, whereas Shlok wants Bengaluru or remote first.",
+    "pay_notes": "Pay is not stated in the posting, and there is no evidence of salary figures in the company data.",
+    "culture_notes": "Glassdoor ratings and details were not found in the posting or evidence. A culture flag notes Traya Health under scanner over unauthorised medical practice [S1].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T03:30:00+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Hair-loss care without dermatologists? Traya Health under scanner over unauthorised medical practice in... - Medical Dialogues",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSVIzV01FOWJaM2JJb0ZjV3hjNDVpVldQRWI4bXNQNlFaMDQ1dGdqNWQ2VDRhVHhxVzR1MUhZeEM0U3czcVJycW5UV19lUmpDU3hxWGVLVmxNcFhRR2xZTG83VkVYc3UzaGItclhsbF9la3dmMEpMTnRyX3ktb0RLend2SUVqMHRSQ1Y4QUpSSnY2alllU2djbHpmRUxKdmpwalVFbTRNTFpISW5lRFh6Yzdka2RrVWpseUtfVFBUNkdJMklrQnEwZi03T3kzNjBfWnpEbDNBTk1HRU5iR3h4bWljanR2bHo2bXhHa0VCLTZva21IbmJrZy1Fc0twblFIRVo2TkVPS05MX2050gGSAkFVX3lxTFBoMDk0UkFRWWlYc1VmUEplTnlsaEJLajFEMlVpcmFyYkJwalNvNVZYOEswQW1YaUptQUdUbGFKRXNVSEpkUjdsUkl3eGlTTmdEci1rWm1XM2xpdkpNRGRHa1VNLUJPWGh3WS1DbGtfTmZ6cDFEeUdMUHdOOUtHRzRBZWh0ZE5sSGQycTA3WkF4bi1zdkdYSVBuOXd6eUVpZHNlTG1UMlNSLXJvV0xIb3NBaXRmNDdQZFdmUnlLZnVRU3B5SHBpX2p3ODJ4aGY2Y2JsRkxkZkpUMnM1RDAzdFljYjkzWUpza3FkSUY1dkdKY3NHZlZGdDV4OUhndTVHVnJsUDB6OVFuSmk5Tm56NXBlanc?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -206451,9 +206467,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-22T03:30:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role is in Mumbai, requires 2-5 years of experience (stretch for 1.3 years), mandates consulting or startup strategy background, and pay is unstated with no evidence meeting Rs 24.5 LPA.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-22T03:30:00+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -206463,7 +206485,8 @@
     "at": "2026-11-21T22:26:24+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Role is in Mumbai, requires 2-5 years of experience (stretch for 1.3 years), mandates consulting or startup strategy background, and pay is unstated with no evidence meeting Rs 24.5 LPA."
   },
   {
    "id": "L1687",

@@ -222429,15 +222429,15 @@
    "key": "amazon|program manager amazon pharmacy|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.in",
+   "company_url": "https://www.amazon.in",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Program Manager, Amazon Pharmacy",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4476708691",
    "source_url": "https://in.linkedin.com/jobs/view/program-manager-amazon-pharmacy-at-amazon-4476708691",
@@ -222453,7 +222453,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Description\n About the Role:\nWe're seeking an experienced Program Manager to join our rapidly growing Pharmacy team. As a Program Manager, you will be responsible for driving multiple new business initiatives like scaling up specialist medicines, working on prescription partner management and driving initiatives that enhance customer experience across Amazon's pharmacy business.\nKey job responsibilities\nProject Management\nWork on critical business projects including specialist medicines, prescription management, and more to drive business growth\nDefine project scope, goals, and deliverables in collaboration with senior management and stakeholders\nDevelop detailed project plans, track progress, and ensure timely delivery of milestones\nIdentify and resolve bottlenecks, dependencies, and risks proactively\nBrand Management\nWork with internal and external stakeholders to drive business metrics that directly impact seller and customer experience\nBuild and manage relationships with top pharmaceutical brands to improve selection, availability, and compliance\nDrive brand registry adoption and work towards reducing customer contact rate (CCR) defects\nAnalyze brand performance data and develop strategies to improve key business metrics\nProgram Management\nCreate and maintain project plans, timelines, and documentation\nConduct regular business reviews and prepare executive-level presentations\nManage risk assessment and mitigation strategies\nDrive data-driven decision making through analytics and reporting\nDefine and track program KPIs, OKRs, and success metrics\nDevelop scalable mechanisms and SOPs to ensure operational excellence\nStakeholder Management\nBuild and maintain strong relationships with cross-functional teams including Product, Tech, Operations and Category teams\nCollaborate with external partners and vendors (e.g., pharmacy chains, prescription partners, brand principals)\nCommunicate project status and escalations to senior leadership\nInfluence without authority across teams to drive alignment and execution\n About The Team\n Amazon Pharmacy is revolutionizing how customers access healthcare products and medications. We're building innovative solutions to make healthcare more accessible and affordable for customers across India.\n Basic Qualifications\n 3+ years of program or project management experience\n 3+ years of working cross functionally with tech and non-tech teams experience\n 3+ years of defining and implementing process improvement initiatives using data and metrics experience\n Bachelor's degree\n Knowledge of Excel (Pivot Tables, VLookUps) at an advanced level and SQL\n Experience defining program requirements and using data and metrics to determine improvements\n Preferred Qualifications\n 3+ years of driving end to end delivery, and communicating results to senior leadership experience\n 3+ years of driving process improvements experience\n Experience in stakeholder management, dealing with multiple stakeholders at varied levels of the organizat",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -222468,8 +222468,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 75,
+    "total": 71,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -222479,15 +222479,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Program Manager at Amazon Pharmacy in Bengaluru asking 3+ yrs; your S&OP and fulfillment operations map directly.",
+    "fit_notes": "The posting asks for \"3+ years of program or project management experience\", \"3+ years of working cross functionally with tech and non-tech teams\", advanced Excel and SQL. You have 1.3 years of experience (making 3+ years a stretch, but acceptable given your heavy execution background) and SQL skills. Your experience owning finished goods inventory and fulfillment operations answers the S&OP and supply chain scaling requirements (cited in [sop], [ceo-coo]). The posting requires a Bachelor's degree (which you have from IIT Guwahati) and does not require an MBA or consulting.",
+    "pay_notes": "Pay is not stated in the posting. At 1.3 years of experience, securing Rs 24.5 LPA fixed at Amazon for a Mid-Senior level role might be on the higher side, but Amazon L5/L6 program management roles often clear this band.",
+    "culture_notes": "Amazon has a large footprint in Bengaluru with significant ongoing investments in India [S2], though specific culture flags or rating breakdowns for this exact team were not found in the evidence.",
+    "hook": "Amazon recently announced a $48 billion investment plan in India by 2030, reinforcing its long-term commitment to scaling key regional operations like Amazon Pharmacy.",
+    "hook_source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5",
+    "researched_at": "2026-11-21T13:17:50+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdFh3U0hRSG94d05zeVBjNS13dzNJbWZ1Mml3TTFnd1NfbHBmdWY1UjV3V3ZKbUhudzBKMmxXM0hmZ29qLTFNSmlORER4d2dKVW1HTGhXZXV5MWFfRjRiaGt3c3ZFOEJCbTh0UUhieWJ3MzZ2Z1HSAXtBVV95cUxNbWw4N1JvSTlyRnppc1JXQlRlbHdDS0xqLTcxZm9QdXlmYUNfNVE5UFp2eFk0VGI5WE5nSjl4eDJXN1Rna3BVdnJEQkJicWVJTEpEN3ltZG9RMTJ1QzZ3eURmMDVxNjR2RWxvY0J3MFVMbVR1SzJZMHR2ZG8?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement - Federal Trade Commission (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLXJVZEYtT0JDUmdPeUZxdjlXaHZSQzZFbGFraVRFeVIyYXRFLXN4bzhnZUUtZl9ZdXJlUERrOEY0eXFMZnNvSno2aVpPZTN1SlJDTUtqYUJka3BKV2JubFBuajloYU15b2VPWUlEUmNzX3RGX1NEVE9QQTlNRmRUbWRUbjQtU1o3MHE2amZfdDlJRmhNLTdMRm5DT09SSzFYNjNqYWpSWnVXU09Yc3BPLWlTVzVnMzhaOG12T2xZQUtxd2twNjRZNHlWNTc4OWFnSDlnMlJVWUc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Best Black Friday Amazon deals 2026: Save on MacBooks, Kindles, Sony headphones - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01bHNzSzdpMkFRN1FMVFZjLXZGNGtHRG9IZlQ2cFlGT2FmdXI1SXYtdzlWV2hpaEVvWE10VXlkSllzcHNKTXJqU29zQzVlQlphV3BtS1VJU3lSV1RQTTlCNndKbzRUZGVZN2pBdUFrTlV0eC1O?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "cell"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -222511,14 +222553,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-21T13:17:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 71: qualified"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:17:50+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1848",

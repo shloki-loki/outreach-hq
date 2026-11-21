@@ -222639,15 +222639,15 @@
    "key": "ketto|manager quality and business operations|india",
    "type": "job",
    "company": "Ketto",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "ketto.org",
+   "company_url": "https://www.ketto.org",
    "company_linkedin": "",
    "company_note": "",
    "title": "Manager - Quality & Business Operations",
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "479074",
    "source_url": "https://www.instahyre.com/job-479074-manager-quality-business-operations-at-ketto-mumbai/",
@@ -222678,8 +222678,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 40,
+    "total": 48,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -222688,15 +222688,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Quality & Business Operations Manager at Ketto in Mumbai, asks 8-12 yrs; your experience is 1.3 yrs.",
+    "fit_notes": "The posting asks for \"8 to 12 years in contact center operations (4+ years in Training/Quality)\", outbound sales or BFSI/fundraising background preferred. Shlok has about 1.3 years of experience at Ola Electric [sop, ceo-coo], but falls far short of the 8-12 years required and lacks contact center operations experience.",
+    "pay_notes": "Pay is not stated in the posting, and no credible salary evidence is available.",
+    "culture_notes": "Glassdoor ratings and detailed culture flags were not found in the evidence.",
+    "hook": "Ketto recently shared that Indians gave more than 10.6 lakh times in a year across its crowdfunding platform.",
+    "hook_source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhNGNqNkxfUDF2MEdzLXRZQk9yT2pFYWE4V1I1MWxCZkZUNUZsalIxd0E2RWs2MXBYMU9uSkRxOEk0SW9FTjdLT0c1ajlfSm1qRWd0TFJDSjJFYlNySm94R1BPLW0tX28yRzQ0?oc=5",
+    "researched_at": "2026-11-22T03:30:21+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "After Ketto, Kunal Kapoor wants to get to people before the crisis does - ET Entrepreneur",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVjlSbEFJcE1ocTdqNWJVWl9oQWlydmRpcDRwZ2xqeXgyOUdDQU4yaTF1NFBBQ1dhU1JraUl6c0tHOXJUcjRGVHJETEVJSk1xT2hyZ0l5SWdacmtvcUY4aUdJLVBuU0g5U25rMnA0cmVnMXVadFE2UzhkYy1XQnR4WHNWa1dpdkVxalNLSzJTcWhmX2FoU0g3N3pkU1VZM3lyLVVBc1R0MGdlOTdyYW9rX1QzZUstcjNQcDFrMzRSVktfYzhEOUdzMzlLUTNGWXpQdUHSAdcBQVVfeXFMTjVPcTJrdGVVNllFMjVTNVFVOFBBck9sU3BHeGUyRy1abVJwTDExNTNXTlhnMk1oSlo0dWNucXkwaFdob3dsRzE1dDJiRTNJOXNzSFZZd042cG16V0dmMVVJV2YxNE45T05qSTlHM2hTeW9Ib2NfcEtXMVhBcmpWSm0wTXRNcmlsNGhFa0lodmNyVXFvazlrdXlJR3ZhV2NnWmJDbFk3dC00WmZlMG94SW1ZMzRFQnh4NHFYakJ0Q1BEa1VrYVNmTF8zMktTLUF3VmhHWjE4S3c?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Ketto co-founder Kunal Kapoor: Success goes from only taking to also giving - Adgully",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZVlyWVBHRWNST2lFbE91d01lTWlidlZQc2NGZEs1VmFqU1VxUHhPYmlRUWc4ek5GOTR6S0tGR3Zqd244QUVCMkFhTTM3VUJ5VGgxMUQ0YjVpQ3d6OUcwLXRodkk1cXNQZldjWHBfenRGR1MtdmY5Z3NiOUFqMzNxQ2tVb3Q3VzR5ckwzSUNHb1FobFBfUGE4?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Kunal Kapoor, Ketto Cofounders Launch Healthtech Startup MetaGO - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2EyUWhYZGJEeFBJRkY1eWZ2b0RIdV9BakFPOGFQazJRVl9KbUpWb0dHbmpVYWdxRnF4NkRNTTExQ3VJLVJOeGVRLUVrWS1ENndaZ3RqdXFySmtUdDAyMkFaOXdCbi1fTjFJc3VmMklkLTQ3d3FYQVFlRmlLTHlaQ0EwcldVWXY1YVBaRHRwOA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Actor Kunal Kapoor With Ketto Co-founders Unveils Healthtech Startup MetaGO - BW Disrupt",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGQ4aWFiRnlLMFFzdnJ4OTZhQmZpT0lncUkxeFpxRmRXQ056SnBIOFQwSjMtRDhBazdJSGJ5TU5Fb1BQUjBYTDF5VGxCUVB5TkwtekVxQl9ZMzI4d1lIQ1JWMWV5Y2w3c1JvbUVjUGZvdG11MExvRExFbnFna2ozZVM2QlBQWkZacWh3MW5aTFpHU3J2di1FRW1HLUVxQzBqejhZWl9zb3JkWm1GejFRS0MxMFVwcTQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Indians Gave More Than 10.6 Lakh Times in a Year: Ketto - India CSR",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhNGNqNkxfUDF2MEdzLXRZQk9yT2pFYWE4V1I1MWxCZkZUNUZsalIxd0E2RWs2MXBYMU9uSkRxOEk0SW9FTjdLT0c1ajlfSm1qRWd0TFJDSjJFYlNySm94R1BPLW0tX28yRzQ0?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Ketto - 2026 Funding Rounds & List of Investors - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0lMSjFaR3ZtUV9BQUx6WUwwanpCM3NfT1FKd1dUeTROVy1ubmlQVVJmWXNFcHhxNXR2Q1lzTFItLUt4RFdST05iZkg3RzViWVdHaWRZTm9YTDZ5c183UXQyNElpNFlyNGN4d3duMFJKT3FCSWNBTUtQWHdlRHJsX2VvLXJkaUY5TldmdnRWbXY3bGc1UGNHdG41WWlCOE1zbUhwaFEzSQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -222720,9 +222758,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-22T03:30:21+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 48: rejected (The role requires 8 to 12 years of experience in contact center operations, which heavily exceeds Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-22T03:30:21+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -222732,7 +222776,8 @@
     "at": "2026-11-21T22:29:17+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role requires 8 to 12 years of experience in contact center operations, which heavily exceeds Shlok's 1.3 years of experience."
   },
   {
    "id": "L1829",

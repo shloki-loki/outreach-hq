@@ -55328,9 +55328,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Shorya Mahajan"
+    },
+    {
+     "at": "2026-11-21T15:12:28+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Kartik Kanaujia"
     }
    ],
-   "updated_at": "2026-11-20T16:13:25+05:30",
+   "updated_at": "2026-11-21T15:12:28+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

@@ -227194,7 +227194,7 @@
    "key": "hbox|chief of staff|bengaluru",
    "type": "job",
    "company": "HBox",
-   "company_domain": "",
+   "company_domain": "hbox.ai",
    "company_url": "https://hbox.ai",
    "company_linkedin": "",
    "company_note": "A fast-growing healthcare technology company building virtual care solutions for specialty medical practices.",
@@ -227202,7 +227202,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "hiringcafe",
    "source_id": "sparkhire___hbox%2F5B.00F___30.570",
    "source_url": "https://www.comeet.com/jobs/hbox/5B.00F/chief-of-staff/30.570",
@@ -227218,7 +227218,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "﻿ \n Spark Hire Recruit Jobs | Spark Hire Recruit - Collaborative Recruiting \n -->\n -->\n {{position.name}} @ {{company.name}} \n {{position.department}}\n {{getLocationName(position.location)}} \n {{ position.experienceLevel }} \n {{ position.employmentType }} \n ID: {{ position.internalUseCustomId }} \n Employee only \n An error occured. Please try again\n {{company.name}}\n Thanks for your interest in {{company.name}}. \n We're sorry, but there are currently no open positions.\n Contact us on our website .\n We don't have any open positions at this time.\n Please visit again soon. \n All Jobs \n All Jobs\n Website\n -->\n {{ position.name }}\n {{ position.department }}\n {{position.location.displayName || position.location.name }}\n {{ position.experienceLevel }}\n {{ position.employmentType }}\n ID: {{ position.internalUseCustomId }}\n Employee only\n {{field.value}}\n -->\n {{field.name}}\n {{field.name}}\n Apply for this job\n Interested in this position?\n Apply as an employee \n Know anyone who might be interested?\n Refer a friend \n-->\n All Jobs \n All Jobs\n Website\n -->\n Terms & Policies · Cookies",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "6+ years",
@@ -227233,8 +227233,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 35,
+    "total": 50,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -227243,15 +227243,33 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff at HBox, but the job posting is broken and displays no open positions or requirements.",
+    "fit_notes": "The posting mentions no specific years, skills, MBA, or consulting requirements as it is a template error page showing no open positions. None of Shlok's facts can be evaluated against active requirements.",
+    "pay_notes": "No pay stated in the posting or search evidence.",
+    "culture_notes": "Headcount, funding stage, ratings, and reviews were not found in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T13:13:17+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "HBox website",
+      "url": "https://hbox.ai"
+     },
+     {
+      "id": "S2",
+      "title": "Atomistic insights into the magnetic-field modulation of the $$\\hbox {A}_{2A}$$ adenosine receptor | Scientific Reports - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SdG85a3pYSkZBYktndjFESTEwdU16cUg5OGlVWWVweEFQeEFBQ3F4SEN3VUtaTlRFaUFPNGtBU2JQR2VSNGhzZ2trQ2pMNE94eGJEMWMwR051b1JOcFlv?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -227275,14 +227293,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 73"
+    },
+    {
+     "at": "2026-11-21T13:13:17+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (The posting page is broken and shows no open positions, with zero pay or experience requirements stated and no way to evaluate the role.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:13:17+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting page is broken and shows no open positions, with zero pay or experience requirements stated and no way to evaluate the role."
   },
   {
    "id": "L1898",

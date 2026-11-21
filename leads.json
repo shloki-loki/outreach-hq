@@ -223070,7 +223070,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491924683",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-at-moksha-media-group-4491924683",
@@ -223086,7 +223086,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Company: Moksha Media Group\n Location: Gurugram (Work from Office)\n Experience: 2–5 Years\n Moksha Media Group is looking for a proactive, analytical and result-oriented professional to work closely with the Founder and senior leadership team.\n Key Responsibilities: \n Support strategic business initiatives and special projects.\n Coordinate with cross-functional teams and senior stakeholders.\n Prepare business reports, MIS, presentations and performance dashboards.\n Conduct market research and competitor analysis.\n Track business priorities, deliverables and execution timelines.\n Support business development and growth initiatives.\n What We're Looking For: \n 2–5 years of experience in Founder's Office, Business Operations, Strategy or Management Consulting.\n Strong analytical and communication skills.\n Excellent MS Excel and PowerPoint proficiency.\n Strong ownership, coordination and problem-solving abilities.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Technology, Information and Media",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -223101,8 +223101,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -223112,15 +223112,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office at Moksha Media Group in Gurugram asks 2-5 yrs; location is Gurugram onsite and pay is unknown.",
+    "fit_notes": "The posting asks for '2–5 years of experience in Founder's Office, Business Operations, Strategy or Management Consulting'. Shlok has about 1.3 years of experience, making 2-5 years a stretch, though his S&OP and CEO/COO work ([sop], [ceo-coo]) matches the operational execution needs. However, the location is Gurugram, Haryana (Work from Office), which fails his location preference (Bengaluru or remote first).",
+    "pay_notes": "Pay not stated in posting; no evidence found in web search.",
+    "culture_notes": "No company website or news found; culture and company quality cannot be verified.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T13:17:56+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -223144,14 +223154,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-21T13:17:56+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Location is Gurugram (onsite) which violates Shlok's rule of Bengaluru or remote-first; pay is unknown and below target likelihood; company quality and culture have no supporting evidence.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:17:56+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Location is Gurugram (onsite) which violates Shlok's rule of Bengaluru or remote-first; pay is unknown and below target likelihood; company quality and culture have no supporting evidence."
   },
   {
    "id": "L1854",

@@ -234278,15 +234278,15 @@
    "key": "pricewaterhousecoopers|senior associate strategy operations strategy|bengaluru",
    "type": "job",
    "company": "PricewaterhouseCoopers (PwC)",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "pwc.in",
+   "company_url": "https://www.pwc.in",
    "company_linkedin": "",
    "company_note": "",
    "title": "Senior Associate - Strategy - Operations Strategy",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "486371",
    "source_url": "https://www.instahyre.com/job-486371-senior-associate-strategy-operations-strategy-at-pricewaterhousecoopers-pwc-bangalore/",
@@ -234317,8 +234317,8 @@
    },
    "score": {
     "rules": 67,
-    "research": null,
-    "total": 67,
+    "research": 35,
+    "total": 48,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -234328,15 +234328,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Operations Strategy Senior Associate at PwC, asks 4-8 years and an MBA; requires consulting background you do not have.",
+    "fit_notes": "The posting asks for 'At least a Master of Business Administration's degree' and 'At least 4 years of experience in professional services or consulting roles that include Operations strategy consulting experience'. Shlok has 1.3 years of experience, no MBA, and no consulting background, making this a direct hard-requirement mismatch.",
+    "pay_notes": "Pay not stated in the posting; no evidence found for this specific role.",
+    "culture_notes": "Global professional services network with 250,000+ people; specific Glassdoor ratings not provided in the snippet.",
+    "hook": "Global consulting group PricewaterhouseCoopers (PwC) is consolidating its existing India operations.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xVnpfTmJIR1htQUxKYUpTdTM3MlNzLUhEOUE0WDlMUEJKSVozdHN4dUJ1SF9LOFRQRURXNVREdXg0THI0YUdaTDhobDJsdHc?oc=5",
+    "researched_at": "2026-11-22T03:21:43+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "PricewaterhouseCoopers Services celebrates tenth anniversary - PwC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeWRWMld2RUw3VndTZmItakdBNHlnZzZ0dmhQNWxtajRqcTg1VkJoTXdNRDF2T1c5TE1JdzFScTdUcUFFT3h0VjlISjJwU0dYVlRNRU11WmpVTWVwRDhNVHFRVTRjM2RJdmszak0xYjQtN3hiNFdua3pCajNBT29aVjJUUmZqTkJObFBoRWVQNmg5OXpKRkdVYktmMU03czFucGpR?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "PricewaterhouseCoopers takes control of Ekati as shutdown process begins - Yellowknifer",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzloNWp2QUpBT3p6eW43SkxDa1NKaEk5QlJCUHF3X3VXUWJ2M1lSdXBGVEJaUlpuWDctWk4zUFJaSWo0T1NmOUpZX2ZadnZYVU53UVFGNjIwei0wcFVvSkVsTWM5WFNXLXU5OGM1dGY4ajdaTm96aFp5NXZlWWNXWkx6TDBhRGFOcEstNUE3SUZXUnhpUXJ3dkdZMDRDMjNabnRBQmh6MTN0NXY4Z1E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "PricewaterhouseCoopers Brasil Ltda. Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFREUEVXOGRLcnhOTjh4dEZkMDdOZXZfTnlERWFZSTZtYnVyckE0SGNwdktocDJlUUZqeFpJQzZiZWRFNGhQak1leUczQlJ1dTQxR1dJZGRYa01fOExYb3VCNVZxMnlVa3JKdlNRVXRsR2FHS3J0ZmlCUFRZUWZBeThWUm5FME5Pb1E?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "SEEK Limited Appoints Ernst & Young as External Auditor After PricewaterhouseCoopers Resignation - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSlNZQmN1THQ0OWRHS0lySlJjYmp5em5haVdmREtVVXdZakM3NnBhUXg5OFdjZlJtaWYxTUFvbldRT1R6VTQ0MHBFRFNOWnlicnJvLWhFQmhSUzl6NFhnR1N1Z1lOUWNITklMbHdDZ0d4Nnp3WXNhR3NCbjI2ZWlEZ3pNV1dzNDNlZDFHdHV0TlNpUExOREY2Q1doTEJBbDRiX0llWFZub2w4ODhlRzNZMk1FR3pab1JaeVR6RmRUQ1ltTnNIZ0hoenZtaWlCR3FoSmc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "PricewaterhouseCoopers Lobbying Profile, 2019 - OpenSecrets",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGF6M3F2WGFpcVlraERzSGhlSGVJQ0JNZDhuaUpqOWM5NHVLS1R5eWN3SVN3RGY0a3ZzSFhPWTRMZFA3ZElITHdESFpDdzdBajZFZEpFOFltcmFPaUotc0JyR3NDazRNYzRhWHlfWG1yQ0RyMGZQRmxJN2dBVmhGODdlQ1JMSHFzaGdXLTVBQTFNUXdHZE9jdWR2eDl2eEs3SlNFNmNR?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Global consulting group PricewaterhouseCoopers (PwC) is consolidating its existing India operations - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xVnpfTmJIR1htQUxKYUpTdTM3MlNzLUhEOUE0WDlMUEJKSVozdHN4dUJ1SF9LOFRQRURXNVREdXg0THI0YUdaTDhobDJsdHc?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -234360,9 +234398,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 67"
+    },
+    {
+     "at": "2026-11-22T03:21:43+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 48: rejected (Requires an MBA and 4+ years of consulting experience, which exceeds Shlok's background and violates his hard requirements.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30"
+   "updated_at": "2026-11-22T03:21:43+05:30",
+   "reject_reason": "Requires an MBA and 4+ years of consulting experience, which exceeds Shlok's background and violates his hard requirements."
   },
   {
    "id": "L1941",

@@ -529,7 +529,7 @@
    "opened_at": "2026-11-21T14:38:24+05:30",
    "last_seen": "2026-11-21T14:38:24+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: Reoon quota spent (I0016) so top leads stay catch-all/guess; recheck crash was a git commit exit 1 in data/ (same flaky data-branch sync as I0015). Fix for Shlok: top up verifier credits or supply published addresses; the git flakiness needs a retry wrapper in store.transact (code change, not done in scheduled run).",
    "resolved_at": null
   },
   {

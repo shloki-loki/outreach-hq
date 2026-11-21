@@ -227420,8 +227420,8 @@
    "key": "urban|category operations manager|bengaluru",
    "type": "job",
    "company": "Urban Company (UC)",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "urbancompany.com",
+   "company_url": "https://www.urbancompany.com",
    "company_linkedin": "",
    "company_note": "AmbitionBox 3.3 (2097 reviews, via Naukri)",
    "title": "Category Operations Manager",
@@ -227451,16 +227451,16 @@
    "stretch": false,
    "pay": {
     "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "min_lpa": 4,
+    "max_lpa": 14,
+    "basis": "estimate",
+    "source": "AmbitionBox Category Manager, about 515 salaries, total reported, via web search snippet",
+    "fit": "Below range (estimate)"
    },
    "score": {
     "rules": 80,
-    "research": null,
-    "total": 80,
+    "research": 30,
+    "total": 50,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -227471,15 +227471,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Category Operations Manager at Urban Company; AmbitionBox pay for category managers is about 4-14 LPA, under your floor.",
+    "fit_notes": "SQL and Excel match; inventory and rebalancing work is relevant, but pay does not clear.",
+    "pay_notes": "Thin evidence for ops-titled roles; a Senior Category Manager listing showed 15-20 LPA.",
+    "culture_notes": "AmbitionBox company rating 3.3 (2097 reviews, from Naukri); category managers rate pay 2.9/5 (71 reviews).",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T14:39:16+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -227503,9 +227505,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 80"
+    },
+    {
+     "at": "2026-11-21T14:39:16+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 50: rejected (AmbitionBox shows Urban Company Category Manager roughly Rs 4-14 LPA (about 515 salaries, 1-4 yrs experience), below the Rs 24.5 LPA floor. I could not read the Naukri page itself (JS-rendered), so the posting's liveness is unconfirmed; the stored JD asks 6 months-2 yrs and Excel/SQL/Tableau.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T14:39:16+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
@@ -227515,7 +227523,8 @@
     "at": "2026-11-21T13:11:43+05:30",
     "why": "the posting page has no readable description",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "AmbitionBox shows Urban Company Category Manager roughly Rs 4-14 LPA (about 515 salaries, 1-4 yrs experience), below the Rs 24.5 LPA floor. I could not read the Naukri page itself (JS-rendered), so the posting's liveness is unconfirmed; the stored JD asks 6 months-2 yrs and Excel/SQL/Tableau."
   },
   {
    "id": "L1894",

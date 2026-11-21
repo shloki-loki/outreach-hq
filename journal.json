@@ -4859,6 +4859,15 @@
    "title": "Run failed",
    "detail": "sent 3, failed 7. run limit of 10 reached; the rest go on the next run",
    "ref": ""
+  },
+  {
+   "id": "J0541",
+   "at": "2026-11-21T14:40:07+05:30",
+   "by": "lead-scout",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "9 researched, 0 qualified, 9 rejected, 3 closed (404), 0 emails; scrape under 3h old so skipped; Apify and stale re-verify not used",
+   "ref": ""
   }
  ]
 }

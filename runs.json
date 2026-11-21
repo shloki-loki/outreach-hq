@@ -1,16 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-13T17:14:18+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "sent 1, failed 0. nothing approved is waiting",
-   "stats": {
-    "sent": 1,
-    "failed": 0
-   }
-  },
-  {
    "at": "2026-11-13T17:28:25+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3874,6 +3864,13 @@
     "sent": 3,
     "failed": 7
    }
+  },
+  {
+   "at": "2026-11-21T14:40:07+05:30",
+   "agent": "lead-scout",
+   "ok": true,
+   "summary": "9 researched, 0 qualified, 9 rejected, 3 closed (404), 0 emails; scrape under 3h old so skipped; Apify and stale re-verify not used",
+   "stats": {}
   }
  ]
 }

@@ -233403,15 +233403,15 @@
    "key": "thales|category manager|bengaluru",
    "type": "job",
    "company": "Thales",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "thalesgroup.com",
+   "company_url": "https://www.thalesgroup.com",
    "company_linkedin": "https://fr.linkedin.com/company/thales",
    "company_note": "",
    "title": "Category manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493224331",
    "source_url": "https://in.linkedin.com/jobs/view/category-manager-at-thales-4493224331",
@@ -233447,8 +233447,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -233458,15 +233458,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Category Manager at Thales, asks 12+ years; your 1.3 years makes this a severe seniority mismatch.",
+    "fit_notes": "The posting asks for '12+ years in mechanical engineering, supplier management, or contract negotiation' and a 'BE/B.Tech in Mechanical Engineering (or equivalent)'. While Shlok has supply chain experience at Ola Electric answering parts of the domain via facts like [mrp] and [ceo-coo], the 12+ year requirement is far beyond his ~1.3 years of total experience.",
+    "pay_notes": "Pay is not stated in the job posting, and no salary evidence was found in the search results for this specific role at Thales.",
+    "culture_notes": "Thales is a global technology and defense leader with over 2,200 employees in India. Specific employee ratings and culture reviews were not found in the search results.",
+    "hook": "Thales and Google Cloud recently expanded their collaboration to secure Agentic AI Workflows on Google Cloud.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHQ5OU14UjhVeUtQSUFBU3pZMEt0LWQwVUlBdzBsVEZyMXdDOTVvN2RoSG9ubzBESEk5VnNoREpaSk1DXy1zWmYydzlKRWVNUUY4ak4xY2k2Z0xqUHV3a0N6cjFZNXRpbGhTdWtvZ2p0LTI3ckdHYk51YUVoSVIyRmcweVRXVExPLVpqYVdsTF9qeWNFS3RUYmNKeGVzU0lhLVJ5QUtueGl3OGJBLWUyRXhfNEg0YngtREdra2lLdTVFVFpNREI4dVF3?oc=5",
+    "researched_at": "2026-11-22T03:27:21+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "India's Bharat Forge unit, France's Thales sign rocket systems alliance - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUlfOUU0aV9BeFNRdzdqTnRsOFVaZVJHQ00tcG45Z29fUGNqUk1famd6UDBHYlUxN3dnRWk4TWVDcEQ1ZXI5RmxUc0RQRUxFZXJvZmY2NHFZRVRBYS1KM1RFV1NVemMtWWtBSWpiVnZlNFBvV2dnblVPT1diVHI2ZGdDa2NPTjIwVExBWWhqV1l3cWR0M2RmNjl3MG1fanZoeUhYWjgwUFJHUFpYSGI0UVZEY1Y2WUU?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "telecommunications - Thales Alenia Space",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUFdaWGtqSENFV0U5UGx5SHlVcWx6ZWVERkxOMmFMdmxVcFE4Qk8zR0J4c3BQaVNGS1FFekhHNV9aSzVMcGRQVHpSSVhkcW5rZEdId0J5ODI0MVdseHIyMFNnU2pvcEtRV2FxLUtoX0ZJa2tiRzlvS0xvTVVFWlgzcTFSandlWmlaR192dENOcDhGbHh2VjUxVFpMbEFWYm1YdGVYQVlfdHNNc3g0VldoRUZLQXdCYnNuc0F5VDJkaFdXRXhCVVhpY010RGZWYVhFR0E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Thales posts jump in first-half orders on surge in defence spending - Euronext Markets: Real-time Stock Market Data | live",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVktNnlqWENOLUNITUdjYnI2YTg4eENjX1pCVURtQUZaSkVhQ2lURTdxTVQtMm5GU05QdVoyU3RHa1RDZXJkclZxZW02Q3VOcFNLSHJNMGx1MUNVTURkdzdpU0I2U0V4eUd0cXUtZTBzSUNSUkhBYldKNGh6dkpCQnBFTTZHVU9YeTdNQ2ltNHBVOXhHMEhoc3pBUVlZQ2F3VkFEZQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Thales and Google Cloud Expand Collaboration to Secure Agentic AI Workflows on Google Cloud - Thales",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHQ5OU14UjhVeUtQSUFBU3pZMEt0LWQwVUlBdzBsVEZyMXdDOTVvN2RoSG9ubzBESEk5VnNoREpaSk1DXy1zWmYydzlKRWVNUUY4ak4xY2k2Z0xqUHV3a0N6cjFZNXRpbGhTdWtvZ2p0LTI3ckdHYk51YUVoSVIyRmcweVRXVExPLVpqYVdsTF9qeWNFS3RUYmNKeGVzU0lhLVJ5QUtueGl3OGJBLWUyRXhfNEg0YngtREdra2lLdTVFVFpNREI4dVF3?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Thales looks to export new C2 platform to Gulf nations, says executive - Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa1FUMWZqdEdtaTJSUWpCazFmdU9vdE40dmxmd0dkcXYxYm9wUU9BY29MakxpYWJWcGJsU2hERVhWVlk3dU5PZTFXNGJXblV5M3Y5OXdjanBLYWdnSEtPNFNOelNEZkhPQW5KUVkwWEExY2ZzS1Vvb1BDVUxFenpvRThBZTBaNHNQQVo0Z2d2eDRhOGxsc3RHTERjOTJTbzFpenhWekpWUm9sdw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Fight AI with AI, Thales CEO tells cybersecurity gathering - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlN6bWY1dXlxX1Z5T00yNGdvSEphTTg1R001TnhZVWtwa2c3MWo1MHItbFhnZFFzNkhyY0FObHFQR2E1WEZQQmdXazhmSkZiWDRGTVZtS3dPUzQ1bTlscURLLTJISEc0MHN2NE5FWDdyUFN6QWxKQ005UlhUa1hDd1lPcENxTVN6YjdCeTRNMTFoZ0lLVHREN29rZm5NMTEx?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "mrp",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -233490,9 +233531,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-22T03:27:21+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 35: rejected (The role asks for 12+ years of experience in mechanical engineering, supplier management, or contract negotiation, vastly exceeding Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30"
+   "updated_at": "2026-11-22T03:27:21+05:30",
+   "reject_reason": "The role asks for 12+ years of experience in mechanical engineering, supplier management, or contract negotiation, vastly exceeding Shlok's 1.3 years of experience."
   },
   {
    "id": "L1928",

@@ -167900,7 +167900,7 @@
    "key": "celonis|chief of staff|bengaluru",
    "type": "job",
    "company": "Celonis",
-   "company_domain": "",
+   "company_domain": "celonis.com",
    "company_url": "https://celonis.com",
    "company_linkedin": "",
    "company_note": "A trusted platform to industrialize Enterprise AI, combining process data, business knowledge, and intelligence into a living digital twin of the enterprise.",
@@ -167908,7 +167908,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "hiringcafe",
    "source_id": "adhoc___celonis___8000413003",
    "source_url": "https://careers.celonis.com/join-us/open-positions/job-detail?jobId=8000413003",
@@ -167939,8 +167939,8 @@
    },
    "score": {
     "rules": 65,
-    "research": null,
-    "total": 65,
+    "research": 82,
+    "total": 75,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -167950,15 +167950,61 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Chief of Staff to Executive Chairman at Celonis ($13B unicorn), years not stated; your COO partnership and S&OP execution map directly.",
+    "fit_notes": "The posting asks for a Chief of Staff to the Executive Chairman and President (Carsten Thoma) to drive executive sponsorships, customer relations, and team communications in Bangalore. No explicit years of experience or MBA/consulting degrees are stated in the posting text. Your direct partnership with Ola Electric's COO and CEO on fulfillment operations and end-to-end inventory [ceo-coo], and owning S&OP production planning and working capital cuts [sop], directly match the operational rigor and executive proximity required for a Chief of Staff role. You lack consulting experience, but none is demanded by this posting.",
+    "pay_notes": "Pay is not stated in the posting or fetched evidence; requires evaluation during screening to confirm the >= Rs 24.5 LPA fixed target.",
+    "culture_notes": "Celonis is DACH's $13B software unicorn [S7], rapidly expanding its India workforce and AI hub in Bangalore [S3], with positive strategic partnerships like Hitachi Energy [S4] and recent wins in process mining patent battles [S2].",
+    "hook": "Noted Celonis doubling its India workforce to over 300 and expanding its strategic AI hub in Bangalore [S3].",
+    "hook_source": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQlZpMmsxSVZXdUhyUW5DVjVjYnVzZDJheVBrXzlzOUtRd2hnSTdaVFJhamF6cWxDanRkdlZXcFRaelBkS1ZHVjBad2NFWFV1N3VrckJfOTMwUDlNbW9sbExCRUxDNUhLdzA0SUNEal90ZVNQWi15cnBWUU5mUklEci1raFJaMmp1bWduVG81RVdsOW9fb3dBaUhYNElYRFM3S1pwWV9BeUhaemU4T19ZckZDMFRsRkdLOXUzNWpRbVV2YlpaZTU0TmxLTkVocm5VNGVlQWh4SW1vMWZvX1o5aTJyZUo5aDNhb2JWeDVUeDdocTjSAfgBQVVfeXFMTXA2WGFzWDB4M2VsVC14OFM0d2hMcm13VlhEYndJRmVxb0RlQjVEM0xmSGdJakZkMmhpMlZzZUxqNTcwNGVQRV9fVFlWaUJDNUR2RWNuX0xiZzU2ZzhRQjVtVlppZ0QzV2NaTmpLTGdLX1dqZzlTbVNmeDRoeEdNUC1sVkxJcEh0X2c1X0phTTNPLTBzMG80X3ZrUzg3MENnNldzMzVDOHBid1hjMF9VNkp1cnc3ODhrVGJTRXdmNXl4U3RiRFZNeGJfVHB4UTZYbFpIT2c3ZnRVcU9OajFONlZHd3lmUlZOTHRmRG9kYUV3cFk1NzhTNnk?oc=5",
+    "researched_at": "2026-11-22T03:27:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Celonis website",
+      "url": "https://celonis.com"
+     },
+     {
+      "id": "S2",
+      "title": "Celonis lands win in process mining patent battle against SAP in Germany - JUVE Patent",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajlFUjN0T0xPX3FJbnJmdGRMUWVZVUdLbXZoT2xEei1IQksxdWRyaDh4Tm9xQzAwaFNIWC1Wa2l3TWxTQklPM1FxQzFieVRObWI2SjBoVXJnV1Jma1VQQlhBUjhKWG1EX09LWUdzUllOa2dkWXF6SU1ER1dGNDVkWlRtU3dhajloVzZHWkxTWEhFSHdwOTVJNEFyelNsN0ZZRDZ6ajdEaEROdEZOOWt1U1Fnbw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Celonis doubles India workforce to over 300, eyes strategic AI hub for global operations - ET Enterprise AI",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQlZpMmsxSVZXdUhyUW5DVjVjYnVzZDJheVBrXzlzOUtRd2hnSTdaVFJhamF6cWxDanRkdlZXcFRaelBkS1ZHVjBad2NFWFV1N3VrckJfOTMwUDlNbW9sbExCRUxDNUhLdzA0SUNEal90ZVNQWi15cnBWUU5mUklEci1raFJaMmp1bWduVG81RVdsOW9fb3dBaUhYNElYRFM3S1pwWV9BeUhaemU4T19ZckZDMFRsRkdLOXUzNWpRbVV2YlpaZTU0TmxLTkVocm5VNGVlQWh4SW1vMWZvX1o5aTJyZUo5aDNhb2JWeDVUeDdocTjSAfgBQVVfeXFMTXA2WGFzWDB4M2VsVC14OFM0d2hMcm13VlhEYndJRmVxb0RlQjVEM0xmSGdJakZkMmhpMlZzZUxqNTcwNGVQRV9fVFlWaUJDNUR2RWNuX0xiZzU2ZzhRQjVtVlppZ0QzV2NaTmpLTGdLX1dqZzlTbVNmeDRoeEdNUC1sVkxJcEh0X2c1X0phTTNPLTBzMG80X3ZrUzg3MENnNldzMzVDOHBid1hjMF9VNkp1cnc3ODhrVGJTRXdmNXl4U3RiRFZNeGJfVHB4UTZYbFpIT2c3ZnRVcU9OajFONlZHd3lmUlZOTHRmRG9kYUV3cFk1NzhTNnk?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Hitachi Energy and Celonis expand collaboration to accelerate AI-driven operational excellence - Hitachi Global",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56bnpMQldxeXJlQzdRaTd2QXNhWEpHU2g1QVJJcEphVS1kMWFnNnY2by1kWDVrQUpQLVpoR0Qxa09wdXF5bUlXanVld1VBRnhGMmoxeV9Fa3BaMEpraVVFT244SnNodw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Celonis Acquires Ikigai, Launches Context Model to Give AI Agents Operational Intelligence - ERP Today",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fNzU0ZWM0QUVsdkMyc2M2V2hKZGF0SXFhN1NwVFktM3FDeEZWQ3BVOVhZLVVPVDJoV0hSb0p4eVpkdzI1TEVXTXJkaW50bzIzZ3kteTd2UXN4Sm5ENnNXOXVMSUZwN0ZXQkZYdHl0dXp3UWV0?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Banking Process Orchestration in 2026: Is Celonis Process Intelligence Setting the Pace? - CX Today",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80N1FRbnF6NTR4c2lYVjR3SGVZZlB1M2J6NkZJb2MxRkszSEIwdWRDTGs4WVItQVEteExfNElSVklRWTloYVVuZEQ0ZFgyLUNlSE4yVmpDcVczcFNodXNWcjJtd0hFU2d0N3RN?oc=5"
+     },
+     {
+      "id": "S7",
+      "title": "Celonis: DACH's $13B Software Unicorn, Repriced but Winning | Unicorn Atlas - Startuprad Io",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONzZNRDlCbFp0OWZyMENBQlVwdy1qYjFHM2plZEVDTFBpTlR6SnBxcDFBb29PakVNVk5rX3NWcWlDcUU0SmlKb1lFcmdKX01KdlpYUDlnNlRQSVdMUjFkbklQVzhQMFVXYnZLZzRfdmNyZEtzUnhkLWhYb2Z5SkhFOGYxMS1ndDNZU3RnaVRNSGRWWkc2RmRiUERUa194a0ZpMkZsMlRCUl9ZNUVwSFBOdUpvQmpjVGMtTHRBTQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -167982,9 +168028,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 65"
+    },
+    {
+     "at": "2026-11-22T03:27:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 75: qualified"
     }
    ],
-   "updated_at": "2026-11-15T01:20:54+05:30",
+   "updated_at": "2026-11-22T03:27:58+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
@@ -167994,7 +168046,8 @@
     "at": "2026-11-21T22:04:05+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1355",

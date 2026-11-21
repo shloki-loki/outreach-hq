@@ -59069,7 +59069,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-21T16:01:05+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -59124,9 +59124,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v1 email to Dipesh Mittal queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-21T16:01:05+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Siddarth Jain"
     }
    ],
-   "updated_at": "2026-11-21T15:05:23+05:30",
+   "updated_at": "2026-11-21T16:01:05+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

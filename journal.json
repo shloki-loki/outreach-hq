@@ -5462,6 +5462,15 @@
    "title": "Founder emails switched to the new text (founder-v2)",
    "detail": "PR #13 merged (8ee05cc) on Shlok's OK. founder-v1 is off; its 52 queued, never-sent emails were pulled back (status skipped) and 60 founder-v2 emails were queued for 22 Nov, subject 'Strategy and Ops role | Shlok Agrawal'. Checked one rendered email (UnifyApps). People already emailed with v1 are not emailed again. The 11 v1 emails that failed on 21 Nov (network drop) are still marked failed and not re-queued.",
    "ref": "8ee05cc"
+  },
+  {
+   "id": "J0608",
+   "at": "2026-11-21T20:23:51+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Never-sent emails go to the back of the list (PR #14)",
+   "detail": "Shlok asked that every email not sent goes to the back of the list. PR #14: emails pulled back by 'campaign stop' or lost to a network drop keep the person eligible but queue them after everyone else; server refusals still count as contacted; new 'campaign requeue'; 'campaign status' no longer crashes for followup-v1. 93 tests pass. Read-only check on real data: 63 never-sent people (52 pulled back + 11 network failures), 38 of them in tomorrow's 60; after requeue 0. Not live until merged.",
+   "ref": "PR #14"
   }
  ]
 }

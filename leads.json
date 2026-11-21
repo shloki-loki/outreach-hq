@@ -206656,15 +206656,15 @@
    "key": "viven|product manager growth|bengaluru",
    "type": "job",
    "company": "Viven",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "viven.ai",
+   "company_url": "https://viven.ai",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager, Growth",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "475034",
    "source_url": "https://www.instahyre.com/job-475034-product-manager-growth-at-viven-bangalore/",
@@ -206695,8 +206695,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 42,
+    "total": 50,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -206705,15 +206705,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Product Manager, Growth at Viven in Bangalore asks 2-6 years of consumer growth experience; your background is S&OP and supply chain at Ola Electric.",
+    "fit_notes": "The posting asks for \"Consumer Growth Track Record: You've owned growth for a consumer product and can point to activation, retention or referral metrics\" and \"Product Taste and AI Fluency: You use AI tools daily and understand what makes AI products different\". Shlok has strong technical skills (C++, Python, Flask from [idekho]) and execution experience, but his core 1.3 years of experience are in supply chain, S&OP planning, and logistics ([sop], [ceo-coo]), not consumer product growth or A/B testing growth loops.",
+    "pay_notes": "Pay is not stated in the posting or in fetched evidence.",
+    "culture_notes": "Company culture and ratings were not found in the posting or evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T22:27:16+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "From Fireside to Film — Cuentos Que Viven: La Llorona, the Weeping Woman - The Taos News",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRWNLN1FLQkw4X0ZxemdjQWR1bFVFVUtyWUZ4aVVXQ1I2TTdnQy1CT0RNSElsTy1CeHNXQWVFLXcteDc2MGNoSURJSzd3VWVPOHNtOUNURFZHNkY2MXByTWg4cEdkMElJV2VmTG1ZVzBpYjBES0lKSWJHT0ZMWjhld25rSkNXLWRKbW9LVVBDVksxYURTY3ZvOXNIOHFsdkYzZ1NSNnRUX2lvQmhYUFRvWjdHQVg5LVhheVpYYUVqbTB4a2NyYW1vYUQ1X3N0bnZsM1djNjhBaFc5NGtSTDVzelZhbk9SdF84SzBPdTNn?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "VIVEN girls’ Minyoung releases solo track “After 2AM” with her “Exciting Dawn Emotional Voice” - Sportal Korea",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fVHNkbTZmWUZwYnA5bDhmenMwQ2dOcVRFNmpWM08ySkhXeUtvLXh6djBLZ1I3VUlyMVIzT3NOUW9oWGJueEZRZDdzdGtqRW8yT21jSkpxMk4ydFg0S2tRWWlyX2J1NENHQ1FEZHZB?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Los funcionarios electos de EE. UU. viven con miedo - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDR6MUd2OFdVWS1DUE13dG5leS1kSDRna3JzSmlnTTFGSXlwaDNwYjg5UG5iOXlRb2sxZFljdEkxSVI5N284ZWtwbGpjQ0JPcE9Yd1VWUjNrMUNTSW8tYjdseFMtQ1NsaHl0NW9nOVZUZV9FekZPS0w3bGJIS25SZFFLQTM0VEE0OERTRkliblVnS28yTjZPb093Yk1JTG5LRE5SbUJxWQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Exhortan a residentes que viven cerca del río St. Johns estar atentos al nivel del agua - Telemundo Orlando (31)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVF80anQ3aHJiN3Z1N3pkQ1BLdUxTT2tsNm9HUTZ6MmNzbEp0dWNWb05wd00tblVjWEJ0azd0Y3hqUDN5MEZtUzZnb0JJTUwtcnZxX1VvckVvVjFsbnh5OHN4LVJuTmc3LTFCZnZtMW82Rk1tLXAwbG9xd0F4Mk01N0xRZmtKb19IV3hMLU930gGWAUFVX3lxTE1aam5ueHpDaElYNU5mV0dIZWhUS0lnczdLLUF0UWdzS0diVGtVeUp2Z3NDeDRzSTBxSXFINkRvTV9VUzY5c0FrQ3dVZnN5LUNhMC14R2RUTDVxVVNFUEdrUXYwTzdZRVktX2ZncWUzOVhtajNRMXZvMkV5eWNLV0F4RWtJYjg5M1BpdGxNbXFHbk1DZVhKUQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Los olvidados de La Guaira a un mes de los terremotos: viven en carpas, no tienen servicios básicos ni a dónde ir - Telemundo",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeTVqb3ZfdlE3cTJGRVFwcGdRa0FiR0dUdmpyZUFteEhNMHAwOXV4aGNrWVgyY1pKTUxreDV6LWR6NFBYeHRzYnpReV9Lc00yWUZkU3VvbEVCLUpRMzB0QjNlSU5LT2NlbDQ0djljRk9na1MtdlZOSjNWcVRJMlhBOVF1Z0FmYkNCYU1QTEhlMjlROXVpZWVBVURjNUFmRm5sN2dZN21FNDVPTW43ZUxSd2x2eXFPZU9DZUxLV000a014QUo4Vzl5cjlxQWY?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Récord del Ingreso Mínimo Vital: casi 2,8 millones de personas viven del subsidio en España - Libertad Digital",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUzc1TnV5QTU5dHVyR1VPaTdlXzhiTXVwd1dtY3hpN3pIMERwYXd0bUl3WWhYX0JQdjdOTTF3bDlILUhwWUdoUlR6QmNGOXlHUGlDZ0pwU0VuYWpiaFFlZEtVdVc2c1RFdmNfaVlDOVNLRzlENVV5Nl9hb082N2lETXpjZU9kemNrbmo4bUUyZnFjbnRBRkJLQTJMeFJLNWlvYWNXcVFEcHlLSzMzcGN0M1JwUmg0Rm5mc0hoSEJFQ3Q3Z1BpUHdyMTJ6TTFOcU96OHFCZENkQko1eHh0bVZIams4Qmh5T3dsdnRZ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -206737,14 +206777,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:27:16+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (Viven's Product Manager, Growth role requires consumer growth track record, experimentation rigor, and AI product background that does not match Shlok's supply chain and operations background at Ola Electric.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-21T22:27:16+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "HTTP 503 for https://www.instahyre.com/job-475034-product-manager-growth-at-viven-bangalore/"
-   }
+   },
+   "reject_reason": "Viven's Product Manager, Growth role requires consumer growth track record, experimentation rigor, and AI product background that does not match Shlok's supply chain and operations background at Ola Electric."
   },
   {
    "id": "L1692",

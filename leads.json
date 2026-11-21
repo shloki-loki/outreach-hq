@@ -200923,15 +200923,15 @@
    "key": "copart|business operations|india",
    "type": "job",
    "company": "Copart",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "copart.com",
+   "company_url": "https://www.copart.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Business Operations (LP)",
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "471730",
    "source_url": "https://www.instahyre.com/job-471730-business-operations-lp-at-copart-hyderabad/",
@@ -200962,8 +200962,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -200972,15 +200972,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Customer service voice role at Copart, asks 1-5 yrs; requires international voice experience which does not map to your profile.",
+    "fit_notes": "The posting asks for 'Graduate / Undergraduate with a minimum of 1 year of international voice experience' and involves handling 'international calls (inbound & outbound)'. Shlok's background in supply chain, S&OP, and inventory planning ([sop], [ceo-coo]) is entirely misaligned with a customer support call center role.",
+    "pay_notes": "Pay is not stated in the posting, and no salary figures were found in the evidence.",
+    "culture_notes": "Copart is a global online auto auction company headquartered in Dallas, Texas, and a top-performing S&P 500 company [S1]. Glassdoor review metrics were not populated in the posting text.",
+    "hook": "Copart announced it is set to acquire ACV Auctions in a $1.9 billion all-cash deal.",
+    "hook_source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXhwcVJ1aVRqNFlKdHJFMFdGY0hBd3A0QXlib2J2MEU0ZXJ4VnFOMEowdG1NWWtRVkhWVXdCTUdOdE84QWN5bnVDZEJOZlV3TVZqT1Bia0VBUzB0TV93Vy1OOF9keWJxLXU4cGJrUXVDWW1vUDBGX0U2UmdDOC1XcnEtOXdwci1BRnRwZw?oc=5",
+    "researched_at": "2026-11-21T22:25:28+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Copart to buy ACV Auctions in $1.9 billion deal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXhwcVJ1aVRqNFlKdHJFMFdGY0hBd3A0QXlib2J2MEU0ZXJ4VnFOMEowdG1NWWtRVkhWVXdCTUdOdE84QWN5bnVDZEJOZlV3TVZqT1Bia0VBUzB0TV93Vy1OOF9keWJxLXU4cGJrUXVDWW1vUDBGX0U2UmdDOC1XcnEtOXdwci1BRnRwZw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Car-Seller Copart Among Suitors for Car Insurance Software Firm CCC - Claims Journal",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GZlNScHpCNkQ1YzQ2LU1GcXJkWV9FLWp6ektmejR2VUpvV3E2NG9KUUNSTWI2YmstN01JVTg0QkRBMk0yMXV1NHRWMHFhZUVvU2Q0LVNqSGNVcjltNWRjMnRkRDBsMDcyTElYOEhFNjhRekE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Copart to Acquire ACV Auctions for $1.9 Billion in All-Cash Deal - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXQ3cFNCUGVTTmdRZ0JNY3J5V012MVFESlVIVkdWRUJKbG1qRkE1WjlIcklVMFVpMVdESjNtOFZORWRPbTROMDF6ZG9BNzBaNFMzdWNkYVFoNWd4M2xKY2ZsSEFvOEtucWhudVNBdXgza05SUE9WRnlRVVlvdVR5S21IZnJrcERJSjBEbWgzVVRGYnRsWHY3MWNR?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Copart reports insurance unit declines in Q3, how AI is being used in claims handling - Repairer Driven News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2ZLUEppdVBGNDFCWmtDS0JsT0JjVkU0d2thMUR5bGdDZnZrLW1mclBFQ25vSFY2WVVidkNhOEt4OWpGc2tyR1Z3eWdWM3Y4R2JFMzdRcjh1RDU3Qy12ZU1LWm1HX010bDh3aTFEVHByRnZPZDA1MmF5TEVtWEdpdUZTbUt1dzljTm1ZRXlSelkyUVhKNDd3T1pfOXBwSWNmWjFCbU1ENXhLUDVIY0RHUzJHbDh4SUFfeVRXQmQ5UWZWSkpVQTRQd0VvZw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Why Copart (CPRT) Stock Is Trading Up Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEdwUTBkSG9XNVJiZjhIT1pHdHJrSzlQbm5sZzlPQUdhb2tsZ1lUUmt6QzRQR2p4Y09ST29lTTF1blU3Zlg2ZHhkMzV5Q3JXLU5hbFB1SkJFdno1S3V4THNwTS15SExVRFNXdFFWNkkxR3ZubzYxMUg4RWwwdWJNUTg2ajdmVkxocDZFZHloNXdvZ2p0c2tLS3NR?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Copart’s (CPRT) Financials Show Resilience; Leadership Changes Highlight Stability - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2FKRDVpeklBYWFTWEtLQXhEOEktYTRnU0Z5Ul9qMnZ2andCM2RNT01yMUxLNmNfUVJjeUlrTTVXd1B5WDNUMUpCSWNCeEdpbWVoV0VDS2d0amN5SUVwbzZUZVEzUTFvQnBaMlhBSXVNWHU4eEJscF9WT2I2ZWY3Z09NRm5OM3FOUi1iLUhwRVJFZE9TQkszakpvTDdkSFpOaGRtOGFR?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -201004,14 +201042,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:25:28+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The role is an international customer service voice operations job requiring inbound and outbound calls, which completely misaligns with Shlok's strategy and operations profile.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30",
+   "updated_at": "2026-11-21T22:25:28+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "HTTP 503 for https://www.instahyre.com/job-471730-business-operations-lp-at-copart-hyderabad/"
-   }
+   },
+   "reject_reason": "The role is an international customer service voice operations job requiring inbound and outbound calls, which completely misaligns with Shlok's strategy and operations profile."
   },
   {
    "id": "L1643",

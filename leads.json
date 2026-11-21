@@ -234173,15 +234173,15 @@
    "key": "ey|strategy manager|bengaluru",
    "type": "job",
    "company": "EY",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "ey.com",
+   "company_url": "https://www.ey.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy Manager",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore,Gurgaon",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "instahyre",
    "source_id": "489028",
    "source_url": "https://www.instahyre.com/job-489028-strategy-manager-at-ey-bangalore-gurgaon/",
@@ -234212,8 +234212,8 @@
    },
    "score": {
     "rules": 73,
-    "research": null,
-    "total": 73,
+    "research": 40,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -234222,15 +234222,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Strategy Manager at EY in Bengaluru, but asks 8-12 years of experience and an MBA.",
+    "fit_notes": "The posting asks for '8-12 years of experience in program/project management, change management, organizational development or a related strategy and transformation role' and 'MBA or equivalent postgraduate diploma from a top-tier business school or reputed university' and 'Experience in consulting or a related industry.' Shlok has ~1.3 years of experience, no MBA, and no consulting background.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company ratings or glassdoor details found in the posting text.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T03:21:08+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -234254,9 +234261,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 73"
+    },
+    {
+     "at": "2026-11-22T03:21:08+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role requires 8-12 years of experience and an MBA or consulting background, which heavily exceeds Shlok's 1.3 years and violates his hard constraints.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30"
+   "updated_at": "2026-11-22T03:21:08+05:30",
+   "reject_reason": "The role requires 8-12 years of experience and an MBA or consulting background, which heavily exceeds Shlok's 1.3 years and violates his hard constraints."
   },
   {
    "id": "L1940",

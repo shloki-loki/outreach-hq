@@ -52922,9 +52922,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Raman Mittal"
+    },
+    {
+     "at": "2026-11-21T16:07:21+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Satya Sharma"
     }
    ],
-   "updated_at": "2026-11-21T15:41:04+05:30",
+   "updated_at": "2026-11-21T16:07:21+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

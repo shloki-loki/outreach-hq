@@ -228876,15 +228876,15 @@
    "key": "emerson|strategic business development manager transportation|bengaluru",
    "type": "job",
    "company": "Emerson",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "emerson.com",
+   "company_url": "https://www.emerson.com",
    "company_linkedin": "https://www.linkedin.com/company/emerson",
    "company_note": "",
    "title": "Strategic Business Development Manager - Transportation",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4476788256",
    "source_url": "https://in.linkedin.com/jobs/view/strategic-business-development-manager-transportation-at-emerson-4476788256",
@@ -228900,7 +228900,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Job Description\n Position Summary:\n National Instruments (NI), an Emerson company , is seeking an experienced and entrepreneurial Regional Business Manager to accelerate growth within the Transportation market across India. In this customer-facing role, you will create and expand demand for NI's products, platforms, and solutions by developing strategic relationships, identifying new business opportunities, and engaging customers through digital campaigns, onsite meetings, industry events, webinars, and thought leadership activities. Working closely with customers, partners, sales teams, and technical experts, you will play a key role in driving market awareness, building pipeline, and supporting long-term growth across the region.\n In This Role, Your Responsibilities Will Be:\n Market Development & Demand Generation \n Generate market awareness and customer demand for NI's products, platforms, and solutions across the transportation industry.\n Develop and execute regional business development strategies aligned with transportation growth objectives.\n Identify, engage, and cultivate relationships with prospective customers, influencers, and decision makers throughout the region.\n Develop and execute targeted digital campaigns and demand-generation initiatives in partnership with marketing teams.\n Build and maintain a robust pipeline of opportunities through proactive customer engagement and relationship development.\n Identify emerging industry trends, customer challenges, and technology transitions that create new growth opportunities.\n Customer Engagement \n Conduct regular onsite customer visits and executive-level engagements.\n Develop new customer relationships while strengthening existing connections across engineering, validation, manufacturing, production, and business leadership organizations.\n Facilitate strategic discussions around industry challenges and how NI solutions can enable customer success.\n Organize and participate in customer workshops, seminars, demonstrations, and executive briefings.\n Act as a trusted advisor and advocate for customers within the organization.\n Industry & Ecosystem Leadership \n Represent NI at industry conferences, trade shows, technical forums, customer events, and company-hosted events.\n Establish and expand relationships with industry associations, system integrators, technology partners, consultants, and academic organizations.\n Support thought leadership initiatives that enhance NI's visibility and influence within the transportation ecosystem.\n Identify opportunities for collaboration that increase awareness and adoption of NI technologies.\n Cross-Functional Collaboration\n Partner closely with regional sales teams to convert market opportunities into revenue-generating engagements.\n Collaborate with technical marketing, solution architects, application engineers, and product teams to align customer needs with NI's portfolio.\n Provide market intelligence and customer feedback to support business plannin",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -228915,8 +228915,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 30,
+    "total": 44,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -228926,15 +228926,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Strategic Business Development Manager at Emerson, but asks 8+ years experience which exceeds your 1.3 years.",
+    "fit_notes": "The posting asks for '8+ Years of relevent Experience in business development, sales, account management, market development, consulting, or other customer-facing roles.' Shlok has about 1.3 years of experience. While some of his operational and supply chain background from Ola Electric ([msl], [sop], [ceo-coo]) touches on transportation validation and manufacturing environments, the experience gap is a hard block.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Emerson is a global automation technology and software leader. Partnered with Databricks for operational tech data ([S4]). No specific review counts or glassdoor ratings found in search evidence.",
+    "hook": "Emerson recently partnered with Databricks to make operational tech data more accessible, contextualised, and AI-ready.",
+    "hook_source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT19pTzNEcWJnSV9Kdk1lRU9DYkRLT0JwQ3VxM0NwZU1kWEUwc2NlSFd1UGZEVUxYZXVmSVBIX1dTeUN6YXZ4Z21IeGItQjZBZ1paeEJSc2p2djBDS0NLYmFTRmZCdFdMZnF2VHlVVW9adC1MUXhfWkowWTJfbHp2V21jTWpKd3BkVzdjaXIyS1JpZGx4VUhrUk42UFhYR2xZUzVwNkVGc01YZm83MFk3dXhoN25PUmtlclJRcEFvT1c1WkNT?oc=5",
+    "researched_at": "2026-11-22T03:25:14+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "National Poll: Rubio Leads 2028 GOP Nomination Contest, Ossoff Rises Among Democrats - - Emerson Polling",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVEweVpGVHhhenR3TDljYVh2YklqcldyUGRMNDl0UDJWR0xYR3ptMFpIMXZBMHRXY252akhsRGFFdExkMHpzMUpGWDcxVjVxMFB5UG9OMHVlbUlFYmprUTg4VGQxbHBfUTUtSkw3LS1rR0VCZ0ltcUpOYTRZeUtqS1FOT1FTVGR0d3ZaZHMxU2I3VUtJVVp0VEoteU1sMDlIb2owVm1rZFhidjVRVkdlMzRGYkFXN3hq?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Rookie Emerson to have season-ending left wrist surgery - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4R1VTb3l1cWtNT0JVaU0yekVQa3FsbGpCRWcyZVZEYmd2NUp4c2c4ZDUzdXBxT1RfeGJGOVdkYWpyZ0ZYN2I4azNQR3libkZwMG91dW52OEpfdHBGUkx4UFlvcTZENmZnbTQ4RnZoSFQtalF0WER0Z2IwYlJEdw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Donald R. Emerson, Jr. Obituary June 2, 2026 - Opyt Funeral Home",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvZ0YyZllIMWhGVWE2TWh3bERSTFJZUURqR0s3XzNWM2NSY3dxaU93V3hYZkh5RnpWS2NSekxUcHI0ZS0xRWhFN0NmeE4walg0Q1pWcTFPaDRISm5ybFI1TQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Emerson, Databricks to make operational tech data more accessible, contextualised and AI-ready - International Mining",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT19pTzNEcWJnSV9Kdk1lRU9DYkRLT0JwQ3VxM0NwZU1kWEUwc2NlSFd1UGZEVUxYZXVmSVBIX1dTeUN6YXZ4Z21IeGItQjZBZ1paeEJSc2p2djBDS0NLYmFTRmZCdFdMZnF2VHlVVW9adC1MUXhfWkowWTJfbHp2V21jTWpKd3BkVzdjaXIyS1JpZGx4VUhrUk42UFhYR2xZUzVwNkVGc01YZm83MFk3dXhoN25PUmtlclJRcEFvT1c1WkNT?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Scott Emerson Obituary Oct 10, 2026 - Reynolds Jonkhoff Funeral Home & Cremation Services",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhZUwtQ245d0V5TUhFU0ZSR2E4ZVdaa1g3QzlvWGlKczk4TnVCbEZGQTNDRmR4TkVTYlpJRW5PUUduaTR6RVVHcHI2R3JvRFR4LVM3MjAwT0ROOGpyVHYzZV90Y1ZaNS1wWlE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Emerson Schaunaman Obituary Aug 19, 2026 - Schriver's Memorial Mortuary & Crematory",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01cEtmbWIxeU5ONk1rRi0zRlRKN0R0cWhPWXRDS3JCODRSajg1d051aDZFcG1xekp2dXVFZWlPS3poeWxGM19nQzZfUmxkel93T0E4WXdLVVNFbi1Vc1QweVNoTGsxSkx2NnI3aVZkd3I?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -228958,9 +228996,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-22T03:25:14+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 44: rejected (The role requires 8+ years of relevant experience, which is far beyond Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-22T03:25:14+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -228970,7 +229014,8 @@
     "at": "2026-11-21T13:21:33+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role requires 8+ years of relevant experience, which is far beyond Shlok's 1.3 years."
   },
   {
    "id": "L1887",

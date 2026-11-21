@@ -5039,6 +5039,15 @@
    "title": "Template founder-v1: 18 emails queued",
    "detail": "1722 addresses left after today; refused 0",
    "ref": "M0212"
+  },
+  {
+   "id": "J0561",
+   "at": "2026-11-21T16:17:26+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 8, failed 0. daily cap of 60 speculative notes reached",
+   "ref": ""
   }
  ]
 }

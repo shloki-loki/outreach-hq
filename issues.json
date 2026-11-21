@@ -419,6 +419,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0031",
+   "key": "send-failed:M0113",
+   "agent": "send-track",
+   "severity": "error",
+   "title": "Sending M0113 failed",
+   "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer",
+   "status": "open",
+   "opened_at": "2026-11-21T11:22:43+05:30",
+   "last_seen": "2026-11-21T11:22:43+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

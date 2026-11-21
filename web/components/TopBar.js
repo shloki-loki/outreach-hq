@@ -4,6 +4,7 @@ import { sendingMode } from '@/lib/store';
 
 const TABS = [
   { href: '/', label: 'Leads' },
+  { href: '/cold-mails', label: 'Cold Mails' },
   { href: '/approvals', label: 'Approvals' },
   { href: '/progress', label: 'Progress' },
   { href: '/log', label: 'Log' },

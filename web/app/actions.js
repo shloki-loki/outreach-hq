@@ -13,6 +13,7 @@ const clean = (value, max) => String(value ?? '').replace(/\r\n/g, '\n').trim().
 
 function refresh(leadId) {
   revalidatePath('/');
+  revalidatePath('/cold-mails');
   revalidatePath('/approvals');
   revalidatePath('/progress');
   if (leadId) revalidatePath(`/lead/${leadId}`);

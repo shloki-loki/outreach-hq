@@ -41,9 +41,9 @@ export default async function LeadPage({ params }) {
 
   return (
     <>
-      <TopBar current="" toApprove={toApprove} />
+      <TopBar current={lead.type === 'company' ? '/cold-mails' : '/'} toApprove={toApprove} />
       <main>
-        <Link href="/" className="back">← All leads</Link>
+        <Link href={lead.type === 'company' ? '/cold-mails' : '/'} className="back">← {lead.type === 'company' ? 'Cold Mails' : 'All leads'}</Link>
         <div className="page-head" style={{ paddingTop: 18 }}>
           <div className="button-row" style={{ marginBottom: 12 }}>
             <span className={`pill tone-${status.tone}`}>{status.label}</span>

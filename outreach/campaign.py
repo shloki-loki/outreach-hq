@@ -84,18 +84,39 @@ def check(subject: str, body: str, first: str, company: str) -> list[str]:
     return problems
 
 
+# A send that died on the network (Gmail or the Mac's connection dropped) never reached anyone, so the
+# person stays eligible. A refusal by the receiving server is not in this list and still counts as contacted.
+RETRYABLE = re.compile(r"SMTPServerDisconnected|Connection (?:unexpectedly closed|reset|refused|aborted)|timed out|"
+                       r"TimeoutError|interrupted and the email is not in Gmail", re.I)
+REQUEUED = "requeued: order changed"     # pulled back only to be queued again in a new order; not a deferral
+
+
+def unsent(message: dict) -> bool:
+    """A cold email that was meant to go out but never reached the person (Shlok, 2026-11-21: these go to the back)."""
+    if message.get("kind") != "cold":
+        return False
+    if message.get("status") == "skipped":
+        return message.get("error") == "campaign stopped"
+    return message.get("status") == "failed" and bool(RETRYABLE.search(message.get("error") or ""))
+
+
+def counts_as_contacted(message: dict) -> bool:
+    return message.get("kind") == "cold" and message.get("status") != "skipped" and not unsent(message)
+
+
 def targets(template: dict, leads: list[dict], messages: list[dict], days: int) -> list[tuple[dict, dict]]:
-    """Every eligible (lead, contact): CEO/founders first within a company, best-scored companies first, round-robin."""
+    """Every eligible (lead, contact): CEO/founders first within a company, best-scored companies first, round-robin.
+    People whose earlier email was never sent (pulled back, or lost to a network drop) come after everyone else."""
     out = []
-    taken = {m.get("to", "").lower() for m in messages if m.get("kind") == "cold" and m.get("status") != "skipped"}
+    taken = {m.get("to", "").lower() for m in messages if counts_as_contacted(m)}
+    back = {m.get("to", "").lower() for m in messages if unsent(m)} - taken
     blocked = {e.lower() for e in store.load("suppression")["emails"]}
     jobs = template.get("audience") == "jobs"
     per_lead = int(template.get("per_lead", 99))
     pool = [l for l in leads if l.get("open", True) is not False and l.get("outcome") not in ("rejected", "closed")
             and not l.get("replied_at") and (
                 (l.get("type") == "job" and l.get("stage") == "qualified" and not l.get("applied_at")
-                 and not any(m.get("lead_id") == l["id"] and m.get("kind") == "cold" and m.get("status") != "skipped"
-                             for m in messages)) if jobs else
+                 and not any(m.get("lead_id") == l["id"] and counts_as_contacted(m) for m in messages)) if jobs else
                 (l.get("source") == template["source"] and l.get("type") == "company"
                  and l.get("stage") not in ("rejected", "skipped")))]
     pool.sort(key=lambda l: (-((l.get("score") or {}).get("total") or 0), l["id"]))
@@ -113,11 +134,11 @@ def targets(template: dict, leads: list[dict], messages: list[dict], days: int) 
             if email in blocked or recently_contacted(email, messages, days) or len(seen) >= per_lead:
                 continue
             seen.add(email)
-            out.append((len(seen) - 1, rank, lead, contact))
+            out.append((email in back, len(seen) - 1, rank, lead, contact))
     # Round-robin: every company's first person before anyone's second, so co-founders don't get the same
-    # text in the same hour and the whole list is reached sooner.
-    out.sort(key=lambda t: (t[0], t[1]))
-    return [(lead, contact) for _, _, lead, contact in out]
+    # text in the same hour and the whole list is reached sooner. Never-sent people go last, round-robin too.
+    out.sort(key=lambda t: (t[0], t[1], t[2]))
+    return [(lead, contact) for _, _, _, lead, contact in out]
 
 
 def queue(template_id: str, limit: int | None = None, dry_run: bool = False) -> dict[str, Any]:
@@ -133,7 +154,7 @@ def queue(template_id: str, limit: int | None = None, dry_run: bool = False) -> 
         result.clear()
         leads, data = store.load("leads"), store.load("messages")
         mine = [m for m in data["messages"] if m.get("template") == template_id]
-        today_count = sum(1 for m in mine if (m.get("approved_at") or "").startswith(today()))
+        today_count = sum(1 for m in mine if (m.get("approved_at") or "").startswith(today()) and m.get("error") != REQUEUED)
         waiting = sum(1 for m in mine if m.get("status") == "approved")
         cap = template.get("per_day", 60) if limit is None else limit
         room = max(0, cap - max(today_count, waiting))
@@ -204,6 +225,26 @@ def stop(template_id: str) -> dict[str, Any]:
     return {"template": template_id, "pulled_back": len(pulled)}
 
 
+def requeue(template_id: str) -> dict[str, Any]:
+    """Pull back this template's approved, unsent emails and queue the day again in the current order
+    (used when the order changes, e.g. never-sent people moved to the back)."""
+    pulled: list[str] = []
+
+    def change() -> None:
+        pulled.clear()
+        data = store.load("messages")
+        for message in data["messages"]:
+            if message.get("template") == template_id and message.get("status") == "approved":
+                message.update(status="skipped", error=REQUEUED)
+                pulled.append(message["id"])
+        if pulled:
+            store.save("messages", data)
+    store.transact(change, f"campaign: requeue {template_id}")
+    queued = queue(template_id)
+    queued.pop("ids", None)
+    return {"template": template_id, "pulled_back": len(pulled), "queued": queued}
+
+
 def status(template_id: str) -> dict[str, Any]:
     template = load(template_id)
     with store.locked():
@@ -213,6 +254,8 @@ def status(template_id: str) -> dict[str, Any]:
     counts: dict[str, int] = {}
     for m in mine:
         counts[m["status"]] = counts.get(m["status"], 0) + 1
+    if template.get("audience") == "followups":     # follow-ups have no address list of their own
+        return {"template": template_id, "active": bool(template.get("active")), "by_status": counts}
     days = int(load_config("settings")["sending"]["one_email_per_person_days"])
     left = len(targets(template, leads, messages, days))
     return {"template": template_id, "active": bool(template.get("active")), "per_day": template.get("per_day"),

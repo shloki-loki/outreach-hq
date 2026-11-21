@@ -80,6 +80,39 @@ class CampaignTests(unittest.TestCase):
         self.assertEqual(campaign.queue("founder-v2", dry_run=True)["queued"], 4)
         self.assertEqual(len(store.load("messages")["messages"]), 1)
 
+    def add_old(self, mid, to, status, error):
+        data = store.load("messages")
+        data["messages"].append({"id": mid, "lead_id": "L0001", "to": to, "kind": "cold", "status": status,
+                                 "error": error, "template": "founder-v1", "sent_at": None,
+                                 "created_at": now().isoformat()})
+        store.save("messages", data)
+
+    def order(self):
+        return [m["to"] for m in store.load("messages")["messages"]
+                if m.get("template") == "founder-v2" and m["status"] == "approved"]
+
+    def test_never_sent_people_go_to_the_back_and_real_refusals_stay_out(self):
+        self.add_old("M0101", "vikram@co1.com", "skipped", "campaign stopped")           # pulled back, never sent
+        self.add_old("M0102", "neha@co2.com", "failed",
+                     "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer")
+        self.add_old("M0103", "hr@co1.com", "failed", "SMTPRecipientsRefused: 550 5.1.1 no such user")
+        campaign.queue("founder-v2")
+        self.assertEqual(self.order(), ["asha@co1.com", "vikram@co1.com", "neha@co2.com"])  # both never-sent last; hr@ refused: out
+
+    def test_requeue_reorders_the_day_without_doubling_it(self):
+        self.assertEqual(campaign.queue("founder-v2", limit=2)["queued"], 2)
+        self.assertEqual(self.order(), ["vikram@co1.com", "neha@co2.com"])
+        self.add_old("M0101", "vikram@co1.com", "skipped", "campaign stopped")
+        with patch.object(campaign, "load", lambda t: {**campaign.tomllib.load(open(
+                campaign.CONFIG_DIR / "templates" / f"{t}.toml", "rb")), "per_day": 2}):
+            result = campaign.requeue("founder-v2")
+            self.assertEqual((result["pulled_back"], result["queued"]["queued"]), (2, 2))
+            self.assertEqual(self.order(), ["neha@co2.com", "asha@co1.com"])          # vikram now waits at the back
+            self.assertEqual(campaign.queue("founder-v2")["queued"], 0)              # same day: still no doubling
+
+    def test_status_works_for_the_followup_template(self):
+        self.assertEqual(campaign.status("followup-v1")["template"], "followup-v1")
+
     def test_sender_picks_them_up_within_the_founder_cap(self):
         campaign.queue("founder-v2")
         settings = load_config("settings")

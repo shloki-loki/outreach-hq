@@ -189891,15 +189891,15 @@
    "key": "deloitte|manager gbs strategy and ops|india",
    "type": "job",
    "company": "Deloitte",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "deloitte.com",
+   "company_url": "https://www.deloitte.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Manager | GBS Strategy & Ops",
    "tier": "1 - Strategy & Ops",
    "location": "Ahmedabad",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "469516",
    "source_url": "https://www.instahyre.com/job-469516-manager-gbs-strategy-ops-at-deloitte-ahmedabad/",
@@ -189930,8 +189930,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -189940,15 +189940,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "GBS Strategy & Ops Manager at Deloitte asks 7-10 yrs consulting experience, far exceeding your 1.3 yrs total experience.",
+    "fit_notes": "The role asks for '7-10 years of consulting or transformation experience' and a background in GBS/shared services strategy. Shlok has ~1.3 years of experience in S&OP and operations ([sop], [ceo-coo]) and does not have a consulting background or an MBA.",
+    "pay_notes": "Pay is not stated in the job posting and no verified company-specific pay evidence was found.",
+    "culture_notes": "No Glassdoor or employee review ratings were available in the posting or retrieved evidence.",
+    "hook": "Deloitte reported that private capital–fueled economic growth might be knocking on India’s doors soon.",
+    "hook_source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVNEUF9teW9VSlNOTVBOOXNjbVkybkFnOTVDNkljbWpGTld4Z1BhS243VUhJcHJqMjh3UWJDRkQwYlhTam9fMzQwTTRuejFnMlJrUjNteUVmZE5LeUc4ODVPRHhFYVlQNGU4S3RwX1dKc01XTTB4VTR0STVNbVVMN0F5WndKRnNiSlpUcUlCV2pIY2ZiVUdBb09XMA?oc=5",
+    "researched_at": "2026-11-21T22:23:48+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "2027 Manufacturing Industry Outlook - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaExYSjNBLW1OTXdrTXBMazNIdEp6LVFYSUl0aWt4cUY1dEIxVFN6Q1plNm5KWUd5eDJHbk9BSVpLX01FdktXMl9JOG4tVnVpU2dhX0ZxckVOOVdQejZXWk1FTXdvMko0cmJCTld4QmNHWDNyVjBqSU1vMkp0RFNIb05oWmVMTVNSRk1ra3F0bmc4TmtwcFoyUnl0X3lfTk9WbEdGU3BKRmxRSmlwaTJqRzRoZGozVmlZMnc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "2026 Deloitte Back-to-School Survey - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMDY5ODBWN1VEWmkzMFAwd3o3ZkxpTlFzcWpLc2lWRnotai12OTdGNjktdXc5X1NyQnhHU1Jaa0pxVkxWZ0pabExrM1VFX0hwcHA4aDNhdWRRTkZYUjY3dGlnRmYzQzVLUHZheDNTZFliTjRHRkx0NHd4SHlSMkcybF9fQ3hEemtjOVd4eVprekExN0poQkdrRjU5cw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Private capital–fueled economic growth might be knocking on India’s doors soon - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVNEUF9teW9VSlNOTVBOOXNjbVkybkFnOTVDNkljbWpGTld4Z1BhS243VUhJcHJqMjh3UWJDRkQwYlhTam9fMzQwTTRuejFnMlJrUjNteUVmZE5LeUc4ODVPRHhFYVlQNGU4S3RwX1dKc01XTTB4VTR0STVNbVVMN0F5WndKRnNiSlpUcUlCV2pIY2ZiVUdBb09XMA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Europe’s Battery Industry at a Crossroads – Deloitte Battery Maturity Assessment - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUndjUXlfR0hyak0zVmhaOVoxMkxOMDV2TWRrRWVIZTJ3VXQtdnFQNUgxMHJYYXNSOXNCWG9aWU11MXhIcmxQVzd5QUw0RnRmVllFWm43YUttMG82Y2RQZmJSVFVoM0lmTFByNnF6cFF3WlFNS3VnMkt6VHpGaHFKSUk1UnBZWlY0V3RXNHBsRVBPUmEtOGxLa053OEY3b0loV1RzdTdBdGtIbG8?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Why the memory chip crunch is greater than expected, and may not ease until 2029 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTc5a0lDYlc0VWhwVmhoWWtpMUI2c01wSTRnTGNHWC0ySXo1QW11U2lZdDJmTktOeHZURHpIWUJjcDliNWJhcklENk9USFhqemJYVFhTZm9XTHNXUDB4bV9icEZHaUJTOHd2eTFYaHlEQ1oxek5keVVRcGZ2TUttUFQ4QVZsLUlVTGVDRnJlY1ZhMzRJcUNwV3ppd1BrTFhuaXZSdEJzQV94TVZjejFrdFZB?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "2026 Deloitte Holiday Retail Survey - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUkzb0FpUGdvVnpCM0pEWEF5QzJnNHpWam9MeVVKNGh0SV9lc3BkYkt4VTVTTzAzTHE0RjZRcVFLMXdnU25nUG52T1lLa1dIWk9OU09GMVhIYjNYZXNGT0FSWlc0cFhsOFNybjYxSlE0QndSd1RVcDQ4MWtjRk9WX0pVN0o0Y0FkNGpuS0szRDNLNjFpUF9mSXFFOW1VelRxVUNzX0ZWcldkOHdqRFVV?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -189972,9 +190013,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:23:48+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (Requires 7-10 years of consulting or transformation experience, far exceeding the 4-year maximum limit for Shlok's ~1.3 years of total experience.)"
     }
    ],
-   "updated_at": "2026-11-16T14:12:14+05:30",
+   "updated_at": "2026-11-21T22:23:48+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -189984,7 +190031,8 @@
     "at": "2026-11-20T23:05:16+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Requires 7-10 years of consulting or transformation experience, far exceeding the 4-year maximum limit for Shlok's ~1.3 years of total experience."
   },
   {
    "id": "L1548",

@@ -232040,7 +232040,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Dehradun, Uttarakhand, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492895527",
    "source_url": "https://in.linkedin.com/jobs/view/associate-founder-s-office-at-divin-pro-4492895527",
@@ -232071,8 +232071,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 35,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -232082,15 +232082,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at DivIn Pro in Dehradun (asks 2-5 yrs); on-site location and unknown pay make it a poor fit.",
+    "fit_notes": "Posting asks for 2-5 years of experience in strategic planning, business development, and project execution. Shlok's S&OP leadership [sop] and work with leadership [ceo-coo] map well to the job scope, but the role requires on-site presence in Dehradun.",
+    "pay_notes": "No pay stated. On-site roles at local ventures in Dehradun almost certainly do not reach Shlok's Rs 24.5 LPA threshold.",
+    "culture_notes": "No company website, Glassdoor ratings, or public culture information found for DivIn Pro.",
+    "hook": "We are looking for a dynamic and driven Associate – Founder’s Office to work directly with the Founder & CEO for the growing ventures.",
+    "hook_source": "https://in.linkedin.com/jobs/view/associate-founder-s-office-at-divin-pro-4492895527",
+    "researched_at": "2026-11-22T03:20:14+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -232114,9 +232124,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-22T03:20:14+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role is strictly on-site in Dehradun (violating Shlok's Bengaluru or remote preference) at an obscure company unlikely to meet his Rs 24.5 LPA salary target.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30"
+   "updated_at": "2026-11-22T03:20:14+05:30",
+   "reject_reason": "Role is strictly on-site in Dehradun (violating Shlok's Bengaluru or remote preference) at an obscure company unlikely to meet his Rs 24.5 LPA salary target."
   },
   {
    "id": "L1919",

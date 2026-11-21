@@ -228509,7 +228509,7 @@
    "key": "cheqdigital|business analyst|bengaluru",
    "type": "job",
    "company": "Cheq Digital",
-   "company_domain": "",
+   "company_domain": "cheq.one",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "AmbitionBox 3.3 (4 reviews, via Naukri)",
@@ -228517,7 +228517,7 @@
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "naukri",
    "source_id": "201126021467",
    "source_url": "https://www.naukri.com/job-listings-business-analyst-cheq-digital-bengaluru-1-to-3-years-201126021467",
@@ -228548,8 +228548,8 @@
    },
    "score": {
     "rules": 64,
-    "research": null,
-    "total": 64,
+    "research": 38,
+    "total": 48,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -228559,15 +228559,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Analyst at CheQ asks 1-2 yrs in consumer product analytics and A/B testing; your background is in S&OP supply chain operations.",
+    "fit_notes": "Posting asks for 1-2 years in business/data analytics at a startup/consumer tech company, focusing on user behavior, conversion funnels, retention segmentation, and A/B testing using SQL, Excel/Python, and visualization tools. While Shlok has a quantitative B.Tech from IIT Guwahati and SQL/Python skills, his 1.3 years of work experience ([sop], [msl], [mrp], [ceo-coo], [o2d]) is in supply chain S&OP and manufacturing operations, not consumer product analytics.",
+    "pay_notes": "Pay is not stated in the posting and no reliable pay evidence was found for Cheq Digital. Standard Business Analyst roles at 1-2 YOE rarely reach Rs 24.5 LPA fixed.",
+    "culture_notes": "AmbitionBox rating is 3.3 based on 4 reviews (via Naukri).",
+    "hook": "CheQ has processed over Rs 80,000 Cr+ in lifetime credit payments and raised $16M from marquee investors.",
+    "hook_source": "https://www.naukri.com/job-listings-business-analyst-cheq-digital-bengaluru-1-to-3-years-201126021467",
+    "researched_at": "2026-11-21T22:09:01+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -228591,14 +228598,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 64"
+    },
+    {
+     "at": "2026-11-21T22:09:01+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 48: rejected (The role asks for 1-2 years of experience in product and consumer analytics (user funnels, retention, A/B testing), which does not align with Shlok's heavy supply chain and S&OP operations background at Ola Electric.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T22:09:01+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 1-2 years of experience in product and consumer analytics (user funnels, retention, A/B testing), which does not align with Shlok's heavy supply chain and S&OP operations background at Ola Electric."
   },
   {
    "id": "L1893",

@@ -222415,8 +222415,8 @@
    "key": "intuit|senior business operations manager|bengaluru",
    "type": "job",
    "company": "Intuit",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "intuit.com",
+   "company_url": "https://www.intuit.com",
    "company_linkedin": "https://www.linkedin.com/company/intuit",
    "company_note": "",
    "title": "Senior Business Operations Manager (Intuit India Strategy & Operations)",
@@ -222454,8 +222454,8 @@
    },
    "score": {
     "rules": 72,
-    "research": null,
-    "total": 72,
+    "research": 20,
+    "total": 41,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -222466,15 +222466,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Senior Business Ops Manager, Intuit India Strategy & Ops, but asks 5-8 yrs; you have about 1.3.",
+    "fit_notes": "S&OP and CEO/COO work map in kind, but seniority is far beyond the stretch limit.",
+    "pay_notes": "No pay in posting; not researched.",
+    "culture_notes": "Not researched.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T14:38:56+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -222498,9 +222500,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 72"
+    },
+    {
+     "at": "2026-11-21T14:38:56+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 41: rejected (Posting (opened 2026-11-21 on LinkedIn, 171 applicants) asks 5-8 years of strategy/biz-ops experience; MBA a plus. Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T14:38:56+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -222510,7 +222518,8 @@
     "at": "2026-11-21T13:14:01+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Posting (opened 2026-11-21 on LinkedIn, 171 applicants) asks 5-8 years of strategy/biz-ops experience; MBA a plus. Shlok has about 1.3 years."
   },
   {
    "id": "L1847",

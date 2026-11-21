@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-17T10:17:09+05:30",
-   "agent": "lead-scout",
-   "ok": true,
-   "summary": "7 researched, 1 qualified (L1556 Nat Habit Founder's Office, score 69, pay unknown, stretch), 6 rejected (Emeritus pay 6-11 LPA; SmartQ APM; NIIT 7-12yrs; Happiest 8-10yrs; Comviva MBA mandatory; Turing paid-ads). 1 contact, 1 catch-all email (gaurav@nathabit.in). 7 of 12 budget used (rest not opened: Schneider, Infoblox, Edstruments, Accenture, Salesforce, Deloitte, Corizo). Scrape skipped (under 3h old)",
-   "stats": {}
-  },
-  {
    "at": "2026-11-17T10:40:50+05:30",
    "agent": "send-track",
    "ok": true,
@@ -3642,6 +3635,19 @@
    "ok": true,
    "summary": "outside the sending window; 60 approved email(s) wait for the next run",
    "stats": {}
+  },
+  {
+   "at": "2026-11-22T04:05:15+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
+   }
   }
  ]
 }

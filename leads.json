@@ -57984,7 +57984,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-21T15:54:18+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -58020,9 +58020,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v1 email to Tom Chavez queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-21T15:54:18+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Tom Chavez"
     }
    ],
-   "updated_at": "2026-11-20T16:34:11+05:30",
+   "updated_at": "2026-11-21T15:54:18+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

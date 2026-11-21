@@ -4823,6 +4823,15 @@
    "title": "Sending M0119 failed",
    "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer",
    "ref": "I0037"
+  },
+  {
+   "id": "J0537",
+   "at": "2026-11-21T14:38:17+05:30",
+   "by": "follow-up",
+   "kind": "debug",
+   "title": "data sync reset failed intermittently",
+   "detail": "git reset --hard origin/data in data/ exited 128 on first try for lead show/run-log; retry succeeded. Likely transient network/lock.",
+   "ref": "L1360"
   }
  ]
 }

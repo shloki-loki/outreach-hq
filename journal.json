@@ -5849,6 +5849,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 60 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J0651",
+   "at": "2026-11-22T02:25:09+05:30",
+   "by": "supervisor/check",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "M0109: failed; needs investigation; M0110: failed; needs investigation; M0111: failed; needs investigation; M0112: failed; needs investigation; M0113: failed; needs investigation; M0114: failed; needs investigation; M0115: failed; needs investigation; M0116: failed; needs investigation; M0117: failed; needs investigation; M0118: failed; needs investigation; M0119: failed; needs investigation; W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
+   "ref": ""
   }
  ]
 }

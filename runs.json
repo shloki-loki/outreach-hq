@@ -1,41 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-17T01:00:14+05:30",
-   "agent": "research-worker",
-   "ok": false,
-   "summary": "27 researched (4 qualified, 23 rejected), 1 closed postings binned, 6 left for a person",
-   "stats": {
-    "researched": 27,
-    "qualified": 4,
-    "rejected": 23,
-    "binned": 1,
-    "left_for_a_person": 6,
-    "errors": 6,
-    "models": {
-     "research": [
-      "gemini-2.5-flash",
-      "gemini-3.8-flash"
-     ],
-     "judge": [
-      "gemini-3.8-flash",
-      "gemini-3.7-flash",
-      "gemini-3.6-flash",
-      "gemini-3.5-flash",
-      "gemini-3.5-flash-lite"
-     ],
-     "reader": [
-      "gemini-3.5-flash-lite",
-      "gemini-3.1-flash-lite",
-      "gemini-3.8-flash",
-      "gemini-3.7-flash",
-      "gemini-3.6-flash",
-      "gemini-3.5-flash"
-     ]
-    }
-   }
-  },
-  {
    "at": "2026-11-17T01:00:36+05:30",
    "agent": "people-finder",
    "ok": true,
@@ -3662,6 +3627,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-22T03:25:32+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

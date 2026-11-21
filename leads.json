@@ -221224,9 +221224,15 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 81: qualified"
+    },
+    {
+     "at": "2026-11-21T13:22:52+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-21T13:11:28+05:30",
+   "updated_at": "2026-11-21T13:22:52+05:30",
    "research_attempt": {
     "at": "2026-11-20T22:42:06+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
@@ -221237,7 +221243,8 @@
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
    },
-   "reject_reason": null
+   "reject_reason": null,
+   "people_searched_at": "2026-11-21T13:22:52+05:30"
   },
   {
    "id": "L1836",

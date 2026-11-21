@@ -1,18 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-14T18:46:36+05:30",
-   "agent": "live-check",
-   "ok": true,
-   "summary": "353 postings checked: 275 live, 13 moved to the Bin, 65 could not be checked",
-   "stats": {
-    "checked": 353,
-    "live": 275,
-    "binned": 13,
-    "unknown": 65
-   }
-  },
-  {
    "at": "2026-11-14T18:59:11+05:30",
    "agent": "live-check",
    "ok": true,
@@ -3866,6 +3854,16 @@
     "bounces": 0,
     "settled": 0,
     "followups_due": 0
+   }
+  },
+  {
+   "at": "2026-11-21T17:45:22+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 0, failed 0. daily cap of 60 speculative notes reached",
+   "stats": {
+    "sent": 0,
+    "failed": 0
    }
   }
  ]

@@ -230509,7 +230509,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Delhi, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492995458",
    "source_url": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-petcare-brand-at-recrivio-4492995458",
@@ -230525,23 +230525,23 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Note: Hiring for a well funded client based in Delhi from Petcare industry. \n Role: Founder’s Office\n Industry: Petcare\n Location: Delhi\n Experience: 2-3 Years\n Budget: 12-15 LPA\n Employment Type: Full-time\n Reporting To: Founder & CEO\n About the Role \n We are looking for a driven, proactive and highly organised professional to work directly with the Founder of a growing petcare business. This is a unique opportunity for someone who wants to work at the intersection of business strategy, operations and execution, while gaining first-hand exposure to how a growing business is built and scaled. As part of the Founder’s Office, you will work across multiple business functions, drive important initiatives, coordinate with teams, track business performance and help translate the Founder’s vision into actionable outcomes.\n From improving internal processes and tracking business metrics to coordinating business priorities and solving operational challenges, you will play an important role in ensuring the business runs efficiently.\n This is a hands-on generalist role for someone who enjoys taking ownership, working across functions and getting things done.\n Key Responsibilities \n 1. Business Operations & Execution\n Support the Founder in managing and tracking day-to-day business priorities.\n Coordinate with different teams to ensure timely execution of key initiatives.\n Monitor business activities, identify operational gaps and drive resolutions.\n Help streamline internal processes and improve operational efficiency.\n Track important deliverables and ensure accountability across teams.\n 2. Founder’s Office & Strategic Initiatives\n Work closely with the Founder on business priorities, projects and special initiatives.\n Convert discussions and ideas into actionable plans and follow through on execution.\n Conduct market research, competitor analysis and business assessments.\n Prepare presentations, business reports and management updates.\n Independently manage assigned projects with guidance from the Founder.\n 3. Business Performance & Financial Tracking\n Track key business metrics, revenue, expenses, collections and operational performance.\n Maintain MIS reports, business dashboards and performance trackers.\n Support budgeting, expense monitoring and basic financial planning.\n Coordinate with finance, accounting and external stakeholders.\n Identify performance gaps and share actionable insights.\n 4. Cross-functional Coordination\n Work closely with teams across Sales, Marketing, Operations, Customer Experience, Supply Chain and other functions.\n Ensure alignment on business priorities and execution timelines.\n Track team-level goals, deliverables and performance metrics.\n Proactively follow up on dependencies and resolve coordination challenges.\n 5. Process Improvement & Business Growth\n Identify opportunities to improve business processes and customer experience.\n Support initiatives related to business expansion, operational scalability and growth.\n Help ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "12-15 LPA",
+    "min_lpa": 12,
+    "max_lpa": 15,
+    "basis": "stated",
+    "source": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-petcare-brand-at-recrivio-4492995458",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -230551,15 +230551,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at a petcare brand in Delhi, asks 2-3 yrs, but pays 12-15 LPA which misses your floor.",
+    "fit_notes": "The posting asks for \"2–3 years of professional experience\" and experience in Founder’s Office, Business Operations, or Strategy & Operations. Shlok's experience at Ola Electric in S&OP planning and execution ([sop], [ceo-coo]) maps directly to the operational and strategic requirements. However, the role is based in Delhi and the budget is 12-15 LPA, which fails Shlok's location and pay criteria.",
+    "pay_notes": "Stated budget is 12-15 LPA, which is below Shlok's minimum requirement of Rs 24.5 LPA fixed.",
+    "culture_notes": "No company website or reviews found in web search; client is a well-funded petcare brand recruited via Recrivio.",
+    "hook": "Hiring for a well funded client based in Delhi from Petcare industry.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-petcare-brand-at-recrivio-4492995458",
+    "researched_at": "2026-11-22T03:25:36+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -230583,14 +230593,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-22T03:25:36+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Pay of 12-15 LPA is far below Shlok's minimum of Rs 24.5 LPA fixed, and the location is Delhi instead of Bengaluru or remote.)"
     }
    ],
-   "updated_at": "2026-11-21T14:22:18+05:30",
+   "updated_at": "2026-11-22T03:25:36+05:30",
    "research_attempt": {
     "at": "2026-11-21T21:59:12+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Pay of 12-15 LPA is far below Shlok's minimum of Rs 24.5 LPA fixed, and the location is Delhi instead of Bengaluru or remote."
   },
   {
    "id": "L1901",

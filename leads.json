@@ -227532,8 +227532,8 @@
    "key": "urban|category manager ii operations urban company|bengaluru",
    "type": "job",
    "company": "Urban Company (UC)",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "urbancompany.com",
+   "company_url": "https://www.urbancompany.com",
    "company_linkedin": "",
    "company_note": "AmbitionBox 3.3 (2096 reviews, via Naukri)",
    "title": "Category Manager II Operations || Urban Company",
@@ -227563,16 +227563,16 @@
    "stretch": true,
    "pay": {
     "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "min_lpa": 4,
+    "max_lpa": 14,
+    "basis": "estimate",
+    "source": "AmbitionBox Category Manager, about 515 salaries, via web search snippet",
+    "fit": "Below range (estimate)"
    },
    "score": {
     "rules": 80,
-    "research": null,
-    "total": 80,
+    "research": 30,
+    "total": 50,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -227583,15 +227583,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Category Manager II Operations at Urban Company asks 1-3 yrs, but category-manager pay runs about 4-14 LPA on AmbitionBox.",
+    "fit_notes": "Ops and inventory facts map; pay does not clear.",
+    "pay_notes": "Thin for the II level; may be higher.",
+    "culture_notes": "AmbitionBox 3.3 (2096 reviews, via Naukri).",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T14:39:21+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -227615,9 +227617,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 80"
+    },
+    {
+     "at": "2026-11-21T14:39:21+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 50: rejected (Same evidence as the sibling Urban Company category-ops lead: AmbitionBox Category Manager about Rs 4-14 LPA (about 515 salaries), under the floor. Naukri page not readable, liveness unconfirmed.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T14:39:21+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "live",
@@ -227627,7 +227635,8 @@
     "at": "2026-11-21T13:11:46+05:30",
     "why": "the posting page has no readable description",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Same evidence as the sibling Urban Company category-ops lead: AmbitionBox Category Manager about Rs 4-14 LPA (about 515 salaries), under the floor. Naukri page not readable, liveness unconfirmed."
   },
   {
    "id": "L1895",

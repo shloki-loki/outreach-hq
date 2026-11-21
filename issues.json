@@ -517,6 +517,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0038",
+   "key": "send-track:send-track 21 Nov: no draftable leads, recheck crashed",
+   "agent": "send-track",
+   "severity": "warn",
+   "title": "send-track 21 Nov: no draftable leads, recheck crashed",
+   "detail": "No qualified lead has a verified/published address plus a hook (top ones catch-all or guess, none score 80+). find-email --recheck for L0105 crashed with CalledProcessError in store.transact (git commit exit 1 in data/). lead show for L0018 failed on store.sync git reset exit 128. Google Forms apply links need sign-in; Amazon page not readable; so 0 application kits.",
+   "status": "open",
+   "opened_at": "2026-11-21T14:38:24+05:30",
+   "last_seen": "2026-11-21T14:38:24+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

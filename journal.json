@@ -4832,6 +4832,15 @@
    "title": "data sync reset failed intermittently",
    "detail": "git reset --hard origin/data in data/ exited 128 on first try for lead show/run-log; retry succeeded. Likely transient network/lock.",
    "ref": "L1360"
+  },
+  {
+   "id": "J0538",
+   "at": "2026-11-21T14:38:24+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "send-track 21 Nov: no draftable leads, recheck crashed",
+   "detail": "No qualified lead has a verified/published address plus a hook (top ones catch-all or guess, none score 80+). find-email --recheck for L0105 crashed with CalledProcessError in store.transact (git commit exit 1 in data/). lead show for L0018 failed on store.sync git reset exit 128. Google Forms apply links need sign-in; Amazon page not readable; so 0 application kits.",
+   "ref": "I0038"
   }
  ]
 }

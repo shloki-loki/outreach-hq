@@ -5417,6 +5417,15 @@
    "title": "Founder-v2 PR #13 pending; 52 approved emails waiting",
    "detail": "52 approved messages wait with the old founder-v1 text; PR #13 (founder-v2) was opened 20:00 IST 21 Nov and the Tests check passed. Daily cap of 60 reached today (61 sent). GitHub workflows for 21 Nov all succeeded; no dropped or failed workflow runs. data branch log has no repair: commits and no interleaved same-second commits.",
    "ref": ""
+  },
+  {
+   "id": "J0603",
+   "at": "2026-11-21T20:12:32+05:30",
+   "by": "supervisor",
+   "kind": "review",
+   "title": "Daily review 2026-11-21",
+   "detail": "RAN today: lead-scout/scrape 14:22 (6354 jobs, 18 new), lead-scout 14:40, send-track 14:38, send-track/send every 20 min, follow-up/track every 20 min, follow-up/digest 16:00 (1 reply), live-check 12:47, writer 13:26, people-finder 13:23, research-worker 13:22 (flagged failed though 23 researched). follow-up last ran 20 Nov 15:10 (within 2 days). All GitHub workflows succeeded, none dropped. PROBLEMS: (1) 11 failed sends M0109-M0119 (SMTP connection reset, I0029-I0037) - diagnosed, press Retry; (2) bounce rate 5.9% (9/153), 2 bounces today, guess addresses, new issue opened, I0028 still open; (3) writer: Gemini free quota exhausted, 0 drafts; (4) send-track: no draftable leads, recheck crashed on data git commit (I0038); (5) Naukri/Instahyre fetch (I0039); (6) supervisor/check masked by stale W0006-W0008 claims (I0014); (7) research-worker marked failed, cause unclear. No changes made to system by me. FUNNEL: 1916 leads, 504 researched, 115 qualified, 143 cold emails sent + 7 applied, 3 replied (1 interview), 0 offers. Reply rate 2.1%, bounce rate 5.9%. 61 emails sent today. Verifier: Reoon free credits spent. NEEDS SHLOK: Retry failed sends; hold guess addresses; top up verifier / Gemini quota; merge PR #13; close W0006-W0008.",
+   "ref": ""
   }
  ]
 }

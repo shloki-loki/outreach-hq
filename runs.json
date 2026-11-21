@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-13T15:05:24+05:30",
-   "agent": "follow-up/track",
-   "ok": false,
-   "summary": "inbox scan failed: JSONDecodeError: Expecting ':' delimiter: line 19601 column 13 (char 723899)",
-   "stats": {}
-  },
-  {
    "at": "2026-11-13T16:54:32+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3864,6 +3857,30 @@
       "gemini-3.5-flash",
       "gemini-3.5-flash-lite"
      ]
+    }
+   }
+  },
+  {
+   "at": "2026-11-21T14:22:21+05:30",
+   "agent": "lead-scout/scrape",
+   "ok": true,
+   "summary": "6354 jobs read, 248 passed rules, 18 new leads",
+   "stats": {
+    "fetched": 6354,
+    "passed_rules": 248,
+    "new": 18,
+    "updated": 6,
+    "closed": 0,
+    "by_source": {
+     "greenhouse": 3736,
+     "lever": 112,
+     "ashby": 2018,
+     "linkedin": 169,
+     "instahyre": 219,
+     "yc": 100,
+     "naukri": 0,
+     "wellfound": 0,
+     "hiringcafe": 0
     }
    }
   }

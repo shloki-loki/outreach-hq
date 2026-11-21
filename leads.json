@@ -223920,15 +223920,15 @@
    "key": "microchip|cad aes program manager|bengaluru",
    "type": "job",
    "company": "Microchip Technology Inc.",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "microchip.com",
+   "company_url": "https://www.microchip.com",
    "company_linkedin": "https://www.linkedin.com/company/microchip-technology",
    "company_note": "",
    "title": "CAD-AES Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492406156",
    "source_url": "https://in.linkedin.com/jobs/view/cad-aes-program-manager-at-microchip-technology-inc-4492406156",
@@ -223944,7 +223944,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Are you looking for a unique opportunity to be a part of something great? Want to join a 17,000-member team that works on the technology that powers the world around us? Looking for an atmosphere of trust, empowerment, respect, diversity, and communication? How about an opportunity to own a piece of a multi-billion dollar (with a B!) global organization? We offer all that and more at Microchip Technology Inc.\nPeople come to work at Microchip because we help design the technology that runs the world. They stay because our culture supports their growth and stability. They are challenged and driven by an incredible array of products and solutions with unlimited career potential. Microchip’s nationally-recognized Leadership Passage Programs support career growth where we proudly enroll over a thousand people annually. We take pride in our commitment to employee development, values-based decision making, and strong sense of community, driven by our Vision, Mission, and 11 Guiding Values; we affectionately refer to it as the Aggregate System and it’s won us countless awards for diversity and workplace excellence.\nOur company is built by dedicated team players who love to challenge the status quo; we did not achieve record revenue and over 30 years of quarterly profitability without a great team dedicated to empowering innovation. People like you.\nVisit our careers page to see what exciting opportunities and company perks await!\n Job Description\n As a Program Manager, this person would be working closely with the Digital Design teams, Implementation, Layout and DFT teams, Mixed Signal Development teams and CAD/Flow Development teams to coordinate various tasks throughout the IP and SOC development process. This role is for a versatile candidate who would enjoy challenges of adapting to the newer cutting-edge technology nodes and also ensuring quality deliverables in established/legacy technology nodes.\n Primary Responsibilities Include\n Working with multi-time-zone locations of cross-functional teams from Design, Implementation, DFT, Layout, CAD and Mixed Signal domains\n Planning, developing and tracking tasks across IP and SOC development, CAD flow development, Vendor Tools deployment, Post-Si test ecosystem\n Establishing and facilitating the risk management process for new projects and initiatives by working with internal stakeholders to drive objectives\n Conduct periodic meetings to collect status and facilitate inter-team task alignment\n Effectively presenting project status to internal/external customers and bringing the feedback back to engineering teams\n Ensure Goals are met in areas including customer satisfaction and quality\n Requirements/Qualifications\n BS/MS degree in Electrical/Electronics Engineering\n Prior experience in two or more of semiconductor backend functions (Synthesis, DFT, Layout, Physical Verification, Reliability, Flow Development) is a must\n 10+ years of experience in semiconductor that includes managing either of semiconducto",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -223959,8 +223959,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 35,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -223970,15 +223970,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "CAD-AES Program Manager at Microchip Technology, asks 10+ yrs; your 1.3 yrs of experience and background do not meet the requirement.",
+    "fit_notes": "The posting asks for a 'BS/MS degree in Electrical/Electronics Engineering', 'Prior experience in two or more of semiconductor backend functions... is a must', and '10+ years of experience in semiconductor that includes managing either of semiconductor backend deliverables'. While Shlok has a B.Tech in Electrical and Electronics Engineering from IIT Guwahati and has done manufacturing and supply chain work like cell yield improvement [cell] and MRP implementation [mrp], he has only about 1.3 years of total experience, which falls severely short of the 10+ years minimum required.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures were found in the company's recent financial results or news sources.",
+    "culture_notes": "Microchip Technology Inc. is a multi-billion dollar global semiconductor organization with a recognized leadership passage program and an aggregate system focused on values, but specific employee ratings and structured culture reviews were not found in the evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-21T13:19:15+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Microchip Technology Acquires VORAGO Technologies - Microchip Technology",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWRfbDJMYVBZZ1JuQTM4aWZUcWk0b1NzSWtkVUcweHNTU3BBbi1YLVFva0tYWUpJNjBpS2lBWFp2bjRCbVVZcnU3by13anpSek5lOFk0SUZFLW1Pc1ozUDM3U2RrZEVLOGRPZzhhMFp5QzlnRVpwa0I2Z2hNaHFTMTRnTXZNNnV6dzFkd3lLcmU2dzF1TTVpUWRGZElpa1lUWjVNbzR4YWR2b1dQWGhjVnQxWQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Microchip Technology Announces Financial Results for First Quarter of Fiscal Year 2027 - Microchip Technology",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZUlUbFhTT1hfcUR3YVFtem5wa25yZ1dhVXlVcWxpZW1VOEdKempBMDVBUU1nUDVsV013VGpQOGpuclJVald0MDFyeEpZNExBUGN1TnJicGJPb3hQWDVidmhtS1ZLajQ5bmdRb0l3WHZkMGtoZ0tFM2xBb0RjbHFwODhzc1BRNTltd25MTmtCdFBQcl91MmdBQ01UckZ1TE9HaTloUVJjNWpwcnFQSkZneE1senQ3SnhnTTZUSHk4ejRtLVF6Uk9XZ2JQdHdjSWVzVV9uem9laFBXVTY0a3ZseFJ1aXE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Microchip Technology Completes Acquisition of Hailo - Microchip Technology",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV183NnJTTFZncXliZkN1VTRQdnlxYko1R0dZTmRYR1V6SlBQbzZvemYtZ0QzYnhLSGhheUJJQWpHM3JqWVJnUkZia3NfblgxVThtaFo0WHM3elM3VGV2Vmc0SFZQSXA4WDV4R2c0TUItMDd0YVMtVkRVckp5YkxLdjIzd001ellQMG5hSXBfUVh4ekNiWmxIMUdydlNmNHJjcERHUHV4OF8zUEMwcnVxVDdlOG5QQQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Microchip Technology Announces Financial Results for Second Quarter of Fiscal Year 2027 - Microchip Technology",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRjJfQUt6ekRoeEtBUHB5RnhQYndpajdzTnZKR2JiQU9pQVNwN0NoZmUwVlRnb0N5RFhrNXJFM19xYkpUbXlXb05EM2FWNEFtbFRleE91bXEzMmg5WWxpM2lEUTNMbHFZcTMtdzI0bWlDS3JkWGZzN0V3b0IwOWd5MkFfb21CWFhfUzJmVEoxMHl2NGkyYVphRVlJLURzR29qdEpCdUdKQTlQQ3FyUjhyckdadkRiU1hJSnFmbXgybk1sWlBrcnpYanhhWWdIQXVwRUJBaTdzcXdrRU90eXRGZ1FycEhDUQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Microchip Technology, in Collaboration With Micron Technology, Demonstrates High-Performance PCIe - Microchip Technology",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOcHo4UTBXWFJLYmt4eUEyOU43a0pIbU9vWHlLQ3hHUlIzTkNJdEpWd2FpRXFENm9lTm9zTFRpaHRQWGw1R0lXS2pHdUtNcDhRMmhnak9YNW5Wckw1SEYxczR0cHFKeVBSYUNoRkNTanFjeEdyanVCeVVPU2U5ME52R2tkTnA5NFRmZDYyYWJrQXBDb2hpV3MwaVo4YmhjM2YwUWg4ZDNucEdGa0MtRE9tckVwSGs1WEpkbF9YbEJKWkFnYk1YdnVGRGEtMUFXRllGMEhYVlhYaGZ4NkZJZFB4U3hXQUlWSXoxWi0tczF3dEluN2JQZ2tJOC1RM0R3cVVWYTNfekk1Q1lvTzF0bkhZd3FEdExUaFZDdzItWHJ1TWNpaGFzVUUtdnYxd19qUUdFcXM2Wi1yZjVEemFScHdURUY3VUFHb2M?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Microchip Technology Signs Definitive Agreement to Acquire Hailo - Microchip Technology",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUQzWFUtNHlhSUJFMm1JYXNza0NWOHc5VlA4d2dIUTFwMjdFeHdxdXFFRlR2ZVN5QXFEaVBpNGlyendIbGFNUmMwMEk0eV9JdUZCdEtFQzU3TkJwUUNIaEtuZ2I3WUxCbHVHVWxXdFIxb1lITlZTQ2tvSXFPOHNnNmN1Rjk4TmNKc25obXJjLWxtLTZ2MHAzQkdCRzloRVlSUTJYSUVRakJzcms0UnljV2RLNVFXWEZJNGpXdHNqTjA4N1lpemhn?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -224002,14 +224040,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-21T13:19:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The posting explicitly requires 10+ years of experience in semiconductor backend deliverables, far exceeding Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-21T13:19:15+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting explicitly requires 10+ years of experience in semiconductor backend deliverables, far exceeding Shlok's 1.3 years."
   },
   {
    "id": "L1862",

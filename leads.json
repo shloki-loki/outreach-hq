@@ -222252,15 +222252,15 @@
    "key": "colliers|business operations project management|india",
    "type": "job",
    "company": "Colliers",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "colliers.com",
+   "company_url": "https://www.colliers.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Business Operations | Project Management",
    "tier": "1 - Strategy & Ops",
    "location": "Gurgaon",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "479419",
    "source_url": "https://www.instahyre.com/job-479419-business-operations-project-management-at-colliers-gurgaon/",
@@ -222291,8 +222291,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -222301,15 +222301,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Project Management Analyst at Colliers in Gurgaon, asks 2-6 yrs; located outside Bengaluru with unstated pay.",
+    "fit_notes": "The posting asks for a 'Bachelor's degree in Engineering, Management, NICMAR, or SPA' and '2-6 Years' experience in project management. Shlok has 1.3 years of experience in EV operations and strategy at Ola Electric ([sop], [ceo-coo]), and the role is onsite in Gurgaon, which violates his location constraint of Bengaluru or remote first.",
+    "pay_notes": "Pay was not stated in the posting, and no specific salary data was found in the search evidence.",
+    "culture_notes": "Colliers is a leading global professional services and investment management company with over 15,000 employees globally; specific Glassdoor ratings and culture reviews were not provided in the search results.",
+    "hook": "Colliers recently reported robust investment activity in Indian real estate, reaching USD 5.9 Bn in the first nine months of 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmw1aExVdjRSMU9VNmNoNHpqM1JPTm1BUkh6NnlzeHhlUXh2LTFQLXF0c0JncjBJVFA1bmlYcWdreTJ4UUZ1QnlDNXNEc0EwY1dRdGt0a1RVZ0ZFMEhzMVo5RU15RUNnd3R4QnhMc1NmcjRVSWdqcXVkYUQtR1FlRF8zaw?oc=5",
+    "researched_at": "2026-11-21T22:28:56+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Senior Living Market to Cross INR 1 Trillion - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WNE5VMnNpYkh4X2FxOEgwVWxOckJocWhjeGtNQ29FalpPU1Bub29RVUxWaGVPTTRnRXNoc2FDQlZIaG9lTTRUdzBzaVZ0VDhySnRBQm5qbC1kcC1tR0NkYm85aTBjX0QwalBGSzh6OTE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Homebuying Sentiment Survey 2026 - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DTTZiV2wxMGNNRVhBR1RlY09aRFpIUHhWdy1aY3laQnl3M1BZYnZLTFpCU0NSWERLclg5Z0UxMU1JbWtDR0dNWEp5X1Z2emZ4UGIxV1AyTkhFUTd5RHhwVHFmZ2R2bzljSU41WGczTjBCcDMxeWdhallXX0o?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "GCCs in India Report 2026 Insights - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qOFUybFlCM0FIOXF0MWJQUDVhSENzUXU5SWlueDNVdUJCZDBWTlVrUm8yVllVbl9iSGFKY0NILUFtYjYzSi0yQzBvV0ZNTFpibUpaRVhLVnJhcU9ucWR2ajZ1MklERVJFOFRCSk1pQjlYc3M?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Jan-Sep 2026 investments in Indian real estate touch USD 5.9 Bn, highest 9-month volume in recent years - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmw1aExVdjRSMU9VNmNoNHpqM1JPTm1BUkh6NnlzeHhlUXh2LTFQLXF0c0JncjBJVFA1bmlYcWdreTJ4UUZ1QnlDNXNEc0EwY1dRdGt0a1RVZ0ZFMEhzMVo5RU15RUNnd3R4QnhMc1NmcjRVSWdqcXVkYUQtR1FlRF8zaw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Transforming corporate real estate from a decentralised to centralised model - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rRjNVWVVLb3hrUWVOY295Z3RSaklRd2JnQkhsVllacHl5c3gyVHpHYUh5VC1qNHV6ZlBfUGlxUzRlRnpJTDJkbDl5VGZSRjhFVE9ZUUp2UUYyMDAzaDk0bkkxX0tXNFU4ODRpRkwybVdnQTJRTTZxbWJqNkZ6dw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "From the Boiler Room to the Boardroom: The New Era of Facility Management Leadership - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oeU1TMl9ocm9vU2pWMDlPYzhZdk9KcVUxbWtjeU5RdjhOajFIV0ZMNDlKSnpXRTA3NnhTOFpuYXpMa0cxY09BSmN1clFXbVFGM2tzYy1iWExOYng5SmlxbW1QX3ZyRVNraERZMVE4WGpDejlPZUFhMWlLbW80QQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -222333,14 +222371,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-21T22:28:56+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role is located in Gurgaon and requires 2-6 years experience with an unknown salary below Shlok's threshold, violating his location and fixed pay requirements.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-21T22:28:56+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
     "why": "HTTP 503 for https://www.instahyre.com/job-479419-business-operations-project-management-at-colliers-gurgaon/"
-   }
+   },
+   "reject_reason": "Role is located in Gurgaon and requires 2-6 years experience with an unknown salary below Shlok's threshold, violating his location and fixed pay requirements."
   },
   {
    "id": "L1828",

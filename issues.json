@@ -543,7 +543,7 @@
    "opened_at": "2026-11-21T14:40:11+05:30",
    "last_seen": "2026-11-21T14:40:11+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Same as I0012: Naukri is JS-only, Instahyre 403s, LinkedIn 429s. Needs browser-based fetch (Chrome) for those leads or manual check by Shlok; curl will never work.",
    "resolved_at": null
   }
  ],

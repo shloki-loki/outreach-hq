@@ -5372,6 +5372,15 @@
    "title": "Diagnosis: send-track 21 Nov: no draftable leads, recheck crashed",
    "detail": "Cause: Reoon quota spent (I0016) so top leads stay catch-all/guess; recheck crash was a git commit exit 1 in data/ (same flaky data-branch sync as I0015). Fix for Shlok: top up verifier credits or supply published addresses; the git flakiness needs a retry wrapper in store.transact (code change, not done in scheduled run).",
    "ref": "I0038"
+  },
+  {
+   "id": "J0598",
+   "at": "2026-11-21T20:12:02+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Naukri/instahyre/Talentiser pages not fetchable by curl",
+   "detail": "Same as I0012: Naukri is JS-only, Instahyre 403s, LinkedIn 429s. Needs browser-based fetch (Chrome) for those leads or manual check by Shlok; curl will never work.",
+   "ref": "I0039"
   }
  ]
 }

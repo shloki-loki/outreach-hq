@@ -4814,6 +4814,15 @@
    "title": "Ran",
    "detail": "6354 jobs read, 248 passed rules, 18 new leads",
    "ref": ""
+  },
+  {
+   "id": "J0536",
+   "at": "2026-11-21T14:35:27+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "Sending M0119 failed",
+   "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer",
+   "ref": "I0037"
   }
  ]
 }

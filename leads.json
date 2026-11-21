@@ -52868,9 +52868,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v1 email to Satya Sharma queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-21T14:50:34+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Narinder Kumar"
     }
    ],
-   "updated_at": "2026-11-21T14:45:20+05:30",
+   "updated_at": "2026-11-21T14:50:34+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

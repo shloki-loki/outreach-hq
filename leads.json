@@ -57641,9 +57641,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Naveen Jindal"
+    },
+    {
+     "at": "2026-11-21T16:16:06+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Alok Thakur"
     }
    ],
-   "updated_at": "2026-11-21T15:52:05+05:30",
+   "updated_at": "2026-11-21T16:16:06+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

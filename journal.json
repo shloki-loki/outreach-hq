@@ -6902,6 +6902,15 @@
    "title": "Solved: Data sync and GitHub API unreachable during supervisor run 18 Nov ~19:00 IST",
    "detail": "GitHub has been reachable since; sync, status and gh all work on 22 Nov. The general sync problem stays tracked in I0015 until PR 17 is merged.",
    "ref": "I0022"
+  },
+  {
+   "id": "J0768",
+   "at": "2026-11-22T22:20:22+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Mac sender hung since 08:50 on 22 Nov: IMAP read has no timeout",
+   "detail": "Reproduced: an inbox read on a silent server never returns. PR 17 adds a 60 s timeout to every IMAP connection. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
+   "ref": "I0043"
   }
  ]
 }

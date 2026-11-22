@@ -599,7 +599,7 @@
    "opened_at": "2026-11-22T18:51:34+05:30",
    "last_seen": "2026-11-22T18:51:34+05:30",
    "count": 1,
-   "remedy": "The hung run ended by itself with an IMAP socket error and launchd started a new run at 19:05, which is sending. Root cause remains: add timeout= to the three IMAP4_SSL calls in mailbox.py.",
+   "remedy": "Reproduced: an inbox read on a silent server never returns. PR 17 adds a 60 s timeout to every IMAP connection. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
    "resolved_at": null
   },
   {

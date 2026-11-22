@@ -178735,15 +178735,15 @@
    "key": "meritto|sr analyst associate manager growth and strategy|india",
    "type": "job",
    "company": "Meritto",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "meritto.com",
+   "company_url": "https://meritto.com",
    "company_linkedin": "https://in.linkedin.com/company/meritto",
    "company_note": "",
    "title": "Sr.Analyst/ Associate Manager- Growth & Strategy",
    "tier": "1 - Strategy & Ops",
    "location": "Gurgaon, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489481382",
    "source_url": "https://in.linkedin.com/jobs/view/sr-analyst-associate-manager-growth-strategy-at-meritto-4489481382",
@@ -178759,7 +178759,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "A day in the life of this role\n This role is about 50% thinking and 50% doing. You will build the analysis, and you will also drive the work that follows from it.\nWhat you'll do\n Growth strategy & new bets\n Break markets into segments and adjacencies, build market maps and sizing views\n Build business cases and financial models for new products, segments, and support pricing or packaging decisions.\n Support go-to-market for new products through ICP definition, target-account research, design-partner pipelines, and positioning inputs.\n Competitive & market intelligence\n Track competitors across in target areas, find adjacent players, covering positioning, pricing, product, GTM motion, and disclosures.\n Maintain structured competitive briefs and share periodic updates with leadership.\n Strategic programs & execution\n Own execution of one or two cross-functional initiatives at a time: planning, milestones, tracking, flagging risks early, and seeing them through to closure.\n Work with Product, Sales, Marketing, Finance, and Customer Success to unblock execution and follow up on leadership action items.\n Spot inefficiencies in how work gets done and propose practical process improvements.\n Business performance & operating rhythm\n Build and maintain dashboards for company- and function-level KPIs and OKRs. Identify trends, deviations, and second-order implications.\n Prepare inputs for annual planning, quarterly business reviews, and leadership reviews.\n Synthesis & communication\n Write crisp notes, one-pagers, and presentations for leadership\n Build reusable frameworks and templates so recurring analysis gets faster and more consistent.\n What We're Looking For\n MBA from a Tier-1 or Tier-2 institute (preferred not must have)\n 2–4 years of experience in management consulting, corporate strategy, a Founder's/CEO's Office, corporate development, or strategy/growth roles at a SaaS or tech company.\n A track record of owning workstreams end to end, beyond producing analysis for someone else to act on.\n Strong analytical and financial modeling skills\n Clear written thinking: you can turn messy, incomplete information into a structured recommendation.\n Solid project management skills and the ability to juggle multiple deliverables without dropping follow-through.\n Comfort working with senior stakeholders across functions.\n Advanced Excel/Sheets and PowerPoint skills, plus fluency with AI tools for research and analysis.\n High ownership, a bias for action, and low tolerance for fluff.\n Good to have: experience in B2B SaaS or education, and exposure to GTM, pricing, or M&A/diligence work.\nSeniority level Not Applicable | Employment type Full-time | Industries IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -178774,8 +178774,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 42,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -178786,15 +178786,41 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Growth & Strategy at Meritto in Gurgaon, asks 2-4 yrs and MBA/consulting, which you lack.",
+    "fit_notes": "The posting asks for \"2–4 years of experience in management consulting, corporate strategy, a Founder's/CEO's Office, corporate development, or strategy/growth roles\" and an \"MBA from a Tier-1 or Tier-2 institute (preferred not must have)\". Shlok has about 1.3 years of experience, no MBA, and no consulting background. While his S&OP and CEO/COO office experience at Ola Electric ([sop], [ceo-coo]) map well to the cross-functional execution requirements, the location (Gurgaon) and experience gap do not align with Shlok's criteria.",
+    "pay_notes": "Pay is not stated in the job posting. No specific salary figures for this role were found in the evidence.",
+    "culture_notes": "No ratings or culture flags were found in the evidence. Parent company NoPaperForms filed an updated DRHP for a Rs 375 crore IPO in September 2026 [S1, S2].",
+    "hook": "Meritto's parent NoPaperForms filed an updated DRHP for a Rs 375 Cr+ IPO in September 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNklZMFFCWVZJQUZXajBlalJRSXVHVTVvZ1VhQWNVazJKVDNmVG1udWRqVnZBOUQwanpRM1ZSRnVGOXIzY0JJU1ZJV1djYTF0djhaMGZNaUluODlfSk5fMWMxLVVYdGVKOHkzWDdLWWN3VEU2WDQ1T3VxRDZTMmxQS193UDhaSExOYzFrM1JBZU13SXl2NG5Hek1B?oc=5",
+    "researched_at": "2026-11-22T12:56:15+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Meritto Parent NoPaperForms Files UDRHP For ₹375 Cr+ IPO - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNklZMFFCWVZJQUZXajBlalJRSXVHVTVvZ1VhQWNVazJKVDNmVG1udWRqVnZBOUQwanpRM1ZSRnVGOXIzY0JJU1ZJV1djYTF0djhaMGZNaUluODlfSk5fMWMxLVVYdGVKOHkzWDdLWWN3VEU2WDQ1T3VxRDZTMmxQS193UDhaSExOYzFrM1JBZU13SXl2NG5Hek1B?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Info Edge-backed Meritto's parent NoPaperForms Solutions files updated DRHP to raise Rs 375 crore in fresh... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPLW0wQ3NmdHhyZ2p2NVZxTmljdEY4TmFZNThvNnRHX0pBQmdET3VzeDhseC1seEx0VjYyaERtdnlhRXBNc1dsV0N6LUFmR0pIVF95SDdIWlNJU2JZSk5xVU9ON3J2UXJ4WTRjLTBjaEExZE5kZ0xOM1VPa3VzWnpnVlhsT1VRRjF5NmJ5MktwNEpGQURaMXdvdFMyN2F1enBFNHBGd2ZHSF9LOWhORDdXVjdhbFVLSVdwd1NFcWNzeVcyNXNPY3QtWXF4NmtWYXFITHQybUpRMDRvRFp5QzNLRmUyZlBDWDktcmRFRlpMUXFVdURTX3lZdDkwdGdCNmU1Z3ZyRjJKUDdEMHE1YkdrY9IBlgJBVV95cUxQaUYwSEZ3a0t4U09UUlhUZWQ2NzUzVDBXS0tTdVRyQ0J2S2hZR0gtbVZiU3k3UVVqOFJlYTUtY1ZRMzJtcjFLVG9jSFU3SmE0U0x1VEM0MmpzbV84cjRPQnBYRnV0ZlF2YlM3UWp2T1lfZW1CNThmNXVtTkVteDNjeXJ5c0thY1JXeVVZZUxScjFTeURKbVNib1o0U0VpRmNTM3pEWk9wWGxVdDZ2ejB3QWtSbkdYdnlXeGlZU3RpdGJ0T29wa25mQkZHbG9mcHlCc0NQUHcya3RWbkNzMTdUS1NRSnRMelVsbEtNWklxRUFmWFAyQzlIM1cwNGJhTHMtTDczS2ctby03R0Zqc011aXhEcldQZw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "AI-Led Discovery Converts 6x Better Than Digital, Reveals Meritto's Enrollment Index 2026 - Business Wire India",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWxrZm5QY1Eza3ZyZGVGNWpXcFZrVnlzNXhaczFUd0k5Q3N3N3ZfcHA0aV80ZWNfYWdSZ1d1djZvWnk3cGZ3TFNGVnl0SEpwLVhyeEt3UU5NSWs5aWpIOVlWX0lNZF9LcUpyaHdmU2xMWWJiV25mWHAwREoySkVndWpyRE8tSEZLRWJLbEhMMEVEU0d0LXR2NV9vNmxUVm40d3pQV2hHZFk2MXlqaFJpbEI0ZndmMk4yUlhTY3AwNVZhOGJ6R0dwMEVBSjdNVlU?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -178818,14 +178844,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:56:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The role requires 2-4 years of experience and is located in Gurgaon, Haryana, whereas Shlok has ~1.3 years of experience and requires Bengaluru or remote-first.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-22T12:56:15+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 2-4 years of experience and is located in Gurgaon, Haryana, whereas Shlok has ~1.3 years of experience and requires Bengaluru or remote-first."
   },
   {
    "id": "L1439",

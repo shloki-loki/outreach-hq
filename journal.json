@@ -6452,6 +6452,15 @@
    "title": "Diagnosis: Data-branch commits create blocked Vercel deployments",
    "detail": "Happened again 22 Nov 19:12: merge 84341b7 (PR #16) got 'Deployment rate limited, retry in 24 hours'. Needs Shlok's OK: add web/vercel.json with deployments off to the data branch, then redeploy main once the limit clears.",
    "ref": "I0044"
+  },
+  {
+   "id": "J0718",
+   "at": "2026-11-22T19:15:57+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "PR #14 and #16 merged; queue re-ordered; site deploy rate-limited",
+   "detail": "On Shlok's OK merged #14 (c48936d) and #16 (84341b7); 93 tests passed on the combined code. Founder queue rebuilt: 0 never-sent people in it, 37 at the back; 5 of them went out 19:05-19:12 just before the reorder. The Mac sender recovered by itself and is sending fresh contacts. Vercel refused the production deploy (rate limited, retry in 24 hours), so the two tabs are NOT live; /cold-mails is still 404. The PR #16 preview build has the same web code as main.",
+   "ref": "84341b7"
   }
  ]
 }

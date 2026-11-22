@@ -224592,15 +224592,15 @@
    "key": "valeo|product manager|bengaluru",
    "type": "job",
    "company": "Valeo",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "valeo.com",
+   "company_url": "https://www.valeo.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "157380",
    "source_url": "https://www.instahyre.com/job-157380-product-manager-at-valeo-bangalore/",
@@ -224631,8 +224631,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 38,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -224641,15 +224641,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Valeo asks 3-7 yrs exp and 2+ yrs in B2C PM; blocked by your 1.3 yrs in S&Ops and lack of B2C PM exp.",
+    "fit_notes": "Posting asks for '3-7 Years' overall and 'Have 2+ years of experience in building B2C products' to 'take complete ownership of a product line'. Shlok has ~1.3 years total experience, primarily in Strategy & Operations at Ola Electric [sop, ceo-coo], with product exposure limited to a technical product internship [idekho] and college fest tech lead [alcheringa]. He lacks the mandatory 2+ years of full-time B2C product management experience.",
+    "pay_notes": "No pay stated in the job posting or evidence.",
+    "culture_notes": "Valeo is a French automotive supplier listed on CAC 40 with 110k+ employees globally. Specific Glassdoor ratings for Bangalore were not provided in evidence.",
+    "hook": "Valeo recently launched a Franco-German open-source initiative with KE:SAI to build generalist autonomous driving systems.",
+    "hook_source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUDBxckZMWXRIOGV2SlJNSUlYd3I2aVhHRVdPNVlHMGJxbTFJSWdIU1NYc09SS2hUSDVtbHZjTG1yMFJnMzBxUDZhRC02YV9vTUdOVU56bVJReHJ3V2t5UmpMNHk2ZG1CbXhLQzZ3Wl9YR09WTGJTS09qdWdYYU5lMFo0RDE1RVIwWTVOdVlDa1pEWTNob1FNZGtYb1JOX21OeWF2bzdMbF8wZGExMFpvRUVKYndMcnptY0k3VjhxLVk3eHBacnpxTk13UW9SUms?oc=5",
+    "researched_at": "2026-11-22T12:45:27+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Valeo Accelerates the Energy Transition with First 48V 2-Speed eAxle for Dacia Duster, Bigster & Striker - Valeo",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1BRd25BMTNWSE1oNkFPSGhPUHViZmNOSzdab000cTVIejhYem5PaDlMdWRlelVuQmVXN0RzQzJoZUlfbWxaOXljTFVXbGFvalQ2SWNJd1ljM2VRTXlkOU9qTEJPOXprdlBkeC1Kdl9hSzdsbU9BcGdZUng3a01tMy1oYWZSLUdCck5laDRnU1UwaFd6MkxMSW9YVElUYTRJQzlySzNIMlFTdU05Rm5mbUVUakVrRFppWFYzb3dzS0lPWnhrQUE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Valeo leans into local-for-local strategy amid turbulent global market - ET Auto",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb01UVV91dURabEtQV2dwSHY3bDVlTVo5VndIR2JKRkN4cmdQOEZKREV3MkdIMDdxWE50M3NKNVhvc2RZQmZ6VHl4UjNhRFNUdzNqMnFodDEwQlZOLWVkVDRzQ2VjVE52X2hNQko3TmFUb2d4QmxWSDhHNkp0UnlxQVR4Nkx6RllrcmhteWlCNUpDa2c0UWEwSTFKakctZUhCVGFWcWtKRVA5ZTFVamxmajFWT2x2WVYyZlV0Ui01X2h4VlFtRHJQVF9XMEduQURudHfSAdYBQVVfeXFMTjRqUzI1M3RzTk5nQU1xUm4xdHZrUDdVZDFtLUxRR0ZyWElBQ1hxa2dhZ3ozX21jbE1iRXJpRlF1czdYRnpnbG1CZ3VEVGJzMjNHU2ZiWDh2X1dUMmVwN2tpSVhYTnNubmd3dTRCUU9aV1ZqSjNrSG1kdDNYSGJZdDJYa1B1ck1xeWg1T0ZMTnJBZ1JQeWphUWUxVDlrV0pRNF9WZEczeU1zcks5a2RoLWNSN3psZG5xcXNsSlowOGxwbnpOY1pKRUVxVm1XMDVBMlZZSUs0UQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Press release – H1 2026 Results - Valeo",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GU01VRFhseGdLWmpxYlNLZW5WUjI5d25HOXQ5VTJTdWdhRzVIUVo1Mko0d0NkZkgtbnd0dGpZMUQyWTNBR0ktVmJPQjduUnVZZ25DeV9lOXotdnoxQml1MEREY0VfZw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Valeo and Calyos Revolutionize Thermal Management of Chips - Valeo",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPc0J4VlVuN1VBTUZMZTl4eFJIV01kWkdvRnV4YjBLNUxIOTBGRHNmcTgyZTY5aFBhU2pMN2ZOX1V1RkRQd2FzeExSTTJ4b2p3OUt0dWkxclhza240MVFKa3lzallzQ19PWF9aOEh2dXpZbU5Ea25JSlhKcWt5eC15Q0tydWpreGdHZVJlemZCcHB0SUJnYjJ6bWtHN2Jxdy1pWmZKXzlwejJiejdWT1lhdUZYVHlXWTdtM3h1cUlJalpMQ1F6SmdZSWt3RE9MUk1iRS0wTDJTMW9hWVVrTXZtVlA2eGdEcXFid0QwU250NUs1Y2RVZ0xjMGdGN0lyUQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Valeo and KE:SAI Launch a Franco-German Open-Source Initiative to Build Generalist Autonomous Driving Systems - Valeo",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUDBxckZMWXRIOGV2SlJNSUlYd3I2aVhHRVdPNVlHMGJxbTFJSWdIU1NYc09SS2hUSDVtbHZjTG1yMFJnMzBxUDZhRC02YV9vTUdOVU56bVJReHJ3V2t5UmpMNHk2ZG1CbXhLQzZ3Wl9YR09WTGJTS09qdWdYYU5lMFo0RDE1RVIwWTVOdVlDa1pEWTNob1FNZGtYb1JOX21OeWF2bzdMbF8wZGExMFpvRUVKYndMcnptY0k3VjhxLVk3eHBacnpxTk13UW9SUms?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Valeo Presents its Latest Ineez AC Charging Station at Drive to Zero 2026 - Valeo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWs1YUowLU5OVnVIUXFFTjJaNFNycWZJTWJxai16eUFaZjFHMFNhMVV6UE9rWTNOdTg3T0tJUzEyOHlPYk9YYTJuOThkTHBtV2tzMGsyZUZuWGpLV0ZvVXBYcTBMdGthMThYYmxNLXlPNGh3Q3ozRWhFT1RGOUN2TEhXQ1JtOWZzdHhTclM2TnFUVmkzNWozakFzMnFnM1l0?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho",
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -224673,9 +224714,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-22T12:45:27+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (Requires 2+ years of experience building B2C products and 3-7 years overall experience; Shlok has 1.3 years total experience, primarily in Strategy & Operations.)"
     }
    ],
-   "updated_at": "2026-11-20T14:48:43+05:30",
+   "updated_at": "2026-11-22T12:45:27+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
@@ -224685,7 +224732,8 @@
     "at": "2026-11-21T22:30:21+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Requires 2+ years of experience building B2C products and 3-7 years overall experience; Shlok has 1.3 years total experience, primarily in Strategy & Operations."
   },
   {
    "id": "L1841",

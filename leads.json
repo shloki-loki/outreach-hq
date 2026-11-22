@@ -36159,7 +36159,7 @@
    "key": "landeed|eir entrepreneur in residence|india",
    "type": "job",
    "company": "Landeed",
-   "company_domain": "",
+   "company_domain": "landeed.com",
    "company_url": "https://www.landeed.com/",
    "company_linkedin": "https://www.linkedin.com/company/landeed/",
    "company_note": "YC Summer 2022 · team of 35 · Landeed is India’s digital infrastructure for property intelligence,…",
@@ -36167,7 +36167,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad, TG, IN",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "landeed:60434",
    "source_url": "https://www.ycombinator.com/companies/landeed/jobs/Xt8mnKh-eir-entrepreneur-in-residence",
@@ -36198,8 +36198,8 @@
    },
    "score": {
     "rules": 58,
-    "research": null,
-    "total": 58,
+    "research": 67,
+    "total": 63,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -36208,15 +36208,47 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "EIR at YC-backed Landeed (Hyderabad), asks 3+ yrs; your direct CEO/COO work at Ola Electric maps well but pay is unknown.",
+    "fit_notes": "Posting asks for an Entrepreneur In Residence (3+ years minimum, stretch for Shlok's 1.3 years) to drive growth and operations at a 35-person YC-backed property AI startup. No MBA or consulting background is explicitly required. Shlok's experience working directly with Ola Electric's CEO/COO [ceo-coo], managing S&OP dispatches [sop], and leading large teams/initiatives [alcheringa] aligns directly with EIR responsibilities.",
+    "pay_notes": "No salary details provided in the job posting or verified company sources.",
+    "culture_notes": "YC Summer 2022 batch company, team of 35. No Glassdoor/AmbitionBox ratings found in web evidence.",
+    "hook": "Landeed was featured by the BBC for using AI to digitize India's fragmented land records and property rails.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wcmhtd0dCNTkwTDV3azFjaDlBV0g5LTh1ME5QR3B5Q1B5alFYelpMOVVyc1VpcnVaUkRJbHlwd2dBb0RySm1DY1loenduZ1VCY21oTkxGRDRRaENCdnc?oc=5",
+    "researched_at": "2026-11-22T22:21:46+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Landeed website",
+      "url": "https://www.landeed.com/"
+     },
+     {
+      "id": "S2",
+      "title": "Landeed launches property intelligence platform Terra - Construction Week India",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON29wNDJpd1N6R1BXUXdBM0VHQXFSdlYyOF9mQjJLaDBfeFhGVlJiRFJkUkwzaUN4VGlGWV94NVBLLUxuVThEckEyLWlCdklHTVl6VFlCLS1sMkIyczc1XzJKRm1SWmIzdnJCTUxFNXNXSThkc2p3T1RQVmtlb3ZyWTBydEdtYV9kTG1VVFZQRWw0S3lla2VoeFMzcFQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "How Landeed's Rs 30 Crore Investment Will Transform Property Due Diligence - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRm11ZkF5NzYzZWRHRDNUdGVESTJ1Sm0xV3l0dWdNNTNKbVZtVmk1WFNqTjZCaXpiSjZDZ1V6Zi1fMEdOLU9FR0hpTU9BaUZPWEdHVy0zNlptTU5XOUJ5MzZPYTJLc0ZxSUVUS1FaZ2JLdHVKLUNTb3M4V2gxd2t1cVF2d0RzUnB2YlpuaUhTN2J4OWN2Rmp4LVh0ci12dGEteTY5eVpaOTJWZXJQTlhFSGZ30gG0AUFVX3lxTE1fQlZHSlJIemZTRDhsdDhUS0FabE1BWjZGZGZlUEJUclVaVlBpNF9jaGhYMzgwcHd0V1BKR3VLRzBpZGpVbFNsMlBSTElEcFZqUG1xRXBadzFIQ3Z1MllXWHRxenY3TFBna3l2YVJYT1dBdXVtQXZNUTdrQzZwZkVWd0NpV1UycERrWGhwQjFtLTQtUU9VdEROZE1EcE5wN1ZFYklBSWxqM192cGt5WGx2VzhhVg?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Landeed, Fractal Analytics: The AI start-ups fixing India's broken roads and messy land records - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wcmhtd0dCNTkwTDV3azFjaDlBV0g5LTh1ME5QR3B5Q1B5alFYelpMOVVyc1VpcnVaUkRJbHlwd2dBb0RySm1DY1loenduZ1VCY21oTkxGRDRRaENCdnc?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop",
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -36280,14 +36312,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 58"
+    },
+    {
+     "at": "2026-11-22T22:21:46+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 63: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T22:21:46+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0279",

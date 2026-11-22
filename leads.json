@@ -201564,7 +201564,7 @@
    "key": "tenarai|business analyst|bengaluru",
    "type": "job",
    "company": "Tenarai",
-   "company_domain": "",
+   "company_domain": "tenarai.com",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/tenaraiglobal",
    "company_note": "",
@@ -201572,7 +201572,7 @@
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490990973",
    "source_url": "https://in.linkedin.com/jobs/view/business-analyst-at-tenarai-4490990973",
@@ -201588,7 +201588,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-22",
    "open": true,
-   "jd": "",
+   "jd": "Business analyst :\n Elucidating Functional Specifications: Elicit, Analyze, and document complex business requirements from customers.\n Process Mapping: Map As-Is and To-Be workflows for reservation, ticketing, and departure control systems.\n Stakeholder & Partner Management: Collaborate with internal stakeholders including marketing, operations, customer support, and engineering.\n Work with external partners such as airlines, GDS providers (e.g., Amadeus, Sabre, TravelPort..),OTA and payment gateways.\n Ensure alignment between business objectives and technical execution.\n Backlog Ownership: Own, groom, and prioritize the product backlog with clear user stories and acceptance criteria.\n Translate complex travel business requirements into actionable development tasks.\n Balance technical debt, regulatory requirements (e.g., travel policies, compliance), and new features\n System Integration: Oversee integrations with Global Distribution Systems (GDS), New Distribution Capability (NDC) APIs, and third-party travel tech providers, LCC/Traditional and Hybrid Carriers.”\n We are looking for a highly experienced Senior Business Analyst with strong expertise in the Travel and Airline domain. Expertise in bridging the gap between business needs and technical solutions. And leverage deep domain expertise in travel and airline reservations, Call Centre operations, Ticketing and GDS and Type A communications. You will optimize core airline systems, passenger service platforms, digital booking experiences and Loyalty Management and Revenue Optimization.\nSeniority level Mid-Senior level | Employment type Full-time | Industries IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -201603,8 +201603,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 30,
+    "total": 40,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -201614,15 +201614,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Analyst at Tenarai, asks Senior level travel/airline domain expertise; your S&OP background does not match.",
+    "fit_notes": "The posting asks for a 'Senior Business Analyst with strong expertise in the Travel and Airline domain', 'GDS providers (e.g., Amadeus, Sabre, TravelPort..)', and 'airline reservations, Call Centre operations, Ticketing and GDS'. Shlok's facts (e.g., [sop], [mrp], [ceo-coo]) demonstrate supply chain, inventory, and operations experience at Ola Electric, but none map to travel domain or airline ticketing systems. No MBA or consulting is explicitly demanded, but the specific domain gap makes it a poor fit.",
+    "pay_notes": "Pay is not stated in the posting, and no compensation figures were found in the evidence.",
+    "culture_notes": "Headcount, ratings, and culture reviews were not found in the search evidence. Recent news indicates leadership changes, such as elevating Mohit Bhat to President, Chief Engineering and AI Officer [S4] and appointing Gaurav Chadha as Chief Business Officer [S1].",
+    "hook": "Tenarai recently elevated Mohit Bhat to President, Chief Engineering and AI Officer to shift from AI platforms to business outcomes.",
+    "hook_source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0d0TnFIVERBSjExWlhTQjlYcXZsQ0x3bEx4V1Vacnc1T1Jwa1pmYkhjRDVkcVpOTkEyeXRtaWw5OVkza0RiTlVRZ3V4YkZoNlVOaktTUFc3dE5OLUdVZHpVbkFfY2laNENVdmpRa3h2OWxXVXlKLXpYLTdHQ2hpdnhIYjBIeGFyeVQ1MVZkb1U2R0R2d0Z0dHVfNDJkNFVXLVJRcmNsd2Vod3dH?oc=5",
+    "researched_at": "2026-11-22T22:37:14+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Tenarai names Gaurav Chadha as Chief Business Officer to lead global go-to-market Strategy - MediaNews4U",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0xRcEtRRWlXR0FDR3NzSmQ5Qzc2QlNvQ0ZsOExwTFg4NkhvM1owUDlCVUYtUk40NG1kYWhUQjlCMFl6dUJYcXlpWjJqRHhSWjZLUlZQLUVpYVdPQ3VyOHpLSDBjRVUxQm5oX2MtNmZ6OTRmRGh0NERVb1pYSUIzVjl6MjB5eW5TUkNhZVR0Q1RsaUZubzg4dlptVWwwX1pvSWpqa1VHbjh0azZKMk9lWjYyVG1WXzNiS284?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Tenarai shifts from AI platforms to business outcomes as model advantage shrinks: CEO - Techcircle",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGVidlVTT0ZQLV9hbGpucVp4VV93b2FBQnowWWI0Vm9oeGQ1S1N0MGJEdEJxdkxXcGxRemVuR3pXb2VLVmM4VC1RUzhLX0Q2YVFoLVZOcEF1MWpta3E2YjBQcHBrdWxOc29sVWowc3FyQ2VvSHRxZXNjbU81bnpVdXc0UHprUi1DWmNfMEVweVZCTkhvQml3VHVDUVlzZGNHc2NUY09IQ0lqVTZOMUY5VHBXMHM5V2dfOEdMdnJ1cw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Tenarai appoints Gaurav Chadha as Chief Business Officer - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHhnRkJRNkFXRUJxcFZUYThCVVRUbWhtT3p3ZkstdjJpVVd1Ykc0Z252VXlZWTV4bGptQnpmbGE2ZkxLX0d6UE9jd1VMaGFGZTZtQWNGQVVSTjVCbHpkVno1V05aa3RxTVRMeXlfOWd3V25TQXlYVU5EQkN6LVVXSXNTVzhsRlFoWjhOSU1jLVFveWJISGhXSjV3V2tKZHRIemNLREdiU1p1WDM2RWc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Tenarai elevates Mohit Bhat to President, Chief Engineering and AI Officer - Adgully",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0d0TnFIVERBSjExWlhTQjlYcXZsQ0x3bEx4V1Vacnc1T1Jwa1pmYkhjRDVkcVpOTkEyeXRtaWw5OVkza0RiTlVRZ3V4YkZoNlVOaktTUFc3dE5OLUdVZHpVbkFfY2laNENVdmpRa3h2OWxXVXlKLXpYLTdHQ2hpdnhIYjBIeGFyeVQ1MVZkb1U2R0R2d0Z0dHVfNDJkNFVXLVJRcmNsd2Vod3dH?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Tenarai Appoints Gaurav Chadha as Chief Business Officer - TechGig",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGF1RU1lVDJBWHp4bVYxNlY0QUt2d2c2WHFwNU03TEtlVklodW5KdG4wNWpfdlB0WlpxcTBRZnRSeXI3RGlFVnZhVmRDTTE2aDFWaV96RXNGSmNrRU5UbkhERDhueVVhUy1ZdS1NMF9jSVJicndtZlN6cUxSWVdEWXdCOWJjbjZ2TnNKWVJmakpmVnNPWHgxY3lPRUctY21ENFV1MTljTmw4TlpoZTdKeg?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Tenarai appoints Hemant Kumar Ravi as VP-HR - HR Katha",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjVQcVI5UkVMUExOdGhxcFZPWTloV2E1ZktPMUR1dGRuWFliaGJBVFhJbGJwSy1UbGdPMmpnM2xoVGJhN1lvb1lyQ241SWRtTlFUcUxwS0dnNEFOb2xyRzVjcXVjY3IycWFIZ0xQUnlHeFB5dXBieVRxZTR4bVVtWFdfbkRkX0xOaGtNSA?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -201646,14 +201684,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 56"
+    },
+    {
+     "at": "2026-11-22T22:37:14+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 40: rejected (The role requires deep expertise in travel and airline domains, reservations, GDS, and ticketing, which do not match Shlok's supply chain and S&OP background. Furthermore, pay and experience requirements are not stated, and it is an IT services/consulting firm rather than a product or strategy role he targets.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30",
+   "updated_at": "2026-11-22T22:37:14+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires deep expertise in travel and airline domains, reservations, GDS, and ticketing, which do not match Shlok's supply chain and S&OP background. Furthermore, pay and experience requirements are not stated, and it is an IT services/consulting firm rather than a product or strategy role he targets."
   },
   {
    "id": "L1624",

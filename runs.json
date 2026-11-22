@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-19T23:35:23+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-19T23:35:37+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3497,6 +3484,19 @@
       "gemini-3.5-flash-lite"
      ]
     }
+   }
+  },
+  {
+   "at": "2026-11-22T23:05:32+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
    }
   }
  ]

@@ -11076,15 +11076,15 @@
    "key": "sarvam|marketing operations manager|bengaluru",
    "type": "job",
    "company": "Sarvam",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "sarvam.ai",
+   "company_url": "https://sarvam.ai",
    "company_linkedin": "",
    "company_note": "",
    "title": "Marketing Operations Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "ashby",
    "source_id": "sarvam:12d53c76-3b0a-4ced-8320-aa746e962648",
    "source_url": "https://jobs.ashbyhq.com/sarvam/12d53c76-3b0a-4ced-8320-aa746e962648",
@@ -11115,8 +11115,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 30,
+    "total": 42,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -11127,15 +11127,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Marketing Operations Manager at Sarvam (Bengaluru), asks 4-6 yrs in marketing ops; exceeds your 1.3 yrs experience and requires martech domain depth you lack.",
+    "fit_notes": "The role asks for '4-6 years in marketing operations' owning martech stacks, lead scoring, CRM integration, and funnel attribution. Shlok has ~1.3 years of experience focused on supply chain and manufacturing operations [sop, mrp, ceo-coo] and lacks marketing operations background.",
+    "pay_notes": "Pay is not stated in the job posting and no compensation benchmark data for Sarvam was found in evidence.",
+    "culture_notes": "Well-funded sovereign AI startup backed by Lightspeed, Peak XV, and Khosla Ventures, valued at $1.5B [S4]. No Glassdoor or AmbitionBox ratings found.",
+    "hook": "Sarvam recently launched Sarvam Prism, a decision model built on Sarvam 105B for enterprise decisioning.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wYThKSG1YMTh1Q3JsbVdfWExXS3ZwMTQxdUk1V3RWRld3dk9qU3liNFp6RXNxUjluYm1YZm9BZEllTkJyOXZ3SGlOLV9xMWlZWmc?oc=5",
+    "researched_at": "2026-11-22T22:20:48+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Sarvam Prism: a decision model built on Sarvam 105B - Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wYThKSG1YMTh1Q3JsbVdfWExXS3ZwMTQxdUk1V3RWRld3dk9qU3liNFp6RXNxUjluYm1YZm9BZEllTkJyOXZ3SGlOLV9xMWlZWmc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Sarvam Bets On A Google And Microsoft Veteran To Sell Sovereign AI - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWnBuWWVOa1Jacm5aenFzRGQ4cVV2Q0pEbV9CZnBMWFZsLUMxU0p4QVB2bkxSQjhXZ0JwaXo1anZsc3R4TmkyVk82SEN3ZzlpekNYdHpmZDdMajRTTTU3VUI3b3kydU9XRzlWLWh6czFGT3diTnFPTUZQYjlwT3dPQUxUNWlTclpib2d0NkhNUTh1T1EtM08wMnpDSER6NnkwcDdoQ0dham5COE5BdjhXRm5UUmczRnpENDhmSg?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Sarvam AI, ICAI partner to build CA-focused language model - International Accounting Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVlF2VlJqc0lFTmpnUlp6YnF5aG8wOGMtVGcxQXFVdXoxTnFnUEFsandwMGZkYUlkRGowd1JRRXdteFBqbVpjZ0VYclBEVG5aQ3Zhdmd4OUc1ZmNkcGpYa2NkMGpNcUU0emxydTdqR19VcmE0Nmc0NGVtMGRsUDNBZ3NUbTNac0QyVFdkbjAwQThTbzhYdFRMVlVTWE05T2lVT3Q0NWxNZXh2a19OMmhaVg?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "India's HCLTech to buy 10.5% stake in Sarvam AI, valuing startup at $1.5 billion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUENNeG84YWhieUNIczBFTjFDd25od2lqcUw3MzZUUkNaM3dSMUx0cmt2d1F6VlNESzFYVGlHVkh0R1FnQTRqR1hZSkhYQjZDcDlwWG9hc0NoTlpGWUR5Z3hrakZpdTVvOUxwQUdYMEotNUNiS0JLbG93TUlxTkFnSTlpN1VVdXY1YTl1M2ZhVVB1RW1jc1RZaExpN1FFUWhUSmotQTJHTjFDbmlsejlrYjZjOA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Introducing Saaras V4 speech recognition - Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EQzN1aVViZ2VFY0F2ZjBMa1lLUGNLUjBFYmM3dGdKeXpKa05uWktxYW13RldSNUhkV1ZOaVVSTmZKdVoxZjU0bWZ5SU0tUDNQODE2Mm9LX1BHVEdTVkE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Sarvam Vision 2.1: Pushing the Pareto frontier of document intelligence - Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NM0M0Z2dOUEN6azVNU2JnZUFLZjFWVGdwVF9DeUx4UVlXNXBlRnNneC1FR3NKcmxuYXFfaTNTOG9QN3FKS2VTNnc3eXB6RGctVnR3U2JHeW8?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -11159,14 +11197,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "ashby: rule score 59"
+    },
+    {
+     "at": "2026-11-22T22:20:48+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 42: rejected (Asks for 4-6 years of specialized experience in marketing operations and martech, exceeding Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T22:20:48+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Asks for 4-6 years of specialized experience in marketing operations and martech, exceeding Shlok's 1.3 years of experience."
   },
   {
    "id": "L0083",

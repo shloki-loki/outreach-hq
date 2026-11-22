@@ -28529,15 +28529,15 @@
    "key": "pinkvilla|senior executive assistant chief of staff|india",
    "type": "job",
    "company": "Pinkvilla",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "pinkvilla.com",
+   "company_url": "https://www.pinkvilla.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Senior Executive Assistant/Chief of Staff",
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "455068",
    "source_url": "https://www.instahyre.com/job-455068-senior-executive-assistantchief-of-staff-at-pinkvilla-mumbai/",
@@ -28568,8 +28568,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 35,
+    "total": 43,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -28579,15 +28579,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Chief of Staff at Pinkvilla (Mumbai), asks 7-10 yrs and an EA background; you have 1.3 yrs in S&OP at Ola.",
+    "fit_notes": "The posting asks for \"7-10 years of experience as a Senior Executive Assistant, Executive Assistant to CEO/CXO, Chief of Staff support, or in business operations\" and proficiency in Microsoft PowerPoint, Excel, and business reporting. While Shlok has strong presentation and operational background from Ola Electric (e.g., [ceo-coo], [sop]), he has only 1.3 years of experience against the 7-10 years demanded, making this a severe seniority mismatch. Furthermore, the role is based in Mumbai.",
+    "pay_notes": "Pay not stated in the posting; no evidence found in sources.",
+    "culture_notes": "No ratings, employee reviews, or culture flags found in the provided sources.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T22:39:35+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer nears USD 50M overseas with outstanding 2nd weekend - Pinkvilla",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUkR0ZGl2ZkdvOUlMaVlnYUtyR1ZEWTBKS2V3UWtmTE81SmRoV3RXUzIzaWZVdjhRTFRFY0ZPb3o5WUhPN2tjaGJJWFZPWnVBWGw5WkxySHZRa1FsZ25iOTZZeGkxTFM2TnJoSWlEZjJHNWt6d2p4OUJPdTRYMjZGanh6cW5pcFdrbk5WN3BUQUVmSUcxaTdfMk5zWWkydUxnTkhjbjJBT2dmdUxvOGtWYmYySFk5TmJPMmljNDJLTVV1NUdXOHBQRlBvVWg1c081TkxGOEs2MUI2NTNwOU5nMGFkc28zTXlaQ001MjBhOVB3Q2hlU3B0ajFaMVE4d2xBUU9xWFdfZDlkcGxhTXhr0gGUAkFVX3lxTFBGRzcxUU5uVzlxZkx0VG5jallmNDlsOUxSV1VlTWk5aE9nVGZnbTVqWXo2clg3VmZLaXI4VGtReDRnczBMLURaSHBZRmRZZzNGUkIta0RVN1pEZDM0WTZpaWozR2Utck05Q3Fva040ak00NFVVU3dkVnlMUHFUQjZTLUx2NUt6VE5xSkwxSUNlRXZtWWZ0U1o2Y0lvZ3IzWGJGbEVXMXVsTE4zb2RVSVhGVS1PTlJNWUJJSUpfLWo4ODkzUkxtdTF3dVcxYzlIajQ3ODlteTk1T2g5LWZCbWxLbHY3aEtfTFJjYzNWV3NXY0RpQkxYVF94WmFINjNULWpqRmpOT0pUQkJ2Z0NlSEVURThsMA?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor, Yash film has a superb 2nd Monday, Exceptional run continues in Kerala - Pinkvilla",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZ3ZTOGdSeURQOXRKY0F6M19iaG9ucjhMRTU4ZEROcktrMXdtMUFfVzNqbVh0SXRhTnM4VS1ka0FDZVBvY01fSTd4c3h3THBJNGtiS3RFMTM3NEJ4UzFNSXlzTFFsdXJSZ053V2Y2NnJTMU1NaGNCOWIzYy1BN2ZkOEhwbkZOdHpkNU9kMndaQWhEblBwSkpUWjJjYnl2RlFPbzlUZGNUa09qWXNhNXl2YS16dFBpTFlQT1NaOWVzNHg0aENKTXhiSlUtOUpBdzlkM2V2V1FwSHVOTnJUUVBMeWZNeE15UjhxY0hydkFOTEdyUDJVYVVHV3gzQWVhaW9MV2QyNVM3Ny1pLXpiWGpXUdIBlgJBVV95cUxQY3E0VTYtbVZfT2NmZUlEeWk0MDhGbGJJdW9VaWtYTlh3em50ekRMU0gyaFlrVzNDSkdMZnJWRE50bzkzbmVIWkxCWkJZWTFaeWFtTmo3aEtxQWYzdDk4RkFmN29KaWhlNHRyUVpZZzZjcnlwbVNQTXczY0JoR2Jra0czZm5aMkZhRTdVbUJObmp0eXFURmMyNDMtT2g4WC1BNkt6aGVsbzd5OFcyNVE2Tzlna19NY2Q4ZUZ0NGJETWVWQzZuTGRLUFRHRzJsNEtoX21nTHVKZDNtWXFKT2d5b1pRZzZoaUdiNWJIcFpWRUQtanFOM2JjaTU5SXlxaTB0VDZnVFFVSWxpaGg0bEdRSE1MbWI2Zw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer scores biggest 2nd weekend ever in India - Pinkvilla",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaER0RHd5WFJQMVMzRUQzTWMxeGRlSFg0cFJWamdubG1tdmJZVHYtRERhUkJac0FIWjNVNF9lMTJ5NS1FekJsWGJLTUUzbjQzUWtMbXB0X29wZ0FMaFFUcjlkeFZDT1ltbHVVbFRNYlZCdXFqVWpNcnp6bXFPQUlYdEhiM0Q1UjV3cFpYa1NTQ3MyNXdrYW15QjY5R2J4LXZ0Z1YyUXp3VXctYUx1blk0UVdROTlxUE1DYTVJc050LUVWeThacjFaeHk3RVRUSDRHcHI5VEU3SHBjMU5ZaFhBdFJhUzVZbjV5dzBMTDh3Yml4dDJIaHBYb0wzbks0RDh30gGGAkFVX3lxTFB2UnBpZ1ppZll5MmwwZWlOMGJ4YlZkRnBKbEFIT21LNnMzQ2IyZXVUSkkwcWxSVC1uWGdiZC1rMUl5WlJqM0dVMXhZLUNvdHhWX0ZuZEdnM3dITjdFTk85OUlFb2pkV3UtU0dzRFk0dWU0bFRBLU1qT2tBcUVaZmpMajJrVVZiMkI5VmZQaHFvTTFrZ1hod3IxdUpwaW1zV3RUUWwwRlVOMkJFOE1CY2tWSmRMMXVjX2VkS2JPN29sTGkzTVppTWo4ZTkzWXhtb0JlZXpBNjBTdW03dWs3amNjaHlEeTV1OVhKcXVkNXgzekh6XzVMdXhLeFpjc3dxTmVjcUpmMkE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Pinkvilla Predicts: First day box office forecast for Salman Khan's Maatrubhumi, Eetha and Gunmaaster G9 - Pinkvilla",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTkotWGhvNVJCOUJGdG53LTBOQkVIUjcwMzdqYWZwYXBiZF90ZDlhaGNnWTVzZFBRb2NYVVJBNHFhWjBHbzFKSnZyc09uTkhuTVVEQi0zWG9KRFhQNmh2THdqVEFKQ0VmQUpCZV9ibk1RRVh4N2dSSGVtMnZHRVhtMFZRQkFpWFNub0pOSDZUT0ZoWHZIY3YwTDZ3RGFDYWt0ZjdxQWRRV1Q3d2x6aVNTd2NlX2VOVlVqYS1CY2lDeldqWXhuOHlDTHExdmtUem54YlNORHlyQnE1NTBpY0c3WnhLMVM4OFA4RUIxazh0V3FId9IB9wFBVV95cUxPdkFSM1hTdDVFMkpja0RQSjZ2eHNpbmxNRm9zZ3NfNHFtN1RJYnIyZXUxdzhOOUZ0SUI2NWRRdGM2QnU2VktJc3B5WEtxTng1M2VZZjdvODFlQTRHTFV4d01sdmdpdXF4U0I1VGhrNDgwbVVEVXAta2RfeTBTb2NCQTEtRExzYVNJMG5LNTBLOHoyQUgtempGWEh3Tm1ldllNdGpRT2pzQjBGOG1rcTh0OFhtNWRsbWVzZmd5ODRIaFhlYklOTmNILXJiQlUyYnZmWTV4NzZxWGxJbWhuU1hzMmtzWTNSU3ZuTFBzbm5EUjR1a2lMQ0JN?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 15 Cr on 3rd Friday for Rs. 850 Cr cume - Pinkvilla",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQUFCYzA2NXk0ZkZiZDNpS0NtWFE5VFVmcHFtTzJsV3d2VEpCb3Q2c0d4UXB6NEZuN2poS0tISE5LcjBfVTlEMVZOcWdiZWNJc3FZbEEzcmRVZ2RxdFg1VjBnZmJhX0F0NVBPYWQ5UnpRczdxaUh3WVhCdTZjRDJtdEVOclRiVWJ3TVJIb0FwNmV2NEFRVHpHNjBMVWo5Nnpsa1RqUGM2cE5BdjdjZU5EZUxXY0FCd2tVWlY1MnJsalZ0LVhGOEQtUFlIeVdfcWF2eDZEOXNscVpFM0h1TmEwY1VJLTF1cGlJUlZIeFN0X1Rvb1BwdmVJR3BKbE5JNEdpZmowQVd5WWU?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Pinkvilla Predicts: Ajay Devgn's Drishyam 3 eyes a BIG Rs. 50 Cr opening day, Update for Jailer 2 - Pinkvilla",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX2M2dlNOWnBFRlVIZWw3MmFxbUp5VW9SeXh6cDVRWG5LVFNkRnRCalpCQ2UwZzNUS2M4Nktsb01WbUR5bFpjYmdKcU1Wd3dEd3dieTloNDNTWXp6VUNoaEkyQl94Nm41TFdzZXhpRVRsTElaZXo1WHdKZDFFNnBjR1pJUmtqZlhnQmtQZUFYRGx3WkFUdkt4OVgySlZkUHNCS0FCTE5IZFpwZmRXMVl3LW1oaDhIUWV2YzlDdFFZMXB0bWtmNXhQTDFta2RKRy1NY0ZnR2VtVTFUcmx2TGN0a2g2R2pmYkHSAewBQVVfeXFMTXBKT0RDcGxjd3hFMjUwem1fWjdWc0tiRWJpWEEyVEdkSzBDcFhWbzB1RFY1WEh0MlhVUmlTNEk5SDBPR2lGY1VpV3NlQjFYUFkyX0I0ZFBKVnFEWTdoWWZOZldZYWJOdzRMN3BUZkdhRjl4VEVBQnBmRGdKcVF2akhzZ282SGFKaG5Xa3dKQ1hla3pqTUx3RXZpdmVveTI5OU1GelF2YXlmZkdTcmhVWWFRRU9DSGozMkxtek0wSmJ4SFR2R3JBd3I3QkVWQURJUUdvS1BIWmhna05NMVpPOEJVWUR0NVoxZ1BEd3I?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -28611,14 +28652,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 55"
+    },
+    {
+     "at": "2026-11-22T22:39:35+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 43: rejected (The role requires 7-10 years of experience as an Executive Assistant or Chief of Staff support, far exceeding Shlok's 1.3 years, and is based in Mumbai rather than Bengaluru or remote.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T22:39:35+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 7-10 years of experience as an Executive Assistant or Chief of Staff support, far exceeding Shlok's 1.3 years, and is based in Mumbai rather than Bengaluru or remote."
   },
   {
    "id": "L0218",

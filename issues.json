@@ -615,6 +615,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0045",
+   "key": "supervisor:Founder emails went to never-sent people before the reorder was live",
+   "agent": "supervisor",
+   "severity": "warn",
+   "title": "Founder emails went to never-sent people before the reorder was live",
+   "detail": "Shlok asked on 21 Nov that never-sent people go to the back. PR #14 was not merged, so all 21 founder-v2 emails sent on 22 Nov went to those people, and 29 of the 60 queued are also in that group.",
+   "status": "open",
+   "opened_at": "2026-11-22T18:51:40+05:30",
+   "last_seen": "2026-11-22T18:51:40+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

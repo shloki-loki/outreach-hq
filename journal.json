@@ -6371,6 +6371,15 @@
    "title": "Data-branch commits create blocked Vercel deployments",
    "detail": "web/vercel.json disables deploys for the data branch, but that branch has no such file and its commits (482 on 21 Nov) still get Vercel deployment attempts. Hobby allows 100 a day; main 8ee05cc failed on 21 Nov with 'Deployment rate limited'. The link between the two is likely, not proven.",
    "ref": "I0044"
+  },
+  {
+   "id": "J0709",
+   "at": "2026-11-22T18:51:40+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "Founder emails went to never-sent people before the reorder was live",
+   "detail": "Shlok asked on 21 Nov that never-sent people go to the back. PR #14 was not merged, so all 21 founder-v2 emails sent on 22 Nov went to those people, and 29 of the 60 queued are also in that group.",
+   "ref": "I0045"
   }
  ]
 }

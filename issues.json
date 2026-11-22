@@ -629,6 +629,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0046",
+   "key": "inbox-scan-failed",
+   "agent": "follow-up",
+   "severity": "error",
+   "title": "Inbox scan failed",
+   "detail": "abort: socket error: [SYS] unknown error (_ssl.c:2406)",
+   "status": "open",
+   "opened_at": "2026-11-22T19:00:37+05:30",
+   "last_seen": "2026-11-22T19:00:37+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

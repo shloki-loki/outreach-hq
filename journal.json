@@ -6389,6 +6389,15 @@
    "title": "Run failed",
    "detail": "inbox scan failed: abort: socket error: [SYS] unknown error (_ssl.c:2406)",
    "ref": ""
+  },
+  {
+   "id": "J0711",
+   "at": "2026-11-22T19:00:37+05:30",
+   "by": "follow-up",
+   "kind": "issue",
+   "title": "Inbox scan failed",
+   "detail": "abort: socket error: [SYS] unknown error (_ssl.c:2406)",
+   "ref": "I0046"
   }
  ]
 }

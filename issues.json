@@ -207,7 +207,7 @@
    "opened_at": "2026-11-16T10:01:16+05:30",
    "last_seen": "2026-11-16T10:01:16+05:30",
    "count": 1,
-   "remedy": "Cause: the Mac's HTTPS fetch of the data branch from GitHub sometimes stalls; store._git sets http.lowSpeedTime=30, so a stall becomes exit 128 and store.sync() raises with no retry. On 16 Nov every Mac agent and the supervisor hit it (status 20:10 IST, metrics ~20:22 after a 120 s hang); a retry seconds later always worked, and no write was lost (data log shows no gaps). Remedy for Shlok/next coding session: in store.sync() retry the fetch 3 times with 5/15/30 s backoff before raising, and add a test; optionally fall back to working on the local copy and push later. Not changed in this scheduled run.",
+   "remedy": "PR 17 tries a failed fetch 3 times and makes sync take the store lock. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
    "resolved_at": null
   },
   {

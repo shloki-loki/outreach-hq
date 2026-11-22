@@ -6920,6 +6920,15 @@
    "title": "Diagnosis: Inbox scan failed",
    "detail": "Same cause as I0043. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
    "ref": "I0046"
+  },
+  {
+   "id": "J0770",
+   "at": "2026-11-22T22:20:29+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: git fetch of data branch fails intermittently (exit 128)",
+   "detail": "PR 17 tries a failed fetch 3 times and makes sync take the store lock. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
+   "ref": "I0015"
   }
  ]
 }

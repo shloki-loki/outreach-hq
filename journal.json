@@ -6848,6 +6848,15 @@
    "title": "Work W0007: done",
    "detail": "Code shipped in PR 4, on main (people-run and note drafts). Closing the build item only; not re-run on 22 Nov.",
    "ref": "dd7409c"
+  },
+  {
+   "id": "J0762",
+   "at": "2026-11-22T22:20:00+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Work W0008: done",
+   "detail": "Shipped in PR 4 and PR 6, on main. The GitHub research worker runs daily, 30 researched on 22 Nov 13:06.",
+   "ref": "b4831bb"
   }
  ]
 }

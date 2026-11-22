@@ -190969,7 +190969,7 @@
    "posted_at": "2026-11-16",
    "first_seen": "2026-11-16",
    "last_seen": "2026-11-17",
-   "open": true,
+   "open": false,
    "jd": "Requirements: . Freshers are welcome\nKannada and English preferred\n experience in real estate sales is an added advantage\nGood communication and interpersonal skills\nWillingness to work from the office and travel for field visits",
    "exp_min": null,
    "exp_max": null,
@@ -190985,8 +190985,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -190996,15 +190996,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Sales-type BDM role at a small firm; no pay evidence and nothing in your background maps to it.",
+    "fit_notes": "Posting not opened first-hand; only aggregator/company profile pages seen.",
+    "pay_notes": "No evidence found.",
+    "culture_notes": "Not found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T12:27:43+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -191028,9 +191030,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 66"
+    },
+    {
+     "at": "2026-11-22T12:27:43+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 35: rejected (Liaksha Ventures BDM is loan-product/property sales per HireMee and MNC Jobs aggregator copies, which conflict; no pay evidence; sales role outside Shlok's targets.)"
     }
    ],
-   "updated_at": "2026-11-16T14:12:14+05:30",
+   "updated_at": "2026-11-22T12:27:43+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
@@ -191040,7 +191048,8 @@
     "at": "2026-11-22T03:22:17+05:30",
     "why": "the posting page has no readable description",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Liaksha Ventures BDM is loan-product/property sales per HireMee and MNC Jobs aggregator copies, which conflict; no pay evidence; sales role outside Shlok's targets."
   },
   {
    "id": "L1553",

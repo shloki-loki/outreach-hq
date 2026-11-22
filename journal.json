@@ -6353,6 +6353,15 @@
    "title": "Why a collaborator's changes do not reach the site",
    "detail": "GitHub write access works: srishti-murarka merged PR #15 on 22 Nov 03:52 IST. Vercel blocked production deploy 6ebdbb3: commit author has no contributing access, and Hobby does not support collaboration on private repos. Free path: collaborator opens a PR, Shlok merges with a merge commit. Otherwise Vercel Pro. No access settings changed.",
    "ref": "6ebdbb3"
+  },
+  {
+   "id": "J0707",
+   "at": "2026-11-22T18:51:34+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "Mac sender hung since 08:50 on 22 Nov: IMAP read has no timeout",
+   "detail": "PID 68095 (outreach cycle) is blocked in an SSL read on Gmail IMAP port 993 after the Mac slept. mailbox.py opens IMAP4_SSL without a timeout, and launchd will not start another run while this one lives, so the Mac sender is stopped. GitHub's cycle still sends now and then. Not restarted: awaiting Shlok.",
+   "ref": "I0043"
   }
  ]
 }

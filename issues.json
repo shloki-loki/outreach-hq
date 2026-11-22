@@ -587,6 +587,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0043",
+   "key": "supervisor:Mac sender hung since 08:50 on 22 Nov: IMAP read has no timeout",
+   "agent": "supervisor",
+   "severity": "error",
+   "title": "Mac sender hung since 08:50 on 22 Nov: IMAP read has no timeout",
+   "detail": "PID 68095 (outreach cycle) is blocked in an SSL read on Gmail IMAP port 993 after the Mac slept. mailbox.py opens IMAP4_SSL without a timeout, and launchd will not start another run while this one lives, so the Mac sender is stopped. GitHub's cycle still sends now and then. Not restarted: awaiting Shlok.",
+   "status": "open",
+   "opened_at": "2026-11-22T18:51:34+05:30",
+   "last_seen": "2026-11-22T18:51:34+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

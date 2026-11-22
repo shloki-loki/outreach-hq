@@ -43928,15 +43928,15 @@
    "key": "amazon|business analyst rbs emerging stores retail business services rbs flex org variable|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.com",
+   "company_url": "https://amazon.com",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Business Analyst, RBS Emerging Stores, Retail Business Services, RBS Flex Org Variable",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4482472579",
    "source_url": "https://in.linkedin.com/jobs/view/business-analyst-rbs-emerging-stores-retail-business-services-rbs-flex-org-variable-at-amazon-4482472579",
@@ -43952,7 +43952,7 @@
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Description\n Are you passionate about solving business challenges at a global scale? Amazon Retail Business Services is looking for an experienced Business Analyst to join our team and help unlock insights which take our business to the next level. The candidate will be excited about understanding and implementing new and repeatable processes to improve our employee global work authorization experiences. They will do this by partnering with key stakeholders to be curious and comfortable digging deep into the business challenges to understand and identify insights that will enable us to figure out standards to improve our ability to globally scale this program. They will be comfortable delivering/presenting these recommended solutions by retrieving and integrating artifacts in a format that is immediately useful to improve the business decision-making process. This role requires an individual with excellent analytical abilities as well as business acumen. The candidate knows and values our customers (internal and external) and will work back from the customer to create structured processes for global expansions of work authorization, and help integrate new countries/new acquisitions into the existing program. They are experts in partnering and earning trust with operations/business leaders to drive these key business decisions.\nKey job responsibilities\n Design, develop, and maintain scalable dashboards, reporting systems, and automated data pipelines that support business reviews (WBR/MBR/QBR), pilot launches, and ongoing program governance.\n Own data infrastructure end-to-end—partner with tech, analytics, and operations teams to establish and maintain required tables, data lakes, and data structures that enable accurate and timely insights for APIE and related stakeholders.\n Retrieve, aggregate, and analyze data from multiple sources to produce actionable insights, KPI frameworks, and escalation deep dives that inform feature expansion, defect identification, and strategic decision-making.\n Develop and maintain SQL queries and analytical models to support APIE feature performance, ad-hoc requests, and dive-deep investigations for operational or customer/vendor escalations.\n Enable data-driven decision making by converting large datasets into digestible narratives, financial/CX estimates, and recommendations for pilots, experiments, and global expansions.\n Partner with cross-functional teams to understand requirements, build KPIs, automate processes, and drive data-aligned solutions that meet evolving business needs.\n Prepare and deliver business reviews and written narratives for senior leadership, highlighting progress, insights, risks, and decision points.\n Participate in strategic and tactical planning discussions, providing analytical input that shapes long-term product and operations strategy across global regions.\n About The Team\n About Amazon\nAmazon strives to be Earth’s most customer-centric company, where customers can find and discover ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -43967,8 +43967,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 38,
+    "total": 45,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -43978,15 +43978,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Analyst in RBS at Amazon, asks 3+ years experience; you have ~1.3 years.",
+    "fit_notes": "The posting asks for '3+ years of business analyst, data analyst or similar role experience', '3+ years of business or financial analysis experience', and 'Knowledge of writing and optimizing SQL queries' [posting]. Shlok has ~1.3 years of experience, which makes 3+ years a stretch/miss, and his core background is in Strategy & Operations (e.g., [sop], [ceo-coo]) rather than dedicated Business Analyst roles.",
+    "pay_notes": "Pay not stated in the posting; no reliable pay evidence found in sources.",
+    "culture_notes": "Amazon is a global e-commerce and technology leader; specific employee ratings and work culture indicators were not retrieved from the provided search evidence.",
+    "hook": "Amazon announced it will invest $48 billion in India by 2030, scaling its retail and operational footprint across the region.",
+    "hook_source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5",
+    "researched_at": "2026-11-22T22:33:56+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdFh3U0hRSG94d05zeVBjNS13dzNJbWZ1Mml3TTFnd1NfbHBmdWY1UjV3V3ZKbUhudzBKMmxXM0hmZ29qLTFNSmlORER4d2dKVW1HTGhXZXV5MWFfRjRiaGt3c3ZFOEJCbTh0UUhieWJ3MzZ2Z1HSAXtBVV95cUxNbWw4N1JvSTlyRnppc1JXQlRlbHdDS0xqLTcxZm9QdXlmYUNfNVE5UFp2eFk0VGI5WE5nSjl4eDJXN1Rna3BVdnJEQkJicWVJTEpEN3ltZG9RMTJ1QzZ3eURmMDVxNjR2RWxvY0J3MFVMbVR1SzJZMHR2ZG8?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Rare photos of uncontacted Amazon tribes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObU8tOUk2VEtzR2I1NWRKMUloSk41a3NmT0ZNald5Zm9uaUlPbUVvSmhXVHZqMzVTeHdoRnpMS2FMWTIyNmxVRjdWckxjZC1vVGlHSkZsQVQxSWhVbHdrMm51ZW1WLWppMFhIeHMtUTRoVXpkdmdfc3lEeU5MbkwwYXNCM3o1OVM2QVE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFvVDlwcmNmNEl1WGpwZ3A3TzF3ZkNLSDFrUHA3XzY3REJxa3Jyc3pjUnVLdXdydFp3eTBYR1E1elQzVllDV1JQVzJENFNhV3RjVWl1eFB3dWFZS1BQWlRpTC1WZWZ1OV9CZmdhQnNtdmUxb25DWS16SEVodXVlRnBFUFQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -44010,14 +44048,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 56"
+    },
+    {
+     "at": "2026-11-22T22:33:56+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The posting asks for '3+ years of business analyst, data analyst or similar role experience' and '3+ years of business or financial analysis experience', which exceeds Shlok's ~1.3 years of experience. Furthermore, it sits in a pure Data/Business Analyst tier rather than Shlok's priority Strategy & Operations or Product roles.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-22T22:33:56+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for '3+ years of business analyst, data analyst or similar role experience' and '3+ years of business or financial analysis experience', which exceeds Shlok's ~1.3 years of experience. Furthermore, it sits in a pure Data/Business Analyst tier rather than Shlok's priority Strategy & Operations or Product roles."
   },
   {
    "id": "L0337",

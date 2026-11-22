@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-18T21:15:34+05:30",
-   "agent": "supervisor",
-   "ok": true,
-   "summary": "12 open issues (1 new I0022), 0 fixed, reply rate 8.3%, bounce rate 0%",
-   "stats": {}
-  },
-  {
    "at": "2026-11-18T23:27:35+05:30",
    "agent": "research-worker",
    "ok": false,
@@ -3532,6 +3525,30 @@
       "gemini-3.5-flash",
       "gemini-3.5-flash-lite"
      ]
+    }
+   }
+  },
+  {
+   "at": "2026-11-22T14:29:42+05:30",
+   "agent": "lead-scout/scrape",
+   "ok": true,
+   "summary": "6925 jobs read, 426 passed rules, 16 new leads",
+   "stats": {
+    "fetched": 6925,
+    "passed_rules": 426,
+    "new": 16,
+    "updated": 387,
+    "closed": 0,
+    "by_source": {
+     "greenhouse": 3734,
+     "lever": 111,
+     "ashby": 2018,
+     "linkedin": 566,
+     "instahyre": 219,
+     "yc": 205,
+     "naukri": 72,
+     "wellfound": 0,
+     "hiringcafe": 0
     }
    }
   }

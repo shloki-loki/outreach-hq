@@ -6587,6 +6587,15 @@
    "title": "Ran",
    "detail": "24 open issues, 2 fixed, reply rate 1.5%, bounce rate 5.3%",
    "ref": ""
+  },
+  {
+   "id": "J0733",
+   "at": "2026-11-22T20:20:03+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

@@ -176565,15 +176565,15 @@
    "key": "riveron|senior associate revenue operations|bengaluru",
    "type": "job",
    "company": "Riveron India",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "riveron.com",
+   "company_url": "https://riveron.com",
    "company_linkedin": "https://in.linkedin.com/company/riveron-india",
    "company_note": "",
    "title": "Senior Associate - Revenue Operations",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489544974",
    "source_url": "https://in.linkedin.com/jobs/view/senior-associate-revenue-operations-at-riveron-india-4489544974",
@@ -176589,7 +176589,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Position Overview\n We are seeking a detail-oriented, fast-moving Salesforce Senior Associate to support the daily administration, configuration, and continuous improvement of our Salesforce environment. This is a hands-on role for someone who has solid working knowledge of Salesforce and can grow into a key partner on UAT, training, and major cross-functional projects.\nThe ideal candidate with 5 to 8 yrs of experience in Salesforce, who can partner closely with our Operations lead on high-impact initiatives while also owning the day-to-day associate-level work that keeps the org running smoothly. You move quickly and efficiently, communicate clearly with both technical and non-technical stakeholders, and bring exceptional attention to detail to everything you touch.\n Key Responsibilities\n Salesforce Administration & Support\n Support daily administration of the Salesforce org, including user setup and deactivation, profiles, roles, permission sets, and public groups.\n Monitor data quality — run duplicate reviews, data validation, and clean-up procedures, including mass data uploads and migrations.\n Provide responsive end-user support and troubleshoot ad hoc platform issues.\n Maintain clear, up-to-date documentation of processes, configurations, and administrative procedures.\n Quality Control (QC) & Opportunity Management\n Serve on the QC Approval Team: review and close out opportunities and verify accuracy in OpenAir.\n Assist with making any changes to closed-won opportunities, escalating to the manager with any concerns.\n Remind other approvers (Practice / Segment Leads) of outstanding requests when items are held up in the approval process.\n Pipeline Inbox Monitoring\n Monitor the Pipeline Inbox for incoming requests, ensuring items are getting tagged, and notify the manager of any concerns.\n Respond to questions on the status of project code and stage in Salesforce.\n Be timely with responses — check the inbox multiple times a day and always first thing in the morning.\n User Management & Provisioning\n Add new Salesforce users and deactivate departing users.\n Run any new-user requests before agreeing to set up access.\n Update the Riveron Account for employee departures.\n Troubleshooting SFDC Errors & Issues\n Collaborate effectively with team members to address user-related SFDC issues.\n Escalate issues promptly when identified.\n Training, Documentation & Enablement\n Assist with Salesforce training of new professionals identified for Salesforce access.\n Facilitate user training sessions and drive adoption of new features and best practices.\n Keep the RevOps Intranet (Omnia) site updated.\n Reporting\n Fulfil Salesforce reporting requests and build/maintain reports and dashboards to support business needs.\n Required Qualifications\n Working knowledge of Salesforce (SFDC) — comfortable navigating and, including reports/dashboards, user management, and standard configuration.\n Exceptional attention to detail and accuracy in data and documentation.\n Stron",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -176604,8 +176604,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -176616,15 +176616,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Salesforce Admin at Riveron India, asks 5-8 yrs and night shifts; your Ops experience does not fit.",
+    "fit_notes": "The posting asks for '5 to 8 yrs of experience in Salesforce' and a candidate 'to support the daily administration, configuration, and continuous improvement of our Salesforce environment'. It also requires working night shifts ('6PM IST to 3AM IST'). Shlok has ~1.3 years of experience and no Salesforce administration background. None of his core facts ([msl], [sop], etc.) answer the technical Salesforce admin requirements of this role.",
+    "pay_notes": "Pay not stated in posting.",
+    "culture_notes": "Riveron expanded its India GCC with a Bengaluru office in September 2026 [S2]. No employee ratings found.",
+    "hook": "Riveron expanded its India GCC with a new Bengaluru technology and finance hub in September 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHVvS0JmOFl6OUc1S21vZ3d4VUwtbGFSUGY3VkdwQkoxVFVjVzMxaWp0VFF5QzRjNXl4WTlYS2NuSlZ6cTNPMW9aMDI2WFBWU2p4dmgyQnR2Qm5Sa0lmWnZodWJWR005cmw5NWkydzVKb1dKSnJBRDd6RUVKRkREeXliakxDeENic0JmQTg5cDVzWkMwdHoycU94QkVuanhEZXRVeDNRZXJHc2hOVjNaaHZaaEl5U2s?oc=5",
+    "researched_at": "2026-11-22T12:54:48+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Riveron Expands India GCC Footprint With New Bengaluru Technology and Finance Hub - Konsulteer",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHVvS0JmOFl6OUc1S21vZ3d4VUwtbGFSUGY3VkdwQkoxVFVjVzMxaWp0VFF5QzRjNXl4WTlYS2NuSlZ6cTNPMW9aMDI2WFBWU2p4dmgyQnR2Qm5Sa0lmWnZodWJWR005cmw5NWkydzVKb1dKSnJBRDd6RUVKRkREeXliakxDeENic0JmQTg5cDVzWkMwdHoycU94QkVuanhEZXRVeDNRZXJHc2hOVjNaaHZaaEl5U2s?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Riveron Expands India GCC With Bengaluru Office - BW People",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdlRtS29ZSGYzNUZOM1NyQTlWbFFpMlU0RkRLV3ZFSFYzMlJMa3dQcHI3V2VHZ1lKa1NQRmJRcTVaSUR2UmNTLXhzYmU5UWp6S2trMjAyZVlSbzN3TnVGMklSTG1pdlpWME1sSlhOTWROU1FfZ1lwOXItbVpIZEFTR3FCZmdhLTN6OHY2TkNuTQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Riveron promotes David Nolletti to co-head of restructuring and turnaround - Consulting.us",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVnRoZW90bWZscnpoU3hsOVd4d3dIbG5NUXg3YTlXVG9tT1gzc1Q4dUFnb3p3Z3p3TlRkaHBVOENLQVlCU0RfanZiUGM0VG9EbTZVSmEyTFBLdERpV0U4aTlTUHBZT1NuMzJ5Z2hWQWE3a3pTbDhnbTRlZDhtTld4Z1N4bEphWkRiNmk0bllkWHRxNVFtSm9oSVVGdjlXdlVNTEt2d2o5aDhUUTFCbkl3b9IBtgFBVV95cUxOWGtDZEtmTVdpcVkwQy0xczBwZ19uSUx1SlBBLU9pcUpRc3hCNFRQRWpfUnZwVElTNE42LVRwenRmelpFd3hkY0tDeThZM3VfdTA3NHZKVkNpaEFtQkhwN3ZsdmFBUF9CY3dIaFRDV0cxSmIyVXBOVW9aQ1RvWllqMWhzb1VnMjdKV0tEWnFBMzNXNDdKRnEzTWZ1RVRCU0dQYkJmT1ZkSUdYX0hQaWMxVDhFWVZIQQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Riveron Recognized Among Top Manufacturing Due Diligence Consulting Firms for 2026 by DealRoom - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdXE2M3NjbzNRb2pIc3N2aWdGTGd4SkJROFlJdmo0b3RzbDBOUTVOcWpJcHdDU1Q3a0dLOU9iWHkxSlpZN1NjMFk2bGhZd3AxREktMFBJNlZSVWIwNkFZRkhDeUpXY0o3OVMxOUhiXy1zT0d4ejhHUGdZLWhvSm9sSEt5eUV2YVYzSF9fRTMwbUtyVDgwWWtiWVhRblhzX3pYOTA4VHkyVWFhdl9jUVB0cVg5cWh4dFdSVUdMYU9PcnppWmZhSkRWT1hqY2ZZXzNLbF81ZGkwWEExR21ndVBtQzR1WmhxZw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Al Riveron Steps Down as ACC Supervisor of Football Officials - Atlantic Coast Conference",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGtUTTdPcnNLNTdLcUxBVkREX1J6VDE3dF9CNmRWUnVKUXJ3a2tGYk9hb3ZtYUktVFFXLVpaRFhmZ2ZOWHFTb3ZkQ1NsODZRNzlQWWlJb2hHZ1J6T2dMbkFqZ3hKTWU4TV9hM2NyYUdYV3d5MlU5YndDTExEX0RPVm82bkd0QkdsYWRvUkJrRzl3bkRqZVlUd3JvQXJnVkRT?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Al Riveron steps down after four years as ACC supervisor of officials - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORlJDdU1DcGxpdTlva1paQWVpMmt5Z1plLVVQUGtpZ2lZMVZmN2JHNDVoQW1zV1Z1NlBrdV85QmhKS2tsbk5lQkhEQl9tc1BaVkREN1cwRlV2M0ZBbTVQMkx0YkU2SkJ2dS1tRld0Zk9faGhPajBRRXpkT0ZfMXI2enFqcnI0Mjc0VkRpRXZHVS1ZNmktd0VQeEd1ZTFfRllFMW9HZnJEMV9lUGo2NjV3?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -176648,14 +176686,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:54:48+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (Senior Salesforce admin role asking 5-8 years of experience, requiring night shifts, and completely misaligned with his Strategy & Operations or Product background.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-22T12:54:48+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Senior Salesforce admin role asking 5-8 years of experience, requiring night shifts, and completely misaligned with his Strategy & Operations or Product background."
   },
   {
    "id": "L1420",

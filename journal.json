@@ -7001,6 +7001,15 @@
    "title": "A concurrent sync can undo a send claim, so an email could go out twice",
    "detail": "Found and reproduced 22 Nov: store.sync resets without the store lock; send.claim returned True while the pushed status stayed approved. Audit of sent emails found no duplicate address and kind so far. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
    "ref": "I0047"
+  },
+  {
+   "id": "J0779",
+   "at": "2026-11-22T22:21:02+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Work W0194: release",
+   "detail": "PR 17 open and tested (102 tests). Remaining: Shlok's merge OK, pull main in the shared folder, then verify a send run and close the linked issues.",
+   "ref": "W0194"
   }
  ]
 }

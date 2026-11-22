@@ -37234,7 +37234,7 @@
    "key": "gosats|city lead dining partnerships|bengaluru",
    "type": "job",
    "company": "GoSats",
-   "company_domain": "",
+   "company_domain": "gosats.io",
    "company_url": "https://gosats.io",
    "company_linkedin": "https://www.linkedin.com/company/gosats",
    "company_note": "YC Winter 2022 · team of 8 · GoSats helps you earn free bitcoin when you shop in India.",
@@ -37242,7 +37242,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, KA, IN / Bengaluru, Karnataka, IN",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "gosats:121257",
    "source_url": "https://www.ycombinator.com/companies/gosats/jobs/vxkMrtZ-city-lead-dining-partnerships-bangalore",
@@ -37273,8 +37273,8 @@
    },
    "score": {
     "rules": 58,
-    "research": null,
-    "total": 58,
+    "research": 25,
+    "total": 38,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -37283,15 +37283,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "City Lead at GoSats asks 4-7 yrs in restaurant merchant acquisition; exceeds Shlok's 1.3 yrs in S&OP.",
+    "fit_notes": "The posting requires 4–7 years of restaurant supply, merchant acquisition, or city operations (e.g. at Dineout, Magicpin) and existing relationships with Bangalore restaurant owners. Shlok has 1.3 years of experience in manufacturing S&OP and operations [sop, ceo-coo].",
+    "pay_notes": "No verified fixed pay benchmark available in lead metadata or evidence.",
+    "culture_notes": "YC W22 startup with ~26 team members. No employee review ratings or culture flags found in evidence.",
+    "hook": "GoSats processes about $6M a month in payments for tens of thousands of active users, with Bangalore as its largest city.",
+    "hook_source": "https://www.ycombinator.com/companies/gosats/jobs/vxkMrtZ-city-lead-dining-partnerships-bangalore",
+    "researched_at": "2026-11-22T22:25:32+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -37342,14 +37349,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 58"
+    },
+    {
+     "at": "2026-11-22T22:25:32+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 38: rejected (Posting requires 4–7 years of experience in restaurant supply and merchant acquisition, exceeding the 4-year limit.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T22:25:32+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Posting requires 4–7 years of experience in restaurant supply and merchant acquisition, exceeding the 4-year limit."
   },
   {
    "id": "L0287",

@@ -232182,15 +232182,15 @@
    "key": "pine|manager business operations|india",
    "type": "job",
    "company": "Pine Labs",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "pinelabs.com",
+   "company_url": "https://www.pinelabs.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Manager - Business Operations",
    "tier": "1 - Strategy & Ops",
    "location": "Pune",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "483473",
    "source_url": "https://www.instahyre.com/job-483473-manager-business-operations-at-pine-labs-2-pune/",
@@ -232221,8 +232221,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 22,
+    "total": 38,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -232231,15 +232231,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Manager - Business Operations at Pine Labs in Pune asks 4-8 years exp and L1 payments support management, exceeding your 1.3 years.",
+    "fit_notes": "The posting asks for 4-8 years of experience, experience in managing L1 support operations for payment/card systems, and direct team management of an operations team. Shlok has 1.3 years of experience in S&OP and strategic ops, lacks L1 support experience and direct team management, and the role is located in Pune rather than Bengaluru or remote.",
+    "pay_notes": "No compensation details provided in the job posting or evidence.",
+    "culture_notes": "Glassdoor data not available in evidence; Pine Labs reported a 6x profit jump in late 2026 driven by digital payments demand.",
+    "hook": "Pine Labs' profit recently jumped over sixfold as India's digital payments boom lifted demand for POS and payment solutions.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeG14cEZMTjVMS0dPdEZ6R2lWYUdvYlpuVHFMS3gzNXFjTlNqOFM0SjhSZy1KSnVkVG9ISmRVZGlWRW8ydlpONjQybzJZVDM5NTQ4cTRkdExDYy03Ylh3OEdrYUVoMTlRRXZzbmtGU0U2VzJHSVJKOTQ1VElSUkFqbzZUUVc3Qnd3NUJxVG5wUmVYUDVGZk42eDM0T3dRM21mRFRsWGdWVkhTOU51ZDM4OXVycDlXTVpOMk1LbmF4VDZuWHc?oc=5",
+    "researched_at": "2026-11-22T12:46:21+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Pine Labs, CAMS shares rise up to 4.5% as RBI to allow interoperability between NBFC account aggregators - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd1dtdDJ5YXR6U0ZRQTFhQTExLXdtRU5FMU9DdkRTcVYxdHQtSTRVVlJaZjhVd0ZTX2FwNjZ6NnNHWFEwSkYzbk9ZWUlNZ0pWQTc5STJHRmsxb0U4SE9XcGVRWGVLVWhGalZYOHZJVjE4SlBndXV4Z3VnUTktZVd6ODJVc3J0bUFsUlZ2R0ZIb3JwMzhnLVl4SnliZkhTR2tPRXFQMEQwa05HMWM1VFRxR1pWMzlIUUs4OWxvQW1pV0lDX2liYm9GMXhMNGlFVGc2b0lKSGw0NDJYb3RiRy1WVnZzUkZ1SjFHX2FEbXd1MzFNWlFaMjRHeGlSVdIBgAJBVV95cUxPUi1sSG9ZeS02TTV5M05PaHRUY3FjaUI5aFlqS1hSX25jbE5QUTBSTEdpMTBmZFI5bXNoam14M25rVmxoMFJPSEQzeXg2SVZDVEJPRlJCWkhtRlBuNEtWWWp2Zi02dHdrQTUtcDlEWGx3LTQ4TTBUQUZmOTJLQ1BkbkEwcUVrVXJKWXZxWHlCa2w4X0ZqWGlIY0lDNU1WOTMteFdnX0VwMk5lSDRLandyRjhmN1o4Y1VlWTJlZ0FqRTBtdmNQQVZEOE5weGNOMVRlUnNwdkFhZFZ6djRyOFJfaEFOaTBGdXhYcXVVcTBmVEptSkp4NHBnR1pwVVNzcy04?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Pine Labs profit jumps over sixfold as India's digital payments boom lifts demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeG14cEZMTjVMS0dPdEZ6R2lWYUdvYlpuVHFMS3gzNXFjTlNqOFM0SjhSZy1KSnVkVG9ISmRVZGlWRW8ydlpONjQybzJZVDM5NTQ4cTRkdExDYy03Ylh3OEdrYUVoMTlRRXZzbmtGU0U2VzJHSVJKOTQ1VElSUkFqbzZUUVc3Qnd3NUJxVG5wUmVYUDVGZk42eDM0T3dRM21mRFRsWGdWVkhTOU51ZDM4OXVycDlXTVpOMk1LbmF4VDZuWHc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "How Pine Labs Shifted Gears: From PoS Devices To An AI-Powered Fintech Stack - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbTJHczZCQlc2VGEwVmU5MUw5c3dPTzBjR3RFelBfZmJuZVY2S292TzJBeEpLNEdZUXJKUTBCUk01WnBqSzFvLXZJNUduc2dROFUzWHZuMVJ5YkNDQ0JSTTZZM0pENjRaNERhVF81R0FrQTBsT203c1VfeDRkZUdfdjNBOUVqVDBvbjZwSTRzalNnMzBOZ3A3bC13dU1wMU14MDRScWNB?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Pine Labs And CAMS Shares Rally As RBI Expands Account Aggregator Interoperability - Kotak Neo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3kxSUJqajBDYU5FNmxiNk5sOGQtQzZaU2o1cl9VUFBMUldhWV8wZEZnQVNlTlZoeFhjbWluUEM2SjZrNkVUeFY1eWs0eTV6dkRKVkFKNW8wYnY3YjFobmJEOUtocnByalRFNkR0OVh1b3RScjYwWDNYWkNhVGZtN3otUXRnSXJ0eXdfeUMxc3hmdTRDNUFmM2FwbkowM0ZDUWgw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Alpha Wave sells almost entire Pine Labs stake in Rs 550 Cr block deal - Entrackr",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUVhMFlTc0xMREhpYU1fTmp0bVdwMXRxeU9DQ1J1ZzFUQVBoV0xOa1RFR1IzNkNGSDE2c3NpYXJnNFBGQ3Zqcmd1TFRUOUEzOG13OTd6bFNFY0NjMWhYdGUzdm04SVRudVlwWnZIc3dWbmh6cmV2cFhudVZYeXhJSXNLaHBscldub0FFcHVNMjcyZnhseUxoSnp3V2ZkNnRHbW14ZU1fc03SAagBQVVfeXFMTjlFYTBZU3NMTERIaWFNX05qdG1XcDF0cXlPQ0NSdWcxVEFQaFdMTmtURUdSMzZDRkgxNnNzaWFyZzRQRkN2anJndUxUVDlBMzhtdzk3emxTRWNDYzFoWHRlM3ZtOElUbnVZcFp2SHN3Vm5oenJldnBYbnVWWHl4SUlzS2hwbHJXbm9BRXB1TTI3MmZ4bHlMaEp6d1dmZDZ0R21teGVNX3NN?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Paytm, Mobikwik, Pine Labs rebound even as NPCI defers MDR on UPI; read why - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHpNT2F1VHEtQng2Qjh0WG8zT2hqaTZlcl8tOGRtUGhDbHgxV1RZU0Z2YmFfdFN0SDJCUnUtcjRtSWVEMTdsY2JKRGVjeTZjeGE3c0tjLXZiZGZKbXk3R3FFdjV4SFkxVWdoSnB4YjI2SnNvNXZidkhneWgzT2JKRk1TLWlOaXRJa085bHA0bE5vYVRDN2IwS0ZfSWprVU1fb3lHcDJvLU9sWm5Pel9YTDFCZmtKX0c5cnRzZEp0eGlMSnk2RXV6SVBoU2PSAdIBQVVfeXFMT0xoWlJrNmVlNHB2N1lNVUVDVi1XNlRiT25aVEMybEhRbFc0SGR6OTQyR3h0U2RGU1oxMGszdVk1dmQwNmhnd1I2RDl3SC1OT0kwcW5zSG9wQzJ4dFFWR0t4MkxoMGZhdndyRWlDZkQ5bGdvMVNPdTcwN3paMjF2OFRMYUwwRWxpR2xtT1pObWtmaUtpNThFbWN5NXBya3FiRDZQUkgwUlkzT3ljVFhSZl9nSHlXNXFweHI5VFphV05Wa19XbGNicG1vVTB4T0xzMDJn?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -232263,14 +232301,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-22T12:46:21+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 38: rejected (Requires 4-8 years of experience (Shlok has 1.3 years), requires managing an L1 payment support operations team, and is located in Pune (not Bengaluru or remote).)"
     }
    ],
-   "updated_at": "2026-11-21T14:22:18+05:30",
+   "updated_at": "2026-11-22T12:46:21+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Requires 4-8 years of experience (Shlok has 1.3 years), requires managing an L1 payment support operations team, and is located in Pune (not Bengaluru or remote)."
   },
   {
    "id": "L1908",

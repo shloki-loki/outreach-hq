@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-19T10:51:18+05:30",
-   "agent": "send-track",
-   "ok": true,
-   "summary": "0 emails drafted, 0 referral notes, 0 application kits; 12 skipped: only guess/catch-all addresses (L0085, L0105, L1556, L0013, L0018, L0007, L0023), none score 80+; L0040 contact not at FRND, no hook; L0050 no hook; sync flaky",
-   "stats": {}
-  },
-  {
    "at": "2026-11-19T10:52:20+05:30",
    "agent": "lead-scout",
    "ok": true,
@@ -3489,6 +3482,16 @@
     "bounces": 1,
     "settled": 0,
     "followups_due": 0
+   }
+  },
+  {
+   "at": "2026-11-22T19:20:43+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "stats": {
+    "sent": 10,
+    "failed": 0
    }
   }
  ]

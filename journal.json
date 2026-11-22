@@ -6470,6 +6470,15 @@
    "title": "Settings file added to the data branch to stop Vercel deploys",
    "detail": "Shlok OK'd a one-time exception to the no-git rule for data: added web/vercel.json (same as main's) in 29be234 through GitHub's API. No data file touched.",
    "ref": "29be234"
+  },
+  {
+   "id": "J0720",
+   "at": "2026-11-22T19:20:43+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

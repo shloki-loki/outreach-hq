@@ -6461,6 +6461,15 @@
    "title": "PR #14 and #16 merged; queue re-ordered; site deploy rate-limited",
    "detail": "On Shlok's OK merged #14 (c48936d) and #16 (84341b7); 93 tests passed on the combined code. Founder queue rebuilt: 0 never-sent people in it, 37 at the back; 5 of them went out 19:05-19:12 just before the reorder. The Mac sender recovered by itself and is sending fresh contacts. Vercel refused the production deploy (rate limited, retry in 24 hours), so the two tabs are NOT live; /cold-mails is still 404. The PR #16 preview build has the same web code as main.",
    "ref": "84341b7"
+  },
+  {
+   "id": "J0719",
+   "at": "2026-11-22T19:17:30+05:30",
+   "by": "claude",
+   "kind": "fix",
+   "title": "Settings file added to the data branch to stop Vercel deploys",
+   "detail": "Shlok OK'd a one-time exception to the no-git rule for data: added web/vercel.json (same as main's) in 29be234 through GitHub's API. No data file touched.",
+   "ref": "29be234"
   }
  ]
 }

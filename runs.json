@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-19T23:35:37+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "outside the sending window; 72 approved email(s) wait for the next run",
-   "stats": {}
-  },
-  {
    "at": "2026-11-19T23:44:17+05:30",
    "agent": "research-worker",
    "ok": false,
@@ -3498,6 +3491,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-22T23:05:49+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 26 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

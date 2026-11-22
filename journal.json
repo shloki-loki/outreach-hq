@@ -6425,6 +6425,15 @@
    "title": "Template founder-v2: 60 emails queued",
    "detail": "1699 addresses left after today; refused 0",
    "ref": "M0313"
+  },
+  {
+   "id": "J0715",
+   "at": "2026-11-22T19:15:47+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: Founder emails went to never-sent people before the reorder was live",
+   "detail": "PR #14 merged (c48936d) and founder-v2 requeued 22 Nov 19:12: 57 pulled back, 60 fresh queued, 0 of them never-sent people; 37 wait at the back. 5 more (M0251-M0255) were sent 19:05-19:12, before the reorder.",
+   "ref": "I0045"
   }
  ]
 }

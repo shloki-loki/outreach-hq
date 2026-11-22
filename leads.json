@@ -54875,9 +54875,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Brandon Yang queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-22T08:06:59+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Brandon Yang"
     }
    ],
-   "updated_at": "2026-11-21T20:12:52+05:30",
+   "updated_at": "2026-11-22T08:06:59+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",

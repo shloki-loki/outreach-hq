@@ -17636,15 +17636,15 @@
    "key": "google|strategy and operations lead gtech ads solutions|india",
    "type": "job",
    "company": "Google",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "google.com",
+   "company_url": "https://google.com",
    "company_linkedin": "https://www.linkedin.com/company/google",
    "company_note": "",
    "title": "Strategy and Operations Lead, gTech Ads Solutions",
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4489249663",
    "source_url": "https://in.linkedin.com/jobs/view/strategy-and-operations-lead-gtech-ads-solutions-at-google-4489249663",
@@ -17660,7 +17660,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Minimum qualifications:\n Bachelor's degree or equivalent practical experience.\n 4 years of experience in a management consulting, sales operations, business strategy or corporate advisory role.\n Preferred qualifications:\n MBA degree.\n Experience working in a management consulting firm or equivalent project management experience in a strategy function for software, internet, media industries or early stage companies.\n Experience leading operational and cross-functional initiatives.\n Experience with executive stakeholder management and executive conversations with internal stakeholders.\n Domain expertise in operations, customer solutions and internet/online media.\n Excellent project management, problem-solving/analysis, communication and people management skills.\n About The Job\n The team focuses on the most critical strategic priorities for gTech Ads teams, facilitates cross-functional alignment of goals and execution, provides business critical insights using analytics, and helps teams drive strategic partnerships and new initiatives forward.\nIn this role, you will develop solutions to complex, ambiguous and high-visibility business problems and opportunities. You will be at the forefront of building and driving these solutions while working closely with Business teams, influencing the goal setting, helping transform early stage ideas into future-growth initiatives and much more. You will have an opportunity to drive a very significant, multi-year business transformation which is currently underway.\n Responsibilities\n Define, structure, launch and drive strategic and operational initiatives for gTech Ads Solutions teams, while acting as a strategic thought partner to the leadership.\n Work with cross-functional stakeholders and leaders to gather relevant information, context, and drive business analysis with effective project communication and management.\n Enable critical business decision making by working with cross-functional stakeholders and cross-pollinate learnings.\n Partner with gTech Ads solutions leadership in end-to-end driving of strategic initiatives (including global priorities).\n Provide oversight and connectivity to business-focused standalone initiatives and removing roadblocks to execution, and eliminating conflicts.\n Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\nSeniority level Mid-Senior level | Employment type Full-time | Industries Information Services and Technology, Info",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -17675,8 +17675,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -17687,15 +17687,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Strategy and Operations Lead at Google, asks 4+ yrs consulting/strategy experience; your 1.3 years is a stretch.",
+    "fit_notes": "The posting asks for '4 years of experience in a management consulting, sales operations, business strategy or corporate advisory role' and lists 'MBA degree' as a preferred qualification. Shlok has 1.3 years of experience and no MBA. His operational scaling experience [sop] [ceo-coo] maps to the general operational requirements, but the experience gap and unstated pay make this a reject.",
+    "pay_notes": "Pay not stated in the posting; no evidence found in web search results.",
+    "culture_notes": "Ratings and culture details not found in the provided research data.",
+    "hook": "Google Research recently published insights on quantum computing capabilities [S3].",
+    "hook_source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHdhc1FobXI5WVRSRXQ2Y2dpTFJ6NDN2a0w3OEFiNjhUcjNfR1hYZHNCT25VWlVQaXJFTUVtU2R0Q0pvOWJtb0JkWS1yanJxT1RvanN4bDBScUw1SVZEVUM0bU5wdGxoTThSMm14TTFHcG56RDZNeFBkb24yLTh2cVRFVXFGMHpQVkFFblZEMA?oc=5",
+    "researched_at": "2026-11-22T12:48:28+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Shutting the Door on the XCPE Botnet - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmJ2VVhPbGtGcWJHSGJKcV9UUHU1NzJrdWxPYndXeFNhSDdtaWtZWFl0NFJuQjFYM3pJbVlDR2J6eDdIejBQazh3RDhHYTgweGdvUHllajQyenl2UDB4dVIyZEdzd3Q0RXRHT2xDWEFzcVJlUERFRmkzZkQ4aTd2bEpEQnl2M1NfbHRxQXlONTdTaDg0S3o1aw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "A game you cannot win unless you have a quantum computer - Google Research",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHdhc1FobXI5WVRSRXQ2Y2dpTFJ6NDN2a0w3OEFiNjhUcjNfR1hYZHNCT25VWlVQaXJFTUVtU2R0Q0pvOWJtb0JkWS1yanJxT1RvanN4bDBScUw1SVZEVUM0bU5wdGxoTThSMm14TTFHcG56RDZNeFBkb24yLTh2cVRFVXFGMHpQVkFFblZEMA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "OpenAI models are coming to Google Cloud - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Gemini 4 Argon for Robotics - Google for Developers Blog",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9US2kzdWs5bHhuMThHOEpkbFZ4VTh6UEdodGJRVWJ0OXJBYlVsZk5lbnRKT3FQVUxXRFNJbDNCS3hlTVFDcTJSSm9nUzJ6R2FGWVAwRHhORm16NjdySHNleTBKMTRzWnNvejZRZGtfSXo0WWtKdFlYbURhX2haZXFRTlhvdUtrV3U1UFBiY0RMQlFsQTVpRDl5RWk1RDBnazYtbUM4Z0I?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -17719,14 +17760,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:48:28+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role requires 4 years of experience in management consulting, sales operations, business strategy, or corporate advisory, which is a stretch for Shlok's 1.3 years, and it lists an MBA degree as a preferred qualification while offering unstated pay.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T12:48:28+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 4 years of experience in management consulting, sales operations, business strategy, or corporate advisory, which is a stretch for Shlok's 1.3 years, and it lists an MBA degree as a preferred qualification while offering unstated pay."
   },
   {
    "id": "L0133",

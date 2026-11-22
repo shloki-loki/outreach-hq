@@ -1,16 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-18T04:25:55+05:30",
-   "agent": "supervisor/check",
-   "ok": false,
-   "summary": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
-   "stats": {
-    "alerts": 3,
-    "open_work": 63
-   }
-  },
-  {
    "at": "2026-11-18T13:05:39+05:30",
    "agent": "live-check",
    "ok": true,
@@ -3536,6 +3526,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-22T07:11:17+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

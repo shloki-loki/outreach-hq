@@ -10499,15 +10499,15 @@
    "key": "composio|apm integrations|bengaluru",
    "type": "job",
    "company": "Composio",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "composio.dev",
+   "company_url": "https://composio.dev",
    "company_linkedin": "",
    "company_note": "",
    "title": "APM - integrations",
    "tier": "3 - APM / Analyst",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "ashby",
    "source_id": "composio:64bda86f-f25f-42f3-9d1a-b6ad3d736ca2",
    "source_url": "https://jobs.ashbyhq.com/composio/64bda86f-f25f-42f3-9d1a-b6ad3d736ca2",
@@ -10538,8 +10538,8 @@
    },
    "score": {
     "rules": 57,
-    "research": null,
-    "total": 57,
+    "research": 70,
+    "total": 65,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -10550,15 +10550,45 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "APM Integrations at Composio (Bangalore HSR), asks 2-4 yrs; your Ola Electric ops work and Flask tools map directly to this ops-to-product role.",
+    "fit_notes": "Posting asks for 2-4 years experience for an ops-heavy role transitioning into product management (SOPs, workflow automation, metrics, technical problem-solving). Shlok's S&OP and logistics execution [sop, msl, mrp, ceo-coo] and software/automation projects [idekho, alcheringa] match the requirement. No MBA or consulting background requested.",
+    "pay_notes": "No pay stated in posting or available in evidence; pay range is unknown.",
+    "culture_notes": "No Glassdoor or AmbitionBox ratings found in search evidence.",
+    "hook": "Co-founder Karan Vaidya recently noted that Composio is building value by moving beyond single-provider AI ecosystems like OpenAI or Anthropic.",
+    "hook_source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjZvZDg5NmJfTHFLR2xEV2EtNFlpVmZUbl9HZHlLUW5WN3VuaGhyMHE5aXYzTUo1bjloOV95eGo4WXNVTk9fZGtQNHpBc1hpODJzbTdTT2lhTEVaX2hYc3cyTUNKRkozcUwyb2hDcnNzMmZpeUFtNUluc0FVNjlQNzZWTnUxTmMzbmM5NGEtXzcwRHJOZTRZcEEyRENaSUJUQ0hGNXVuazNNLXIxQmc?oc=5",
+    "researched_at": "2026-11-22T22:32:18+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Composio Firewall: How It Blocks Agent Injection (2026) - explainx.ai",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1lqZkJaTC1OSm4wU25KTUZDUXduSXp4QkdoVmRGRFRSYnRMbzQzWkJwcEhRMHg4TW5rRllmMndsQWdLSE5DZXNDSmtLRXlQUmsyNEFSVXd0eEtsc0lFYlRzQzJkQjFpX0lwTWNnX1B0Mk5oUWsxajJXVHFHMlN0bG9GWXpNQVZick9kcU1lT0ZkcVBhQmFBTWl5dDk0MlEzc3dTZnFvTWtUNEhOU2lPYg?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "‘In startups, there is a fear of... what if OpenAI crushes you, Anthropic crushes you.’ But Composio co-founder Karan Vaidya believes the tech landscape is shifting away from these single-provider ecosystems. ‘If you're able to create a value where you are able - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjZvZDg5NmJfTHFLR2xEV2EtNFlpVmZUbl9HZHlLUW5WN3VuaGhyMHE5aXYzTUo1bjloOV95eGo4WXNVTk9fZGtQNHpBc1hpODJzbTdTT2lhTEVaX2hYc3cyTUNKRkozcUwyb2hDcnNzMmZpeUFtNUluc0FVNjlQNzZWTnUxTmMzbmM5NGEtXzcwRHJOZTRZcEEyRENaSUJUQ0hGNXVuazNNLXIxQmc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Composio, Electric-Generated AI Agent Infrastructure - 디자인 나침반",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVTlhdE12Nm5YOTdhLW1zVVp0SzhLVThyOGJDQ0lEaC1wV25CcW9LSHB6Q3gwdTliN3BOVDcxbGd5bnY1ajBiWENRdWZDOGZyb0lWUFN5bmZKOE9aUjYtemdGTU81ZTEyZUp6b2wyM21WRDFOZG1VbzR6dDNrYjFIcm84RQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "msl",
+     "mrp",
+     "ceo-coo",
+     "idekho",
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -10582,14 +10612,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "ashby: rule score 57"
+    },
+    {
+     "at": "2026-11-22T22:32:18+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 65: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T22:32:18+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0078",

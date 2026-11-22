@@ -200748,7 +200748,7 @@
    "key": "trystiitbombay|senior analyst strategy intelligence and insights|india",
    "type": "job",
    "company": "TRYST IIT Bombay",
-   "company_domain": "",
+   "company_domain": "iitb.ac.in",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/tryst-iit-bombay",
    "company_note": "",
@@ -200756,7 +200756,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490409785",
    "source_url": "https://in.linkedin.com/jobs/view/senior-analyst-strategy-intelligence-insights-at-tryst-iit-bombay-4490409785",
@@ -200772,7 +200772,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Senior Analyst, Intelligence & Insights \n Location: Mumbai\n Experience: 2–5 years\n Note: We are looking for expertise and experience in strategy consulting in new product development from the ideation to market entry, R&D and Technology along with Digital Engineering, Process Design Research & \n WHO YOU WILL WORK WITH \n You will join TRYST's Intelligence & Insights team in Mumbai and report to the Manager, Intelligence & Insights. You will work closely with the Associate Vice President, faculty across IIT Bombay, and leaders from industry, government and the investment community.\n WHAT YOU WILL DO \n You will lead TRYST's intelligence on AI & Digital Technologies, both as a domain in its own right and as an enabler across every industry TRYST covers. You will also support the Manager on Semiconductors & Electronics, Energy & Clean Tech, Mobility, and Climate & Sustainability.\n You will turn complex industries into clear, structured insight. You will map segments, sub-segments and value chains, track the technologies and investments reshaping them, and assess where India leads, lags or depends on others. Your analysis will inform where TRYST and IIT Bombay focus their research and engagement.\n In this role, you will: \n Conduct in-depth research on industries, technologies and markets, building structured views of segments, sub-segments and value chains\n Develop market models and analyses that size opportunities, growth and strategic dependence\n Track emerging technologies, frontier research, startups and investment activity to identify opportunities for translation\n Contribute to five- and ten-year outlooks, comparative assessments and best-practice studies\n Synthesise findings into briefs, presentations and publications of a high professional standard\n Support engagement with industry leaders, investors, policymakers and faculty\n QUALIFICATIONS AND SKILLS \n Bachelor's degree in engineering, science; Master's degree or MBA an advantage\n 2–3 years in management consulting, research and analytics, strategy, or R&D and product roles\n Working knowledge of AI and digital technologies, with exposure to at least one of healthcare and life sciences, semiconductors, energy or climate, and an eagerness to build expertise across domains\n Strong research, analytical and modelling skills; proficiency in Excel and PowerPoint, with data tools an advantage\n Clear, structured writing and the ability to explain complex topics simply\n Curiosity about how research becomes products and enterprises; able to work independently in a fast-paced environment\n Why TRYST \n Shape where one of India's leading research institutions directs its translation effort\n Work where frontier science, industry strategy, capital and national priorities meet\n Direct exposure to industry leaders, investors, policymakers and world-class faculty\nSeniority level Associate | Employment type Full-time | Industries Research Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -200787,8 +200787,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -200799,15 +200799,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Senior Analyst at TRYST IIT Bombay in Mumbai; asks 2-3 years in management consulting or research which you do not have.",
+    "fit_notes": "The posting asks for a 'Bachelor's degree in engineering, science; Master's degree or MBA an advantage' and '2–3 years in management consulting, research and analytics, strategy, or R&D and product roles'. Shlok has a B.Tech from IIT Guwahati and 1.3 years of S&OP/strategy experience at Ola Electric ([sop], [ceo-coo]), but he lacks the required management consulting background and has no MBA. Furthermore, the role is located in Mumbai, failing Shlok's location preference of Bengaluru or remote first.",
+    "pay_notes": "Pay not stated in the posting; no evidence found in web search.",
+    "culture_notes": "TRYST IIT Bombay operates as an initiative/unit under IIT Bombay. No independent Glassdoor or external culture ratings found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T12:58:09+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -200831,14 +200838,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:58:09+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role is based in Mumbai, violating location criteria (Bengaluru or remote first), and requires consulting/research experience which he lacks.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30",
+   "updated_at": "2026-11-22T12:58:09+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role is based in Mumbai, violating location criteria (Bengaluru or remote first), and requires consulting/research experience which he lacks."
   },
   {
    "id": "L1630",

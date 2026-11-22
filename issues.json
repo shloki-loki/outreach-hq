@@ -347,7 +347,7 @@
    "opened_at": "2026-11-19T21:25:07+05:30",
    "last_seen": "2026-11-19T21:25:07+05:30",
    "count": 1,
-   "remedy": "Remedy for Shlok: rotate the Reoon key at reoon.com and update .env and the GitHub secret; the code that logs provider URLs should redact the key parameter (coding session). Old key stays in git history until rotated.",
+   "remedy": "PR 17 masks keys before they are stored. The old key remains in saved data and git history, so Shlok must still rotate it at reoon.com.",
    "resolved_at": null
   },
   {

@@ -6956,6 +6956,15 @@
    "title": "Diagnosis: hunter verification call failed",
    "detail": "PR 17 treats a secret holding only a comment as no key, so Hunter is skipped. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
    "ref": "I0011"
+  },
+  {
+   "id": "J0774",
+   "at": "2026-11-22T22:20:41+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Reoon API key stored in plain text in issue I0010 detail",
+   "detail": "PR 17 masks keys before they are stored. The old key remains in saved data and git history, so Shlok must still rotate it at reoon.com.",
+   "ref": "I0025"
   }
  ]
 }

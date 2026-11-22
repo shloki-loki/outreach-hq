@@ -585,7 +585,7 @@
    "opened_at": "2026-11-22T12:27:47+05:30",
    "last_seen": "2026-11-22T12:27:47+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Scout run on 22 Nov 12:27 stopped at 3 of 12 leads because the scout scrape held the lock over 10 minutes. The later lead-scout/scrape at 14:29 finished fine (6925 jobs, 16 new leads), so it is one-off. Resolve after the next full scout run.",
    "resolved_at": null
   },
   {

@@ -6542,6 +6542,15 @@
    "title": "Diagnosis: research-worker run marked failed 21 Nov 13:22",
    "detail": "research-worker is marked failed on 21 Nov and again on 22 Nov 13:06 although its summary reads like a normal run (30 researched, 1 qualified). Likely the Gemini free daily quota (limit 20/model) ends the run early, which the runner counts as failure. Remedy: treat the quota stop as ok, or add a paid or second key. Not changed in this run.",
    "ref": "I0041"
+  },
+  {
+   "id": "J0728",
+   "at": "2026-11-22T20:11:50+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Scout run cut short: 3 of 12 researched",
+   "detail": "Scout run on 22 Nov 12:27 stopped at 3 of 12 leads because the scout scrape held the lock over 10 minutes. The later lead-scout/scrape at 14:29 finished fine (6925 jobs, 16 new leads), so it is one-off. Resolve after the next full scout run.",
+   "ref": "I0042"
   }
  ]
 }

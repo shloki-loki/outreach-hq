@@ -59397,7 +59397,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-21T15:55:53+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-23T05:05:23+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -59494,9 +59494,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Vivek Vaidya queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-23T05:05:23+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "max@boombox.io: Hi Shlok, Appreciate you reaching out, but we do not currently have any openings at Boombox. Wishing you luck in your search Max On Sat, Nov 21, 2026, 9:40 PM S"
     }
    ],
-   "updated_at": "2026-11-22T08:25:16+05:30",
+   "updated_at": "2026-11-23T05:05:23+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "unknown",

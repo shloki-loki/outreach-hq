@@ -39031,7 +39031,7 @@
    "key": "betterhalf|senior technical growth product manager growth hacker|bengaluru",
    "type": "job",
    "company": "Betterhalf",
-   "company_domain": "",
+   "company_domain": "betterhalf.ai",
    "company_url": "https://betterhalf.ai",
    "company_linkedin": "https://www.linkedin.com/company/betterhalf",
    "company_note": "YC Winter 2021 · team of 25 · India’s first and only marriage super app",
@@ -39039,7 +39039,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, KA, IN",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "betterhalf:56693",
    "source_url": "https://www.ycombinator.com/companies/betterhalf/jobs/2IVL0FS-senior-technical-growth-product-manager-growth-hacker",
@@ -39070,8 +39070,8 @@
    },
    "score": {
     "rules": 58,
-    "research": null,
-    "total": 58,
+    "research": 40,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -39080,15 +39080,35 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Technical Growth PM at Betterhalf (YC W21, 25 team), asks 3+ yrs; role requires growth PM experience not present in your S&Ops background.",
+    "fit_notes": "The posting asks for a Senior Technical Growth Product Manager / Growth Hacker with at least 3 years of experience. Shlok's background is 1.3 YOE in Strategy & Operations at Ola Electric ([sop], [ceo-coo], [msl]) with only an intern-level technical project ([idekho]). He lacks experience in consumer app growth hacking, viral loops, and senior product management.",
+    "pay_notes": "No compensation details provided in the job posting or evidence.",
+    "culture_notes": "No Glassdoor or AmbitionBox ratings were found in evidence. Small team of ~25 based in Bengaluru.",
+    "hook": "Betterhalf holds US Patent No. 16/777,773 for its single-click matrimonial matching technology.",
+    "hook_source": "https://www.ycombinator.com/companies/betterhalf/jobs/2IVL0FS-senior-technical-growth-product-manager-growth-hacker",
+    "researched_at": "2026-11-22T22:31:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Betterhalf website",
+      "url": "https://betterhalf.ai"
+     },
+     {
+      "id": "S2",
+      "title": "Canada’s BetterHalf Films Joins Indonesia’s Studio Amarana on Animated Film ‘Galeo of the Seawalkers’ (EXCLUSIVE) - Variety",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemg4ZVNBVHR0OElGd1Myc25aVUlkUWFLR3FuaHY0VWdFRUJKWkp4UENFclZzLXl4UFAzNW1tUmxUWG1DNWpDU1NvX0FFVWxYc0M2d3h1bTBDX0Y3cHhPb0JnUWlDSTllbTNaSkNIcHVTTkotRk1JYll4UU5aUWFkdHdDcHBqWTFrdzFyd0hWS1QwWFM5NjhrMlEySXA5RkhtYm5j?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -39112,14 +39132,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 58"
+    },
+    {
+     "at": "2026-11-22T22:31:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The role requires a Senior Technical Growth Product Manager / Growth Hacker with 3+ years of experience, whereas Shlok has 1.3 years of experience focused on Strategy & Operations / supply chain at Ola Electric.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T22:31:58+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires a Senior Technical Growth Product Manager / Growth Hacker with 3+ years of experience, whereas Shlok has 1.3 years of experience focused on Strategy & Operations / supply chain at Ola Electric."
   },
   {
    "id": "L0301",

@@ -6524,6 +6524,15 @@
    "title": "Ran",
    "detail": "0 replies, 0 bounces, 0 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J0726",
+   "at": "2026-11-22T20:11:44+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Bounce rate 5.9% (9 of 153), 2 more bounces on 21 Nov",
+   "detail": "Bounce rate is 5.3% (11 of 206 sent), just over the 5% line. Only 1 new bounce on 22 Nov (M0314 rohan@metakeep.xyz, founder-v2, 19:14). 10 of the 11 are founder-v1/job-apply guess-style addresses from 20-21 Nov. Remedy for Shlok: keep guess-grade addresses out of the queue until the rate is under 5%; the founder-v2 queue now prefers verified ones.",
+   "ref": "I0040"
   }
  ]
 }

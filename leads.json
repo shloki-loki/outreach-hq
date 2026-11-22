@@ -194577,15 +194577,15 @@
    "key": "visa|product analyst|bengaluru",
    "type": "job",
    "company": "Visa",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "visa.com",
+   "company_url": "https://www.visa.com",
    "company_linkedin": "https://www.linkedin.com/company/visa",
    "company_note": "",
    "title": "Product Analyst",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4490912450",
    "source_url": "https://in.linkedin.com/jobs/view/product-analyst-at-visa-4490912450",
@@ -194621,8 +194621,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 35,
+    "total": 43,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -194632,15 +194632,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Analyst at Visa in Bengaluru; requires software product management experience you lack.",
+    "fit_notes": "The posting asks for 'product management experience, strong technical fluency, and demonstrated success applying rigorous critical thinking... experience contributing to digital, automation, or AI-enabled products from discovery and prototyping'. Shlok has operations background ([sop], [ceo-coo]) and some technical skills like Python/Flask ([idekho]), but lacks formal software product management experience.",
+    "pay_notes": "Pay not stated in the posting, and no credible salary evidence provided in research.",
+    "culture_notes": "No employer ratings found. Found a recent news flag regarding a customer data leak ([S3]).",
+    "hook": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+    "hook_source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTy1UWkp5QmtjYW0wNmgzMm04Y295STZlSUdvQ3FwYzhoV01XY3R4S04xLUFPbnFpU0c1SU9iekhxNXlMZE4tS1FRSnRkeDBmSlVRcGZwc2FEOU80US1hZzZ5M2UyalFjZEE0Zmd6cjc3U1MxTzJfdFFtaXJEa1M3UnZJU1V3aVh6YXF0c3BVVkxDMmZtb1lPaHBNM0NIY2g0OUpOQW9tcW0?oc=5",
+    "researched_at": "2026-11-22T22:36:27+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Schengen short-stay Visa applications rise in 2025 but remain below pre-pandemic levels - Migration and Home Affairs",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZjlPV2x1dUNtc0FGTklFM01DZVRndzlVaEZ1QkRRTDdRYmNvZ052enJ2akVlUVN5YkQwRjk4bTh1VU8yemZRc3FYNTlXZGk2cC1qMk52XzEtOTFJSjNvLVVmMGtub0gwcUVZdzY4TnZfRG54UmVaOF9DdWt1bmFhYnczZjFJOGpSRUZUSlFRb3VFenpiZTdOUXR5aXBidEJac25wWHFYYUQwRVlFYXlSU0NJM21kSVhoeEVEeUFzOU5Va292ak10ZHBYR09Idw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "I Am a 2026 National Book Award Finalist. The U.S. Denied My Visa - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMDZtMHNsVEJNVV9ORkNVSHZmSkkxbi0wS2Q5WWU5OGJfbGlDYlYtMzRITlpoVmtteHNSMmFzc1gzU3NrWlRwOG9iRkFlTUI3Q0N6bHNjWDB0M2ctVUdpVFJQOWtnUEMzY3I5TnR3WUdtb3hTU2xQWjVwNEloU2FvZDd3dWtRZ1ptcHFUckduY0JLZmpISndwUGpVcldjRVFXUnNqclJRQzBoQQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTy1UWkp5QmtjYW0wNmgzMm04Y295STZlSUdvQ3FwYzhoV01XY3R4S04xLUFPbnFpU0c1SU9iekhxNXlMZE4tS1FRSnRkeDBmSlVRcGZwc2FEOU80US1hZzZ5M2UyalFjZEE0Zmd6cjc3U1MxTzJfdFFtaXJEa1M3UnZJU1V3aVh6YXF0c3BVVkxDMmZtb1lPaHBNM0NIY2g0OUpOQW9tcW0?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "UKVI rejects 80% of students called to interview as visa refusals surge - The PIE News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQREsxM0FKZEt3aFZ2LVFuaEtocHpDS0p5S1RIWjNfU25aWi13Vll4T1JOUkpmbjVfRHNrVm9jU2xycVppSmVyOVllVWx2UnVLSFltVUN1Z2I5dy1CaWlyV05iOXpmSHR5UjhDbFVueEpsMm9qc1VtRkFpMWdlMUxvWFFkc3g2SVk3UXdrMlRLZll1Y0xRS1RSeWRR?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Malaysia to end visa-free entry to Indians from January 1, 2027 - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0tWTDR6S0dnc01Vam5makttOU81cVRiTFRsbVIxbFRBQlpFYktocEx4ZjJmSHY2Zno4eXZfVHlOSWt5eGFIQXU2b29XdzhLXzlxNFd4WGc4SV8tZkx6WjZLclIxVEZzZXNvQmdHUkd1VVhHSF9jSE5VYlhXVjhLd0N4Q3JSLXJSYXozN0paN0ZhcGRKcXRZZk1saEJ1ODFOYmxUUFd1bUZvNGthcUsxSHhQVGFEazJDVWtBNEx30gHEAUFVX3lxTFBjdkx1ZXJxaV9VZ0dESWF3SnJmT0dBVjl6OXFvR19nVG9hR1RhRkI0Rk5vMDhvTEFvT3J4RTRzdU9MSVpJcDJuY2NjTWFpYnF5YUxlWHZxRDRia2YzNUoyOUFLWGJKWHZXOGxzRm9rRnJwWnMyQzB6RGpEc0Z2S1dGclJQb1FqaHhQX2ZOcmVxM18yY3hWTDc3VmM3ZlA0NENIUGYtQ3NhZkxUMWpjcnFLOTd3c2stelpxUzJ1UUZWZ2VTazY?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Visa Restriction Policy Targeting Far-Left Terrorist and Other Aligned Groups - U.S. Department of State (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcEF0LXktSTBmMXJkNjZwSkxRX1JmcFRJem1FR1lDYnlRckhYZlhvb0tjbEd5RkFrU1N5Y1JvU0JMeG9nY3FsWjI4MVhTMjl3SURLWUZRcndSV0tVZElSQTdJOU54akVDR1lvRXhxUE9TOU94WmxKa3lHYTltRXhMS1kzYUFaNDZEYVg3OU9jRnNSaFM0OFNLNjZQNEYwMzFTMWgzNlRaS2VnV2w5em50U0NFWVlvdUZZc3VHN1F6YTB5MjJOZTBwaFhkQ0ZMQ0c3Q1F4SF8xdw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -194664,14 +194704,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 56"
+    },
+    {
+     "at": "2026-11-22T22:36:27+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 43: rejected (The role asks for software product management experience in digital, AI, and automation products, which does not align with Shlok's S&OP and operations background, and pay is unstated with no evidence meeting the Rs 24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-17T02:52:54+05:30",
+   "updated_at": "2026-11-22T22:36:27+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for software product management experience in digital, AI, and automation products, which does not align with Shlok's S&OP and operations background, and pay is unstated with no evidence meeting the Rs 24.5 LPA threshold."
   },
   {
    "id": "L1566",

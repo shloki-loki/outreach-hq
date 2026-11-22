@@ -231778,15 +231778,15 @@
    "key": "kapturecx|manager growth and strategy|india",
    "type": "job",
    "company": "Kapture CX",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "kapturecx.com",
+   "company_url": "https://www.kapturecx.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Manager - Growth & Strategy",
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "484840",
    "source_url": "https://www.instahyre.com/job-484840-manager-growth-strategy-at-kapture-cx-mumbai/",
@@ -231817,8 +231817,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 20,
+    "total": 36,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -231827,15 +231827,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Manager - Growth & Strategy at Kapture CX asks 6-10 years experience, far beyond your 1.3 years.",
+    "fit_notes": "The role asks for '6-10 years of experience in Consulting, GTM Strategy, Growth Strategy, Founder's Office or Strategic Account Management roles' and strong CXO engagement. Shlok has 1.3 years of total experience [ceo-coo, sop], which fails the rule rejecting postings asking for more than 4 years.",
+    "pay_notes": "Pay is not stated in the job posting and no salary data was found in the evidence.",
+    "culture_notes": "No Glassdoor or employee review ratings were available in the posting or evidence.",
+    "hook": "Kapture CX raised $10M in a funding round led by Bajaj Finserv Ventures to expand its verticalised agentic AI platform.",
+    "hook_source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWd4R1huMzFPdWR6VEJ6SkxjSlJnRDRMYmZxNXFwLUpWQnZDNDhYVlNmMlpsbjhCMy1LV21YU1AyVHRMcjZETHlsbWtoYTRZTWRSN2tFNi1HS0stY3QxeURIRE5US1k0NThMa1BKc2Fya05tRkhTeWxWbGoxMHZTbzFJTWhVeTNUT3FRR1VSRnVOQQ?oc=5",
+    "researched_at": "2026-11-22T12:46:03+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Bajaj Finserv Ventures invests in Kapture CX ahead of AI fund launch - VCCircle",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFpaQVFnb2VVRWJFWXBsNThKRU1Ua0wtSGFoNndnYWlfOUhDWTdROTI4bFN1X25RS2JfR1pNSmVNaWo5ZThuRnlHY3ZZakxka2ZXaGlfdTVIUWYtUGhPb1NrcS1DOXhuR0xsMlFhLVFVdlFlWmZxVDZsRWc2UEFzYWIyYWNLWnE5Wk9pallvaVZzQTRUemgwZjd5MDdpQ0hWNk5r0gGrAUFVX3lxTE4tQ0oxdmxCT3NOZWV1RlhIYzJUTFNsVUwzRnM2eE9NSDVOTTFqWVk3emFsSUhmUkRLN1VjaDJ5b1k1a3dZRHJrS3dZWXFMWGdRY3JGZkVSaGRDZk9XYTZFNzNuN0RPRVluLTU5bGxYWjZBMFNBb3JMRDluZldFMUJyYTZTcVUxWTk1Nmw3aDM4ZFVCRE9ZYVZEQXc3WW92cHIycHdXd0ZxTzAtcw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Konica Khandelwal joins Kapture CX as Vice President – Middle East - MediaNews4U",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHdObEYyOVU3Y20xVUlCU2FhYUdKZHlxb05yUzc5UkFjcnl0V0RfemhXRkNGcGhwMVRuTy1Ka0MtZzhSazl6bmQ5dVNQdmNTREJ1czJPY2FvbldDZ1lWWFpHUGlFbEZvTHItR0NreTRrMnBiMEtLVW5ZTmNlNHN5Qnp1V0FsT3JvbURaYTlic1FOeEFYN0FfTg?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Kapture CX raises $10M led by Bajaj Finserv Ventures - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWd4R1huMzFPdWR6VEJ6SkxjSlJnRDRMYmZxNXFwLUpWQnZDNDhYVlNmMlpsbjhCMy1LV21YU1AyVHRMcjZETHlsbWtoYTRZTWRSN2tFNi1HS0stY3QxeURIRE5US1k0NThMa1BKc2Fya05tRkhTeWxWbGoxMHZTbzFJTWhVeTNUT3FRR1VSRnVOQQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Kapture CX Bags $10 Mn To Take Its Verticalised Agentic AI Platform Global - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEJFTUNZVFNZUElpOWk5QlFjLS04bDRPWE5XWEw3anByZjdwcnFTV0QzR094NkROYUxWUnlPRk9TZDc0QU53dkdmRVItSUI1cUdjZmtuWF9YNWFla1hJT2VOczhPU18tcHVRYkZWektreDI1VGwyVmtLOU4xeUE0RTE1Q2ljZUxocHRQUGxn?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Kapture CX targets $50 million ARR in 12 months as it expands beyond CX into enterprise agentic AI - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTEt3QTlFeWVDdDFibnhSUGhzVG4wTExZaHdHTmxWdDRWWU5qNWJxZ2JCdFZxMmlIMXpwbzFzTUpWTEtGVnBRRkI3LWpHZHRfemxVUWtscld1dlFrVkpwaVpaRm0wQ0JGcTNKM282WnJiVUN6MHZUSTRLQ19menQ5NnZBOWxldHd3VXhvTVdtcXhoUkZzc3VITnEwemJlWFh3ZHF2WThrVElPdDdEVWlFTTQ4RnRGaGZ5UFd1VFlmR3R3MUNBMHfSAcsBQVVfeXFMT0lZaWdPSU1tcjFFUWNsejk3ckxYcU9VOUo4aHFFeXJvM2xZSkkxWGNsNFdadUE5dE5rVUYzZDEwTkhPbEc5OFFmNkwwRWVfc1ZURzllWHJ3UVIyaFJhb0F4T2V4SzMxTlh0QTFiMHRIZ1AzWTljZlBFNEdReFEzZXM2RGthRjBWVVRCOUI1cmJjSDQ4QzVkUVZjZHpUYzM3enBHZWZXN3ZGYVBsOHJZSDQwUzVLZlRSajBEdUZjRlJmc2p2MTFocC14YTg?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Kapture CX names Kruti Khandelwal as Vice President - Marketing - Social Samosa",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSFJoWWJ5TFAyR0VnVnlKR1llQ0ZTLW9ubXdkNnJPVjUtTHlpUHg2aC1Cb1JyQ3dtNUNPZ3JXYWEzMXRTVE5PWmxmRGRjMGRIVXhCVlFlVE9vSWhLQXNabkh1Vmlxb3BrSUk0cndXYU15eUdZRGxBS3RVY3kzdGdMckRRYXFfNU5weUhLSDBDWTBSN1ZWNVNQazVqaTRlNll0czM2TDY4X3M2UzjSAasBQVVfeXFMTkhSaFlieUxQMkdFZ1Z5SkdZZUNGUy1vbm13ZDZyT1Y1LUx5aVB4NmgtQm9SckN3bTVDT2dyV2FhMzF0U1ROT1psZkRkYzBkSFV4QlZRZVRPb0loS0FzWm5IdVZpcW9wa0lJNHJ3V2FNeXlHWURsQUt0VWN5M3RnTHJEUWFxXzVOcHlIS0gwQ1kwUjdWVjVTUGs1amk0ZTZZdHMzNkw2OF9zNlM4?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -231859,9 +231899,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-22T12:46:03+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 36: rejected (The posting explicitly requires 6-10 years of experience, exceeding Shlok's 1.3 years (roles requiring over 4 years are hard rejects).)"
     }
    ],
-   "updated_at": "2026-11-21T14:22:18+05:30",
+   "updated_at": "2026-11-22T12:46:03+05:30",
    "research_attempt": {
     "at": "2026-11-21T22:30:58+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
@@ -231871,7 +231917,8 @@
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly requires 6-10 years of experience, exceeding Shlok's 1.3 years (roles requiring over 4 years are hard rejects)."
   },
   {
    "id": "L1905",

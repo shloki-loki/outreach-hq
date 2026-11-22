@@ -180631,7 +180631,7 @@
    "posted_at": "2026-11-10",
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-17",
-   "open": true,
+   "open": false,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -180647,8 +180647,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -180658,15 +180658,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Sales-type BDM role at a small firm; no pay evidence and nothing in your background maps to it.",
+    "fit_notes": "Posting not opened first-hand; only aggregator/company profile pages seen.",
+    "pay_notes": "No evidence found.",
+    "culture_notes": "Not found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T11:57:11+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -180690,9 +180692,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-22T11:57:11+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 35: rejected (Marconix is a sales-outsourcing/field-sales firm (GoodFirms, Expertia); no confirmed BDM posting found; role is sales, not strategy/ops.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-22T11:57:11+05:30",
    "live_check": {
     "at": "2026-11-21T12:47:43+05:30",
     "state": "unknown",
@@ -180702,7 +180710,8 @@
     "at": "2026-11-22T03:22:14+05:30",
     "why": "model answer failed the checks: pay basis is 'stated' but the posting states no figure; use estimate or unknown",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Marconix is a sales-outsourcing/field-sales firm (GoodFirms, Expertia); no confirmed BDM posting found; role is sales, not strategy/ops."
   },
   {
    "id": "L1460",

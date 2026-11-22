@@ -212802,15 +212802,15 @@
    "key": "glance|senior product analyst|bengaluru",
    "type": "job",
    "company": "Glance",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "glance.com",
+   "company_url": "https://glance.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Senior Product Analyst",
    "tier": "3 - APM / Analyst",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "greenhouse",
    "source_id": "glance:8261159",
    "source_url": "https://job-boards.greenhouse.io/glance/jobs/8261159",
@@ -212841,8 +212841,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 62,
+    "total": 61,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -212853,15 +212853,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Product Analyst at Glance (Bangalore), asks 3+ yrs (stretch); your SQL, Python, and S&OP data modeling [sop] map directly.",
+    "fit_notes": "Requires a Bachelor's in Engineering/CS or MBA (MBA is optional, not mandatory) and 3+ years in quantitative analytics/data modeling. At 1.3 years of experience, 3 years is a stretch fit. His IIT Guwahati engineering degree, SQL/Python skills, quantitative S&OP modeling [sop], lotting algorithms [o2d], and technical product work [idekho] fulfill the analytics requirements.",
+    "pay_notes": "No pay stated in posting or found in evidence.",
+    "culture_notes": "Glance is backed by Google, Jio Platforms, and L Catterton. Specific rating data was not found in evidence.",
+    "hook": "L Catterton recently backed InMobi-backed Glance to expand its AI shopping business in the US.",
+    "hook_source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjNyendvVGwycDdJemE4OXVVNjM2c1VOM1Nwb0xrSTZVZktMQUw0U0VXcUdjSmtfUkFySkdab3pGZm1sQ0VOOVFaS1I2QksxNXR2ejhOWUNkVHJmUXFwYVRRMS0yZTlmU2VJY2xoU1h5N0RrbTB6cmVYY0lxRXRUUkxkSm8xeTJQWmZrRDVLRzRTaU9oSF9BckxsUEJmRnJlTVhhTmtB?oc=5",
+    "researched_at": "2026-11-22T22:21:08+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Commodities at a Glance: Palm oil trade at a crossroads | - UN Trade and Development (UNCTAD)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0wxNDA5Q0FaTW00TkdhRXM0YUM1WFYzLWw4bHktQzZLb2J0UU41el93SlhOWk84aGNBOWxFeTdGWDJ4SUNobFVqanVGQm5KS0FLVHl3ODV4cFlrOUhYNkZoRDdGRUFtVXF0VFpoSTZuTEhrbmxBTXJBYmN2MzVhZg?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Poultry & Eggs - Sector at a Glance - USDA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0hKRVZXMGRfN1BNdmlNbnltQnA0NklaZEZaZENtNmxab2dzNmk0OVprOVVlRUxERVMxSldhOEtpc1lkLUZUS01tSFY0MkVQSHF5V1UwckZlVDRjRERockhTUzljVDdiOG5uSHJSeDNjczl0eGxQV1hYZWV2Z2FIRk1UcE8?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "ILO PROSPECTS: Results at a glance - International Labour Organization",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RR09oU2pDdm0yT3pqTVNiUGZiMmpMdWswUWE4WDk3VkpFT05HNkNxLTBBcUh5RXlPV2VsdTJEUDZORHZRQzNKNVlYMHFNRmJzdkt0c3ExQ0NQajZNSXBjZGpra0I3dTdmbFpLc0xoX29iVTQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Tajikistan at a glance | FAO in Tajikistan | The Food and Agriculture Organization of the United Nations - Food and Agriculture Organization",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81QkNXM28wMTlmNVZXUmtNUkM0a1BYQjA5M0FDendHRGhTS0Q5U3ZpWTJzT0h1STQzNzBwM3dMRHIxRGpBNjVRY0RiMW5PWkdlZVF3amlZOE01VjBIeVlCdHBVZTgzX2M?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "This Week's Sky at a Glance, October 30 – November 8 - Sky & Telescope",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlcxVEctUGcyeUVKeVJlY0dUX0Rva0drLW5oYUl1ZWZQVHA2OEVtSFhONEZfZmxXTlhxYTZVTUdNeDJESW40TzdfZ1JWNEM3TmFhc2lwd19OVzRoM1l6WXV2cTJJQno5bmw1WmxvdnVkcTlDSlV0ampJZjZ3S09xSUFMZkJObFgta3FMUFUtUEdmdE5aU18wbVJXdGhfZmhJNnZRak94ZkNzV2M?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "L Catterton Backs InMobi-Backed Glance To Expand Its AI Shopping Business In US - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjNyendvVGwycDdJemE4OXVVNjM2c1VOM1Nwb0xrSTZVZktMQUw0U0VXcUdjSmtfUkFySkdab3pGZm1sQ0VOOVFaS1I2QksxNXR2ejhOWUNkVHJmUXFwYVRRMS0yZTlmU2VJY2xoU1h5N0RrbTB6cmVYY0lxRXRUUkxkSm8xeTJQWmZrRDVLRzRTaU9oSF9BckxsUEJmRnJlTVhhTmtB?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "o2d",
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -212885,14 +212927,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "greenhouse: rule score 59"
+    },
+    {
+     "at": "2026-11-22T22:21:08+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 61: qualified"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-22T22:21:08+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1726",

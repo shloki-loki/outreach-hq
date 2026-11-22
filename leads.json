@@ -222784,15 +222784,15 @@
    "key": "akamai|senior capacity planning manager|bengaluru",
    "type": "job",
    "company": "Akamai Technologies",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "akamai.com",
+   "company_url": "https://www.akamai.com",
    "company_linkedin": "https://www.linkedin.com/company/akamai-technologies",
    "company_note": "",
    "title": "Senior Capacity Planning Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4492421059",
    "source_url": "https://in.linkedin.com/jobs/view/senior-capacity-planning-manager-at-akamai-technologies-4492421059",
@@ -222808,7 +222808,7 @@
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Job Description\n Are you a business-oriented individual, experienced with providing predictive analytics and consulting on capacity planning?\n Would you enjoy an ability to make decisions that influence Akamai's strategic initiatives?\n Join our Capacity Planning team!\n Our Cloud Technology Group takes ownership for planning, building, maintaining and operating our global compute and storage platform. We design, develop and deploy critical technologies including the hardware, software and network infrastructure. This provides the technical underpinnings for all of Akamai's products.\n Create long-term forecasts and consult on methodologies across various stakeholders!\n In this role, you will lead capacity planning for Akamai's cloud infrastructure. You'll provide predictive analytics and strategic recommendations for resource optimization.\nAs a Senior Capacity Planning Manager, you will be responsible for:\n Developing and maintaining high-quality scalable time-series data source where all critical resource utilization metrics are aggregated and tracked.\n Analyzing historical and segmentation data to identify trends and insights to provide capacity plans for each workload\n Building views that provide insights into the usage, risk, and efficiency of resources for each business workload\n Designing, developing and maintaining scaled, automated systems, reports, dashboards, etc. that will support Akamai business needs\n Collaborating with internal teams to gain good understanding of workload nature and characterize for host deployment activities\n Participating in strategic & tactical planning discussions and cost optimization plans based on resource usage insights\n Do What You Love\n To be successful in this role you will:\n 5+ years of relevant experience and a Bachelor's degree in Computer Science or its equivalent\n Have significant experience in a capacity planning function, within a cloud environment\n Show ability to have impact on business results through statistical analysis of supply and demand alignment\n Possess exceptional analytical and quantitative capabilities with an ability to provide data-backed analysis\n Have experience working with both relational and non-relational database systems, complex SQL statements and MS Excel modeling\n Demonstrate great communication skills including ability to communicate complex quantitative analysis to both technical and non-technical audience\n Have ability to engage, influence, and build trusted relationships with stakeholders across various levels or geographies\n About Us\n At Akamai, we make life better for billions of people, trillions of times a day.\nWhether you're streaming live events, scrolling social media, watching your favorite series, or managing your savings, we're the engine behind the scenes. We provide the world's most distributed platform from Cloud to Edge to help the giants of the digital world work faster and stay more secure, making the internet a better experience for everyone.\n Our Focus ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -222823,8 +222823,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -222835,15 +222835,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Capacity Planning Manager at Akamai, but asks 5+ yrs cloud experience and CS degree you do not have.",
+    "fit_notes": "The posting asks for \"5+ years of relevant experience and a Bachelor's degree in Computer Science or its equivalent\" and \"significant experience in a capacity planning function, within a cloud environment\". Shlok has ~1.3 years of total experience in S&OP and supply chain at Ola Electric ([sop], [ceo-coo]), a B.Tech in Electrical and Electronics Engineering, and lacks the 5+ years of cloud capacity planning experience required.",
+    "pay_notes": "Pay not stated in the posting, and no salary evidence is available in the research results for this company.",
+    "culture_notes": "No ratings or culture flags found in the provided evidence. Akamai recently signed an $11.6 billion cloud deal with Anthropic [S3].",
+    "hook": "Akamai recently signed an $11.6 billion cloud deal with Anthropic, granting a warrant for up to a 5% stake.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc?oc=5",
+    "researched_at": "2026-11-22T13:03:25+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Critical Remote Code Execution Vulnerabilities in PHP Core - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkhLQTU0TWp5c0Y0MW96SkRqTFcyNzZqQVRFclJBclZNZHlFZGdrdzZ2anoydmU0Z0RuSE83UGdWZ05SbVIxTHJCa19CU3YzNDFqd1JXZVJRYm1OUkNlbEZ6OUVIUU1Kd1gwREtWT3U0RHdzazJSYThxbjczbklUMTI0QmcxMU9XYW1POTNwbkZXclV4MXBiamhibU5fd0M2VzlZ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "The New MCP Specification: What Security Teams Must Prepare For - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXhQaUo0QWtIX1ptSVNzU1c3OW9WZnllTUxkUmUzTzlqT3ZtSGlQSmcxVTE1YjAyNm45amt0aXBvWnVCUXRfOENuNHJUUmtXak1wdHNTczlRMWI4NWk3dHFtVVpGQjkzU2FrOFhlTlh0R0xhTmY0NnRJUGpQSzJ1eWtmZFNZeV9DTWxyVndqa29BZzQtMkdDSEJxQQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Akamai signs $11.6 billion cloud deal with Anthropic, grants warrant for up to 5% stake - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Understanding PHP2Shell: Everything You Need to Know - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZW1XcDhPckNPTDRHVHJPRWJNWjllU2hXMnNCS21JSnBOOGNENFk5czdEa0xHRVFNN2REdF8xN3hqWmE0aEx3am1TR2dpbTZNYnJwVl9jYklTQ3g2aWtPa3lSS0xNbUFmQTU4Q2hzU3poWDRXd29vd21NNWFtNHl5d1pjbFBDZ2NGMVdsaExmODBWVDNxbUgya0dkeWJ5UQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "How Akamai Defended an Indian Bank Against Record-Breaking DDoS Attacks - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZjZKSkxURzdoNkJ6ODg2Y1JhUFJVbVJzdENLcDU2VTdZdGZqdXd2Slo2eDg5TU9uOWowelRCVW1mWjV1SXJnVUNYM2t3d05xZlhPTkdZektiV3dsd3RLZDlVbDN1R0h6ZkJjQUJyRko0cklONW9vT0lqRWF4QUVqUnlqb0RQSWl5YkxqUlB2UG1iNUxFM05OOA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "CVE-2026-98432: A Remote Use-After-Free in the Linux Kernel’s TCP Stack - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWI2NHo0cjBRc3lyTlhrbnZmMVp2c0wwbjdPNF8yeWtzbUtHMk5qU0VCdFREOGhWd05lampOTDluM2dOSGpvcnRJamtUSU5xa1NaN2Q1Z1pTQkNLNW1zQUpWdUM5YWN4YS1fUXNybnZWZXdsUHhIbU94UWdXWmlaSFgtQTlYQ3BHT095Z3VZWjhTdlVHbUpxc1VsYw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -222867,14 +222905,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T13:03:25+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role asks for 5+ years of relevant experience and a Computer Science degree, whereas Shlok has ~1.3 years of experience in S&OP and a B.Tech in Electrical and Electronics Engineering.)"
     }
    ],
-   "updated_at": "2026-11-20T01:23:04+05:30",
+   "updated_at": "2026-11-22T13:03:25+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 5+ years of relevant experience and a Computer Science degree, whereas Shlok has ~1.3 years of experience in S&OP and a B.Tech in Electrical and Electronics Engineering."
   },
   {
    "id": "L1820",

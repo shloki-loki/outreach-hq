@@ -151,7 +151,7 @@
    "opened_at": "2026-11-15T01:51:13+05:30",
    "last_seen": "2026-11-17T01:01:00+05:30",
    "count": 14,
-   "remedy": "Cause: there is no Hunter key. In .env HUNTER_API_KEY is empty (only a comment), and the GitHub secret holds just the comment text, so the URL has api_key='       # hunter.io: free finder + verifier credits each month' and Hunter returns 401. Remedy: either add a real Hunter key (bare value, in .env and as the GitHub secret) or delete the HUNTER_API_KEY secret so the finder skips Hunter instead of failing; also redact api_key in error text as for I0010.",
+   "remedy": "PR 17 treats a secret holding only a comment as no key, so Hunter is skipped. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
    "resolved_at": null
   },
   {

@@ -6947,6 +6947,15 @@
    "title": "Diagnosis: reoon verification call failed",
    "detail": "PR 17 ignores a # comment pasted into a key secret and masks keys in errors. The key still needs rotating (I0025). Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
    "ref": "I0010"
+  },
+  {
+   "id": "J0773",
+   "at": "2026-11-22T22:20:38+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: hunter verification call failed",
+   "detail": "PR 17 treats a secret holding only a comment as no key, so Hunter is skipped. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
+   "ref": "I0011"
   }
  ]
 }

@@ -7181,6 +7181,15 @@
    "title": "Template founder-v2: 34 emails queued",
    "detail": "1665 addresses left after today; refused 0",
    "ref": "M0373"
+  },
+  {
+   "id": "J0799",
+   "at": "2026-11-23T00:05:45+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 60 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

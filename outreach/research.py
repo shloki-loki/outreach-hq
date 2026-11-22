@@ -30,7 +30,7 @@ from typing import Any
 from . import live, llm, store
 from .rules import parse_experience, parse_pay, pay_fit
 from .sources import linkedin
-from .util import CONFIG_DIR, HttpError, clip, http_get, load_config, now_iso, strip_html, today
+from .util import CONFIG_DIR, HttpError, clip, http_get, load_config, now_iso, redact, strip_html, today
 
 PROMPTS = CONFIG_DIR / "prompts"
 PAY_SITES = ("ambitionbox", "glassdoor", "levels.fyi", "levels", "naukri", "weekday", "instahyre", "grapevine",
@@ -415,7 +415,7 @@ def run(limit: int = 25, ids: list[str] | None = None) -> dict[str, Any]:
         return {**stats, "skipped": "GEMINI_API_KEY is not set"}
     models = pick_models()
     leads = queue(limit) if not ids else [l for l in store.load("leads")["leads"] if l["id"] in ids]
-    stopped = ""
+    stopped = first_error = ""
     for lead in leads:
         try:
             outcome = research_one(lead, models)
@@ -424,6 +424,7 @@ def run(limit: int = 25, ids: list[str] | None = None) -> dict[str, Any]:
             break
         except (llm.LlmError, HttpError, ValueError, KeyError) as exc:
             stats["errors"] += 1
+            first_error = first_error or redact(" ".join(str(exc).split())[:160])
             _note_attempt(lead["id"], f"error: {exc}")
             continue
         if outcome.get("closed"):
@@ -447,9 +448,14 @@ def run(limit: int = 25, ids: list[str] | None = None) -> dict[str, Any]:
             stats["qualified" if result["stage"] == "qualified" else "rejected"] += 1
     summary = (f"{stats['researched']} researched ({stats['qualified']} qualified, {stats['rejected']} rejected), "
                f"{stats['binned']} closed postings binned, {stats['left_for_a_person']} left for a person")
+    if first_error:
+        summary += f", {stats['errors']} errors (first: {first_error})"
     if stopped:
         summary += f"; stopped early: {stopped}"
-    store.log_run("research-worker", stats["errors"] == 0, summary, {**stats, "models": models})
+    # A busy free model fails a few leads on most runs and they stay queued; a quarter or more is a failed run.
+    attempted = sum(stats[k] for k in ("researched", "binned", "left_for_a_person", "errors"))
+    failed = stats["errors"] > 0 and stats["errors"] * 4 >= attempted
+    store.log_run("research-worker", not failed, summary, {**stats, "models": models})
     return {**stats, "models": models, "stopped": stopped}
 
 

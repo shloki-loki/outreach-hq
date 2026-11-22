@@ -173,7 +173,9 @@ class Quota:
         return f"{provider}:{today() if period == 'day' else today()[:7]}"
 
     def key(self, provider: str) -> str | None:
-        return os.environ.get(self.cfg.get(provider, {}).get("env", "")) or None
+        raw = os.environ.get(self.cfg.get(provider, {}).get("env", "")) or ""
+        value = re.split(r"\s+#", raw.strip())[0]  # a secret pasted from .env.example carries its comment
+        return None if not value or value.startswith("#") else value
 
     def available(self, provider: str) -> bool:
         if provider not in self.cfg or not self.key(provider):

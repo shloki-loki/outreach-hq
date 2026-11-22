@@ -78,9 +78,17 @@ def load_env() -> None:
             os.environ[key.strip()] = value
 
 
+SECRET_PARAM = re.compile(r"\b(api_?key|key|token|secret|password)=(?!\[masked\])[^&\s\"']+", re.I)
+
+
+def redact(text: str) -> str:
+    """Mask credentials carried in URLs, so none is stored in an issue, a log or a printed error."""
+    return SECRET_PARAM.sub(r"\1=[masked]", text)
+
+
 class HttpError(Exception):
     def __init__(self, status: int, url: str, body: str = ""):
-        super().__init__(f"HTTP {status} for {url}")
+        super().__init__(redact(f"HTTP {status} for {url}"))
         self.status, self.url, self.body = status, url, body
 
 

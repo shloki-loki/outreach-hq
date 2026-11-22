@@ -6875,6 +6875,15 @@
    "title": "Solved: Run ended before the 12-lead budget",
    "detail": "All 7 leads it named (L1569 L1562 L1564 L0220 L0221 L1546 L1599) are researched as of 22 Nov.",
    "ref": "I0018"
+  },
+  {
+   "id": "J0765",
+   "at": "2026-11-22T22:20:12+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: Drafts waiting: 8 cold drafts unapproved, oldest M0016 since 15 Nov",
+   "detail": "0 drafts wait; M0016-M0023 were all sent (1 replied).",
+   "ref": "I0019"
   }
  ]
 }

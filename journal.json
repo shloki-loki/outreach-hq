@@ -6983,6 +6983,15 @@
    "title": "Diagnosis: Bounce rate 6.5% (6 of 92), 6 bounces on 20 Nov",
    "detail": "Corrected cause: these are not guessed addresses. 11 of the 13 bounces are founder-list addresses imported as verified from an earlier check with unknown method and date (11 of 181 first emails, 6.1%). Every queued email has that same grade, so holding guesses would not help. Shlok to decide: pause the founder campaign until the list is re-checked, or carry on over the 5% limit.",
    "ref": "I0028"
+  },
+  {
+   "id": "J0777",
+   "at": "2026-11-22T22:20:55+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Bounce rate 5.9% (9 of 153), 2 more bounces on 21 Nov",
+   "detail": "Corrected cause: these are not guessed addresses. 11 of the 13 bounces are founder-list addresses imported as verified from an earlier check with unknown method and date (11 of 181 first emails, 6.1%). Every queued email has that same grade, so holding guesses would not help. Shlok to decide: pause the founder campaign until the list is re-checked, or carry on over the 5% limit.",
+   "ref": "I0040"
   }
  ]
 }

@@ -7019,6 +7019,15 @@
    "title": "Agent Leads and Cold Emails deployed to production",
    "detail": "Deployed main 84341b7 from Vercel's dashboard at 22:13 IST on Shlok's instruction. /cold-mails went from 404 to the login redirect. Pages not seen on production (password); the same web code was rendered locally on real data.",
    "ref": "84341b7"
+  },
+  {
+   "id": "J0781",
+   "at": "2026-11-22T22:21:12+05:30",
+   "by": "claude",
+   "kind": "fix",
+   "title": "Reliability fixes ready for review (PR 17), stale issues closed",
+   "detail": "PR 17: IMAP timeout, locked sync (stops a possible double send), fetch retry, masked keys, comment-tolerant secrets, honest research failure flag. Not live until merged. Closed 14 stale or already-fixed issues and 3 finished work items, and corrected the bounce cause.",
+   "ref": "PR 17"
   }
  ]
 }

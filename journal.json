@@ -6857,6 +6857,15 @@
    "title": "Work W0008: done",
    "detail": "Shipped in PR 4 and PR 6, on main. The GitHub research worker runs daily, 30 researched on 22 Nov 13:06.",
    "ref": "b4831bb"
+  },
+  {
+   "id": "J0763",
+   "at": "2026-11-22T22:20:05+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: Work items W0006-W0008 left in working after the work shipped",
+   "detail": "W0006-W0008 marked done on 22 Nov with PR 4 and PR 6 as evidence (both on main), so their expired-claim alerts are gone.",
+   "ref": "I0014"
   }
  ]
 }

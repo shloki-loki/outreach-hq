@@ -37740,7 +37740,7 @@
    "key": "enerjazz|business operations manager|india",
    "type": "job",
    "company": "Enerjazz",
-   "company_domain": "",
+   "company_domain": "enerjazz.tech",
    "company_url": "https://www.enerjazz.tech/",
    "company_linkedin": "https://www.linkedin.com/company/18545573/admin/",
    "company_note": "YC Summer 2021 · team of 9 · Making electric vehicle batteries affordable",
@@ -37748,7 +37748,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Noida, UP, IN / DL, IN / Delhi, IN",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "enerjazz:83475",
    "source_url": "https://www.ycombinator.com/companies/enerjazz/jobs/UgKpTWj-business-operations-manager",
@@ -37779,8 +37779,8 @@
    },
    "score": {
     "rules": 58,
-    "research": null,
-    "total": 58,
+    "research": 25,
+    "total": 38,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -37789,15 +37789,32 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Ops Manager at Enerjazz (YC S21, Noida), asks 4-8 yrs exp and pays ₹6-12 LPA, well below target.",
+    "fit_notes": "Posting requires '4–8 years of hardcore execution/ops experience in EV, logistics, lending, mobility'. Shlok has ~1.3 years of experience, so requiring 4+ years is a hard reject. While his EV ops experience at Ola Electric ([sop], [ceo-coo], [msl]) aligns with the domain, the role is an over-experience requirement on-site in Noida/Delhi.",
+    "pay_notes": "Posting header lists ₹600K - ₹1.2M INR (₹6–12 LPA), which is well below the ₹15 LPA floor and ₹24.5 LPA target.",
+    "culture_notes": "YC S21 startup with a team of 9. High-tempo environment requiring field visits and fast execution directly under the founder. No Glassdoor ratings found.",
+    "hook": "Enerjazz's mission to enable clean, reliable last-mile transport by making battery access frictionless for India's e-rickshaw drivers.",
+    "hook_source": "https://www.ycombinator.com/companies/enerjazz/jobs/UgKpTWj-business-operations-manager",
+    "researched_at": "2026-11-22T22:29:17+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Enerjazz website",
+      "url": "https://www.enerjazz.tech/"
+     }
+    ],
+    "matched_facts": [
+     "msl",
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -37835,14 +37852,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 58"
+    },
+    {
+     "at": "2026-11-22T22:29:17+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 38: rejected (Role requires 4–8 years of hardcore execution/ops experience (exceeds 4-year max), pays ₹6–12 LPA (far below ₹24.5 LPA target and ₹15 LPA floor), and is on-site in Delhi NCR.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T22:29:17+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role requires 4–8 years of hardcore execution/ops experience (exceeds 4-year max), pays ₹6–12 LPA (far below ₹24.5 LPA target and ₹15 LPA floor), and is on-site in Delhi NCR."
   },
   {
    "id": "L0291",

@@ -6362,6 +6362,15 @@
    "title": "Mac sender hung since 08:50 on 22 Nov: IMAP read has no timeout",
    "detail": "PID 68095 (outreach cycle) is blocked in an SSL read on Gmail IMAP port 993 after the Mac slept. mailbox.py opens IMAP4_SSL without a timeout, and launchd will not start another run while this one lives, so the Mac sender is stopped. GitHub's cycle still sends now and then. Not restarted: awaiting Shlok.",
    "ref": "I0043"
+  },
+  {
+   "id": "J0708",
+   "at": "2026-11-22T18:51:37+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "Data-branch commits create blocked Vercel deployments",
+   "detail": "web/vercel.json disables deploys for the data branch, but that branch has no such file and its commits (482 on 21 Nov) still get Vercel deployment attempts. Hobby allows 100 a day; main 8ee05cc failed on 21 Nov with 'Deployment rate limited'. The link between the two is likely, not proven.",
+   "ref": "I0044"
   }
  ]
 }

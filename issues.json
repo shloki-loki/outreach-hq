@@ -601,6 +601,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0044",
+   "key": "supervisor:Data-branch commits create blocked Vercel deployments",
+   "agent": "supervisor",
+   "severity": "warn",
+   "title": "Data-branch commits create blocked Vercel deployments",
+   "detail": "web/vercel.json disables deploys for the data branch, but that branch has no such file and its commits (482 on 21 Nov) still get Vercel deployment attempts. Hobby allows 100 a day; main 8ee05cc failed on 21 Nov with 'Deployment rate limited'. The link between the two is likely, not proven.",
+   "status": "open",
+   "opened_at": "2026-11-22T18:51:37+05:30",
+   "last_seen": "2026-11-22T18:51:37+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

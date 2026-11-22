@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-19T00:39:52+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 10 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 10
-   }
-  },
-  {
    "at": "2026-11-19T01:15:03+05:30",
    "agent": "lead-scout/scrape",
    "ok": true,
@@ -3506,6 +3493,16 @@
    "stats": {
     "sent": 10,
     "failed": 0
+   }
+  },
+  {
+   "at": "2026-11-22T17:02:03+05:30",
+   "agent": "supervisor/check",
+   "ok": false,
+   "summary": "M0109: failed; needs investigation; M0110: failed; needs investigation; M0111: failed; needs investigation; M0112: failed; needs investigation; M0113: failed; needs investigation; M0114: failed; needs investigation; M0115: failed; needs investigation; M0116: failed; needs investigation; M0117: failed; needs investigation; M0118: failed; needs investigation; M0119: failed; needs investigation; W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
+   "stats": {
+    "alerts": 14,
+    "open_work": 172
    }
   }
  ]

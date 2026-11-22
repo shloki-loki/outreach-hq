@@ -175095,15 +175095,15 @@
    "key": "greenwayhealth|business analyst pmo|bengaluru",
    "type": "job",
    "company": "Greenway Health",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "greenwayhealth.com",
+   "company_url": "https://www.greenwayhealth.com",
    "company_linkedin": "https://www.linkedin.com/company/greenway-health",
    "company_note": "",
    "title": "Business Analyst, PMO",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4481273090",
    "source_url": "https://in.linkedin.com/jobs/view/business-analyst-pmo-at-greenway-health-4481273090",
@@ -175139,8 +175139,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 35,
+    "total": 43,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -175150,15 +175150,38 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Analyst PMO at Greenway Health in Bengaluru; unstated pay, requires release-governance workflows unrelated to your supply-chain background.",
+    "fit_notes": "The posting asks for a Business Analyst in the PMO to 'own the planning and governance layer of the release lifecycle - master release calendars, deployment scope, cut-over coordination, readiness reviews'. Experience is not stated. Shlok has no software release governance or PMO background; his experience is in supply chain, S&OP, and inventory planning ([sop], [ceo-coo]), which does not map to software release management.",
+    "pay_notes": "No pay is stated in the posting, and the evidence fetched contains no salary figures for Greenway Health.",
+    "culture_notes": "Ratings, review counts, and specific culture flags were not found in the search evidence.",
+    "hook": "Greenway Health recently launched Novare, an AI-native platform designed to carry patient context from first appointment to final payment [S2].",
+    "hook_source": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQeEZva0F0b0g2WHBHN3ZOOFM2a0RVT2FGd2ZGc3J3NHNXTy1Jdmh0SE1waHpERGo0UmQ1NWlFZXZhbjRvQjhFYjFOSzVtZUJZTzNkaFpWOXFocnljM1Q4czE4ZmtiZkVLbzJYZ0FmMmNRTVZrQUJ4ZjhYRVIwaUFlVFkwUldKWTUzZVhTbUNmWVR3Ymd5cVg1LXdDbkhhcFlGbVdLX2xBUTlRdXpqREdUSFd2RFFtS3o5LUhINVh6YUhGWmZNQ08ya3VBczBmVmg3Qnk4TVJhZzhLSm11YnFhVy1sdDJmRGV0cGZLZzc1Q2lGYkktTTR4OUJCV2RDcVJoVmoxaWpMRnlwQy1jT3pHOGtn?oc=5",
+    "researched_at": "2026-11-22T22:34:15+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Vivos Therapeutics Expands Greenway Health Partnership to Deploy AI-Enabled Platform Across All Clinical and Revenue Operations - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdi0tYmJxVzZIYXFtV2NGdXlOVlkxUXRETUIyUW1RTUtUYjFaYV9sekpXajlGYTgxSXVfbWxXbFRMajh3VUcyT3RnUGg3R0E1T2FoTkpJN19vazZHRUhEdGxLcU9Fc1FkMnBqZHlheElzRUZ6QkFlQkhBMVZ2eHdKM01ZZ0lpaTloMGNMZVZxNTFsRElFUlhKVUhMWUlybWhaaDdnYk9B?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Greenway Health's Novare™, an AI-Native Platform That Carries Patient Context From First Appointment to Final Payment, Now Available - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQeEZva0F0b0g2WHBHN3ZOOFM2a0RVT2FGd2ZGc3J3NHNXTy1Jdmh0SE1waHpERGo0UmQ1NWlFZXZhbjRvQjhFYjFOSzVtZUJZTzNkaFpWOXFocnljM1Q4czE4ZmtiZkVLbzJYZ0FmMmNRTVZrQUJ4ZjhYRVIwaUFlVFkwUldKWTUzZVhTbUNmWVR3Ymd5cVg1LXdDbkhhcFlGbVdLX2xBUTlRdXpqREdUSFd2RFFtS3o5LUhINVh6YUhGWmZNQ08ya3VBczBmVmg3Qnk4TVJhZzhLSm11YnFhVy1sdDJmRGV0cGZLZzc1Q2lGYkktTTR4OUJCV2RDcVJoVmoxaWpMRnlwQy1jT3pHOGtn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Richard Atkin - Chief Executive Officer, Greenway Health - yespress.io",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lU21UTHNtZTBZS3lXclVBaThXRHBmMndQRTlubk5jb21QZlFOb2xQRTFnM0JOamE2TVJncG9ZYTY4aVFfNjJ0Mg?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -175182,14 +175205,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 56"
+    },
+    {
+     "at": "2026-11-22T22:34:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 43: rejected (Pay is unstated and unknown, the role is a release-governance/PMO analyst position requiring software release workflows that do not match his supply chain and S&OP background, and Greenway Health provides no salary evidence to meet Shlok's Rs 24.5 LPA floor.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-22T22:34:15+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Pay is unstated and unknown, the role is a release-governance/PMO analyst position requiring software release workflows that do not match his supply chain and S&OP background, and Greenway Health provides no salary evidence to meet Shlok's Rs 24.5 LPA floor."
   },
   {
    "id": "L1398",

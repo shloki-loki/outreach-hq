@@ -6083,6 +6083,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 60 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J0677",
+   "at": "2026-11-22T06:11:44+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 60 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

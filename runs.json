@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-17T22:02:09+05:30",
-   "agent": "founder-emails/claude",
-   "ok": true,
-   "summary": "0 drafted, 1 rejected, 59 left queued (git data sync slow/flaky; stopped after first item)",
-   "stats": {}
-  },
-  {
    "at": "2026-11-17T23:41:01+05:30",
    "agent": "research-worker",
    "ok": false,
@@ -3590,6 +3583,13 @@
   },
   {
    "at": "2026-11-22T05:56:40+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
+   "stats": {}
+  },
+  {
+   "at": "2026-11-22T06:11:44+05:30",
    "agent": "send-track/send",
    "ok": true,
    "summary": "outside the sending window; 60 approved email(s) wait for the next run",

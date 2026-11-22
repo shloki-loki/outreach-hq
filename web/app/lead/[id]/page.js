@@ -11,6 +11,7 @@ import { requireSignIn } from '@/lib/auth';
 import { loadBoard } from '@/lib/data';
 import { sendingMode } from '@/lib/store';
 import { EMAIL_BADGE, SOURCE_LABEL, STATUS, formatDate, formatDateTime } from '@/lib/status';
+import { TRACKS, trackOf } from '@/lib/tracks';
 
 export const dynamic = 'force-dynamic';
 
@@ -32,6 +33,7 @@ export default async function LeadPage({ params }) {
   if (!lead) notFound();
   const toApprove = leads.reduce((sum, item) => sum + item.messages.filter((m) => m.status === 'draft').length, 0);
   const status = STATUS[lead.status];
+  const track = TRACKS[trackOf(lead)];
   const messages = [...lead.messages].sort((a, b) => (a.created_at < b.created_at ? -1 : 1));
   const referrals = lead.referrals || [];
   const companyName = (lead.company || '').replace(/\(.*?\)/g, '').trim();
@@ -41,9 +43,9 @@ export default async function LeadPage({ params }) {
 
   return (
     <>
-      <TopBar current={lead.type === 'company' ? '/cold-mails' : '/'} toApprove={toApprove} />
+      <TopBar current={track.href} toApprove={toApprove} />
       <main>
-        <Link href={lead.type === 'company' ? '/cold-mails' : '/'} className="back">← {lead.type === 'company' ? 'Cold Mails' : 'All leads'}</Link>
+        <Link href={track.href} className="back">← {track.label}</Link>
         <div className="page-head" style={{ paddingTop: 18 }}>
           <div className="button-row" style={{ marginBottom: 12 }}>
             <span className={`pill tone-${status.tone}`}>{status.label}</span>

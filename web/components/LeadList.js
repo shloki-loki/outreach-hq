@@ -19,17 +19,34 @@ const VIEWS = [
   { id: 'all', label: 'All', test: () => true },
 ];
 
+// Both tracks have these, so every results tile opens the rows behind its number.
+const RESULT_VIEWS = [
+  { id: 'replies', label: 'Replies', test: (s, r) => r.replies > 0 },
+  { id: 'interviews', label: 'Interviews', test: (s, r) => r.interviewed },
+  { id: 'offers', label: 'Offers', test: (s, r) => r.offered },
+  { id: 'bounced', label: 'Bounced', test: (s, r) => r.messageStatuses.includes('bounced') },
+];
+
+// Reached from the tiles; they only get a chip while open, to keep the filter row short.
+const LINKED_VIEWS = [
+  { id: 'emailed', label: 'Emailed', test: (s, r) => r.messageStatuses.some((status) => ['sent', 'replied', 'bounced'].includes(status)) },
+  { id: 'followups', label: 'Follow-ups due', test: (s, r) => r.followupDue },
+  { id: 'applied', label: 'Applied', test: (s, r) => r.appliedAt },
+  ...RESULT_VIEWS,
+];
+
 const COLD_MAIL_VIEWS = [
   { id: 'all', label: 'All', test: () => true },
   { id: 'drafts', label: 'Drafts', test: (s, r) => r.messageStatuses.includes('draft') },
   { id: 'queued', label: 'Queued', test: (s, r) => r.messageStatuses.some((status) => ['approved', 'sending'].includes(status)) },
   { id: 'sent', label: 'Sent', test: (s, r) => r.messageStatuses.some((status) => ['sent', 'replied', 'bounced'].includes(status)) },
   { id: 'followups', label: 'Follow-ups due', test: (s, r) => r.followupDue },
-  { id: 'replies', label: 'Replies', test: (s, r) => s === 'replied' || r.messageStatuses.includes('replied') },
+  ...RESULT_VIEWS,
 ];
 
 export default function LeadList({ rows, initialView = 'play', coldMails = false }) {
-  const views = coldMails ? COLD_MAIL_VIEWS : VIEWS;
+  const views = useMemo(() => (coldMails ? COLD_MAIL_VIEWS
+    : [...VIEWS, ...LINKED_VIEWS.filter((v) => v.id === initialView)]), [coldMails, initialView]);
   const [view, setView] = useState(initialView);
   const [query, setQuery] = useState('');
   const [applied, setApplied] = useState(() => new Set());
@@ -74,12 +91,15 @@ export default function LeadList({ rows, initialView = 'play', coldMails = false
       </div>
       <p role="status" aria-live="polite" className="muted">{status}</p>
       {shown.length === 0 ? (
-        <p className="empty">No leads in this view{query ? ' match that search' : ''}.</p>
+        <p className="empty">{coldMails ? 'No companies' : 'No leads'} in this view{query ? ' match that search' : ''}.</p>
       ) : (
         <ul className="leads">
           {shown.map((r) => coldMails ? (
             <li key={r.id} className={`lead s-${r.status}`}>
-              <h3><Link href={`/lead/${r.id}`}>{r.company}</Link></h3>
+              <div>
+                <h3><Link href={`/lead/${r.id}`}>{r.company}</Link></h3>
+                {r.note ? <p className="lead-note">{r.note}</p> : null}
+              </div>
               <span className={`pill tone-${r.tone}`}>{r.statusLabel}</span>
             </li>
           ) : (
@@ -93,6 +113,7 @@ export default function LeadList({ rows, initialView = 'play', coldMails = false
                   <span className="tag">{r.location || 'Location not stated'}</span>
                   <span className={`pill tone-${r.address.tone}`}>{r.address.label}</span>
                   {r.connections ? <span className="pill tone-done">{r.connections} connection{r.connections > 1 ? 's' : ''} there</span> : null}
+                  {r.noOpening ? <span className="tag">No opening</span> : null}
                   {r.applied ? <span className="tag">Applied</span> : null}
                   {r.open === false ? <span className="tag warn-tag">{r.binned ? 'In the Bin' : 'Posting closed'}</span> : null}
                   {r.machine ? <span className="tag" title="Researched on GitHub by the free model">Free-model research</span> : null}

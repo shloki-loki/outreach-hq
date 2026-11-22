@@ -6,6 +6,7 @@ import { requireSignIn } from '@/lib/auth';
 import { loadBoard } from '@/lib/data';
 import { sendingMode } from '@/lib/store';
 import { EMAIL_BADGE } from '@/lib/status';
+import { trackOf } from '@/lib/tracks';
 
 export const dynamic = 'force-dynamic';
 
@@ -15,11 +16,11 @@ export default async function ApprovalsPage({ searchParams }) {
   const { view } = await searchParams;
   const filters = [
     { id: 'all', label: 'All mail', href: '/approvals' },
-    { id: 'jobs', label: 'Job outreach', href: '/approvals?view=jobs' },
-    { id: 'cold', label: 'Cold Mails', href: '/approvals?view=cold' },
+    { id: 'jobs', label: 'Agent Leads', href: '/approvals?view=jobs' },
+    { id: 'cold', label: 'Cold Emails', href: '/approvals?view=cold' },
   ];
   const active = filters.find((filter) => filter.id === view)?.id || 'all';
-  const matches = (lead) => active === 'all' || (active === 'cold' ? lead?.type === 'company' : Boolean(lead) && lead.type !== 'company');
+  const matches = (lead) => active === 'all' || (Boolean(lead) && trackOf(lead) === active);
   const leadById = Object.fromEntries(leads.map((lead) => [lead.id, lead]));
   const label = (message) => {
     const lead = leadById[message.lead_id];
@@ -35,7 +36,7 @@ export default async function ApprovalsPage({ searchParams }) {
   const trouble = [...by('failed'), ...by('sending')];
   const followDue = leads.filter((lead) => lead.followup?.due && matches(lead));
   const today = new Date(Date.now() + 5.5 * 3600 * 1000).toISOString().slice(0, 10);
-  const sentToday = messages.filter((m) => (m.sent_at || '').startsWith(today)).length;
+  const sentToday = messages.filter((m) => (m.sent_at || '').startsWith(today) && matches(leadById[m.lead_id])).length;
 
   return (
     <>
@@ -43,7 +44,7 @@ export default async function ApprovalsPage({ searchParams }) {
       <main>
         <div className="page-head">
           <h1>Approvals</h1>
-          <p>Review drafts and check the send queue. {sentToday} sent today across all mail.</p>
+          <p>Review drafts and check the send queue. {sentToday} sent today{active === 'all' ? ' across both tracks' : ` in ${filters.find((f) => f.id === active).label}`}.</p>
         </div>
         <nav className="chips" aria-label="Filter approvals">
           {filters.map((filter) => (

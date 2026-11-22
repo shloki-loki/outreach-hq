@@ -37605,7 +37605,7 @@
    "key": "enerjazz|chief of staff|india",
    "type": "job",
    "company": "Enerjazz",
-   "company_domain": "",
+   "company_domain": "enerjazz.tech",
    "company_url": "https://www.enerjazz.tech/",
    "company_linkedin": "https://www.linkedin.com/company/18545573/admin/",
    "company_note": "YC Summer 2021 · team of 9 · Making electric vehicle batteries affordable",
@@ -37613,7 +37613,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "DL, IN / Delhi, IN",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "enerjazz:83448",
    "source_url": "https://www.ycombinator.com/companies/enerjazz/jobs/5TwCHOD-chief-of-staff",
@@ -37644,8 +37644,8 @@
    },
    "score": {
     "rules": 58,
-    "research": null,
-    "total": 58,
+    "research": 40,
+    "total": 47,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -37654,15 +37654,33 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Chief of Staff at Enerjazz (YC S21); asks 4–8 yrs exp and Delhi field presence; exceeds your 1.3 yrs exp.",
+    "fit_notes": "Posting asks for 4–8 years of experience in operations, sales execution, or business management roles, based in Delhi NCR (field-heavy). Shlok's experience working directly with C-suite at Ola Electric [ceo-coo, sop, msl] aligns well with the founder's execution focus, but 4–8 years is beyond his 1.3 years profile.",
+    "pay_notes": "No verified fixed pay figure available. The target fixed pay requirement of Rs 24.5 LPA cannot be confirmed.",
+    "culture_notes": "YC S21 startup with a small team of 9. No Glassdoor or AmbitionBox ratings found.",
+    "hook": "Enerjazz is building a battery swapping network for 2M+ commercial electric vehicles in India.",
+    "hook_source": "https://www.enerjazz.tech/",
+    "researched_at": "2026-11-22T22:28:01+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Enerjazz website",
+      "url": "https://www.enerjazz.tech/"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop",
+     "msl",
+     "o2d"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -37700,14 +37718,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 58"
+    },
+    {
+     "at": "2026-11-22T22:28:01+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (Posting requires 4–8 years of experience in operations (exceeds Shlok's 1.3 yrs; >4 yrs is a reject) and requires onsite field presence in Delhi NCR.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T22:28:01+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Posting requires 4–8 years of experience in operations (exceeds Shlok's 1.3 yrs; >4 yrs is a reject) and requires onsite field presence in Delhi NCR."
   },
   {
    "id": "L0290",

@@ -6929,6 +6929,15 @@
    "title": "Diagnosis: git fetch of data branch fails intermittently (exit 128)",
    "detail": "PR 17 tries a failed fetch 3 times and makes sync take the store lock. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
    "ref": "I0015"
+  },
+  {
+   "id": "J0771",
+   "at": "2026-11-22T22:20:32+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: send-track 21 Nov: no draftable leads, recheck crashed",
+   "detail": "Root cause found and reproduced: store.sync ran git reset --hard without the store lock, under another command's write. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
+   "ref": "I0038"
   }
  ]
 }

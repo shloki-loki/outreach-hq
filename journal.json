@@ -6866,6 +6866,15 @@
    "title": "Solved: Work items W0006-W0008 left in working after the work shipped",
    "detail": "W0006-W0008 marked done on 22 Nov with PR 4 and PR 6 as evidence (both on main), so their expired-claim alerts are gone.",
    "ref": "I0014"
+  },
+  {
+   "id": "J0764",
+   "at": "2026-11-22T22:20:08+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: Run ended before the 12-lead budget",
+   "detail": "All 7 leads it named (L1569 L1562 L1564 L0220 L0221 L1546 L1599) are researched as of 22 Nov.",
+   "ref": "I0018"
   }
  ]
 }

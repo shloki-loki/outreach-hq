@@ -226619,7 +226619,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491915934",
    "source_url": "https://in.linkedin.com/jobs/view/senior-program-manager-%E2%80%93-women-s-economic-empowerment-wee-bengaluru-at-ground-zero-4491915934",
@@ -226635,23 +226635,23 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "About the job Senior Program Manager – Women's Economic Empowerment (WEE), Bengaluru\n Job Title: Senior Program Manager – Women's Economic Empowerment (WEE)\n Location: Bengaluru\n Experience: 10+ years\n Salary : 18 - 20 LPA\n__________________________________________________________________\n About the Role This is a problem-solving and program leadership role focused on shaping and delivering high-impact initiatives in Women's Economic Empowerment (WEE). Rather than standard administration, the position demands a strong understanding of market ecosystems and the ability to translate knowledge into clear strategies, practical interventions, strategic partnerships, and measurable outcomes. The role bridges strategy and execution—identifying structural barriers, designing solutions, leading teams, and managing cross-sector partnerships to drive scalable economic participation, market access, and enterprise growth for women.\n Key Responsibilities 1. Strategic Problem Solving & Portfolio Development (25%)\n Identify structural barriers, emerging opportunities, and practical pathways to increase women's economic participation, incomes, enterprise growth, and agency. \n Lead structured problem-solving around complex market challenges and translate sector insights into clear, evidence-informed program strategies. \n Develop hypotheses and operational frameworks that can be tested, refined, and scaled across diverse geographies. \n Independently own strategic workstreams from problem definition through to implementation, learning, and scale. \n 2. Program Design, Leadership & Execution (25%)\n Lead the end-to-end design and delivery of multi-stakeholder WEE programs across multiple regions. \n Establish work plans, milestones, budgets, governance structures, quality assurance, and risk management systems. \n Conduct regular program reviews using data and field insights to course-correct and ensure focus remains on measurable outcomes rather than outputs alone. \n Ensure execution discipline, timely delivery against commitments, and operational scalability. \n 3. Ecosystem Leadership & Partnerships (20%)\n Maintain deep expertise in WEE, women's entrepreneurship, livelihoods, market systems, financial inclusion, and producer collectives (FPOs/SHGs). \n Build and manage strategic relationships across government entities, funders, corporate partners, financial institutions, and grassroots organizations. \n Identify synergies among ecosystem actors to unlock capital, markets, technology, networks, and scale for women-led enterprises. \n Represent the organization in sector convenings, consultations, and strategic forums.\n 4. Team Management & People Leadership (15%)\n Direct, mentor, and build a high-performing program team with clear accountabilities and goals.\n Foster a culture of ownership, accountability, psychological safety, and continuous learning.\n Delegate effectively while maintaining oversight of quality, timelines, and outcomes.\n Coach team members and build a str",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
    "stretch": true,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "18 - 20 LPA",
+    "min_lpa": 18.0,
+    "max_lpa": 20.0,
+    "basis": "stated",
+    "source": "https://in.linkedin.com/jobs/view/senior-program-manager-%E2%80%93-women-s-economic-empowerment-wee-bengaluru-at-ground-zero-4491915934",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 10,
+    "total": 30,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -226662,15 +226662,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Senior Program Manager at Ground Zero, but asks 10+ years experience and 18-20 LPA pay below your minimum.",
+    "fit_notes": "The posting asks for '10+ years of progressive experience in program leadership' and a postgraduate degree. It pays '18 - 20 LPA', which is below Shlok's Rs 24.5 LPA requirement. While Shlok has strong operational execution experience like [sop] and [ceo-coo], the senior leadership level and 10+ year requirement make this a clear mismatch.",
+    "pay_notes": "Stated salary is 18 - 20 LPA, which falls short of Shlok's Rs 24.5 LPA requirement.",
+    "culture_notes": "Company ratings, headcount, and stage funding were not found in the evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T13:04:45+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "The Pacific Is Ground Zero for Deep-Sea Mining - CSIS | Center for Strategic and International Studies",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EaHE1ZWdUUkRXMzJzZENGTEh0T1ZMTWh2WVZienJUZzhnanAtb3BDUDZvcnhUTlloYVh1X3hWRUpTbGRDS0gycldfNEpGMUlSc0p3ajdnb3hMb2pZR1ZQQ1I4VzA2WnVEY0lxSXhHZ1JIdVU?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Ground Zero Plus 25 - N+1",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOOWVXSXNLLVdmUFpZZGQtNnNfNFFjRUlfSVV4YWNYRjFXbmdxNFd5WGZ0UlVqRXB2ZnI3dDNfZHlvNmhSaTdrSXRrVTd6dkFsRUtHV2cxNGlmVEx0RDBSNmV4cXNlRlptdXhSbkJYSmQtTG5Cb1E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "I Was at Ground Zero—The Thing I Remember Most Is a Plate of Rigatoni - Narratively",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YVXpGYlpydlhLalktbGt5cy1UaTB1TldGRU1paEs2Z1RxZzdhTnlYeVJRVkNVRGF2Vl9BTjRxeTJqV2VLOEZpMENjY3pHNV9KVDljdVpidzVybWNuMTY1RDVxRVE5d3BxQURRODVOUENqSXJ4?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Istanbul, ground zero for IBA phygital boxing - Inside The Games",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3E4MlhLbnV6THR0NGwtVDFjLWFCX0ZlbFZObl8tQ0RjdTQ3YTE0am9aVFBzRW1YQS02enYzZjR4VDhXU2hoM2tVWk90UklYWDBpb0FnWl9QczJrbjUySmZHczBwdERhdzhBbXpIT3hjY3BxM1pqdmZpQWxvdDJWUGloaXZTU05rM2U0dQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Answering the Call: From Ground Zero to the Classroom - Rutgers University",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04NkllSy1iaTJDaVNEYVpkNEpmNDNRWkp0ZmxSMmcyczJOcVFpc09rR1ZpbHNIUU81Um9yOUhZZE44bVM1QVhBelJUajYzZ1NpLUxSbm9IV1ZSX2dGeHJSdXh6MlFvNlBvTGNtNTgwUC1mU2M?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "They cleaned up ground zero. Now many are hiding from ICE - NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0RHTmJnSllfX1dTSG5fV3haTm9peVJGcFhLN05HTkl4OWNJNTlCZEZUR2syeXVIak9fa09XYXRoeVBKc2pUQXAtRS1icW8tUnVXcXZwbk5aQzdHcF9nS1RZX0dKNDRGOVJGdm1iWmp3SVQ1MW1kTS04VXNmc3RGbElrY3djWnB1M0RHaGg5LXk2Zw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -226694,14 +226732,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T13:04:45+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 30: rejected (The posting asks for 10+ years of progressive experience, and the salary is 18-20 LPA, which is below Shlok's Rs 24.5 LPA minimum.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-22T13:04:45+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 10+ years of progressive experience, and the salary is 18-20 LPA, which is below Shlok's Rs 24.5 LPA minimum."
   },
   {
    "id": "L1850",

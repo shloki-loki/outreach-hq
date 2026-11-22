@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-19T10:52:20+05:30",
-   "agent": "lead-scout",
-   "ok": true,
-   "summary": "5 researched, 1 qualified (L1730), 4 rejected, 0 emails found; scheduled run, scrape skipped (under 3h old), Apify unused; LinkedIn 429s and flaky git sync on data branch",
-   "stats": {}
-  },
-  {
    "at": "2026-11-19T11:39:59+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3492,6 +3485,19 @@
    "stats": {
     "sent": 10,
     "failed": 0
+   }
+  },
+  {
+   "at": "2026-11-22T19:25:20+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 1 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 1,
+    "settled": 0,
+    "followups_due": 0
    }
   }
  ]

@@ -6245,6 +6245,15 @@
    "title": "Ran",
    "detail": "3 researched, 0 qualified, 3 rejected, 0 emails found; ended before 12-lead budget (scout scrape slow)",
    "ref": ""
+  },
+  {
+   "id": "J0695",
+   "at": "2026-11-22T13:06:04+05:30",
+   "by": "research-worker",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "30 researched (1 qualified, 29 rejected), 0 closed postings binned, 8 left for a person",
+   "ref": ""
   }
  ]
 }

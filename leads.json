@@ -237886,15 +237886,22 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 61: qualified"
+    },
+    {
+     "at": "2026-11-22T22:39:57+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-22T22:38:37+05:30",
+   "updated_at": "2026-11-22T22:39:57+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
    },
-   "reject_reason": null
+   "reject_reason": null,
+   "people_searched_at": "2026-11-22T22:39:57+05:30"
   },
   {
    "id": "L1931",

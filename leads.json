@@ -62220,7 +62220,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "rohan@metakeep.xyz",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 207 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -62276,9 +62276,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Rohan Sharma"
+    },
+    {
+     "at": "2026-11-22T19:25:13+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "rohan@metakeep.xyz does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-22T19:14:58+05:30",
+   "updated_at": "2026-11-22T19:25:13+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "unknown",

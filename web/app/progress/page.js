@@ -1,8 +1,10 @@
 import TopBar from '@/components/TopBar';
+import TrackKpis from '@/components/TrackKpis';
 import { requireSignIn } from '@/lib/auth';
-import { counts, loadBoard } from '@/lib/data';
+import { loadBoard } from '@/lib/data';
 import { read, sendingMode } from '@/lib/store';
 import { SOURCE_LABEL, formatDateTime } from '@/lib/status';
+import { TRACKS, hadInterview, inTrack, replyCount, trackStats } from '@/lib/tracks';
 
 export const dynamic = 'force-dynamic';
 
@@ -12,46 +14,80 @@ const AGENT = {
   'follow-up/track': 'Follow-up: inbox and timers', 'follow-up': 'Follow-up: drafting',
   'follow-up/digest': 'Follow-up: morning digest', supervisor: 'Supervisor',
 };
-const pct = (part, whole) => (whole ? `${Math.round((part / whole) * 100)}%` : 'n/a');
+function funnel(track, leads) {
+  const end = [
+    ['Replied', leads.filter((l) => replyCount(l) > 0).length],
+    ['Interviews', leads.filter(hadInterview).length],
+    ['Offers', leads.filter((l) => l.outcome === 'offer').length],
+  ];
+  const reached = (lead) => lead.messages.some((m) => ['sent', 'replied'].includes(m.status));
+  if (track === 'cold') return [['Companies', leads.length], ['Emailed', leads.filter(reached).length], ...end];
+  return [
+    ['Leads found', leads.length],
+    ['Researched', leads.filter((l) => l.research?.done).length],
+    ['Qualified', leads.filter((l) => l.stage === 'qualified').length],
+    ['Contacted or applied', leads.filter((l) => l.first_contacted_at || l.applied_at || reached(l)).length],
+    ...end,
+  ];
+}
+
+function lastDays(leads) {
+  const messages = leads.flatMap((lead) => lead.messages);
+  const days = [];
+  for (let back = 20; back >= 0; back -= 1) {
+    const key = new Date(Date.now() + 5.5 * 3600 * 1000 - back * 86400000).toISOString().slice(0, 10);
+    days.push({ key,
+      sent: messages.filter((m) => ['sent', 'replied', 'bounced'].includes(m.status) && (m.sent_at || '').startsWith(key)).length,
+      replies: messages.filter((m) => (m.reply?.at || '').startsWith(key)).length });
+  }
+  return days;
+}
+
+function TrackProgress({ track, leads, children }) {
+  const { label, about } = TRACKS[track];
+  const stages = funnel(track, leads);
+  const top = Math.max(1, stages[0][1]);
+  const days = lastDays(leads);
+  const peak = Math.max(1, ...days.map((d) => d.sent + d.replies));
+  return (
+    <section className="track" aria-labelledby={`${track}-title`}>
+      <h2 id={`${track}-title`} className="track-title">{label}</h2>
+      <p className="prose">{about}</p>
+      <TrackKpis track={track} stats={trackStats(leads)} />
+      <div className="section">
+        <h3 className="section-label">Funnel</h3>
+        <ul className="funnel">{stages.map(([name, value]) => (
+          <li key={name}><span>{name}</span><span className="bar"><span style={{ width: `${(value / top) * 100}%` }} /></span><b>{value}</b></li>
+        ))}</ul>
+      </div>
+      <div className="section">
+        <h3 className="section-label">Last 21 days: emails sent (green) and replies (pink)</h3>
+        <ul className="days" aria-label={`${label}: emails sent and replies per day`}>{days.map((day) => (
+          <li key={day.key} title={`${day.key}: ${day.sent} sent, ${day.replies} replies`}>
+            {day.replies ? <span className="rep" style={{ height: `${(day.replies / peak) * 100}%` }} /> : null}
+            <span className="sent" style={{ height: `${(day.sent / peak) * 100}%` }} />
+          </li>
+        ))}</ul>
+      </div>
+      {children}
+    </section>
+  );
+}
 
 export default async function ProgressPage() {
   await requireSignIn();
   const [{ leads, messages }, issuesFile, runsFile, metricsFile, mode] = await Promise.all([
     loadBoard(), read('issues'), read('runs'), read('metrics'), sendingMode()]);
-  const tally = counts(leads);
   const toApprove = messages.filter((m) => m.status === 'draft').length;
-  const delivered = messages.filter((m) => ['sent', 'replied', 'bounced'].includes(m.status));
-  const cold = delivered.filter((m) => m.kind === 'cold');
-  const repliedPeople = new Set(messages.filter((m) => m.status === 'replied').map((m) => `${m.lead_id}:${m.contact_id}`)).size;
-  const bounced = delivered.filter((m) => m.status === 'bounced').length;
-  const captured = leads.filter((l) => l.first_contacted_at || l.applied_at || l.messages.some((m) => ['sent', 'replied'].includes(m.status))).length;
-  const stages = [
-    ['Leads found', leads.length],
-    ['Researched', leads.filter((l) => l.research?.done).length],
-    ['Qualified', leads.filter((l) => l.stage === 'qualified').length],
-    ['Contacted or applied', captured],
-    ['Replied', leads.filter((l) => l.replied_at).length],
-    ['Interviews', leads.filter((l) => ['interview', 'offer'].includes(l.outcome)).length],
-    ['Offers', tally.offer || 0],
-  ];
-  const top = Math.max(1, stages[0][1]);
-
-  const days = [];
-  for (let back = 20; back >= 0; back -= 1) {
-    const key = new Date(Date.now() + 5.5 * 3600 * 1000 - back * 86400000).toISOString().slice(0, 10);
-    days.push({ key, sent: delivered.filter((m) => (m.sent_at || '').startsWith(key)).length,
-      replies: messages.filter((m) => (m.reply?.at || '').startsWith(key)).length });
-  }
-  const peak = Math.max(1, ...days.map((d) => d.sent + d.replies));
-
+  const agentLeads = inTrack(leads, 'jobs');
   const sources = {};
-  for (const lead of leads) {
+  for (const lead of agentLeads) {
     const name = SOURCE_LABEL[lead.source] || lead.source || 'Other';
     sources[name] = sources[name] || { found: 0, qualified: 0, captured: 0, replied: 0 };
     sources[name].found += 1;
     if (lead.stage === 'qualified') sources[name].qualified += 1;
     if (lead.first_contacted_at || lead.applied_at) sources[name].captured += 1;
-    if (lead.replied_at) sources[name].replied += 1;
+    if (replyCount(lead)) sources[name].replied += 1;
   }
   const latest = {};
   for (const run of runsFile.runs || []) latest[run.agent] = run;
@@ -65,45 +101,22 @@ export default async function ProgressPage() {
       <main>
         <div className="page-head">
           <h1>Progress</h1>
-          <p>Where the search stands, what converts, and whether every agent is running.</p>
+          <p>Agent Leads and Cold Emails, counted separately, then whether every agent is running.</p>
         </div>
-        <dl className="highlights six">
-          <div className="highlight"><dd>{cold.length}</dd><dt>Cold emails sent</dt></div>
-          <div className="highlight t-reply"><dd>{pct(repliedPeople, cold.length)}</dd><dt>Reply rate ({repliedPeople} people)</dt></div>
-          <div className={`highlight ${bounced / Math.max(1, delivered.length) > 0.05 ? 't-due' : ''}`}><dd>{pct(bounced, delivered.length)}</dd><dt>Bounce rate (keep under 5%)</dt></div>
-          <div className="highlight"><dd>{leads.filter((l) => l.applied_at).length}</dd><dt>Applications</dt></div>
-          <div className="highlight"><dd>{leads.reduce((n, l) => n + (l.referrals || []).filter((r) => ['sent', 'replied'].includes(r.status)).length, 0)}</dd><dt>Referrals asked</dt></div>
-          <div className="highlight hot"><dd>{(tally.interview || 0) + (tally.offer || 0)}</dd><dt>Interviews and offers</dt></div>
-        </dl>
-
-        <section className="section">
-          <h2 className="section-label">Funnel</h2>
-          <ul className="funnel">{stages.map(([name, value]) => (
-            <li key={name}><span>{name}</span><span className="bar"><span style={{ width: `${(value / top) * 100}%` }} /></span><b>{value}</b></li>
-          ))}</ul>
-        </section>
-
-        <section className="section">
-          <h2 className="section-label">Last 21 days: emails sent (green) and replies (pink)</h2>
-          <ul className="days" aria-label="Emails sent and replies per day">{days.map((day) => (
-            <li key={day.key} title={`${day.key}: ${day.sent} sent, ${day.replies} replies`}>
-              {day.replies ? <span className="rep" style={{ height: `${(day.replies / peak) * 100}%` }} /> : null}
-              <span className="sent" style={{ height: `${(day.sent / peak) * 100}%` }} />
-            </li>
-          ))}</ul>
-        </section>
-
-        <section className="section">
-          <h2 className="section-label">By source</h2>
+        <TrackProgress track="jobs" leads={agentLeads}>
+        <div className="section">
+          <h3 className="section-label">By source</h3>
           <div className="table-wrap"><table className="table">
             <thead><tr><th>Source</th><th>Found</th><th>Qualified</th><th>Contacted or applied</th><th>Replied</th></tr></thead>
             <tbody>{Object.entries(sources).sort((a, b) => b[1].found - a[1].found).map(([name, row]) => (
               <tr key={name}><td>{name}</td><td>{row.found}</td><td>{row.qualified}</td><td>{row.captured}</td><td>{row.replied}</td></tr>
             ))}</tbody>
           </table></div>
-        </section>
+        </div>
+        </TrackProgress>
+        <TrackProgress track="cold" leads={inTrack(leads, 'cold')} />
 
-        <section className="section">
+        <section className="section system">
           <h2 className="section-label">Agents</h2>
           <p className="prose">Sending mode: <strong>{mode === 'live' ? 'live' : mode === 'dry_run' ? 'dry run (nothing is sent)' : 'unknown'}</strong>. Daily snapshots stored: {snapshots}.</p>
           {Object.keys(latest).length === 0 ? <p className="empty">No agent has reported a run yet.</p> : (

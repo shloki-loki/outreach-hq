@@ -2,9 +2,11 @@ import Link from 'next/link';
 import { redirect } from 'next/navigation';
 import LeadList from '@/components/LeadList';
 import TopBar from '@/components/TopBar';
+import TrackKpis from '@/components/TrackKpis';
 import { requireSignIn } from '@/lib/auth';
-import { counts, loadBoard } from '@/lib/data';
+import { loadBoard } from '@/lib/data';
 import { SOURCE_LABEL, STATUS, daysAgo } from '@/lib/status';
+import { hadInterview, inTrack, replyCount, trackStats } from '@/lib/tracks';
 
 export const dynamic = 'force-dynamic';
 
@@ -89,10 +91,9 @@ export default async function LeadsPage({ searchParams }) {
   const { view } = await searchParams;
   if (view === 'spec') redirect('/cold-mails');
   const { leads: allLeads, messages } = await loadBoard();
-  const leads = allLeads.filter((lead) => lead.type !== 'company');
-  const tally = counts(leads);
+  const leads = inTrack(allLeads, 'jobs');
+  const stats = trackStats(leads);
   const toApprove = messages.filter((message) => message.status === 'draft').length;
-  const jobDrafts = leads.reduce((sum, lead) => sum + lead.messages.filter((m) => m.status === 'draft').length, 0);
   const rows = leads.map((lead) => ({
     id: lead.id, title: lead.title, company: lead.company, location: lead.location, status: lead.status,
     statusLabel: STATUS[lead.status].label, tone: STATUS[lead.status].tone, score: lead.score?.total ?? 0,
@@ -105,7 +106,10 @@ export default async function LeadsPage({ searchParams }) {
     machine: lead.research?.by === 'research-worker', stretch: lead.stretch, applied: Boolean(lead.applied_at) && lead.status !== 'applied',
     emails: (lead.contacts || []).filter((c) => c.email && !['bounced', 'invalid'].includes(c.email_status)).length,
     connections: (lead.referrals || []).length, note: latestNote(lead),
-    captured: Boolean(lead.first_contacted_at || lead.applied_at),
+    captured: Boolean(lead.first_contacted_at || lead.applied_at), noOpening: lead.type === 'company',
+    messageStatuses: lead.messages.map((m) => m.status), replies: replyCount(lead), interviewed: hadInterview(lead),
+    offered: lead.outcome === 'offer',
+    followupDue: Boolean(lead.followup?.due), appliedAt: Boolean(lead.applied_at),
     applyUrl: /^https?:\/\//.test(lead.apply_url || '') ? lead.apply_url : '',
     canApply: lead.type === 'job' && ['qualified', 'to_approve', 'contacted', 'followup_due'].includes(lead.status)
       && lead.open !== false && !lead.applied_at && /^https?:\/\//.test(lead.apply_url || ''),
@@ -116,11 +120,9 @@ export default async function LeadsPage({ searchParams }) {
   const readyToApply = rows.filter((r) => r.canApply).length;
   const strip = [
     { label: 'Ready to apply', value: readyToApply, href: '/?view=apply', tone: 'hot' },
-    { label: 'Emails to approve', value: jobDrafts, href: '/approvals?view=jobs', tone: 't-approve' },
-    { label: 'Follow-ups due', value: tally.followup_due || 0, href: '/?view=you', tone: 't-due' },
-    { label: 'Replies', value: tally.replied || 0, href: '/?view=you', tone: 't-reply' },
-    { label: 'Contacted or applied', value: leads.filter((l) => l.first_contacted_at || l.applied_at).length, href: '/?view=captured', tone: 'hot' },
-    { label: 'Interviews and offers', value: (tally.interview || 0) + (tally.offer || 0), href: '/?view=captured', tone: 'hot' },
+    { label: 'Emails to approve', value: stats.drafts, href: '/approvals?view=jobs', tone: 't-approve' },
+    { label: 'Follow-ups due', value: stats.followupsDue, href: '/?view=followups', tone: 't-due' },
+    { label: 'Applications sent', value: leads.filter((l) => l.applied_at).length, href: '/?view=applied', tone: 'hot' },
   ];
 
   return (
@@ -128,10 +130,13 @@ export default async function LeadsPage({ searchParams }) {
       <TopBar current="/" toApprove={toApprove} />
       <main>
         <div className="page-head">
-          <h1>Leads</h1>
-          <p>Each row carries its own verdict: why it fits, the pay, the experience asked and whether there is a verified address. Top picks are the researched leads scoring 75 or more. A row turns green once you have emailed someone there or applied.</p>
+          <h1>Agent Leads</h1>
+          <p>What the agent found, counted on its own. The founder list is under Cold Emails. Each row carries its own verdict: why it fits, the pay, the experience asked and whether there is a verified address. Top picks are the researched leads scoring 75 or more. A row turns green once you have emailed someone there or applied.</p>
         </div>
-        <dl className="highlights six">
+        <h2 className="section-label strip-label">Results</h2>
+        <TrackKpis track="jobs" stats={stats} />
+        <h2 className="section-label strip-label">In progress</h2>
+        <dl className="highlights four">
           {strip.map((item) => (
             <Link key={item.label} href={item.href} className={`highlight ${item.tone}`}>
               <dd>{item.value}</dd><dt>{item.label}</dt>

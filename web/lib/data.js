@@ -16,9 +16,3 @@ export async function loadBoard() {
   leads.sort((a, b) => STATUS[a.status].rank - STATUS[b.status].rank || (b.score?.total || 0) - (a.score?.total || 0));
   return { leads, messages: messageFile.messages || [] };
 }
-
-export function counts(leads) {
-  const tally = {};
-  for (const lead of leads) tally[lead.status] = (tally[lead.status] || 0) + 1;
-  return tally;
-}

@@ -60,6 +60,12 @@ main { width: min(100% - 32px, 1080px); margin: 0 auto; padding-bottom: 72px; }
 
 /* Number strip */
 .highlights { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; margin: 28px 0 0; background: var(--line); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.list li > span { min-width: 0; overflow-wrap: anywhere; }
+.strip-label { margin: 24px 0 0; }
+.strip-label + .highlights { margin-top: 10px; }
+.track { margin-top: 44px; padding-top: 28px; border-top: 1px solid var(--line); }
+.track-title { margin: 0 0 6px; font-size: 22px; font-weight: 650; letter-spacing: -.025em; }
+.system { border-top: 1px solid var(--line); }
 .highlight { display: flex; flex-direction: column-reverse; justify-content: flex-end; gap: 6px; padding: 16px 18px; background: var(--bg); transition: background .15s; }
 a.highlight:hover { background: var(--surface); }
 .highlight dd { margin: 0; font-size: 24px; font-weight: 650; letter-spacing: -.03em; color: var(--ink); font-variant-numeric: tabular-nums; }
@@ -224,10 +230,17 @@ a.highlight:hover { background: var(--surface); }
 @media (min-width: 720px) {
   .highlights { grid-template-columns: repeat(3, 1fr); }
   .highlights.six { grid-template-columns: repeat(6, 1fr); }
+  .highlights.four { grid-template-columns: repeat(4, 1fr); }
   .lead { grid-template-columns: 1fr auto; align-items: start; }
   .lead-side { justify-content: flex-end; max-width: 330px; }
   .facts { grid-template-columns: repeat(4, 1fr); }
   .list li { grid-template-columns: 130px 1fr; }
+}
+/* Five named tabs don't fit beside the brand on a narrow screen: they get their own row, which scrolls. */
+@media (max-width: 760px) {
+  .topbar-inner { height: auto; flex-wrap: wrap; gap: 8px 16px; padding: 10px 0; }
+  .topbar-inner > form { margin-left: auto; }
+  .tabs { order: 3; width: 100%; margin-left: 0; overflow-x: auto; scrollbar-width: none; }
 }
 @media (max-width: 560px) {
   .topbar .mode { display: none; }

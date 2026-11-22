@@ -47,7 +47,7 @@ export const EMAIL_BADGE = {
 export const SOURCE_LABEL = {
   greenhouse: 'Company careers page', lever: 'Company careers page', ashby: 'Company careers page',
   linkedin: 'LinkedIn Jobs', linkedin_post: 'LinkedIn hiring post', instahyre: 'Instahyre', yc: 'Y Combinator',
-  naukri: 'Naukri', wellfound: 'Wellfound', hiringcafe: 'Hiring Cafe', iimjobs: 'IIMJobs', web: 'Web search',
+  naukri: 'Naukri', wellfound: 'Wellfound', founder_reoutreach: 'Founder list', hiringcafe: 'Hiring Cafe', iimjobs: 'IIMJobs', web: 'Web search',
 };
 
 export function formatDate(iso) {

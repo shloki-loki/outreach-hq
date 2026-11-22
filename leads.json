@@ -179136,15 +179136,15 @@
    "key": "amazon|operations manager ii easyship|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.in",
+   "company_url": "https://www.amazon.in",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Operations Manager - II, Easyship",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4455931474",
    "source_url": "https://in.linkedin.com/jobs/view/operations-manager-ii-easyship-at-amazon-4455931474",
@@ -179160,7 +179160,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Description\n Amazon.com strives to be Earth's most customer-centric company where people can find and discover virtually anything they want to buy online. By giving customers more of what they want - low prices, vast selection, and convenience - Amazon.com continues to grow and evolve as a world-class e-commerce platform. Amazon's evolution from Web site to e-commerce partner to development platform is driven by the spirit of innovation that is part of the company's DNA. The world's brightest technology minds come to Amazon.com to research and develop technology that improves the lives of shoppers and sellers around the world.\nAmazon Operations\nAmazon Worldwide Operations is the underlying fulfillment and customer service engine that ensures Amazon creates the same consistent, world-class customer experience every time. We are looking for high-potential, flexible, innovative, and forward-thinking professionals to join our India Operations team. Are you ready to drive high-visibility, strategic, revenue-generating projects as well as leverage Lean methodologies to lead Operational process improvement initiatives? Are you equally comfortable digging into business requirements as you are drilling into architecture and design with development teams?\nWe are looking for a creative and goal-oriented Operations Manager-II to join our team to harness the full potential of data-driven insights to make informed decisions, identify business opportunities and drive operational growth.\nThis role requires an individual with excellent analytical abilities, knowledge of business intelligence solutions, as well as business acumen and the ability to work with various tech/product teams across ES Operations and ES Business. Operations Manager will support the org by owning complex reporting and automating reporting solutions, and ultimately provide insights and drivers for decision making.\nYou must be a self-starter and be able to learn on the go. You should have excellent written and verbal communication skills to be able to work with business owners to develop and define key business questions, and to build data sets that answer those questions.\nAs a Operations Manager -II in the ES team, you will be responsible for analyzing petabytes of data to identify business trends and points of seller friction, and developing scalable solutions to enhance customer experience. You will work closely with internal stakeholders to define key performance indicators (KPIs), implement them into dashboards and reports, and present insights in a concise and effective manner. This role will involve collaborating with business and tech leaders and cross-functional teams to solve problems, create operational efficiencies, and deliver against high organizational standards. You should be able to apply a breadth of tools, data sources, and analytical techniques to answer a wide range of high-impact business questions and proactively uncover new insights that drive decision-making by senio",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -179175,8 +179175,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -179187,15 +179187,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Operations Manager-II at Amazon Easyship, asks 2-3+ yrs and employee management; your 1.3 yrs and lack of full-time team management do not fit.",
+    "fit_notes": "The posting asks for '2+ years of employee and performance management experience' and 'Preferred: 3+ years of performance metrics, process improvement or lean techniques experience'. Shlok has about 1.3 years of experience and no full-time team management. While his background using SQL, Excel, and data processes maps to parts of the reporting requirements, the employee management requirements and experience levels are a mismatch.",
+    "pay_notes": "Pay not stated in posting; no specific salary figure found in sources for this exact role.",
+    "culture_notes": "Global e-commerce and logistics giant; large tech and operations org with standard corporate culture, but no specific ratings or reviews found in the provided evidence.",
+    "hook": "Amazon recently announced a plan to own the world's product data and fight AI shopping agents.",
+    "hook_source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
+    "researched_at": "2026-11-22T12:56:59+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdFh3U0hRSG94d05zeVBjNS13dzNJbWZ1Mml3TTFnd1NfbHBmdWY1UjV3V3ZKbUhudzBKMmxXM0hmZ29qLTFNSmlORER4d2dKVW1HTGhXZXV5MWFfRjRiaGt3c3ZFOEJCbTh0UUhieWJ3MzZ2Z1HSAXtBVV95cUxNbWw4N1JvSTlyRnppc1JXQlRlbHdDS0xqLTcxZm9QdXlmYUNfNVE5UFp2eFk0VGI5WE5nSjl4eDJXN1Rna3BVdnJEQkJicWVJTEpEN3ltZG9RMTJ1QzZ3eURmMDVxNjR2RWxvY0J3MFVMbVR1SzJZMHR2ZG8?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFvVDlwcmNmNEl1WGpwZ3A3TzF3ZkNLSDFrUHA3XzY3REJxa3Jyc3pjUnVLdXdydFp3eTBYR1E1elQzVllDV1JQVzJENFNhV3RjVWl1eFB3dWFZS1BQWlRpTC1WZWZ1OV9CZmdhQnNtdmUxb25DWS16SEVodXVlRnBFUFQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -179219,14 +179257,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:56:59+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role asks for 2+ years of employee and performance management experience and 3+ years of performance metrics, process improvement or lean techniques experience, which exceeds Shlok's ~1.3 years of experience and lacks people management experience.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-22T12:56:59+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 2+ years of employee and performance management experience and 3+ years of performance metrics, process improvement or lean techniques experience, which exceeds Shlok's ~1.3 years of experience and lacks people management experience."
   },
   {
    "id": "L1442",

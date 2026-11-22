@@ -237036,15 +237036,15 @@
    "key": "nielsen|senior technical program manager ii|bengaluru",
    "type": "job",
    "company": "Nielsen",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "nielsen.com",
+   "company_url": "https://www.nielsen.com",
    "company_linkedin": "https://www.linkedin.com/company/nielsen",
    "company_note": "",
    "title": "Senior Technical Program Manager II (Bangalore)",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4483480371",
    "source_url": "https://in.linkedin.com/jobs/view/senior-technical-program-manager-ii-bangalore-at-nielsen-4483480371",
@@ -237060,7 +237060,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-22",
    "open": true,
-   "jd": "",
+   "jd": "Company Description\n At Nielsen, we are passionate about our work to power a better media future for all people by providing powerful insights that drive client decisions and deliver extraordinary results. Our talented, global workforce is dedicated to capturing audience engagement with content - wherever and whenever it’s consumed. Together, we are proudly rooted in our deep legacy as we stand at the forefront of the media revolution. When you join Nielsen, you will join a dynamic team committed to excellence, perseverance, and the ambition to make an impact together. We champion you, because when you succeed, we do too. We enable your best to power our future.\n Job Description\n Lead governance of growth initiatives with comprehensive weekly updates on progress, providing visibility into development timelines, milestone achievements, risks and any deviations from targets.\n Identify and communicate risks across engineering and product teams, creating alerts and detailed risk mitigation strategies.\n Build and maintain advanced performance dashboards using JIRA and other analytics tools like Tableau, consolidating key metrics such as sprint velocity, cycle time, quality metrics, and resource allocation.\n Utilize data insights to drive process improvements and present actionable recommendations to cross-functional leaders.\n Act as an advisor to Product Managers and Scrum Masters on technical process alignment, maintenance of JIRA scrum boards, ensuring compliance with PDLC standards and enforcing RACI guidelines to maintain clear accountability across all stages of the development cycle.\n Continuously evaluate and refine PDLC processes and tools, promoting technical compliance and efficiency improvements across engineering and product teams.\n Partner with engineering to establish and monitor critical quality metrics, including code coverage, defect density, and technical debt, to ensure high standards of engineering quality.\n Oversee integration testing and provide final quality signoffs before production check-ins, coordinating with engineering leads to validate that all code meets defined standards.\n Participate in sprint planning, retrospectives, and other agile ceremonies as required providing technical guidance and ensuring alignment to PDLC best practices.\n Collaborate with engineering leads to refine continuous integration and continuous deployment (CI/CD) processes, enabling faster delivery cycles with robust testing and quality gates.\n Qualifications\n Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.\n 12-15 years of experience in product operations, quality engineering, or technical program management within agile, software-focused environments.\n Advanced proficiency and hands-on scripting experience with JIRA, Confluence, and similar tools like Tableau/Power BI.\n Solid understanding of PDLC methodologies, risk management practices, and quality metrics relevant to software development.\n Strong background in s",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -237075,8 +237075,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -237087,15 +237087,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior TPM II at Nielsen asks 12-15 yrs of experience; candidate has 1.3 yrs.",
+    "fit_notes": "The posting asks for '12-15 years of experience in product operations, quality engineering, or technical program management within agile, software-focused environments' as well as hands-on CI/CD and software testing frameworks background. Shlok has 1.3 years of experience total.",
+    "pay_notes": "No pay stated in posting and no pay evidence available.",
+    "culture_notes": "No ratings or glassdoor/ambitionbox reviews found in evidence.",
+    "hook": "Nielsen reported that American soccer fandom soared following the 2026 FIFA World Cup.",
+    "hook_source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3lZWFprUS1OZTkwYTl4QmdTS0FjZWhUQWNXbkNlTHZrOGpNV0toTGkzWGM0V3VacmRZRDN2VlJlQV9FalpmUmpucWNsaTZMNzZUaTdZZ0tPMGdKOFJMRTdTRnpzX2VlWFgxODNGR21abTZlMzM0cmlVTS1NbDE5QnpCT0VUMll3aGlGaG1reU1faXlDY2V0UA?oc=5",
+    "researched_at": "2026-11-22T22:18:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "JPO Story - Michelle Nielsen - United Nations Development Programme",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y0hwU0tiWk4waEtTaEtoUEp1NEhkUFVjRFYxWGxwdDROSnlOZ1hfSHlCUnpEMnlMM2Rtd2lCbFV0ME5telpxNFphM2tkel9rVnB0ejRUSW5kMEVZRzlEeUNjRFhPbEpXNGFLOWlB?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Sports and Dramas Drive April Viewing Patterns in Nielsen’s Latest Gauge Reports - Nielsen",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2R1VTBzQVRxUy1VZGUyWlBfX0oxWm15NEN5V2hvUzE5NU53VlJKeDJ3b1JzT0hpdWdNZTBNSFpPU0lDaks3Q2VOQ0U2ellkOEdQOUFJNDlEb3ZtZjctMHJFVTlkc09faEktakRORW1mSjZoYnUwaWlBTlpPWklkVXFsc190MnNTQWl5WDcwUjhJSWRpbzV6ck15ZUdfbDNSdEx2WkhPeGVIMW92cDZSZWczbFlyR29wOVI0cnhn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Why Did Nielsen Buy DoubleVerify? - Next in Media | Mike Shields",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tc05GdTd6MWRkZF85WUs1d2ZNdzFiNU55d0xRQ2hHcF9CcjlyT1k3dUZYYUgteG00b0tNQTRxa1p2b2QwbWlINVFBNFJIcGFwMGtCMW1WSGQwcXAyRVlZTEc3RDhrTS0wbzZCYTNzTFUtTFdpMmc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Alpine in 'development war' with Racing Bulls – Nielsen - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHY0SEdWcGczVjY2MXVUakNzcXNxQW1wX3ZSSzhhXzhEQnI5RnJ0Z1VYOEt3d3NlM25FSnZzVmlBWU9uWENCTlBoSV9YSnlsckQ1eW9rUXE4TUxJNWZQdVNTR2xKcU9ZdTRCV2NzV19TR2VadkNPUUtkcFNuRnR6ajhDMFI5c3d2SXFEcVp3dTdHT2dBRTFMdXRsbUFiM0tJN3lpdGZmQV9Rem5qcXY3eEY3b2NPQTBM?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Nielsen’s Latest Updates Aim To Remove Bias From Its Measurement Strategy - AdExchanger",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEtaeDR2RmdfcDBQNDh0b3ZNeFA3UXZYZVZhZWFkTDdYc2tkUzQ5SzNqMG5mNVJfR2U2bkNkenhQaldueFdZaXFWcXFGN3pIM2ZWSzdPcGNrVGM4eFg2X01ZYkwwVzhYVm5tcE5zNDVVS05Xay1hRkJORElfeDlGVG93T2w3VmNsVnctWE1NM21WeTJmdWp5azNLamFvSWZmR0Y5aHQ5Y0RPbEFhZGxRTF9CQQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Nielsen: American soccer fandom soars after 2026 FIFA World Cup - MLSsoccer.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3lZWFprUS1OZTkwYTl4QmdTS0FjZWhUQWNXbkNlTHZrOGpNV0toTGkzWGM0V3VacmRZRDN2VlJlQV9FalpmUmpucWNsaTZMNzZUaTdZZ0tPMGdKOFJMRTdTRnpzX2VlWFgxODNGR21abTZlMzM0cmlVTS1NbDE5QnpCT0VUMll3aGlGaG1reU1faXlDY2V0UA?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -237119,14 +237157,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T22:18:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The posting requires 12-15 years of experience in product operations or TPM, far exceeding Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30",
+   "updated_at": "2026-11-22T22:18:58+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting requires 12-15 years of experience in product operations or TPM, far exceeding Shlok's 1.3 years."
   },
   {
    "id": "L1933",

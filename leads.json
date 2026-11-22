@@ -229226,7 +229226,7 @@
    "key": "nielsen|senior program manager|bengaluru",
    "type": "job",
    "company": "Nielsen",
-   "company_domain": "",
+   "company_domain": "nielsen.com",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/nielsen",
    "company_note": "",
@@ -229234,7 +229234,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4466678188",
    "source_url": "https://in.linkedin.com/jobs/view/senior-program-manager-at-nielsen-4466678188",
@@ -229250,13 +229250,13 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Company Description\n At Nielsen, we are passionate about our work to power a better media future for all people by providing powerful insights that drive client decisions and deliver extraordinary results. Our talented, global workforce is dedicated to capturing audience engagement with content - wherever and whenever it’s consumed. Together, we are proudly rooted in our deep legacy as we stand at the forefront of the media revolution. When you join Nielsen, you will join a dynamic team committed to excellence, perseverance, and the ambition to make an impact together. We champion you, because when you succeed, we do too. We enable your best to power our future.\n Job Description\n Role Summary\n Serves as the connective tissue for our most strategic product launches. In this newly created role, you will be the central orchestrator responsible for managing the end-to-end lifecycle of bringing new Gracenote products and features to market.\nYou will not just manage a schedule; you will bridge the gap between technical execution and commercial readiness in partnership with Product, Engineering, Legal, Marketing, Sales, and Customer Success.\n Key Responsibilities\n Lead the comprehensive New Product Introduction (NPI) / Go-To-Market (GTM) process from ideation and development through to launch and post-launch evaluation.\n Serve as the primary liaison connecting diverse teams. Ensure alignment across:\n Product & Design: Tracking feature readiness, user experience milestones, and beta testing.\n Engineering: Monitoring development sprints, QA, and technical deployment schedules.\n Legal & Privacy: Ensuring new products meet all regulatory compliance, data privacy standards, and that necessary vendor/client contracts are updated.\n Marketing: Aligning product delivery with messaging, positioning, and promotional launch campaigns.\n Sales & Enablement: Ensuring sales teams are trained, equipped with collateral, and ready to monetize the product on day one.\n Customer Support/Operations: Ensuring support teams have the documentation and tools needed to assist clients post-launch.\n Build and scale a standardized NPI playbook for Gracenote, defining clear phases, gates, deliverables, and ownership for all future launches.\n Proactively identify bottlenecks, dependencies, and risks across all workstreams. Develop mitigation plans and escalate critical issues to executive stakeholders with proposed solutions.\n Host regular cross-functional syncs. Provide clear, concise executive reporting on program health, launch readiness, and post-launch metrics.\n Qualifications\n 7+ years of program management, product operations, or GTM management experience, preferably within the B2B tech, SaaS, or data/entertainment industries.\n Proven ability to \"speak the language\" of diverse departments—from deeply technical engineering constraints to complex legal compliance and nuanced marketing strategies.\n Exceptional leadership skills with the ability to drive alignment, accountability, a",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
    "stretch": true,
    "pay": {
-    "stated": null,
+    "stated": "not stated",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
@@ -229265,8 +229265,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 42,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -229277,15 +229277,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Program Manager at Nielsen, asks 7+ yrs; your 1.3 years of experience falls well short of the requirement.",
+    "fit_notes": "The posting asks for '7+ years of program management, product operations, or GTM management experience'. Your experience is ~1.3 years [ceo-coo]. While you have strong operational background like S&OP planning [sop] and inventory management [msl], the experience gap is too large.",
+    "pay_notes": "Pay is not stated in the posting, and no specific India salary figures for this role were found in the evidence.",
+    "culture_notes": "Company quality and culture details were not found in the provided evidence snippets.",
+    "hook": "Nielsen reported that American soccer fandom soars after the 2026 FIFA World Cup.",
+    "hook_source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3lZWFprUS1OZTkwYTl4QmdTS0FjZWhUQWNXbkNlTHZrOGpNV0toTGkzWGM0V3VacmRZRDN2VlJlQV9FalpmUmpucWNsaTZMNzZUaTdZZ0tPMGdKOFJMRTdTRnpzX2VlWFgxODNGR21abTZlMzM0cmlVTS1NbDE5QnpCT0VUMll3aGlGaG1reU1faXlDY2V0UA?oc=5",
+    "researched_at": "2026-11-22T13:06:02+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "JPO Story - Michelle Nielsen - United Nations Development Programme",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y0hwU0tiWk4waEtTaEtoUEp1NEhkUFVjRFYxWGxwdDROSnlOZ1hfSHlCUnpEMnlMM2Rtd2lCbFV0ME5telpxNFphM2tkel9rVnB0ejRUSW5kMEVZRzlEeUNjRFhPbEpXNGFLOWlB?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Sports and Dramas Drive April Viewing Patterns in Nielsen’s Latest Gauge Reports - Nielsen",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2R1VTBzQVRxUy1VZGUyWlBfX0oxWm15NEN5V2hvUzE5NU53VlJKeDJ3b1JzT0hpdWdNZTBNSFpPU0lDaks3Q2VOQ0U2ellkOEdQOUFJNDlEb3ZtZjctMHJFVTlkc09faEktakRORW1mSjZoYnUwaWlBTlpPWklkVXFsc190MnNTQWl5WDcwUjhJSWRpbzV6ck15ZUdfbDNSdEx2WkhPeGVIMW92cDZSZWczbFlyR29wOVI0cnhn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Why Did Nielsen Buy DoubleVerify? - Next in Media | Mike Shields",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tc05GdTd6MWRkZF85WUs1d2ZNdzFiNU55d0xRQ2hHcF9CcjlyT1k3dUZYYUgteG00b0tNQTRxa1p2b2QwbWlINVFBNFJIcGFwMGtCMW1WSGQwcXAyRVlZTEc3RDhrTS0wbzZCYTNzTFUtTFdpMmc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Alpine in 'development war' with Racing Bulls – Nielsen - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHY0SEdWcGczVjY2MXVUakNzcXNxQW1wX3ZSSzhhXzhEQnI5RnJ0Z1VYOEt3d3NlM25FSnZzVmlBWU9uWENCTlBoSV9YSnlsckQ1eW9rUXE4TUxJNWZQdVNTR2xKcU9ZdTRCV2NzV19TR2VadkNPUUtkcFNuRnR6ajhDMFI5c3d2SXFEcVp3dTdHT2dBRTFMdXRsbUFiM0tJN3lpdGZmQV9Rem5qcXY3eEY3b2NPQTBM?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Nielsen’s Latest Updates Aim To Remove Bias From Its Measurement Strategy - AdExchanger",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEtaeDR2RmdfcDBQNDh0b3ZNeFA3UXZYZVZhZWFkTDdYc2tkUzQ5SzNqMG5mNVJfR2U2bkNkenhQaldueFdZaXFWcXFGN3pIM2ZWSzdPcGNrVGM4eFg2X01ZYkwwVzhYVm5tcE5zNDVVS05Xay1hRkJORElfeDlGVG93T2w3VmNsVnctWE1NM21WeTJmdWp5azNLamFvSWZmR0Y5aHQ5Y0RPbEFhZGxRTF9CQQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Nielsen: American soccer fandom soars after 2026 FIFA World Cup - MLSsoccer.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3lZWFprUS1OZTkwYTl4QmdTS0FjZWhUQWNXbkNlTHZrOGpNV0toTGkzWGM0V3VacmRZRDN2VlJlQV9FalpmUmpucWNsaTZMNzZUaTdZZ0tPMGdKOFJMRTdTRnpzX2VlWFgxODNGR21abTZlMzM0cmlVTS1NbDE5QnpCT0VUMll3aGlGaG1reU1faXlDY2V0UA?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -229309,14 +229347,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T13:06:02+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (Senior Program Manager role at Nielsen requiring 7+ years of experience, far above your ~1.3 years; also lacks stated pay and your target location/remote alignment.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-22T13:06:02+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Senior Program Manager role at Nielsen requiring 7+ years of experience, far above your ~1.3 years; also lacks stated pay and your target location/remote alignment."
   },
   {
    "id": "L1873",

@@ -455,12 +455,12 @@
    "severity": "error",
    "title": "Sending M0115 failed",
    "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer",
-   "status": "open",
+   "status": "resolved",
    "opened_at": "2026-11-21T12:23:49+05:30",
    "last_seen": "2026-11-21T12:23:49+05:30",
    "count": 1,
-   "remedy": "SMTP connection was reset by Gmail/network mid-send (Errno 54), not a bad address; the same runs later sent 10 emails each without error (15:00, 15:20, 15:41, 16:00 IST), so it is transient. Press Retry on the Approvals page for the failed messages (M0109-M0119) — but check first they are not already in Gmail Sent (M0110, M0112 said interrupted).",
-   "resolved_at": null
+   "remedy": "Handled by PR 14 (c48936d, merged): connection resets are retryable and these people are at the back of the founder list, none queued or emailed twice. 120 emails went out after the last reset with no failure. These people have still not been emailed; their turn comes at the end of the list.",
+   "resolved_at": "2026-11-22T22:19:24+05:30"
   },
   {
    "id": "I0034",

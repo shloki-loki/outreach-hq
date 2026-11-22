@@ -1,17 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-18T23:27:42+05:30",
-   "agent": "people-finder",
-   "ok": true,
-   "summary": "1 companies searched on LinkedIn, 0 people added",
-   "stats": {
-    "leads": 1,
-    "people_added": 0,
-    "skipped": ""
-   }
-  },
-  {
    "at": "2026-11-18T23:30:56+05:30",
    "agent": "writer",
    "ok": true,
@@ -3529,6 +3518,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-22T16:05:44+05:30",
+   "agent": "follow-up/digest",
+   "ok": true,
+   "summary": "Outreach HQ 22 Nov: all clear",
+   "stats": {}
   }
  ]
 }

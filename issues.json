@@ -613,7 +613,7 @@
    "opened_at": "2026-11-22T18:51:37+05:30",
    "last_seen": "2026-11-22T18:51:37+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Happened again 22 Nov 19:12: merge 84341b7 (PR #16) got 'Deployment rate limited, retry in 24 hours'. Needs Shlok's OK: add web/vercel.json with deployments off to the data branch, then redeploy main once the limit clears.",
    "resolved_at": null
   },
   {

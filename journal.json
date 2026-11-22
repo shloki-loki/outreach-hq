@@ -6443,6 +6443,15 @@
    "title": "Diagnosis: Mac sender hung since 08:50 on 22 Nov: IMAP read has no timeout",
    "detail": "The hung run ended by itself with an IMAP socket error and launchd started a new run at 19:05, which is sending. Root cause remains: add timeout= to the three IMAP4_SSL calls in mailbox.py.",
    "ref": "I0043"
+  },
+  {
+   "id": "J0717",
+   "at": "2026-11-22T19:15:54+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Data-branch commits create blocked Vercel deployments",
+   "detail": "Happened again 22 Nov 19:12: merge 84341b7 (PR #16) got 'Deployment rate limited, retry in 24 hours'. Needs Shlok's OK: add web/vercel.json with deployments off to the data branch, then redeploy main once the limit clears.",
+   "ref": "I0044"
   }
  ]
 }

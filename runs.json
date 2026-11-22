@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-19T16:17:54+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-19T16:29:06+05:30",
    "agent": "follow-up/digest",
    "ok": true,
@@ -3444,6 +3431,19 @@
    "stats": {
     "sent": 1,
     "failed": 0
+   }
+  },
+  {
+   "at": "2026-11-22T20:45:20+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 1 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 1,
+    "settled": 0,
+    "followups_due": 0
    }
   }
  ]

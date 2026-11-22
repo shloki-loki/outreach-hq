@@ -56351,7 +56351,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "sunny.bhanot@rario.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 110 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -56401,9 +56401,15 @@
      "actor": "follow-up",
      "event": "bounced",
      "detail": "ankitw@rario.com does not exist; needs a new address"
+    },
+    {
+     "at": "2026-11-22T19:05:19+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "sunny.bhanot@rario.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-21T16:45:12+05:30",
+   "updated_at": "2026-11-22T19:05:19+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "unknown",

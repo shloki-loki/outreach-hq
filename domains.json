@@ -302,6 +302,12 @@
     "first.last"
    ],
    "confirmed": []
+  },
+  "boombox.io": {
+   "confirmed": [
+    "max@boombox.io"
+   ],
+   "pattern": "first"
   }
  }
 }

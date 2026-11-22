@@ -6911,6 +6911,15 @@
    "title": "Diagnosis: Mac sender hung since 08:50 on 22 Nov: IMAP read has no timeout",
    "detail": "Reproduced: an inbox read on a silent server never returns. PR 17 adds a 60 s timeout to every IMAP connection. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
    "ref": "I0043"
+  },
+  {
+   "id": "J0769",
+   "at": "2026-11-22T22:20:25+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Inbox scan failed",
+   "detail": "Same cause as I0043. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
+   "ref": "I0046"
   }
  ]
 }

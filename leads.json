@@ -211204,7 +211204,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491824194",
    "source_url": "https://in.linkedin.com/jobs/view/senior-business-development-manager-at-stag-elevators-india-uae-4491824194",
@@ -211220,7 +211220,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Company Description Stag Elevators operates in India and the UAE with over 40 years of combined experience in safety and vertical mobility solutions. The company specializes in state-of-the-art, customized home lifts designed with a strong focus on safety for children and senior citizens. Its products are imported from Italy and include hydraulic systems, gearless belt drive lifts, and customized platforms that can be tailored to fit any size or design. Stag Elevators’ solutions require no pit, head room, or machine room and work on both single-phase and three-phase power. The elevators feature advanced AI capabilities that notify customers of potential issues in advance, combining innovative design and safety to deliver an exceptional user experience.\nRole Description The Senior Business Development Manager is a full-time, on-site role based in Bengaluru, responsible for driving strategic growth for Stag Elevators in India and the UAE markets. This role involves identifying and developing new business opportunities, building and managing relationships with residential developers, architects, consultants, and high-net-worth individual clients, and expanding the company’s footprint in premium home lift solutions. The position requires leading end-to-end sales cycles, including prospecting, presenting tailored solutions, negotiating contracts, and closing deals, while collaborating closely with technical and operations teams to ensure accurate proposals and smooth project delivery. The Senior Business Development Manager will analyze market trends, competitor activities, and customer feedback to refine go-to-market strategies, prepare sales forecasts and reports, and contribute to pricing and product positioning decisions. The role also includes representing the company at industry events, conducting product demonstrations, and promoting Stag Elevators’ safety, innovation, and AI-enabled features as key differentiators.\n Qualifications\n Business development and sales leadership skills, including strategic planning, pipeline management, and relationship building with key stakeholders.\n Expertise in negotiation, contract management, and consultative selling within construction, real estate, or elevators/vertical mobility sectors.\n Strong market research, competitive analysis, and forecasting abilities to support data-driven decisions and growth strategies.\n Excellent communication, presentation, and interpersonal skills for engaging with clients, internal teams, and external partners.\n Experience managing cross-functional collaboration with engineering, operations, and service teams to deliver customized solutions.\n Proficiency with CRM tools, sales reporting, and basic MS Office applications (Excel, PowerPoint, Word).\n Bachelor’s degree in Business, Engineering, or a related field; an MBA or equivalent postgraduate qualification is preferred.\n 5–8+ years of relevant experience in business development or sales, ideally in elevators, building products",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -211235,8 +211235,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 25,
+    "total": 39,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -211247,15 +211247,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Senior Business Development Manager at Stag Elevators, asks 5-8+ yrs and real estate/elevator experience which you do not have.",
+    "fit_notes": "The posting asks for \"5–8+ years of relevant experience in business development or sales, ideally in elevators, building products, or high-end home solutions\" and states that \"an MBA or equivalent postgraduate qualification is preferred\". Shlok has about 1.3 years of experience and no MBA or direct elevator sales background. While he has general business and stakeholder management experience demonstrated in [alcheringa], the core requirements of this senior role far exceed his current experience level.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "No company website, employee reviews, or culture data found via web search.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T12:59:07+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -211279,14 +211286,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:59:07+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 39: rejected (The posting explicitly requires 5-8+ years of relevant experience, whereas Shlok has about 1.3 years, making this an excessive stretch. Additionally, it prefers an MBA and demands deep industry-specific business development experience in construction, real estate, or elevators, which does not align with his supply chain and operations background.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30",
+   "updated_at": "2026-11-22T12:59:07+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly requires 5-8+ years of relevant experience, whereas Shlok has about 1.3 years, making this an excessive stretch. Additionally, it prefers an MBA and demands deep industry-specific business development experience in construction, real estate, or elevators, which does not align with his supply chain and operations background."
   },
   {
    "id": "L1719",

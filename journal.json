@@ -6776,6 +6776,15 @@
    "title": "Solved: Sending M0116 failed",
    "detail": "Handled by PR 14 (c48936d, merged): connection resets are retryable and these people are at the back of the founder list, none queued or emailed twice. 120 emails went out after the last reset with no failure. These people have still not been emailed; their turn comes at the end of the list.",
    "ref": "I0034"
+  },
+  {
+   "id": "J0754",
+   "at": "2026-11-22T22:19:31+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: Sending M0117 failed",
+   "detail": "Handled by PR 14 (c48936d, merged): connection resets are retryable and these people are at the back of the founder list, none queued or emailed twice. 120 emails went out after the last reset with no failure. These people have still not been emailed; their turn comes at the end of the list.",
+   "ref": "I0035"
   }
  ]
 }

@@ -6344,6 +6344,15 @@
    "title": "Agent Leads and Cold Emails split, PR #16",
    "detail": "Shlok asked for separate tabs and KPIs for agent-found leads and cold emails. PR #16 builds on PR #15: splits by lead source (979 agent leads, 983 founder-list companies; 29 agent-found YC companies return to Agent Leads), separate sent/replies/reply rate/bounces/interviews/offers, separate funnels and charts. Counts reconcile with status. Build and 90 tests pass; checked read-only in a local browser; write actions and production not tested. Not live until merged.",
    "ref": "PR #16"
+  },
+  {
+   "id": "J0706",
+   "at": "2026-11-22T18:51:30+05:30",
+   "by": "claude",
+   "kind": "debug",
+   "title": "Why a collaborator's changes do not reach the site",
+   "detail": "GitHub write access works: srishti-murarka merged PR #15 on 22 Nov 03:52 IST. Vercel blocked production deploy 6ebdbb3: commit author has no contributing access, and Hobby does not support collaboration on private repos. Free path: collaborator opens a PR, Shlok merges with a merge commit. Otherwise Vercel Pro. No access settings changed.",
+   "ref": "6ebdbb3"
   }
  ]
 }

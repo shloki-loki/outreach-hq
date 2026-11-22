@@ -641,7 +641,7 @@
    "opened_at": "2026-11-22T19:00:37+05:30",
    "last_seen": "2026-11-22T19:00:37+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Inbox scan at 19:00 IST failed with an SSL socket error on Gmail IMAP, after the Mac woke from sleep. The next follow-up/track runs (19:05 onward, last 20:05) were ok, so it recovered. Root cause is the same as I0043: IMAP calls have no timeout. Remedy: add timeout= to IMAP4_SSL in mailbox.py.",
    "resolved_at": null
   }
  ],

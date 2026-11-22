@@ -7010,6 +7010,15 @@
    "title": "Work W0194: release",
    "detail": "PR 17 open and tested (102 tests). Remaining: Shlok's merge OK, pull main in the shared folder, then verify a send run and close the linked issues.",
    "ref": "W0194"
+  },
+  {
+   "id": "J0780",
+   "at": "2026-11-22T22:21:05+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Agent Leads and Cold Emails deployed to production",
+   "detail": "Deployed main 84341b7 from Vercel's dashboard at 22:13 IST on Shlok's instruction. /cold-mails went from 404 to the login redirect. Pages not seen on production (password); the same web code was rendered locally on real data.",
+   "ref": "84341b7"
   }
  ]
 }

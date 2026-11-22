@@ -10859,7 +10859,7 @@
    "posted_at": "2026-04-17T19:17:20.479+00:00",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-22",
-   "open": true,
+   "open": false,
    "jd": "About Sarvam\n\nSarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.\n\n \n\nAbout the Role\n\nWe are hiring a Model Product Manager to own charters for Automatic Speech Recognition (ASR), Text-to-Speech (TTS), and model evaluation pipelines. You will work closely with research and engineering teams to define roadmaps, run training and evaluation cycles, and ship models that directly improve product experience and reliability.\n\n \n\nWhat You'll Do\n\n• Define and drive roadmaps for ASR, TTS, and evaluation systems.\n\n• Partner with engineering and research teams on data collection, training cycles, and model release planning.\n\n• Set up and own evaluation frameworks and quality metrics covering accuracy, latency, MOS, and robustness.\n\n• Run structured experiments — offline tests, A/Bs, and human evaluations — to quantify model improvements.\n\n• Ensure scalable deployment and monitoring of models in collaboration with infra and data teams.\n\n• Translate user and business needs into measurable model goals.\n\n• Communicate priorities, timelines, and trade-offs clearly across stakeholders.\n\n \n\nWhat We're Looking For\n\n• 3+ years of experience building AI, applied AI, ML products, or model training pipelines.\n\n• Familiarity with the model lifecycle: training, fine-tuning, deployment, and monitoring.\n\n• Strong analytical skills and comfort with data-driven decision making.\n\n• Ability to collaborate effectively across research, engineering, and product teams.\n\n \n\nBonus Points\n\n• Exposure to speech technologies (ASR, TTS) or evaluation pipelines.\n\n• Experience with quality metrics such as WER, CER, MOS, or latency tracking.\n\n• Hands-on familiarity with SQL, Python, or ML toolkits.\n\n \n\nWhy Sarvam?\n\nSarvam is a fast-moving, high talent-density team building full-stack AI for India, working on problems that push the frontiers of AI with real population-scale impact.\n\n• Work alongside researchers, engineers, builders, and business leaders who move fast and hold each other to a very high bar\n\n• High ownership and high impact, from day one\n\n• Everything we do is AI-first, from the way we build and ship to the way we think about problems\n\n• You can work on problems that could change how an entire country learns, works, and communicates\n\nIf you want to work on problems at the frontier of AI in India, Sarvam is the place to be.",
    "exp_min": 3,
    "exp_max": null,
@@ -10967,18 +10967,24 @@
      "actor": "lead-scout",
      "event": "reopened",
      "detail": "posting is live again"
+    },
+    {
+     "at": "2026-11-22T22:33:44+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: no longer on the company's Ashby job board"
     }
    ],
-   "updated_at": "2026-11-22T14:29:38+05:30",
+   "updated_at": "2026-11-22T22:33:44+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "closed",
     "why": "no longer on the company's Ashby job board"
    },
    "bin": {
-    "at": "2026-11-22T12:23:54+05:30",
+    "at": "2026-11-22T22:33:44+05:30",
     "reason": "no longer on the company's Ashby job board",
-    "by": "live-check"
+    "by": "research-worker"
    }
   },
   {

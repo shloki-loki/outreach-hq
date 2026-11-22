@@ -6236,6 +6236,15 @@
    "title": "Scout run cut short: 3 of 12 researched",
    "detail": "Interrupted run; python3 -m outreach scout ran >10 min holding the lock. Naukri pages unfetchable. 0 qualified. Rejected L1350, L1459, L1552.",
    "ref": "I0042"
+  },
+  {
+   "id": "J0694",
+   "at": "2026-11-22T12:27:50+05:30",
+   "by": "lead-scout",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "3 researched, 0 qualified, 3 rejected, 0 emails found; ended before 12-lead budget (scout scrape slow)",
+   "ref": ""
   }
  ]
 }

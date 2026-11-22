@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-18T18:35:47+05:30",
-   "agent": "follow-up",
-   "ok": true,
-   "summary": "0 follow-ups drafted, 0 replies flagged, 0 bounces handled (nothing due, no replies)",
-   "stats": {}
-  },
-  {
    "at": "2026-11-18T18:37:29+05:30",
    "agent": "send-track",
    "ok": true,
@@ -3481,6 +3474,13 @@
     "binned": 36,
     "unknown": 1306
    }
+  },
+  {
+   "at": "2026-11-22T12:27:50+05:30",
+   "agent": "lead-scout",
+   "ok": true,
+   "summary": "3 researched, 0 qualified, 3 rejected, 0 emails found; ended before 12-lead budget (scout scrape slow)",
+   "stats": {}
   }
  ]
 }

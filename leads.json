@@ -61989,9 +61989,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Swapnil Basak queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-22T19:13:37+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Swapnil Basak"
     }
    ],
-   "updated_at": "2026-11-22T19:12:41+05:30",
+   "updated_at": "2026-11-22T19:13:37+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "unknown",

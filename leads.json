@@ -175235,7 +175235,7 @@
    "tier": "3 - APM / Analyst",
    "location": "Bangalore Urban, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490566556",
    "source_url": "https://in.linkedin.com/jobs/view/business-analyst-at-hfg-insurance-recruitment-4490566556",
@@ -175251,7 +175251,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "We are seeking an experienced Business Analyst with strong hands-on experience in IBM OpenPages to support business and technology initiatives across risk management, governance, compliance, audit and control functions.\n The successful candidate will work closely with business stakeholders and technical teams to gather requirements, analyse business needs, support solution design discussions and drive system enhancements to meet business objectives.\n Key Responsibilities\n Engage with business stakeholders to gather, analyse and document business and functional requirements.\n Perform functional analysis and translate business requirements into clear and actionable system requirements.\n Work closely with technical teams on solution design discussions, system enhancements and backlog prioritisation.\n Prepare and maintain functional documentation, user stories, process flows and other relevant project artefacts.\n Develop and prepare test cases to support system testing and user acceptance testing (UAT).\n Support ongoing IBM OpenPages enhancements, ensuring solutions align with business and operational requirements.\n Collaborate with cross-functional teams to ensure effective delivery of requirements and system improvements.\n Requirements\n Approximately 8 years of overall Business Analyst experience.\n Mandatory hands-on experience with IBM OpenPages.\n Experience working across risk management, internal controls, audit, compliance and governance processes is highly preferred.\n Strong experience in requirements gathering, functional analysis and solution design discussions.\n Proficient in preparing functional documentation, business requirements and test cases.\n Ability to engage effectively with both business stakeholders and technical teams.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Staffing and Recruiting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -175266,8 +175266,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -175277,15 +175277,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Analyst at HfG Insurance Recruitment, asks 8 yrs and IBM OpenPages experience you lack.",
+    "fit_notes": "The posting requires 'Approximately 8 years of overall Business Analyst experience' and 'Mandatory hands-on experience with IBM OpenPages'. Shlok has ~1.3 years of experience and no IBM OpenPages experience, making this a clear mismatch.",
+    "pay_notes": "Pay is not stated in the posting, and no evidence was found online.",
+    "culture_notes": "No company website or reviews found for HfG Insurance Recruitment in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T22:34:19+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -175309,14 +175316,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 56"
+    },
+    {
+     "at": "2026-11-22T22:34:19+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (The posting asks for approximately 8 years of overall experience and mandatory hands-on experience with IBM OpenPages, which Shlok does not have.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-22T22:34:19+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for approximately 8 years of overall experience and mandatory hands-on experience with IBM OpenPages, which Shlok does not have."
   },
   {
    "id": "L1399",

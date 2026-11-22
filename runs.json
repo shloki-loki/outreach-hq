@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-19T16:29:06+05:30",
-   "agent": "follow-up/digest",
-   "ok": true,
-   "summary": "Outreach HQ 19 Nov: 19 to approve",
-   "stats": {}
-  },
-  {
    "at": "2026-11-19T17:17:01+05:30",
    "agent": "supervisor/check",
    "ok": false,
@@ -3444,6 +3437,16 @@
     "bounces": 1,
     "settled": 0,
     "followups_due": 0
+   }
+  },
+  {
+   "at": "2026-11-22T20:45:29+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 0, failed 0. daily cap of 60 speculative notes reached",
+   "stats": {
+    "sent": 0,
+    "failed": 0
    }
   }
  ]

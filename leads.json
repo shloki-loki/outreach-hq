@@ -61361,7 +61361,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-22T16:04:59+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -61403,9 +61403,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Jaganath Swamy queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-22T16:04:59+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Jaganath Swamy"
     }
    ],
-   "updated_at": "2026-11-21T20:12:52+05:30",
+   "updated_at": "2026-11-22T16:04:59+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "unknown",

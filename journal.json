@@ -6308,6 +6308,15 @@
    "title": "Ran",
    "detail": "Outreach HQ 22 Nov: all clear",
    "ref": ""
+  },
+  {
+   "id": "J0702",
+   "at": "2026-11-22T16:08:40+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

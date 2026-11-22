@@ -204442,15 +204442,15 @@
    "key": "google|program manager ii integrated fleet actions and systems|bengaluru",
    "type": "job",
    "company": "Google",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "google.com",
+   "company_url": "https://google.com",
    "company_linkedin": "https://www.linkedin.com/company/google",
    "company_note": "",
    "title": "Program Manager II, Integrated Fleet Actions and Systems",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4483628257",
    "source_url": "https://in.linkedin.com/jobs/view/program-manager-ii-integrated-fleet-actions-and-systems-at-google-4483628257",
@@ -204466,7 +204466,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Minimum qualifications:\n Bachelor's degree or equivalent practical experience.\n 2 years of experience in program or project management.\n Experience in technical program management, data center management, data center operations, new product introduction (NPI), and risk management.\n Preferred qualifications:\n Experience in supply chain management.\n Experience in application development, generative AI agent.\n Understanding of customer service, detail orientation, and the ability to communicate with technical and non-technical management teams.\n Ability to solve complex problems, drive results, and automate processes for efficiency gains.\n Ability to collaborate cross-functionally in a dynamic, ambiguous environment across all levels and around the globe.\n Ability to work independently and collaboratively in a fast-paced environment, and excellent communication and presentation skills.\n About the job A problem isn’t truly solved until it’s solved for all. That’s why Googlers build products that help create opportunities for everyone, whether down the street or across the globe. As a Program Manager at Google, you’ll lead complex, multi-disciplinary projects from start to finish — working with stakeholders to plan requirements, manage project schedules, identify risks, and communicate clearly with cross-functional partners across the company. Your projects will often span offices, time zones, and hemispheres. It's your job to coordinate the players and keep them up to date on progress and deadlines. Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.\n Responsibilities\n Lead cross-functional delivery, fleet actions, launches, ecosystem integrations. Translate complex business goals into clear scopes, OKRs, actionable roadmaps while managing dependencies and risks.\n Evaluate complex engineering challenges using technical judgment. Active involvement in architectural discussions, trade-off evaluations, maintain quality delivery standards.\n Partner across boundaries—including Engineering, Product Management, Data Center Operations—to enhance operational predictability, cycle times. Navigate Data Center infrastructure, evolving NPI ecosystem while working with key partners.\n Deliver clear, regular updates on program health, strategies, risks to partners. Summarize technical issues into actionable briefs for leadership to drive organizational alignment.\n Ensure adherence by resolving operational bottlenecks, implementing effective risk mitigation strategies. Leverage AI/ML principles, workflows, agent-based AI tools to streamline operations, accelerate delivery.\n Google is proud to be an equal opportunity",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -204481,8 +204481,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -204493,15 +204493,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Program Manager II at Google, asks 2 yrs; your supply chain facts do not match data center operations.",
+    "fit_notes": "The posting asks for '2 years of experience in program or project management' and 'Experience in technical program management, data center management, data center operations, new product introduction (NPI), and risk management.' Shlok has 1.3 years of experience and his facts are in supply chain, S&OP, and manufacturing ([msl], [o2d], [sop], [mrp], [ceo-coo]), which do not directly align with Google's data center operations requirements.",
+    "pay_notes": "Pay not stated in the posting or evidence.",
+    "culture_notes": "Company quality and culture: Google is a top-tier tech company. No specific rating data found in the provided evidence.",
+    "hook": "Google DeepMind recently introduced AlphaProof Code, a breakthrough in verifying complex software at depth.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5",
+    "researched_at": "2026-11-22T12:59:00+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Shutting the Door on the XCPE Botnet - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmJ2VVhPbGtGcWJHSGJKcV9UUHU1NzJrdWxPYndXeFNhSDdtaWtZWFl0NFJuQjFYM3pJbVlDR2J6eDdIejBQazh3RDhHYTgweGdvUHllajQyenl2UDB4dVIyZEdzd3Q0RXRHT2xDWEFzcVJlUERFRmkzZkQ4aTd2bEpEQnl2M1NfbHRxQXlONTdTaDg0S3o1aw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "A game you cannot win unless you have a quantum computer - Google Research",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHdhc1FobXI5WVRSRXQ2Y2dpTFJ6NDN2a0w3OEFiNjhUcjNfR1hYZHNCT25VWlVQaXJFTUVtU2R0Q0pvOWJtb0JkWS1yanJxT1RvanN4bDBScUw1SVZEVUM0bU5wdGxoTThSMm14TTFHcG56RDZNeFBkb24yLTh2cVRFVXFGMHpQVkFFblZEMA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "OpenAI models are coming to Google Cloud - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Gemini 4 Argon for Robotics - Google for Developers Blog",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9US2kzdWs5bHhuMThHOEpkbFZ4VTh6UEdodGJRVWJ0OXJBYlVsZk5lbnRKT3FQVUxXRFNJbDNCS3hlTVFDcTJSSm9nUzJ6R2FGWVAwRHhORm16NjdySHNleTBKMTRzWnNvejZRZGtfSXo0WWtKdFlYbURhX2haZXFRTlhvdUtrV3U1UFBiY0RMQlFsQTVpRDl5RWk1RDBnazYtbUM4Z0I?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -204525,14 +204563,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:59:00+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role requires specific data center and infrastructure program management experience, which does not match Shlok's supply chain and S&OP background, and pay is unstated.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-22T12:59:00+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires specific data center and infrastructure program management experience, which does not match Shlok's supply chain and S&OP background, and pay is unstated."
   },
   {
    "id": "L1662",

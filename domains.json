@@ -296,6 +296,12 @@
     "first"
    ],
    "confirmed": []
+  },
+  "glamstudios.in": {
+   "bounced_patterns": [
+    "first.last"
+   ],
+   "confirmed": []
   }
  }
 }

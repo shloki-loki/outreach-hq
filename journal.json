@@ -6965,6 +6965,15 @@
    "title": "Diagnosis: Reoon API key stored in plain text in issue I0010 detail",
    "detail": "PR 17 masks keys before they are stored. The old key remains in saved data and git history, so Shlok must still rotate it at reoon.com.",
    "ref": "I0025"
+  },
+  {
+   "id": "J0775",
+   "at": "2026-11-22T22:20:45+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: research-worker run marked failed 21 Nov 13:22",
+   "detail": "Real cause: Gemini 503 busy errors and read timeouts on 1-10 leads a run, and any single error marked the whole run failed. It was not the quota. PR 17 fails a run only at a quarter or more errors and shows the first one. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
+   "ref": "I0041"
   }
  ]
 }

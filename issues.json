@@ -571,7 +571,7 @@
    "opened_at": "2026-11-21T20:12:15+05:30",
    "last_seen": "2026-11-21T20:12:15+05:30",
    "count": 1,
-   "remedy": "research-worker is marked failed on 21 Nov and again on 22 Nov 13:06 although its summary reads like a normal run (30 researched, 1 qualified). Likely the Gemini free daily quota (limit 20/model) ends the run early, which the runner counts as failure. Remedy: treat the quota stop as ok, or add a paid or second key. Not changed in this run.",
+   "remedy": "Real cause: Gemini 503 busy errors and read timeouts on 1-10 leads a run, and any single error marked the whole run failed. It was not the quota. PR 17 fails a run only at a quarter or more errors and shows the first one. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
    "resolved_at": null
   },
   {

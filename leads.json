@@ -65434,7 +65434,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-22T19:36:20+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -65476,9 +65476,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Raghubir Gupta queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-22T19:36:20+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Raghubir Gupta"
     }
    ],
-   "updated_at": "2026-11-22T19:12:41+05:30",
+   "updated_at": "2026-11-22T19:36:20+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "unknown",

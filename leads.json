@@ -20518,15 +20518,15 @@
    "key": "6sense|sr portfolio program manager r and d|bengaluru",
    "type": "job",
    "company": "6sense",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "6sense.com",
+   "company_url": "https://6sense.com",
    "company_linkedin": "https://www.linkedin.com/company/6sense",
    "company_note": "",
    "title": "Sr. Portfolio Program Manager - R&D",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4489685589",
    "source_url": "https://in.linkedin.com/jobs/view/sr-portfolio-program-manager-r-d-at-6sense-4489685589",
@@ -20542,7 +20542,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "Our Mission:\n 6sense's mission is to multiply what matters: growth, retention, and efficiency. We envision a future where companies, teams and people reach their full potential.\n Our People:\n People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Every 6sensor plays a part in deﬁning the future of our industry-leading technology. 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure success by the value we create for our customers. We want 6sense to be the best chapter of your career.\n About the Role : \n We are seeking a Senior Portfolio Program Manager to provide standing, exception-based orchestration across an assigned Research & Development (R&D) pillar. Reporting to the Head of Program Management, this individual contributor partners with Product and Engineering Pillar Leaders to maintain a connected view of portfolio commitments, dependencies, risks, capacity, readiness, and key decisions while improving delivery predictability and organizational effectiveness. Combining Agile coaching with portfolio program management, the role helps teams strengthen planning discipline, execution health, and continuous improvement while translating team-level insights into actionable portfolio visibility and leadership decision support.\nThe role also serves as a champion for AI-enabled Program Management, continuously identifying and introducing automation, emerging technologies, and workflow improvements that increase scalability, operational efficiency, and decision-making effectiveness. The Portfolio Program Manager coordinates, synthesizes, and escalates material exceptions across teams, product areas, pillars, and functions.\nAccountability for product strategy, roadmap priorities, customer outcomes, engineering architecture, technical design, staffing, performance management, team execution, Scrum practices, backlog management, Jira hygiene, funding decisions, launch approvals, and risk acceptance remains with the appropriate Product, Engineering leaders. End-to-end ownership of strategic initiatives is assumed only when explicitly assigned.\n Key Responsibilities :\n Partner with Product and Engineering Pillar Leaders to establish and maintain portfolio baselines, including commitments, milestones, dependencies, ownership, readiness expectations, capacity assumptions, and success measures. \n Maintain visibility into portfolio commitments and execution progress, surfacing material variances and coordinating appropriate change-management actions when scope, timeline, resource, or delivery commitments materially change. \n Establish and continuously improve portfolio metrics, dashboards, reporting practices, automation, and AI-enabled workflows that strengthen portfolio visibility, decision-making, execution transparency, and operational efficiency. \n Ide",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -20557,8 +20557,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 38,
+    "total": 47,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -20569,15 +20569,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sr. Portfolio Program Manager at 6sense, but asks 8+ yrs experience which exceeds your 1.3 yrs.",
+    "fit_notes": "The posting asks for '8+ years of experience in Portfolio Management, Program Management, Technical Program Management, Product Operations, or related roles within a SaaS or technology environment' and 'Experience leading Product and Engineering portfolios spanning multiple teams'. It does not require an MBA or consulting. Shlok has 1.3 years of experience and execution facts like [sop] and [ceo-coo], but the 8+ year requirement is a severe gap.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "6sense recently received Frost & Sullivan's 2026 Global Company of the Year Recognition [S6] and had MarTech updates featured in November 2026 [S4]. Detailed Glassdoor ratings and review counts were not found in the evidence.",
+    "hook": "6sense was recently recognized as Frost & Sullivan's 2026 Global Company of the Year for shaping the future of revenue intelligence.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOanJ5TEhyTWRCWDZueU14ckNyYTdjR3R1SzJWWmtsTkl4a1dTZEdQLVRNWjVGN0hnMmZZaE5LbjVXLVplVWxicHFoMzdaZGVsdU1pR1NiY1ZDZ3I4ejBGbHc5Uk1Na08yZGc5ZmxWQ0VJYWtSQXA2ZC1OTTBWMHVDOFM0SDZUcHV2S2FpSG1jRmhSZm9mcW0wbWs0TDhOaUQteFdhOXBfZjdzTEJILUJWYjRRbkh4dTZoTHNmQU1hLVlKcjBsdXpNWFJ0WkJsLTlfLXpDeVpIenZMSmdkdy1YS1ZkRDByUQ?oc=5",
+    "researched_at": "2026-11-22T12:51:27+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "6sense to OfferAI-Recommended Leads, Measurable ROI in August - Demand Gen Report",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0Zhak5mQzVkdVRDeS0tbFlnUHJYMWpaNFFJTnJIcFR6QU1tU3M2bTd4VkpvV2Q0dU1URkdlV3dVVFdsbHdDRndwYzdNQWhTX3pJbzk5Zll5YzdRZG9uYzNfMnNvWlhfaXJpTGhEa2E4bmg0U29QTkM2S3VMdVJzQzZ6N3RlM1A1T1RJeFgyV0RBWjc5WTIxREF3T25GU2xDamNlR3kxNi1VNmR4MDh1T0hxWHFTcTljalhSWG5TcmhXZw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Clay vs 6sense: Choosing the right platform for ABM campaigns - Clay",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10cnNQNmlCRnRFb3BnYjNQdFg4RzRfcDdFSVd1UFJhQWFWN3MyTGo3YVBCbC1LRHlmNmFXSEczc0NEMkNDdzFqcW1NbllzTWZTX1E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "6sense Launches MCP Server, Bringing Proprietary GTM Intelligence Into Any AI Agent - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnFfUG95clFsd3VKUTFSX3dXSU5kWnFSZm9BazdkdHNiMkRjSlFtd3V1SFZhcDhPOER3V1VtMkFLRlk5RldyeGh3U0ZvZkF3aUg2dFZudUF4d2NlVU9KNGdNTDQyN0xJVmpoOHd3VFJzR2hHWWZzWWNhN3R2MTE5bW9JOFRacHZha3p1SUJJWTdhNDdxVjZsN1Q5SmNHaWlH?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Top MarTech News From the Week of November 6th: Updates from Cordial, Optimove, 6sense, and More - Solutions Review",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0c0OU82RjJGRlpMR2NPR1NxQk5mMmJXQk1kRXhpVG1pTEUwRjhmRS1vZ1ZnVXhDdzJidngyeUVTQXVwWWV3dkVLRlUtVTR0bXctbS1RR1Fuc2RKeWZvY2RBdWc2QkZlMWhfWGwwd0hKLVhLSW1JaXhQd1FJRk9BMERpOGtXcTlJakRvc0hLMzZiU1A3?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "6sense expands AI agents and search visibility - ContentGrip",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByWEQ0eWpBZXFzOU1lV0pyQUs5NXI0XzBGUHhKOHlvQW05UFZHaWppYWFHcWNUQ2RjUko4NUtYWGtiVnlldmFJdGNCRDRmbkI3VUhweHVCQ0hLRjR4MnB1dE1vY0g0X2s?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "6sense Receives Frost & Sullivan's 2026 Global Company of the Year Recognition for Shaping the Future of Revenue Intelligence - Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOanJ5TEhyTWRCWDZueU14ckNyYTdjR3R1SzJWWmtsTkl4a1dTZEdQLVRNWjVGN0hnMmZZaE5LbjVXLVplVWxicHFoMzdaZGVsdU1pR1NiY1ZDZ3I4ejBGbHc5Uk1Na08yZGc5ZmxWQ0VJYWtSQXA2ZC1OTTBWMHVDOFM0SDZUcHV2S2FpSG1jRmhSZm9mcW0wbWs0TDhOaUQteFdhOXBfZjdzTEJILUJWYjRRbkh4dTZoTHNmQU1hLVlKcjBsdXpNWFJ0WkJsLTlfLXpDeVpIenZMSmdkdy1YS1ZkRDByUQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -20601,14 +20642,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:51:27+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 47: rejected (The posting asks for 8+ years of experience in Portfolio Management, Program Management, or Technical Program Management within a SaaS or technology environment. Shlok has 1.3 years of experience, making an 8+ year senior role an extreme stretch/hard reject for his current seniority.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T12:51:27+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 8+ years of experience in Portfolio Management, Program Management, or Technical Program Management within a SaaS or technology environment. Shlok has 1.3 years of experience, making an 8+ year senior role an extreme stretch/hard reject for his current seniority."
   },
   {
    "id": "L0155",

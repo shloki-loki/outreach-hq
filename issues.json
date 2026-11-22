@@ -643,6 +643,20 @@
    "count": 1,
    "remedy": "Same cause as I0043. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
    "resolved_at": null
+  },
+  {
+   "id": "I0047",
+   "key": "supervisor:A concurrent sync can undo a send claim, so an email could go out twice",
+   "agent": "supervisor",
+   "severity": "error",
+   "title": "A concurrent sync can undo a send claim, so an email could go out twice",
+   "detail": "Found and reproduced 22 Nov: store.sync resets without the store lock; send.claim returned True while the pushed status stayed approved. Audit of sent emails found no duplicate address and kind so far. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
+   "status": "open",
+   "opened_at": "2026-11-22T22:20:58+05:30",
+   "last_seen": "2026-11-22T22:20:58+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

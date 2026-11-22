@@ -6992,6 +6992,15 @@
    "title": "Diagnosis: Bounce rate 5.9% (9 of 153), 2 more bounces on 21 Nov",
    "detail": "Corrected cause: these are not guessed addresses. 11 of the 13 bounces are founder-list addresses imported as verified from an earlier check with unknown method and date (11 of 181 first emails, 6.1%). Every queued email has that same grade, so holding guesses would not help. Shlok to decide: pause the founder campaign until the list is re-checked, or carry on over the 5% limit.",
    "ref": "I0040"
+  },
+  {
+   "id": "J0778",
+   "at": "2026-11-22T22:20:58+05:30",
+   "by": "supervisor",
+   "kind": "issue",
+   "title": "A concurrent sync can undo a send claim, so an email could go out twice",
+   "detail": "Found and reproduced 22 Nov: store.sync resets without the store lock; send.claim returned True while the pushed status stayed approved. Audit of sent emails found no duplicate address and kind so far. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
+   "ref": "I0047"
   }
  ]
 }

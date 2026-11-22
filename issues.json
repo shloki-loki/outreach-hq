@@ -357,12 +357,12 @@
    "severity": "warn",
    "title": "Drafts waiting over 3 days: 19 drafts, M0016 oldest",
    "detail": "19 messages in draft; M0016 is from 15 Nov (4 days). Nothing approved or failed; no message stuck in sending.",
-   "status": "open",
+   "status": "resolved",
    "opened_at": "2026-11-19T21:25:16+05:30",
    "last_seen": "2026-11-19T21:25:16+05:30",
    "count": 1,
-   "remedy": "Cause: drafts need Shlok's approval (supersedes I0019). Remedy: open Approvals, approve, edit or skip the 19 drafts, oldest first (M0016-M0023).",
-   "resolved_at": null
+   "remedy": "0 drafts wait as of 22 Nov 22:20.",
+   "resolved_at": "2026-11-22T22:20:15+05:30"
   },
   {
    "id": "I0027",

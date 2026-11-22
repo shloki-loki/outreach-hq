@@ -6884,6 +6884,15 @@
    "title": "Solved: Drafts waiting: 8 cold drafts unapproved, oldest M0016 since 15 Nov",
    "detail": "0 drafts wait; M0016-M0023 were all sent (1 replied).",
    "ref": "I0019"
+  },
+  {
+   "id": "J0766",
+   "at": "2026-11-22T22:20:15+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: Drafts waiting over 3 days: 19 drafts, M0016 oldest",
+   "detail": "0 drafts wait as of 22 Nov 22:20.",
+   "ref": "I0026"
   }
  ]
 }

@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-17T22:01:27+05:30",
-   "agent": "supervisor",
-   "ok": true,
-   "summary": "9 open issues (1 new I0019 drafts waiting), 0 fixed, reply rate 8.3%, bounce rate 0%",
-   "stats": {}
-  },
-  {
    "at": "2026-11-17T22:02:09+05:30",
    "agent": "founder-emails/claude",
    "ok": true,
@@ -3594,6 +3587,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-22T05:56:40+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

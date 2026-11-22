@@ -172785,15 +172785,15 @@
    "key": "unacademy|senior category manager|bengaluru",
    "type": "job",
    "company": "Unacademy",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "unacademy.com",
+   "company_url": "https://unacademy.com",
    "company_linkedin": "https://in.linkedin.com/company/unacademy",
    "company_note": "",
    "title": "Senior Category Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488657533",
    "source_url": "https://in.linkedin.com/jobs/view/senior-category-manager-at-unacademy-4488657533",
@@ -172809,7 +172809,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "We’re Hiring | Senior Category Manager – Unacademy \n Location: Bengaluru \n Work Mode: Work from Office (Monday to Saturday) \n Experience: 4+ Years \n Unacademy is looking for a business-driven Senior Category Manager who can take ownership of category performance, drive revenue growth and manage end-to-end P&L for our online business.\n What you’ll do: \n Own category P&L, revenue targets and overall business performance.\n Develop and execute strategies to drive category growth and profitability.\n Identify opportunities to improve pricing, acquisition, conversion and retention.\n Drive category-level business planning, budgeting and forecasting.\n Analyse business metrics, market trends and customer behaviour to make data-driven decisions.\n Work closely with Product, Marketing, Sales, Finance and Operations teams.\n Track performance against business goals and take corrective actions to achieve targets.\n What we’re looking for: \n 4+ years of experience in Category Management, Business Management or a similar role.\n Strong experience in managing P&L for an online business.\n Proven ability to drive revenue, growth and profitability.\n Strong understanding of business metrics, customer acquisition, conversion and retention.\n Excellent analytical, problem-solving and stakeholder management skills.\n EdTech experience is a plus, but not mandatory. Candidates from other online B2C businesses are welcome.\n If you have a strong business mindset, enjoy owning numbers and know how to scale an online business, we’d love to connect!\n Interested? Apply here - https://forms.gle/QJ7XfqvNJi1P13k99\n #Hiring #Unacademy #SeniorCategoryManager #CategoryManagement #P&L #BusinessGrowth #BengaluruJobs #OnlineBusiness #LeadershipHiring\nSeniority level Mid-Senior level | Employment type Full-time | Industries E-Learning Providers",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -172824,8 +172824,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -172836,15 +172836,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Category Manager at Unacademy, asks 4+ yrs and B2C P&L; you have 1.3 yrs and lack online P&L ownership.",
+    "fit_notes": "The posting asks for \"4+ years of experience in Category Management, Business Management or a similar role\" and \"Strong experience in managing P&L for an online business.\" Shlok has about 1.3 years of experience and does not have quick-commerce, D2C, or used-car P&L ownership. While he owned S&OP production planning and finished goods inventory [sop, ceo-coo], he does not meet the senior experience bar or the P&L requirement.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figure was found in the search evidence.",
+    "culture_notes": "No ratings found. Recent news shows that upGrad completed the acquisition of Unacademy at a $206M valuation, which is 94% below its 2021 peak valuation [S1, S5].",
+    "hook": "upGrad recently completed the acquisition of Unacademy at a $206M valuation, 94% below its 2021 peak [S5].",
+    "hook_source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGJfSHRIczhydjdwdXZSTWJFWXdSYW0xVFpMaWwxVDdWOEJpTGV1ZlBjU0c1bDgyR2t4bjUtZ3dZNF9laVZ6TEJFRDB5M0F6d3hiNVZYd1pUNV9maUFDZFljNDR3SVpBN3lubnFfdlRrcHhNaWNCMEVvNHBaMTl2bkF4ZWE5cHN0Qm9UVW1mMTlLNFhVMmRNSlpQZWd6SmpYOWtFZGlROFJhRjM5dDZHaDBTS1pQNUtOaEFOVQ?oc=5",
+    "researched_at": "2026-11-22T12:53:39+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "UpGrad completes Unacademy acquisition at $206m valuation - The PIE News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcDhFR09rYWtlZVRCWnNmcEdwOFJnOUxLbF9seGQ4ak5ScTZIZmkwS2tlRWREamlHZDYxOHZucllvQTdUZ1FnRGpBWTZwczZkOEtMQlJlbXZHQWVjUlRiR1UxcC1XeHlTNTg2ZHE5LTI3WF9zQnJJU2pZTTl0LTB2eEdjMUxLUnc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "UpGrad completes Unacademy acquisition for over $200 million; CEO says company ‘sold at a fraction’ of peak value - Kotak Neo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3l1bWZLUWJ0VE94b2pIWnN4STlaaVdwbnJxQmFYbGdjV0Z1ZnpnR0FrUmFWSmJNQ3FEU0FuS3N4OTBjbjhYUS01aWVpRkVoV1JhYVNIajI5UVV1ek5abTJDdzJyTnpESXpqWUNfQXh3Vm5SaTVlYzF2V0wzUHhQTmVQUXloOEdlMkIxTmVaMEJnODZGRXkzVVE3dGdtYm9NNEZfR1JiSkxDWnM3ZW1Bb1N1d0w?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "SAM Advises Steadview Capital on Unacademy-UpGrad Share Swap | SCC Times - SCC Online",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSl9HZGwxV0N5VTJNcnNwOVVUUEJqcFBjVjFhVU9PMVZPUGphRjNRRHJuVkZDLUo5TXctWmlpVnA4OFBvSXZMQVAzM0wtUXNOQi1wa1Foc3hvdHJSUm5uRFd3UjB0Y0laRV9PWklhMFlkWWE5VHVZc3J2QUVwSklVTFFqXzNud09DbXc2RlA4OW43NVBXaEVCd3d4T1J4N1NNMGpjN3o3TkRPbUUzZlp5dXZlZFB6YWJsV0xNWVlWV2dfcXhOeVM3Qw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "upGrad closes Unacademy buyout at $206M, 94% below its 2021 peak - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObl9udk5INHQya1pxUFFOaWJRdkZoVHRzWWhIakZQMm10QnRLS1RxckxISTluamhsbDEtdllyMHRRV0ZldXZVcTZIbWFzdXFuZ25fTW14N0UwenJCVk5yR3QzaGkwQ3kyQW8tMnFUTlIxRjlGWC1weVpRVy0tYm1qbUVPWkc1TDFIeV80UTR6WHljTFhMYV9ScXU0MA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGJfSHRIczhydjdwdXZSTWJFWXdSYW0xVFpMaWwxVDdWOEJpTGV1ZlBjU0c1bDgyR2t4bjUtZ3dZNF9laVZ6TEJFRDB5M0F6d3hiNVZYd1pUNV9maUFDZFljNDR3SVpBN3lubnFfdlRrcHhNaWNCMEVvNHBaMTl2bkF4ZWE5cHN0Qm9UVW1mMTlLNFhVMmRNSlpQZWd6SmpYOWtFZGlROFJhRjM5dDZHaDBTS1pQNUtOaEFOVQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "upGrad’s all-stock Unacademy deal makes integration capacity the scarce resource in India’s edtech consolidation - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcHZvQm02RE9wRjRIRmJyX1dZQmlhdlcybm5CSUhGWFR5bl96RWhZWWFDcTRScGVPOXNsa0d2b3BjTzliT3EwTDV5elNCajIwaVcySEp0bUxGR2IyVVBYYkxYUi1zbjY1Qy1TMFNmOWlFeU9WMW5SMVhvSkhkcGVSSVpHRnFSNE1uSUp5ZkkzOUhKUVlJcEZiVTFiMXMxNHhmYUZIeGpuRDJYYmQ5amw5b3NZRVR5bnB0TGljV25seFVJczVUcnpTZnR6M2g0Q3RUYkxfZmlnZjFHOWIyNDdRYmZRZDVsMEdIT1J3dzAtZXRab0dteC16dF9xbGFaeUE?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -172868,14 +172906,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:53:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The posting asks for 4+ years of experience and P&L ownership for an online business, and Shlok has 1.3 years of experience and lacks B2C online P&L ownership.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-22T12:53:39+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 4+ years of experience and P&L ownership for an online business, and Shlok has 1.3 years of experience and lacks B2C online P&L ownership."
   },
   {
    "id": "L1388",

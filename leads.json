@@ -9375,15 +9375,15 @@
    "key": "meesho|product manager ii|bengaluru",
    "type": "job",
    "company": "Meesho",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "meesho.com",
+   "company_url": "https://meesho.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager II",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore, Karnataka",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "lever",
    "source_id": "meesho:5dca8c71-9993-438f-ad51-da3c7f4be692",
    "source_url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
@@ -9419,8 +9419,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 35,
+    "total": 43,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -9431,15 +9431,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager II at Meesho asks 4+ years of product experience, exceeding your 1.3 years of total experience.",
+    "fit_notes": "The posting asks for 'Overall experience of 4+ yrs' and demonstrated experience in end-to-end product delivery, market research, and roadmap creation. Shlok has 1.3 years total experience in Strategy & Operations [sop, ceo-coo] and only technical product internship experience [idekho], making this a severe experience gap.",
+    "pay_notes": "No pay stated in posting; evidence does not contain specific salary data for Meesho PM II.",
+    "culture_notes": "No specific Glassdoor or AmbitionBox ratings provided in evidence.",
+    "hook": "Meesho's quarterly losses recently shrank driven by rising order volumes in Tier 2/3/4 markets.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMExLVTU4MmRnZmVqdFQ4YW5GMVBLOFRtZmUwTnF3WGU3Z05WRndOcFB2STR2RG5YYVllWnh4MzlVY3RBTGlZRjFFMVFuSDJiV19ZNHRPQjRVTGFmOFhvTXp1UHJhc05mRnI4X3lCdllITlc4NnkzNE1iNkRicWIxc2JHTzAtTDNRQU11MjNyUkt0UUx0WWQydXlSS1dOQ0Q2ZmM0VWYwUnV0UEJGMUlTZFY4eWgtUGMy?oc=5",
+    "researched_at": "2026-11-22T22:33:16+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Meesho: Making e-commerce everyone’s business - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTh6OFd6cFY3UDM0R2VERDMxdDI3MDVCY3ZUVUlldTdCSkJxbzBIVFQyU01xZTZhSnpwR0VYQlFkOC1kN29KS0R3QlVxT0Zic1NEdHZaMGdzM2FnMEN1RWZUNXF1MjRQVmtOTFRJNDBrS19YZjJmMjAwTUhUZHAyUlc4TVk4V1VTOUZjRnh2MDEzdWRiSzZ5YU1JS1pEbDF3ZGU4?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Indian e-commerce player Meesho's quarterly loss shrinks on rising orders - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMExLVTU4MmRnZmVqdFQ4YW5GMVBLOFRtZmUwTnF3WGU3Z05WRndOcFB2STR2RG5YYVllWnh4MzlVY3RBTGlZRjFFMVFuSDJiV19ZNHRPQjRVTGFmOFhvTXp1UHJhc05mRnI4X3lCdllITlc4NnkzNE1iNkRicWIxc2JHTzAtTDNRQU11MjNyUkt0UUx0WWQydXlSS1dOQ0Q2ZmM0VWYwUnV0UEJGMUlTZFY4eWgtUGMy?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Meesho Revenue and Usage Statistics (2026) - Business of Apps",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40blU0WjZIYTBuS0dGUjBnZHBvclF4VkNaOVRjMHRoVXl5c1hHSGxOdkdhaC1XN2dfRGNDWEdpQVhPUzJkUVlHR3hTanJTRDd2THFncjlaSXNYdDY5eXhXUFVKd1U?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "MEESHO Share Price Today - Meesho on NSE/BSE - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCSXZ1SWp3R1NTcmU4VVlxUDNSQlp0akpyTTdSTDZwbzZnQlViWnlQbDY1LVE2X2FxUkVxVWxRNUtfMlIwV0p2V09xRVQ4VVE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Inside Meesho's big AI bet: Why India's most-downloaded shopping app is betting on infrastructure - Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWnBCa19LTkVNdW5wWVBOdjVicTg3aDMteklPZkFYbWkxN1lncHA3ZUl6aTJEZjVFc0JzT1gxS2l5b2ZjUGVrSnNIQmFISW1kaUlOWlgtbWlfZ1hCTmNrdGVqbElQOWMtMEsxaUQtV1ZpeDNpT255bXMzS2VlcjR2YlIzQkVTOFprVFZKTUIzZXJta3g4bXMzVDQ5Z2llaU5DWWg1MWlVOGMwWlRCakF3QnhVcFYtYTdNaFhTY0pFOTdOb3pQYXpTNklzZjBFZXVnSTVWb1AyS1BPOGkw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "SoftBank sells $186M Meesho stake in block deal - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFBYZ24zZTdYX3RDOWhkRXhyaU5YZU5BMjJWM3VSZmdwZEFNN09hNXNya2JwZlExMUFCUjlpTVo4eFJsSHE3dGJSMGxxakJvWTF6TDhPNWF3TlVZb3lwdnF5MlA1X2RIUlBxWVVMYTlWdEJvR2VldVl1SU9TdGNtUFdKekVuVUE?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -9463,14 +9503,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "lever: rule score 56"
+    },
+    {
+     "at": "2026-11-22T22:33:16+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 43: rejected (The role requires 4+ years of experience as a Product Manager, whereas Shlok has only 1.3 years of total experience (primarily in Strategy & Operations).)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T22:33:16+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 4+ years of experience as a Product Manager, whereas Shlok has only 1.3 years of total experience (primarily in Strategy & Operations)."
   },
   {
    "id": "L0069",

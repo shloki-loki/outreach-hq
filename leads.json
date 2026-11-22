@@ -213110,15 +213110,15 @@
    "key": "surveymonkey|product manager ii admin and user management|bengaluru",
    "type": "job",
    "company": "SurveyMonkey",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "surveymonkey.com",
+   "company_url": "https://www.surveymonkey.com",
    "company_linkedin": "https://www.linkedin.com/company/surveymonkey",
    "company_note": "",
    "title": "Product Manager II - Admin & User Management",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4465593387",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-ii-admin-user-management-at-surveymonkey-4465593387",
@@ -213134,7 +213134,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "SurveyMonkey is the world’s most popular platform for surveys and forms, built for business—loved by users. We combine powerful capabilities with intuitive design, effectively serving every use case, from customer experience to employee engagement, market research to payment and registration forms. With built-in research expertise and AI-powered technology, it’s like having a team of expert researchers at your fingertips.\nTrusted by millions—from startups to Fortune 500 companies—SurveyMonkey helps teams gather insights and information that inspire better decisions, create experiences people love, and drive business growth. Discover how at surveymonkey.com.\n What We’re Looking For\n Enterprise and mid-market companies run complex organizations and they expect the software they buy to handle that complexity. SurveyMonkey’s admin and user management experience is a key part of that promise.\nWe are hiring a PM to own this surface. You will start with discovery to understand what our enterprise and mid-market customers actually need, where current gaps are costing us, and what a great admin experience looks like. Then you will build toward it in partnership with a Senior PM who will set direction and help you grow. This is a good role for a PM with 3-5 years of experience who wants to go deep on a real customer problem with real organizational stakes.\n What You’ll Be Working On\n Lead discovery on user management and admin experience for mid-market and enterprise customers\n Partner with a Senior PM to translate customer research, support data, and sales input into a prioritized roadmap for the user onboarding, survey administration and management and collaboration in multi-user groups.\n Define what the ideal admin UX looks like for organizations running SurveyMonkey at scale\n Develop detailed product requirements, roll-out plans and help build effective GTM (go to market) plans for your products\n Work cross-functionally with Customer Success, Sales, and Engineering to move from insight to shipped product\n We’d love to hear from people with\n 3-5 years in product management\n B2B SaaS experience strongly preferred\n Experience working on Role based permissions, platform initiatives across enterprise security, identity and access management preferred\n Comfort with open-ended discovery to find the real problems, not just the loudest request\n Strong instincts for what matters to enterprise buyers and admins, not just end users\n Collaborative working style, showcasing that you are ready to own a surface and grow\n Strong business judgement and decision making skills; ability to identify, prioritize, make tradeoffs and get alignment around highest impact initiatives.\n SurveyMonkey believes in-person collaboration is valuable for building relationships, fostering community, and enhancing our speed and execution in problem-solving and decision-making. As such, this opportunity is hybrid and requires you to work from the SurveyMonkey office in Bengaluru 3 days per ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -213149,8 +213149,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -213161,15 +213161,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager II at SurveyMonkey asking 3-5 years; your Ops and SQL background does not match the required B2B SaaS PM experience.",
+    "fit_notes": "The posting asks for '3-5 years in product management' and 'B2B SaaS experience strongly preferred', plus 'Experience working on Role based permissions, platform initiatives across enterprise security, identity and access management preferred'. Shlok has about 1.3 years of total experience, primarily in Strategy & Operations at Ola Electric ([sop], [ceo-coo]), with only a brief technical product internship ([idekho]). He lacks the 3-5 years of dedicated PM experience and enterprise security background requested.",
+    "pay_notes": "Pay not stated in the posting; no reliable evidence available for this role in India.",
+    "culture_notes": "SurveyMonkey is a well-known global survey platform with an office in Bengaluru. No specific Indian glassdoor ratings or negative culture flags were found in the provided evidence.",
+    "hook": "SurveyMonkey released the Q1 2026 AI Sentiment Study, highlighting their ongoing focus on AI-powered research capabilities.",
+    "hook_source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPejVoM0dzbDdyRFA0QkxVZVRIYmZJVUtOYlFYTENoWDVDQmhvNGp2X3RPQ2ZBbkQ3NHhyS3JvUHZULWRya0REaUtDZjVsa3lnVlNyUy13QXdsZ2VwZ3dCTGRtcVRfQzlVVXI2ZnF1V3J4MlJBQ0ZONFJLWm9iX1N2UTk1SXZHaDQ?oc=5",
+    "researched_at": "2026-11-22T12:59:45+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Survey Methodology: How SurveyMonkey Gets Its Data - SurveyMonkey",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdm11ZEUtU214b3BBVVdoSzJOMHdpdUNyN3luMHVSOU9sc1R5OTdXemxINGdQMmM5MlVCUm1VdWFzakU5NzdPTWVvcEVOcjMzcUcwT1ZZZVQ2bUpXQW4tcEx6bGdQWTlUUzVCaWpXelJLVTlFak04aXpLb3F1ZFpqZlBB?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "SurveyMonkey programs: Run continuous feedback that moves your team forward - SurveyMonkey",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BVG1FWTRweUUyWDdsRTJDOG9tSUc4Ty0xQm9zdWhYRlJBeWFRS1NVdnFCbG9WdWZ6dnVVUjU4TTRsR1VaVko2NTlXSGVoN0hFVThhWDBIbVJQN2laVHJwYXFFdFhsbElHQVFJNF9R?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "50 customer satisfaction survey questions to strengthen CSAT - SurveyMonkey",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZG5ldC1OeUpYTzNoa3hJM1FJQTRTd1ZiSHZJUloxemRoaXY5UFZvTDA5V0ZyaWpuaTI0d0RldWR1WEF6aVdSdHlMQUxKMzlUVTVtSmhGV2RQbC1RQmlMQ0N3UU5qUE1ndEtOcmRHVnhPR051b1N4c3lOYUUxaU1hdVlWQ0Jsa3JPU013WUJrbjdhOENGcWhF?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "SurveyMonkey Research: Q1 2026 AI Sentiment Study - SurveyMonkey",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPejVoM0dzbDdyRFA0QkxVZVRIYmZJVUtOYlFYTENoWDVDQmhvNGp2X3RPQ2ZBbkQ3NHhyS3JvUHZULWRya0REaUtDZjVsa3lnVlNyUy13QXdsZ2VwZ3dCTGRtcVRfQzlVVXI2ZnF1V3J4MlJBQ0ZONFJLWm9iX1N2UTk1SXZHaDQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Tips For Increasing Survey Completion Rates - SurveyMonkey",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNajhFODh5ci1HdEcwem1uVF9zRmZuMm0yeGNNQUNCR2Z5cXR4d2NGc2d1OHZmdnA3RmRkRXA4cVdsNTE5RHpzb2pRM0RycElaZFBLU052WllwdGQxb1VBaFBuRFF4dFJhTGtPZ1lzYWZMLXJxemQyLXF4RG50ckg2dDFlc3E5bjhqNGlEMENzd2RWQnVCZG5zREdjTnkwZw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Meet Today’s SurveyMonkey: AI-powered for a world where humans still matter - SurveyMonkey",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEZLRFk2a3ZEYWt6NEhnd1pwVDgtOEZWalNPWTRoZDUzMFJZRnZGNlZoV1c3VVUtYjc4LVVOc3ZVRTdJdUhJLUF5M2QxMS1iVDFqbGtfckhFRl9zUjkwbkZxRTYzODRTYS1ycHkwdk1uNUtvRmRUTDlhc21YbTNZdWVRNUg?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -213193,14 +213233,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:59:45+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role asks for 3-5 years of product management experience with a preference for B2B SaaS and enterprise security/identity background, which exceeds Shlok's ~1.3 years of total experience and lacks direct PM product surface ownership.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-22T12:59:45+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role asks for 3-5 years of product management experience with a preference for B2B SaaS and enterprise security/identity background, which exceeds Shlok's ~1.3 years of total experience and lacks direct PM product surface ownership."
   },
   {
    "id": "L1736",

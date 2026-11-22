@@ -178866,15 +178866,15 @@
    "key": "eaton|sr analyst strategy and corporate development|india",
    "type": "job",
    "company": "Eaton",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "eaton.com",
+   "company_url": "https://www.eaton.com",
    "company_linkedin": "https://ie.linkedin.com/company/eaton",
    "company_note": "",
    "title": "Sr Analyst Strategy & Corporate Development",
    "tier": "1 - Strategy & Ops",
    "location": "Pune Division, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4432790510",
    "source_url": "https://in.linkedin.com/jobs/view/sr-analyst-strategy-corporate-development-at-eaton-4432790510",
@@ -178890,7 +178890,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "What You’ll Do\n Market Studies: Lead comprehensive market studies for identifying organic/inorganic growth opportunities. Assess market size, growth potential, customer needs, emerging technologies, regulatory norms, competition etc. for areas of strategic interest\n Management Presentation: Support material preparation for internal and external leadership presentations\n Benchmarking Analysis: Perform benchmarking analyses to evaluate Eaton’s products, services, and processes against competitors and industry best practices, providing actionable insights.\n Business Case & Investment Rationale: Develop robust business cases and detailed strategic rationale documents for new investments, product launches, market entries, or expansion initiatives. Quantify financial impact (ROI, revenue growth, savings) and strategic benefits (market positioning, technology acquisition, customer value) to support executive decision-making. Incorporate sensitivity analyses, risk assessments, and mitigation plans for proposed strategic projects.\n Digital Tools & Strategy Frameworks (Preferred): Proficiency in leveraging advanced analytics and AI-driven tools to enhance strategic research and insight generation (e.g., using data analytics platforms, business intelligence dashboards, or other AI-driven market intelligence tools). Working knowledge of structured strategy frameworks and problem-solving methodologies, with the ability to integrate these tools and frameworks into data-driven storytelling and craft compelling strategic narratives for executive audiences.\n Data Interpretation: Synthesize complex datasets from internal and external sources, translating technical and market data into clear, actionable insights for stakeholders\n Outstanding communication skills, both verbal and written\n Provide guidance to other team members\n Qualifications\n Position requires an MBA; and preferably an Engineering graduation.\n Candidate must possess 6- 8 years work experience in management consulting, investment banking, corporate strategy, regional strategy & planning roles – with understanding of and interest in industrial and manufacturing products, customers, and competitors, including electrical and aerospace markets. \n Candidate must possess strong analytical and strategic thinking skills.\n Experienced in preparing materials and participating in executive reviews. Candidates with knowledge of electrical products related to data center and utility end markets are preferred.\n Job requires proficient English communication skills, including writing clear reports and creating concise presentations. \n This position demands excellent Microsoft Excel and PowerPoint skills and above average Microsoft Word and Internet research capabilities.\n Strong research skill on publicly available sources is a must.\nSeniority level Not Applicable | Employment type Full-time | Industries Appliances, Electrical, and Electronics Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -178905,8 +178905,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -178917,15 +178917,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sr Analyst Strategy at Eaton in Pune, asks 6-8 yrs and an MBA; you have 1.3 yrs and no MBA.",
+    "fit_notes": "The posting asks for: 'Position requires an MBA; and preferably an Engineering graduation' and 'Candidate must possess 6- 8 years work experience in management consulting, investment banking, corporate strategy, regional strategy & planning roles'. Shlok has about 1.3 years of experience, no MBA, and no consulting background, which are direct gaps against the hard requirements. While his inventory and S&OP work ([sop], [ceo-coo]) demonstrates strategic operations execution, the experience bracket and MBA requirement make this a clear reject.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Ratings, headcount, and stage/funding were not found in the evidence. Recent news shows Eaton agreed to acquire Italy's grid equipment maker COL Group for €810 million [S4].",
+    "hook": "Eaton recently agreed to acquire Italy's grid equipment maker COL Group for €810 million to expand its footprint in Europe.",
+    "hook_source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3NfZ1dXaGRROEdXcERsZjNZLVhPSU5KMERucGNwcDY0NmNtV2RNTFBGLU5jZTd4bWN5UFVVMFZ5bWxMUlRCYkZncTZpaTZ2Q0xjOUdDRUFrZEZjTHRtb2dKRnk3X0dFU05FUUpSMGNuNldkSXRpc0NXQVdLUFU1RTQ3al9DTlZVUWRDVDdyQVJGQkdCV1NYNGZGeGsxLW0wVEtlOG1sNnNfVVYyc3gtbE53UkZZNER4cl9Gd1Fmdw?oc=5",
+    "researched_at": "2026-11-22T12:56:29+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Eaton - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vSlNrN0RsTVkxNUhKdFl0Z3M0aDFsWjBOR09xZ1FQM3ZKOEhtWUZSMmJzZmU3LVQyWUtDNnhZRmNtTV9zQTIxSFNHUWpDdEFl?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "How Eaton & Dana Merger Will Reshape Auto Supply Chain - Procurement Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdUVzeG1MVHhhenFfTDYxb3A5VzJkX3F3UFdVeEFRSlVaUGkyWU95bE9ZN050djFvLW5iMWdyM0thdElHeGFrOThqUEVxRE9hZnJGeUhKVE5MYVhjMzhOVDI3cE80M3BRMVZfMk50YkZLTEpNc2wxelFPYmRxSXV6R1pGLU5VbERNSTBudQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Dana-Eaton $5.1-billion deal set to reshape India’s EV, CV supply chain - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNnBsRVEya0U2UmZwSkZkbXZ4ZjFHU0N1UTh3cm1LZzJkSHRRRzlHM1E3SWxVbncybWM1ZDdZbmVSdmVWdTVodHdna2FDb3hXSkJMWDh0NVYwMl9odzY3OWQ2bHJ0UW5pdlFVZVl4SnVnTTBtempfU20yVHhfYkZtZlBtN1RTUk93VGMzWjU0TGVlTm1PZVZjX0tVWGtHWjlsNDRkUWN4T1J2ZUNGRDhvNjNVeHBLRkhvVWQ4allCUW52ZjJGWS10dDgzV1QtdkXSAdYBQVVfeXFMT01SQXFBU3E0YmtJcVZlOWtOSmhCdFVBYlB1V1RqbzZyY3ROM3R2bUctY0dWbzNCNVJfWWhjY3pmMnAzc3FjNzQ2cFcyN1RVaGpwNENWRmZ4WXEwTy1JRWRYNVR3Nm83OUJZbFJyN3A1N2NESHVhZFZzbmRWdjZrWUFZeER1N2dQa2M3NFdZWWFGaTFYZmtxbXgxdEhhLTN6LTRkNExQeW5RbWp0cTdWSGhDdjVBaWtoYUNsaTRkWjJNN2Z6NDRYQzIwQlVQdVBNYjlPLVhMUQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Eaton to acquire Italy's grid equipment maker COL Group for €810 million to expand in Europe - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3NfZ1dXaGRROEdXcERsZjNZLVhPSU5KMERucGNwcDY0NmNtV2RNTFBGLU5jZTd4bWN5UFVVMFZ5bWxMUlRCYkZncTZpaTZ2Q0xjOUdDRUFrZEZjTHRtb2dKRnk3X0dFU05FUUpSMGNuNldkSXRpc0NXQVdLUFU1RTQ3al9DTlZVUWRDVDdyQVJGQkdCV1NYNGZGeGsxLW0wVEtlOG1sNnNfVVYyc3gtbE53UkZZNER4cl9Gd1Fmdw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Eaton (ETN) Surged on Accelerated Demand for Data Centre Power Solutions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQWZsN2p0UnlaMzhZamVCenZHYUpLZGxrT0lXSVhCbmFzczdSUW5zaHdPLXNiZHdwZWNoZUluVlA4YnVzMGFrb2Y4VzBzQ2EwdzNVZWNFUzlYZHdRMTcxTUN0Z1dLQ1dVcGVPX2JNOWtfd0RVMFNKODJOVjZKeldBMUdKR1VsN0ZFSmtMeXB5YVFMR2I4eVQtNzlpRHdOWW54SGc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Jagger Eaton exclusive on LA28: \"There's only one thing left in my life\" - Olympics",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjhGaDRzNGQxNTE3djNCdFRoWkViMmI5WFBpRnBqajJhMkgySi12VkZzQzF5amRqVnFFMWFuWGdjTE52ZUNrcnpNZzlXNW53cThwUXFoVlNjb2IwWnA2dk9SbkU4UUNLOXNGOXNpTExKTTJoQ0taN2FFdGVyc3pnQnZ0Q0o3SnNhWW0za3JjNmZTcHB2ZzhHUG9RSU1kLVE?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -178949,14 +178987,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:56:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The posting requires an MBA and 6-8 years of experience in management consulting, investment banking, or corporate strategy, far exceeding Shlok's 1.3 years of experience and lack of MBA.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-22T12:56:29+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting requires an MBA and 6-8 years of experience in management consulting, investment banking, or corporate strategy, far exceeding Shlok's 1.3 years of experience and lack of MBA."
   },
   {
    "id": "L1440",

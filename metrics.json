@@ -472,14 +472,14 @@
    "leads_total": 1962,
    "by_status": {
     "applied": 8,
-    "contacted": 82,
+    "contacted": 83,
     "qualified": 87,
     "rejected": 468,
     "replied": 2,
     "skipped": 3,
     "interview": 1,
     "new": 1251,
-    "to_approve": 60
+    "to_approve": 59
    },
    "by_source": {
     "linkedin_post": 58,
@@ -502,12 +502,12 @@
    "qualified_total": 122,
    "researched_total": 590,
    "with_email_total": 1023,
-   "emails_sent_total": 172,
-   "emails_sent_today": 19,
-   "cold_sent_total": 162,
+   "emails_sent_total": 174,
+   "emails_sent_today": 21,
+   "cold_sent_total": 164,
    "people_replied": 3,
    "bounces_total": 9,
-   "reply_rate": 0.019,
+   "reply_rate": 0.018,
    "bounce_rate": 0.052,
    "applied_total": 8,
    "referrals_sent": 0,

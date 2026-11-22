@@ -6893,6 +6893,15 @@
    "title": "Solved: Drafts waiting over 3 days: 19 drafts, M0016 oldest",
    "detail": "0 drafts wait as of 22 Nov 22:20.",
    "ref": "I0026"
+  },
+  {
+   "id": "J0767",
+   "at": "2026-11-22T22:20:18+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: Data sync and GitHub API unreachable during supervisor run 18 Nov ~19:00 IST",
+   "detail": "GitHub has been reachable since; sync, status and gh all work on 22 Nov. The general sync problem stays tracked in I0015 until PR 17 is merged.",
+   "ref": "I0022"
   }
  ]
 }

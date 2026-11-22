@@ -301,12 +301,12 @@
    "severity": "warn",
    "title": "Data sync and GitHub API unreachable during supervisor run 18 Nov ~19:00 IST",
    "detail": "Between about 18:50 and 19:20 IST the Mac could not reach GitHub: status, metrics and issue list failed with git fetch exit 128 on first try, gh run list timed out once (dial tcp i/o timeout). metrics never succeeded this run, so today's metrics snapshot was not stored. Same fault as I0015.",
-   "status": "open",
+   "status": "resolved",
    "opened_at": "2026-11-18T21:12:04+05:30",
    "last_seen": "2026-11-18T21:12:04+05:30",
    "count": 1,
-   "remedy": "Cause: brief network outage or stall to github.com from the Mac, same as I0015; recovered within about 20 minutes and no data was lost (data log is continuous to 18:41). Remedy: add retry with backoff to store.sync (see I0015).",
-   "resolved_at": null
+   "remedy": "GitHub has been reachable since; sync, status and gh all work on 22 Nov. The general sync problem stays tracked in I0015 until PR 17 is merged.",
+   "resolved_at": "2026-11-22T22:20:18+05:30"
   },
   {
    "id": "I0023",

@@ -238142,6 +238142,11 @@
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
+   },
+   "research_attempt": {
+    "at": "2026-11-22T22:39:10+05:30",
+    "why": "could not open the posting: HTTP 429 for https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/4491948585",
+    "by": "research-worker"
    }
   },
   {

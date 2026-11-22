@@ -6560,6 +6560,15 @@
    "title": "Diagnosis: Inbox scan failed",
    "detail": "Inbox scan at 19:00 IST failed with an SSL socket error on Gmail IMAP, after the Mac woke from sleep. The next follow-up/track runs (19:05 onward, last 20:05) were ok, so it recovered. Root cause is the same as I0043: IMAP calls have no timeout. Remedy: add timeout= to IMAP4_SSL in mailbox.py.",
    "ref": "I0046"
+  },
+  {
+   "id": "J0730",
+   "at": "2026-11-22T20:11:57+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Supervisor check 22 Nov 20:10: sender healthy",
+   "detail": "Send-track sent 10 at 20:00 and kept sending until M0340 at 20:11; 53 emails today. GitHub workflows all succeeded today (Track and send, Digest, Scout, Research, Live check, Founder emails, Tests). Data branch log shows normal claim/sent pairs with no interleaving, no repair commits. 31 approved messages wait for the next run (daily cap). 11 failed messages M0109-M0119 are from 20-21 Nov SMTP resets and still need Retry or Skip by Shlok. Gemini free quota is used up so the writer drafted 0 today; no verifier credit data beyond Reoon being active.",
+   "ref": ""
   }
  ]
 }

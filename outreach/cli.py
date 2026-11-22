@@ -611,12 +611,13 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("id")
     p.set_defaults(func=lambda a: out(supervisor.packet(a.id)))
     p = sub.add_parser("campaign", help="template emails Shlok approved in chat (config/templates/)")
-    p.add_argument("action", choices=["queue", "stop", "status", "followups"])
+    p.add_argument("action", choices=["queue", "stop", "requeue", "status", "followups"])
     p.add_argument("--template", default="followup-v1")
     p.add_argument("--limit", type=int, help="queue: today's total for this template (default: its per_day)")
     p.add_argument("--dry-run", action="store_true", help="queue: show what would be queued, save nothing")
     p.set_defaults(func=lambda a: out(campaign.queue(a.template, a.limit, a.dry_run) if a.action == "queue"
                                       else campaign.stop(a.template) if a.action == "stop"
+                                      else campaign.requeue(a.template) if a.action == "requeue"
                                       else campaign.queue_followups(a.template) if a.action == "followups"
                                       else campaign.status(a.template)))
     p = sub.add_parser("work", help="shared Codex/Claude ownership and handoff queue")

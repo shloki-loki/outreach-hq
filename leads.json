@@ -8966,15 +8966,15 @@
    "key": "gitlab|senior product manager data integrations|bengaluru",
    "type": "job",
    "company": "GitLab",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "gitlab.com",
+   "company_url": "https://about.gitlab.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Senior Product Manager - Data Integrations",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "greenhouse",
    "source_id": "gitlab:8905040002",
    "source_url": "https://job-boards.greenhouse.io/gitlab/jobs/8905040002",
@@ -9005,8 +9005,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -9016,15 +9016,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Product Manager - Data Integrations at GitLab; asks senior experience and data platform background you do not have.",
+    "fit_notes": "The posting asks for a Senior Product Manager to 'set integration priorities' and 'shape how external data maps into GitLab's shared data models'. Shlok has 1.3 years of experience, primarily in S&OP, operations, and supply chain at Ola Electric ([sop], [ceo-coo]), with only a technical product intern background ([idekho]). He lacks senior product management experience and deep software/developer tool integrations expertise.",
+    "pay_notes": "Pay not stated in the posting; no evidence found.",
+    "culture_notes": "Company quality is high (GitLab is a well-known public/private tech company), but specific Indian salary and culture ratings were not found in the search evidence.",
+    "hook": "GitLab recently introduced agent orchestration for software development, expanding its platform capabilities.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAycFA2dXhQUGNUR3AwX25XTG5PYzhEcEJsQndzS08yU0FEcVdpWmVPNVQ1c21VVy1weE05eHFFQTNMSWlFT3VjNlZDcHR5SGdhMlh6aHR2dTlJUTU1Q0EtQWxXcGY4Q29Z?oc=5",
+    "researched_at": "2026-11-22T22:39:22+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Introducing GitLab's agent orchestration for software development - GitLab",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAycFA2dXhQUGNUR3AwX25XTG5PYzhEcEJsQndzS08yU0FEcVdpWmVPNVQ1c21VVy1weE05eHFFQTNMSWlFT3VjNlZDcHR5SGdhMlh6aHR2dTlJUTU1Q0EtQWxXcGY4Q29Z?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "How to git push an existing project to GitLab - TheServerSide.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVkFORk9rYVo3cWM3VWlrellrNi1tdjZUQW5oNFJSWTgzcHJiTW5UZ0t6T3RaSjBJSUVVejdnR19YcjJRV3poQVJGaGl4R29yVVFDU3BMOTF2dmtNWW5Iekp4bnQ0WU9sQU4wVHpvOXk5eURndl9qUzlBbGlMWlI2RVNKcWFCQzdHR2RnRzZxZVV3Qkc0eXJKZ0oycWVCVFpZNVFoemJyN2pwT1ZISHhSR2hSZk03TE9QdDZZdmxOZEdZaWFSQXA0?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "CVE-2026-85706: Critical GitLab Path Traversal Exploited in the Wild - Rapid7",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUG4xby02ZVRmZWpOZWVSR0JfbmxSek5NTUhXR3BVSG9LTE5ud2xfUVJ4aTFVSmRyWmJfU1d4dFhYOXMzZkNFSHl2WTVVcGpHOEhISTM4eDI2N3Q0cm1VWDNIYU5HOE4xX3ExQzZ0MzFVTjk5Y0NfaHJJMkdaUWNaNk9vYkFZRHJZSzI4akh1eGNNeTJKd0pVbDQteTFiTGN6UlNMaGJmUFA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "PHP2Shell: GitLab helps find and remediate critical PHP flaws - GitLab",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50NWZUUGtfZkNTZGRjdk16dnFiTER1WnVuLWZtUy1TWkUwWW5xVDhqVlhhUmFHai1saUZzODZ6RnlPWUFYRktJcFdTTU5Vejh4dmxUVVBuUXhDNjlNSnpOXzhhX3p2QjdFcU1qd1BrYUZYUXJ0VkFXT0xGSm0?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Manage CI/CD credentials with GitLab Secrets Manager - GitLab",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xUGJHNFFDbWVlQ1Q2am1waHEwMmdxdk1lVF9oQWF0SkxmblltYUhtYTlqUVpOOXZvMXpvam1yblRLYWhEd0R2Nk10MGV0T250MTRQdl94ZEZ0cTJDOUhCX09XUzdPR1JpMWlCdDV3?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "GitLab Transcend Hackathon: What developers built on GitLab Orbit - GitLab",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ucHB2VzRUREx2YW1oekpUYkFUZkpJVTlIRnJjazdLNTVPN3NFazlRQmZIc1BISkVyZnVIYmhrdHM5R0VMbXZIQ0NQdkdHTjVNSHpmSG5YclR4eW9hWmw5TlNMLXdPakJhM2Z3OVZJVDA?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -9048,14 +9086,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "greenhouse: rule score 55"
+    },
+    {
+     "at": "2026-11-22T22:39:22+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (Senior Product Manager role requiring extensive experience in developer tools and data integrations; Shlok has 1.3 years of experience and no prior product management role of this seniority.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T22:39:22+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Senior Product Manager role requiring extensive experience in developer tools and data integrations; Shlok has 1.3 years of experience and no prior product management role of this seniority."
   },
   {
    "id": "L0066",

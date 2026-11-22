@@ -6569,6 +6569,15 @@
    "title": "Supervisor check 22 Nov 20:10: sender healthy",
    "detail": "Send-track sent 10 at 20:00 and kept sending until M0340 at 20:11; 53 emails today. GitHub workflows all succeeded today (Track and send, Digest, Scout, Research, Live check, Founder emails, Tests). Data branch log shows normal claim/sent pairs with no interleaving, no repair commits. 31 approved messages wait for the next run (daily cap). 11 failed messages M0109-M0119 are from 20-21 Nov SMTP resets and still need Retry or Skip by Shlok. Gemini free quota is used up so the writer drafted 0 today; no verifier credit data beyond Reoon being active.",
    "ref": ""
+  },
+  {
+   "id": "J0731",
+   "at": "2026-11-22T20:12:00+05:30",
+   "by": "supervisor",
+   "kind": "review",
+   "title": "Daily review 2026-11-22",
+   "detail": "Ran today: lead-scout/scrape 14:29 (16 new leads), research-worker 13:06 (marked failed, see I0041), people-finder, writer (0 drafted, Gemini free quota used), follow-up/track every 20 min (last 20:05), digest 16:05, send-track/send (10 per run, 53 sent today), live-check 12:23. Not run: lead-scout cut short 3 of 12 (I0042); supervisor/check keeps failing from expired claims W0006-W0008 and 11 failed messages M0109-M0119 (I0014). Problems: inbox scan failure 19:00 (I0046, recovered), Mac sender hung 08:50 to 19:05 (I0043, recovered, root cause open), bounce rate 5.3% (I0040). Fixed today: I0045 founder queue reorder, I0044 Vercel data-branch deploys (verified). Changes: PR #14 and #16 merged; web/vercel.json added to data branch. Funnel: 1962 leads, 590 researched, 122 qualified, 122 contacted + 8 applied, 3 people replied (1 interview, 0 offers). Reply rate 1.5%, bounce rate 5.3% (11 of 206). Needs Shlok: Retry or Skip M0109-M0119; mark W0006-W0008 done; redeploy main on Vercel after rate limit clears (about 19:12 on 23 Nov); add IMAP timeout; decide on Gemini quota/second key.",
+   "ref": ""
   }
  ]
 }

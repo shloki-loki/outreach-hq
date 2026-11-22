@@ -19465,15 +19465,15 @@
    "key": "amazon|sr program manager ww fba|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.in",
+   "company_url": "https://www.amazon.in",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Sr. Program Manager, WW FBA",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4464921429",
    "source_url": "https://in.linkedin.com/jobs/view/sr-program-manager-ww-fba-at-amazon-4464921429",
@@ -19489,7 +19489,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
    "open": true,
-   "jd": "",
+   "jd": "Description\n The WW FBA (Fulfilment by Amazon) team is responsible for one of the most operationally complex challenges in Amazon's supply chain: ensuring the right inventory is in the right place at the right time, at the lowest possible cost, for sellers across every marketplace. Getting this right requires tight coordination across forecasting, placement, capacity, and seller behavior — and a clear line of sight into what is driving outcomes at the country level.\nWe are looking for a Program Manager who will partner closely with in-country FBA, Supply Chain, Retail, and Operations teams in International Emerging Stores (IES) stores to drive key FBA inventory metrics — covering areas such as inventory availability, excess/Aged inventory. In the near term, this role is focused on building the operating mechanisms, measurement frameworks, and cross-functional alignment needed to move these metrics. Over time, as ownership matures, this person is expected to take on deeper accountability for metric outcomes, drive programs informed by experimentation and country-level insights, and work directly with engineering, science, and BI teams to build scalable solutions. You will need to be comfortable operating without a fully defined playbook — diagnosing problems using data you pull yourself, influencing teams you do not manage, and making decisions in the face of incomplete information. The ability to think in terms of systems, design experiments with sellers, and approach problems with an AI-first mindset will be critical to succeeding in this role and growing it over time.\nKey job responsibilities\n Partner with in-country FBA, Supply Chain, Retail, and Operations teams to drive key FBA inventory metrics taking progressively deeper ownership of outcomes over time.\n Build and maintain root-cause attribution frameworks that connect upstream inputs (forecasting gaps, inbound defects, seller restock adoption, FC constraints) to downstream metric outcomes, enabling clear and consistent diagnosis across teams.\n Lead weekly, monthly, and quarterly review mechanisms for your metric areas, representing FBA in country Business Review forums and ensuring that system-driven insights are correctly communicated and acted upon.\n Design and run structured experiments with sellers - adoption levers, communication treatments, and incentive mechanisms, etc. and use findings to build an evidence-based product and program roadmap.\n Work with Product, science, and BI teams to translate operational insights and experiment results into scalable product improvements; identify IES-specific requirements and ensure they are reflected in WW roadmaps.\n Identify opportunities to apply AI and automation to improve how metrics are tracked, root causes are diagnosed, and corrective actions are triggered.\n Coordinate peak readiness (Prime Day, BFCM) by identifying inventory risks early, stress-testing operational workflows, and working with partner teams on mitigation plans.\n Serve as",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -19504,8 +19504,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 75,
+    "total": 69,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -19516,15 +19516,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Program Manager for WW FBA at Amazon in Bengaluru; asks unspecified experience; your S&OP and supply chain scaling work maps directly.",
+    "fit_notes": "The posting asks for a program manager to 'drive key FBA inventory metrics' and 'partner closely with in-country FBA, Supply Chain, Retail, and Operations teams' with 'proficiency in SQL or equivalent querying tools'. It does not explicitly state an experience range or require an MBA or consulting. Your experience owning finished goods inventory end-to-end and managing S&OP production planning over Rs 200 Cr of inventory [sop, ceo-coo] matches the supply chain and metric-driving requirements.",
+    "pay_notes": "Pay is not stated in the posting. At 1.3 years of experience, a Senior Program Manager role at Amazon in Bengaluru could potentially clear the Rs 24.5 LPA fixed bar, but compensation remains unverified.",
+    "culture_notes": "Amazon culture is known for high ownership and operational rigor, but work-life balance in operations can be demanding; specific ratings not found in the search evidence.",
+    "hook": "Amazon recently announced a $48 billion investment in India by 2030, reinforcing its long-term commitment to expanding supply chain and fulfillment infrastructure in the region.",
+    "hook_source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5",
+    "researched_at": "2026-11-22T12:49:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdFh3U0hRSG94d05zeVBjNS13dzNJbWZ1Mml3TTFnd1NfbHBmdWY1UjV3V3ZKbUhudzBKMmxXM0hmZ29qLTFNSmlORER4d2dKVW1HTGhXZXV5MWFfRjRiaGt3c3ZFOEJCbTh0UUhieWJ3MzZ2Z1HSAXtBVV95cUxNbWw4N1JvSTlyRnppc1JXQlRlbHdDS0xqLTcxZm9QdXlmYUNfNVE5UFp2eFk0VGI5WE5nSjl4eDJXN1Rna3BVdnJEQkJicWVJTEpEN3ltZG9RMTJ1QzZ3eURmMDVxNjR2RWxvY0J3MFVMbVR1SzJZMHR2ZG8?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFvVDlwcmNmNEl1WGpwZ3A3TzF3ZkNLSDFrUHA3XzY3REJxa3Jyc3pjUnVLdXdydFp3eTBYR1E1elQzVllDV1JQVzJENFNhV3RjVWl1eFB3dWFZS1BQWlRpTC1WZWZ1OV9CZmdhQnNtdmUxb25DWS16SEVodXVlRnBFUFQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -19548,14 +19590,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:49:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 69: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-22T12:49:58+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0147",

@@ -175338,15 +175338,15 @@
    "key": "quess|business analyst ai|bengaluru",
    "type": "job",
    "company": "Quess Corp Limited",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "quesscorp.com",
+   "company_url": "https://www.quesscorp.com",
    "company_linkedin": "https://in.linkedin.com/company/quess-corp",
    "company_note": "",
    "title": "Business Analyst AI",
    "tier": "3 - APM / Analyst",
    "location": "Bangalore Urban, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490314593",
    "source_url": "https://in.linkedin.com/jobs/view/business-analyst-ai-at-quess-corp-limited-4490314593",
@@ -175362,7 +175362,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Dear Candidate,\n Greetings from Quess Corp!\n We are currently hiring for a Senior opportunity with one of our clients for the position of BA role at Bangalore location.\n Please find the details attached for your reference.\n Position : Business Analyst AI\n Location : Bangalore\n Work Model : Work from Office\n Experience : Minimum 7 years\n Job description:\n Key Responsibilities : \n ■ Evaluate, guide, and define functional architectures for Generative AI and autonomous agentic solutions across multi-functional business units.\n ■ Bridge technical engineering teams and executive stakeholders by translating complex LLM capabilities, agent memory models, and RAG architectures into clear business requirements.\n ■ Define specifications for stateful agents, knowledge retention mechanisms, and contextualization layers using vector databases and knowledge graphs.\n ■ Ensure AI transparency, auditability, and ethical governance by designing comprehensive traceability and explainability frameworks across all AI initiatives.\n ■ Assess and articulate interface requirements for multi-modal agent interactions, browser automations, and seamless workspace integrations.\n ■ Support business analysis and delivery governance across the complete transformation lifecycle, aligning AI implementation milestones with overarching enterprise goals.\n Mandatory Skills \n ■ Autonomous AI & Agentic Frameworks: Deep conceptual and architectural understanding of multi-agent orchestration and frameworks (e.g., LangChain, AutoGen, LangGraph, CrewAI, Azure OpenAI). ■ Stateful Agents & Memory Management: Robust knowledge of designing AI agents with short/long-term memory capacities, dynamic data handling, and persistent knowledge retention. ■ RAG & Knowledge Layer Structuring: Comprehensive expertise in Retrieval-Augmented Generation (RAG) paradigms, vector databases, embeddings, and knowledge graph integrations for enterprise contextualization. ■ Continuous Learning & Interface Concepts: Strong grasp of reinforcement and self-learning mechanics, multi-modal input processing (voice, video), and browser automation environments. ■ Technical Consulting & Lifecycle Delivery: Exceptional communication and consultative skills with proven experience in Agile transformation delivery lifecycles.\n ■ Domain background or transformation project experience within corporate, commercial, or retail banking and financial institutions. ■ Familiarity with sandbox design, secure development environments, and workspace tools for testing agentic automation workflows. ■ Prior hands-on software development or implementation exposure with Python, LLM APIs, and AI agent\n Apply at rashwinder.kaur@qmail.quesscorp.com\nSeniority level Associate | Employment type Full-time | Industries Staffing and Recruiting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -175377,8 +175377,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -175388,15 +175388,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Analyst AI at Quess Corp, but requires minimum 7 years experience and deep LLM agent frameworks.",
+    "fit_notes": "The posting asks for \"Minimum 7 years\" of experience and deep architectural understanding of \"Autonomous AI & Agentic Frameworks (e.g., LangChain, AutoGen, LangGraph, CrewAI, Azure OpenAI)\". While you have technical skills like Python, your experience stands at about 1.3 years and you do not have the required 7+ years or specialized enterprise AI agent development background.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures were found in the company research.",
+    "culture_notes": "Headcount, ratings, and specific culture reviews were not found. Quess Corp recently added over 20,000 employees in general staffing [S4] and reported a Q2 net profit jump [S2], but specific cultural metrics are unavailable.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T22:34:45+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Hitesh Parmar Promoted to Associate Vice President – Operations at Quess Corp Ltd. - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTy1rdEZ3MWwwSVpKS0ZZbjMyX3BIR1lJSVM4UVItNEdScC1DRUk4WExxTnI1cTZFcFl1MkFkdzhDeVJsenNtT2x0eDNDazV0VGhMRlFJTFpUYTVpM3J1bzdOeXExRDJvSFlCbjQ0Y1QtSVp5VEY1RDlDc2JxbXMzNlZTVG1vZmg2MTdPQXFPTG5BM0Q3TE02OC1nSTNrQ2xI?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Quess Corp Q2 net profit jumps 44% to ₹74.66 crore - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMFFHUzFuN2pCMk1jRXNNLVBwZ212NEUyN3dLc2psUkRqdTNjcW1oczctcWx1Z2ZrbXhnWkQwQkU0VFJoQ3FHaEQzR0pKbm5NSXdvV3I3OXNaWWtJa2std0FBM1duWTFQN1VFaERqQ3JJdzZrVTcwNDA2cUxiQWp6b3l5a0V2THBjenF2SjN6SlRrYy1GVm0yVHlpMlhVRzRGbW1TTWRacFJJMlZILTlvTW5tYkfSAbsBQVVfeXFMTU9fNmtfVUdzQ0VWNEJwcmhGbThRYkVUblBzWVJHVkFfbDFCMFBVRktldy1sZ2xpbGJ3MEQ2OFcyUGtnSm5kS3l5bVA0a003N0pIdVByN1JZQ1ZJcnZvQUpZN3BMSC1nNUxnV1dJenZSZk1PbFYyX2xUNGg3MGJTeVFLanI2aWczVHp3N09GM3RlUXkzLTNKRXNJYmhIYzVHMVJNUlRhTlpYdlhqdExHVFphbkdPOXdzNGo1UQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Quess Corp Q2 net profit jumps 44% to ₹74.66 crore - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcjNCalIxS0d2SjAzR09xRld2MWI5X0taRVlWY3lad2tfSDlBQWNwUm1RNk82NW5rU0RlWFUwZ2s5RnZUa0V3czhBX3dsdWVKc1NiUkNOZi1fQkNFRV9USFd0T1M4TElMdzVpUnYzRjEwVTQ0VnlvRDJwMlBOdWY4WWMyYXVUUkliVkI2U3ZWTDh4SHdYbkszWGFucjNDLUV5LXNTZWY1T04?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Quess Corp adds over 20,000 employees in general staffing - HR Katha",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQndZV2JHRzFVVGV2enBwaU11UTNoQWN0YXk3ZXloNGstMHhnM292MjRaREFjUzZjUTlqMHg5YTBxSTE0ZU5lT2xxUkhsdVhhVEFycWZpdmI0VFlUanNXTTdRa2FFVUJodzh1d2R0SmtvWUdYRGFyRVc5ekVKZlU5UFB3WVowUHZYYTNkSnhxNA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Quess Corp appoints Lohit Bhatia as Executive Director & Group CEO - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFZsT1R0SjVvRWRadDFMeXNUVUk3c0lDdnItNWlhX1J1bU00OVo0bWY2SVRZclJFcmRraE1vN0V1RG5qMk5ya05QTHgwSUVTWHdWSGZaY2pIWk9yekNOdTd2RUhoTm9qTmNTUmJLZ2ZwR1JPblVIUHZMLVRPYTd1cWNVaXkwR2FqN0RIODhzajVZbVBJbU1UQmI1TzlTSl9iZTk3WDZkeEkyZGFySWxnc1EycHVaT2lXZ2ZFRWVB?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "India's healthcare GCCs to generate 67,000 jobs in 2026: Quess Corp report - BioSpectrum India",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSy1DM1ozTTdfSURaYlppM1l1YXBWZzg3Y3VIWFVCUV93NXRwcFpaNlZQb3RxZTcxbkVJQUNpdGZYdzJKdVYzRjdXNXdoSkw0aVdoVDEwNDFnM204UzZFaE13bE9DMVYtMVA3cGkyV0ZlVVcxRGZFdktnSm04ZEF0TF9Lb3pZZFJvWTk1Zm5NNTB1OTFUWXpjbXN6MUFVVEFvZkdZQ29pQnVtalpFMXJNU0hHbVdQcWpDWHQw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -175420,14 +175458,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 56"
+    },
+    {
+     "at": "2026-11-22T22:34:45+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (The role requires a minimum of 7 years of experience, whereas you have about 1.3 years, making it a severe mismatch.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-22T22:34:45+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires a minimum of 7 years of experience, whereas you have about 1.3 years, making it a severe mismatch."
   },
   {
    "id": "L1400",

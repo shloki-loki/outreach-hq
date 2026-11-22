@@ -599,7 +599,7 @@
    "opened_at": "2026-11-22T18:51:34+05:30",
    "last_seen": "2026-11-22T18:51:34+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "The hung run ended by itself with an IMAP socket error and launchd started a new run at 19:05, which is sending. Root cause remains: add timeout= to the three IMAP4_SSL calls in mailbox.py.",
    "resolved_at": null
   },
   {

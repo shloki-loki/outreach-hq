@@ -6434,6 +6434,15 @@
    "title": "Solved: Founder emails went to never-sent people before the reorder was live",
    "detail": "PR #14 merged (c48936d) and founder-v2 requeued 22 Nov 19:12: 57 pulled back, 60 fresh queued, 0 of them never-sent people; 37 wait at the back. 5 more (M0251-M0255) were sent 19:05-19:12, before the reorder.",
    "ref": "I0045"
+  },
+  {
+   "id": "J0716",
+   "at": "2026-11-22T19:15:51+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Mac sender hung since 08:50 on 22 Nov: IMAP read has no timeout",
+   "detail": "The hung run ended by itself with an IMAP socket error and launchd started a new run at 19:05, which is sending. Root cause remains: add timeout= to the three IMAP4_SSL calls in mailbox.py.",
+   "ref": "I0043"
   }
  ]
 }

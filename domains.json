@@ -290,6 +290,12 @@
     "first"
    ],
    "confirmed": []
+  },
+  "vcard.ai": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

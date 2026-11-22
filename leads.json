@@ -171252,15 +171252,15 @@
    "key": "nvidia|senior technical program manager|bengaluru",
    "type": "job",
    "company": "NVIDIA",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "nvidia.com",
+   "company_url": "https://www.nvidia.com",
    "company_linkedin": "https://www.linkedin.com/company/nvidia",
    "company_note": "",
    "title": "Senior Technical Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4481612996",
    "source_url": "https://in.linkedin.com/jobs/view/senior-technical-program-manager-at-nvidia-4481612996",
@@ -171291,8 +171291,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -171303,15 +171303,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Technical Program Manager at NVIDIA, but asks 8+ yrs experience and technical program background you do not have.",
+    "fit_notes": "The posting asks for '8+ overall years of program management experience in delivering software products' and 'Bachelor’s degree in engineering, Computer Science, or similar field'. Shlok has ~1.3 years of experience (a major gap against 8+ years) and his background is in S&OP, operations, and supply chain at Ola Electric rather than software program management.",
+    "pay_notes": "Pay is not stated in the posting.",
+    "culture_notes": "Headcount and detailed ratings not found. Recent flags note executive investigation and stock volatility.",
+    "hook": "Nvidia recently published the NVIDIA Open Agent Safety Platform for continuous in-silicon agent monitoring.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFg4WTJZY1lxdDNpSXJJZnFsTFlidFZlM2VOd3NSY0VFR2Mzc3hxaFNla3V2bklFdms1U0NSM05pQzROVk1obUEtXy0xVXh6d3RCTncyaFlldjh3WmpQeHE5Q2pOQnZuaDNpbS1jMkh3eHU5dHRpbk5OYVhvaVBQVk1BWXAzNFBfUGN5TmlyMmVhTWE2SWtLQzk4Znd0S0hHQXY1MklHV2JoQWItQkg1VHFJTV9odmxCYTg4cXVsNjI?oc=5",
+    "researched_at": "2026-11-22T12:53:10+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFg4WTJZY1lxdDNpSXJJZnFsTFlidFZlM2VOd3NSY0VFR2Mzc3hxaFNla3V2bklFdms1U0NSM05pQzROVk1obUEtXy0xVXh6d3RCTncyaFlldjh3WmpQeHE5Q2pOQnZuaDNpbS1jMkh3eHU5dHRpbk5OYVhvaVBQVk1BWXAzNFBfUGN5TmlyMmVhTWE2SWtLQzk4Znd0S0hHQXY1MklHV2JoQWItQkg1VHFJTV9odmxCYTg4cXVsNjI?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Chinese spy - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcndzRG1jRHQ5c25nX1RuQVVNeXJUXzNnemotNFRpWGhwUGNCN3hmV2VkMndSVkl4V1hIMmhUMDhjWTJFa1BYckVYM1BkX0ZMMEQ2WmFxRGRhYXFtNzVJQUEtNW9PaUhfekFYM1RWeG0xbldSZlcwVldGZXVXVjNvcDdNN2dReWFqM3fSAY8BQVVfeXFMUENnNnZNQXdzaEMxejhpY05zTDJyVzdzdUVFWHA3WHl0bHlvYXNvV0xlUmNKNGxTbTZFM0RDbnlNSi1QMV9mV1p4T2MzZ1prZ3pIbG4yMnZ1MWpSLVExazNkdkxOX250aXN0eEpxNkZ0VUVhRldYTkNlN3BEVmYwWGNJdVdwYi1HV1JWYlpPdGc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Nvidia stock falls 32% in Nov: Is it a buying opportunity? Analysts answer - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNjhkOHh1ZWNGT0xwa2o3akZtdUVwemdsVERfTWlmckgwX2wyVEs0OHZ6UndDT2MzYmp0R0pYOC1NdThRTmUycEQxR1haWms3T280dWtCaDFld0E4NzlJeDhtN3IwSjNpRkdUcWd0NXVpbThsWFJfSElBbW8xNU10YVVlWW1VR2RDaVBJM1lEZWFFOW1SelFNa1lVV1BTcFdYbkg3VDhfMG12Qy1JYTlhYlY4d1ZTdEU3R2RuX3o5RWJFc0piS1FfZ0N3c2xfYm9fMm5HWNIB2gFBVV95cUxOTWo2M19Cb1JkMmhEMWx1S1JvTHhMVUZ5clp3OGlCSFhQNVR5ZGpsdmNDdl9jdy1MdHdEVHk1RzBLNXhGWlhMRzV4NHIzYTNKSlpHU2NPUHlGbmlNNXZfRm5zdWdtV19nM0tkaFFVV2JNM181UnRnRlBNeU1QWWxjaUIxYUNpemw4NTFhY3R4VUhGVjhBM2ZOcGZzRXM3WFdmTFhDWXhYNHhvSnFwc2ZKcEpET3JOYUVodEJSZDZpQmlrM1VDMTNHSGxWRkJVZUlLWDNuQXJyY284UQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rSHZmeGJPaUtpS1pra1NUa3ZHRXJ5WDI0ODVUbS1XZHo0S0lDNnpaSzBabVFWMDRHNXZJRzFYTFMyaXRGb0kxYUhRQmhHY2s3bkdrcHlPSzNQQVU?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXRsejdndmRqaEQtdlRCZE1mc19mWVdObHdta0hXcHBSbVo1N09pa3NHT1VpbVFoSjBjYnd4S1VaZDR5WVdnQVdOOGl3X2pFdHVOT01VQnBfVXVyLWV0dGFGbEtsYk1XaTNmMHdrTGhUM0pSTHhnTlhqVGVneUl2bnNDV1ZtdFFHZExBenBGa05DdWZRZTBPYzUtMXpORDU4M2dKVg?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -171335,14 +171373,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T12:53:10+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The role requires 8+ overall years of program management experience, which significantly exceeds Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-22T12:53:10+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires 8+ overall years of program management experience, which significantly exceeds Shlok's 1.3 years of experience."
   },
   {
    "id": "L1376",

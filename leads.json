@@ -230970,15 +230970,15 @@
    "key": "dynatrace|india sales operations analyst|bengaluru",
    "type": "job",
    "company": "Dynatrace",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "dynatrace.com",
+   "company_url": "https://www.dynatrace.com",
    "company_linkedin": "https://www.linkedin.com/company/dynatrace",
    "company_note": "",
    "title": "India Sales Operations Analyst",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492971435",
    "source_url": "https://in.linkedin.com/jobs/view/india-sales-operations-analyst-at-dynatrace-4492971435",
@@ -230994,7 +230994,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-22",
    "open": true,
-   "jd": "",
+   "jd": "Your role at Dynatrace\n The Sales Operations Analyst is a strategic business partner to Sales Leadership, responsible for driving operational excellence, forecast rigor, pipeline health, productivity, and disciplined execution across India region.\nWorking directly with Regional Vice President of India, Regional Directors, and cross-functional stakeholders, this role delivers forward-looking insights, identifies risks and growth opportunities, improves business processes, and supports achievement of revenue objectives. The successful candidate combines strong analytical capability with commercial judgment, executive communication, and independent execution.\n Strategic Business Partnership\n Act as the primary Sales Operations partner for Sales Leaders in India, supporting strategic planning, operational execution, and business reviews\n Build trusted relationships with RVPs, Regional Directors, sellers, and cross-functional partners.\n Provide forward-looking insights and recommendations that improve growth, productivity, and execution discipline\n Influence decisions through clear analysis, commercial judgment, and practical recommendations\n Forecasting and Business Cadence\n Drive a consistent weekly, monthly, quarterly, and annual operating cadence across the region\n Support forecast reviews and proactively identify forecast risk, pipeline gaps, execution challenges, and upside opportunities\n Prepare concise, executive-ready analyses that help Sales Leadership stay ahead of business issues\n Monitor critical performance indicators and recommend corrective actions where required\n Pipeline and Revenue Analytics\n Analyze pipeline generation, progression, coverage, conversion, and sales productivity trends\n Translate data into recommendations to improve pipeline quality, velocity, and conversion\n Conduct territory, whitespace, account, and market opportunity analysis\n Support annual planning and go-to-market development with accurate, timely, and relevant insights\n Sales Process Excellence\n Identify operational gaps, process bottlenecks, and performance inconsistencies, and drive resolution\n Promote adherence to sales policies, methodologies, data standards, and operating requirements\n Partner with Finance, Enablement, Marketing, Data, Systems, and other teams to improve seller productivity and business outcomes\n Salesforce, Data, and Systems\n Independently navigate Salesforce processes, reports, dashboards, and underlying data required for day-to-day Sales Operations support\n Serve as a subject matter expert for Sales Operations tools, reporting, and workflows\n Drive data quality, governance, process compliance, and accurate use of sales systems\n Support user adoption and operational training where required\n Operational Ownership and Communication\n Provide proactive, reliable, and insight-driven day-to-day support with minimal supervision\n Prioritize effectively, exercise sound judgment, and take ownership from issue identification through resolution\n E",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -231009,8 +231009,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -231020,15 +231020,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sales Operations Analyst at Dynatrace, asks 6-10 yrs and software experience; your 1.3 yrs at Ola falls short.",
+    "fit_notes": "The posting asks for \"6 to 10 years of experience in Sales Operations, Revenue Operations, Business Operations, or a related function\" and \"Experience supporting enterprise software, SaaS, cloud, cybersecurity, observability, or another high-growth technology environment\". Shlok has ~1.3 years of experience at Ola Electric ([ceo-coo], [sop]), which is well below the minimum requirement. While his analytical background and execution ability map to general operations, the experience gap is a hard block.",
+    "pay_notes": "Pay not stated in the posting or fetched evidence.",
+    "culture_notes": "Ratings, review counts, and culture flags were not found in the evidence.",
+    "hook": "Dynatrace recently acquired Arize to accelerate its AI observability efforts [S5].",
+    "hook_source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNThLWjFLRTdJUkFqbENQNElaRW5MN29BUTVrc3kwdE8wMFk4RVRBbTdIM01aOVdRNlFnSTV3Tk42ZW5zTV9OUndWTDZMYzI3RkRoOUtjRDl4Nm9MWEkxY3RvVnFiUjdDVEpGemVib2d4WlhiSUFVUzdSOXBoZ1JzSXFIY3ZmTzZ4ZHFFS1JkNzg1c3E4d3kzLWFFOFE5bGg0S3dvNFpoWjlIdw?oc=5",
+    "researched_at": "2026-11-22T22:37:32+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Automate RCA across ServiceNow, Dynatrace and Slack with AWS DevOps Agent - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEI4YWZjMlBuTHRzcTB0b2JINVFDUUVuNDRHSmRIN2xTS294dHhJV24zRkxZQlhEeWI3WHJUcWhERm1MTkZUUXZqZnRrREYtZjJVNUZUNTVYQXNWS1FXcjZqc0pVbTBCSDhSQkg0WmNxZmJON1R0aWNScG5DbWpac3JrNVdtWjZDY25MQl9sT0g0U1U2LVBMdHR3dUtBSkpoU2lKSHlXU24?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Dynatrace Pays $915 Million To Move AI Evaluation Upstream - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXpYSFZILWNFUDRtT2drdGtyTy1jNm1QUDNZZzBNeld0QVBfT250YnBOYkNBSENfV3JOa1huS0VVdzQ2eV9VSDRQR2h1ejdfaDc0TlN0b2ItdVZFbGxXSEFhekd0ZUJEXzNYMDNRRG14TlZyZDk4OWFjdnUxMFpfeUM0bHI3cm1yLV9vQ1RSTWI4cU0zNFQ1em5VU2hfZHB3Y21hQ3N5c3NJY3hUWC1pUQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Dynatrace Acquires Arize as AI Agents Deepen the Observability Challenge - DevOps.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjRMZERKMC1oY3lXRTRicXR5QXN3YkNmR3FyX0FCMHZmLU9EVmlGWTh0MXVJdXRBN0U3allDTnBvd0VzUmdrMXZCVEV4cHBEREdPZVdkRDZmSk9pQ2FZWFZQOF8xbS01NnJRSEhqdkVlbGZVM0RyckVvQjN2SGk0Q05oczZ4Zi1YS2pzVmlYLXFsWC1YX2c?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Dynatrace wants its AI agents to fix problems instead of adding alerts - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82SGdfNUlHMDVHNGV1MUZBWFczWTBGSk1YZ1hvYy1IWndZY3lHVGktY3lReW9mWDJTc3p0dzIyY1VSUExQcHBOc21BU3BmMENYZDh4WGFKMVYyUXlwSldTWUJPeEdXWVk?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Dynatrace acquires Arize, accelerates AI observability efforts - Constellation Research",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNThLWjFLRTdJUkFqbENQNElaRW5MN29BUTVrc3kwdE8wMFk4RVRBbTdIM01aOVdRNlFnSTV3Tk42ZW5zTV9OUndWTDZMYzI3RkRoOUtjRDl4Nm9MWEkxY3RvVnFiUjdDVEpGemVib2d4WlhiSUFVUzdSOXBoZ1JzSXFIY3ZmTzZ4ZHFFS1JkNzg1c3E4d3kzLWFFOFE5bGg0S3dvNFpoWjlIdw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Dynatrace Benefits From AI, Cloud and Telemetry Trends - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdE5VM3d5cFdnY1p6dGNRQ1haY2xjQlQ5V3Z3TkpGWmxyaXJHc0dRQnlKMENsRHhpU1MxY1FRM2p2YUFPQ2c2SjN3X0FtQlpQU05NZWdqLWcwMHJ5MW5xdXBWWlJiRTJuMjdZel9TcXktck8xZzBzTWxNZnF3anpoa1ZHMkZWR0NxVk9VZmNyOEp2VlppdnVKNzVHVXNKNG1scWlZ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -231052,14 +231090,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 56"
+    },
+    {
+     "at": "2026-11-22T22:37:32+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (Dynatrace asks for 6 to 10 years of experience in Sales Operations, which far exceeds Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-22T22:37:32+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Dynatrace asks for 6 to 10 years of experience in Sales Operations, which far exceeds Shlok's 1.3 years."
   },
   {
    "id": "L1874",

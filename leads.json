@@ -176656,15 +176656,15 @@
    "key": "rubrik|business analyst npi operations|bengaluru",
    "type": "job",
    "company": "Rubrik",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "rubrik.com",
+   "company_url": "https://www.rubrik.com",
    "company_linkedin": "https://www.linkedin.com/company/rubrik-inc",
    "company_note": "",
    "title": "Business Analyst - NPI Operations",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4482841237",
    "source_url": "https://in.linkedin.com/jobs/view/business-analyst-npi-operations-at-rubrik-4482841237",
@@ -176680,7 +176680,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "About The Team\n The CPQ & NPI Operations team sits within Product Operations and is at the core of how we bring new products to market and optimise our quote-to-cash process. We don’t just operationalise new SKUs—we ensure seamless integration of next-generation quoting tools, drive automation, and enhance the overall sales experience. We partner across Product, Engineering, Sales, Deal Desk, and Finance to streamline how products are configured, quoted, sold, and provisioned. Our team ensures that our CPQ and Product Master tools remain high-performing, scalable systems—balancing automation, policy enforcement, and ease of use without overloading it with unnecessary complexity.\n About The Role\n We are seeking a highly driven, enterprising individual with exceptional communication skills to join our NPI Operations team and help operationalise our products in our quote-to-cash processes. In this full-time hybrid role, you’ll use your NPI and CPQ knowledge to translate strategy into operational reality: aligning with cross-functional partners on process and policy, compiling requirements, and delivering efficient, scalable solutions from New Product Introduction (NPI) through End of Life (EOL).\n What You'll Do\n Support GTM initiatives and new product launches; be accountable for CPQ and NPI deliverables that drive product growth and improve sales productivity.\n Own the NPI Operations ticket queue and dashboards: triage, assign, track, and follow up to meet SLAs and prevent escalations; balance day-to-day support with small to medium projects.\n Regularly compile reports and provide clear status updates; communicate timelines, risks, and decisions to stakeholders.\n Deliver NPI releases and bug fixes based on priority; execute predefined processes independently and escalate for support or visibility when appropriate.\n Lead CPQ and NPI enhancements and initiatives end-to-end: requirements analysis, consensus-building, solution design, testing, documentation, training, and launch.\n Partner closely with IT and cross-functional teams to design scalable, agile solutions and drive timely delivery through effective coordination and communication.\n Maintain the product master and ensure SKU configuration integrity across PDM and CPQ environments; recommend improvements grounded in best practices.\n Analyse and optimise CPQ and NPI processes to drive efficiency and scalability; assess upstream/downstream impacts across PDM, CPQ, billing, and renewals.\n Work across the full quote-to-cash lifecycle—from packaging, pricing, and selling to growth, retention, and EOL transitions—to drive cross-functional alignment.\n Create, maintain, and deliver training and documentation for all new implementations to drive adoption and ensure stakeholders are enabled as products and processes roll out.\n Mentor junior analysts on CPQ/NPI processes and best practices.\n Experience You'll Need\n Required:\n 8+ years in a Business Analyst or operations role, preferably in a SaaS environm",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -176695,8 +176695,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -176706,15 +176706,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Analyst at Rubrik asks 8+ years and 6+ years in CPQ, exceeding your 1.3 years of experience.",
+    "fit_notes": "The posting asks for '8+ years in a Business Analyst or operations role, preferably in a SaaS environment' and '6+ years of hands-on experience in CPQ or other quote-to-cash system'. Shlok has about 1.3 years of experience in Strategy & Operations at Ola Electric ([ceo-coo]), which does not meet the senior experience requirement. None of his specific facts ([msl], [o2d], [sop], [mrp], [ceo-coo], [rebalance], [cell]) demonstrate the required extensive SaaS CPQ background.",
+    "pay_notes": "Pay not stated in the posting; no evidence available for this role.",
+    "culture_notes": "Ratings, review counts, and specific culture flags were not found in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-22T22:35:28+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Sophos and Rubrik Make Microsoft 365 Backup and Recovery, Powered by Rubrik Cyber Resilience, Available to Sophos Customers Worldwide - Sophos",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOXzUyMVpnUlMtLURYZkRvemJLSVY1YWhyOTZsNFV0OWg1OGE4REdzMWRQNXcweUloSmh1UXVfa21RX1NKMlExWVRtWU9va3JQY0s5OEJkWTJiUl9WaWlaRW1WdnI0dGxDeVJsdEhzN3VZcUx4WTVvYjZ4NkhDdE1ZWFpvRlpxRG9TOHJrcGRTQVYxZTBtSGRaSzRvOThPZXVxN0I3OW04MjZvSEtlbi04T1FpYTc4djVjYzNSVkV3MnZYZGVJRlhNdG5XVU9lY0tadVVXRnNlVl9sMWUxRXFQdE1mbw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Rubrik revenues roar ahead - Blocks & Files",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3VmeVk3T3VIUWV3MzVUQ2tOM2xtMXZodU1FY05GcFNIT3hGUC1iMjBGV2ExeU9Pd2hscTROX0ZGUTQ3ZnU1S2JLX3VuUTB5d2tqOGZiRDBNY2xYaDVEdUUwRFcyUjFLeFVJZTNGRHBKaS0yTGRqUkJsRm9Fejk0YVFFYTlzd3NzbzF4TE1aZzQyUF9vd2Q4?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Wipro Teams Up With Rubrik to Offer AI-Driven Cyber Resilience Service - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHFHZkd1SV9OWks2Qm5ONlRkZkpJWTVrYnpFNzdUSmNjajhTOGJaN2pTUHhicWcxd0dOamJCdW0zbFVfOURXYWNHMF9vUURIZmZvVzFGSUJqbFk2RUtGa19xYTNnaWF2SlgwMUJnY2ZUdHpzcy0wNTlEOWRIZXQ4TjZ0SmZ3MFk0dC1sZU5DdGNiUDRsOVhpRkNTSGVvQXY5X2MwOW5hcHozMjVw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Rubrik turns its platform into an AI agent and ships Agent Cloud for Claude - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHFxajduMjhkUjhJTGtWV2wwQml6V1JTRU1yNVpldnVXOUZQVF9kSEN2S3NhMDVSVk1Ca1dPWGVrRl9vUW9uTHFFZjhiNEs5RmFLQXQ3eUxBbWRMXzVmX01PUEctUnRZaWhWZk4xemJILXZQbmtqaG5hQ3czNkNrVzFDNzdnU215bTR1ZEhMNG40dUQxZXJtakZPTmRfWENvOHd5S3Q3UjMzUQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Protecting Apache Iceberg Lakehouses at Scale with Rubrik on AWS | Amazon Web Services - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUxYTVpSYnNjMFh5LVRuVzNyajJ1X3JOd1Z6LW0xTXFJRXktS0l5NEFYbm5Jb25jamJMcDRQQWJ4T3hCWjdQajN6XzBCT2NDWlIycGtjUjR5UGcxZWNyQ0EyTFdvMzNrUzU5Tnk4Njg3UlRwcUxqRU8zaGZkTGh3OXlEUld0OXFPQVVYOFBDNkV4YUVsM1A0aDVTdUd4UkE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Is Rubrik, Inc. (RBRK) A Good Stock To Buy Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdmhhMWprdXp1eHNUWkdNcTJaUURXcUV0TUJiQkd3SVhudDlDUnhDNXY3dXBHOXpFb2JYMUhBUll4QmNMTXRCS0pOTTdXaWx4T0ZIR0FKbS03ZkFMd1liSW9hRXNtNDlKRzIzRnZFU0piTzdQemEtNVpwS2Zwb3pvdGwwZEF6d243Vy1jRzRvbXJCeGVVeEE?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -176738,14 +176776,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 56"
+    },
+    {
+     "at": "2026-11-22T22:35:28+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (The posting explicitly requires 8+ years of experience and 6+ years in CPQ systems, vastly exceeding Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-22T22:35:28+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting explicitly requires 8+ years of experience and 6+ years in CPQ systems, vastly exceeding Shlok's 1.3 years."
   },
   {
    "id": "L1410",

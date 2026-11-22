@@ -228165,15 +228165,15 @@
    "key": "smartsheet|technical program manager ii ai platforms|bengaluru",
    "type": "job",
    "company": "Smartsheet",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "smartsheet.com",
+   "company_url": "https://www.smartsheet.com",
    "company_linkedin": "https://www.linkedin.com/company/smartsheet-com",
    "company_note": "",
    "title": "Technical Program Manager II - AI Platforms",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru East, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4481985177",
    "source_url": "https://in.linkedin.com/jobs/view/technical-program-manager-ii-ai-platforms-at-smartsheet-4481985177",
@@ -228189,7 +228189,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.\nAs the Technical Program Manager for AI Platform, you’ll turn our internal AI components and platform foundations into golden paths for the Product & Tech teams shipping AI experiences to customers. You’ll align roadmaps on shared components, establish clear owners, and make platform leverage visible through metrics and reporting.\n You Will\n Own the shared-foundations program. Maintain the view of components that multiple feature teams need (agent handoff, identity, context, memory, governance, and more). Drive a single accountable owner, clear roles, and decision dates for each, overlaying team roadmaps without replacing them.\n Drive cross-team decisions to closure. Frame the decisions that unblock architecture, sequence product, UX, and engineering inputs, and run working sessions with named owners and dated action items.\n Scale an innersource model. Partner with engineering to establish a contribution-based approach for shared AI components: versioned templates, reference implementations, and docs that anyone can improve through review, with clear guidelines, release processes, and safe staged rollout.\n Report on platform scorecard. Define metrics that capture ecosystem leverage, adoption, quality, and team velocity. Set baselines and targets, secure instrumentation, and bring the results into leadership and stakeholder reporting.\n Reduce duplication. Identify capabilities built in multiple places and drive consolidation/unification, tracking those migration plans across teams.\n Partner on governance. Work with security, identity, audit, and legal teams to continually iterate and track responsible AI requirements within the platform.\n Communicate clearly. Write decision-first updates tailored to leaders and project stakeholders. \n You Have\n 2-4 years of technical program management on platform, infrastructure, or developer-experience programs spanning many teams and timezones. \n Fluency in LLM & agent systems: orchestration, tool use, MCP, memory, context, evals.\n Experience defining platform or developer metrics: baselines, targets, instrumentation, and adoption measures. You’ve made invisible infrastructure work visible to leadership.\n Experience enabling shared components through SDK-style or innersource models, including versioning and release management.\n Proven ability to lead without authority across engineering, product, UX, and security.\n Strong planning discipline: dependency mapping, risk tracking, capacity awareness.\n Excellent written communication, especially decision memos and execut",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -228204,8 +228204,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -228216,15 +228216,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Technical Program Manager at Smartsheet, asks 2-4 yrs platform TPM experience and LLM fluency you lack.",
+    "fit_notes": "The posting asks for '2-4 years of technical program management on platform, infrastructure, or developer-experience programs' and 'Fluency in LLM & agent systems: orchestration, tool use, MCP, memory, context, evals'. Shlok has about 1.3 years of experience in S&OP, inventory, and operations at Ola Electric ([sop], [ceo-coo]), which does not map to technical program management for AI platforms.",
+    "pay_notes": "Pay not stated in the posting; no evidence found.",
+    "culture_notes": "Smartsheet is an established enterprise work management software company founded over 20 years ago. No direct rating or specific culture flags found in fetched evidence.",
+    "hook": "Pratima Arora recently discussed closing the gap between AI productivity and enterprise execution at Smartsheet.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWEdUdDZpLTZkcXI4cHhGUE5LQ1gxNTM5RjRxNjc1YkcwM25QZktsVXFnVWw3MUNCaXV1RUdjQTR4bnVud3BYVVp6OUJtLW1sZzlMcGxReEVBdTltV1pJaUN3ZXB2V1BjbW1zcXFwU0xOcUdfaE5BUm54MEZDVEJqb0pSWWlDYi1pV2c?oc=5",
+    "researched_at": "2026-11-22T13:05:46+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "How Smartsheet built a remote MCP server on AWS | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEpSbjdjN0JlYndIX2Q2SVJ5LVA3ZEdvN1NJM0h5enZmOW9IQjlTTzYtYjlubW9ycjQ5OUhmcHNhb25uLWVQei1ZTEpmUHVBVk53UlFLRG5RcWVNTDc1emo4M3BLWVJqY0t3UHFSejZiZ1hWUV9QVVVRa0phd1JUZWl1akNNR2wxUko3Y0FWQ3hYeXZ3UGV3ODFR?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Smartsheet Bets on APAC Leadership to Capture AI Work Management Surge - The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFU0M19oZWJaMWhWTjUxNTRIaVg1eWZ1YjB6bnZqQ1JtWVZiVEk3S1NqdlFGQV9oOXJBN19SUGtsSW9NbEtNbUQ3VHd2dFpCbVF2eUFaVUlvbDdVaS1DUmF5dE0zeFlxRkQ1eEtjSDRBVlRaOW5WZkVVbHlXbFcyUVk2ZXJXaGVyY2xlRTduU2NqdXBhSVNZN2dIakc4TGppR21GUTJTMm0?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Microsoft Project vs Smartsheet: Best Choice for 2026 - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyZVItYTQ3Nm5vRzRvekpyMDA4dEx1ZjlhUmRSTzJCU2g3M3k3ek5EOTJ3VGR0WVZoaDljeUIxZFZ4SFBxTWJUd0hRM0ZnMHhiM0wwNGNrYlNZWHpYalNQNmRtQzhtRmZoUC14QkxUZ0h0NHM2RGpKSw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Rajeev Singh, Smartsheet CEO: A Fortt Knox Update - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHhsZmYyaWNKQS1JOHllVlJaMmNnTXl6V2dpalA4RmZPam9lNkFHVEc0ZlZKdGx2aG5GTUUyMUItYWxDM250TnFzTEFMbXRCcm1JZ2NRdlVLYUJwMDVWclpLQ2dLN1NPeVdDb3Q1U1RMYWltbTZaaUZ6NFVRV2lya2w4TzNla0lDU0JoTzFCM1dOQWxU?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Intuit, Smartsheet, ETS CISOs on ensuring enterprise resilience before 'AI orphans' emerge - InformationWeek",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV3FweG5tTmNVUW5UeUJhcVpiSTJJa01vUW5YVS1SdnU1aG0xX2FoSzFiWlE3MlJSUHpwVHNLc01ackJvOVQwZkx4a1ptdklITHg5S3lhRFdpbUdMdW5vc01HRHlVUTRvaTh4NUNnTUhaN2F5WVdGM093U3lVaUdaUkJPUzRuMEIzVFFnc1l5UmVRYXFHdHZRTUROc3hncU5OSHNMU0lGcjhqRHFLUVFOQTdWRFdYc3RiSS01ZDd5bzBiZVZsTDJZb3RmSmU1V3Rm?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Smartsheet’s Pratima Arora on closing gap between AI productivity and enterprise execution - Tech Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWEdUdDZpLTZkcXI4cHhGUE5LQ1gxNTM5RjRxNjc1YkcwM25QZktsVXFnVWw3MUNCaXV1RUdjQTR4bnVud3BYVVp6OUJtLW1sZzlMcGxReEVBdTltV1pJaUN3ZXB2V1BjbW1zcXFwU0xOcUdfaE5BUm54MEZDVEJqb0pSWWlDYi1pV2c?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -228248,14 +228286,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-22T13:05:46+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (Role asks 2-4 years of technical program management on platform or developer-experience programs with fluency in LLM & agent systems, and Shlok lacks AI platform/TPM experience.)"
     }
    ],
-   "updated_at": "2026-11-21T01:04:22+05:30",
+   "updated_at": "2026-11-22T13:05:46+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Role asks 2-4 years of technical program management on platform or developer-experience programs with fluency in LLM & agent systems, and Shlok lacks AI platform/TPM experience."
   },
   {
    "id": "L1864",

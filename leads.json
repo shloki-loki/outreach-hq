@@ -54924,9 +54924,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Rachit Mittal queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-22T15:53:45+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Haitham ElKhatib queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-22T08:25:16+05:30",
+   "updated_at": "2026-11-22T15:53:45+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "unknown",

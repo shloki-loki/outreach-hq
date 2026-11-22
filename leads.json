@@ -237619,15 +237619,15 @@
    "key": "amazon|business analyst payments business analyst payments|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.in",
+   "company_url": "https://www.amazon.in",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Business Analyst - Payments, Business Analyst - Payments",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4485387885",
    "source_url": "https://in.linkedin.com/jobs/view/business-analyst-payments-business-analyst-payments-at-amazon-4485387885",
@@ -237643,7 +237643,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-22",
    "open": true,
-   "jd": "",
+   "jd": "Description\n The Business Analyst serves as a critical bridge between business stakeholders and business teams, translating business needs into actionable requirements and driving data-informed decision-making. This role is responsible for analyzing processes, identifying improvement opportunities, and delivering solutions that align with organizational goals.\nKey job responsibilities\nData Analysis & Reporting\n Analyze business data to identify trends, patterns, and actionable insights\n Develop dashboards, reports, and KPI tracking mechanisms to support decision-making\n Perform root cause analysis to address business challenges\n Process Improvement\n Map end-to-end business processes and identify optimization opportunities\n Recommend and implement process improvements to enhance efficiency and reduce costs\n Support change management initiatives and ensure smooth adoption of new processes\n Stakeholder Management\n Act as the primary liaison between business teams, Stakeholders and leadership\n Facilitate meetings, workshops, and reviews to ensure alignment across cross-functional teams\n Communicate project status, risks, and dependencies to stakeholders with clarity\n Basic Qualifications\n 1+ years of data analytics or automation experience\n 1+ years of capacity planning, operations planning, business analysis or similar experience\n Bachelor's degree\n Knowledge of data pipelining and extraction using SQL\n Knowledge of SQL and Excel at a moderate or advanced level\n Experience with data mining tools like SQL, SAS, SPSS, or similar\n Preferred Qualifications\n Experience in data analytics or automation\n Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n Company - ASSPL - Karnataka\nJob ID: A10593289\nSeniority level Not Applicable | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -237658,8 +237658,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 65,
+    "total": 61,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -237669,15 +237669,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Analyst - Payments at Amazon, asks 1+ yrs and SQL; your S&OP and data analysis work maps well.",
+    "fit_notes": "The posting asks for \"1+ years of data analytics or automation experience\", \"1+ years of capacity planning, operations planning, business analysis or similar experience\", and \"Knowledge of SQL and Excel at a moderate or advanced level\". No MBA or consulting is required. Your work on S&OP and data extraction maps directly to these needs ([sop], [ceo-coo]).",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures were found in the evidence for this role.",
+    "culture_notes": "Ratings and specific culture notes were not found in the evidence provided.",
+    "hook": "Amazon announced it will invest $48 billion in India by 2030, expanding its operational footprint significantly.",
+    "hook_source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5",
+    "researched_at": "2026-11-22T22:38:37+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdFh3U0hRSG94d05zeVBjNS13dzNJbWZ1Mml3TTFnd1NfbHBmdWY1UjV3V3ZKbUhudzBKMmxXM0hmZ29qLTFNSmlORER4d2dKVW1HTGhXZXV5MWFfRjRiaGt3c3ZFOEJCbTh0UUhieWJ3MzZ2Z1HSAXtBVV95cUxNbWw4N1JvSTlyRnppc1JXQlRlbHdDS0xqLTcxZm9QdXlmYUNfNVE5UFp2eFk0VGI5WE5nSjl4eDJXN1Rna3BVdnJEQkJicWVJTEpEN3ltZG9RMTJ1QzZ3eURmMDVxNjR2RWxvY0J3MFVMbVR1SzJZMHR2ZG8?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Rare photos of uncontacted Amazon tribes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObU8tOUk2VEtzR2I1NWRKMUloSk41a3NmT0ZNald5Zm9uaUlPbUVvSmhXVHZqMzVTeHdoRnpMS2FMWTIyNmxVRjdWckxjZC1vVGlHSkZsQVQxSWhVbHdrMm51ZW1WLWppMFhIeHMtUTRoVXpkdmdfc3lEeU5MbkwwYXNCM3o1OVM2QVE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFvVDlwcmNmNEl1WGpwZ3A3TzF3ZkNLSDFrUHA3XzY3REJxa3Jyc3pjUnVLdXdydFp3eTBYR1E1elQzVllDV1JQVzJENFNhV3RjVWl1eFB3dWFZS1BQWlRpTC1WZWZ1OV9CZmdhQnNtdmUxb25DWS16SEVodXVlRnBFUFQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -237701,14 +237742,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 56"
+    },
+    {
+     "at": "2026-11-22T22:38:37+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 61: qualified"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30",
+   "updated_at": "2026-11-22T22:38:37+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1931",

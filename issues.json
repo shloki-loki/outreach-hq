@@ -573,6 +573,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0042",
+   "key": "lead-scout:Scout run cut short: 3 of 12 researched",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "Scout run cut short: 3 of 12 researched",
+   "detail": "Interrupted run; python3 -m outreach scout ran >10 min holding the lock. Naukri pages unfetchable. 0 qualified. Rejected L1350, L1459, L1552.",
+   "status": "open",
+   "opened_at": "2026-11-22T12:27:47+05:30",
+   "last_seen": "2026-11-22T12:27:47+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

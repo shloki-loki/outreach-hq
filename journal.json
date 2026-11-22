@@ -6227,6 +6227,15 @@
    "title": "Ran",
    "detail": "1593 postings checked: 507 live, 36 moved to the Bin, 1306 could not be checked",
    "ref": ""
+  },
+  {
+   "id": "J0693",
+   "at": "2026-11-22T12:27:47+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "Scout run cut short: 3 of 12 researched",
+   "detail": "Interrupted run; python3 -m outreach scout ran >10 min holding the lock. Naukri pages unfetchable. 0 qualified. Rejected L1350, L1459, L1552.",
+   "ref": "I0042"
   }
  ]
 }

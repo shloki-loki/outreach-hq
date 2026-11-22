@@ -609,12 +609,12 @@
    "severity": "warn",
    "title": "Data-branch commits create blocked Vercel deployments",
    "detail": "web/vercel.json disables deploys for the data branch, but that branch has no such file and its commits (482 on 21 Nov) still get Vercel deployment attempts. Hobby allows 100 a day; main 8ee05cc failed on 21 Nov with 'Deployment rate limited'. The link between the two is likely, not proven.",
-   "status": "open",
+   "status": "resolved",
    "opened_at": "2026-11-22T18:51:37+05:30",
    "last_seen": "2026-11-22T18:51:37+05:30",
    "count": 1,
-   "remedy": "Happened again 22 Nov 19:12: merge 84341b7 (PR #16) got 'Deployment rate limited, retry in 24 hours'. Needs Shlok's OK: add web/vercel.json with deployments off to the data branch, then redeploy main once the limit clears.",
-   "resolved_at": null
+   "remedy": "web/vercel.json added to the data branch (29be234) on Shlok's OK. Verified 22 Nov 19:21: that commit and the 7 pipeline saves after it created no Vercel deployment or status, where every sampled save before did. The file survived the pipeline's commits. Production still needs one redeploy of main once the rate limit clears.",
+   "resolved_at": "2026-11-22T19:21:21+05:30"
   },
   {
    "id": "I0045",

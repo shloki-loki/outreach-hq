@@ -6479,6 +6479,15 @@
    "title": "Ran",
    "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
    "ref": ""
+  },
+  {
+   "id": "J0721",
+   "at": "2026-11-22T19:21:21+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: Data-branch commits create blocked Vercel deployments",
+   "detail": "web/vercel.json added to the data branch (29be234) on Shlok's OK. Verified 22 Nov 19:21: that commit and the 7 pipeline saves after it created no Vercel deployment or status, where every sampled save before did. The file survived the pipeline's commits. Production still needs one redeploy of main once the rate limit clears.",
+   "ref": "I0044"
   }
  ]
 }

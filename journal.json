@@ -6830,6 +6830,15 @@
    "title": "Work W0008: claim",
    "detail": "",
    "ref": "W0008"
+  },
+  {
+   "id": "J0760",
+   "at": "2026-11-22T22:19:53+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "Work W0006: done",
+   "detail": "Shipped in PR 4, on main. 10 Naukri and 27 Hiring Cafe leads are stored; no Wellfound lead is stored.",
+   "ref": "dd7409c"
   }
  ]
 }

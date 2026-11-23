@@ -1399,6 +1399,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0101",
+   "key": "supervisor:64 messages sit in failed state; supervisor check fails on them",
+   "agent": "supervisor",
+   "severity": "warn",
+   "title": "64 messages sit in failed state; supervisor check fails on them",
+   "detail": "23 Nov 20:xx IST check: 64 messages are failed. 52 are TimeoutError (Gmail connect timeouts, Mac had no connection 08:05-10:05 on 23 Nov, M0347-M0399 range, already diagnosed in J0988-J0998), 9 are SMTPServerDisconnected 'connection reset by peer' and 2 are 'send interrupted, not in Sent folder' (all from 20 Nov, M0109-M0119). The deterministic 'Supervisor checks' workflow marks itself FAILED (run 18:26 IST, commit dfb9f0e) every time any message is failed, so it will keep failing until these are retried or skipped.",
+   "status": "open",
+   "opened_at": "2026-11-23T20:12:14+05:30",
+   "last_seen": "2026-11-23T20:12:14+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

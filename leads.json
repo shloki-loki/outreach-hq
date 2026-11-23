@@ -45280,15 +45280,15 @@
    "key": "tekion|product manager ii|bengaluru",
    "type": "job",
    "company": "Tekion Corp",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "tekion.com",
+   "company_url": "https://tekion.com",
    "company_linkedin": "https://www.linkedin.com/company/tekion",
    "company_note": "",
    "title": "Product Manager II",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490743985",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-ii-at-tekion-corp-4490743985",
@@ -45324,8 +45324,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 65,
+    "total": 63,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -45336,15 +45336,32 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Early-career PM (Integrations) at Tekion (3k-emp automotive SaaS, Blr); your API work [idekho] and Ola automotive ops fit well.",
+    "fit_notes": "Posting asks for an early-career Product Manager to own integration patterns connecting OEMs and dealerships, requiring technical comfort. Shlok's Flask REST API work [idekho] shows technical API context, while his automotive ops background at Ola Electric [sop], [ceo-coo] adds relevant domain context. No MBA or consulting background required.",
+    "pay_notes": "Pay is not stated in the posting and no specific salary evidence for India was found in search results.",
+    "culture_notes": "No Glassdoor or AmbitionBox rating data was retrieved in the search results.",
+    "hook": "Tekion's Integrations team is scaling standardized patterns to connect automakers like General Motors, Honda, and Ford directly with dealership software.",
+    "hook_source": "https://in.linkedin.com/jobs/view/product-manager-ii-at-tekion-corp-4490743985",
+    "researched_at": "2026-11-23T13:58:57+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Tekion Corp Appoints Deep (Deepshikha) Mahajan as SVP and Head of People - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUGRDTTJ1MDJnc3gxcFZpSVgtNFc2bG1MTzVUVGdpR29iQV84bnF1QXJfQW1IX3RRWldsZ0NMMURhNU9hOUpBWEhvVDJ3SHRfdTZnTGtwWmNwSURTWTBPclFrVDJaWHFJUDJVbFd3akFNaVdzbHd0RENsdkNwN3IzRGtlNTU2WlNjY3E4LXVlYmxYQWlO?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho",
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -45368,9 +45385,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-23T13:58:57+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 63: qualified"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-23T13:58:57+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -45380,7 +45403,8 @@
     "at": "2026-11-22T12:52:49+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0343",

@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-20T22:45:16+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-20T22:45:25+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3418,6 +3405,13 @@
     "sent": 0,
     "failed": 10
    }
+  },
+  {
+   "at": "2026-11-23T10:06:58+05:30",
+   "agent": "follow-up/track",
+   "ok": false,
+   "summary": "inbox scan failed: StoreOffline: git fetch got no answer from GitHub in 90 s; nothing was changed. Check the network (a sandboxed shell has none) and run the command again.",
+   "stats": {}
   }
  ]
 }

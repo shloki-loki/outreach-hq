@@ -326,6 +326,12 @@
     "shashank@reslink.org"
    ],
    "pattern": "first"
+  },
+  "directly.live": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

@@ -35484,7 +35484,7 @@
    "key": "lab0|founder s office|bengaluru",
    "type": "company",
    "company": "Lab0",
-   "company_domain": "",
+   "company_domain": "lab0.ai",
    "company_url": "https://lab0.ai",
    "company_linkedin": "https://www.linkedin.com/company/lab0-hq",
    "company_note": "YC Spring 2026 · team of 10 · AI FDEs to make your B2B SaaS Go Live in Days, not Months",
@@ -35492,7 +35492,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "lab0:company",
    "source_url": "https://www.ycombinator.com/companies/lab0",
@@ -35514,7 +35514,7 @@
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "Not stated",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
@@ -35523,8 +35523,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 75,
+    "total": 67,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -35534,15 +35534,37 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Lab0, YC P26 team of 10; your ERP and fulfilment optimization work maps directly to their AI FDE focus.",
+    "fit_notes": "The posting is a speculative note to founders for Founder's Office at Lab0 [msl], a YC P26 company [S2] building AI FDEs for enterprise software implementation [S1]. It asks for enterprise deployment/implementation experience and scaling. Shlok's background in supply chain and ERP implementation at Ola Electric ([mrp], [cell], [sop]) maps well to B2B SaaS and ERP challenges. No MBA or consulting is required.",
+    "pay_notes": "Pay is not stated in the posting or evidence. At 1.3 years experience, reaching Rs 24.5 LPA fixed in an early YC startup requires negotiation or equity, but the baseline needs verification.",
+    "culture_notes": "Lab0 is a YC P26 startup [S2] with a team of 10. Founded by IIT Bombay and IIT Madras alumni. No formal reviews or culture flags found.",
+    "hook": "Noticed you're building AI FDEs to compress months-long ERP and enterprise software implementations into days [S1].",
+    "hook_source": "https://lab0.ai",
+    "researched_at": "2026-11-23T14:05:53+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Lab0 website",
+      "url": "https://lab0.ai"
+     },
+     {
+      "id": "S2",
+      "title": "Lab0 (YC P26): The AI Forward-Deployed Engineer Making Enterprise Software Self-Serve - yespress.io",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aTmNVeDY3czNKTzlrN25raXdsQ3owSUE0bDRvS0dyNFBjdXIxT1FET3RZSTdVYWJxaGVLOXdxNVZxMGVEYVE?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "mrp",
+     "cell",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -35606,14 +35628,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-23T14:05:53+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-23T14:05:53+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0269",

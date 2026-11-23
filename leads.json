@@ -241663,7 +241663,13 @@
     "kind": null,
     "since": null
    },
-   "notes": [],
+   "notes": [
+    {
+     "at": "2026-11-23T09:31:20+05:30",
+     "by": "lead-scout",
+     "text": "23 Nov scout: Instahyre page returns 403, could not open to verify. Snabbit raised $56M Series D Apr 2026 (Entrepreneur India); worth a manual look at LinkedIn/careers."
+    }
+   ],
    "timeline": [
     {
      "at": "2026-11-22T14:29:38+05:30",
@@ -241672,7 +241678,7 @@
      "detail": "instahyre: rule score 73"
     }
    ],
-   "updated_at": "2026-11-22T14:29:38+05:30",
+   "updated_at": "2026-11-23T09:31:20+05:30",
    "research_attempt": {
     "at": "2026-11-22T22:12:10+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",

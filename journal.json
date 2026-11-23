@@ -9179,6 +9179,15 @@
    "title": "Lead quality + simpler site (PR 18, awaiting merge)",
    "detail": "Shlok's review 23 Nov. Causes: job descriptions were cut at 3,000 characters (hid '8+ years', e.g. Celonis Chief of Staff), unstated experience scored +7, no student/graduate-program filter (Google 2027 APM), logged-out LinkedIn misses what he sees. Fixes in PR 18: full postings, >3 years dropped, not-stated labelled with 0 points, graduate programs and senior titles without years dropped, his LinkedIn job-alert emails as a source (read-only Gmail; 32 missing jobs in the last 14 days), resume keywords. Ran lead recheck on the data: 112 qualified checked, 55 kept, 12 dropped, 45 unreadable LinkedIn posts taken off the list (stage new). Site: To apply / Applied tabs, one Apply button (marks applied, green, Undo), short job page, board.json 1.4 MB instead of 8.6 MB per click. Not live until merged.",
    "ref": "PR 18"
+  },
+  {
+   "id": "J1021",
+   "at": "2026-11-23T18:26:03+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

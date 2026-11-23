@@ -216496,15 +216496,15 @@
    "key": "mercklifescience|sr production planning manager|bengaluru",
    "type": "job",
    "company": "Merck Life Science",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "merckgroup.com",
+   "company_url": "https://www.merckgroup.com",
    "company_linkedin": "https://de.linkedin.com/company/merck-life-science",
    "company_note": "",
    "title": "Sr. Production Planning Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4476548970",
    "source_url": "https://in.linkedin.com/jobs/view/sr-production-planning-manager-at-merck-life-science-4476548970",
@@ -216520,7 +216520,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-23",
    "open": true,
-   "jd": "",
+   "jd": "Work Your Magic with us!\nReady to explore, break barriers, and discover more? We know you’ve got big plans – so do we! Our colleagues across the globe love innovating with science and technology to enrich people’s lives with our solutions in Healthcare, Life Science, and Electronics. Together, we dream big and are passionate about caring for our rich mix of people, customers, patients, and planet. That's why we are always looking for curious minds that see themselves imagining the unimaginable with us.\n Your Role\n This role is responsible for the end-to-end production planning process at the Jigani manufacturing site. The Production Planning Manager translates demand signals and customer orders into executable manufacturing schedules, coordinates material availability and capacity utilization, and maintains cross-functional alignment across Supply Chain, Production, Procurement, Warehouse, Quality, Engineering, Logistics, and Customer Service to support on-time delivery and inventory performance targets.\n Key Accountability Area\n Master Production Scheduling & Material Planning\n Develop and maintain the weekly rolling Master Production Schedule (MPS) for all SKUs.\n Run MRP reviews; align procurement plans and supplier lead times to ensure material availability prior to scheduled production.\n Own SAP PP planning parameters (lot sizing, safety stock, lead times) and master data accuracy (BOM, Routing, Material Master).\n Manage APO / IBP data flow; ensure data integrity and timely updates.\n Capacity Planning & Schedule Adherence\n Conduct Rough-Cut Capacity Planning (RCCP) to identify bottleneck constraints and support production commitments.\n Monitor and analyse Schedule Adherence; identify root causes and coordinate corrective actions.\n Incorporate maintenance shutdown windows and engineering changeovers into the production schedule.\n Track capacity utilisation (RCCP Loading %) and report to site management.\n Supply Review & Cross-functional Planning Alignment\n Coordinate the monthly supply review process; prepare supply-demand netting, order status, and inventory summary for cross-functional discussion.\n Track and follow up on actions agreed in supply review meetings; ensure timely closure of open items.\n Establish NPI planning checkpoints (material confirmation and capacity confirmation) prior to new product introduction.\n Maintain alignment between supply plan and downstream stakeholders including Trading SC, Warehouse, QC, and Customer Service.\n Inventory Strategy & Aging / E&O Management\n Monitor site inventory health; track aging inventory and Excess & Obsolescence (E&O) status.\n Define safety stock levels and buffer strategies to balance service level with inventory cost.\n Coordinate resolution of backlog orders and surplus materials in alignment with relevant stakeholders.\n Work with Finance to ensure inventory targets are aligned with site financial objectives.\n Cross-functional Coordination & Stakeholder Communication\n Serve as the planni",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -216535,8 +216535,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 20,
+    "total": 36,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -216547,15 +216547,51 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sr. Production Planning Manager at Merck Life Science asks 10-15 yrs experience in chemical/life sciences, blocking your 1.3 yrs background.",
+    "fit_notes": "The posting explicitly requires '10 to 15 years in production planning, supply planning, or manufacturing planning within the chemical or life science industries'. While Shlok has SAP ERP experience and owned S&OP/MRP planning at Ola Electric [sop, mrp], the role's 10-15 years experience requirement is a hard blocker.",
+    "pay_notes": "No pay stated in the posting or found in evidence.",
+    "culture_notes": "No specific review ratings found in evidence. Company recently expanded manufacturing footprint in Bengaluru.",
+    "hook": "Merck Life Science recently expanded its manufacturing footprint in Bengaluru with a €13 million investment.",
+    "hook_source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjhrdE9tMDRSOTBCQzNJRVBvRWQzQVp1aW1Fa3NzaHA5TlJ6bmZZUU5vN1pxTk16eGt2dGgzbngxUHd1T0Zlc0pWVjR2SjVpd0lrN0xZazRhNWU0T00tcWl3YmVENEdIRmpDQ0tUU2pSOWVubDcyaHZqOTN4UFpsVzZlUDU2LVhnVXJlMDlRU0xqYWdXYmQyVmVZZWpzUEJkdXNhaGxLVGlfaXIzS05hQUJGVXpDMW5DRkEyaHdn?oc=5",
+    "researched_at": "2026-11-23T13:59:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Christiaan Veltink Appointed Head of HR Business & Enabling Functions at Merck Life Science - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEFDRzZfNzVsUmdCU1pyZGJHejZodmZyOU84VkpyZUhKOUJIR1o4Y1lSUEFJczMzZDNxd1NxSVE2dlFBVW4yNDZUaFA2SlFZRGhpRzlYVmZ4MUhZYXZMWHotZ3FtcmZ0NUNIVjVKVU11ZzZ3N3o0N0pka1B5cGlIOW9ld2pwbTVJTzY2eUpOcXJqdjVweFRuR2xOQUpJUzI0NGRVZnVzdC1lVWtkTXc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Merck Life Science Expands Bengaluru Manufacturing with €13 Million Investment - BioPharma APAC",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjhrdE9tMDRSOTBCQzNJRVBvRWQzQVp1aW1Fa3NzaHA5TlJ6bmZZUU5vN1pxTk16eGt2dGgzbngxUHd1T0Zlc0pWVjR2SjVpd0lrN0xZazRhNWU0T00tcWl3YmVENEdIRmpDQ0tUU2pSOWVubDcyaHZqOTN4UFpsVzZlUDU2LVhnVXJlMDlRU0xqYWdXYmQyVmVZZWpzUEJkdXNhaGxLVGlfaXIzS05hQUJGVXpDMW5DRkEyaHdn?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "[Interview] Merck Life Science CEO calls Daejeon its most advanced smart manufacturing site - Korea Biomedical Review",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82QkZqaHU4bFFGb3hMUDNMRXBBNTkzUXI5cHJvcE9BVVdlS2xQTkZ5d3VHVUtfVVZVdC11Rms2R0dPMlhKRkxqc0VOXzAtZVVLTmZ2d2ZtcGFvbmFBYmJqOEw0WkRVeG4ycEo2ekV30gFyQVVfeXFMTklvdG0yTU5zRDJZeVhOWXFrVllxcG5zTURJMExHa253Y19TWHVfZGR6cGkyck5sXy0wSkRydmYxX0NPR0tURTAxZHBtVmRQVEZkOWxYem42dXZxQ1UzLW82a1V3WV9UbzBadVgxdVNYUy1n?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Merck Life Science Expands Manufacturing Facility in Peenya, Bengaluru - BioTecNika",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWdSR1JtUUM1NU5FWUlUdTJCRjRfVXNRR1l6THlncHVma1d5Ymt5R1M3YnBWM01VQ1dXbEJJenFKempoUEVXNjBFc0g4dDVfM1hEa2ZwRVlDWm53SldtbnBmWVFkT18zaDlhNmdtMUx1WHJlUkVnYUx3NkN5RzJBYlZjSHFuYUVoZGZjSVUyelhLZ0xxVm5FcGpEaWw2TUtfTEJ3cW15M0s?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "C-Suite Conversations, with Dhananjay Singh, MD of Merck Life Science India - Marksmen Daily",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DOVFlYk1XZ250bm02Tl9LdW1QdXdUbjVkSUtOLVpFT3p2d2NkY0o3cVpxR0VVS0RTMWV4dXJ6NnNhR1RVWE8wYmlweTdoT2xwVExqQkxRY004TzNsRDdyeXBmSDJKVFZyVjZJMkpXY0V0Q0U?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -216579,9 +216615,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-23T13:59:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 36: rejected (Requires 10 to 15 years of experience in chemical or life science production planning, far exceeding Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-23T13:59:58+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -216591,7 +216633,8 @@
     "at": "2026-11-22T13:01:29+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Requires 10 to 15 years of experience in chemical or life science production planning, far exceeding Shlok's 1.3 years of experience."
   },
   {
    "id": "L1738",

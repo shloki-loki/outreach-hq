@@ -242998,6 +242998,11 @@
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
     "why": ""
+   },
+   "research_attempt": {
+    "at": "2026-11-23T13:51:29+05:30",
+    "why": "error: Gemini unreachable: The read operation timed out",
+    "by": "research-worker"
    }
   },
   {

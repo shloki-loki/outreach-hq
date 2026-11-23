@@ -73734,7 +73734,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-23T11:14:33+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-23T12:45:13+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -73775,9 +73775,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Namita Gupta"
+    },
+    {
+     "at": "2026-11-23T12:45:13+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "namita@airveda.com: HI Shlok, Please share your resume. Kajal please follow up. warm regards, Namita www.airveda.com Download Airveda android app <https://play.google.com/store/app"
     }
    ],
-   "updated_at": "2026-11-23T11:14:33+05:30",
+   "updated_at": "2026-11-23T12:45:13+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "unknown",

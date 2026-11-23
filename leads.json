@@ -35818,15 +35818,22 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 61: qualified"
+    },
+    {
+     "at": "2026-11-23T14:07:50+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-23T14:06:07+05:30",
+   "updated_at": "2026-11-23T14:07:50+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
    },
-   "reject_reason": null
+   "reject_reason": null,
+   "people_searched_at": "2026-11-23T14:07:50+05:30"
   },
   {
    "id": "L0270",

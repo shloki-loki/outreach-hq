@@ -25,6 +25,9 @@ jobs:
     timeout-minutes: 30
     env:
       APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+      # read-only: LinkedIn job-alert emails in his inbox (outreach/sources/alerts.py)
+      GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/checkout@v4

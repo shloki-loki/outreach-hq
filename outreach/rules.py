@@ -172,6 +172,16 @@ class Verdict:
     pay: Pay = field(default_factory=Pay)
 
 
+def ineligible(title: str, description: str, targeting: dict) -> str | None:
+    """Why he cannot apply at all (student-only or graduate programs), or None."""
+    text = f"{title}\n{description}"
+    for pattern in (targeting.get("eligibility") or {}).get("exclude", []):
+        match = re.search(pattern, text, re.I)
+        if match:
+            return f"not open to him: posting says '{match.group(0).strip()}'"
+    return None
+
+
 def judge(job: dict[str, Any], targeting: dict) -> Verdict:
     """Score one raw job. `job` has title, company, location, description, pay_text, posted_at."""
     title, company = job.get("title") or "", job.get("company") or ""
@@ -184,6 +194,9 @@ def judge(job: dict[str, Any], targeting: dict) -> Verdict:
     tier, points, stretch, reason = classify_title(title, targeting)
     if reason:
         return Verdict(False, reject_reason=reason)
+    blocker = ineligible(title, description, targeting)
+    if blocker:
+        return Verdict(False, tier=tier, reject_reason=blocker)
     verdict = Verdict(True, tier=tier, stretch=stretch)
     verdict.score += points
     verdict.reasons.append(f"{tier} role (+{points})")
@@ -215,11 +228,11 @@ def judge(job: dict[str, Any], targeting: dict) -> Verdict:
             verdict.score += 10
             verdict.reasons.append(f"Experience close: asks {exp_min:g}+ years (+10)")
     else:
-        verdict.score += 7
-        verdict.reasons.append("Experience not stated (+7)")
-    if stretch and exp_min is None:
-        verdict.score -= 6
-        verdict.reasons.append("Senior-sounding title, seniority unconfirmed (-6)")
+        # 2026-11-23: no bonus for silence. Shown, labelled "Experience not stated".
+        verdict.reasons.append("Experience not stated (+0)")
+        senior = (targeting.get("eligibility") or {}).get("senior_title")
+        if senior and re.search(senior, title, re.I):
+            return Verdict(False, tier=tier, reject_reason="senior title and no stated experience")
 
     floor = targeting["pay"]["floor_lpa"]
     low, high, matched = parse_pay(" ".join(filter(None, [job.get("pay_text"), title, description])))

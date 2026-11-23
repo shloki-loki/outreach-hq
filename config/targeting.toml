@@ -8,8 +8,21 @@ target_max_lpa = 30.0
 
 [experience]
 ideal_max_years = 3       # roles asking up to this are a normal fit
-stretch_max_years = 4     # asked minimum of 3-4 years: kept, flagged as stretch
-# a stated minimum above stretch_max_years is dropped
+stretch_max_years = 3     # 2026-11-23, Shlok: more than 3 years is not listed at all (was 4)
+# a stated minimum above stretch_max_years is dropped. Not stated: kept, labelled "Experience not stated", no bonus.
+
+[eligibility]
+# Programs he cannot apply to (2026-11-23: Google "University Graduate, 2027 Start" APM was listed as a top pick).
+# Checked on the title and the full posting; any match drops the lead.
+exclude = [
+  "university graduate", "new grad(uate)?s?\\b", "graduate (program|programme|scheme|trainee)", "campus (hiring|recruit|placement)",
+  "\\b20(2[6-9]|3[0-9]) (start|graduates?|batch|pass[- ]?outs?)\\b", "(class|batch) of 20(2[6-9]|3[0-9])",
+  "(graduating|graduation) (in|year) 20(2[6-9]|3[0-9])", "currently (enrolled|pursuing)", "final[- ]year (students?|undergrad)",
+  "pre[- ]final year", "\\bsummer (analyst|associate|internship)\\b",
+  "\\bapprentice(ship)?\\b", "\\bfellowship\\b",
+]
+# Senior titles with no stated experience are almost never open to ~1.3 years; dropped (stated <= 3 years is kept).
+senior_title = "\\b(senior|sr\\.?|group|principal|staff|head)\\b"
 
 [location]
 # Scored highest to lowest. Anything outside India is dropped unless it is remote and open to India.
@@ -47,6 +60,7 @@ name = "2 - Product / Program / BD"
 points = 28
 patterns = [
   "product manager", "program manager", "programme manager", "business development manager",
+  "business development (associate|lead|specialist)\\b", "corporate development", "strategic partnerships",
   "growth manager", "category manager", "operations manager", "supply chain manager",
   "partnerships manager", "expansion manager", "city (head|manager|lead)", "launch manager",
   "product operations", "revenue operations", "strategy & planning", "planning manager",
@@ -77,6 +91,11 @@ stretch = ["\\bsenior\\b", "\\bsr\\.?\\b", "\\blead\\b", "\\bgroup\\b", "\\bii\\
 keep_threshold = 45       # rule score at or above this becomes a lead for the scout agent to research
 qualified_threshold = 60  # final score (rules + research) at or above this is shown as Qualified (65 -> 60 on 2026-11-19, his call to widen)
 
+[alerts]
+# LinkedIn job-alert emails in his Gmail (outreach/sources/alerts.py). Read each scout run.
+enabled = true
+days = 3
+
 # Searches run against LinkedIn's public (logged-out) job search.
 [linkedin]
 keywords = [
@@ -88,6 +107,9 @@ keywords = [
   "\"program manager\"", "\"category manager\"", "\"business analyst\" strategy", "\"product operations\"",
   "\"revenue operations\"", "\"growth manager\"", "\"demand planning\"", "\"supply chain planning\"",
   "\"strategy analyst\"", "\"business operations\" manager", "\"expansion manager\"", "\"planning manager\"",
+  # 2026-11-23, Shlok: keywords from his resume
+  "\"business development\"", "\"business strategy\"", "\"strategy manager\"", "\"strategy associate\"",
+  "\"corporate strategy\"", "\"founders office\"", "\"strategy & operations\"",
 ]
 locations = ["Bengaluru, Karnataka, India", "India"]
 posted_within = "r604800"   # seconds: r86400 = 24h, r604800 = 7 days
@@ -110,7 +132,7 @@ companies_per_run = 40      # company pages read per run
 enabled = true
 every_days = 1            # daily since 2026-11-15 (volume); about $0.07 a day, inside the monthly cap
 keywords = ["founders office", "chief of staff", "strategy and operations", "business operations", "ceo office",
-  "program manager strategy"]
+  "program manager strategy", "business strategy", "business development manager"]
 locations = ["bengaluru"]
 experience_years = 1      # Naukri's own experience filter: jobs open to 1 year
 job_age_days = 7

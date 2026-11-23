@@ -192,8 +192,20 @@ issues as supervisor and share improvements via PRs, the work queue and journal.
 7. Researched cold-email practice across articles, newsletters, X and Reddit and wrote playbook v2
    (`config/voice.md`).
 8. Split the site into Agent Leads and Cold Emails with separate KPIs, deployed (2026-11-22).
+9. Lead quality and a simpler site after Shlok's review (2026-11-23): postings are judged in full (they were cut at
+   3,000 characters, which hid "8+ years"); more than 3 years asked, student/graduate programs and senior titles
+   with no stated years are dropped; "experience not stated" earns no points; his LinkedIn job-alert emails are a
+   source (`sources/alerts.py`, read-only from Gmail); resume keywords added; `lead recheck` re-read all qualified
+   leads (55 kept, 12 dropped, 45 unreadable LinkedIn posts taken off the list). Site: two tabs (To apply,
+   Applied), one Apply button that marks the job applied (green, Undo), a short job page, and `board.json`
+   (1.4 MB, rebuilt on every leads save) instead of the 8.6 MB `leads.json` on every click.
 
 ## 6. What is planned, in priority order
+
+- **6H (next, 2026-11-23): people on his LinkedIn.** He asked Claude to search his signed-in LinkedIn (company +
+  role) for the hiring manager, team lead and recruiter on each listed job (founder for founder's-office roles), add
+  their profiles as contacts, and draft one InMail per job (he has Premium) that he sends himself. Reading search
+  results only, slowly; no profile visits, no messages. Needs him signed in to LinkedIn in the browser pane.
 
 Each item says what done looks like. Where a design choice is already made, follow it.
 

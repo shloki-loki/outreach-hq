@@ -1,12 +1,11 @@
-import Link from 'next/link';
 import { redirect } from 'next/navigation';
-import LeadList from '@/components/LeadList';
+import JobList from '@/components/JobList';
 import TopBar from '@/components/TopBar';
 import TrackKpis from '@/components/TrackKpis';
 import { requireSignIn } from '@/lib/auth';
 import { loadBoard } from '@/lib/data';
-import { SOURCE_LABEL, STATUS, daysAgo } from '@/lib/status';
-import { hadInterview, inTrack, replyCount, trackStats } from '@/lib/tracks';
+import { STATUS, daysAgo } from '@/lib/status';
+import { inTrack, trackStats } from '@/lib/tracks';
 
 export const dynamic = 'force-dynamic';
 
@@ -20,70 +19,19 @@ function verdict(lead) {
   return '';
 }
 
-function payTone(fit = '') {
-  if (fit.startsWith('In range')) return 'done';
-  if (fit.startsWith('Possibly') || fit.startsWith('Likely in range')) return 'ready';
-  if (fit.startsWith('Below') || fit.startsWith('Likely below')) return 'off';
-  return 'new';
-}
-
-function payLabel(pay = {}) {
-  const fit = pay.fit || 'Unknown';
-  const range = pay.min_lpa && pay.max_lpa && pay.min_lpa !== pay.max_lpa ? `₹${pay.min_lpa}–${pay.max_lpa} LPA`
-    : pay.max_lpa ? `₹${pay.max_lpa} LPA` : '';
-  if (fit === 'Unknown') return 'Pay not known';
-  return range ? `${range} · ${fit.replace(/\s*\(.*\)/, '')}` : fit;
-}
-
 function experience(lead) {
   if (lead.exp_min != null) return `Asks ${lead.exp_min}${lead.exp_max ? `–${lead.exp_max}` : '+'} yrs`;
   return '';
 }
 
-function address(lead) {
-  const usable = (lead.contacts || []).filter((c) => c.email && !['bounced', 'invalid'].includes(c.email_status));
-  if (usable.some((c) => c.email_status === 'verified')) return { label: 'Verified address', tone: 'done' };
-  if (usable.some((c) => c.email_status === 'published')) return { label: 'Address from the posting', tone: 'done' };
-  if (usable.some((c) => ['pattern', 'hunter'].includes(c.email_status))) return { label: 'Likely address', tone: 'ready' };
-  if (usable.length) return { label: 'Unverified address', tone: 'due' };
-  if ((lead.contacts || []).some((c) => c.name)) return { label: 'Person found, no address', tone: 'new' };
-  return { label: 'No person yet', tone: 'new' };
-}
-
-function latestNote(lead) {
-  if (lead.status === 'replied') {
-    const reply = lead.messages.find((m) => m.status === 'replied')?.reply;
-    return reply ? `Reply from ${reply.from}: “${(reply.snippet || '').slice(0, 110)}”` : 'They replied.';
-  }
-  if (lead.status === 'followup_due') return 'No reply yet. A follow-up is due and is being drafted.';
-  if (lead.status === 'to_approve') {
-    const failed = lead.messages.find((m) => m.status === 'failed');
-    if (failed) return `A send failed: ${failed.error || 'unknown error'}`;
-    const waiting = lead.messages.filter((m) => m.status === 'approved').length;
-    const drafts = lead.messages.filter((m) => m.status === 'draft').length;
-    return drafts ? `${drafts} draft${drafts > 1 ? 's' : ''} waiting for your approval.` : `${waiting} approved, waiting to send.`;
-  }
-  if (lead.status === 'contacted') {
-    const sent = lead.messages.filter((m) => m.status === 'sent').sort((a, b) => (a.sent_at < b.sent_at ? 1 : -1))[0];
-    if (sent) return `Emailed ${sent.to_name || sent.to} ${daysAgo(sent.sent_at) === 0 ? 'today' : `${daysAgo(sent.sent_at)}d ago`}.`;
-    return 'Referral request sent.';
-  }
-  if (lead.bin && lead.open === false) return `In the Bin since ${daysAgo(lead.bin.at) === 0 ? 'today' : `${daysAgo(lead.bin.at)}d ago`}: ${lead.bin.reason}.`;
-  if (lead.status === 'rejected' && lead.reject_reason) return `Dropped: ${lead.reject_reason}`;
-  if (lead.status === 'qualified' && !lead.contacts?.some((c) => c.email)) return 'Qualified. No email address found yet.';
+function followUp(lead) {
+  if (['interview', 'offer'].includes(lead.status)) return STATUS[lead.status].label;
+  if (lead.status === 'replied') return 'They replied';
+  if (lead.status === 'followup_due') return 'Follow-up due';
+  const sent = lead.messages.filter((m) => ['sent', 'replied', 'bounced'].includes(m.status));
+  if (sent.length > 1) return `${sent.length - 1} follow-up${sent.length > 2 ? 's' : ''} sent`;
+  if (sent.length === 1) return 'Emailed once, no reply yet';
   return '';
-}
-
-// A plain cover note for jobs the writer has not reached yet, so no application waits on the free model's quota.
-// Facts only from config/profile.toml. Shlok reads it before pasting it.
-function genericNote(lead) {
-  const company = (lead.company || '').replace(/\s*\([^)]*\)/g, '').replace(/,?\s+(pvt\.?|private|ltd\.?|limited|inc\.?)\b\.?/gi, '').trim();
-  const role = (lead.title || 'this').split(/\s+[|\u2013\u2014]\s+/)[0].trim();
-  return `I'm applying for the ${role} role at ${company} because it sits where I've done my best work: turning plans `
-    + `into execution alongside a leadership team. At Ola Electric I worked directly with the CEO and COO, ran production `
-    + `planning over Rs 200 Cr of inventory and cut working capital by 40% in two and a half months. I also built a `
-    + `dispatch algorithm that took order-to-delivery from 32 days to 14. I'd bring the same ownership to ${company} `
-    + `from the first week.`;
 }
 
 export default async function LeadsPage({ searchParams }) {
@@ -91,39 +39,24 @@ export default async function LeadsPage({ searchParams }) {
   const { view } = await searchParams;
   if (view === 'spec') redirect('/cold-mails');
   const { leads: allLeads, messages } = await loadBoard();
-  const leads = inTrack(allLeads, 'jobs');
-  const stats = trackStats(leads);
+  const leads = inTrack(allLeads, 'jobs').filter((lead) => lead.type === 'job');
+  const stats = trackStats(inTrack(allLeads, 'jobs'));
   const toApprove = messages.filter((message) => message.status === 'draft').length;
-  const rows = leads.map((lead) => ({
-    id: lead.id, title: lead.title, company: lead.company, location: lead.location, status: lead.status,
-    statusLabel: STATUS[lead.status].label, tone: STATUS[lead.status].tone, score: lead.score?.total ?? 0,
-    pay: payLabel(lead.pay), payTone: payTone(lead.pay?.fit), source: SOURCE_LABEL[lead.source] || lead.source,
-    verdict: verdict(lead), experience: experience(lead), address: address(lead), tier: (lead.tier || '').replace(/^\d\s*-\s*/, ''),
-    companyNote: (lead.company_note || '').replace(/^Not found.*$/i, '').slice(0, 90), researched: Boolean(lead.research?.done),
-    checked: lead.research?.researched_at ? daysAgo(lead.research.researched_at) : null,
-    posted: lead.posted_at && daysAgo(lead.posted_at) !== null ? `Posted ${daysAgo(lead.posted_at)}d ago` : '',
-    open: lead.open, binned: Boolean(lead.bin) && lead.open === false && !['replied', 'interview', 'offer'].includes(lead.status),
-    machine: lead.research?.by === 'research-worker', stretch: lead.stretch, applied: Boolean(lead.applied_at) && lead.status !== 'applied',
-    emails: (lead.contacts || []).filter((c) => c.email && !['bounced', 'invalid'].includes(c.email_status)).length,
-    connections: (lead.referrals || []).length, note: latestNote(lead),
-    captured: Boolean(lead.first_contacted_at || lead.applied_at), noOpening: lead.type === 'company',
-    messageStatuses: lead.messages.map((m) => m.status), replies: replyCount(lead), interviewed: hadInterview(lead),
-    offered: lead.outcome === 'offer',
-    followupDue: Boolean(lead.followup?.due), appliedAt: Boolean(lead.applied_at),
-    applyUrl: /^https?:\/\//.test(lead.apply_url || '') ? lead.apply_url : '',
-    canApply: lead.type === 'job' && ['qualified', 'to_approve', 'contacted', 'followup_due'].includes(lead.status)
-      && lead.open !== false && !lead.applied_at && /^https?:\/\//.test(lead.apply_url || ''),
-    coverNote: lead.apply?.answers?.['Why this role (cover note)'] || '',
-    genericNote: genericNote(lead),
-    search: `${lead.company} ${lead.title} ${lead.location} ${lead.tier || ''}`.toLowerCase(),
-  }));
-  const readyToApply = rows.filter((r) => r.canApply).length;
-  const strip = [
-    { label: 'Ready to apply', value: readyToApply, href: '/?view=apply', tone: 'hot' },
-    { label: 'Emails to approve', value: stats.drafts, href: '/approvals?view=jobs', tone: 't-approve' },
-    { label: 'Follow-ups due', value: stats.followupsDue, href: '/?view=followups', tone: 't-due' },
-    { label: 'Applications sent', value: leads.filter((l) => l.applied_at).length, href: '/?view=applied', tone: 'hot' },
-  ];
+  const rows = leads
+    .filter((lead) => lead.applied_at || (lead.stage === 'qualified' && lead.open !== false
+      && !['rejected', 'closed', 'skipped'].includes(lead.status)))
+    .map((lead) => ({
+      id: lead.id, title: lead.title, company: lead.company, location: lead.location, score: lead.score?.total ?? 0,
+      verdict: verdict(lead),
+      experience: experience(lead) || 'Experience not stated', experienceKnown: lead.exp_min != null,
+      posted: lead.posted_at && daysAgo(lead.posted_at) !== null ? `Posted ${daysAgo(lead.posted_at)}d ago` : '',
+      people: (lead.contacts || []).filter((c) => c.linkedin_url).length,
+      listed: lead.stage === 'qualified' && lead.open !== false,
+      appliedAt: lead.applied_at || null, appliedDays: daysAgo(lead.applied_at), followUp: followUp(lead),
+      applyUrl: /^https?:\/\//.test(lead.apply_url || '') ? lead.apply_url : '',
+      search: `${lead.company} ${lead.title} ${lead.location}`.toLowerCase(),
+    }))
+    .sort((a, b) => (a.appliedAt && b.appliedAt ? (a.appliedAt < b.appliedAt ? 1 : -1) : b.score - a.score));
 
   return (
     <>
@@ -131,30 +64,11 @@ export default async function LeadsPage({ searchParams }) {
       <main>
         <div className="page-head">
           <h1>Agent Leads</h1>
-          <p>What the agent found, counted on its own. The founder list is under Cold Emails. Each row carries its own verdict: why it fits, the pay, the experience asked and whether there is a verified address. Top picks are the researched leads scoring 75 or more. A row turns green once you have emailed someone there or applied.</p>
+          <p>Jobs you can apply to: the full posting was read, and none asks more than 3 years. Apply opens the posting and moves the job to Applied.</p>
         </div>
-        <h2 className="section-label strip-label">Results</h2>
         <TrackKpis track="jobs" stats={stats} />
-        <h2 className="section-label strip-label">In progress</h2>
-        <dl className="highlights four">
-          {strip.map((item) => (
-            <Link key={item.label} href={item.href} className={`highlight ${item.tone}`}>
-              <dd>{item.value}</dd><dt>{item.label}</dt>
-            </Link>
-          ))}
-        </dl>
         <section className="section">
-          <ul className="legend" aria-label="Colour key">
-            <li><span className="dot" style={{ background: 'var(--new-bar)' }} />Not researched</li>
-            <li><span className="dot" style={{ background: 'var(--ready-bar)' }} />Qualified</li>
-            <li><span className="dot" style={{ background: 'var(--approve-bar)' }} />Needs your approval</li>
-            <li><span className="dot" style={{ background: 'var(--done-bar)' }} />Contacted or applied</li>
-            <li><span className="dot" style={{ background: 'var(--due-bar)' }} />Follow-up due</li>
-            <li><span className="dot" style={{ background: 'var(--reply-bar)' }} />Replied</li>
-            <li><span className="dot" style={{ background: 'var(--win-bar)' }} />Interview or offer</li>
-            <li><span className="dot" style={{ background: 'var(--off-bar)' }} />Rejected or closed</li>
-          </ul>
-          <LeadList key={view || 'top'} rows={rows} initialView={view || 'top'} />
+          <JobList rows={rows} initialTab={view === 'applied' || view === 'followups' ? 'done' : 'todo'} />
         </section>
       </main>
     </>

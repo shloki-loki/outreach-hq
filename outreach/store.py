@@ -43,6 +43,7 @@ DEFAULTS: dict[str, Any] = {
     "issues": {"issues": []},
     "runs": {"runs": []},
     "journal": {"entries": []},
+    "board": {"leads": []},
     "metrics": {"days": {}},
 }
 
@@ -110,9 +111,43 @@ def load(name: str) -> Any:
     raise AssertionError("unreachable")
 
 
+def board_view(leads: dict) -> dict:
+    """The small file the site reads (2026-11-23: pages lagged because every click downloaded all of leads.json).
+    Only leads a page can show: jobs to apply to, applied or in conversation, and the founder list (kept slim).
+    Derived from leads.json on every save, so it never needs editing by hand."""
+    shown = []
+    for lead in leads.get("leads", []):
+        job_listed = lead.get("type") == "job" and lead.get("stage") == "qualified"
+        engaged = bool(lead.get("applied_at") or lead.get("first_contacted_at") or lead.get("replied_at")
+                       or lead.get("outcome"))
+        founder = lead.get("source") == "founder_reoutreach"
+        if not (job_listed or engaged or founder):
+            continue
+        slim = {k: v for k, v in lead.items() if k not in ("timeline", "sources", "live_check", "apply", "key", "jd",
+                                                            "research", "score", "pay")}
+        research = lead.get("research") or {}
+        slim["research"] = {k: research.get(k) for k in ("done", "headline", "fit_notes", "pay_notes") if research.get(k)}
+        slim["score"] = {"total": (lead.get("score") or {}).get("total")}
+        slim["pay"] = {k: (lead.get("pay") or {}).get(k) for k in ("stated", "min_lpa", "max_lpa", "basis", "fit")}
+        if lead.get("type") == "job":
+            slim["jd"] = lead.get("jd") or ""
+        if founder and not job_listed:
+            for key in ("pay", "score", "research", "tier", "exp_min", "exp_max", "stretch", "location_bucket"):
+                slim.pop(key, None)
+            slim["contacts"] = [{k: c.get(k) for k in ("id", "name", "title", "role_type", "email", "email_status",
+                                                       "linkedin_url") if c.get(k)} for c in lead.get("contacts", [])]
+        shown.append(slim)
+    return {"generated_from": "leads.json", "leads": shown}
+
+
 def save(name: str, value: Any) -> None:
+    if name == "leads":
+        save("board", board_view(value))
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    text = json.dumps(value, ensure_ascii=False, indent=1) + "\n"
+    if name == "board":  # read by the site on every page: compact
+        text = json.dumps(value, ensure_ascii=False, separators=(",", ":")) + "\n"
+    else:
+        text = json.dumps(value, ensure_ascii=False, indent=1) + "\n"
     fd, temp = tempfile.mkstemp(dir=DATA_DIR, prefix=f".{name}.", suffix=".tmp")  # unique per writer
     try:
         with os.fdopen(fd, "w", encoding="utf-8") as handle:

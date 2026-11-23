@@ -10,6 +10,9 @@ from . import store
 from .rules import Verdict
 from .util import clip, norm_company, norm_title, now_iso, today
 
+# Job descriptions are kept up to this length (was 3,000, which cut off "8+ years" in the requirements).
+JD_MAX = 8000
+
 STAGES = ("new", "qualified", "rejected", "skipped")
 OUTCOMES = (None, "interview", "offer", "rejected", "closed")
 # Display statuses, most advanced first. The website mirrors this in web/lib/status.js.
@@ -50,7 +53,7 @@ def new_lead(job: dict[str, Any], verdict: Verdict, ident: str) -> dict[str, Any
         "first_seen": today(),
         "last_seen": today(),
         "open": True,
-        "jd": clip(job.get("description"), 3000),
+        "jd": clip(job.get("description"), JD_MAX),
         "exp_min": verdict.exp_min,
         "exp_max": verdict.exp_max,
         "exp_text": job.get("experience_text") or "",
@@ -107,7 +110,7 @@ def merge_job(lead: dict, job: dict, verdict: Verdict) -> bool:
         lead.setdefault("sources", []).append({"source": job.get("source"), "url": job.get("url") or "", "seen": today()})
         changed = True
     if not lead.get("jd") and job.get("description"):
-        lead["jd"] = clip(job["description"], 3000)
+        lead["jd"] = clip(job["description"], JD_MAX)
         changed = True
     if lead.get("pay", {}).get("basis") == "unknown" and verdict.pay.basis == "stated":
         lead["pay"] = asdict(verdict.pay)

@@ -9,9 +9,10 @@ read through Apify actors (sources/apify.py), only when APIFY_TOKEN is set and i
 LinkedIn hiring posts are still worked by the lead-scout agent and added with `lead add`.
 """
 
-from . import apify, ashby, greenhouse, instahyre, lever, linkedin, yc
+from . import alerts, apify, ashby, greenhouse, instahyre, lever, linkedin, yc
 
 ALL = {
+    "alerts": alerts,  # LinkedIn job alerts from his Gmail: first, so their postings are read first
     "greenhouse": greenhouse,
     "lever": lever,
     "ashby": ashby,

@@ -1411,7 +1411,7 @@
    "opened_at": "2026-11-23T20:12:14+05:30",
    "last_seen": "2026-11-23T20:12:14+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Shlok: open Approvals, press Retry on the 52 timeout failures (the email never left, safe to resend; some may already have been re-queued by the founder list) and on the 2 'interrupted' ones only after checking Gmail Sent for the recipient; press Skip on the 9 'connection reset' ones from 20 Nov if the person was already emailed. Once the failed count is zero the Supervisor checks workflow goes green. Code change (not done here): the check could ignore failures older than a day that already have a resolved issue.",
    "resolved_at": null
   }
  ],

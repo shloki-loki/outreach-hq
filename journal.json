@@ -9026,6 +9026,15 @@
    "title": "Diagnosis: send-track 21 Nov: no draftable leads, recheck crashed",
    "detail": "Likely cause: the unlocked store sync (I0047) plus no retry on a failed fetch. Fix: sync is locked and a failed fetch is retried after 3 s and 10 s. Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. Resolve after a day with no git crash in the sender log.",
    "ref": "I0038"
+  },
+  {
+   "id": "J1004",
+   "at": "2026-11-23T16:50:06+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: reoon verification call failed",
+   "detail": "A key secret with a pasted # comment is now cleaned, and a comment-only secret counts as no key; keys are masked in errors. Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. Resolve after the next GitHub run shows no 401. The leaked Reoon key still needs rotating by Shlok (I0025).",
+   "ref": "I0010"
   }
  ]
 }

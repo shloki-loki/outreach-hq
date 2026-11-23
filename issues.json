@@ -137,7 +137,7 @@
    "opened_at": "2026-11-15T01:51:11+05:30",
    "last_seen": "2026-11-17T01:00:58+05:30",
    "count": 12,
-   "remedy": "PR 17 ignores a # comment pasted into a key secret and masks keys in errors. The key still needs rotating (I0025). Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
+   "remedy": "A key secret with a pasted # comment is now cleaned, and a comment-only secret counts as no key; keys are masked in errors. Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. Resolve after the next GitHub run shows no 401. The leaked Reoon key still needs rotating by Shlok (I0025).",
    "resolved_at": null
   },
   {

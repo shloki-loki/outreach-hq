@@ -9053,6 +9053,15 @@
    "title": "Diagnosis: research-worker run marked failed 21 Nov 13:22",
    "detail": "Cause: one Gemini 503 or timeout marked the whole research run failed. Fix: a run fails only if a quarter or more of its leads error, and the summary shows the count and first error. Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. Resolve after the 19:00 research run.",
    "ref": "I0041"
+  },
+  {
+   "id": "J1007",
+   "at": "2026-11-23T16:50:16+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Inbox scan failed",
+   "detail": "23 Nov failures were the 08:05-10:05 network outage on the Mac. Inbox reads now give up after 60 s instead of hanging. Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. Resolve after a day of clean scans.",
+   "ref": "I0046"
   }
  ]
 }

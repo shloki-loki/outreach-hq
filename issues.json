@@ -151,7 +151,7 @@
    "opened_at": "2026-11-15T01:51:13+05:30",
    "last_seen": "2026-11-17T01:01:00+05:30",
    "count": 14,
-   "remedy": "PR 17 treats a secret holding only a comment as no key, so Hunter is skipped. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
+   "remedy": "A key secret with a pasted # comment is now cleaned, and a comment-only secret counts as no key; keys are masked in errors. Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. Resolve after the next GitHub run shows no 401. The leaked Reoon key still needs rotating by Shlok (I0025).",
    "resolved_at": null
   },
   {

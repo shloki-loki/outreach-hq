@@ -651,12 +651,12 @@
    "severity": "error",
    "title": "A concurrent sync can undo a send claim, so an email could go out twice",
    "detail": "Found and reproduced 22 Nov: store.sync resets without the store lock; send.claim returned True while the pushed status stayed approved. Audit of sent emails found no duplicate address and kind so far. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
-   "status": "open",
+   "status": "resolved",
    "opened_at": "2026-11-22T22:20:58+05:30",
    "last_seen": "2026-11-22T22:20:58+05:30",
    "count": 1,
-   "remedy": "",
-   "resolved_at": null
+   "remedy": "Cause: store.sync reset the data folder without holding the store lock, so another process could wipe a send claim (and once, a settle). Fix: sync now takes the lock (reproduced before, gone after). Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. Correction: the 22 Nov audit of stored records could not rule out a past double send. Checked again: no message ID was claimed twice in 310 claims on the data branch. That is strong evidence, not proof; Gmail Sent was not checked. Seen in effect on 23 Nov: M0409's sent mark and M0389's failure were lost while a scheduled agent wrote at the same time; the inbox check repaired both (M0409 found in Sent, M0389 not sent).",
+   "resolved_at": "2026-11-23T16:49:51+05:30"
   },
   {
    "id": "I0048",

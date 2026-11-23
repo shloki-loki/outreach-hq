@@ -8108,6 +8108,15 @@
    "title": "Ran",
    "detail": "10 researched, 0 qualified, 10 rejected, 0 emails found; skipped scrape (ran 00:20 today), no Apify; Snabbit/Propelld Instahyre pages 403 so left unverified; stale re-verify and Monday company scan not done",
    "ref": ""
+  },
+  {
+   "id": "J0902",
+   "at": "2026-11-23T09:31:45+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "Scout 23 Nov: 0 qualified, LinkedIn 429 and Instahyre 403",
+   "detail": "LinkedIn job pages returned 429 for some leads and Instahyre returns 403, so L1960 (Snabbit Founder's Office Manager) and L1961 (Propelld) could not be verified open. 6 leads were already marked closed. Steps 2, 2b, 3b not run this budget.",
+   "ref": "I0089"
   }
  ]
 }

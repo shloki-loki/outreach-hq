@@ -32190,15 +32190,15 @@
    "key": "coupang|senior program manager|bengaluru",
    "type": "job",
    "company": "Coupang",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "coupang.com",
+   "company_url": "https://www.coupang.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Senior Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "462627",
    "source_url": "https://www.instahyre.com/job-462627-senior-program-manager-at-coupang-bangalore/",
@@ -32229,8 +32229,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 38,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -32240,15 +32240,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Program Manager (Pricing Audit) at Coupang, asks 5+ yrs; your S&OP and inventory work maps well, but experience gap is too wide.",
+    "fit_notes": "The posting asks for '5+ years of relevant experience in Program Management, Operations Excellence, Business Analytics, Risk Governance, or Quality Engineering' and hands-on experience with SQL and data visualization. Shlok has about 1.3 years of experience. His inventory and S&OP work at Ola Electric answers the data-driven operations and program management needs (e.g., [sop], [ceo-coo]), but the 5+ years experience requirement is a blocker.",
+    "pay_notes": "Pay not stated in the posting or evidence.",
+    "culture_notes": "No ratings or headcount found in evidence. Culture flags note recent regulatory issues in South Korea including major fines ([S3], [S4], [S5]).",
+    "hook": "Coupang was recently fined $220 million by South Korea for abusing dominance in the food delivery market.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnFVeVZwZHVtWWlwTEFFSkxGZVZFMVhXd3RrLS1CbTdLU2pCN0E1eERiVDlIQnctUWxtY29ac1JvQVU2b2FrTWpza2R4RG9lc05YSDhYdGQ4WEt1ZzZXV3phcTQtakh1Qkhqdy05VUVQZ3NBLVdIR3NvdkNrcklLdUcxZGJ3NFl3TFdsZU1XSHlscnhBWnc5cEQxVHBzV18xLUFoRE5FS3JRU2RVNjZ3LTlsN2Mtc05SV3c?oc=5",
+    "researched_at": "2026-11-23T14:05:11+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "How Coupang is investing to accelerate growth and deepen U.S.-Taiwan ties - Coupang, Inc.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMUWZBRjJZWjFha2NPSHJwWjlLMFBKTW5xZ2FTV0FNcXpiWEkzemVVaGFlWHRPUlhoRVpNbmxBX29xSmJwcDcwdExUTHgzQ2tuVHMtckRPZTVsNGFzazdsWU5rc2w?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Coupang: South Korea fines e-commerce giant $400m over massive data breach - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YalZLWVNfbnhTZmowSU1xTHRiN0tCRFpFWFdwRk9WTGIwTFJsRWFiYmZUdElBNk9DR3RQUFNpcjVQeDF4QllCa21nNkZMNERydm1FeW5MU0pIQQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "South Korea fines Coupang $220 million for abusing dominance in food delivery market - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnFVeVZwZHVtWWlwTEFFSkxGZVZFMVhXd3RrLS1CbTdLU2pCN0E1eERiVDlIQnctUWxtY29ac1JvQVU2b2FrTWpza2R4RG9lc05YSDhYdGQ4WEt1ZzZXV3phcTQtakh1Qkhqdy05VUVQZ3NBLVdIR3NvdkNrcklLdUcxZGJ3NFl3TFdsZU1XSHlscnhBWnc5cEQxVHBzV18xLUFoRE5FS3JRU2RVNjZ3LTlsN2Mtc05SV3c?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "South Korea hits Coupang with record $409 million fine over data breach - The Record from Recorded Future News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QYkxvTWNXTV9GOVp6Y0NxQXlGWTVkMG9LeXBwLTlwRXJXTi1naFJqNl9FNmlXRUNGcDVJc1E4SGxGWVJ0czljZzFkUmNGb3lnUEpzdmdtcTVrVVlRaUhWZUZ5S0Nab2VaMXdpV1pMa1BsT0lka2c?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "South Korea fines Coupang $408m over biggest data leak in country’s history - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUFNX1FxVHRFNXlTc1ZSLUhuOFRmRUFENG5TLW14OHN2RVluRjc2RkZ3YVI2U1NXWlJhNjd2M0JaQTRJZUx2MmV6dU5mS3RWaE9lempsSFkxUVdRejVucVl0OU83LUl2enhHOFpkTDFadWFrVHU3MzlXZDlZcXBGZ3FsSndrLW5uZ2xkTlRuUjdKcUl0SVRlUjFGUnR4cnVfUGVPbEd2Z2pWSTFqcWc2UFRPY3M4SGVw0gG-AUFVX3lxTFA1YWwwMXlKVHZEYXhrUzFUVC1ZQmljN1gyWjAxb3JwNktpTzlITGU1ZUlBbV9RVFNNbEN5VW1yRVZVVzZWYW4wSWJZOFJZbUdtZDFEQXFRTnd4dmtmcy02dmItWFd6VENwOVpBQUNaSlJpWFp3UFdHRXhUSGVEd2pxSlFaemtFc2poa2lhcWM4TGJ1UVVZN1ZmTDdqcldQcmpGOG9CU2t5RVNDazZTTFdSSDZsTGE1UHVjWkQ3WWc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "South Korean government discriminated against Coupang, U.S. companies, House report finds - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkE1ZW5OWTN5WVExeC1EVUpOSHpoQ2VBeFIwQXFQb2YzQU9EZlE2eWFKT1dsLTRKUzZPUXl2VGZkSnhzaVIyYjVjVXo4ZGVGYm83dkZPLWxMSWRqd3ZieWZTUmNSVkNEWEFlcV81a0thZDFZT19GZ2ZkY09qampnRkd3TmR3SmvSAYwBQVVfeXFMT0JaWmpoMGdhV1h0MmZlU3dtczBHRUFaNjBibEtkdldicEQxcXRRcmM5LVZzQU9CNHd3Nk1nSjdOYXpiNGRQM2s1TWJpSDN5OU1EVVhIazFId3JHelhZZTNmTUJoSjZ1TDZSTkMyRDFINWxUVnkwblp2VTd0Qm1ZcjU4TkNWNDZCUTJrSkw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -32272,14 +32313,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 55"
+    },
+    {
+     "at": "2026-11-23T14:05:11+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The posting asks for 5+ years of experience, whereas Shlok has about 1.3 years, making this an extreme stretch well past his 3-4 year comfort band.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-23T14:05:11+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 5+ years of experience, whereas Shlok has about 1.3 years, making this an extreme stretch well past his 3-4 year comfort band."
   },
   {
    "id": "L0244",

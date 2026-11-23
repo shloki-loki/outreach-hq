@@ -595,12 +595,12 @@
    "severity": "error",
    "title": "Mac sender hung since 08:50 on 22 Nov: IMAP read has no timeout",
    "detail": "PID 68095 (outreach cycle) is blocked in an SSL read on Gmail IMAP port 993 after the Mac slept. mailbox.py opens IMAP4_SSL without a timeout, and launchd will not start another run while this one lives, so the Mac sender is stopped. GitHub's cycle still sends now and then. Not restarted: awaiting Shlok.",
-   "status": "open",
+   "status": "resolved",
    "opened_at": "2026-11-22T18:51:34+05:30",
    "last_seen": "2026-11-22T18:51:34+05:30",
    "count": 1,
-   "remedy": "Reproduced: an inbox read on a silent server never returns. PR 17 adds a 60 s timeout to every IMAP connection. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
-   "resolved_at": null
+   "remedy": "Cause: inbox reads (IMAP) had no time limit, so a dropped connection hung the sender for hours. Fix: every IMAP connection now gives up after 60 s (tested against a silent server). Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. The 16:45 run finished in under a minute. A real Mac sleep during a read has not been seen yet.",
+   "resolved_at": "2026-11-23T16:49:48+05:30"
   },
   {
    "id": "I0044",

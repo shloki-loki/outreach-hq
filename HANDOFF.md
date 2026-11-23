@@ -202,10 +202,14 @@ issues as supervisor and share improvements via PRs, the work queue and journal.
 
 ## 6. What is planned, in priority order
 
-- **6H (next, 2026-11-23): people on his LinkedIn.** He asked Claude to search his signed-in LinkedIn (company +
-  role) for the hiring manager, team lead and recruiter on each listed job (founder for founder's-office roles), add
-  their profiles as contacts, and draft one InMail per job (he has Premium) that he sends himself. Reading search
-  results only, slowly; no profile visits, no messages. Needs him signed in to LinkedIn in the browser pane.
+- **6H (first pass done 2026-11-23): people on his LinkedIn.** Claude searched his signed-in LinkedIn (company +
+  role, about 75 searches, results pages only, no profile visits, no messages) and added 70 people to 37 jobs with
+  `contact import` (`found_via: linkedin-search`). 50 of 61 listed jobs now have at least one person. One InMail per
+  job (`lead inmail`, template `config/templates/inmail-v1.toml`, checked by `check_linkedin` with the posting link
+  allowed) is stored as `lead.inmail`; the job page shows each person with Open LinkedIn and Copy note (fills the
+  first name). Left: Amazon roles (6, people search can't pin the team), Kaleidofin, EOS (contract for Google),
+  Prodigal (he interviewed there), Origin (he has a thread with the CEO), ExxonMobil (InMail over 80 words; posting
+  may be a campus program). Re-run for new jobs as they are listed. Text awaits his OK.
 
 Each item says what done looks like. Where a design choice is already made, follow it.
 

@@ -9089,6 +9089,15 @@
    "title": "PR 17 live: sender timeout, locked store sync, masked keys",
    "detail": "Shlok OK'd the merge on 23 Nov. Merged 16:36 (merge commit 7923bdb), pulled into the Mac sender's folder, Vercel production deploy green, /cold-mails still redirects to login. The 16:45 sender run on the new code finished in under a minute with no errors. Found this morning (old code): the Mac had no working connection 08:05-10:05, so 52 founder emails failed on Gmail connect timeouts. None were sent; each person is back at the end of the list. Because the daily count includes queued-but-unsent emails, founder sending stopped at 33 today instead of 60. Two saves (M0409 sent, M0389 failed) were lost while a scheduled agent wrote at the same time, which is the I0047 bug; the inbox check repaired both. Correction to 22 Nov: the stored-record audit could not rule out a past double send. No message ID was claimed twice in 310 claims, which is strong evidence but not proof; Gmail Sent was not checked. Closed 51 timeout issues plus I0043 and I0047; updated the remedies on I0010, I0011, I0015, I0024, I0038, I0041 and I0046 to watch-then-resolve.",
    "ref": "7923bdb"
+  },
+  {
+   "id": "J1011",
+   "at": "2026-11-23T16:52:32+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

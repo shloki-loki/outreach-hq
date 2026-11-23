@@ -308,6 +308,12 @@
     "max@boombox.io"
    ],
    "pattern": "first"
+  },
+  "relvy.ai": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

@@ -1243,7 +1243,7 @@
    "opened_at": "2026-11-23T09:31:45+05:30",
    "last_seen": "2026-11-23T09:31:45+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: LinkedIn 429 rate limits and Instahyre 403 block plain HTTP readers, same root cause as I0012. L1960 and L1961 stay unverified rather than qualified, which is the correct safe behaviour. Remedy: read them via the built-in browser, or leave until the 429 window passes; no action needed today.",
    "resolved_at": null
   },
   {

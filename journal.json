@@ -9260,6 +9260,15 @@
    "title": "Diagnosis: 64 messages sit in failed state; supervisor check fails on them",
    "detail": "Shlok: open Approvals, press Retry on the 52 timeout failures (the email never left, safe to resend; some may already have been re-queued by the founder list) and on the 2 'interrupted' ones only after checking Gmail Sent for the recipient; press Skip on the 9 'connection reset' ones from 20 Nov if the person was already emailed. Once the failed count is zero the Supervisor checks workflow goes green. Code change (not done here): the check could ignore failures older than a day that already have a resolved issue.",
    "ref": "I0101"
+  },
+  {
+   "id": "J1030",
+   "at": "2026-11-23T20:12:38+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Scout 23 Nov: 0 qualified, LinkedIn 429 and Instahyre 403",
+   "detail": "Cause: LinkedIn 429 rate limits and Instahyre 403 block plain HTTP readers, same root cause as I0012. L1960 and L1961 stay unverified rather than qualified, which is the correct safe behaviour. Remedy: read them via the built-in browser, or leave until the 429 window passes; no action needed today.",
+   "ref": "I0089"
   }
  ]
 }

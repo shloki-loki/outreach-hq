@@ -577,10 +577,10 @@
      "title": "Manager - CEO's Office at Rupeek",
      "role_type": "team_lead",
      "linkedin_url": "https://www.linkedin.com/in/rushi-gadekar/",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "rushi.gadekar@rupeek.com",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "",
      "found_at": "2026-11-23T20:23:06+05:30",
      "found_via": "linkedin-search"
@@ -591,10 +591,10 @@
      "title": "Founder CEO at Rupeek",
      "role_type": "founder",
      "linkedin_url": "https://www.linkedin.com/in/sumitmaniyar/",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "sumit@rupeek.com",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "",
      "found_at": "2026-11-23T20:23:06+05:30",
      "found_via": "linkedin-search"
@@ -605,10 +605,10 @@
      "title": "Talent Acquisition, People & Culture at Rupeek",
      "role_type": "recruiter",
      "linkedin_url": "https://www.linkedin.com/in/vishal-shukla-572850259/",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "vishal.shukla@rupeek.com",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "",
      "found_at": "2026-11-23T20:23:06+05:30",
      "found_via": "linkedin-search"
@@ -752,9 +752,27 @@
      "actor": "people-finder",
      "event": "contact_added",
      "detail": "Vishal Shukla (recruiter, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-24T02:28:46+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Rushi Gadekar: rushi.gadekar@rupeek.com (verified, 90)"
+    },
+    {
+     "at": "2026-11-24T02:28:46+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Sumit Maniyar: sumit@rupeek.com (verified, 90)"
+    },
+    {
+     "at": "2026-11-24T02:28:46+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Vishal Shukla: vishal.shukla@rupeek.com (verified, 90)"
     }
    ],
-   "updated_at": "2026-11-23T20:23:06+05:30",
+   "updated_at": "2026-11-24T02:28:46+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "closed",

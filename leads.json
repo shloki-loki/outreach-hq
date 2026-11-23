@@ -249472,15 +249472,15 @@
    "key": "vttmobility|enterprise business development manager|bengaluru",
    "type": "job",
    "company": "VTT Mobility Private Limited",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "vttmobility.com",
+   "company_url": "https://vttmobility.com/",
    "company_linkedin": "https://in.linkedin.com/company/vtt-mobility-private-limited",
    "company_note": "",
    "title": "Enterprise Business Development Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492552550",
    "source_url": "https://in.linkedin.com/jobs/view/enterprise-business-development-manager-at-vtt-mobility-private-limited-4492552550",
@@ -249496,7 +249496,7 @@
    "first_seen": "2026-11-23",
    "last_seen": "2026-11-23",
    "open": true,
-   "jd": "",
+   "jd": "About VTT Mobility \n VTT Mobility Pvt Ltd has been a leading organisation in managing large-scale mobility operations and Employee Transportation Solutions for prestigious Fortune 500 companies across major cities of India. Our unwavering commitment to excellence has established us as a trusted and reliable partner in the industry. At VTT Mobility, we take immense pride in serving End-to-End customers across major cities, catering to a large number of users everyday. Our proprietary Technology platform sets us apart as a comprehensive provider of mobility services. We have a proven track record of helping companies achieve their sustainability goals. For more information, visit https://vttmobility.com/\n Role - Enterprise Business Development Manager \n Positions Open for - Bangalore, Mumbai, Hyderabad & Chennai \n Office Timings : 9.30am to 6.30pm IST \n Work Type : All locations - Work from Respective Sales Office & On-field \n What’s in it for you? \n As an Enterprise Business Development Manager, you will be responsible for leading business development and sales in your assigned territories.. The incumbent will be hands-on and manage end-to-end sales, including discovery, account mapping, SoW development, PoC, handling objections, pricing and contract negotiations. You are expected to have experience handling large-ticket enterprise sales, Employee Transportation Solutions, Networking/Telecommunication Solutions, Facility Management, Commercial Real Estate. Preferred personality traits include such as attention to detail, Solution Selling, the ability to work with Integrity, Discipline, purpose, achievement by design, an understanding of value-based pricing, and strong business acumen . \n Develop and Execute Enterprise Sales: \n ● Create, Own, implement and Achieve a comprehensive enterprise sales and Revenue acquisition from Enterprise & B2B clients approach, mainly targeting IT/ITeS, Manufacturing, similar industries. \n ● Understand the hierarchy, decision making process, current challenges within the organisation and our best solutions suitable for the organisation. \n ● Execute initiatives that encourage target accounts to interact with VTT and transition their engagement into meaningful conversations that lead to customer conversion. \n Client Acquisition (Hunting): \n ● Drive & Own the full sales cycle from prospecting to closing deals. \n ● Cultivate relationships with key decision-makers, influencers, leadership and CXO’s . \n ● Collaborate and Coordinate with internal/external stakeholders, legal, and Operations teams to ensure timely responses and achieve deal closures. \n Market Analysis and Competitor Research: \n ● Map accounts, their current contracts and requirements within your geography. \n ● Stay informed about order loss, market trends, industry developments, and competitor performances. \n ● Utilize market insights to refine sales strategies and positioning amongst target accounts.. \n ● Do Homework or Due-diligence before each client interaction to put our best foot forward. \n ● Provide input on product positioning based on client feedback and market demand. \n Processes: \n ● Build a Solution Sales Approach \n ● Prepare, Update, Submit and maintain reports as per agreed timelines and formats. \n ● Provide regular reports to leadership on sales performance, opportunities, and challenges. \n Contract Negotiation: \n ● Negotiate pricing, terms, and conditions with clients to ensure mutually beneficial agreements. \n ● Collaborate with internal & external stakeholders to finalize contracts. \n Reporting : \n ● Prompt sharing of Order Loss in assigned geography \n ● Seeking Support to Achieve Results \n ● Exhibit Diligence, Discipline, Punctuality and Integrity in Daily, Weekly & Monthly Reporting. \n Qualifications: \n ● Bachelor's degree; MBA is a plus. \n Experience: \n ● Previous experience in generating and closing large ticket-size deals preferably INR 25 Lakhs and above. \n ● Minimum of 4+ years of experience in enterprise sales preferably in IT/ITeS, Manufacturing, \n ● Candidates with prior 4+ years of experience in enterprise sales of Employee Transportation Solutions.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Transportation, Logistics, Supply Chain and Storage",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -249511,8 +249511,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -249522,15 +249522,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Enterprise Business Development Manager at VTT Mobility, asks 4+ yrs; your experience is 1.3 years.",
+    "fit_notes": "The posting asks for a 'Minimum of 4+ years of experience in enterprise sales preferably in IT/ITeS, Manufacturing' and a 'Bachelor's degree; MBA is a plus.' Shlok has ~1.3 years of experience, violating his strict 3-year ceiling rule.",
+    "pay_notes": "Pay is not stated in the posting; mentions experience generating large ticket-size deals preferably INR 25 Lakhs and above, but does not state the role's fixed compensation.",
+    "culture_notes": "No ratings or reviews found for VTT Mobility Private Limited.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T02:11:21+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -249554,9 +249561,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-24T02:11:21+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (The posting requires a minimum of 4+ years of experience in enterprise sales, exceeding Shlok's 1.3 years and his rule of a 3-year ceiling.)"
     }
    ],
-   "updated_at": "2026-11-23T15:26:35+05:30"
+   "updated_at": "2026-11-24T02:11:21+05:30",
+   "reject_reason": "The posting requires a minimum of 4+ years of experience in enterprise sales, exceeding Shlok's 1.3 years and his rule of a 3-year ceiling."
   },
   {
    "id": "L1991",

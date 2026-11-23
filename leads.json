@@ -236709,15 +236709,15 @@
    "key": "jpmorganchase|program manager|bengaluru",
    "type": "job",
    "company": "JPMorgan Chase",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "jpmorganchase.com",
+   "company_url": "https://www.jpmorganchase.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "484591",
    "source_url": "https://www.instahyre.com/job-484591-program-manager-at-jpmorgan-chase-bangalore/",
@@ -236748,8 +236748,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 40,
+    "total": 48,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -236758,15 +236758,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Technical Program & Atlassian Manager at JPMorgan Chase asks 2-6 yrs and heavy enterprise Jira administration experience you lack.",
+    "fit_notes": "Posting asks for 2-6 years of experience, advanced enterprise Jira/Confluence administration, workflow configurations, Atlassian APIs, and scripting automations. Shlok's REST API and Python/scripting project [idekho] fits basic engineering asks, but he lacks enterprise Atlassian suite administration experience.",
+    "pay_notes": "Pay is not stated in the posting and no specific salary data for this role was found in the provided evidence.",
+    "culture_notes": "Global financial firm. Recent news notes JPMorgan Chase blocking outside AI agents from accessing accounts due to security [S5] and strong growth in AI adoption [S6].",
+    "hook": "JPMorgan Chase recently moved to block outside AI agents like Muse and Instinct from directly accessing customer accounts to safeguard data.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50RmxUSE5meHNnY241Q0xkdGEtbDNzZHFFR0lnTWhZTVhPV1YyWkRjN0FkdUFUWlZSckh4ODVNSHFRazlTQlA1SGlsckEwaXlheUt0clZoYjR0RnVvMl9IZWc1cHM5MnA1Q1AzM0tucjk0Ujc2LVltb3l30gF_QVVfeXFMTjRGWklGa21nZTlTdDRXRVRqdFlWXzZUVGJ0ODMxRkRQNUxxeVJscHltWnhSQllvRThCck1XNGo5LUI2cnl4SHFNU3hRQ3dWTThvd2tnZnU5MnRaeU9PblJXb1NYbW9zMndEcWppU2g3TGZ4Y2Fvam4xQlFfeDFBYw?oc=5",
+    "researched_at": "2026-11-23T13:55:09+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vNmdobUNfUGRleXhhNFhiM0RpX2dtdzJrSUlrWkZFQTl2MGFXampYQlhvX1dlb3VCcG52bzFtTnJGNFBLcDNPd0NNQ2lUNnFhUTV3b0RzWHVCSFM5NGRDZFlpaUF0ZGNhaFVwX0Q1b1Y0NG5qOGfSAXtBVV95cUxOWmJURE4xNzVFaXlZbmMxYUpPMkpNYWZIUXU0REVsQVM2T2d2S3dmUVNVZXJUTnNVcjlZaUtKRlgzVktfcEIwTS13ZzVlMjBZZ3JxTWlIUzhJTWxnT3BjcUlQODdUdjJiVDhFazRZY2Q3X0J1dHpPcFFCb1U?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Ex-JPMorgan Chase executive shared confidential bank information with Epstein | JP Morgan - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdERYQXpTQVRJNjRWd0ZNUlU4Q3ZPRmhfMHFmUUhmTUtPckQzZERVNjhnUWctLTl4VGNEV2hoOFZaNmotVzBFa2Y3VXdJU2JpMDVkQ0NQOVc0RWs3MkNPcEl5Z0xLazFDMFdMUEFZU1AwQnJDWU9vaHJqUUtweUxseS15bjdTdw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "JPMorgan Chase Customer Data Is Exposed in Latest Hack - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGRTQVJKbUo2STdzRV9TQnJBQTB6eWVKakt2SHpDWGlhcXpHaXJ3TU9xakxjaFhQQ096VXQ4Wm1id0lnVXdSemFaeWdxak5JeTJrU0dqOFNFanpqRTJkV2tqdGRpM1U1MnJrQTNmY3N3c1VVMldCbFotVC1FN2owSEVMTkNNaUkyeWx6aA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "JPMorgan Chase & Co. (JPM) Could Soon Be Worth $1 Trillion. One Analyst Says $2 Trillion Is Next - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjU4WHM5cmRmS09YQ2FoQkhNcDdSRU1ZYW15X2JFZzhqQW14SmdYQzktN21zb2RQLU9BcG9oRjFLQU1HLTdhQTJYdUYwdWFWU05Zd1R1VUt0TGNXYVpnSDc2ZXdfNEo0Zi1lMjlzQzJFc3hvSnJ6a1BXOHBuS1h0cUltZVYwN1JCcTBnR2VDOUE2bkRPcThj?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50RmxUSE5meHNnY241Q0xkdGEtbDNzZHFFR0lnTWhZTVhPV1YyWkRjN0FkdUFUWlZSckh4ODVNSHFRazlTQlA1SGlsckEwaXlheUt0clZoYjR0RnVvMl9IZWc1cHM5MnA1Q1AzM0tucjk0Ujc2LVltb3l30gF_QVVfeXFMTjRGWklGa21nZTlTdDRXRVRqdFlWXzZUVGJ0ODMxRkRQNUxxeVJscHltWnhSQllvRThCck1XNGo5LUI2cnl4SHFNU3hRQ3dWTThvd2tnZnU5MnRaeU9PblJXb1NYbW9zMndEcWppU2g3TGZ4Y2Fvam4xQlFfeDFBYw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR24zZmc3RGlCWU9GMjMzVWVsWUdoQkxGOG43WFUxNVgtMTRHdjZtUllFdzM1YlFjU1d3OWlCc2ZFVlhiaTJTamJ4dEY5c1VvNGlUUktmN2RKRWpmVlRoOWdaLUdueHI5ZlFZenllZHBYVEQ3VnlEZ09Tc3kzWVBNNnF1YjhWd0h6UmMzUW1NSFpQVnExSUtsaXVyOXTSAaIBQVVfeXFMTXhsX3k3djA5ZW1vMUFBSjZxS01pRHc4RHpXUXhwMlFIcUw1SVc0T2oxM05nS1hWdFlvM2dpT2hZYWN0ZDdpRThFQmtFWXVsU1Z3c2lFOWlibmRnX3lhVHo2LXdoVUZFZHJNMXdVYlBKTFpTR0l3WTE0UldjVTZURy1saEFFVzg3bENEMWNVNjJTV2o5bURxdkdUSzlWaDBpelVB?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -236790,9 +236830,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-23T13:55:09+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 48: rejected (The role requires advanced enterprise Jira and Confluence platform administration experience, which is outside Shlok's Strategy & Operations background and not supported by his facts.)"
     }
    ],
-   "updated_at": "2026-11-21T14:22:18+05:30",
+   "updated_at": "2026-11-23T13:55:09+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -236802,7 +236848,8 @@
     "at": "2026-11-22T12:47:53+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role requires advanced enterprise Jira and Confluence platform administration experience, which is outside Shlok's Strategy & Operations background and not supported by his facts."
   },
   {
    "id": "L1912",

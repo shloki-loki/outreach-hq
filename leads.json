@@ -72011,9 +72011,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Harry Gupta queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-23T08:46:30+05:30",
+     "actor": "send-track",
+     "event": "send_failed",
+     "detail": "TimeoutError: timed out"
     }
    ],
-   "updated_at": "2026-11-22T19:12:41+05:30",
+   "updated_at": "2026-11-23T08:46:30+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "unknown",

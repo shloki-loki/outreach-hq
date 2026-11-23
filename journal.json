@@ -9269,6 +9269,15 @@
    "title": "Diagnosis: Scout 23 Nov: 0 qualified, LinkedIn 429 and Instahyre 403",
    "detail": "Cause: LinkedIn 429 rate limits and Instahyre 403 block plain HTTP readers, same root cause as I0012. L1960 and L1961 stay unverified rather than qualified, which is the correct safe behaviour. Remedy: read them via the built-in browser, or leave until the 429 window passes; no action needed today.",
    "ref": "I0089"
+  },
+  {
+   "id": "J1031",
+   "at": "2026-11-23T20:12:41+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: send-track 23 Nov: no draftable leads",
+   "detail": "Cause: all draftable leads have only catch-all/guess addresses and the Reoon free quota is spent, so recheck cannot verify them and none score 80+. Remedy for Shlok: top up or wait for Reoon credits, or approve sending to specific catch-all addresses by hand. Also the Gemini free quota ran out today (writer run 14:10 drafted 0), so drafting is blocked either way until tomorrow's reset.",
+   "ref": "I0100"
   }
  ]
 }

@@ -239858,15 +239858,15 @@
    "key": "rws|associate sales operations analyst|bengaluru",
    "type": "job",
    "company": "RWS",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "rws.com",
+   "company_url": "https://www.rws.com",
    "company_linkedin": "https://uk.linkedin.com/company/rws-group",
    "company_note": "",
    "title": "Associate Sales Operations Analyst",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4491948585",
    "source_url": "https://in.linkedin.com/jobs/view/associate-sales-operations-analyst-at-rws-4491948585",
@@ -239882,7 +239882,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-23",
    "open": true,
-   "jd": "",
+   "jd": "Working as a part of the global Sales Operations team, the Operations Analyst will demonstrate integrity and excellence in the provision of support to the Commercial organisation.\nThe Operations Analyst role will primarily revolve around the calculation, administration and communication of the commission and bonus plans for the global Commercial organisation and will work closely with other departments such as Sales and Finance to ensure that all activities are completed to a high degree of accuracy. The role will also have involvement in in ongoing Commercial reporting requirements as well as helping to maintain dashboards on our BI system (Sisense). The team has a reputation for high standards and high-quality data provision, and this reputation needs to be maintained at all times.\nThe Operations Analyst is expected to continually evaluate the tasks they undertake and to look for opportunities to improve existing processes. The Junior Operations Analyst will be expected to work as a member of the wider Sales Operations team to implement new ideas and initiatives that support the efficiency of the Commercial organisation.\n Key Responsibilities\n Job Overview \n Calculate regular commission and bonus payments and work to strict deadlines to ensure that payments are submitted to payroll on time for processing. \n Communicate targets and compensation statements in a timely manner. \n Manage and respond to queries promptly and professionally. \n Production and collation of all compensation related documentation. \n Prepare and maintain dashboards and reporting in various platforms. \n Ensure the integrity and consistency of corporate data. \n Prepare and distribute various reporting across the Commercial organization. \n Review team processes and own work methods with a view to improve efficiency and effectiveness of allocated tasks. \n Create and maintain strong relationships within the Commercial organisation and across the business. \n Skills & Experience\n Highly numerate with excellent attention to detail. \n Strong Microsoft Excel skills. \n Able to thrive under pressure in a busy environment. \n Flexible “Can do” attitude. \n Organized approach to all tasks. \n Good team player with the ability to work on own initiative as required. \n Ability to communicate confidently. \n Excellent time management and deadline oriented. \n Experience in working with large volumes of data. \n Experience with Salesforce Lightning or other CRM systems. \n Knowledge of and experience with Business Intelligence platforms (e.g. Sisense). \n Previous experience is a fast-moving, sales orientated company. \n Strong business acumen. \n Educated to degree level. \n Life at RWS \n RWS is a global AI solutions company empowering the world’s most trusted enterprise AI.\nOur proprietary Cultural Intelligence Layer, powered by 250,000 data specialists, cultural and language experts and deep domain professionals, backed by 45+ patents, makes enterprise AI culturally fluent, contextually accurate and ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -239897,8 +239897,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 35,
+    "total": 43,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -239908,15 +239908,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Sales Operations Analyst at RWS in Bengaluru, but pays below Rs 24.5 LPA and focuses on commission administration.",
+    "fit_notes": "The posting asks for an Operations Analyst to 'calculate regular commission and bonus payments' with 'strong Microsoft Excel skills' and 'Experience with Salesforce Lightning or other CRM systems'. While Shlok has strong data and execution experience from Ola Electric (e.g., [sop], [ceo-coo]), this analyst role is administrative, does not meet the Rs 24.5 LPA fixed pay minimum, and is not a Strategy & Operations, Founder's Office, or Product role.",
+    "pay_notes": "Pay not stated in the posting, and no salary figures were found in the evidence for RWS.",
+    "culture_notes": "RWS is a global AI solutions company listed on AIM (RWS.L) with recent acquisition activity [S1], but specific culture ratings and review counts were not found in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-23T14:04:29+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "RWS to Acquire Acolad - Slator",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KRlg0UU1TS2tHQ28ycmRIU2FLSWVFQU5fQmJhVFd1aFBxM2Z3ZjNNTnJSV2YzdGdGYlFoWlFYcWVPRE1pclZ1aE9hQ0F4dEZCXzlV?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "RWS Reports Higher Profits as AI Expansion and Efficiency Measures Drive Growth - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3ZTVkh4UTdXbUc4OS16NU5NUjFXOHJLQzJBQjJ0QmJoUUp5UkJzazN6bFAxT3JjWHJnZ3ZSdFFKeERWMWdYVEF1OTBoWXIyRXBtZ0NaS1RjbDI0aFM0eWotUXdrUUhjMTN2VzAyUjA0dG52eFQxc3Y3cE1fNHN0bjdzV1Q?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "RWS 200: The Muay Thai Event Combat Sports Fans Can't Miss - DAZN",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWNGclRKb2dWdE00UFdfckpJWWxrTWt5LUY1UHdMejhST1lFaF9mOE5tLWp4eEtva05XR09iVVQ5WHBpNFYxWlJZbWFSdFp4dW9HbFlISm1iTDN4VC1BejRtOVBWSm1JRWktZG1xQl9LQlZNbUZYVDc0Rk9BQmU1LVJ1aGdxM0tnUjh3SU1KZDQwZkMyN0tGWmhGNG9DYnEtakY4c1RkbUhRa2lwZDJRSmFIYXBzSmJRYXc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Interview: Jake McCoy, Interim CEO of RWS Global - Adam Mendler",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15Q1NTZW1yU3dLVXJaTG50TzZhaWlYT2todS1NOVp2UHptYVdFc0p2WjdYcFFzV1ZBaEg1RjMtbUJkWllHeTdXSW9BeXVZNWJl?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "New US procurement pathway for EOS R400 RWS - Electro Optic Systems",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YanNidGtaQ2pfMkNYX3lIcDJnRE9PeEJNc2F6dVlSbW9rOXQzcUlPRE9xZ0Q2bWdEMmwxT3JZYkhjVVlZSnpvOFpFaWZIZm5ydUVmZl9vUHN0UldZbXVGbXY5NkZzcklncndmb3NoNl9fYnZPQnBwMA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "RWS reaches agreement to acquire Acolad - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2ZCMHhldmJuRXhSWXRLMkV0d1M1bThYUlF4VUIyUmkwbUpRWGduWVVkbkRmdFJUaXM3QVhGaTVmVHphd0l6UDhBaUtwSUNEY2hpV0JFQmNKa1p4TmRWd3pSWUw1TzJrQThDWjliWUlsMjdWOXZqd2hJcjkzazRoeDRaNjhzb0w4MjI2WFl5b2NfcWlfQzM0OTB5SQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -239940,9 +239978,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 56"
+    },
+    {
+     "at": "2026-11-23T14:04:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 43: rejected (Role is a low-paid Sales Operations analyst position primarily focused on commission and bonus administration, failing the Rs 24.5 LPA fixed pay threshold and falling outside Shlok's target Strategy & Operations or Product priorities.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30",
+   "updated_at": "2026-11-23T14:04:29+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -239952,7 +239996,8 @@
     "at": "2026-11-22T22:39:10+05:30",
     "why": "could not open the posting: HTTP 429 for https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/4491948585",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Role is a low-paid Sales Operations analyst position primarily focused on commission and bonus administration, failing the Rs 24.5 LPA fixed pay threshold and falling outside Shlok's target Strategy & Operations or Product priorities."
   },
   {
    "id": "L1934",

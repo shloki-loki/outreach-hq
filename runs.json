@@ -1,16 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-20T16:46:27+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "sent 0, failed 0. daily cap of 70 new emails reached",
-   "stats": {
-    "sent": 0,
-    "failed": 0
-   }
-  },
-  {
    "at": "2026-11-20T16:46:41+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3408,6 +3398,19 @@
    "stats": {
     "sent": 0,
     "failed": 10
+   }
+  },
+  {
+   "at": "2026-11-23T09:05:26+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
    }
   }
  ]

@@ -8261,6 +8261,15 @@
    "title": "Ran",
    "detail": "0 emails drafted, 0 referral notes (no connections matched), 0 application kits; skipped: 9 leads need verified address (catch-all/guess, none 80+), L0029 generic address only, no readable apply forms",
    "ref": ""
+  },
+  {
+   "id": "J0919",
+   "at": "2026-11-23T10:45:24+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 1 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

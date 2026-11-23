@@ -8711,6 +8711,15 @@
    "title": "Solved: Sending M0367 failed",
    "detail": "Cause: the Mac had no working connection 08:05-10:05 on 23 Nov (Gmail connect timed out; GitHub fetch also got no answer at 10:05). A connect timeout means the email never left, so it was not sent; the person was put back at the end of the founder list automatically and gets the email later. Sends worked again from 10:25.",
    "ref": "I0068"
+  },
+  {
+   "id": "J0969",
+   "at": "2026-11-23T16:47:52+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: Sending M0368 failed",
+   "detail": "Cause: the Mac had no working connection 08:05-10:05 on 23 Nov (Gmail connect timed out; GitHub fetch also got no answer at 10:05). A connect timeout means the email never left, so it was not sent; the person was put back at the end of the founder list automatically and gets the email later. Sends worked again from 10:25.",
+   "ref": "I0069"
   }
  ]
 }

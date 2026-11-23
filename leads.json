@@ -5500,7 +5500,7 @@
    "key": "carbontrail|founder s office|remote",
    "type": "job",
    "company": "Carbon Trail",
-   "company_domain": "",
+   "company_domain": "carbontrail.net",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "Not found (11-50 people per Wellfound)",
@@ -5574,10 +5574,10 @@
      "title": "Aggregator (job-list post)",
      "role_type": "employee",
      "linkedin_url": "https://www.linkedin.com/in/yash-chitransh",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "yash.chitransh@carbontrail.net",
+     "email_status": "catch-all",
+     "email_source": "pattern first.last on a catch-all domain",
+     "confidence": 55,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
     },
@@ -5600,10 +5600,10 @@
      "title": "Co-Founder & CEO at Carbon Trail",
      "role_type": "founder",
      "linkedin_url": "https://www.linkedin.com/in/ashishrohil/",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "ashish@carbontrail.net",
+     "email_status": "catch-all",
+     "email_source": "pattern first on a catch-all domain",
+     "confidence": 55,
      "why": "",
      "found_at": "2026-11-23T20:23:06+05:30",
      "found_via": "linkedin-search"
@@ -5614,10 +5614,10 @@
      "title": "Co-Founder at Carbon Trail",
      "role_type": "founder",
      "linkedin_url": "https://www.linkedin.com/in/shantanu1singh/",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "shantanu@carbontrail.net",
+     "email_status": "catch-all",
+     "email_source": "pattern first on a catch-all domain",
+     "confidence": 55,
      "why": "",
      "found_at": "2026-11-23T20:23:06+05:30",
      "found_via": "linkedin-search"
@@ -5713,9 +5713,27 @@
      "actor": "people-finder",
      "event": "contact_added",
      "detail": "Shantanu Singh (founder, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-24T02:29:20+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Yash Chitransh: yash.chitransh@carbontrail.net (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-24T02:29:20+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Ashish Rohil: ashish@carbontrail.net (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-24T02:29:20+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Shantanu Singh: shantanu@carbontrail.net (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-23T20:23:06+05:30",
+   "updated_at": "2026-11-24T02:29:20+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",

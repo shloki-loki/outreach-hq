@@ -241590,8 +241590,8 @@
    ],
    "updated_at": "2026-11-22T14:29:38+05:30",
    "research_attempt": {
-    "at": "2026-11-22T22:15:29+05:30",
-    "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
+    "at": "2026-11-23T13:43:29+05:30",
+    "why": "error: Gemini unreachable: The read operation timed out",
     "by": "research-worker"
    },
    "live_check": {

@@ -41058,7 +41058,7 @@
    "key": "codingal|founder s office|bengaluru",
    "type": "company",
    "company": "Codingal",
-   "company_domain": "",
+   "company_domain": "codingal.com",
    "company_url": "https://www.codingal.com/?utm_source=yc",
    "company_linkedin": "https://www.linkedin.com/company/codingal",
    "company_note": "YC Winter 2021 · team of 100 · Leading online after-school for kids & teens to learn AI & coding",
@@ -41066,7 +41066,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "codingal:company",
    "source_url": "https://www.ycombinator.com/companies/codingal",
@@ -41097,8 +41097,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -41108,15 +41108,33 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office speculative note at Codingal, team of 100, but pay is not stated and no open role exists.",
+    "fit_notes": "The posting for Codingal (www.codingal.com) does not specify years of experience, does not mention pay, and is a speculative note to founders rather than an active role with requirements. It does not explicitly demand an MBA or consulting. Shlok's strategy and operations background ([ceo-coo], [sop]) is strong, but without a stated opening or pay evidence clearing Rs 24.5 LPA, it cannot be qualified.",
+    "pay_notes": "No pay figure is stated in the posting or provided in the evidence.",
+    "culture_notes": "No employee ratings or reviews were found in the evidence. Stage: YC Winter 2021 [S1], team of 100 [posting].",
+    "hook": "Codingal is trusted by over 1 million registered students in 70+ countries as a leading online AI and coding platform.",
+    "hook_source": "https://www.ycombinator.com/companies/codingal",
+    "researched_at": "2026-11-24T02:28:13+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Codingal website",
+      "url": "https://www.codingal.com/?utm_source=yc"
+     },
+     {
+      "id": "S2",
+      "title": "Codingal - 2026 Latest Shareholding & Valuation - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXF0dzc3azlyaGNGcHdYVTd5M3oySkw0Wk0tUkhpUGs0X2ZsZ21fdm90cDhPaWJXRmJKUXdsSHM1ZmxGVTdCRC13RE4tZkVzV0N3TFNJZmJMYkwtaUw2azBhSzVnbTBQS1ZSd0cxLU9DVGZKcFRGcHV6T1QtZFJQbWp2VzA2QUVQU1pSSHlPTzZlOVpqQWFTZDBwMm9CVDV4VWtNNF9aWWg?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -41167,14 +41185,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T02:28:13+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (Pay is entirely unknown and there is no named opening (speculative note to founders), meaning no verified fixed pay meeting the Rs 24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-24T02:28:13+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "Pay is entirely unknown and there is no named opening (speculative note to founders), meaning no verified fixed pay meeting the Rs 24.5 LPA threshold."
   },
   {
    "id": "L0296",

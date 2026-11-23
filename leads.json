@@ -40651,7 +40651,7 @@
    "key": "riviaai|founder s office|bengaluru",
    "type": "company",
    "company": "Rivia.AI",
-   "company_domain": "",
+   "company_domain": "rivia.ai",
    "company_url": "https://rivia.ai",
    "company_linkedin": "https://www.linkedin.com/company/rivia-ai/",
    "company_note": "YC Summer 2021 · team of 5 · Interactive Product Demos",
@@ -40659,7 +40659,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "rivia-ai:company",
    "source_url": "https://www.ycombinator.com/companies/rivia-ai",
@@ -40690,8 +40690,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 50,
+    "total": 52,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -40701,15 +40701,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office speculative note at Rivia.ai (team of 5, YC W21), but no open role or pay is stated.",
+    "fit_notes": "The posting is a speculative note to founders for a 5-person company (Rivia.ai) building interactive product demos, asking for no specific years, skills, MBA, or consulting. Shlok's Ola Electric operations and strategy work ([sop], [ceo-coo]) map well to general early-stage founder's office needs, but there is no actual job opening or pay evidence.",
+    "pay_notes": "Pay is not stated in the posting or research evidence.",
+    "culture_notes": "Company is a team of 5 from YC Summer 2021; no ratings or reviews found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T02:26:35+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -40747,14 +40757,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T02:26:35+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (Speculative cold note to founders of a 5-person YC seed startup with no open role, no stated pay, and no concrete evidence of reaching the Rs 24.5 LPA fixed compensation threshold.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-24T02:26:35+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "Speculative cold note to founders of a 5-person YC seed startup with no open role, no stated pay, and no concrete evidence of reaching the Rs 24.5 LPA fixed compensation threshold."
   },
   {
    "id": "L0293",

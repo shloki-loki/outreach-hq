@@ -9314,6 +9314,15 @@
    "title": "Daily review 2026-11-23",
    "detail": "RAN: lead-scout 09:31, scout scrape 15:26 (6721 jobs, 19 new), live-check 13:05, research-worker 14:07 (24 researched, 8 qualified, flagged failed), people-finder 14:07 (0 added), writer 14:10 (0 drafted, Gemini free quota out), send-track send 11:29 (3 sent), follow-up 11:40, follow-up/track every 20 min through 20:05, digest 17:06. Supervisor check workflow failed 18:26 because of failed messages. PROBLEMS: Mac had no network 08:05-10:05 so 52 founder emails timed out (diagnosed, fixed by PR 17 timeouts/locking, live 16:36; I0088-I0099 resolved); 64 messages still failed (I0101, needs Shlok to Retry/Skip); Gemini quota out (no drafts); no draftable leads, catch-all addresses only (I0100); Instahyre 403/LinkedIn 429 (I0089); bounce rate 5.7% above 5% (I0040 open, Shlok decides). CHANGES: PR 17 and PR 18 merged by Shlok and Claude earlier today; I changed nothing. FUNNEL: 1994 leads, 651 researched, 76 qualified, 236 cold sent / 246 emails total, 10 applied, 6 replied, 1 interview, 0 offers. Reply rate 2.5%, bounce rate 5.7%. VERIFIER: Reoon free quota spent, Hunter no key; credits used today not reported. NEEDS SHLOK: (1) Retry/Skip the 64 failed messages on Approvals; (2) decide on pausing founder campaign over the 5% bounce limit and refresh Reoon credits/Gemini quota; also rotate leaked Reoon key (I0025).",
    "ref": ""
+  },
+  {
+   "id": "J1036",
+   "at": "2026-11-23T20:12:59+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "7 open issues needing attention (I0101 new), 0 fixed today by me, reply rate 2.5%, bounce rate 5.7%",
+   "ref": ""
   }
  ]
 }

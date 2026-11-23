@@ -240330,15 +240330,15 @@
    "key": "cummins|supply planning coordinator level iii offc|india",
    "type": "job",
    "company": "Cummins India",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cummins.com",
+   "company_url": "https://www.cummins.com",
    "company_linkedin": "https://in.linkedin.com/company/cummins-india",
    "company_note": "",
    "title": "Supply Planning Coordinator - Level III - OFFC",
    "tier": "1 - Strategy & Ops",
    "location": "Pune Division, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4474687794",
    "source_url": "https://in.linkedin.com/jobs/view/supply-planning-coordinator-level-iii-offc-at-cummins-india-4474687794",
@@ -240354,7 +240354,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-23",
    "open": true,
-   "jd": "",
+   "jd": "Under minimal supervision and in accordance with Cummins Delegation of Authority Policy, determines the quantity and timing of materials required to meet the master production schedule and/or independent customer demand. Initiates and expedites purchase or production orders as required to ensure material availability and customer delivery requirements are met. The role is responsible for monitoring supply and demand, managing material planning parameters, addressing supply constraints and exceptions, and collaborating with suppliers, sourcing teams, manufacturing, quality, and other supply chain stakeholders to optimize inventory and delivery performance.\nUnder minimal supervision and in accordance with Cummins Delegation of Authority Policy, determines the quantity and timing of materials required to meet the master production schedule and/or independent customer demand. Initiates and expedites purchase or production orders as required to ensure material availability and customer delivery requirements are met. The role is responsible for monitoring supply and demand, managing material planning parameters, addressing supply constraints and exceptions, and collaborating with suppliers, sourcing teams, manufacturing, quality, and other supply chain stakeholders to optimize inventory and delivery performance.\n Key Responsibilities\n Supply & Materials Planning\n Determine material quantities and order dates based on demand, master production schedules, inventory levels, lead times, and supply constraints.\n Initiate purchase and work orders to support demand plans and ensure timely material availability.\n Monitor materials planning systems for exception messages, alerts, shortages, past-due orders, and other supply risks.\n Perform root-cause analysis and take appropriate corrective actions to maintain alignment between supply and demand.\n Reconcile order boards for critical suppliers, critical parts, and past-due orders on a routine basis.\n Expedite purchase or production orders when required to support customer and manufacturing requirements.\n Provide accurate and timely updates on inventory availability, shortages, and back-order recovery plans.\n Supplier & Stakeholder Collaboration\n Participate in allocation and supply constraint discussions with Sourcing Managers, suppliers, and other Cummins entities to understand constraints and their business impact.\n Collaborate with suppliers to improve lead times, optimize order quantities, and balance supply with demand.\n Take ownership and accountability for supplier schedules that support end-customer requirements.\n Collaborate with Supply Chain Planners and other stakeholders across the organization to reposition excess inventory to locations with supporting demand.\n Document, communicate, and follow up on action items that may impact the ability to execute the supply plan.\n Support supplier improvement initiatives focused on improving delivery and supply chain performance.\n Inventory & Part Change Manage",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -240369,8 +240369,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 25,
+    "total": 39,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -240381,15 +240381,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Supply Planning Coordinator at Cummins in Pune; rejected as a coordinator role outside Bengaluru unlikely to meet Rs 24.5 LPA target.",
+    "fit_notes": "The posting asks for hands-on experience in materials planning, S&OP, inventory control, and SAP MRP. Shlok's work in owning S&OP [sop], SAP MRP implementation [mrp], MSL buffer setup [msl], and inventory rebalancing [rebalance] matches the functional requirements, but the title is a junior coordinator role based in Pune.",
+    "pay_notes": "No pay figure is stated in the job posting, and no specific salary benchmark evidence for Cummins India is provided.",
+    "culture_notes": "No glassdoor/ambitionbox ratings provided in evidence.",
+    "hook": "Cummins India was recently featured as a key beneficiary of India's capex revival in an HDFC Sky report.",
+    "hook_source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3htMFVtYWsxbzhGTHRxdUpSc3ZFSzlqbzlMMDUwUWxtZzdqWGNwTkUxeE45SzZCQjVHb3NSZFFLZFNrcG5JMzg3MHllN0F0N3lYU3RLYk12clEwOFlaajMtdTdlVlZpVlB4aGJlWm9mZ0xwZXptMmxBRnlmSl8xcXBZODZpUWNjU2NkdEp0c0NCNndLbWlvN3FOM3laMjcwNFUwT3JybkZva05vdGc?oc=5",
+    "researched_at": "2026-11-23T14:02:43+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Cummins won't rule out changes for Australia in second Test - ICC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2VvOFNFYWpLT2szYk51eVJBWHhZaTY2Q1Bkdi1kdTlDMkY0eHhnWWpWbmZ1OEcteHRJTE9EZ1NOTnk2cDdCS2NBMnA5LTRuRmFmdG9kUlM1VllOZXNETVRXSTRZVmowMXVIQVBWSEg5d0hzSnVKVXlqaktDTVZsZXptZUc2V0lKSDJTVEgyNzJ2aVFhVlgw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Cummins to use South Africa ODIs as Test preparation - Cricinfo",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUy03QWpXcllmbVZkMUpFTDdrbk9RT01ndWxtSmVHUVZ4TFEtWnNhTG1MWEtzOVNCcXlYNHo1V3dfSHY1T1c2RjEwdTdHZjI4RWRkRk8tYnRLVFJaWW91UjI4ckRlN2pDdkJPd3E2YUFWNGs2ejBhWExNVmtyeDAzZ0Itc1ZzMDFZeko3dHVmZlZFRVN1RDB3TEljaEY3NFRvd1Nqa2ZBaDgtU3ZpcEMxMkdYRWlzeXBnSVV1TEVJWlRTdURZTUoyaEpR0gHbAUFVX3lxTE9zNThJUV9NOFZpREk1U2RIdUJMdTQycGRENXpMb1BWOGNoLWhZNW0xYThCZGVkVy1SR0dTSjF3MGxHZnFaRkxkUEdwWWhxbjZjQWpCbmFjUU5JNTlOQkd0Skd5ZV9oVVIxUjlybGd0dXhtTHdqVEU0cXJoSHJNSERkNGs2YzM3WTNzUmk3emZ6a0p0eV9HUC10WTJKMUJpYVBQWmZFSGJnZW0telIwWDJsSV8xVnJEMjNOVjBBTmFmcnZIWFRQc1RMWV80ZktLYzc3YWNkTWRUWnd2WQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Pat Cummins to remain Test captain despite intense pressure amid sandpapergate scandal - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVjJLNW9PVGRmWjEwVlBBNTVQT2RqMFh1Vld5ZkFsVHVxY0Rpa0FmSzJYSEhBQmNIN28xbGVwUkVKamJPNXkzMGlfYUQ0ZGhhNnZEVUN0ellWczA0N1I1SFEzaEViZE5jUEYwRy1zdGFXdU1na1BpYmZpSUNJYWdfdjI3eTJ6a2xzVkhVQ2g3bmx2RWJjUktiQV9NQjIwX0xFcGRxakVzVQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "'Wrong' and 'nonsense' - Cummins on Khawaja claims - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vVm84YUVlMGtqTVlfcGZQd2NlejBldXRxcVJvNnJRZHV4M2VpbGxhRUlmWVB4aExBOGV5LWp2S3lQWFF5blBYczNTalVFV2pGVDNfemUxZ3loQVZuNXlzOEtPNkNDT2s?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Cummins Reports Strong Third Quarter 2026 Results - Cummins",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVRaejFHZHNTNkNhc2o3VTBFWmNCSUVrbEFNRkNjOTM0eUdBN20ycE9TbTZUTm4tMklkNnUwZ0VUdWJ4dUJ5TlVXN3RoWTVjQURRazE0OEUwdFJRSTA1ZE9DTDUtS3hOQUdFdS1QSVI1NHdaaFhCSVItYngxa29mX00wMng0R3F2RG1DTlFPLXZ2d3U3VEtkcUpR?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "How Cummins India Became a Key Winner of India’s Capex Revival - HDFC Sky",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3htMFVtYWsxbzhGTHRxdUpSc3ZFSzlqbzlMMDUwUWxtZzdqWGNwTkUxeE45SzZCQjVHb3NSZFFLZFNrcG5JMzg3MHllN0F0N3lYU3RLYk12clEwOFlaajMtdTdlVlZpVlB4aGJlWm9mZ0xwZXptMmxBRnlmSl8xcXBZODZpUWNjU2NkdEp0c0NCNndLbWlvN3FOM3laMjcwNFUwT3JybkZva05vdGc?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "msl",
+     "rebalance"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -240413,9 +240456,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-23T14:02:43+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 39: rejected (Role title is a junior Coordinator position located on-site/hybrid in Pune rather than Bengaluru or remote, and is unlikely to meet the Rs 24.5 LPA fixed pay threshold.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30",
+   "updated_at": "2026-11-23T14:02:43+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -240425,7 +240474,8 @@
     "at": "2026-11-22T22:19:43+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Role title is a junior Coordinator position located on-site/hybrid in Pune rather than Bengaluru or remote, and is unlikely to meet the Rs 24.5 LPA fixed pay threshold."
   },
   {
    "id": "L1939",

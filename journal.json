@@ -9665,6 +9665,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 60 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J1075",
+   "at": "2026-11-24T04:05:30+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 60 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

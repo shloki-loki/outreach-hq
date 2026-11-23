@@ -242124,8 +242124,8 @@
    },
    "score": {
     "rules": 75,
-    "research": null,
-    "total": 75,
+    "research": 20,
+    "total": 42,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -242135,15 +242135,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "PwC Acceleration Center Strategy and Operations Senior Associate asks at least 4 yrs in a consulting setup; out of range.",
+    "fit_notes": "Posting opened 23 Nov, live, requires at least 4 years of experience (over stretch limit) and is a consulting-style Advisory role.",
+    "pay_notes": "No pay evidence read.",
+    "culture_notes": "Not researched.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-23T09:30:15+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -242167,9 +242169,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 75"
+    },
+    {
+     "at": "2026-11-23T09:30:15+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 42: rejected (Posting opened 23 Nov, live, requires at least 4 years of experience (over stretch limit) and is a consulting-style Advisory role.)"
     }
    ],
-   "updated_at": "2026-11-23T00:20:55+05:30"
+   "updated_at": "2026-11-23T09:30:15+05:30",
+   "reject_reason": "Posting opened 23 Nov, live, requires at least 4 years of experience (over stretch limit) and is a consulting-style Advisory role."
   },
   {
    "id": "L1967",

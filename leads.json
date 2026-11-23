@@ -551,9 +551,11 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Why this role (cover note)": "Scaling strategic initiatives across functions requires turning complex operational bottlenecks into clear weekly cadence. At Ola Electric, I've worked directly with the CEO and COO on fulfilment operations, running production planning and cutting working capital by 40%. I also built a lotting algorithm for truck dispatches that brought delivery times down from 32 to 14 days. Rupeek's push to streamline asset-backed lending at scale needs that exact mix of structured execution and cross-functional rigor."
+    }
    },
    "first_contacted_at": "2026-11-20T16:44:59+05:30",
    "replied_at": null,
@@ -770,9 +772,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Vishal Shukla: vishal.shukla@rupeek.com (verified, 90)"
+    },
+    {
+     "at": "2026-11-24T02:31:41+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-24T02:28:46+05:30",
+   "updated_at": "2026-11-24T02:31:41+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "closed",

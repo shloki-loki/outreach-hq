@@ -247383,8 +247383,8 @@
     "why": ""
    },
    "research_attempt": {
-    "at": "2026-11-23T13:51:29+05:30",
-    "why": "error: Gemini unreachable: The read operation timed out",
+    "at": "2026-11-24T02:08:36+05:30",
+    "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
    }
   },

@@ -39116,7 +39116,7 @@
    "key": "apollo|founder s office|bengaluru",
    "type": "company",
    "company": "Apollo",
-   "company_domain": "",
+   "company_domain": "apollofirst.xyz",
    "company_url": "https://www.apollofirst.xyz/",
    "company_linkedin": "",
    "company_note": "YC Winter 2022 · team of 11 ·  Payments & Loyalty Infrastructure",
@@ -39124,7 +39124,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "apollo-3:company",
    "source_url": "https://www.ycombinator.com/companies/apollo-3",
@@ -39140,7 +39140,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Apollo: Payments & Loyalty Infrastructure | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › Apollo \n Apollo\n Payments & Loyalty Infrastructure \n Y Combinator Logo Winter 2022 \nActive\n DeFi\n Fintech\n Crypto / Web3\n Company \n Jobs 1 \n https://www.apollofirst.xyz/\n Payments & Loyalty Infrastructure \n Company Launches\n BizFirst: Accept Crypto Payments and run NFT-based loyalty programs on your Website/E-Commerce Store.\n See original launch post \n Hey folks!👋 We at Apollo have just launched our first product BizFirst ! \n We, as a team have previously built large-scale fintech products for SMBs in SEA & India. Having experienced many problems faced by SMBs with traditional payments & due to our involvement with Crypto/Blockchain from the very early days - We decided to build BizFirst \n BizFirst helps online merchants to:\n Accept Crypto (USDC) Payments 💰\n Send & Receive USDC invoices 🧾\n Run an NFT-based Loyalty program i.e. Token-Gate, Offer Discounts for NFT collections & issue store-branded discount NFTs for your store. 🪄\n Merchants love BizFirst because using BizFirst allows them to:\n Reduce up to 80% on the Transaction fee\n Get their money instantly (less than 5 secs vs 6-7 days)\n Go Global from Day 0 (No country-by-country setup, 0 Cross-border fee)\n Avoid Chargebacks (Crypto Payments are irreversible from Day 0)\n Attract & meaningfully engage customers (NFT-based loyalty programs)\n Asks\n We’d also love Intros to solid product engineers & marketers to join us. ( Open Roles )\n Share BizFirst with your network & show some love. \n Follow us on Twitter !\n Jobs at Apollo\n View all jobs \n JS/Web3 Full Stack Engineer (YC backed Web3 + FinTech company) \n Bangalore, Karnataka, India / Remote (India)\n 1+ years\n Apply Now › \n Apollo \n Founded: 2022 \n Batch: Winter 2022 \n Team Size: 11 \n Status: \nActive \n Location: Bengaluru, India \n Founders\n Tanmaay K Founder\n Tanmaay K Founder\n S G Founder\n S G Founder\n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -39155,8 +39155,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 10,
+    "total": 28,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -39166,15 +39166,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "JS/Web3 Full Stack Engineer at Apollo (BizFirst), asks 1+ yrs; your profile is Strategy & Ops and you lack software engineering role fit.",
+    "fit_notes": "The posting asks for a 'JS/Web3 Full Stack Engineer (YC backed Web3 + FinTech company)' requiring '1+ years' of experience. Shlok is looking for Strategy & Operations, Founder's Office, or BizOps roles, not software engineering positions, making this a functional mismatch.",
+    "pay_notes": "No pay figures are mentioned in the posting or evidence.",
+    "culture_notes": "Company is YC Winter 2022 backed (BizFirst / Apollo) with a small team of 11; no ratings or reviews found.",
+    "hook": "I noticed Apollo's BizFirst product helps online merchants reduce transaction fees up to 80% with instant USDC settlement.",
+    "hook_source": "https://www.ycombinator.com/companies/apollo-3",
+    "researched_at": "2026-11-24T02:23:20+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Apollo website",
+      "url": "https://www.apollofirst.xyz/"
+     },
+     {
+      "id": "S2",
+      "title": "India's Tata Steel to take control of APL Apollo in deal worth up to $3.47 billion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONzFNU0U5bFVBRS1yY3VLYUtfZ2ZWYWN4TnJTbi1Hd3hUaXJnaEkxY1lIcGJiVjU2ZVVqSk4yckRoOFJLTFhPVHBSdXJjWmFRb3BtaHNyNWx4QkY5VEM2cVR0LWt5NkE1X3pmZl9YUVdHS0ZGWTllOHJuQ0s4RXBJY0VxeUFJdHNDWU1Da3NlZEh2Tkc5LWJ2U0dxQ3M?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "NVIDIA Partners with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital - Apollo Global Management",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk0wLXlfX1U3YWdJLWdheUdnQjk2MmNCZTVSWVp4d1UySFY3NENmWk9ESmgzSXFKX2ZTcU15dDh5dFVmQXZZTHlKcmZTZDYzbTd3eHNuaDVtbkR6NVdEUGQ3Y3E5dnUwV1hNck41d29LME5tTjZoVUw5WWtwOE8tN0FaN01KVFNxS3MtQ3U1QQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Investors give a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jeEdMSW5TM2dJdzk1MGFKRHVtTnVUNmtNQWJzbC1NeGhVRnJfQTlCNDVYcl8xQ3dCTkgzLWZYUzhJeklkd1BMWjFLYjBwcFZ3cUVnTzVvbC1jWHcwY2RfQ0xtdHUzTVBxU24tck52bEZIYTRVLUZ6YThLZ2w2SHfSAYQBQVVfeXFMTTJDUUREdXJ4bFhIUzU3dXhNUXdJVnBrVGpIek92RVMyQkpWVXZrRHBjbzlIaEF3a2RQYVNuNkdscmNYQ3pYbkVKX21TdFNqMHN1NGUyZzhrRHZoTkdtVmJXN29iN3FHdUlVUzJNQXZpcUxhUGxLMnNIR2N0ZFhpdkdLZzU0?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Upasana Kamineni Konidela takes charge as Apollo Director – Projects - Express Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUtFa2RRbzlLWmxUbzVHaS1rR2JmZ0xuc3JGdnRxb3JFd1dEbWFsNVkzanBFazYzcG5BNXFxbG84UzdEeEVpc09rc0FIelBkUERDNjJsNkw0WjE2UFdNX1lXakJpYjJsX00tbzRiLUtkbnA5NlM2U2NRM3R2NEt0VVNvSTZET0NuUjhubkkxRkJhQnVCQ1llM0FvY0tBc1VoUlV6VUFNQTRSakxRSm9GLXZR?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Tata Steel to acquire 26.6% promoter stake in APL Apollo; another 26% via open offer - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjFfb2MwR3AwOTA3UVljd200VlBqcUs3SXg2eWpFWUI3ZkNYMnB2UTdpaG0wVWxDTkt4UktVQ3c4MmFKTlZSWUVGdndTWi1VQTVUR2l2STBmNDNieG9HY2pWNHhySWlzQmdlN1l2QUlzQXo3c1JSaGlWUlJXYTZDNDZtbTFEeTZDQVJuRHRsYWNUdy1fYWZ1ZGEyWnM1cm5PWVdybXAydE9JODBrM0N3MnBSWWlqd3lqN240SlU1ZlFQaUNlNXc?oc=5"
+     },
+     {
+      "id": "S7",
+      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90 - MIT News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10TGFYS3RlcVRrbURhOENrTkIwRHBVbV9OYkh3ZWd3c0FUTTBjX0JhSU1rTU1BLVI4eUVlNmFscHM2RV9IcjRYZk9UWUVMdG1PVU9Uc2pmYmVTaGRuM3REZEJ6NFBjMmxZRG1rdFF1SEg4R0ZmM3lhREJfVQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -39225,14 +39268,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T02:23:20+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 28: rejected (The posting is for a Web3/FinTech full-stack software engineer role at Apollo (BizFirst), not a Strategy & Operations or Founder's Office role, and it does not match Shlok's target functions.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-24T02:23:20+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "The posting is for a Web3/FinTech full-stack software engineer role at Apollo (BizFirst), not a Strategy & Operations or Founder's Office role, and it does not match Shlok's target functions."
   },
   {
    "id": "L0282",

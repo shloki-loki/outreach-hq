@@ -32335,15 +32335,15 @@
    "key": "pendo|senior program manager|bengaluru",
    "type": "job",
    "company": "Pendo",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "pendo.io",
+   "company_url": "https://www.pendo.io",
    "company_linkedin": "",
    "company_note": "",
    "title": "Senior Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore,Mumbai,Pune",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "instahyre",
    "source_id": "462499",
    "source_url": "https://www.instahyre.com/job-462499-senior-program-manager-at-pendo-bangalore-mumbai-pune/",
@@ -32374,8 +32374,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -32385,15 +32385,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Program Manager at Pendo, asks 8-13 years; your ~1.3 years of experience is a major gap.",
+    "fit_notes": "The posting asks for \"8-13 years of program or project management experience delivering enterprise software or SaaS implementations\". Shlok has about 1.3 years of experience and no enterprise software implementation background. His Ola Electric facts ([sop], [ceo-coo]) show strong supply chain and operations ownership, but do not match the required SaaS enterprise customer program management background.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Pendo was recently noted for winning in Strategy Awards' Inaugural Small Design Agency of the Year Category [S2]. Glassdoor ratings and specific culture details were not found in the search evidence.",
+    "hook": "Pendo recently won in Strategy Awards' Inaugural Small Design Agency of the Year Category.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVS0wM3dHWDJHb1VRYkZDT2w2YjNWZ3pzWUxranJhOXlnNDA3MzNjRmQzendhZk1QY2RhdzZPUUhGQldRQjhrYW1xQXV5dENzQjZIR0ktc0lmbnh6dFJtZm1qT2VOeWJsZU1mdy1ob1VTNDZWMjhiWnVzcFJSc0pJeUE5ZFBBbTBxNnpEUVJYVldCcW1FUmV6U0ZRTVJTWkJfQ1M4?oc=5",
+    "researched_at": "2026-11-23T14:05:25+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Pendo’s New Game Teaches AI Agent Training… in Liminal Spaces - GrepBeat",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeVpiZ0FrcU5LX29uMTFMckJkNnNzUWNDblBJQ1NGZjA4bmZRS1VMX2t3aHhmUnZudjdDa3g0V1FIQlpjTjhDTG82bUpKY0FXQkVkR0FyeEozTGRyMEU0ay1xZGFfTE40cTl1VW91dm5icVd3U2RidklXc1RMdTRjNThrd0tvUzJoUlN0MWlkZTJPanFyMElF?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Pendo Wins in Strategy Awards’ Inaugural Small Design Agency of the Year Category - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVS0wM3dHWDJHb1VRYkZDT2w2YjNWZ3pzWUxranJhOXlnNDA3MzNjRmQzendhZk1QY2RhdzZPUUhGQldRQjhrYW1xQXV5dENzQjZIR0ktc0lmbnh6dFJtZm1qT2VOeWJsZU1mdy1ob1VTNDZWMjhiWnVzcFJSc0pJeUE5ZFBBbTBxNnpEUVJYVldCcW1FUmV6U0ZRTVJTWkJfQ1M4?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Pendo Launches Pendo for Agents, Ending an Era of Annoying, Unhelpful AI Agents that are Worse than Humans - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVUNnYjdDd3YxTmZkazZNRlMzdTM1X3h5Sm1VZ0hWY0VlZlItUnJHa2swc0wwQkFnQl9hQ20zNFFxQy1tY3ZhWF9kb2ZiRFNiQ2xicTctMmVnNGV6a2oxdkhrTG9CZW1OaW5Pam92MzlaRHFDTTMwT3o4SFRDUzNYUDdsRW9GZE5GYWRxeE1jN1JvRUlhaHNsZEFjX3lqOWtha25JNG12ZGpRYTI1N3VtMndTYlpGaHFXX3NCUmgtR0VKNUpCTF9Hd3UydXdmOWJCTm83SGk4d3BoY3Y4UGxkaGJ5OWRNdmtoUEVsbXlUV3B6UQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Si Kila Pendo Ni Baraka - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WMGpLcnhlSzNucF8zaEFiWHowRV9zc3JOd2hoUVBtUDdzMkROUlgyWVRiODZWRkZFTldwX2lEcGNaQ0pTblhZM2JnbndfOXk1?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Kisumu Launches Sh306mn Non-Motorised Transport Project, Opens Baby Pendo Botanical Park - Capital FM Africa",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZOa1FUY3hVSlRkVlBhcGlCV0p0SXJJYVZOQ1Zmdk1nRGdJV3hENTh4YVdSN3RJa2J4bjdGVXJtR3pBRXQxUVNIQ3BhTUJaWGxXSHp2UnNYczdiODlBem1UYURqMXF0RTNFQkJBaXRhcnNsYXE4Q0ZoZjJReXJrdXZIUmJUM3pYa2FISll5QlM1NXNkZURMSnAwWHRwbmw2cUlxekVnT096Wm4zNHJuTEZELVpBSnBzQkJr?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Cueva de El Pendo: ancient site, map and history - Ancient Origins",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tOVdRZWR4Tkpsd3hYNzZmTU5JMXd0RVp6X3V1QmxIaUg4d2pmUTRQY1hpdWdSYlNLX3JXOVFfZEpDbnlULXFGaF9VZV96RlZYbmtzYXZySW53SU55cDEtOEhxM0hqd3ZMVWxIWlVNRmc?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -32417,14 +32455,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 55"
+    },
+    {
+     "at": "2026-11-23T14:05:25+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (The posting asks for 8-13 years of experience in enterprise software or SaaS implementations, which far exceeds Shlok's ~1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-23T14:05:25+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The posting asks for 8-13 years of experience in enterprise software or SaaS implementations, which far exceeds Shlok's ~1.3 years of experience."
   },
   {
    "id": "L0245",

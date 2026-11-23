@@ -65111,7 +65111,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-22T19:20:39+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-23T13:25:14+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -65171,9 +65171,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Shashank Jha"
+    },
+    {
+     "at": "2026-11-23T13:25:14+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "shashank@reslink.org: Hi Shlok, Thanks for reaching out. We aren't hiring as of now. I wish you the best of luck. Best, Shashank On Sun, 22 Nov 2026 at 19:20, Shlok Agrawal <111shlok"
     }
    ],
-   "updated_at": "2026-11-22T19:20:39+05:30",
+   "updated_at": "2026-11-23T13:25:14+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",

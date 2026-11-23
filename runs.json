@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-20T23:05:14+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-20T23:05:23+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3418,6 +3405,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-23T10:42:23+05:30",
+   "agent": "send-track",
+   "ok": true,
+   "summary": "0 emails drafted, 0 referral notes (no connections matched), 0 application kits; skipped: 9 leads need verified address (catch-all/guess, none 80+), L0029 generic address only, no readable apply forms",
+   "stats": {}
   }
  ]
 }

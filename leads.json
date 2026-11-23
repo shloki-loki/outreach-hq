@@ -243442,15 +243442,15 @@
    "key": "accenture|strategy manager|india",
    "type": "job",
    "company": "Accenture",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "accenture.com",
+   "company_url": "https://www.accenture.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Strategy Manager",
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "instahyre",
    "source_id": "492384",
    "source_url": "https://www.instahyre.com/job-492384-strategy-manager-at-accenture-2-mumbai/",
@@ -243481,8 +243481,8 @@
    },
    "score": {
     "rules": 61,
-    "research": null,
-    "total": 61,
+    "research": 10,
+    "total": 30,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -243491,15 +243491,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Strategy Manager at Accenture asks 6-10 yrs experience and brand strategy expertise; exceeds the 4-year experience limit.",
+    "fit_notes": "Posting specifies 'Minimum 6+ years of experience is required' in brand/marketing strategy and consulting, along with an MBA/PGDM preference. Shlok has 1.3 years of experience and lacks an MBA/consulting background.",
+    "pay_notes": "Pay is not stated in the job posting and no company-specific pay data for this specific position was provided.",
+    "culture_notes": "Recent news highlights that Accenture was accused of publishing an AI paper littered with hallucinations [S1] and announced plans to cut 950 Meta-linked jobs in Portugal [S3].",
+    "hook": "NATO recently announced a major contract with Accenture to advance towards a more agile and resilient digital infrastructure.",
+    "hook_source": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOT3R4MmpSMHJ2TExVTGRYUHhjRnp2MVZPNXdIRjhEOFVPd0taNUNyYmVybFBqWG93RnVlVXNrWXlTbl9iN0luY3U1SnlNQ2RXNFB0NTJLbUxGOWJWTEFEWDBZa1N3SUh6c1dFb1NSM1czZWdkSGRJaWNoSTEwREwxOEV3VWJBRjhrZmhJRnZqUE5MbE9kTHMyN2RhQkxwWS1Ob05MNXZnUk9rbTFGa21UVkEtMm5VSFN0RE51alhRM2lmelo2TFhqWnhDVG1KcVlFWWFqdGlSOHpyeHBPelR3c2k0R1lETWlXT19QLTZyVVNqSFkwNEpKXzdaaTBBU3kwMFJTODM3OURBQ1FMRWxwc3V4eXZ4UQ?oc=5",
+    "researched_at": "2026-11-23T13:55:29+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Accenture accused of publishing AI paper littered with AI hallucinations - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0J0OGZVby1iQlFEZGRlVWZIcGZMekRQTklMbTZ2RkdESUZUTEJMVVVqcXVCb0cycHl4TzBJaXFpWkxjNzRTMEFWRUVSaDRrQnRROWZZR0hOZWxyOWV2cy1taUlWMWs5RzgzZmFXZ2JQZkEzVWtFTFYxck5CTjlxdEg1bGE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Accenture Clarifies Claude Spending Limits As AI Cost Questions Grow - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYldGejVKbWFaVnhCVDhhNDVrZEw3X25kVkhvVmxOSVRuT1N2SjkxMmxGNmt4YVVRLUx5MzM0anEwSGtzejA5cEZUdHZ6QnctbVB0QUJOa3VjcTYzcXU2Wkpub3RMTVNwcmtDQUVGLVlMZUVwZUdFRFFPQkhGRzJMRE02NmRCTzZKaGNNMzdFQVMtSm9zYkZ1cXpxR2VGY05qSGY3Mk5oOGpSQQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Accenture launches plan to cut 950 Meta-linked jobs in Portugal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQl82R1NQaEttYmk0WWpabkRNRUVCYWFvSDBwVjFJWXEtUi1RNklzaDd3cWx4a01aWUxoZVZvR0JmYmNvRWhyMzlkQS1BYUNDeUVlMGhYMHZIcTc3TkxYYTh3SEFvYmZjYWJ3UHRCTzRpRkotTEliWEstSkd4MDhQZ19DWGdPOWVSS3NQQ0RRQndsNnZ2bHl6b3ZrTngzUk4tamJla2R3SzZZa3dGTGtNSl9icThRRFU?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Accenture Acquires Sagacity Solutions to Scale AI-Driven Customer Intelligence Across Accenture Song’s UK & Ireland Operations - Accenture",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTm9xS0FVNTN3Q0FfWlFCY09Lb0M2T3djVE9CNG5CWlg5OEhCa1pDRG9BZjJvRE5QYmhtWVU4RjN3UVlETlQzZGxEUzZCb3ltVnNSWWhRbEVzbjd1MkZKTFgxUUpsdWZwX3dDNkpRVjUtaFpLb3RsbURjNGJlY3B2TGpGbmhEQ0s2MFRDSUtjVVZPT3luU0NmbFVsaldPRTJOU1ZPdzJjQ1V5M0N1Q2FQYlBpRlRYbkdYSGNtYU1NTmFzd2FkWjJXYzhkZ1VmSXVOaGIxWXp4NFBhbEhLdGFaV0o3cmZmc0lBb29ldzRQSjZvRGNwaVgwMA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "NATO Announces Major Contract with Accenture to Help Advance Towards a More Agile and Resilient Digital Infrastructure - Leonardo",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOT3R4MmpSMHJ2TExVTGRYUHhjRnp2MVZPNXdIRjhEOFVPd0taNUNyYmVybFBqWG93RnVlVXNrWXlTbl9iN0luY3U1SnlNQ2RXNFB0NTJLbUxGOWJWTEFEWDBZa1N3SUh6c1dFb1NSM1czZWdkSGRJaWNoSTEwREwxOEV3VWJBRjhrZmhJRnZqUE5MbE9kTHMyN2RhQkxwWS1Ob05MNXZnUk9rbTFGa21UVkEtMm5VSFN0RE51alhRM2lmelo2TFhqWnhDVG1KcVlFWWFqdGlSOHpyeHBPelR3c2k0R1lETWlXT19QLTZyVVNqSFkwNEpKXzdaaTBBU3kwMFJTODM3OURBQ1FMRWxwc3V4eXZ4UQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Accenture Appoints S Dinesh Pathak as Global HR Shared Services Lead - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWxvQ2tiUFRJeHZkUUcwYlZyd0kxUDM1ZmdnTFBkUTVHc1ZaUGdOX3B6MjBrYjBCSzg0U3ZwaVBWZG1GeERyS1g3ZkpoSkZmNDFWMHk0Q3VtWS1QNFIxNFBfQmRmNWJXRVp3bXl4b0lLa2t2OU5xcHI0SkZ4dG5XUURUb2dvVk1aNWpmSm1sQ3J5UQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -243523,14 +243561,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "instahyre: rule score 61"
+    },
+    {
+     "at": "2026-11-23T13:55:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 30: rejected (Asks for minimum 6+ years of experience (posting specifies 6-10 years), which exceeds Shlok's 1.3 years (maximum allowable threshold is 4 years).)"
     }
    ],
-   "updated_at": "2026-11-23T00:20:55+05:30",
+   "updated_at": "2026-11-23T13:55:29+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Asks for minimum 6+ years of experience (posting specifies 6-10 years), which exceeds Shlok's 1.3 years (maximum allowable threshold is 4 years)."
   },
   {
    "id": "L1973",

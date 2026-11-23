@@ -39441,7 +39441,7 @@
    "key": "materialdepot|founder s office|bengaluru",
    "type": "company",
    "company": "Material Depot",
-   "company_domain": "",
+   "company_domain": "materialdepot.in",
    "company_url": "https://materialdepot.in/",
    "company_linkedin": "https://www.linkedin.com/company/materialdepot",
    "company_note": "YC Winter 2022 · team of 50 · India's Fastest Growing Home Decor destination for Floor & Wall Decor",
@@ -39449,7 +39449,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "material-depot:company",
    "source_url": "https://www.ycombinator.com/companies/material-depot",
@@ -39471,7 +39471,7 @@
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "not stated",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
@@ -39480,8 +39480,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 75,
+    "total": 67,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -39491,15 +39491,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Material Depot, a YC W22 home decor startup; your Ola S&OP and inventory work maps directly.",
+    "fit_notes": "The posting is a speculative note to founders for a Founder's Office role at a YC-backed home decor supply chain company with a team of 50. It does not state explicit years of experience, pay, or hard requirements for an MBA or consulting. Your experience in supply chain optimization and working directly with leadership ([sop], [ceo-coo]) matches the operational needs of an early-stage startup.",
+    "pay_notes": "Pay is not stated in the posting or search evidence.",
+    "culture_notes": "Y Combinator Winter 2022 batch, team size of 50. Digital-first ecosystem reimagining home interiors. No ratings or specific culture flags found in evidence.",
+    "hook": "Material Depot is cutting out old supply chains to deliver design-forward floor and wall decor straight from manufacturers to customers.",
+    "hook_source": "https://materialdepot.in/",
+    "researched_at": "2026-11-24T02:23:34+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Material Depot website",
+      "url": "https://materialdepot.in/"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -39550,14 +39566,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T02:23:34+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-24T02:23:34+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0284",

@@ -1,9 +1,11 @@
 import { read } from '@/lib/store';
 import { STATUS, displayStatus } from '@/lib/status';
 
-// Leads with their messages and display status attached.
+// Leads with their messages and display status attached. Reads board.json, the small copy of leads.json the
+// pipeline writes for the site; falls back to leads.json until the first board exists.
 export async function loadBoard() {
-  const [leadFile, messageFile] = await Promise.all([read('leads'), read('messages')]);
+  const [boardFile, messageFile] = await Promise.all([read('board'), read('messages')]);
+  const leadFile = boardFile?.leads ? boardFile : await read('leads');
   const byLead = new Map();
   for (const message of messageFile.messages || []) {
     if (!byLead.has(message.lead_id)) byLead.set(message.lead_id, []);

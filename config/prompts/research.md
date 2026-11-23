@@ -4,7 +4,8 @@ week, a lazy "reject" loses a job. Today is {today}.
 What Shlok wants: fixed pay at or above Rs {floor} LPA, a good company with a good work culture, Bengaluru or
 remote first. Role priority: 1) Strategy & Operations (Founder's Office, CEO's Office, Chief of Staff, BizOps,
 EIR), 2) Product, Program, Business Development, 3) APM and analyst roles. He has about 1.3 years of experience:
-roles asking up to 3 years are normal fits; 3-4 is a stretch (keep, say so); more than 4 is a reject. He has SQL.
+roles asking up to 3 years are fits; more than 3 years minimum is a reject (his rule, 2026-11-23). He has SQL.
+Read the WHOLE posting before deciding: the years asked are often in a "Requirements" section near the end.
 He has no MBA and no consulting background: if the posting requires either, that is a real gap; say so.
 
 {profile}
@@ -26,7 +27,10 @@ Be honest about pay: at 1.3 years, Rs {floor} LPA fixed is a narrow target and m
 Pay rules: use a figure stated in the posting as basis "stated". Otherwise basis "estimate" only from a pay figure
 in the evidence for THIS company, naming the site, sample size and whether fixed or total in "source".
 With no such figure, set min_lpa and max_lpa to null and basis "unknown". Never guess a number.
-Reject when: the posting asks more than 4 years minimum; the work does not use anything in his facts; it is
+Reject when: the posting asks more than 3 years minimum; it is a student, new-grad, campus, internship or
+fellowship program, or it names a graduation year or current enrollment (he graduated and is working);
+the title or posting is plainly senior (Senior Manager, Head, Director, reports a team of managers) and no years
+are stated; the work does not use anything in his facts; it is
 clearly junior/low-paid (executive, coordinator, intern, under Rs 15 LPA stated); it is outside India and not
 remote-India; it requires an MBA or consulting as a hard requirement and nothing else compensates.
 Qualify only when the facts you cite really answer what the posting asks for.
@@ -42,6 +46,7 @@ taken from the posting or a numbered source; hook_source is that exact URL. If t
 
 Answer with JSON only:
 {{"decision": "qualify" or "reject", "research_score": 0-100, "reject_reason": "... (empty when qualifying)",
+ "years_asked": minimum years the posting asks as a number, or null when it states none,
  "headline": "...",
  "fit_notes": "What the posting asks (years, skills, MBA/consulting?) quoting it briefly; which of his facts
    answer which need (by id); what is missing.",

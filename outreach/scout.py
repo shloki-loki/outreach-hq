@@ -43,7 +43,10 @@ def gather(only: list[str] | None = None) -> tuple[list[dict], dict[str, Any]]:
                 if slug not in failed:
                     report["boards_ok"].append(f"{name}:{slug}")
         jobs += found
-    return jobs, report
+    unique: dict[tuple, dict] = {}
+    for job in jobs:  # an alert job also found by the search keeps the alert copy (it came first)
+        unique.setdefault((job["source"], job["source_id"]), job)
+    return list(unique.values()), report
 
 
 def _days_ago(days: int) -> str:
@@ -169,7 +172,7 @@ def run(only: list[str] | None = None, dry: bool = False) -> dict[str, Any]:
                   {k: summary[k] for k in ("fetched", "passed_rules", "new", "updated", "closed", "by_source")})
     for name, count in report["sources"].items():
         has_error = any(e.startswith(name) for e in report["errors"])
-        if count == 0 and (name not in PAID or has_error):
+        if count == 0 and (name not in PAID + ("alerts",) or has_error):
             store.open_issue("lead-scout", f"Source '{name}' returned no jobs",
                              "; ".join(e for e in report["errors"] if e.startswith(name))[:600] or "No error, just empty.",
                              key=f"source-empty:{name}")

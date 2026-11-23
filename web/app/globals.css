@@ -251,3 +251,16 @@ a.highlight:hover { background: var(--surface); }
   html { scroll-behavior: auto; }
   * { transition: none !important; }
 }
+
+/* Agent Leads job rows (2026-11-23): one Apply button; applied rows turn green. */
+.job { position: relative; display: grid; grid-template-columns: 1fr auto; gap: 6px 16px; align-items: start;
+  padding: 16px 16px 14px 20px; border-top: 1px solid var(--line); transition: background .15s; }
+.job:first-child { border-top: 0; }
+.job::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: var(--ready-bar); }
+.job:hover { background: var(--surface); }
+.job.is-applied { background: var(--done-soft); }
+.job.is-applied::before { background: var(--done-bar); }
+.job.is-applied:hover { background: var(--done-soft); }
+.job h3 { margin: 0; font-size: 15px; line-height: 1.4; font-weight: 600; letter-spacing: -.2px; }
+.muted-tag { opacity: .7; font-style: italic; }
+@media (max-width: 640px) { .job { grid-template-columns: 1fr; } }

@@ -28,7 +28,8 @@ from pathlib import Path
 from typing import Any
 
 from . import live, llm, store
-from .rules import parse_experience, parse_pay, pay_fit
+from .leads import JD_MAX
+from .rules import ineligible, parse_experience, parse_pay, pay_fit
 from .sources import linkedin
 from .util import CONFIG_DIR, HttpError, clip, http_get, load_config, now_iso, redact, strip_html, today
 
@@ -76,8 +77,8 @@ def record(lead_id: str, payload: dict[str, Any], by: str = "lead-scout", extra:
                 lead[field] = payload[field]
         if "open" in payload:
             lead["open"] = bool(payload["open"])
-        if payload.get("jd") and not lead.get("jd"):
-            lead["jd"] = payload["jd"][:3000]
+        if payload.get("jd") and len(payload["jd"]) > len(lead.get("jd") or ""):
+            lead["jd"] = clip(payload["jd"], JD_MAX)
         lead["research"] = {
             "done": True, "headline": headline, "fit_notes": payload["fit_notes"], "pay_notes": payload.get("pay_notes", ""),
             "culture_notes": payload.get("culture_notes", ""), "hook": payload.get("hook", ""),
@@ -120,25 +121,43 @@ def fact_ids() -> set[str]:
     return {fact["id"] for fact in load_config("profile")["facts"]}
 
 
+def board_posting(lead: dict) -> str:
+    """The full description from a company's own job board API (Greenhouse, Lever, Ashby), or ""."""
+    from .sources import ALL
+    slug = str(lead.get("source_id", "")).split(":")[0]
+    if not slug:
+        return ""
+    found, _ = ALL[lead["source"]].fetch(load_config("targeting"), {lead["source"]: {"slugs": [slug]}, "names": {}})
+    match = next((job for job in found if str(job.get("source_id")) == str(lead.get("source_id"))), None)
+    return (match or {}).get("description") or ""
+
+
 def posting_text(lead: dict) -> tuple[str, str]:
     """(text, url) of the real posting, or ("", reason). Prefers what the board's API already gave us."""
     url = lead.get("source_url") or lead.get("apply_url") or ""
     stored = (lead.get("jd") or "").strip()
-    if len(stored) >= 400:
+    # The old code cut descriptions at 3,000 characters, sometimes without a "…": both are read again in full.
+    if len(stored) >= 400 and not stored.endswith("…") and len(stored) != 3000:
         return stored, url
     try:
-        if lead.get("source") == "linkedin":
+        if lead.get("source") in ("greenhouse", "lever", "ashby"):
+            text = board_posting(lead) or stored
+        elif lead.get("source") == "linkedin":
             detail = linkedin.fetch_detail(str(lead["source_id"]))
             text = "\n".join(filter(None, [detail["description"], " | ".join(detail["criteria"]), detail["pay_text"]]))
         elif lead.get("source") == "linkedin_post":
             return "", "a LinkedIn post needs a signed-in look"
         else:
             if not url:
-                return "", "no posting URL"
+                return (stored, url) if len(stored) >= 400 else ("", "no posting URL")
             text = strip_html(http_get(url, retries=1, timeout=25).decode("utf-8", "replace"))
     except HttpError as exc:
+        if len(stored) >= 400:
+            return stored, url  # the cut text is still better than nothing; the checks see it is incomplete
         return "", f"could not open the posting: {exc}"
     text = re.sub(r"\n{2,}", "\n", text).strip()
+    if len(text) < len(stored):
+        text = stored  # a page that renders by script gives less than the board's API did
     if lead.get("type") != "company" and len(text) < 300:
         return "", "the posting page has no readable description"
     return clip(text, 9000), url
@@ -301,6 +320,12 @@ def check(payload: dict, lead: dict, posting: str, posting_url: str, evidence: d
             if not named or not any(site in text for site in named):
                 problems.append("an estimated pay must name a site that the evidence reported pay from")
     if payload.get("decision") == "qualify":
+        blocker = ineligible(lead.get("title") or "", posting, targeting)
+        if blocker:
+            problems.append(f"{blocker}; this must be a reject")
+        asked = payload.get("years_asked")
+        if isinstance(asked, (int, float)) and asked > targeting["experience"]["stretch_max_years"]:
+            problems.append(f"years_asked is {asked:g}, above {targeting['experience']['stretch_max_years']}; this must be a reject")
         exp_min, _ = parse_experience(posting)
         if exp_min is not None and exp_min > targeting["experience"]["stretch_max_years"]:
             problems.append(f"the posting asks {exp_min:g}+ years, above the {targeting['experience']['stretch_max_years']} "
@@ -353,7 +378,7 @@ def research_one(lead: dict, models: dict[str, str]) -> dict[str, Any]:
     if not payload.get("hook"):
         payload["hook_source"] = ""
     payload["open"] = True
-    if posting and not lead.get("jd"):
+    if posting and (not lead.get("jd") or len(posting) > len(lead.get("jd") or "")):
         payload["jd"] = posting
     return {"payload": payload, "sources": sources, "evidence": evidence}
 
@@ -403,6 +428,74 @@ def _bin(lead_id: str, why: str) -> None:
             store.add_timeline(lead, "research-worker", "posting_closed", f"moved to the Bin: {why}")
             store.save("leads", data)
     store.transact(change, f"research: {lead_id} closed")
+
+
+def recheck(ids: list[str] | None = None, dry: bool = False) -> dict[str, Any]:
+    """Re-read each qualified job's full posting and apply the hard rules (2026-11-23, Shlok: list only jobs he
+    can apply to). No model: more than 3 years asked, a student/graduate program or a senior title with no years
+    stated is rejected; a posting that cannot be opened at all leaves the list (stage back to "new") until checked."""
+    import time
+    from .rules import parse_experience
+    store.sync()
+    targeting = load_config("targeting")
+    limit = targeting["experience"]["stretch_max_years"]
+    senior = (targeting.get("eligibility") or {}).get("senior_title")
+    leads = [l for l in store.load("leads")["leads"] if l.get("type") == "job" and l.get("stage") == "qualified"
+             and (not ids or l["id"] in ids) and not l.get("applied_at") and not live.in_conversation(l)]
+    verdicts: dict[str, tuple[str, str, str]] = {}  # id -> (action, reason, full posting)
+    for lead in leads:
+        posting, why = posting_text(lead)
+        if lead.get("source") == "linkedin":
+            time.sleep(2.5)  # LinkedIn rate-limits posting reads
+        if not posting:
+            verdicts[lead["id"]] = ("unlist", f"posting could not be opened ({why})", "")
+            continue
+        blocker = ineligible(lead.get("title") or "", posting, targeting)
+        exp_min, _ = parse_experience(posting)
+        if blocker:
+            verdicts[lead["id"]] = ("reject", blocker, posting)
+        elif exp_min is not None and exp_min > limit:
+            verdicts[lead["id"]] = ("reject", f"posting asks {exp_min:g}+ years (limit {limit})", posting)
+        elif exp_min is None and senior and re.search(senior, lead.get("title") or "", re.I):
+            verdicts[lead["id"]] = ("reject", "senior title and no stated experience", posting)
+        else:
+            label = f"asks {exp_min:g}+ years" if exp_min is not None else "experience not stated"
+            verdicts[lead["id"]] = ("keep", label, posting)
+    summary = {"checked": len(leads), "kept": [], "rejected": [], "unlisted": []}
+    for lead in leads:
+        action, reason, _ = verdicts[lead["id"]]
+        key = {"keep": "kept", "reject": "rejected", "unlist": "unlisted"}[action]
+        summary[key].append(f"{lead['id']} {lead.get('company')} | {lead.get('title')} | {reason}")
+    if dry:
+        return summary
+
+    def change() -> None:
+        data = store.load("leads")
+        for lead_id, (action, reason, posting) in verdicts.items():
+            lead = store.find(data["leads"], lead_id)
+            if not lead or lead.get("stage") != "qualified":
+                continue
+            if posting and len(posting) > len(lead.get("jd") or ""):
+                from .leads import JD_MAX
+                lead["jd"] = clip(posting, JD_MAX)
+            exp_min, exp_max = parse_experience(posting) if posting else (None, None)
+            if exp_min is not None:
+                lead["exp_min"], lead["exp_max"] = exp_min, exp_max
+            lead["recheck"] = {"at": now_iso(), "result": action, "reason": reason}
+            if action == "reject":
+                lead["stage"] = "rejected"
+                lead["reject_reason"] = reason
+                store.add_timeline(lead, "recheck", "rejected", reason)
+            elif action == "unlist":
+                lead["stage"] = "new"
+                store.add_timeline(lead, "recheck", "unlisted", reason)
+        store.save("leads", data)
+        store.journal("recheck", "update", "Qualified leads re-checked against their full postings",
+                      f"{len(leads)} checked: {len(summary['kept'])} kept, {len(summary['rejected'])} rejected "
+                      f"(more than {limit} years, student/graduate program or senior title), "
+                      f"{len(summary['unlisted'])} taken off the list because the posting could not be opened.")
+    store.transact(change, f"recheck: {len(summary['rejected'])} rejected, {len(summary['unlisted'])} unlisted")
+    return summary
 
 
 def run(limit: int = 25, ids: list[str] | None = None) -> dict[str, Any]:

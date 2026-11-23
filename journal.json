@@ -8216,6 +8216,15 @@
    "title": "Sending M0399 failed",
    "detail": "TimeoutError: timed out",
    "ref": "I0099"
+  },
+  {
+   "id": "J0914",
+   "at": "2026-11-23T09:54:40+05:30",
+   "by": "send-track/send",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "sent 0, failed 10. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

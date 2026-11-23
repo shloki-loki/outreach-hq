@@ -341,6 +341,13 @@
     "saptarshi@xindus.net"
    ],
    "pattern": "first"
+  },
+  "carbontrail.net": {
+   "provider": "microsoft",
+   "published": [],
+   "site_personal": [],
+   "catch_all": true,
+   "checked_at": "2026-11-24T02:29:13+05:30"
   }
  }
 }

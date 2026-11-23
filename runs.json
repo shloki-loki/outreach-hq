@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-21T16:45:19+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 1 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 1,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-21T16:45:28+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3515,6 +3502,13 @@
      "hiringcafe": 56
     }
    }
+  },
+  {
+   "at": "2026-11-24T05:22:22+05:30",
+   "agent": "follow-up/track",
+   "ok": false,
+   "summary": "inbox scan failed: TimeoutError: The read operation timed out",
+   "stats": {}
   }
  ]
 }

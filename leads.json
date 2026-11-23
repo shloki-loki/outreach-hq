@@ -65927,9 +65927,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-23T10:56:43+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Anveet Mehta"
     }
    ],
-   "updated_at": "2026-11-23T09:07:18+05:30",
+   "updated_at": "2026-11-23T10:56:43+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "unknown",

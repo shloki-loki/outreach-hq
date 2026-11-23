@@ -35307,7 +35307,7 @@
    "key": "adalatai|founder s office|bengaluru",
    "type": "company",
    "company": "Adalat AI",
-   "company_domain": "",
+   "company_domain": "adalat.ai",
    "company_url": "https://adalat.ai/",
    "company_linkedin": "https://in.linkedin.com/company/adalat-in",
    "company_note": "YC Fall 2026 · team of 80 · AI OS transforming courts, accelerating justice",
@@ -35315,7 +35315,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "adalat-ai:company",
    "source_url": "https://www.ycombinator.com/companies/adalat-ai",
@@ -35331,7 +35331,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Adalat AI: AI OS transforming courts, accelerating justice | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › Adalat AI \n Adalat AI\n AI OS transforming courts, accelerating justice\n Y Combinator Logo Fall 2026 \nActive\n GovTech\n Nonprofit\n Legal\n NLP\n AI\n Company \n Jobs 11 \n https://adalat.ai/\n AI OS transforming courts, accelerating justice\n Active Founders\n Utkarsh Saxena Founder/CEO\n CEO of Adalat AI — AI infrastructure for India’s courts, live in 25% of India’s courtrooms in 11 states, with statewide mandates in 3 states. Former Supreme Court of India law clerk and economist to Chief Economist of India; lead petitioner in India’s marriage equality case; argued landmark cases and won a $350M arbitration award. LLM (Harvard Law School), MPA/ID (Harvard Kennedy School), PhD (Oxford)\n Utkarsh Saxena Founder/CEO\n CEO of Adalat AI — AI infrastructure for India’s courts, live in 25% of India’s courtrooms in 11 states, with statewide mandates in 3 states. Former Supreme Court of India law clerk and economist to Chief Economist of India; lead petitioner in India’s marriage equality case; argued landmark cases and won a $350M arbitration award. LLM (Harvard Law School), MPA/ID (Harvard Kennedy School), PhD (Oxford)\n Arghya Bhattacharya Founder/CTO\n CTO and co-founder of Adalat AI, building AI infrastructure for India’s courts, live in 25% of courtrooms across 11 states. First engineer at Enterpret, building ML systems used by Notion, Canva, Linear, Strava, Loom, and Monday.com. Previously led ML engineering at Equal. Published NLP/legal AI/Indic speech researcher at CoNLL, ACL workshops, NLLP, and Interspeech. MS + BTech, IIIT Hyderabad.\n Arghya Bhattacharya Founder/CTO\n CTO and co-founder of Adalat AI, building AI infrastructure for India’s courts, live in 25% of courtrooms across 11 states. First engineer at Enterpret, building ML systems used by Notion, Canva, Linear, Strava, Loom, and Monday.com. Previously led ML engineering at Equal. Published NLP/legal AI/Indic speech researcher at CoNLL, ACL workshops, NLLP, and Interspeech. MS + BTech, IIIT Hyderabad.\n Jobs at Adalat AI\n View all jobs \n Senior Full Stack Engineer \n IN / Remote (IN)\n ₹5M - ₹6M INR\n 11+ years\n Apply Now › \n Full Stack Engineer \n IN / Remote (IN)\n ₹3M - ₹5M INR\n 6+ years\n Apply Now › \n User Researcher \n IN / Remote (IN)\n ₹2.8M - ₹3.4M INR\n 6+ years\n Apply Now › \n Lead Product Designer \n IN / Remote (IN)\n ₹4M - ₹4.9M INR\n 6+ years\n Apply Now › \n ML Researcher - NLP \n IN / Remote (IN)\n ₹2.5M - ₹6M INR\n 3+ years\n Apply Now › \n Adalat AI \n Founded: 2023 \n Batch: Fall 2026 \n Team Size: 80 \n Status: \nActive \n Location: Bengaluru, India \n Primary Partner: Harj Tagg",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -35346,8 +35346,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -35357,15 +35357,61 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office note at Adalat AI (team of 80); payscale unstated and requires senior-level execution.",
+    "fit_notes": "The posting is a speculative note to founders for a Strategy & Operations role [rule_reasons]. Shlok brings strong operations execution from Ola Electric like S&OP planning [sop] and inventory management [msl], but the role does not specify exact requirements or fixed pay meeting his Rs 24.5 LPA threshold.",
+    "pay_notes": "Pay is not stated in the posting [rule_reasons]; evidence from web search contains no salary figures for Adalat AI.",
+    "culture_notes": "Team size is 80 (Fall 2026 YC batch) [S1]. A culture flag was noted regarding a researcher claiming full access to infrastructure and private code in September 2026 [7].",
+    "hook": "Adalat AI's AI infrastructure is live in 25% of India's courtrooms across 11 states [S1].",
+    "hook_source": "https://adalat.ai/",
+    "researched_at": "2026-11-23T14:05:39+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Adalat AI website",
+      "url": "https://adalat.ai/"
+     },
+     {
+      "id": "S2",
+      "title": "Global AI Impact Commons Stories: Adalat AI - orfonline.org",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0Nhc1hmU0pGRlpiNU5DSEhpM1ZjODlySUVOdTBMRFZQMWZrMENsMVdMYjg4OUtaVDU4Y2ZqYjdoOEM0cUR2WXJLUHBxc3hMZnUyR1RRY2FtbWFoWXJxZ19oS2ZiWVlxckxtSnJJN1dHU2ZYc0czbWdlMl9kNkFDYU55S0RuSThR?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Legal-tech nonprofit Adalat AI joins Y Combinator - Bar and Bench",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMDdieHV0TERJYS1NR0tQRC1VdkFfTHp1QmhYcnh6c2R3d09uYzZySzVYSmgwVk82alN0T0ltNXZLMndqSUJ2VTh5NDdzRk5zTF9zU2VoOS04dFd5LVhyRllEdDA2dDM0ZjNpQVlwSVV1ZGJPMm5oMndBT1JMam9mbXRNdFJkTGNBOUpqM2F1WGlBZlJnUjdJc9IBpgFBVV95cUxOWXNXQ2MtaER6M3VYV2F4Szc1MWpjQXE1ZVdpVzJkNXBnelMzeTMzSEZ6Yk5VQy1HdUV5d0pCVUV3QUFIR0hSRS0yMEJOejhMNktKcWd0TzM2ckZZNGhxaHhhdmZqWTRobk9IVkQ2WjJZazJxYzlRSG9YY2pjVWlla1k3cHFueEY0UHNzVFhkRnhCVF9aVExwN0x6SzN1X1d5WC1kQVB3?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Adalat AI Hiring Legal Specialists, Legal Associates, And Project Managers Across Multiple Cities - Live Law",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2NqNlR2VjdRMWN4bVJ3Qmtvb05DelNqdW1XNUdZMk5HWmtzRUM0OXNsTzY3QXpuTEswbFFydFJ1VTZNa2Y2TEZWWDRJYTJjWE5jTjJadXVsU0JzbVlNQ2p1anBkUTlOamcyam5QSWZuOFBrZHdXUk9WMXV6aXY5ZU1yX2FCRURSZ3hHT2taOFEwVzBQMFFRSEtHdEJvOXN3Y2xOb3U4dUtsWF9qSE9YZmJCUHlaN2pkMkHSAb8BQVVfeXFMT2FRM2xFUU5yZllVUHBZcHg0Rlg4VzR0N04xYU14VWkxTTZhNWJGWVJfLXlycjBVZWdSSURTaEVTd2lYQnFiSEVPSnVPYXFZaVY0bUFfUDhOb01paFZydEZRZEdJSUZQNElsREI4ZURxOWt1dHNwc2J3ekpPYTRBcUxpeXo1QnZYVlh0ZTQ0cnQ3aExjbkpVT1pWWmFCbTZXLXM4c29uYkg1TWRrcmhseVpKNzFpWlFLVXp2LWt6Wkk?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Non-Profit Adalat AI Releases Open Indic ASR Models for Document-Ready Transcription - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0hyUkpHYk5WVTJXVFl3SXlpWlJabWxmLU9fMnZ5MTdFLXJrR3pfb2MyR1EtWkpNckJERU0zaGsxcWp6NkxISThDZ3VkQ0U4T3R0M1NsRVZqV0V0cFdIVm5nVGo5ZlNBM082TWRnWmdDZm9acUxUNXB5SjQxc0dlT1ppWEFhNXVsYWlUOXRrb2MybGtSZG1uQkw1ZUJsYVlxSlMzYXhhY1NwZGhjVklfenFpRl9MNGo4XzVKYWdvWQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "YC Backs Adalat AI: Court ASR Nonprofit (2026) - explainx.ai",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFlxQV8wWmg1OFlYaFVkenlqczZCeHlRMG1MaGMzTi1ZX2dua0tVNS10dTVUbFNheG9JWXdCME9QQld3R3A4UmlSQUl4VmREUHJCV05zNjdKWVVHTVNlYW5QMEZBZllraTFzdjlQTDlrcl9xdlFGZHBaR3B0bzVpM210bXk?oc=5"
+     },
+     {
+      "id": "S7",
+      "title": "Researcher claims full access to Adalat AI’s infrastructure, database and private code - MediaNama",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wbkFreGd0UXNfNGl1aTdBSnBCakxSX1NpcHNCZ0FIUEJXWktHa3RxdlRDYUhaRGJrZHdvNmxNejFKLXRzNEdPTnFoS2pQQlN1VHdwc0RnT3psb0ZpNmluUVlzVExIRWQtcU1XYUE3cFBSQ2xrcmR5OTJKR01GUQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -35416,14 +35462,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-23T14:05:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The role is a speculative note to founders with no stated salary or clear open headcounts matching his experience level, and the company has recent security culture flags.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-23T14:05:39+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "The role is a speculative note to founders with no stated salary or clear open headcounts matching his experience level, and the company has recent security culture flags."
   },
   {
    "id": "L0268",

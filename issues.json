@@ -1385,6 +1385,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0100",
+   "key": "send-track:send-track 23 Nov: no draftable leads",
+   "agent": "send-track",
+   "severity": "warn",
+   "title": "send-track 23 Nov: no draftable leads",
+   "detail": "Top needs-draft leads (L0105, L1556, L0003, L0008, L0013, L0018, L0007, L0010, L0023) have only catch-all or guess addresses; recheck stays unverified and none score 80+. L0029 has only a generic published address and no named hook. Greenhouse questions API returned nothing for Turing L0063, so no application kits.",
+   "status": "open",
+   "opened_at": "2026-11-23T10:42:20+05:30",
+   "last_seen": "2026-11-23T10:42:20+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

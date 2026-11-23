@@ -563,6 +563,48 @@
      "confidence": 90,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "Rushi Gadekar",
+     "title": "Manager - CEO's Office at Rupeek",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/rushi-gadekar/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C3",
+     "name": "Sumit Maniyar",
+     "title": "Founder CEO at Rupeek",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/sumitmaniyar/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C4",
+     "name": "Vishal Shukla",
+     "title": "Talent Acquisition, People & Culture at Rupeek",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/vishal-shukla-572850259/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
     }
    ],
    "referrals": [],
@@ -685,9 +727,27 @@
      "actor": "lead-scout",
      "event": "reopened",
      "detail": "posting is live again"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Rushi Gadekar (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Sumit Maniyar (founder, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Vishal Shukla (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-23T15:26:35+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "closed",
@@ -2113,6 +2173,34 @@
      "confidence": 95,
      "why": "",
      "found_at": "2026-11-12T20:56:06+05:30"
+    },
+    {
+     "id": "C3",
+     "name": "Ashish Sharma",
+     "title": "Founder at Helium Smart Air",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/ashish-helium/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C4",
+     "name": "Keshav Agiwal",
+     "title": "Founders Office at Helium Smart Air",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/keshav-agiwal-935316208/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
     }
    ],
    "referrals": [],
@@ -2174,9 +2262,21 @@
      "actor": "follow-up",
      "event": "replied",
      "detail": "hr@heliumair.in: Helium| BizOps Interview-Shlok Agarwal Friday Nov 20, 2026 ⋅ 4pm – 5pm India Standard Time - Kolkata Join with Google Meet https://meet.google.com/tiz-hbvg-fbf?"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Ashish Sharma (founder, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Keshav Agiwal (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-20T15:09:58+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-19T12:52:25+05:30",
     "state": "unknown",
@@ -5077,6 +5177,20 @@
      "confidence": 0,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "Shilpa Agrawal",
+     "title": "Founders Office at WealthQ Advisory",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/shilpa-agrawal-04616a224/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
     }
    ],
    "referrals": [],
@@ -5109,9 +5223,15 @@
      "actor": "shlok",
      "event": "applied",
      "detail": "application submitted"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Shilpa Agrawal (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-13T18:09:56+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -5406,6 +5526,34 @@
      "confidence": 95,
      "why": "",
      "found_at": "2026-11-12T20:56:06+05:30"
+    },
+    {
+     "id": "C3",
+     "name": "Ashish Rohil",
+     "title": "Co-Founder & CEO at Carbon Trail",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/ashishrohil/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C4",
+     "name": "Shantanu Singh",
+     "title": "Co-Founder at Carbon Trail",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/shantanu1singh/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
     }
    ],
    "referrals": [],
@@ -5486,9 +5634,21 @@
      "actor": "shlok",
      "event": "applied",
      "detail": "application submitted"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Ashish Rohil (founder, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Shantanu Singh (founder, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-23T16:37:12+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
@@ -7856,6 +8016,34 @@
      "confidence": 0,
      "why": "Wrote the hiring post",
      "found_at": "2026-11-12T20:56:06+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "Sahana Bhat",
+     "title": "Senior Program Manager at Leap (CEO's Office)",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/sahanabhat1994/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C3",
+     "name": "Sajan Pandya",
+     "title": "Senior Program Manager at Leap",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/sajan-pandya-b96b38146/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
     }
    ],
    "referrals": [],
@@ -7882,9 +8070,21 @@
      "actor": "import",
      "event": "imported",
      "detail": "from tracker batch 4 (2026-11-12) as R53"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Sahana Bhat (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Sajan Pandya (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-12T20:56:06+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
@@ -11037,7 +11237,50 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Akash Agrawal",
+     "title": "Program Manager at Atlys",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/akash-agrawal-676bb017a/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Prashast Dadu",
+     "title": "Program Manager at Atlys",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/prashast-dadu/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C3",
+     "name": "Charvi M.",
+     "title": "Senior Manager, People Success at Atlys",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/maliksahaab/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -11086,9 +11329,27 @@
      "actor": "send-track",
      "event": "apply_kit",
      "detail": "application answers prepared"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Akash Agrawal (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Prashast Dadu (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Charvi M. (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-20T15:35:58+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -11304,7 +11565,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Palash Kala",
+     "title": "Head of Product at Composio",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/palashkala/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Jeevesh Jain",
+     "title": "AI Product Manager at Composio",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/jeevesh-jain-9b5014191/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -11324,9 +11614,21 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 65: qualified"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Palash Kala (hiring_manager, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Jeevesh Jain (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-22T22:32:18+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -12298,6 +12600,34 @@
      "confidence": 35,
      "why": "CEO; the role is in the CEO's Office (Business Today, Feb 2026)",
      "found_at": "2026-11-12T22:22:02+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "Anubhav Rishikesh",
+     "title": "Product Manager at Sarvam",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/anubhav-m/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C3",
+     "name": "Ganesh S.",
+     "title": "Head of Recruitment at Sarvam",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/mrganis/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
     }
    ],
    "referrals": [],
@@ -12366,9 +12696,21 @@
      "actor": "shlok",
      "event": "applied",
      "detail": "application submitted"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Anubhav Rishikesh (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Ganesh S. (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-19T21:42:39+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
@@ -15785,7 +16127,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Akash Mamidi",
+     "title": "Founder and CEO at OnceMore",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/akash-mamidi/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Rithvik T",
+     "title": "EIR / Founder's office at OnceMore",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/rithvik-t-2176302b1/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -15823,9 +16194,21 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Akash Mamidi (founder, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Rithvik T (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-19T23:44:37+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -23583,7 +23966,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Abhinav Maheshwari",
+     "title": "Product Manager at slice",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/mabhinav11/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Anisha Mitra",
+     "title": "Talent Acquisition Lead - Non Tech at slice",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/mitraanisha/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -23621,9 +24033,21 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Abhinav Maheshwari (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Anisha Mitra (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-20T13:36:12+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -24012,7 +24436,50 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Payoj Kissan",
+     "title": "Director of Product Management at Yubi",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/payoj/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Srishti Agarwal",
+     "title": "Associate Director, Product Management at Yubi",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/srishti9494/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C3",
+     "name": "Nitesh Singh",
+     "title": "Talent Acquisition Leader at Yubi",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/nitesh-singh7/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -24038,9 +24505,27 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Payoj Kissan (hiring_manager, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Srishti Agarwal (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Nitesh Singh (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-16T12:46:56+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -24803,7 +25288,50 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Vivian P.",
+     "title": "Senior Technical Program Manager at Netradyne",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/vivian-preetham/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Robin Mahto",
+     "title": "Technical Account Manager / Senior Technical Program Manager at Netradyne",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/robin-mahto/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C3",
+     "name": "Sudeep Chakkingal",
+     "title": "Director Talent Acquisition at Netradyne",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/sudeepchakkingalta/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -24829,9 +25357,27 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Vivian P. (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Robin Mahto (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Sudeep Chakkingal (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-16T12:47:02+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -25221,7 +25767,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Swapnil Biswas",
+     "title": "Product Manager - Ground Transport at MakeMyTrip",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/swapnilbiswas7/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Annu Singh",
+     "title": "Associate Director - Talent Acquisition at MakeMyTrip",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/annu-singh-59470836/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -25247,9 +25822,21 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Swapnil Biswas (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Annu Singh (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-16T12:47:07+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -25380,7 +25967,22 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Nisha Tandon",
+     "title": "Talent Acquisition, Groww",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/nisha-tandon-64a593110/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -25418,9 +26020,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Nisha Tandon (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-19T23:44:56+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -33544,7 +34152,50 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Navdeep Batra",
+     "title": "Program Manager - SMB Business at Cashfree",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/navdeep-batra-81238b170/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Eswar Kumar",
+     "title": "Principal Talent Acquisition at Cashfree",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/eswarrecruiter/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C3",
+     "name": "Megha Bose",
+     "title": "Senior Talent Acquisition Specialist at Cashfree",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/megha-bose-915775a9/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -33576,9 +34227,27 @@
      "actor": "claude",
      "event": "stage",
      "detail": "qualified"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Navdeep Batra (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Eswar Kumar (recruiter, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Megha Bose (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-19T23:08:27+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -34089,7 +34758,22 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Abhishek Gupta",
+     "title": "Lead Product Manager at myHQ by ANAROCK",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/abhishek-gupta-6826ba157/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -34109,9 +34793,15 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 65: qualified"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Abhishek Gupta (hiring_manager, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-19T23:21:13+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -34448,7 +35138,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Naren Kashyap",
+     "title": "Founder & CEO at Karta",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/naren-kashyap/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Abhishek Kushwaha",
+     "title": "Co-Founder at Karta",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/abhismatrix/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -34468,9 +35187,21 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 66: qualified"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Naren Kashyap (hiring_manager, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Abhishek Kushwaha (founder, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-19T23:23:05+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -44301,7 +45032,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Gerardo B.",
+     "title": "Strategy & Operations Lead (GTM & Subscription) at Aspire",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/gerardo-b-48b0a727/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Sonal Gupta",
+     "title": "Strategy & Ops at Aspire",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/sonalgupta53/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -44339,9 +45099,21 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Gerardo B. (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Sonal Gupta (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-20T13:36:00+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "reject_reason": "score 61 is under 65",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
@@ -46466,7 +47238,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Prashant Khulbe",
+     "title": "Lead Product Manager at Tekion Corp",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/prashant-khulbe/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Saanya Singh",
+     "title": "Manager of Products at Tekion Corp",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/saanya-singh-b14646107/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -46492,9 +47293,21 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Prashant Khulbe (hiring_manager, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Saanya Singh (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-23T14:07:37+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -49096,7 +49909,22 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Shubham Shah",
+     "title": "Strategy & Ops (Founder's Office) at BharatNXT",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/shubhamshahhh/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -49122,9 +49950,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Shubham Shah (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-17T01:00:29+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -172863,7 +173697,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Akanksha Mukhija",
+     "title": "Manager - Leadership Hiring at Lenskart.com",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/akanksha-mukhija/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Satish S",
+     "title": "Talent Acquisition Leader at Lenskart.com",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/satishseenappa/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -172899,9 +173762,21 @@
      "actor": "lead-scout",
      "event": "researched",
      "detail": "score 67: qualified"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Akanksha Mukhija (recruiter, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Satish S (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-16T10:59:24+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "research_attempt": {
     "at": "2026-11-15T01:48:25+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
@@ -173236,7 +174111,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Vikram Parthan",
+     "title": "Chief of Staff at Enterpret",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/vikramparthan/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Arnav S.",
+     "title": "Co-founder & CTO at Enterpret",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/arnavsharma93/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -173268,9 +174172,21 @@
      "actor": "send-track",
      "event": "apply_kit",
      "detail": "application answers prepared"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Vikram Parthan (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Arnav S. (founder, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-16T10:59:20+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "research_attempt": {
     "at": "2026-11-15T01:50:10+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
@@ -179449,7 +180365,22 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Hansika Singhal",
+     "title": "People Operations Lead at Instawork",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/hansika-singhal-208a961b4/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -179487,9 +180418,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Hansika Singhal (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-19T23:44:49+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
@@ -181408,7 +182345,22 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "priyanka sarkar",
+     "title": "Talent acquisition at Purplle.com",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/priyanka-sarkar-6a65ba1aa/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -181434,9 +182386,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "priyanka sarkar (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-17T01:00:34+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -181822,7 +182780,22 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Mukund Jha",
+     "title": "Co-founder, CEO at Emergent Labs",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/mukund-jha-a1596413/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -181848,9 +182821,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Mukund Jha (hiring_manager, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-17T01:00:23+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -187971,7 +188950,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Sanchit Bansal",
+     "title": "Founder at GoodScore",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/sanchit-bansal-37640218/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Agam Garg",
+     "title": "Founder's Office - Growth and Strategy at GoodScore",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/agam-garg-a5164421/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -187991,9 +188999,21 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 69: qualified"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Sanchit Bansal (hiring_manager, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Agam Garg (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-20T22:52:25+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -192700,7 +193720,22 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Abhishek Kumawat",
+     "title": "Senior Manager - Supply Chain Planning at PepsiCo",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/kumawatabhishek/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -192726,9 +193761,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Abhishek Kumawat (hiring_manager, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-17T14:13:35+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -196138,6 +197179,34 @@
      "confidence": 55,
      "why": "Named founder per Clay/theorg.com listing; no LinkedIn URL seen",
      "found_at": "2026-11-17T10:16:36+05:30"
+    },
+    {
+     "id": "C2",
+     "name": "Kriti Panwar",
+     "title": "Manager, Founder's Office at Nat Habit",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/kriti-panwar-srcc/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C3",
+     "name": "Ankita Ghosh",
+     "title": "Manager - Founder's Office at Nat Habit",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/ankita-ghosh-61608b208/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
     }
    ],
    "referrals": [],
@@ -196195,9 +197264,21 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Gaurav Agarwal: gaurav@nathabit.in (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Kriti Panwar (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Ankita Ghosh (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-23T10:41:08+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
@@ -202786,7 +203867,50 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Manish Jethani",
+     "title": "Founder & CEO, Hevo Data",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/manishjethani/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Nirav Mohanty",
+     "title": "Strategy & Operations, Founder's Office at Hevo Data",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/nirav-mohanty/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C3",
+     "name": "Srinath Ramesh",
+     "title": "Strategy at Hevo",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/srinath-ramesh-a51719a2/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -202824,9 +203948,27 @@
      "actor": "shlok",
      "event": "applied",
      "detail": "application submitted"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Manish Jethani (founder, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Nirav Mohanty (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Srinath Ramesh (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-20T16:33:14+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "reject_reason": null,
    "people_searched_at": "2026-11-17T23:41:07+05:30",
    "live_check": {
@@ -203022,7 +204164,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Ibrahim Shariff",
+     "title": "Founder and CEO at TRUGlobal",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/ibrahimshariff/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Faiza Syeda",
+     "title": "Executive Assistant to the CEO at TRUGlobal",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/faiza-syeda/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -203048,9 +204219,21 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Ibrahim Shariff (founder, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Faiza Syeda (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-17T23:41:12+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "reject_reason": null,
    "people_searched_at": "2026-11-17T23:41:12+05:30",
    "live_check": {
@@ -203854,7 +205037,22 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Ayyappan R",
+     "title": "Building FirstClub (ex-CEO Cleartrip)",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/ayyappan-r/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -203880,9 +205078,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Ayyappan R (hiring_manager, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-18T13:37:23+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "research_attempt": {
     "at": "2026-11-17T23:23:41+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
@@ -214202,7 +215406,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Manish Reddy",
+     "title": "Co-Founder at Material Depot",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/manishguduru/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Bhanupratap Yadav",
+     "title": "Associate Strategy & Operations Manager at Material Depot",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/bhanupratap-yadav-824949241/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -214228,9 +215461,21 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Manish Reddy (hiring_manager, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Bhanupratap Yadav (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-18T23:27:40+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "reject_reason": null,
    "people_searched_at": "2026-11-18T23:27:40+05:30",
    "live_check": {
@@ -222424,7 +223669,22 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Sarbani Paul",
+     "title": "Senior Product Operations Manager at Machinify",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/sarbani-paul-pmp-b1a520105/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -222450,9 +223710,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Sarbani Paul (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-19T23:44:23+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "reject_reason": null,
    "people_searched_at": "2026-11-19T23:44:23+05:30",
    "live_check": {
@@ -229525,7 +230791,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Vinayak Aggarwal",
+     "title": "Founder/CEO at BiteSpeed",
+     "role_type": "founder",
+     "linkedin_url": "https://www.linkedin.com/in/vinayak2507/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Nikita Singh Rawat",
+     "title": "Founder's Office - Talent and Hiring at BiteSpeed",
+     "role_type": "recruiter",
+     "linkedin_url": "https://www.linkedin.com/in/nikita-singh-rawat/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -229557,9 +230852,21 @@
      "actor": "shlok",
      "event": "applied",
      "detail": "application submitted"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Vinayak Aggarwal (founder, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Nikita Singh Rawat (recruiter, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-21T18:30:55+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "research_attempt": {
     "at": "2026-11-20T22:42:06+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
@@ -231862,7 +233169,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Ashutosh Pratap Singh",
+     "title": "Senior Digital Product Manager at Albertsons Companies India",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/ashu003/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Shrinidhi Bharathur",
+     "title": "Senior Digital Product Manager at Albertsons Companies India",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/shrinidhi-barthur/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -231888,9 +233224,21 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Ashutosh Pratap Singh (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Shrinidhi Bharathur (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-21T13:23:10+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -233775,7 +235123,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Akshay Bhawsar",
+     "title": "Senior Product Manager at Ethos Life",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/akshay-bhawsar-20159bb8/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Suryansh Agarwal",
+     "title": "Re-Engagement Operations Manager, Lifecycle at Ethos",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/agarwalsuryansh/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -233801,9 +235178,21 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Akshay Bhawsar (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Suryansh Agarwal (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-22T03:30:50+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -239736,7 +241125,36 @@
    },
    "first_contacted_at": null,
    "replied_at": null,
-   "contacts": [],
+   "contacts": [
+    {
+     "id": "C1",
+     "name": "Ajay Nakirikanti",
+     "title": "Head of Business Operations at PhonePe",
+     "role_type": "hiring_manager",
+     "linkedin_url": "https://www.linkedin.com/in/ajay-nakirikanti-393339108/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    },
+    {
+     "id": "C2",
+     "name": "Aakash T.",
+     "title": "Business Operations Manager - Cards & Fixed Deposits at PhonePe",
+     "role_type": "team_lead",
+     "linkedin_url": "https://www.linkedin.com/in/aakash-t-258140174/",
+     "email": "",
+     "email_status": "none",
+     "email_source": "",
+     "confidence": 0,
+     "why": "",
+     "found_at": "2026-11-23T20:23:06+05:30",
+     "found_via": "linkedin-search"
+    }
+   ],
    "referrals": [],
    "followup": {
     "due": false,
@@ -239768,9 +241186,21 @@
      "actor": "shlok",
      "event": "applied",
      "detail": "application submitted"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Ajay Nakirikanti (hiring_manager, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-23T20:23:06+05:30",
+     "actor": "people-finder",
+     "event": "contact_added",
+     "detail": "Aakash T. (team_lead, LinkedIn search)"
     }
    ],
-   "updated_at": "2026-11-23T17:06:36+05:30",
+   "updated_at": "2026-11-23T20:23:06+05:30",
    "reject_reason": null,
    "people_searched_at": "2026-11-22T03:30:30+05:30",
    "live_check": {

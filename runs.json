@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-20T15:36:32+05:30",
-   "agent": "send-track",
-   "ok": true,
-   "summary": "Resumed 13 Nov run on 20 Nov after leads.json was repaired: 1 application kit (L0075 Atlys APM, 2 answers flagged NEEDS SHLOK: CTC split, single expected-CTC number), 0 new emails, 0 referral notes (none pending). Notes saved: L0024 (CTC/notice omitted from M0010), L0063 (Greenhouse 404, likely closed), L1767 (asks 6+ yrs PM), L0061 (already in Prodigal loop), L0030 (Keka form not readable without browser). LinkedIn-hosted apply links skipped (need sign-in).",
-   "stats": {}
-  },
-  {
    "at": "2026-11-20T15:40:52+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3403,6 +3396,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-23T07:05:39+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

@@ -36952,8 +36952,8 @@
     "why": ""
    },
    "research_attempt": {
-    "at": "2026-11-22T22:22:41+05:30",
-    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
+    "at": "2026-11-23T14:03:34+05:30",
+    "why": "model answer failed the checks: pay basis is 'stated' but the posting states no figure; use estimate or unknown",
     "by": "research-worker"
    }
   },

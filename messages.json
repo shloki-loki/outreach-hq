@@ -11120,7 +11120,7 @@
    "kind": "cold",
    "subject": "Strategy and Ops role | Shlok Agrawal",
    "body": "Hi Simranjit,\n\nI'm looking for a Strategy and Ops or Founder's Office role, and I'd like to be considered at Relvy.\n\nOver the last year at Ola Electric, I ran production planning for Rs 200 Cr of inventory and cut working capital by 40% in under three months. I also built a dispatch system that took order-to-delivery from 32 days to 14.\n\nAt Relvy, I can take planning, ops reviews and special projects off your plate, so you have more time for the work only you can do.\n\nAre you hiring for a role like this, now or in the next few months? If yes, I'd love a 15-minute call to share more.\n\nShlok\n",
-   "status": "sending",
+   "status": "failed",
    "email_status": "verified",
    "speculative": true,
    "hook": "",
@@ -11138,7 +11138,7 @@
    "sent_at": null,
    "message_id": "<179540411004.95286.11011043225525939580@gmail.com>",
    "thread_parent": null,
-   "error": null,
+   "error": "TimeoutError: timed out",
    "reply": null
   },
   {

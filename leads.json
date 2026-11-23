@@ -70483,7 +70483,7 @@
      "role_type": "recruiter",
      "linkedin_url": "",
      "email": "mayank@directly.live",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "HR direct (Large Cos) row 187 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -70521,9 +70521,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Mayank Dubey"
+    },
+    {
+     "at": "2026-11-23T21:45:14+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "mayank@directly.live does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-22T20:05:30+05:30",
+   "updated_at": "2026-11-23T21:45:14+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",

@@ -30667,6 +30667,11 @@
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
     "why": ""
+   },
+   "research_attempt": {
+    "at": "2026-11-23T14:04:50+05:30",
+    "why": "model answer failed the checks: the answer was not valid JSON: Expecting property name enclosed in double quotes: line 15 column 5 (char 917)",
+    "by": "research-worker"
    }
   },
   {

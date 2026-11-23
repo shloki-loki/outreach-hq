@@ -755,6 +755,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0055",
+   "key": "send-failed:M0354",
+   "agent": "send-track",
+   "severity": "error",
+   "title": "Sending M0354 failed",
+   "detail": "TimeoutError: timed out",
+   "status": "open",
+   "opened_at": "2026-11-23T08:12:33+05:30",
+   "last_seen": "2026-11-23T08:12:33+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

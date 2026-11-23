@@ -248827,7 +248827,7 @@
    "posted_at": "2026-11-23",
    "first_seen": "2026-11-23",
    "last_seen": "2026-11-23",
-   "open": true,
+   "open": false,
    "jd": "Recruiterflow is the AI-native platform powering executive search and recruiting businesses- from sourcing talent to closing deals. Trusted by 2,100+ agencies and 10,000+ recruiters across 100+ countries, we’re led by second-time founders with 13 years of experience in AI. Profitable and self-funded, we were recently named Bootstrapped Business of the Year. Our customers fund our roadmap because what we build works.\nWe are now looking for an Associate Product Manager who can help us conceptualize, design and test multiple new features and products being built out of here. You are a great fit if you thrive in a fast-moving environment, see the big picture and the tiny details, and are ready to do whatever it takes to get a product out and grow it.\n Location: \n HSR Layout, Bengaluru (5 days in office)\n What You Will Do\n Work closely with the founding team and founders to drive product at Recruiterflow\n Define the long-term vision for our product\n Make informed, bold decisions driven by both quantitative analysis and qualitative insights from customer interactions.\n Drive product roadmap by collaborating with Product Marketing, Customer Success, Sales, and Support\n Thrive in a collaborative team culture, tackling problems and developing solutions together in an iterative manner.\n Ensure exceptional support for the product, helping users realise its full potential.\n Bring your authentic self to work, continuously learning and growing.\n Skills Required\n Overall 1+ year of Product Management experience, preferably in B2B SaaS\n Ability to steer through ambiguity and should be able to take charge.\n Proven ability to create and manage a product roadmap with clear priorities and milestones.\n Entrepreneurial experience is a plus\n Comfortable using AI tools across the software development lifecycle, including user research, documentation, prototyping, and UAT.\n Strong analytical skills to tackle ambitious problems and deliver customer value.\n Track record of successfully launching and expanding products or significant features.\n Experience working with engineers, designers, and analysts, and presenting to both technical and non-technical stakeholders.\n What We Offer\n Competitive salary.\n An amazing team and benefits.\n Opportunities for significant career growth.",
    "exp_min": 1,
    "exp_max": null,
@@ -248886,9 +248886,20 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-24T02:03:08+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-23T15:26:35+05:30"
+   "updated_at": "2026-11-24T02:03:08+05:30",
+   "bin": {
+    "at": "2026-11-24T02:03:08+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L1985",

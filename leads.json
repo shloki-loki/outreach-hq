@@ -36113,7 +36113,7 @@
    "key": "infinity|founder s office|bengaluru",
    "type": "company",
    "company": "Infinity",
-   "company_domain": "",
+   "company_domain": "infinityapp.in",
    "company_url": "https://www.infinityapp.in/",
    "company_linkedin": "https://www.linkedin.com/company/infinityinvest/",
    "company_note": "YC Winter 2024 · team of 15 · Business banking for cross-border SMBs & Startups",
@@ -36121,7 +36121,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "infinity:company",
    "source_url": "https://www.ycombinator.com/companies/infinity",
@@ -36152,8 +36152,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 75,
+    "total": 67,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -36163,15 +36163,62 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Infinity (YC W24, team of 15); your Ola S&OP and inventory rebalancing map to their cross-border fintech ops.",
+    "fit_notes": "The posting is a speculative note to founders for a Founder's Office role at a team of 15 [msl] building business banking for cross-border SMBs. It does not state years of experience, MBA, or consulting requirements. Your experience running S&OP planning and inventory buffers [msl, sop] maps well to early-stage fintech operations.",
+    "pay_notes": "Pay not stated in the posting or search evidence; needs evaluation during outreach.",
+    "culture_notes": "Y Combinator W24 batch, team of 15 [msl]. No formal ratings or culture flags found in evidence.",
+    "hook": "Since Infinity helps cross-border Indian companies receive international payments with 0% FX markup [S1], your experience scaling operations and supply chains at Ola Electric [msl] provides strong operational foundations for an early-stage fintech.",
+    "hook_source": "https://www.infinityapp.in/",
+    "researched_at": "2026-11-23T14:06:56+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Infinity website",
+      "url": "https://www.infinityapp.in/"
+     },
+     {
+      "id": "S2",
+      "title": "Introducing Infinity: a runtime for extreme agent concurrency | Amazon Web Services - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlFiM2FWWDNCSjZGX3pZOGlnMzR1cFl4UlcxNFVVeWxRS09Ya0oyMHNFR24xeENpNXRabTJuVUVPSnN0NGpKa3pkeHdyZUxHaHRVbEhPdTd3djVPc1JYOXZPdWdZU2hrM2otTl9BNkVUS2F1LTZNZ1lLVGZ0cV81b09WMUxKY0lCSEhCWXpteGRDd2xUZjNxbjR2RzhaN0RzVUhr?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "To Infinity and Beyond: ThunderKittens Now on NVIDIA Vera Rubin NVL72! - Together AI",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOTdsSjZDWFpSNjIzeDRGdUktQ0JoVjhUTktqSHlRYlp6UE9KeWRncFBkOWJsdVNPTk85UkM1bHBfVUFtYXQ2RFl3dzJIQ1VNakZjNUJEVGtWdVU4Y0lvWHUyaENDQVNXRVQzUGhqSHBveHRkZVBiSFp2TTEzQ2M0M0hyWVdHbGxWMGRVWkVVaDNVdzBZeXc5RzFDMTRsZw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451) - watchTowr Labs",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0F3N3RzVXB0Z0hLS0J0d3R1cVZwVWZOa3ZfM0sweFlfdUxFNno4b2dzTnZFdDMwYkFZZlowREFwR2pLVW5qTWtvWVZsNkFWSHhDWHZsVkpvUEdyRWkyOVY5NktPMXR5RnVSb19kZkZzQ3VYM3pkSEdnbE5STEhMX3A2bnRwcWN2RngxRF91MXlscWhYZjJKMWxUaTJMcTVwQ0dOOVNtRm1HT1dIYmxJYVR0di05VFpBNlE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Infinity Power Taps AIKO for 773.5 MWp South African Solar Portfolio, Extending Africa Partnership Beyond 2 GWp - AIKO Website",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbzlCMlF1dHFUbnFrZjlEQ1d4N251ek5BeHo5VklXTGpVel8yOE4ybnNlZmk5RTNuVFo1YjlYRDFMTWl2azF4eW9LeXVNQmNtRFhSMnlZdFM1TmlSNGxRaWFKTnNKSDRVUEhsd0xRc01kUXMzeHQwSnAtY25RSTBHcFhsYnlNYjRKYTQw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Which infinity is bigger? Under alternative mathematical rules, a 2D map emerges - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanduVGVaOGw1M2dEdjRXOWxCUnZOWTRmdVdlRWVKWGdtTk91a0JJQTQzVl9lU01seVlSclhBcXl6MDh3VUxzVUl6ZGVycXUwNjcxWmJJMEdoazBNdHZ5czJuWkVmSDY3N3VGeGFwYXFyODVUWUdZYnF2TDE0bTgxQVJTZHc?oc=5"
+     },
+     {
+      "id": "S7",
+      "title": "Infinity Power, Hassan Allam Utilities begin Nefer Minya project construction - Power Technology",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTThBZy1ZbEF2VFJqM21HMlNQRVpUMGpFQTZaTE1pZ0p2SkpNMmVTVmxhMTFHb05FSWVJZms5YTZCZkgtdk5peHloWUk3bE91SVJYSEZ1elRHQWgwNTUwbmtMeVNib25laU1seXNiUmUxTUszazJxSElfY2l5UjV5ZDZmVWdoelduWXJjTQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "msl",
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -36222,14 +36269,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-23T14:06:56+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-23T14:06:56+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0273",

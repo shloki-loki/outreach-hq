@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-20T15:06:12+05:30",
-   "agent": "lead-scout",
-   "ok": true,
-   "summary": "8 researched, 0 qualified, 8 rejected (L1789 L1790 L1793 L1794 L1795 L1807 L1773 L1792), 0 emails found; 4 Instahyre leads unverifiable (403); Apify unused; slow CLI sync",
-   "stats": {}
-  },
-  {
    "at": "2026-11-20T15:10:02+05:30",
    "agent": "follow-up",
    "ok": true,
@@ -3394,6 +3387,13 @@
     "settled": 0,
     "followups_due": 0
    }
+  },
+  {
+   "at": "2026-11-23T06:25:44+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

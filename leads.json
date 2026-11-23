@@ -249374,7 +249374,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491657036",
    "source_url": "https://in.linkedin.com/jobs/view/finance-operations-manager-at-vizup-4491657036",
@@ -249390,7 +249390,7 @@
    "first_seen": "2026-11-23",
    "last_seen": "2026-11-23",
    "open": true,
-   "jd": "",
+   "jd": "At Vizup, we're building an AI-powered organic growth platform that helps businesses get discovered across search, AI answer engines, social and communities.\n We're looking for a hands-on Finance & Operations Manager to take ownership of our financial processes and day-to-day business operations. You'll work directly with the founders and play a key role in scaling a growing technology startup.\n Key Responsibilities\n • Manage accounting, invoicing, collections and vendor payments\n • Own budgeting, cash flow forecasting and financial reporting\n • Prepare monthly MIS and investor reports\n • Oversee payroll, reimbursements and consultant payments\n • Coordinate GST, TDS and statutory compliance with external CA/CS partners\n • Manage employee onboarding, exits and routine HR operations\n • Oversee office administration, assets and vendor management\n What We're Looking For\n • 5–8 years of experience in finance and operations, preferably in a startup or growing company\n • Strong hands-on experience in accounting, payroll, budgeting and financial reporting\n • Working knowledge of GST, TDS and statutory compliance\n • Proficiency in Excel/Google Sheets and accounting software\n • A proactive, detail-oriented professional who can independently manage multiple responsibilities\n Bonus: Experience with Zoho Books, Zoho Payroll, investor reporting or process automation.\n Why Join Vizup\n • Work directly with the founders\n • Take end-to-end ownership of finance and operations\n • Be part of a growing AI-driven technology startup\n • Make a tangible impact on business operations and growth\n How to Apply\n Apply only through this form (takes about 5 minutes): https://forms.gle/yJTycp4V1Vysm59V8\n Applications sent by email or DM won't be reviewed.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -249405,8 +249405,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -249416,15 +249416,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Finance Operations Manager at Vizup, but asks 5-8 years of experience which exceeds your 3-year limit.",
+    "fit_notes": "The posting asks for \"5–8 years of experience in finance and operations, preferably in a startup or growing company\" and skills in accounting, payroll, budgeting, and statutory compliance. Shlok has 1.3 years of experience and no direct finance/accounting operations background.",
+    "pay_notes": "Pay is not stated in the posting.",
+    "culture_notes": "No company website or reviews found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T02:11:14+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -249448,9 +249455,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-24T02:11:14+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 35: rejected (The posting asks for 5-8 years of experience, which violates Shlok's rule of a maximum 3-year limit.)"
     }
    ],
-   "updated_at": "2026-11-23T15:26:35+05:30"
+   "updated_at": "2026-11-24T02:11:14+05:30",
+   "reject_reason": "The posting asks for 5-8 years of experience, which violates Shlok's rule of a maximum 3-year limit."
   },
   {
    "id": "L1990",

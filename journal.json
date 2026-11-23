@@ -7631,6 +7631,15 @@
    "title": "Ran",
    "detail": "0 replies, 0 bounces, 0 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J0849",
+   "at": "2026-11-23T08:06:34+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "Sending M0347 failed",
+   "detail": "TimeoutError: timed out",
+   "ref": "I0048"
   }
  ]
 }

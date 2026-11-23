@@ -9332,6 +9332,15 @@
    "title": "PR 18 merged; InMail rewritten; 70 people found on Shlok's LinkedIn",
    "detail": "Merged PR 18 (two-tab site, stricter lead checks, alert emails) on Shlok's OK; Vercel production deploy succeeded. Rewrote the InMail on his feedback: one result instead of three, the posting link included, plain wording (config/templates/inmail-v1.toml, checked by check_linkedin, which now allows only the posting link). Searched his signed-in LinkedIn (about 75 people searches, results only, no profile visits or messages) and added 70 people to 37 jobs; 50 of 61 listed jobs now have someone to InMail. Not done: Amazon roles, Kaleidofin, EOS, Prodigal, Origin, ExxonMobil. PR 19 holds the code.",
    "ref": "PR 19"
+  },
+  {
+   "id": "J1038",
+   "at": "2026-11-23T20:25:19+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

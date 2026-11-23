@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-21T00:05:14+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-21T00:05:23+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3380,6 +3367,19 @@
    "ok": true,
    "summary": "0 follow-ups drafted, 3 replies flagged (Origin L1360 and Helium Air L0014 already noted; Boombox L0445 decline noted), 0 bounces handled",
    "stats": {}
+  },
+  {
+   "at": "2026-11-23T11:45:26+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
+   }
   }
  ]
 }

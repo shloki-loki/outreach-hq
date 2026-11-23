@@ -239266,15 +239266,15 @@
    "key": "ibm|business analyst adm|bengaluru",
    "type": "job",
    "company": "IBM",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "ibm.com",
+   "company_url": "https://www.ibm.com",
    "company_linkedin": "https://www.linkedin.com/company/ibm",
    "company_note": "",
    "title": "Business Analyst-ADM",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4491973164",
    "source_url": "https://in.linkedin.com/jobs/view/business-analyst-adm-at-ibm-4491973164",
@@ -239290,7 +239290,7 @@
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-23",
    "open": true,
-   "jd": "",
+   "jd": "Introduction\n A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long-term career development while valuing your unique skills and experiences.\n Your Role And Responsibilities\n As a Business Analyst, you will leverage your strong understanding and working experience with the SDLC to drive business outcomes. You will excel in requirement gathering, analysis, and documentation, utilizing your exceptional communication and analytical skills to articulate complex ideas clearly and persuasively.\n Your Primary Responsibilities Will Include\n Gather and Analyze Requirements: Facilitate requirement workshops to gather and document business requirements, utilizing strong impact analysis and gap analysis abilities to ensure effective stakeholder management.\n Map Processes and Use Cases: Develop process and use case maps to analyze business cases and guide technical and vendor teams in delivering solutions that meet business needs.\n Communicate with Stakeholders: Liaise between lines of business and the development team, articulating complex ideas clearly and persuasively to ensure seamless collaboration and solution delivery.\n Manage Stakeholder Expectations: Effectively manage stakeholders and users throughout the project lifecycle, ensuring their needs are met and expectations are exceeded.\n Guide Technical Teams: Analyze business cases and provide guidance to technical teams to ensure solutions meet business requirements and are delivered on time.\n Preferred Education\n Master's Degree\n Required Technical And Professional Expertise\n SDLC Understanding and Experience: Exposure to the Software Development Life Cycle (SDLC) with a strong understanding of its application in driving business outcomes.\n Requirement Gathering and Analysis: Experience working with requirement gathering, analysis, and documentation, with the ability to utilize impact analysis and gap analysis abilities.\n Process and Use Case Mapping: Exposure to process and use case mapping, with the ability to develop maps that analyze business cases and guide technical and vendor teams.\n Stakeholder Management: Experience working with stakeholders and users, with the ability to effectively manage their expectations throughout the project lifecycle.\n Technical Team Guidance: Exposure to guiding technical teams, with the ability to analyze business cases and provide guidance to ensure solutions meet business requirements.\n Preferred Technical And Professional Experience\n ",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -239305,8 +239305,8 @@
    },
    "score": {
     "rules": 56,
-    "research": null,
-    "total": 56,
+    "research": 40,
+    "total": 46,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -239316,15 +239316,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Analyst at IBM Consulting, asks SDLC and requirement gathering; your SAP MRP and S&OP execution map to process mapping.",
+    "fit_notes": "The posting asks for 'exposure to the Software Development Life Cycle (SDLC)' and 'experience working with requirement gathering, analysis, and documentation', with 'Preferred Education: Master's Degree'. Your facts [mrp] (implemented SAP MRP from scratch) and [sop] (owned S&OP production planning) match the analytical and process mapping requirements, but you lack an advanced degree and consulting background.",
+    "pay_notes": "Pay not stated in the posting, and no concrete compensation evidence for this specific analyst role at IBM is available.",
+    "culture_notes": "IBM Consulting is a globally recognized IT services firm; specific employee ratings and work-life balance feedback for this team were not found.",
+    "hook": "IBM recently expanded its AI agents like IBM Bob to self-hosted environments for sensitive enterprise software [S5].",
+    "hook_source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWVVsY3pILU9mc1VCdmM0VnhkN1dKZWtKVDM0c1NQUFZxVkNfNV9OZmdMUnRmZTFIRW96c2owODY2Sng3dF9GdXdqS1hpTWdDUFRBQXZJcXdKblB0ZUpkaFREQVNvM056RjlBMHBkUWNDQnBtX0Ruc2xHQlJfWjRWY2dSVldiUEZYZ2ZDYzBucW5kdThhTUhnaG1QSHpQNVVRbHRIV0lUVkZmbm12QzFnN052dS1zRmJWMzRjY2dGdk1MM1RuOTU4aWNXMU0zTWhrSFE?oc=5",
+    "researched_at": "2026-11-23T14:04:16+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "IBM Quantum Nighthawk r2—more circuits, faster - IBM",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PYTVUZzR5WWh0VTNxc0JsUW5JTEdkTXRkV0l0T25rZkZDekpqdk9JR1dfN1FqOENzZnR5Vmt1bHJzTE1yUm9qR2VrOFQwWDBsUXBYcUZLbHc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlNLbW92WmpoLXJQU1EtWWRfZ1RwTlpfNU5BNmtyUmpSNzZWYXgwdFphU2VaWGVXcnJaSFpoODVnZ3lZeTktNk5QZmNyMmlEOFhjc0pEM3RZaU1nS3ZER0Jsc2R3Sk96c1pmc3VGMzFlTVlZMVNxWmtWdlluWGpKQWN0OGlqTV9MWC1oRzJBYldSSER6RjRRT2lFZ3lQVkJRSDV6ZWJhY3QtYUZMZ2d3M0IxUFpURWFMWHV6c0ZOUU41T2lxVzg3azVWSVRHeGpXelNSTFlhakQyQQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "NASA, IBM Launch AI Foundation Model for Lunar Science - NASA Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFlWQjYwaUlKUDJBcXY5dnVhMFBab2pnUGFpRVVrdU42b2NuaDhzUms2RDRsakc3RS0tSUpUV3prTWNRTUtqWnJrZUl1YXJLTFZGcVpBb0lLMlJKa2U1Yml0clEzT3hHdkVoM0lwMU9BU2ozcTRYeG80dlBRR18ycElfYXNUeFFQZFByb2ZiVkgtWkU?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "What is Artificial Intelligence (AI) in Business? - IBM",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VNG1NRDgxaXVLSjZyZlowN210di03LXN6NnUwYWd2RDJmWFdIOHk1WlJiRjVIdUo1NllIMFo3OXJnTGZ2aTMzbUJCOG5lR2stZ2JlZ0xGZlpWWXlRRE5Ndy1Eb2JERFhFbTJWX2lObGxna2s?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "IBM Bob expands to self-hosted environments for sensitive and mission-critical enterprise software - IBM",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWVVsY3pILU9mc1VCdmM0VnhkN1dKZWtKVDM0c1NQUFZxVkNfNV9OZmdMUnRmZTFIRW96c2owODY2Sng3dF9GdXdqS1hpTWdDUFRBQXZJcXdKblB0ZUpkaFREQVNvM056RjlBMHBkUWNDQnBtX0Ruc2xHQlJfWjRWY2dSVldiUEZYZ2ZDYzBucW5kdThhTUhnaG1QSHpQNVVRbHRIV0lUVkZmbm12QzFnN052dS1zRmJWMzRjY2dGdk1MM1RuOTU4aWNXMU0zTWhrSFE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Researchers demonstrate quantum advantage through trusted quantum computation - IBM",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tbHRoZFVoRnFjLUhHMEcyaHBWTlJMRUQwRXo5UEJweTJwLU1lTnpNaEsxY2cwZ2hYaHBXYTAzZTNPeWZtZEpBcVZnWnNPbnlmZTJhZVViWmxkZjVJSFBF?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "mrp",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -239348,9 +239389,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 56"
+    },
+    {
+     "at": "2026-11-23T14:04:16+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 46: rejected (IBM Consulting role focusing on SDLC requirement gathering and process mapping, with a preferred Master's Degree and consulting background context, while lacking fixed pay evidence meeting the Rs 24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-21T23:54:21+05:30",
+   "updated_at": "2026-11-23T14:04:16+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -239360,7 +239407,8 @@
     "at": "2026-11-22T22:38:25+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "IBM Consulting role focusing on SDLC requirement gathering and process mapping, with a preferred Master's Degree and consulting background context, while lacking fixed pay evidence meeting the Rs 24.5 LPA threshold."
   },
   {
    "id": "L1930",

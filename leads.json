@@ -68706,9 +68706,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Varun Gupta queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-23T10:50:25+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Varun Gupta"
     }
    ],
-   "updated_at": "2026-11-23T08:25:36+05:30",
+   "updated_at": "2026-11-23T10:50:25+05:30",
    "live_check": {
     "at": "2026-11-22T12:23:54+05:30",
     "state": "unknown",

@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-21T00:25:24+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "outside the sending window; 64 approved email(s) wait for the next run",
-   "stats": {}
-  },
-  {
    "at": "2026-11-21T00:45:15+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3391,6 +3384,18 @@
     "bounces": 0,
     "settled": 0,
     "followups_due": 0
+   }
+  },
+  {
+   "at": "2026-11-23T13:05:26+05:30",
+   "agent": "live-check",
+   "ok": true,
+   "summary": "1428 postings checked: 366 live, 14 moved to the Bin, 1469 could not be checked",
+   "stats": {
+    "checked": 1428,
+    "live": 366,
+    "binned": 14,
+    "unknown": 1469
    }
   }
  ]

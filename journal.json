@@ -9593,6 +9593,15 @@
    "title": "Run failed",
    "detail": "13 researched (1 qualified, 12 rejected), 4 closed postings binned, 5 left for a person, 18 errors (first: Gemini HTTP 503: { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try agai)",
    "ref": ""
+  },
+  {
+   "id": "J1067",
+   "at": "2026-11-24T02:28:27+05:30",
+   "by": "people-finder",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "1 companies searched on LinkedIn, 0 people added",
+   "ref": ""
   }
  ]
 }

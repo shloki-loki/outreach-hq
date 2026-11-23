@@ -8099,6 +8099,15 @@
    "title": "Sending M0387 failed",
    "detail": "TimeoutError: timed out",
    "ref": "I0088"
+  },
+  {
+   "id": "J0901",
+   "at": "2026-11-23T09:31:39+05:30",
+   "by": "lead-scout",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "10 researched, 0 qualified, 10 rejected, 0 emails found; skipped scrape (ran 00:20 today), no Apify; Snabbit/Propelld Instahyre pages 403 so left unverified; stale re-verify and Monday company scan not done",
+   "ref": ""
   }
  ]
 }

@@ -221852,8 +221852,8 @@
     "why": ""
    },
    "research_attempt": {
-    "at": "2026-11-22T13:03:06+05:30",
-    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
+    "at": "2026-11-23T14:01:07+05:30",
+    "why": "could not open the posting: HTTP 429 for https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/4490571998",
     "by": "research-worker"
    }
   },

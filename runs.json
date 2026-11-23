@@ -1,16 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-21T15:41:08+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
-   "stats": {
-    "sent": 10,
-    "failed": 0
-   }
-  },
-  {
    "at": "2026-11-21T15:45:10+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3493,6 +3483,34 @@
     "leads": 1,
     "people_added": 0,
     "skipped": ""
+   }
+  },
+  {
+   "at": "2026-11-24T02:31:44+05:30",
+   "agent": "writer",
+   "ok": true,
+   "summary": "0 cold emails, 0 follow-ups and 0 LinkedIn note sets drafted for approval; 0 dropped for failing checks; stopped early: free quota used for today on gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash",
+   "stats": {
+    "cold": 0,
+    "followups": 0,
+    "linkedin": 0,
+    "apply_notes": 1,
+    "dropped": 0,
+    "models": {
+     "writer": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash"
+     ],
+     "judge": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite"
+     ]
+    }
    }
   }
  ]

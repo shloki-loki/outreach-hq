@@ -8036,6 +8036,15 @@
    "title": "Sending M0382 failed",
    "detail": "TimeoutError: timed out",
    "ref": "I0083"
+  },
+  {
+   "id": "J0894",
+   "at": "2026-11-23T09:11:36+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "Sending M0383 failed",
+   "detail": "TimeoutError: timed out",
+   "ref": "I0084"
   }
  ]
 }

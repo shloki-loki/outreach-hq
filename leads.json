@@ -181267,15 +181267,15 @@
    "key": "kraftheinz|senior analyst global supply planning|india",
    "type": "job",
    "company": "Kraft Heinz",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "kraftheinzcompany.com",
+   "company_url": "https://www.kraftheinzcompany.com",
    "company_linkedin": "https://www.linkedin.com/company/the-kraft-heinz-company",
    "company_note": "",
    "title": "Senior Analyst, Global Supply Planning",
    "tier": "1 - Strategy & Ops",
    "location": "Ahmedabad, Gujarat, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490213442",
    "source_url": "https://in.linkedin.com/jobs/view/senior-analyst-global-supply-planning-at-kraft-heinz-4490213442",
@@ -181291,7 +181291,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-21",
    "open": true,
-   "jd": "",
+   "jd": "Job Description\n Supply Chain – B14\n Key Responsibilities\n Responsible for Production planning ,finite scheduling with plant team to ensure the efficient delivery of inventory, service and cost objectives\n Manage FG inventory, highlight risks of CFR cuts, come up with RCAs and ensure CFR of 98%+\n Highlight key issues that affect supply. Make Strong collaboration with BU, Plant team, Demand Planning and Logistics teams to effectively deliver results\n Actively contribute to continuous improvement initiatives improve processes, cost reduction ideas, supply chain cost optimization opportunities, or business process initiatives.\n Manage product listing/delisting/withdrawal in conjunction with Marketing and co-ordinate with stakeholders to have minimal write offs\n Acting swiftly on high priority issues (escalations from high priority customers) and supporting their resolution with ownership\n Specific Competences\n Strong understanding of supply chain and Business understanding\n Good communication skills and stakeholder management\n Bias towards actions and willingness to learn\n Continuous improvement mind-set\n Imbibe KHC’s cultural values such as Being Consumer obsessed, Owning it, Merit based, Doing better everyday and being Inclusive.\n Supply Chain experience preferably in CPG, Working knowledge of ERP\n Preferable Qualifications\n MBA with 7 – 9 years of Supply chain experience in FMCG companies\n Location(s)\nAhmedabad - Venus Stratum GCC\n Kraft Heinz is an Equal Opportunity Employer – Underrepresented Ethnic Minority Groups/Women/Veterans/Individuals with Disabilities/Sexual Orientation/Gender Identity and other protected classes.\nSeniority level Not Applicable | Employment type Full-time | Industries Food and Beverage Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -181306,8 +181306,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 25,
+    "total": 39,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -181318,15 +181318,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Global Supply Planning Senior Analyst at Kraft Heinz in Ahmedabad; asks for 7-9 years experience, far exceeding your 1.3 years.",
+    "fit_notes": "The posting prefers an 'MBA with 7 – 9 years of Supply chain experience in FMCG companies' and working knowledge of ERP. While Shlok's S&OP planning [sop], SAP MRP implementation [mrp], and FG inventory ownership [ceo-coo] map well to the core responsibilities, the role requires far more seniority (>4 years) and is located in Ahmedabad.",
+    "pay_notes": "No salary figures were provided in the job description or web evidence for Kraft Heinz in India.",
+    "culture_notes": "No Glassdoor or employee review ratings were found in the provided evidence.",
+    "hook": "Kraft Heinz is set to divest its North American coffee business in a $650 million deal as part of turnaround efforts.",
+    "hook_source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUw4OVg5SGVRMkxPNy1DSEMzWklSbjRzYWNhc20wVWdYODVrM19TUTBBRFltTTh6UXBCNzdDdmJObWdaOFVpT0RkZVRtVk9KTkZ1eXZTUm55emZqUHpGYVcxV3g3cnpUWEc2VWpDUXJaTFpVdWhWTFN4bnJzYnNRYVBOQmfSAYoBQVVfeXFMTUwwMS1IWWs4d1pISm10ZkVzSzRMV3VnNTFNTFZQRjNxMndGd25RajM4aDYyME5RWTFHb3IwR1Vrd1h6R0Q4cVY3RDdMQk9FSTNSN2dRUUxBd29Eb2xCb1VrODBENkQ4T3ZhcGUxcHZfQm9BTjR2b19iZHZpUUxKLVF0SW5OakZQWDNR?oc=5",
+    "researched_at": "2026-11-23T13:59:34+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Kraft Heinz backs protein, fiber trends as innovation drive gains steam - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX1dJQkdaN0lCdGtveU40b1A2V3lZZlBBZFl3d3U4cEp2a01NcU1uZ0pMVi10cGVYUVZDVFdfRlo5cXZDRmR4N09wVl9rTldPZTM2UGhhdkZWai1IY0x4RkFPckk4dnRrMWtFUXlUUU1vLWVKZlhCeEh2ZDZ2dVVkdk5KdW9wd25XWGsxYkxLdXBUbnc5eHRwX3lVR2s5OG1oYk11V2RXMUItRjhrc2MyekFfNlg2NEY3Tl94Rk9xcFFmRUJiMkNR?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Kraft Heinz to divest its North American coffee business in $650 million deal - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUw4OVg5SGVRMkxPNy1DSEMzWklSbjRzYWNhc20wVWdYODVrM19TUTBBRFltTTh6UXBCNzdDdmJObWdaOFVpT0RkZVRtVk9KTkZ1eXZTUm55emZqUHpGYVcxV3g3cnpUWEc2VWpDUXJaTFpVdWhWTFN4bnJzYnNRYVBOQmfSAYoBQVVfeXFMTUwwMS1IWWs4d1pISm10ZkVzSzRMV3VnNTFNTFZQRjNxMndGd25RajM4aDYyME5RWTFHb3IwR1Vrd1h6R0Q4cVY3RDdMQk9FSTNSN2dRUUxBd29Eb2xCb1VrODBENkQ4T3ZhcGUxcHZfQm9BTjR2b19iZHZpUUxKLVF0SW5OakZQWDNR?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Kraft Heinz to Tap Disney Magic in Effort to Boost Brands - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGNMcy1aNWZPZ3lOWURfbWVhZ291XzJYV3BVWDNudlhkVEgwOExBaG15YnR3NXNUbDdqVjl0R0lZZDhJZFIwdVVZWEFXWjY2MERwVm1oWjRsRnRxejFpOXZyNFFOemhQajRMNDZPMm1lOHhYeEQxLU1ES2g1MV84OVQ2Rk9UeHFwOWN0NUdRbGZId1JuVmNKRW9UM2picHF6cUpTU1F0cFJxQkpISVFlSkotMTdBMGN3?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Kraft Heinz to divest North America coffee unit amid CEO turnaround efforts - Euronext Markets: Real-time Stock Market Data | live",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTcwZkRTVzFhcEQwSEdCci02bEg1OS02cVZXZDZBLU9KTmQzT3A1aTlQU1FMSHA5LXoyRVdfVHpkT2FpaEZPcXlseEFlN044RE1odmdSZGRDSGtjZjZNUEJsZy1KQ0tZU1FrZTVkMVVPTlQ0cHA3NmNaTmtOdlI0VDhWZXJhVGFvdUsxRnFfMXhFdzduRUhyRDlQSzZlR2J2Z3UxRnhWMU5QMkhPZFNjamdNc09QVGc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Kraft Heinz Bets $600 Million On Innovation Led By Consumers - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWHpMYlJ5SWNlTm1hN3lWRzAwcE5TVjBvSmJ5TnZOdGxVaXYybFY4Y2pieS1XcDFlOHFJVzRQQ1Jwb0FCRmJLNk9lUmxmYUhYZks3Q1lJNlM2dThNOTJFSnhzV3pGUFpkQTktdTJsWmJCNVhUbDVVd0YwNkRUTlpDRkdNVmR2NUlzcXR2NTIzSFZfbWVJeE9MbjNQdmJRUlM5MWlGanJQVk1jd3Y0S2RxM0VRRQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Kraft Heinz pours nearly $100M more into marketing to drive turnaround - Marketing Dive",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmdFb1kxdFE1dUNEbDlWZDZYaDc0cUoxRHhXNkxDdzJZZmVuaWZKLVdkemtXUlBKajNkU202ZzNJVDJleldhVUNITDlGaVlxRGZVa0ZiY3llMmRZSVE2SW1MZUxsXzlLRnFoWHJoeF8xWU9XWjBTcHRicVZ3VU5YWWNPLTVlVWF5bGktWUFRODVnb0lTT19ERFJvcV9fQXFjUm1neTBfYkpkRzR1LXNaZXdQUWQyRkJt?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -181350,9 +181392,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-23T13:59:34+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 39: rejected (Role asks for 7–9 years of supply chain experience (well above the 4-year maximum cutoff) and is based in Ahmedabad rather than Bengaluru or remote.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-23T13:59:34+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -181362,7 +181410,8 @@
     "at": "2026-11-22T12:55:53+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Role asks for 7–9 years of supply chain experience (well above the 4-year maximum cutoff) and is based in Ahmedabad rather than Bengaluru or remote."
   },
   {
    "id": "L1437",

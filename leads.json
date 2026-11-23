@@ -249049,7 +249049,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Ahmedabad, Gujarat, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493730420",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-gripit-4493730420",
@@ -249080,8 +249080,8 @@
    },
    "score": {
     "rules": 62,
-    "research": null,
-    "total": 62,
+    "research": 45,
+    "total": 52,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -249091,15 +249091,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Associate Product Manager at GRIPIT in Ahmedabad, asks 2-4 yrs; your experience is 1.3 yrs.",
+    "fit_notes": "The posting asks for '2–4 years of experience in product management, NPD or consumer durables' and a 'B.E./B.Tech in Mechanical, Electrical, Electronics or Industrial Engineering. MBA in Operations or Product Management is an advantage.' Shlok has a B.Tech in Electrical and Electronics Engineering from IIT Guwahati and has done extensive production planning and supply chain work ([sop], [ceo-coo]), but his total experience is about 1.3 years, which does not meet the 2-year minimum.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Headcount, ratings, stage/funding, and culture details were not found in the evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T02:13:29+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Cosmo-Tires-Ruta-Coyote-Gripit-XT - Tire Review Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTFE5OThadTRfRU1iTldNZ3BoaTFseHdaUC10TnIyNFZvTG14SUJoX1V1T2tiSzJ4SzhfMl9odmlzWmlkdEFUQ3ZRQ3lnWl9taHV2c0FhQzZzV3d1c285RUYyWmFRWkVQb0EyaUJpdGtVMXNCWEFZWlVyLU1yX2NJeEJiWUxRRXBublFoZk1n?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -249123,9 +249139,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 62"
+    },
+    {
+     "at": "2026-11-24T02:13:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The posting asks for 2-4 years of experience, and Shlok has about 1.3 years, making him fall short of the 2-year minimum requirement.)"
     }
    ],
-   "updated_at": "2026-11-23T15:26:35+05:30"
+   "updated_at": "2026-11-24T02:13:29+05:30",
+   "reject_reason": "The posting asks for 2-4 years of experience, and Shlok has about 1.3 years, making him fall short of the 2-year minimum requirement."
   },
   {
    "id": "L1986",

@@ -9296,6 +9296,15 @@
    "title": "Bounce rate above 5% limit",
    "detail": "14 bounces of 246 sent total = 5.7% (limit 5%). Reply rate 2.5% (6 replies, 1 interview). Bounces: 7 on 20 Nov, rest across 21 Nov. None today. I0040 stays open awaiting Shlok's decision to pause the founder campaign until the list is re-verified; nothing new bounced on 23 Nov, 31-33 emails sent.",
    "ref": ""
+  },
+  {
+   "id": "J1034",
+   "at": "2026-11-23T20:12:52+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Data and workflow health 23 Nov",
+   "detail": "GitHub runs last 15 all green (Track and send, digest, live check, scout, research, supervisor checks). Data branch commits show no interleaving, no mass deletions, no repair commits. 1:35 PR 18 (lead quality) merged 14:35Z; recheck at 18:09 IST kept 55, rejected 12, unlisted 45 whose postings could not be opened. LinkedIn connections import still TODO in doctor (0 connections), so referral notes cannot be drafted. Mode live. Reoon verifier credits: free quota exhausted (I0016/I0100); Hunter key empty.",
+   "ref": ""
   }
  ]
 }

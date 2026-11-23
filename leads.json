@@ -23006,8 +23006,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 10,
+    "total": 32,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -23017,15 +23017,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Posting no longer confirmed open; not qualified.",
+    "fit_notes": "Posting marked closed by the live check; recheck on 23 Nov returned 404 or 429 and could not be confirmed open, so not qualified.",
+    "pay_notes": "No pay evidence read.",
+    "culture_notes": "Not researched.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-23T09:30:38+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -23079,9 +23081,15 @@
      "actor": "lead-scout",
      "event": "posting_closed",
      "detail": "confirmed closed"
+    },
+    {
+     "at": "2026-11-23T09:30:38+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 32: rejected (Posting marked closed by the live check; recheck on 23 Nov returned 404 or 429 and could not be confirmed open, so not qualified.)"
     }
    ],
-   "updated_at": "2026-11-21T14:39:33+05:30",
+   "updated_at": "2026-11-23T09:30:38+05:30",
    "live_check": {
     "at": "2026-11-14T19:01:52+05:30",
     "state": "closed",
@@ -23091,7 +23099,8 @@
     "at": "2026-11-14T19:01:52+05:30",
     "reason": "the posting says \"No longer accepting applications\"",
     "by": "live-check"
-   }
+   },
+   "reject_reason": "Posting marked closed by the live check; recheck on 23 Nov returned 404 or 429 and could not be confirmed open, so not qualified."
   },
   {
    "id": "L0172",

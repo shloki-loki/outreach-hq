@@ -245771,7 +245771,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492885415",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-4492885415",
@@ -245787,7 +245787,7 @@
    "first_seen": "2026-11-22",
    "last_seen": "2026-11-23",
    "open": true,
-   "jd": "",
+   "jd": "Company Description C J Sheth & Co is an established organization headquatered at Bangalore with a presence across South India and across its target markets. The company focuses on delivering reliable, high-quality of Wallcoverings and flooring products, with an emphasis on long-term client relationships and sustainable business growth. Team members benefit from a collaborative work environment where initiative, accountability, and professional development are encouraged. As the company expands, it offers opportunities for driven professionals to contribute to strategic growth and operational excellence. The culture values integrity, performance, and customer-centric thinking.\n Role Description This is a full-time, on-site Business Development Manager role based in Bangalore. The Business Development Manager will identify and pursue new business opportunities, build and maintain strong relationships with Architects and Designers, and develop strategies to expand the company’s market presence. Daily responsibilities include prospecting potential customers, preparing and delivering sales presentations and proposals, negotiating contracts and commercial terms, and coordinating with internal teams to ensure smooth onboarding and service delivery. The role also involves monitoring market trends, analyzing competitor activity, preparing regular sales and pipeline reports, and contributing to revenue forecasts. The Business Development Manager will collaborate closely with leadership to refine go-to-market plans and support key initiatives that drive growth and customer satisfaction.\n Qualifications \n Demonstrated experience in business development with existing relation with Architects and Designers.\n Strong skills in lead generation, client relationship management, and negotiation to acquire and retain customers.\n Excellent communication, and interpersonal skills, with proficiency in English.\n Bachelor’s degree in Business, Marketing, Management, or a related field; a postgraduate qualification (MBA or equivalent) is a plus.\nSeniority level Mid-Senior level | Employment type Full-time",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -245802,8 +245802,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -245813,15 +245813,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at C J Sheth & Co; your supply chain and operational planning facts do not match the required architect sales network.",
+    "fit_notes": "The posting asks for \"Demonstrated experience in business development with existing relation with Architects and Designers\" and a \"Bachelor’s degree in Business, Marketing, Management, or a related field; a postgraduate qualification (MBA or equivalent) is a plus.\" None of his facts match client-facing architectural sales or dealer network management in wallcoverings and flooring.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company website or external reviews found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T02:07:08+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -245845,9 +245852,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-24T02:07:08+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 41: rejected (The role requires existing relationships with architects and designers, which is outside his supply chain and operations background.)"
     }
    ],
-   "updated_at": "2026-11-22T14:29:38+05:30",
+   "updated_at": "2026-11-24T02:07:08+05:30",
    "research_attempt": {
     "at": "2026-11-23T13:43:29+05:30",
     "why": "error: Gemini unreachable: The read operation timed out",
@@ -245857,7 +245870,8 @@
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "The role requires existing relationships with architects and designers, which is outside his supply chain and operations background."
   },
   {
    "id": "L1955",

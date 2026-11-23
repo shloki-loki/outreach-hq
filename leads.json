@@ -23783,15 +23783,15 @@
    "key": "amazon|product manager ii amazon send|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.in",
+   "company_url": "https://amazon.in",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Product Manager-II, Amazon SEND",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4472785172",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-ii-amazon-send-at-amazon-4472785172",
@@ -23807,7 +23807,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "Description\n We are seeking a Product Manager to help scale Amazon SEND, a cross border logistics solution for WW FBA sellers. You will work backwards from customer problems, translate insights into clear product requirements, and partner with engineering, design, and cross-functional teams to bring your vision to life. This role puts you at the center of product decisions where your analytical thinking, technical curiosity, and ability to drive alignment across teams will directly influence the product experience that global sellers are using every day. This role requires strong product judgment, analytical capability, stakeholder management, and the ability to drive progress across teams. As a Product Manager, you will build capabilities to improve value proposition on Amazon SEND, with end to end ownership. If you are a collaborative, data-driven product thinker who thrives on turning ambiguity into action, we want to hear from you.\nKey job responsibilities\n Define product requirements and roadmap priorities by working backwards from customer needs, making smart trade-offs across engineering, design, and stakeholder teams to deliver the right capabilities at the right time.\n Drive cross-functional collaboration with engineering, design, finance, marketing, and operations partners, building alignment and influencing teams with different priorities to move products forward.\n Leverage data and customer research to inform product decisions — analyze usage patterns, customer behavior, and feedback to distinguish between what customers say they want and what they actually need.\n Own clear and concise product documentation including specifications and PR/FAQs, and communicate product strategy effectively to partners and leadership.\n Evaluate opportunities to integrate generative AI tools and emerging technologies into product workflows, refining outputs and applying responsible practices to accelerate development and improve customer outcomes.\n Conduct market research, identify business opportunities to provide best in class seller experience on Amazon SEND\n Create and execute go-to-market plans for new features. Monitor key performance metrics to ensure product performance and identify optimization opportunities. Partner closely with the sales team to drive adoption.\n About The Team\n Amazon SEND is a seller central integrated cross border logistics solution that enables global FBA sellers to ship their inventory from origin country to Amazon FCs in the destination country. SEND’s vision is to help spin Amazon’s FBA flywheel faster by enabling easy access to Amazon integrated, competitively priced, cross-border logistics solutions for all selling partners located anywhere in the world. As a Product Manager on SEND, you will drive platform features to drive SEND growth, scale volume across WW lanes.\nhttps://sell.amazon.in/grow-your-business/amazon-global-selling/fulfillment/send\n Basic Qualifications\n 3+ years of product management experience\n Experie",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -23822,8 +23822,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 62,
+    "total": 61,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -23834,15 +23834,59 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager II for Amazon SEND asks 3+ yrs PM exp; stretch for your 1.3 yrs total exp, but your Ola logistics and S&OP work fits the cross-border domain.",
+    "fit_notes": "The posting requires 3+ years of product management experience and managing technical products or services. With 1.3 years total experience, this is a stretch (asking 3+ years). However, his work in dispatches and lotting algorithms [o2d], S&OP inventory management [sop], and first-mile logistics [ceo-coo] closely matches Amazon SEND's cross-border logistics focus, alongside technical API work [idekho].",
+    "pay_notes": "No salary specified in the posting or fetched evidence.",
+    "culture_notes": "No specific Glassdoor or culture ratings were returned in the search evidence.",
+    "hook": "Amazon announced plans to invest $48 billion in India by 2030, highlighting major investment in cross-border seller infrastructure like Amazon SEND.",
+    "hook_source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5",
+    "researched_at": "2026-11-23T13:57:48+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure - Space",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1NhTElEekZkMHVsR3NNYVlrZWVvTUgyQkNsYUVBdlg1dWlMdW5PamFBcXFzdnlETEp5RVljbzZ4UEp4OFppeUcyMF81eVdzcFdmbDR5eWR3N3pvTlJCVFEydUdhVFhZeXQ1NTA5dElPclh6MzFBZmRtaWp2SHZYUTRTa3F1NWxYYUtCNklhN1p6TkdGU1Nib2E4LWhHdHl0aEV2b3RJbDF2X0s0T1NaRVh5dFIzbzhF?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amazon announces it will invest $48 billion in India by 2030 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6em00SW1sNE1OZWgzUUhZMGtBaGV0Q2U4cE9XWHNQd2gyRkdJX09RemFjdjhjandHU0F4dnYwZUZ3V3ZMUFZwSUt6ZzlOV3c5T3AxbUREdk1MRC0zSFp6bURlbklrQTZHWS16elVFWEVqZGc2X0ZJRA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdFh3U0hRSG94d05zeVBjNS13dzNJbWZ1Mml3TTFnd1NfbHBmdWY1UjV3V3ZKbUhudzBKMmxXM0hmZ29qLTFNSmlORER4d2dKVW1HTGhXZXV5MWFfRjRiaGt3c3ZFOEJCbTh0UUhieWJ3MzZ2Z1HSAXtBVV95cUxNbWw4N1JvSTlyRnppc1JXQlRlbHdDS0xqLTcxZm9QdXlmYUNfNVE5UFp2eFk0VGI5WE5nSjl4eDJXN1Rna3BVdnJEQkJicWVJTEpEN3ltZG9RMTJ1QzZ3eURmMDVxNjR2RWxvY0J3MFVMbVR1SzJZMHR2ZG8?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFvVDlwcmNmNEl1WGpwZ3A3TzF3ZkNLSDFrUHA3XzY3REJxa3Jyc3pjUnVLdXdydFp3eTBYR1E1elQzVllDV1JQVzJENFNhV3RjVWl1eFB3dWFZS1BQWlRpTC1WZWZ1OV9CZmdhQnNtdmUxb25DWS16SEVodXVlRnBFUFQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "o2d",
+     "sop",
+     "ceo-coo",
+     "msl",
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -23866,9 +23910,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-23T13:57:48+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 61: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-23T13:57:48+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",
@@ -23878,7 +23928,8 @@
     "at": "2026-11-22T12:51:51+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0177",

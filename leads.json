@@ -35650,7 +35650,7 @@
    "key": "cardboard|founder s office|bengaluru",
    "type": "company",
    "company": "Cardboard",
-   "company_domain": "",
+   "company_domain": "cardboard.ai",
    "company_url": "https://cardboard.ai",
    "company_linkedin": "https://www.linkedin.com/company/cardboardinc",
    "company_note": "YC Winter 2026 · team of 8 · AI video editor (raw footage into finished videos)",
@@ -35658,7 +35658,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "cardboard:company",
    "source_url": "https://www.ycombinator.com/companies/cardboard",
@@ -35689,8 +35689,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 65,
+    "total": 61,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -35700,15 +35700,61 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Cardboard, an 8-person YC W26 AI video editor in Bengaluru; your direct COO/CEO work maps well.",
+    "fit_notes": "The posting asks for a speculative note to founders for a Founder's Office role at an early-stage AI company in Bengaluru, matching Shlok's target role and location. Experience and pay are not stated in the posting. Shlok's direct partnership with Ola Electric's COO and CEO on operations and fulfillment operations [ceo-coo] aligns with early-stage founder's office execution needs.",
+    "pay_notes": "Pay is not stated in the posting or fetched evidence, so it is marked unknown; Shlok's target of Rs 24.5 LPA fixed remains unverified for this early-stage YC startup.",
+    "culture_notes": "Cardboard is a YC Winter 2026 startup with a team of 8 led by Saksham Aggarwal and Ishan Sharma [S1]; no employee ratings or culture flags found in fetched evidence.",
+    "hook": "Cardboard is an AI video editor that turns raw footage into finished videos, built for marketing teams, founders and creators who need video every week without learning a timeline.",
+    "hook_source": "https://cardboard.ai",
+    "researched_at": "2026-11-23T14:06:07+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Cardboard website",
+      "url": "https://cardboard.ai"
+     },
+     {
+      "id": "S2",
+      "title": "Software engineers with people skills grow from cardboard cities - Times Higher Education",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEV5WU5PQ29seEprWGJ4WXhsNjFIcy04MGhnSUNpbnlxRHA3ajJDaTBvWEwxVkVYSkY4Vk51UHBiX2w0RzZjVERwaE05V2lRM3BaNENmVW93aVp6MnF2TUg1VXdwbVFYYjYzbEJQa016TzhSYTd1LWYwNjF3ajdtX0RFRWRjd3AzaWRTR1hyc0JHUWlwSDNWcW0zZlpQMVk?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Don’t Recycle That Cardboard Box Yet—Use It in Your Garden Instead - Country Living Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkU4MzJ0bU84SWVHMktvWG5yNWRma0JLb0JjT0lBdTA5dm83aVhoN1ZmSXhpQWt2c0llXzRBXzBRcm41eTJWWXNfcFdPX0FuNzNqeERWa28wcWdOSTZZelZEV1BPM3Zmb0EzbTBBS25ZVmZONFZhRE9DSVExOUZPYnRFb1lVWVEwRGRXbDRn?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "In 2022 US Department of Agriculture funded a trial by spreading cardboard in gardens to avoid weeds; by - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNV3lGN0NYclYyZk1KSTNiakJrY1pfbGdPdEVkRVNrZnRIcXlfWV9SUEZCRWQ4NnlmWFRPb09iTXVINjB4ZXFfS09kQ0NBaU9EYzMzRGhvTFU2bTdBeERFd3ZBb0VOTnF6Y29pZXNFamNGWHRxb2s4c1hETjFpU0pEaXlQRVl2bXRQenA0N3RzTkZGSjRaOVNpbHVKa3RwbHZfclFqVzljRzNTT2xnMkdWVWJfbERySS1HVHZrbk1obHhNN1M2aVM3dWhPNlEtejlvUUwwSlZWSUFKWFc5c0FyWThaVmVPLUVqTTZCam5TVTNoTmxlY3FVR1M1M0l3V0dtMkItdHVCV2Y0UXYzMzlBemVYSTRIV013Smg2M1lGd0lRZGFqQTUtZm01cVRPeXktYjV6b1RXT1VDV292ZVlWTTRkZnQ5dmxpWGFxTGpKZVAwaTFLNmo2SmpBNlByeU85SXRPS0pRczBhUjlldHlpUUwtNVB1d3BhSXhxeC1YWHM4M1VHUnNJVGlJc9IBkANBVV95cUxPUGp0dHZtMTJxZU9PcC12UUNZakxVODBXLTRPa3NhZTZ2VHQ5Qm5fMFNGWXI3Xy1JWEI1cmhYeWM4WTNWNTdHbUUtNkJ1U3g1eUVjRzlUam83ek9VODR5dk4tdTFoMlc2djR6M3oxdFIyYy1XVm93ell3Y3h6akdBWXFxazY3OUFyQ2FKT1g0a01TUi1Kalh0dTMxQzBMcXJRLXozcTA1WHhBVjZzVFg3Rkd1cTlEQmJ3MFlWNXRDcVRWc0hrUjRNdFZjY182RUZlWk44cjJ5NUMwSW52ZnpkV3ZBN3oxcTBXYWZZMzBTWVR0ckhCWFYtTnYtUmJabml1WXdHYjhpOHUzYjhwZ3Vta1NUcThyV2Ywb3BDd2daR2s4QWhBQTdadjA4bEhtZmpxaS16RWxheElYNFJUMW1Tclg3MUw5OGtpMnBfSmw5blpleFhkRVpyUWtDQXlPeU03d2xCOXRSODFzaFVyb3JwU0JQX2d4c0N2REFtVlVOd3dEWGJkWWJ2UEgxMW5OXzlm?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "‘beauty can help save us’: jacques monneraud on turning cardboard into lasting ceramics - Designboom",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUtONFJuTFpQWUs0N3loc2tXdlRhY0JUTW9iVHV6Q2QzSUFvaFNEeTAwSll6WnVCSGhLU3Q2S2NFN0xwVldBSjdMV0d5eXJpNmN3Nmk4S3R3dWJkTGxuRkRMOWJHaWUyYWgwZU5YNjJJcUI0SUEtRDdjY21fN1NSclNwZmRaUnNRbUNtUGNPMUowNTVkaWoyeg?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "At Bottega Veneta’s Runway Show, Hollywood’s Finest Sat on Crumpled Cardboard Boxes - ELLE Decor",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXFWUWZvVEFvOUJXd0o5aUczMENxWDRVaDJPazRWRERLblQxVTlTM1hueG0yU1NoQ1J6NzJBTHJnb2Y5bGhqdjRfNDdPeXdXYm81OFNXdzNaZnV6bU1lUnhORGg3eWU5Xzl3Ym9rZ1l5NjNrX3c0VkxjQ04tdGdwbFdXM2w2MFBaVC1sRg?oc=5"
+     },
+     {
+      "id": "S7",
+      "title": "Nearly 300 Italian companies file collective action against corrugated cardboard cartel, seeking over €450 million in damages - Leaders League",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaXViOXhYWnVGVW9yMlhITTBaWVZlUDB5bkRuOUpJQ0ZxNTJUM194STNYUzFzaXpzNjZOS2xqbkJBV0U3bzREV0EtZ3NPZ1RSOUp0SUFUQUF2dVp2Y0JMQ1lSckJNc0U0UGhOYXpDcGlGdERpcjJFbk1LSnJXZHlzblBZbmEyUWhZR25BRTU3VFdCVGdxTEdiZklzNE5uVDZyb2lXanBhOTg2Yk5zVVNZeTJQT1ZBQThlWV9IR1hkSmJ2LVdxNmpublJRZFdzMFgxWDQ1NjNaSzVpWTBOS0ZxLUN1RmFEdlhhZjFOTW0tWEV1blFXUDVB?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -35759,14 +35805,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-23T14:06:07+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 61: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-23T14:06:07+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0270",

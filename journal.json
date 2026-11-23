@@ -7982,6 +7982,15 @@
    "title": "Template founder-v2: 6 emails queued",
    "detail": "1668 addresses left after today; refused 0",
    "ref": "M0427"
+  },
+  {
+   "id": "J0888",
+   "at": "2026-11-23T09:06:36+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "Sending M0377 failed",
+   "detail": "TimeoutError: timed out",
+   "ref": "I0078"
   }
  ]
 }

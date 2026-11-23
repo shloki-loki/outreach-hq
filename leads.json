@@ -223919,7 +223919,7 @@
     "model": "gemini-3.8-flash",
     "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "qualified",
+   "stage": "skipped",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -223963,9 +223963,15 @@
      "actor": "writer",
      "event": "apply_kit",
      "detail": "application note written (free model)"
+    },
+    {
+     "at": "2026-11-23T17:11:16+05:30",
+     "actor": "shlok",
+     "event": "stage",
+     "detail": "not interested"
     }
    ],
-   "updated_at": "2026-11-20T13:59:35+05:30",
+   "updated_at": "2026-11-23T17:11:16+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "live",

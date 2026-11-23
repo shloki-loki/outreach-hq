@@ -9287,6 +9287,15 @@
    "title": "Checked: Gemini free quota exhausted, writer drafted 0 on 23 Nov",
    "detail": "writer run 14:10 IST stopped early: free daily quota used on gemini-3.8/3.7/3.6/3.5-flash (limit 20 requests/day/model). research-worker run 14:07 marked ok=false: 24 researched (8 qualified, 16 rejected), 9 left for a person. 0 new drafts, 0 messages awaiting approval (to_approve numbers show 57 leads in status to_approve but 0 messages approved-waiting). Effect: drafting stops until the quota resets. Not a bug; consider a paid key or fewer calls per lead.",
    "ref": ""
+  },
+  {
+   "id": "J1033",
+   "at": "2026-11-23T20:12:49+05:30",
+   "by": "supervisor",
+   "kind": "note",
+   "title": "Bounce rate above 5% limit",
+   "detail": "14 bounces of 246 sent total = 5.7% (limit 5%). Reply rate 2.5% (6 replies, 1 interview). Bounces: 7 on 20 Nov, rest across 21 Nov. None today. I0040 stays open awaiting Shlok's decision to pause the founder campaign until the list is re-verified; nothing new bounced on 23 Nov, 31-33 emails sent.",
+   "ref": ""
   }
  ]
 }

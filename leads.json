@@ -32122,8 +32122,8 @@
     "why": ""
    },
    "research_attempt": {
-    "at": "2026-11-23T14:04:50+05:30",
-    "why": "model answer failed the checks: the answer was not valid JSON: Expecting property name enclosed in double quotes: line 15 column 5 (char 917)",
+    "at": "2026-11-24T02:19:56+05:30",
+    "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
    }
   },

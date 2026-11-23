@@ -1105,6 +1105,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0080",
+   "key": "send-failed:M0379",
+   "agent": "send-track",
+   "severity": "error",
+   "title": "Sending M0379 failed",
+   "detail": "TimeoutError: timed out",
+   "status": "open",
+   "opened_at": "2026-11-23T09:08:16+05:30",
+   "last_seen": "2026-11-23T09:08:16+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

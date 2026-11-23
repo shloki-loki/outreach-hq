@@ -9044,6 +9044,15 @@
    "title": "Diagnosis: hunter verification call failed",
    "detail": "A key secret with a pasted # comment is now cleaned, and a comment-only secret counts as no key; keys are masked in errors. Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. Resolve after the next GitHub run shows no 401. The leaked Reoon key still needs rotating by Shlok (I0025).",
    "ref": "I0011"
+  },
+  {
+   "id": "J1006",
+   "at": "2026-11-23T16:50:12+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: research-worker run marked failed 21 Nov 13:22",
+   "detail": "Cause: one Gemini 503 or timeout marked the whole research run failed. Fix: a run fails only if a quarter or more of its leads error, and the summary shows the count and first error. Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. Resolve after the 19:00 research run.",
+   "ref": "I0041"
   }
  ]
 }

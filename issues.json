@@ -571,7 +571,7 @@
    "opened_at": "2026-11-21T20:12:15+05:30",
    "last_seen": "2026-11-21T20:12:15+05:30",
    "count": 1,
-   "remedy": "Real cause: Gemini 503 busy errors and read timeouts on 1-10 leads a run, and any single error marked the whole run failed. It was not the quota. PR 17 fails a run only at a quarter or more errors and shows the first one. Fix is in PR 17, not live until merged and the Mac's shared folder is pulled.",
+   "remedy": "Cause: one Gemini 503 or timeout marked the whole research run failed. Fix: a run fails only if a quarter or more of its leads error, and the summary shows the count and first error. Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. Resolve after the 19:00 research run.",
    "resolved_at": null
   },
   {

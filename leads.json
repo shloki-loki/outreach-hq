@@ -240449,8 +240449,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 25,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -240460,15 +240460,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Google Ads Customer Lifecycle PM asks 3+ yrs of product management you do not have; strong brand, weak fit.",
+    "fit_notes": "Google PM, Ads: minimum 3 years of product management experience plus 0-to-1 launch; Shlok has none in PM roles. Read from stored JD.",
+    "pay_notes": "No pay evidence read.",
+    "culture_notes": "Not researched.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-23T09:30:23+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -240492,14 +240494,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-23T09:30:23+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 45: rejected (Google PM, Ads: minimum 3 years of product management experience plus 0-to-1 launch; Shlok has none in PM roles. Read from stored JD.)"
     }
    ],
-   "updated_at": "2026-11-22T14:29:38+05:30",
+   "updated_at": "2026-11-23T09:30:23+05:30",
    "research_attempt": {
     "at": "2026-11-22T22:08:44+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Google PM, Ads: minimum 3 years of product management experience plus 0-to-1 launch; Shlok has none in PM roles. Read from stored JD."
   },
   {
    "id": "L1949",

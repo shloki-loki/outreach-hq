@@ -9278,6 +9278,15 @@
    "title": "Diagnosis: send-track 23 Nov: no draftable leads",
    "detail": "Cause: all draftable leads have only catch-all/guess addresses and the Reoon free quota is spent, so recheck cannot verify them and none score 80+. Remedy for Shlok: top up or wait for Reoon credits, or approve sending to specific catch-all addresses by hand. Also the Gemini free quota ran out today (writer run 14:10 drafted 0), so drafting is blocked either way until tomorrow's reset.",
    "ref": "I0100"
+  },
+  {
+   "id": "J1032",
+   "at": "2026-11-23T20:12:45+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Checked: Gemini free quota exhausted, writer drafted 0 on 23 Nov",
+   "detail": "writer run 14:10 IST stopped early: free daily quota used on gemini-3.8/3.7/3.6/3.5-flash (limit 20 requests/day/model). research-worker run 14:07 marked ok=false: 24 researched (8 qualified, 16 rejected), 9 left for a person. 0 new drafts, 0 messages awaiting approval (to_approve numbers show 57 leads in status to_approve but 0 messages approved-waiting). Effect: drafting stops until the quota resets. Not a bug; consider a paid key or fewer calls per lead.",
+   "ref": ""
   }
  ]
 }

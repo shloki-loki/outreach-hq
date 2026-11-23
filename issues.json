@@ -333,7 +333,7 @@
    "opened_at": "2026-11-19T10:52:23+05:30",
    "last_seen": "2026-11-19T10:52:23+05:30",
    "count": 1,
-   "remedy": "Cause: LinkedIn rate-limits plain fetches (429) and the Mac's git fetch of the data branch stalls (see I0015). Both are transient and nothing was lost. Remedy: retry with backoff in store._git (coding session); read LinkedIn through the browser if 429 persists.",
+   "remedy": "Likely cause: the unlocked store sync (I0047) plus no retry on a failed fetch. Fix: sync is locked and a failed fetch is retried after 3 s and 10 s. Live since 16:36 on 23 Nov: PR 17 merged (7923bdb) and pulled into the Mac sender's folder. Resolve after a day with no git crash in the sender log.",
    "resolved_at": null
   },
   {

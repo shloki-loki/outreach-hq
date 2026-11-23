@@ -7883,6 +7883,15 @@
    "title": "Sending M0368 failed",
    "detail": "TimeoutError: timed out",
    "ref": "I0069"
+  },
+  {
+   "id": "J0877",
+   "at": "2026-11-23T08:48:18+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "Sending M0369 failed",
+   "detail": "TimeoutError: timed out",
+   "ref": "I0070"
   }
  ]
 }

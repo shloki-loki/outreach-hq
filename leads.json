@@ -35827,7 +35827,7 @@
    "key": "bolnaai|founder s office|bengaluru",
    "type": "company",
    "company": "Bolna AI",
-   "company_domain": "",
+   "company_domain": "bolna.ai",
    "company_url": "https://bolna.ai",
    "company_linkedin": "https://www.linkedin.com/company/bolna-ai/",
    "company_note": "YC Fall 2025 · team of 21 · Voice AI to enable India's next billion",
@@ -35835,7 +35835,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "bolna-ai:company",
    "source_url": "https://www.ycombinator.com/companies/bolna-ai",
@@ -35866,8 +35866,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 75,
+    "total": 67,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -35877,15 +35877,41 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Bolna AI, a team of 21 in Voice AI; your supply chain and CEO-coo work at Ola Electric maps well.",
+    "fit_notes": "The posting is a speculative note to founders for a Founder's Office role in Bengaluru at Bolna AI (team of 21) [https://www.ycombinator.com/companies/bolna-ai]. It does not state years of experience or pay. Shlok's 1.3 years of experience and direct exposure working with the CEO and COO at Ola Electric ([ceo-coo], [sop]) directly map to the generalist, execution-heavy nature of a Founder's Office role at an early-stage YC startup.",
+    "pay_notes": "No pay stated in the posting or fetched evidence. As a YC Fall 2025 company with a team of 21, verifying whether they can meet the Rs 24.5 LPA fixed target will require direct conversation with the founders.",
+    "culture_notes": "Bolna AI is a YC Fall 2025 company (team of 21) building a conversational voice AI platform for Indian enterprises [S1, S2]. No formal employer ratings or culture flags found in the fetched evidence.",
+    "hook": "Bolna handles the complexity of voice infra so enterprises can automate calls faster, better, and cheaper at scale [https://www.ycombinator.com/companies/bolna-ai].",
+    "hook_source": "https://www.ycombinator.com/companies/bolna-ai",
+    "researched_at": "2026-11-23T14:06:21+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Bolna AI website",
+      "url": "https://bolna.ai"
+     },
+     {
+      "id": "S2",
+      "title": "How Bolna AI Is Helping Enterprises Win The Voice AI Race - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWg2TXE1dW5iNm9sWXBrQlhPZjZCeEJMQjhiVDNFNHprYXdGVEo5S1M5QTdTQVlwNzFHN2ZUc0dqZENkdndVUi1Dc2syUFB4MTUxT2tZSG5FWmNWV1FDQmxDYkNJcVVQblEybW1lQjdNdUY0UGJJcUlYZG9CaFl6TmRseHF5UWk2UW9pRnFDeC14Zw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Bolna AI Is Building the Infrastructure for Multilingual Voice AI in India: Prateek Sachan - Indian Startup Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSkpaS2dUNUZPR0RkUjZldW5HTGJJOWdHUzNhcDk2VTZoX0hFbEdsZU80VENnTDU1LU1hZmRxbF9YcVpabHNTd1Fvd09oVFNnRjRicmZGTUVWdlJES3RzNmw1ZjNEcTFUNklWYVV5YzhxekdnY0d3THcxdy03blZjUEVNYmptVFg1OTBhWGxNWWxILWVUbnVScFlFcUphbDJGM1pfYzZEUzgxbW90QmVPb29uLWMyLV84OTM0ZWdQa2lOUmR3ckh5NnZHTmVfb3ZuNlE?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -35936,14 +35962,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-23T14:06:21+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-23T14:06:21+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0271",

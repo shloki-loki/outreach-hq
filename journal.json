@@ -7955,6 +7955,15 @@
    "title": "Sending M0376 failed",
    "detail": "TimeoutError: timed out",
    "ref": "I0077"
+  },
+  {
+   "id": "J0885",
+   "at": "2026-11-23T08:54:28+05:30",
+   "by": "send-track/send",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "sent 0, failed 10. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

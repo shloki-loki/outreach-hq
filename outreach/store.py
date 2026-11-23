@@ -25,7 +25,7 @@ import time
 from pathlib import Path
 from typing import Any, Callable, TypeVar
 
-from .util import ROOT, now_iso
+from .util import ROOT, now_iso, redact
 
 DATA_DIR = Path(os.environ.get("OUTREACH_DATA_DIR") or ROOT / "data")
 BRANCH = "data"
@@ -148,6 +148,7 @@ def _run(command: list[str], timeout: float, env: dict[str, str] | None = None) 
 
 
 NETWORK = ("fetch", "push", "pull", "clone", "ls-remote")
+FETCH_RETRY_WAITS = (3, 10)  # seconds to wait before the second and third try
 
 
 def _git(*args: str, check: bool = True, timeout: float | None = None) -> subprocess.CompletedProcess:
@@ -190,11 +191,28 @@ def git_enabled() -> bool:
 
 
 def sync() -> None:
-    """Make ./data match the remote `data` branch exactly."""
+    """Make ./data match the remote `data` branch exactly.
+
+    Takes the store lock: the reset discards whatever another process has written and not yet pushed.
+    Without it, `send.claim` could report success while the message stayed approved, to be sent again.
+    """
     if not git_enabled():
         return
+    with locked():
+        _fetch()
+        _git("reset", "--quiet", "--hard", f"origin/{BRANCH}")
+
+
+def _fetch() -> None:
+    """A dropped or stalled connection to GitHub usually works seconds later. No answer at all
+    (StoreOffline, after 90 s) is not retried, so the lock is not held for minutes."""
+    for wait in FETCH_RETRY_WAITS:
+        try:
+            _git("fetch", "--quiet", "origin", BRANCH)
+            return
+        except subprocess.CalledProcessError:
+            time.sleep(wait)
     _git("fetch", "--quiet", "origin", BRANCH)
-    _git("reset", "--quiet", "--hard", f"origin/{BRANCH}")
 
 
 class PushConflict(Exception):
@@ -257,7 +275,7 @@ def journal(by: str, kind: str, title: str, detail: str = "", ref: str = "") -> 
     every agent run, every problem, every diagnosis and fix, every change to the system."""
     data = load("journal")
     data["entries"].append({"id": next_id(data["entries"], "J"), "at": now_iso(), "by": by, "kind": kind,
-                            "title": title.strip(), "detail": (detail or "").strip(), "ref": ref})
+                            "title": title.strip(), "detail": redact(detail or "").strip(), "ref": ref})
     data["entries"] = data["entries"][-3000:]
     save("journal", data)
 
@@ -281,6 +299,8 @@ def log_run(agent: str, ok: bool, summary: str, stats: dict | None = None) -> No
 
 def open_issue(agent: str, title: str, detail: str, severity: str = "warn", key: str | None = None) -> None:
     """Record a problem for the supervisor. `key` stops the same problem being filed twice."""
+    detail = redact(detail)
+
     def change() -> None:
         issues = load("issues")
         key_value = key or f"{agent}:{title}"

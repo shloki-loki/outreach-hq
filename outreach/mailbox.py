@@ -21,10 +21,16 @@ from pathlib import Path
 HEADERS = "(BODY.PEEK[HEADER.FIELDS (FROM SUBJECT DATE MESSAGE-ID IN-REPLY-TO REFERENCES X-FAILED-RECIPIENTS AUTO-SUBMITTED)])"
 DAEMONS = ("mailer-daemon", "postmaster")
 SENT_FOLDER = '"[Gmail]/Sent Mail"'
+IMAP_TIMEOUT = 60  # seconds per read; without one, a connection that died while the Mac slept blocks for ever
 
 
 class NotConfigured(Exception):
     pass
+
+
+def _imap(box: Mailbox) -> imaplib.IMAP4_SSL:
+    """Every IMAP connection goes through here, so none can wait for ever."""
+    return imaplib.IMAP4_SSL(box.imap_host, ssl_context=ssl.create_default_context(), timeout=IMAP_TIMEOUT)
 
 
 @dataclass(frozen=True)
@@ -77,7 +83,7 @@ def check_login(box: Mailbox) -> None:
     with smtplib.SMTP(box.smtp_host, box.smtp_port, timeout=30) as smtp:
         smtp.starttls(context=ssl.create_default_context())
         smtp.login(box.address, box.password)
-    with imaplib.IMAP4_SSL(box.imap_host, ssl_context=ssl.create_default_context()) as imap:
+    with _imap(box) as imap:
         imap.login(box.address, box.password)
 
 
@@ -119,7 +125,7 @@ def scan_inbox(box: Mailbox, since: date, message_ids: set[str], addresses: set[
     """Look through INBOX since `since` for replies to our emails and bounces of them."""
     report = InboxReport()
     addresses = {a.lower() for a in addresses}
-    with imaplib.IMAP4_SSL(box.imap_host, ssl_context=ssl.create_default_context()) as imap:
+    with _imap(box) as imap:
         imap.login(box.address, box.password)
         imap.select("INBOX", readonly=True)
         _, found = imap.search(None, "SINCE", since.strftime("%d-%b-%Y"))
@@ -166,7 +172,7 @@ def scan_inbox(box: Mailbox, since: date, message_ids: set[str], addresses: set[
 
 def in_sent_folder(box: Mailbox, message_id: str) -> bool:
     """True when Gmail's Sent folder holds this Message-ID (used to resolve an interrupted send)."""
-    with imaplib.IMAP4_SSL(box.imap_host, ssl_context=ssl.create_default_context()) as imap:
+    with _imap(box) as imap:
         imap.login(box.address, box.password)
         status, _ = imap.select(SENT_FOLDER, readonly=True)
         if status != "OK":

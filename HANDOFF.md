@@ -113,6 +113,17 @@ added (he adds them himself).
 
 ## 4. Where things stand
 
+### 2026-11-22: two tracks live; reliability fixes in review
+
+- Agent Leads and Cold Emails (PRs #15, #16) were deployed to production on 22 Nov at 22:13 IST. The `data`
+  branch carries its own `web/vercel.json` so its commits do not use up Vercel deployments: never delete it.
+- `claude/reliability-fixes` (live only once merged and the Mac's shared folder is pulled): IMAP timeouts;
+  `store.sync` takes the store lock (an unlocked sync could undo a claim, so an email could go out twice);
+  fetch retries; keys masked in stored errors; comments ignored in key secrets; a research run counts as
+  failed only when a quarter or more of its leads hit errors.
+- Open decision for Shlok: bounces are over the 5% limit. Most are founder-list addresses imported as
+  `verified` from an earlier check whose method and date are unknown.
+
 ### 2026-11-15: target is 100 applications a day (PR #6 merged)
 
 His target: apply to 100 listings a day, each personalised, each with a follow-up. Funnel on 2026-11-15:
@@ -180,6 +191,7 @@ issues as supervisor and share improvements via PRs, the work queue and journal.
    diagnoses and fixes, a daily review by the supervisor).
 7. Researched cold-email practice across articles, newsletters, X and Reddit and wrote playbook v2
    (`config/voice.md`).
+8. Split the site into Agent Leads and Cold Emails with separate KPIs, deployed (2026-11-22).
 
 ## 6. What is planned, in priority order
 
@@ -256,6 +268,8 @@ Done: Apply today view, cover notes, wider searches, model chain, spend meter (P
 
 ### F. Smaller open items
 
+- Re-verify the founder list before its `verified` grade is trusted (bounces over 5%, 2026-11-22).
+- Rotate the Reoon key: the old one is in the data branch's history (I0025).
 - Import the founders' email list when he supplies it (speculative track; verify addresses first; columns
   unknown yet).
 - Import `Connections.csv` when it arrives: `python3 -m outreach import-connections <path>`.

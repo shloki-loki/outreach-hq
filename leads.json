@@ -36100,6 +36100,11 @@
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
+   },
+   "research_attempt": {
+    "at": "2026-11-23T14:06:42+05:30",
+    "why": "model answer failed the checks: pay basis is 'stated' but the posting states no figure; use estimate or unknown",
+    "by": "research-worker"
    }
   },
   {

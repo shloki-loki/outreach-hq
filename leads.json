@@ -36457,7 +36457,7 @@
    "key": "shortloop|founder s office|bengaluru",
    "type": "company",
    "company": "ShortLoop",
-   "company_domain": "",
+   "company_domain": "shortloop.dev",
    "company_url": "https://shortloop.dev/",
    "company_linkedin": "https://www.linkedin.com/company/shortloop/",
    "company_note": "YC Winter 2023 · team of 8 · Phone AI that Captures Every Dealership Revenue Opportunity",
@@ -36465,7 +36465,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "shortloop:company",
    "source_url": "https://www.ycombinator.com/companies/shortloop",
@@ -36496,8 +36496,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 75,
+    "total": 67,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -36507,15 +36507,36 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at ShortLoop, a YC W23 team of 8; your S&OP and inventory operations scale maps to early-stage execution.",
+    "fit_notes": "The posting is a speculative note to founders for Founder's Office at ShortLoop (team of 8) [source: posting]. Years, pay, and hard requirements are not stated in the posting. Shlok has 1.3 years of experience and strong operational execution at Ola Electric, such as owning S&OP production planning and working directly with the CEO and COO [ceo-coo, sop]. No MBA or consulting is required.",
+    "pay_notes": "Pay is not stated in the posting, and no explicit salary figures were found in the evidence sources.",
+    "culture_notes": "Company is YC Winter 2023 backed, team of 8 [source: posting]. No ratings or specific culture flags were found in the evidence.",
+    "hook": "ShortLoop builds human-like AI phone agents that handle thousands of calls each week for U.S. dealerships across service, sales, and outbound campaigns.",
+    "hook_source": "https://shortloop.dev/",
+    "researched_at": "2026-11-23T14:07:10+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "ShortLoop website",
+      "url": "https://shortloop.dev/"
+     },
+     {
+      "id": "S2",
+      "title": "Shortloop Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTlBJdHBSQmlSSEprZTVFRnpuaDY3NkVoUExBRklGaTNhamMtQ3RHcFR1WWtvanpkVGRyUXdJd2Y3Q1VNWWtMOFlDTEtUMTN3a2NwcHRCMU83Mk9sc05uLVdhX2dCODd1?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -36579,14 +36600,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-23T14:07:10+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-23T14:07:10+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0275",

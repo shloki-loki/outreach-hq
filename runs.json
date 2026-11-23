@@ -1,16 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-21T03:45:35+05:30",
-   "agent": "supervisor/check",
-   "ok": false,
-   "summary": "W0006: claim expired; inspect partial work before reclaiming; W0007: claim expired; inspect partial work before reclaiming; W0008: claim expired; inspect partial work before reclaiming",
-   "stats": {
-    "alerts": 3,
-    "open_work": 172
-   }
-  },
-  {
    "at": "2026-11-21T03:45:46+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3470,6 +3460,19 @@
   },
   {
    "at": "2026-11-23T17:45:15+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
+   }
+  },
+  {
+   "at": "2026-11-23T17:48:22+05:30",
    "agent": "follow-up/track",
    "ok": true,
    "summary": "0 replies, 0 bounces, 0 follow-ups due",

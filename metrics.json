@@ -569,14 +569,14 @@
   "2026-11-24": {
    "leads_total": 2061,
    "by_status": {
-    "applied": 21,
+    "applied": 22,
     "contacted": 108,
     "new": 1175,
     "rejected": 574,
     "replied": 7,
     "skipped": 4,
     "interview": 1,
-    "qualified": 49,
+    "qualified": 48,
     "followup_due": 84,
     "to_approve": 38
    },
@@ -608,7 +608,7 @@
    "bounces_total": 18,
    "reply_rate": 0.027,
    "bounce_rate": 0.048,
-   "applied_total": 23,
+   "applied_total": 24,
    "referrals_sent": 0,
    "interviews": 1,
    "offers": 0,

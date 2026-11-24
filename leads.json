@@ -14446,10 +14446,10 @@
      "title": "Business Head",
      "role_type": "hiring_manager",
      "linkedin_url": "https://www.linkedin.com/in/ACwAAAxCpGcB9B0qbq1h-xJspIeYX7BTaAWxQAQ",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "gaurav@sugarfit.com",
+     "email_status": "pattern",
+     "email_source": "company pattern is first (from a confirmed address)",
+     "confidence": 70,
      "why": "likely reports-to or runs the function this role sits in (LinkedIn title)",
      "found_at": "2026-11-15T01:50:40+05:30"
     },
@@ -14459,10 +14459,10 @@
      "title": "Talent Acquisition Specialist",
      "role_type": "recruiter",
      "linkedin_url": "https://www.linkedin.com/in/ACwAACYYhdoBOPYago0P5TeDbtUmfEQ6vO7rXzc",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "nehal.singh@sugarfit.com",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "recruits for the company (LinkedIn title)",
      "found_at": "2026-11-15T01:50:40+05:30"
     }
@@ -14570,9 +14570,21 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup2 email to Madan Somasundaram"
+    },
+    {
+     "at": "2026-11-25T04:32:20+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "GAURAV AGARWAL: gaurav@sugarfit.com (pattern, 70)"
+    },
+    {
+     "at": "2026-11-25T04:32:20+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Nehal Singh: nehal.singh@sugarfit.com (verified, 90)"
     }
    ],
-   "updated_at": "2026-11-24T18:15:35+05:30",
+   "updated_at": "2026-11-25T04:32:20+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",

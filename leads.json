@@ -44630,7 +44630,7 @@
    "key": "onefin|founder s office|bengaluru",
    "type": "company",
    "company": "OneFin",
-   "company_domain": "",
+   "company_domain": "onefin.in",
    "company_url": "https://www.onefin.in",
    "company_linkedin": "https://www.linkedin.com/company/onefinin/",
    "company_note": "YC Winter 2017 · team of 50 · Shopify for Financial Services",
@@ -44638,7 +44638,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "onefin:company",
    "source_url": "https://www.ycombinator.com/companies/onefin",
@@ -44669,8 +44669,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 68,
+    "total": 63,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -44680,15 +44680,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office speculative note at YC W17 fintech OneFin, asks no exp; your Ola CEO-COO fulfillment work maps.",
+    "fit_notes": "The posting is a speculative note to founders for a Founder's Office role at OneFin, a YC W17 fintech company [S1] with a team of 50. It does not state years of experience, fixed pay, or hard requirements like an MBA or consulting background. Shlok's direct work with Ola Electric's CEO and COO on fulfillment operations [ceo-coo] and S&OP planning [sop] maps well to a fintech scale and founder's office environment.",
+    "pay_notes": "Pay is not stated in the posting or search evidence.",
+    "culture_notes": "Backed by Y Combinator and Khosla Ventures, team of 50. No employee reviews or ratings found.",
+    "hook": "Your platform has enabled disbursement and migration of around $2B across more than 1 million loans, which presents exciting operational scaling challenges for a Founder's Office lead.",
+    "hook_source": "https://www.onefin.in",
+    "researched_at": "2026-11-24T16:24:11+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "OneFin website",
+      "url": "https://www.onefin.in"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -44739,14 +44755,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T16:24:11+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 63: qualified"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30",
+   "updated_at": "2026-11-24T16:24:11+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0321",

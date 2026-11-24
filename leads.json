@@ -59062,7 +59062,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-20T16:02:21+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-24T21:25:14+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -59106,10 +59106,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-24T19:45:15+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -59184,9 +59183,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-24T21:25:14+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "siddharth@91trucks.com: Shlok thanks for the email . I am currently on travel.. have added my Product team lead and BU head sales basis their requirement anyone of them will reach out "
     }
    ],
-   "updated_at": "2026-11-24T19:45:15+05:30",
+   "updated_at": "2026-11-24T21:25:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

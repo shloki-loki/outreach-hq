@@ -621,12 +621,12 @@
    "by_status": {
     "applied": 25,
     "contacted": 100,
-    "new": 1208,
-    "rejected": 574,
+    "new": 1184,
+    "rejected": 596,
     "replied": 8,
     "skipped": 4,
     "interview": 1,
-    "qualified": 45,
+    "qualified": 47,
     "to_approve": 74,
     "followup_due": 55
    },
@@ -648,8 +648,8 @@
     "4 - Other": 4,
     "3 - APM / Analyst": 64
    },
-   "qualified_total": 82,
-   "researched_total": 703,
+   "qualified_total": 84,
+   "researched_total": 727,
    "with_email_total": 1025,
    "emails_sent_total": 377,
    "emails_sent_today": 0,

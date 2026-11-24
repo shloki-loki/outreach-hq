@@ -58122,9 +58122,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T19:45:15+05:30"
    },
    "notes": [],
    "timeline": [
@@ -58205,9 +58206,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Deepak Mittal"
+    },
+    {
+     "at": "2026-11-24T19:45:15+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:25:41+05:30",
+   "updated_at": "2026-11-24T19:45:15+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -58985,9 +58992,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T19:45:15+05:30"
    },
    "notes": [],
    "timeline": [
@@ -59056,9 +59064,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Siddharth Sharma"
+    },
+    {
+     "at": "2026-11-24T19:45:15+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:31:44+05:30",
+   "updated_at": "2026-11-24T19:45:15+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -59178,9 +59192,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T19:45:15+05:30"
    },
    "notes": [],
    "timeline": [
@@ -59237,9 +59252,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Labdhi Chopda"
+    },
+    {
+     "at": "2026-11-24T19:45:15+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:33:52+05:30",
+   "updated_at": "2026-11-24T19:45:15+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -59574,9 +59595,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T19:45:15+05:30"
    },
    "notes": [],
    "timeline": [
@@ -59723,9 +59745,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Pavitar Singh"
+    },
+    {
+     "at": "2026-11-24T19:45:15+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:37:54+05:30",
+   "updated_at": "2026-11-24T19:45:15+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -59832,9 +59860,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T19:45:15+05:30"
    },
    "notes": [],
    "timeline": [
@@ -59891,9 +59920,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Abhinai Srivastava"
+    },
+    {
+     "at": "2026-11-24T19:45:15+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:40:03+05:30",
+   "updated_at": "2026-11-24T19:45:15+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -60039,9 +60074,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C5",
+    "since": "2026-11-24T19:45:15+05:30"
    },
    "notes": [],
    "timeline": [
@@ -60140,9 +60176,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Karan Goel"
+    },
+    {
+     "at": "2026-11-24T19:45:15+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:41:27+05:30",
+   "updated_at": "2026-11-24T19:45:15+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

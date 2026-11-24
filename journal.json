@@ -9818,6 +9818,15 @@
    "title": "Sending M0438 failed",
    "detail": "SMTPServerDisconnected: Connection unexpectedly closed",
    "ref": "I0104"
+  },
+  {
+   "id": "J1092",
+   "at": "2026-11-24T12:29:36+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

@@ -1469,6 +1469,20 @@
    "count": 1,
    "remedy": "Cause: no verifiable hiring manager or LinkedIn profile found for Navi L1980 and Zynga L1996 by web search. Remedy for Shlok (optional): open both leads on the site, find a recruiter or hiring manager on LinkedIn by hand and add the person, or apply through the posting. The people-finder also searches LinkedIn on its own runs.",
    "resolved_at": null
+  },
+  {
+   "id": "I0106",
+   "key": "inbox-scan-failed",
+   "agent": "follow-up",
+   "severity": "error",
+   "title": "Inbox scan failed",
+   "detail": "abort: socket error: [SYS] unknown error (_ssl.c:2406)",
+   "status": "open",
+   "opened_at": "2026-11-25T05:03:00+05:30",
+   "last_seen": "2026-11-25T05:03:00+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

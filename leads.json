@@ -249449,8 +249449,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 8,
+    "total": 34,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -249460,15 +249460,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "LinkedIn Senior Program Manager, asks 7+ yrs and 2+ yrs software development.",
+    "fit_notes": "JD: 7+ yrs technical program management. Not met.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T12:32:29+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -249492,14 +249494,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-24T12:32:29+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 34: rejected (Senior Program Manager asking 7+ years and software development experience)"
     }
    ],
-   "updated_at": "2026-11-23T15:26:35+05:30",
+   "updated_at": "2026-11-24T12:32:29+05:30",
    "research_attempt": {
     "at": "2026-11-24T02:03:05+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Senior Program Manager asking 7+ years and software development experience"
   },
   {
    "id": "L1984",

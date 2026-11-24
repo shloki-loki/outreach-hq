@@ -45895,10 +45895,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -45949,9 +45948,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Komal Rathee queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
@@ -52146,10 +52151,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:45:12+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -52248,9 +52252,21 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Vinod Naik queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Shivam Tripathi queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:45:12+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -53148,10 +53164,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -53184,9 +53199,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Gaurav Pushkar queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -54307,10 +54328,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-24T18:45:12+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -54397,9 +54417,21 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Harsha Kadimisetty queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Himavanth Chowdary Jasti queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:45:12+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -54694,10 +54726,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T18:45:12+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -54772,9 +54803,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Mayank Goyal queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:45:12+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56192,10 +56229,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T18:45:12+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -56258,9 +56294,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Arpit Samdani queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:45:12+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56367,10 +56409,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T18:45:12+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -56433,9 +56474,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Niranjana Neelakantan queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:45:12+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56692,10 +56739,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T19:25:13+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -56758,9 +56804,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Anil Chandra Naidu Matcha queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T19:25:13+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56867,10 +56919,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T19:25:13+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -56933,9 +56984,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Yash Bansal queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T19:25:13+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -57860,10 +57917,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T19:25:13+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -57926,9 +57982,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Anurag Gupta queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T19:25:13+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -58035,10 +58097,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T19:25:13+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -58101,9 +58162,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Anmol Jain queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T19:25:13+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -58236,10 +58303,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-24T19:45:15+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -58326,9 +58392,27 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Narinder Kumar queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Raman Mittal queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Satya Sharma queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T19:45:15+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -58435,10 +58519,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -58483,9 +58566,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Gazal S Kalra queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -58918,10 +59007,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -58984,9 +59072,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Oleg Avdeev queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -59317,10 +59411,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-24T19:45:15+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -59383,9 +59476,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Kanika Singh Chopda queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T19:45:15+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -59720,10 +59819,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T19:45:15+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -59876,9 +59974,33 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Shivam Satrawal queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Sumeet Nandal queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Abhishek Khurana queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Rohan Vijay queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T19:45:15+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -59985,10 +60107,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T19:45:15+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -60051,9 +60172,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Mukul Dhankhar queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T19:45:15+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -60199,10 +60326,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C5",
-    "since": "2026-11-24T19:45:15+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -60307,9 +60433,33 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Albert Gu queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Arjun Desai queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Chris Re queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Brandon Yang queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T19:45:15+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -60883,10 +61033,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T20:05:20+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -60949,9 +61098,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Atul Kumar queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T20:05:20+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61178,10 +61333,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-24T20:05:20+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -61244,9 +61398,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Kartik Kanaujia queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T20:05:20+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61796,10 +61956,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T20:05:20+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -61862,9 +62021,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Shantanu Singh queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T20:05:20+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61971,10 +62136,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T20:05:20+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -62037,9 +62201,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Harry Sehrawat queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T20:05:20+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -62322,10 +62492,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T20:05:20+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -62412,9 +62581,27 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Soumyarka Mondal queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Mehak Aggarwal queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Nishit Asnani queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T20:05:20+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -62795,10 +62982,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T20:25:18+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -62861,9 +63047,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ritesh Khandelwal queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T20:25:18+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -62983,10 +63175,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-24T20:25:18+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -63061,9 +63252,21 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Divyansh Ameta queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Chandan Yadav queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T20:25:18+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63170,10 +63373,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T20:25:18+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -63236,9 +63438,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Sriram Rupanagunta queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T20:25:18+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63508,10 +63716,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T20:25:18+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -63586,9 +63793,21 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Abhijeet Saxena queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Karan Singla queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T20:25:18+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63721,10 +63940,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-24T20:25:18+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -63817,9 +64035,27 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Naveen Jindal queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Alok Thakur queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Vinay Singh queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T20:25:18+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63965,10 +64201,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-24T20:25:18+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -64043,9 +64278,21 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Jitender Bedwal queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Nikhil Tripathi queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T20:25:18+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -64139,10 +64386,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -64169,9 +64415,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ravi Tiwari queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -64265,10 +64517,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -64295,9 +64546,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Tom Chavez queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -64591,10 +64848,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -64639,9 +64895,21 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Kuldip Ghosh queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Indraneel Chakravarty queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -64735,10 +65003,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -64765,9 +65032,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Brent Nicholson queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -64874,10 +65147,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -64922,9 +65194,21 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ankur Bhageria queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Dushyant Agarwal queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65031,10 +65315,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -65079,9 +65362,21 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Preeti Shrimal queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Harshit Surana queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65188,10 +65483,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -65236,9 +65530,21 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Adarsh Srivastava queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Mayank Singh Chauhan queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65345,10 +65651,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -65393,9 +65698,21 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Swaroop Jagadish queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Shirshanka Das queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65502,10 +65819,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -65550,9 +65866,21 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Siddarth Jain queued (template)"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Dipesh Mittal queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65646,10 +65974,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -65676,9 +66003,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Gaurav Singhal queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65785,10 +66118,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -65833,9 +66165,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Prashant Kumar queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65955,10 +66293,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -66003,9 +66340,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Chandranshu Sinha queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -66099,10 +66442,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -66135,9 +66477,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Arjun Attam queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -66244,10 +66592,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -66292,9 +66639,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Pawan Gupta queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -66401,10 +66754,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -66449,9 +66801,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Rohan Tomar queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -66558,10 +66916,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -66606,9 +66963,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Natarajan H K queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -66741,10 +67104,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -66813,9 +67175,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Chitransh Sahai queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -123645,10 +124013,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C1",
-    "since": "2026-11-24T18:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -123675,9 +124042,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:29+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Kapil Makhija queued (template)"
     }
    ],
-   "updated_at": "2026-11-24T18:05:14+05:30",
+   "updated_at": "2026-11-25T00:05:29+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

@@ -252686,7 +252686,7 @@
    "key": "sleep|founder s office strategic initiatives|india",
    "type": "job",
    "company": "The Sleep Company",
-   "company_domain": "",
+   "company_domain": "thesleepcompany.in",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/the-sleep-company-official",
    "company_note": "",
@@ -252694,7 +252694,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493708170",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-strategic-initiatives-at-the-sleep-company-4493708170",
@@ -252725,8 +252725,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 45,
+    "total": 52,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -252736,15 +252736,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office at The Sleep Company, but asks 4-8 yrs and an MBA which you do not have.",
+    "fit_notes": "The posting asks for \"4–8 years' experience, preferably in top-tier management consulting\" and states \"MBA from a premier institute preferred\". Shlok has about 1.3 years of experience and no MBA or consulting background.",
+    "pay_notes": "Pay is not stated in the posting.",
+    "culture_notes": "PE-backed company targeting revenue growth and EBITDA profitability in FY27 [S1]; no employee ratings or specific culture flags found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T04:27:07+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "PE-backed The Sleep Company targets revenue growth, EBITDA profitability in FY27 - VCCircle",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSldzeWM5Smc5ZHNPMjJPcmlFb0FxRTkxYkQ2WWxCVzNLd01QTHo3SURmdHJqZWk5Wnp3RFVDenlMbkxmdDZtV1V5elZ5OFEzMGlBVHR1VDJkT3FfcHZSNFZkamo5MUtnblhMQmRQTF9DaUZYQndsdDlsOG9EZ19pQkpaSUt4MkQtYXRNejZKemhFUVd2b1RwVzJkONIBowFBVV95cUxPUmtJRnhHUlJwblhOdUw4cFhXOEZVcVNxcTBtVjJiUkhQR0ZSYk85WUdRWXFEX3paaWtlejM4QThYeXc5R1JBT1J3YTM1VlVBTjlPRTBfcHhhSkFCQ1NuWk9VZHFYQUdDeXhSRXlBaUxWc2J5VUJJYTR5QjlmUWJtdzVJVC1KNHZ2YnNES19zdzd2bXo5dS01ZUdJa2lEd3F5WXpN?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "The Sleep Company opens new experience store in Maharashtra at Vihang Ventura - India Retailing",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTJMX2hRUWJkcXlFbFpJQjJGMjcxbVA1U3Q0eTR4WGNSNTJ6SlRNY0d3THBJM3JOU2ZtcHJOQTBJMDk0ZHhXSDd0MFdVY0hXZlJzQ2ZENnJMSW1NM0RHZDg4TElxOFdIdkVtYzFvUjUwSXJrOGllRlZDbDQ1MUVfdkZ2dGlHTE9OaGkzckFGMm9hb0ZpN2ZCUmdHNUthdjFwYjFNVGQyZVVGVElO?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "The Sleep Company partners with Unicommerce for e-commerce operations - MediaBrief",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XS3M3R0tMQjlZOGlOLTFYTFozaHpFc1NPYlJxOTlOSERpeW9kVlQ1aWFUdWhVTEw4NlNwV2tqUnQ0OFBMQ2Q3X3EzSlF0OW5JNlM5NHpUMngyYUVFM3R4MnhSYkg3UUEwSG5HeWUwSGU1Mm04dWc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "The Sleep Company opens experience store at Vihang Ventura in Mira Road - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHpJNThnRG1nWlU2a3pZZVB5ZFN6NHNSMnY2MUtNLWdhX192ZUlZdTUtb2QzZ1hnR01lY05iUkVObFU2X01XQW5RX3Fyd2ZXWVRmT3dBM19VdzNiQlJudXBYM3hGMUxYVVB6cWpLcnJiX1o0VWJ6WkdlOWNoVHdOMDVIOVE1LUVRbGNTbmtkQWtQamFlY2xDQWpabzR6T084NTdMOHNnOGN2S3p4VHZlVF9zRElEajUwTkNWbzNPTng?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "The Sleep Company’s Insight into Demand for Smart Comfort Solutions - MarkHub24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVBjZjNNZE9KOC1EbUtPYnhpRHFfNk8xQ3FUbjI1QUY5a0stYjh0TkxNRWlSSW5mRWFkMWsxMkF3XzdRSXEwWnhkM0tJQlpXZDBLNEJWNFVwNmlhNzdfV25obzBzZXNKMTkwbWhnNGZZcEo0N05QR1FzYmVRNXp3YUFnOEhYUi1zUlNwWDc2aGlmR2FYc0JhX3ZUNm9jSmc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "The Sleep Company partners with Unicommerce - Adgully",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTlpV01jU3dLaGVEcGNIbm1UczBGeXFoSFBVY0ZkVGVQZ2UtSzFZREJqa3RzS1lYczR0cGx4c295bVNMajdxMzA5a0ZWZHYzY1F2eTc3RzUyRGViUjJCU24wYzh3aENBN21VbVc1bVFtWEtvOXU4LXFKcXhGUkdseHZVUDI?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -252768,9 +252806,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-25T04:27:07+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (Asks 4-8 years experience and an MBA from a premier institute; Shlok has ~1.3 years and no MBA.)"
     }
    ],
-   "updated_at": "2026-11-23T15:26:35+05:30",
+   "updated_at": "2026-11-25T04:27:07+05:30",
    "research_attempt": {
     "at": "2026-11-24T02:13:15+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
@@ -252780,7 +252824,8 @@
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Asks 4-8 years experience and an MBA from a premier institute; Shlok has ~1.3 years and no MBA."
   },
   {
    "id": "L1979",

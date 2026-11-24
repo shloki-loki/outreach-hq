@@ -10898,6 +10898,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 137 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J1212",
+   "at": "2026-11-25T05:02:56+05:30",
+   "by": "follow-up/track",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "inbox scan failed: abort: socket error: [SYS] unknown error (_ssl.c:2406)",
+   "ref": ""
   }
  ]
 }

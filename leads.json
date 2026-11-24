@@ -42299,7 +42299,7 @@
    "key": "explorex|founder s office|bengaluru",
    "type": "company",
    "company": "Explorex",
-   "company_domain": "",
+   "company_domain": "explorex.co",
    "company_url": "https://explorex.co",
    "company_linkedin": "https://www.linkedin.com/company/explorexinc",
    "company_note": "YC Summer 2020 · team of 25 · Ecosystem Platform for Restaurants in India",
@@ -42307,7 +42307,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "explorex:company",
    "source_url": "https://www.ycombinator.com/companies/explorex",
@@ -42338,8 +42338,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 52,
+    "total": 53,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -42349,15 +42349,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office speculative note at Explorex (25 people, breakeven); pay and open role unstated.",
+    "fit_notes": "The posting asks for general interest via a speculative note to founders for a restaurant ecosystem platform (Bridge OS, Clyro, ReserveX) powering 250+ partner restaurants. It does not state specific years, skills, or an MBA/consulting requirement. Shlok's supply chain and operations facts ([sop], [ceo-coo]) show high-growth execution, but there is no specific job description to map against.",
+    "pay_notes": "Pay is not stated in the posting or company evidence, and Rs 24.5 LPA fixed cannot be verified.",
+    "culture_notes": "Team of 25, YC Summer 2020, operating at breakeven with 250+ partner restaurants in Bengaluru and Hyderabad. No specific ratings or culture flags found in evidence.",
+    "hook": "Today, Explorex powers 250+ partner restaurants and 3M+ diners across Bangalore and Hyderabad, processing 8M+ transactions annually.",
+    "hook_source": "https://www.ycombinator.com/companies/explorex",
+    "researched_at": "2026-11-24T16:22:23+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -42408,14 +42415,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T16:22:23+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (Speculative cold note to founders with no named opening, zero pay evidence, and no explicit role fit for his supply chain/operations background.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-24T16:22:23+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "Speculative cold note to founders with no named opening, zero pay evidence, and no explicit role fit for his supply chain/operations background."
   },
   {
    "id": "L0304",

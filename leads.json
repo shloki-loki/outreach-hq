@@ -42437,7 +42437,7 @@
    "key": "morphle|founder s office|bengaluru",
    "type": "company",
    "company": "Morphle Labs",
-   "company_domain": "",
+   "company_domain": "morphlelabs.com",
    "company_url": "https://morphlelabs.com",
    "company_linkedin": "https://www.linkedin.com/company/morphle/",
    "company_note": "YC Winter 2020 · team of 65 · Robotic Automation for cancer diagnostics - Robotic Microscopes &…",
@@ -42445,7 +42445,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "morphle-labs:company",
    "source_url": "https://www.ycombinator.com/companies/morphle-labs",
@@ -42461,7 +42461,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "",
+   "jd": "Morphle Labs: Robotic Automation for cancer diagnostics - Robotic Microscopes &… | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › Morphle Labs \n Morphle Labs\n Robotic Automation for cancer diagnostics - Robotic Microscopes &…\n Y Combinator Logo Winter 2020 \nActive\n Hardware\n Robotics\n Health Tech\n Medical Devices\n Automation\n Company \n Jobs 1 \n https://morphlelabs.com\n Robotic Automation for cancer diagnostics - Robotic Microscopes &…\n Active Founders\n Rohit Hiwale Founder\n A product geek & a hard tech enthusiast solving unique problems in vision guide robotics starting with medical devices.\n Rohit Hiwale Founder\n A product geek & a hard tech enthusiast solving unique problems in vision guide robotics starting with medical devices.\n Jobs at Morphle Labs\n View all jobs \n Senior Software Engineer \n Bengaluru\n ₹2.5M - ₹4M INR\n 3+ years\n Apply Now › \n Morphle Labs \n Founded: 2017 \n Batch: Winter 2020 \n Team Size: 65 \n Status: \nActive \n Location: Bengaluru, India \n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -42476,8 +42476,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -42487,15 +42487,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Speculative Founder's Office note to Morphle Labs (team of 65); only a Senior Engineer role is listed.",
+    "fit_notes": "The posting lists no active Founder's Office or strategy role; the only open position is a Senior Software Engineer asking for 3+ years and software engineering skills which do not match Shlok's S&OP/operations profile.",
+    "pay_notes": "Pay for the Founder's Office role is not stated. (The listed Senior Software Engineer role pays ₹2.5M - ₹4M INR, but that is a different role).",
+    "culture_notes": "Team size 65, YC Winter 2020 backed. No formal ratings or culture flags found in the evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T16:22:37+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Morphle Labs website",
+      "url": "https://morphlelabs.com"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -42533,14 +42546,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T16:22:37+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (No named Founder's Office opening exists on the careers page; the only listed job is a Senior Software Engineer role requiring 3+ years and paying ₹2.5M - ₹4M INR.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-24T16:22:37+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "No named Founder's Office opening exists on the careers page; the only listed job is a Senior Software Engineer role requiring 3+ years and paying ₹2.5M - ₹4M INR."
   },
   {
    "id": "L0305",

@@ -573,11 +573,11 @@
     "contacted": 108,
     "new": 1175,
     "rejected": 574,
-    "replied": 7,
+    "replied": 8,
     "skipped": 4,
     "interview": 1,
     "qualified": 45,
-    "followup_due": 84,
+    "followup_due": 83,
     "to_approve": 38
    },
    "by_source": {
@@ -604,16 +604,16 @@
    "emails_sent_total": 377,
    "emails_sent_today": 131,
    "cold_sent_total": 297,
-   "people_replied": 8,
+   "people_replied": 9,
    "bounces_total": 18,
-   "reply_rate": 0.027,
+   "reply_rate": 0.03,
    "bounce_rate": 0.048,
    "applied_total": 27,
    "referrals_sent": 0,
    "interviews": 1,
    "offers": 0,
    "to_approve": 0,
-   "followups_due": 84,
+   "followups_due": 83,
    "new_leads_7d": 509
   }
  }

@@ -56578,9 +56578,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T19:25:13+05:30"
    },
    "notes": [],
    "timeline": [
@@ -56637,9 +56638,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Ankur Singh"
+    },
+    {
+     "at": "2026-11-24T19:25:13+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T18:47:03+05:30",
+   "updated_at": "2026-11-24T19:25:13+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56746,9 +56753,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T19:25:13+05:30"
    },
    "notes": [],
    "timeline": [
@@ -56805,9 +56813,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Aastha Rajpal"
+    },
+    {
+     "at": "2026-11-24T19:25:13+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T18:49:06+05:30",
+   "updated_at": "2026-11-24T19:25:13+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -57732,9 +57746,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T19:25:13+05:30"
    },
    "notes": [],
    "timeline": [
@@ -57791,9 +57806,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Gyanesh Sharma"
+    },
+    {
+     "at": "2026-11-24T19:25:13+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:16:01+05:30",
+   "updated_at": "2026-11-24T19:25:13+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -57900,9 +57921,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T19:25:13+05:30"
    },
    "notes": [],
    "timeline": [
@@ -57959,9 +57981,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Puneet Gupta"
+    },
+    {
+     "at": "2026-11-24T19:25:13+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:17:24+05:30",
+   "updated_at": "2026-11-24T19:25:13+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

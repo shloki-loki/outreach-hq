@@ -9809,6 +9809,15 @@
    "title": "Sending M0437 failed",
    "detail": "SMTPServerDisconnected: Connection unexpectedly closed: The read operation timed out",
    "ref": "I0103"
+  },
+  {
+   "id": "J1091",
+   "at": "2026-11-24T12:27:09+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "Sending M0438 failed",
+   "detail": "SMTPServerDisconnected: Connection unexpectedly closed",
+   "ref": "I0104"
   }
  ]
 }

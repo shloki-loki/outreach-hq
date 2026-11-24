@@ -571,13 +571,13 @@
    "by_status": {
     "applied": 9,
     "contacted": 170,
-    "new": 1162,
-    "rejected": 572,
+    "new": 1160,
+    "rejected": 574,
     "replied": 6,
     "skipped": 4,
     "interview": 1,
-    "qualified": 62,
-    "to_approve": 60
+    "qualified": 61,
+    "to_approve": 61
    },
    "by_source": {
     "linkedin_post": 58,
@@ -598,8 +598,8 @@
     "3 - APM / Analyst": 61
    },
    "qualified_total": 82,
-   "researched_total": 701,
-   "with_email_total": 1023,
+   "researched_total": 703,
+   "with_email_total": 1025,
    "emails_sent_total": 302,
    "emails_sent_today": 56,
    "cold_sent_total": 292,
@@ -611,7 +611,7 @@
    "referrals_sent": 0,
    "interviews": 1,
    "offers": 0,
-   "to_approve": 0,
+   "to_approve": 1,
    "followups_due": 0,
    "new_leads_7d": 494
   }

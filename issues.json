@@ -1453,7 +1453,7 @@
    "opened_at": "2026-11-24T12:27:09+05:30",
    "last_seen": "2026-11-24T12:27:09+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Same as I0102: SMTP connection closed. M0438 is back to approved and will be retried by the next send runs (max 3 tries). Resolve once M0436-M0438 show sent.",
    "resolved_at": null
   },
   {

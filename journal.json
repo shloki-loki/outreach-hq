@@ -10304,6 +10304,15 @@
    "title": "Diagnosis: Sending M0437 failed",
    "detail": "Same as I0102: SMTP read timeout, email never left. M0437 is back to approved and will be retried by the next send runs (max 3 tries).",
    "ref": "I0103"
+  },
+  {
+   "id": "J1146",
+   "at": "2026-11-24T20:12:39+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Sending M0438 failed",
+   "detail": "Same as I0102: SMTP connection closed. M0438 is back to approved and will be retried by the next send runs (max 3 tries). Resolve once M0436-M0438 show sent.",
+   "ref": "I0104"
   }
  ]
 }

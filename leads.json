@@ -43939,7 +43939,7 @@
    "key": "vahan|founder s office|bengaluru",
    "type": "company",
    "company": "Vahan",
-   "company_domain": "",
+   "company_domain": "vahan.ai",
    "company_url": "https://vahan.ai",
    "company_linkedin": "https://www.linkedin.com/company/vahan-inc-",
    "company_note": "YC Summer 2019 · team of 85 · AI recruiter for India's massive blue-collar workforce",
@@ -43947,7 +43947,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "vahan:company",
    "source_url": "https://www.ycombinator.com/companies/vahan",
@@ -43963,7 +43963,7 @@
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Vahan: AI recruiter for India's massive blue-collar workforce | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › Vahan \n Vahan\n AI recruiter for India's massive blue-collar workforce\n Y Combinator Logo Summer 2019 \nActive\n AI\n Company \n Jobs 4 \n News \n https://vahan.ai\n AI recruiter for India's massive blue-collar workforce\n Active Founders\n Madhav Krishna Founder\n With a background in AI and Machine Learning, Madhav is passionate about using technology to create large scale impact. Vahan connects millions of workers with job opportunities and is supported by investors like Y Combinator, Khosla Ventures and Bharti Airtel. Recognized as a Technology Pioneer by the World Economic Forum, Madhav is committed to transforming the future of employment in India and beyond.\n Madhav Krishna Founder\n With a background in AI and Machine Learning, Madhav is passionate about using technology to create large scale impact. Vahan connects millions of workers with job opportunities and is supported by investors like Y Combinator, Khosla Ventures and Bharti Airtel. Recognized as a Technology Pioneer by the World Economic Forum, Madhav is committed to transforming the future of employment in India and beyond.\n Latest News\n OpenAI backs Indian startup Vahan's tech to automate blue-collar hiring with voice AI - The Economic Times \n May 04, 2025\n Vahan: Recruitment platform Vahan raises $10 million in funding led by Khosla Ventures - The Economic Times \n Sep 18, 2024\n Vahan bags $8 million funding led by Khosla Ventures - The Economic Times \n Sep 14, 2021\n Company Launches\n Vahan - Super cheap data annotation service\n See original launch post \n I run a company called Vahan (Khosla Ventures backed) where we’re building India’s largest labor marketplace for the gig-economy. I have a Masters in Artificial Intelligence from Columbia University.\n Problem \n AI startups have massive data annotation needs. Current solutions charge hundreds of dollars an hour to fulfill these, basis complexity.\n Solution \n Vahan has access to a pool of over 6M gig-workers in India. We are able to farm out data annotation tasks to this pool and get them done at super low costs (5-10X cheaper based on use case) since these workers are based in India, while guaranteeing high quality.\n Interested? please reach out by writing to me at madhav@vahan.ai .\n Jobs at Vahan\n View all jobs \n Lead Product Designer \n Bengaluru, KA, IN\n ₹4M - ₹6.5M INR\n 6+ years\n Apply Now › \n Senior Product Manager \n Bengaluru, KA, IN / Bengaluru, Karnataka, IN\n ₹3M - ₹6M INR\n 6+ years\n Apply Now › \n Director of Product \n Bengaluru, KA, IN\n ₹6M - ₹8M INR\n 0.25% - 1.00%\n 11+ years\n Apply Now › \n Lead AI Engineer \n Bengaluru, KA, IN / Bengaluru, Karnataka, IN\n ₹3M - ₹6M INR\n 6+ years\n Apply Now › \n Vahan \n Batch: Summer 2019 \n Team Size: 85 \n Status: \nActive \n Location: Bengaluru, India \n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -43978,8 +43978,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -43989,15 +43989,61 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office speculative note at Vahan, but pay and open roles are not stated.",
+    "fit_notes": "The posting asks for a speculative outreach to founders at Vahan (AI recruiter for blue-collar workforce, YC S19, team of 85) [msl source context]. While Shlok has strong Strategy & Operations experience at Ola Electric ([sop], [ceo-coo]), this is a speculative application with no explicit role, no stated pay, and no clear years requirement.",
+    "pay_notes": "Pay is not stated in the posting for a speculative founder note.",
+    "culture_notes": "Y C S19 backed startup, team size of 85 [S1]. Culture flag: Vahan team is highly proactive and structured in their approach [S1].",
+    "hook": "Vahan recently fine-tuned NVIDIA Nemotron for blue-collar hiring, showing rapid scaling in voice AI recruitment.",
+    "hook_source": "https://vahan.ai",
+    "researched_at": "2026-11-24T16:23:30+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Vahan website",
+      "url": "https://vahan.ai"
+     },
+     {
+      "id": "S2",
+      "title": "Vahan Sales Snapshot: May 2026 - Autopunditz",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53YzJPZnVwbGFpWUxhRzRaRzNfS1J2YUhkaFZEWWlmTEVZU0xicXRJbHpuUXdNcTB4dFpkbmpWRGwwWkdNMUlqWnFzSmh5WG1aR3I0VkVtT0FYcXJ0NF9uekNfREhfRUFxYlhFTGpmOA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Technical snags in Vahan, Sarathi portals hit Kerala MVD - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXJEYk9OWWVJVlBidmdJY09TQzlqWHhMVFYzelVDSzBkcDJZZUhsNU5sZDV6Q2Y3NThtYjdlQUFpbzNYdzlsTzVtR2F1QTZiR2kzVUJFQjhEdFRJNWNjdXZJV3hJRW5uSHBvNkU5bU5VRC1oLXFMbXlRSnphVzhTbi1iT0pUX241bS1XRFRqdm9WWUcyMmVRUG1lNnZHbUY5Nl9XMElzS2ROR2dUNWgzY2VJME9KenZwU0lNS2xn0gHEAUFVX3lxTE5Cb3FYRDBKc1doWFpxSC1fQXpVM3MybVNSNHhLbTFETjc4cWdrdEpjanVTaUhEZUZIVGhlVGU5OWVCY3pzbGxpcWJxbkF6NFE2RERWYm16LVhHOHBGRC05THZiNWg5am4yamYyamNhTzNaSUs0NUM2blZYdHZBaGdSRDd6NjJSMXpaSEdudlV0SnFTZzljdnlySjVJX3Q5X00xN3ZZUWVTY1JrS3hHZnNnZWY2TG40ZTV3RU9FWHJwR0o3TGg?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Driving on broken data: Why India’s clean-air and EV push cannot outrun VAHAN’s cracks - Down To Earth",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTVB2bDFBZElIYWFYUWJaTXI3Q3NBNVVWblZwR0VxUTJIek9NTkJQdUkyNmdOWllta29uQWo2RW9IcnYybnRzZGZZcVQ5Zk1OdWJNXzJDRmd0WUxLRFF6ZVBxY1JyZi1uMWt3R1RpdDQyaEU1SThORGlWOUFNRnpOXzdvbUs5UzhKSUZpdUFseDR5NGJ1aGY5MHJPejBTTkFzX3NPTGdJSW12WldoeGpSbnFiaHl4ZHFsU1HSAccBQVVfeXFMUFNmSld2SldGcEY2amlzVDdvYkllZTZSMkl6a2tJZDRDWFI5emo0WV9sWjducV8tWTl5UVVsTXg5TjlaUUtuNXpXWE85RTFxMEFNRlU4MWxuMUJqMlJJNFhfZm1mRFdrdGh6M0JISVNBVC02SzV1VzdaM2NjZnZfZnB4TDRSQXZVYXV2SmRUbDZKb1BIR29OcGd2ZWh4MkRTRzJ0OW9ETWt6RWFjMHNCeWlScGdXcG1RdUN5MjRkM2lTUG9SS3N0NA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "BMW Becomes India’s No.1 Luxury Carmaker In H1 2026: Vahan Data - Autocar Professional",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTRjek5vN3Bnd2o0RlIya2x3RUlTU0s0dUdqakltZ3VVUG1BQnNpcTI4N3NGYmtyMzl1OUdVZVphWVJOZGVoTWgtTnp6aUQ5WTJ3RjVZX2NvWldBbFR5QXNGaktLOXhWZlB2a1dKdGY3S2dtVG05bzl5S2djWmRJdHdEa3dBdVZFUDFqbk1UMzZnajI4LUFNcHRiQzJIWXfSAacBQVVfeXFMTV91bVRlSk15VlBBM1hZb2lQX1o4TVUyU1A2Ym9xcUtld3UwdXg0YUxRNDg4SkhPbFR5UmVJc09iQmJaRGwycEEtWEtaZnNSWXBMUmJXYmZ1cTdWNy1YNmNRR3NydDFhR21FajVnQS1aeWFnUGdkV08yTW1LSVlGSkhyT21uZWVNdXQyZ0xuSG5BNUU2eWhUN25hOVlHSDJTRy1MVGRDS1E?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Vahan.ai uses Nvidia AI to speed up blue-collar hiring - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVUlDekI1N0JMMGxZaHVmMzBqN2RQcEJHTHY5T1FIa1JDMXE3d0RHSWdra0JDODBPV1ZSUEQ3R2dlMDlWN2lTLVlzTndvUmNubnBPYWFqS2ZfQ2hMN1h4ZG04S0hJQi1jaURId2hZODFEdm9BcW44d0FXRjVZYmRQalJqU29NRWZEd1dxNg?oc=5"
+     },
+     {
+      "id": "S7",
+      "title": "Arte Mediatech wins creative & digital mandate for Vahan.ai - afaqs!",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1Z5WE5QTzMzMjAzSEpObzRvNHFSd1RhMi1pYUgtaURTZFlBNXVqbXJNUGc2djQzMkZkMGwxNFJTNVh5SlE1d0F2TnN0YTJBM0ZhWU82T0hzQ2ltTXFhc2QxY2FncGw5T3BYV00yVEJKa2k5TnZFUEIxU2hxSjA3NGZnSXNTemNfVUlTcEpYQlMtcVk4TUhhczFRTGlBdm5QZWdBTHpn?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -44035,14 +44081,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T16:23:30+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (Speculative note to founders with no named opening, pay not stated, and experience not stated, making it too speculative for a firm 24.5 LPA target.)"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30",
+   "updated_at": "2026-11-24T16:23:30+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "Speculative note to founders with no named opening, pay not stated, and experience not stated, making it too speculative for a firm 24.5 LPA target."
   },
   {
    "id": "L0317",

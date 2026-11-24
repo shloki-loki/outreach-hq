@@ -260548,15 +260548,15 @@
    "key": "juspay|associate product manager|bengaluru",
    "type": "job",
    "company": "JUSPAY",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "juspay.in",
+   "company_url": "https://juspay.in",
    "company_linkedin": "https://in.linkedin.com/company/juspay-technologies",
    "company_note": "",
    "title": "Associate Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494318099",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-juspay-4494318099",
@@ -260587,8 +260587,8 @@
    },
    "score": {
     "rules": 80,
-    "research": null,
-    "total": 80,
+    "research": 48,
+    "total": 61,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -260599,15 +260599,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Juspay APM in Bengaluru asks 1-3 yrs PM experience and an MBA; your 1.3 yrs is in S&Ops at Ola Electric without an MBA.",
+    "fit_notes": "The posting specifies 'MBA with 1-3 years of professional experience in Product Management' under preferred qualifications, alongside SQL, data analysis, and payment domain knowledge. Shlok has 1.3 years of experience total in Strategy & Operations ([sop], [ceo-coo]) rather than full-time Product Management. He lacks an MBA and payment domain expertise, though his Flask/SQL technical work ([idekho]) aligns with Juspay's hands-on product culture.",
+    "pay_notes": "Pay is not stated in the job description, and no verified pay figures for Juspay were provided in the evidence.",
+    "culture_notes": "The job description highlights a liberal, engineer-centric environment with musical instruments (piano, drums) and books, but no third-party Glassdoor or AmbitionBox ratings were found in search evidence.",
+    "hook": "Juspay FY26 revenue rises 30% to ₹664 crore as international business and AI bets scale.",
+    "hook_source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHZfeXdzUGgwLXk0UXpNZkNBZ05ydWluTFFScG5uVm9zdW91aV9KUm95YWk3S25CTlpLbjdEcGdlUkNyNlBoRzh6R2d5VHYzMURsSVlUTHJIeGRmeVhRVm10LWZCTWVDbUY0V3ZDZklsZWZWaVJYLWV0dFZGSm9SN0VZZGY0RTVSY05fYWZlMlU4QmMzcVZzc0trU2lyVkFScFVYejM2emwtSkIxeEs0bk5fT0tLd3M?oc=5",
+    "researched_at": "2026-11-25T04:20:05+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Al-Futtaim Partners with Juspay for Unified Digital Payments - FinTech Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmZENk9zYTR6QjVzMXc0ODlnd2RwUGtWNnpreUlrZUl6WFRXdkJpOEh1OFlDbjd5cXFvWkdzMzBRcGFUTGlEWXdhSjA5UlFqUnphdGEzTkkzb2lRclNCS29xRS1kT2Z6eHdZVld2MEFlRm80ZW5uSnZxU2lDLWk2bERKZU1VZkRmVmc5NzgtQ1lMZ3doU2wyUQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Juspay FY26 revenue rises 30% to ₹664 crore; reports ₹90 crore net loss - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2MtcTN4N1dsRGw2OGEzUUFjRXNBRE5ScTFPRGVwLU1UYXNNdUVsQXFJeU9qYTd2N3QxVnVZWHJXSDhPSkVidm9IMzZUbFdTMTFLNGY5emNQVWltMEozR3ZjbWxQV1pZOHFHeVBKN2VUTXZQZ2NPTG1LUHlhMEtmUWEzV2ZDZWdHN1hUcEhmd2lGUzQ1SVVvUTUzWGU5ZnRDYXlURkdvNUgwWFpEdm9Cbkg4bndwOHA4OGhrbHdlOWJHYnVhZk9Fb1R0VTFnVnpSWW9XdjVvVzlIQdIB4AFBVV95cUxOWVltTk11VmFhd29wdEtPUEF1M0JEZGsyS3NMUEdzWUZfeUczSG5HNHdhMDNiT3F4MVpEUVVablNySnNJR0toOE0zTTBmaDZoWklSSXhmX19nS1VJM01Xa2dWUmpBYWFvaHlOM292OVFzWW9XcDNOUFJ0WjJHMDFhdXhHdUk1NGY4MWtkS3NJSWhUVFNZYXl3anRONFQzcloxZHFfWWV5d0hkVE5QRnZUR3Iwd09QTi1yWFpxTFpPTnEwRV9KRUpZNmgzOHlRUUhIUm0zYWV4dkc0bER1UDRvMg?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Juspay rolls out platform to improve brand discovery across AI interfaces - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaDZRV3lGanhnRHdiVkZSMGZiczBJR2RLNlZLeTY3d1NKUTN3dEF4Y01YRzFYNFo5eVVvZ1Q4Y1RnS091bDVDcy1ZMmVJLUI5XzdGQWZnM2dzMEZlN1ZzcV9ZRXRDWldWSVhmQ0tyOGxXR1E2U2I5R0c4dnJmSk56SURRVGdRaERBNGt5R0N5dzhZYWR1RklGVUVaV2xvQlZDVmY3cjV4aGJNaktTOVRJcHFLMGZkQmZDTm93OVlTSmxaNFJOZmxoa09YM1k4cE8tN3FwYjFKbHdnd9IB3wFBVV95cUxNVVFSWG5SWllnVnc5ZkxTRlpaT0VaNXNUOUNFVmI2NjFCUURWckowMXhabTl4VU52aEJVN2ZaVUFZVHduUTUyNjVlZEIzQk1GQ2FFWXA5U1NpdU5pSWt6UE1xc29Pc2pLSWpjNEppbDhCRHdxZlpQTWdHQ2k2RjB1czhRb21PZGdtcThSUjZtR0dBM2xIYVlRaTd5aUxTYTlBWUtwZk1YOHAxUnV6Um1TNU9yYm1vMVEyUVY1dWwwLXl1aGNDZUJ6eC1QdE96MFFPTGYwV29saWFTSGJSWUNJ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Juspay FY26 revenue rises 30% to Rs 664 Cr as international business and AI bets scale - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHZfeXdzUGgwLXk0UXpNZkNBZ05ydWluTFFScG5uVm9zdW91aV9KUm95YWk3S25CTlpLbjdEcGdlUkNyNlBoRzh6R2d5VHYzMURsSVlUTHJIeGRmeVhRVm10LWZCTWVDbUY0V3ZDZklsZWZWaVJYLWV0dFZGSm9SN0VZZGY0RTVSY05fYWZlMlU4QmMzcVZzc0trU2lyVkFScFVYejM2emwtSkIxeEs0bk5fT0tLd3M?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Juspay expands global payments business as AI investment ramps up - FinTech Global",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXVJUkNQUGl5bWN1OU5GTGtaaGxpR1NGUmdVZUt2b0hVU2NtUnczZDFMLU81OGRaVVEtYUxHUVN0TWFxOFZBMVQ1RFJ2Y2NxWGRjTVFMWThJSTJhZTJ5YlpUMWJ5LUVuOFdNeHNxei1BWjA1TDZ3am9rMER5SEV4RVA3NUtneHBNdlFhakRhd1liM1hVY25Vc1NubF9TLVE2bnc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Juspay Joins Mastercard Engage Network to Accelerate Global Adoption of Click To Pay - FF News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWdIY0NOTTE1bnBIakFZZFpDQXpXUG9tNC1oQmQ0SmxFeVZPLTZFWnVHLUk0MW5RYlJzZk5Kenc3VXoyM0JuQmkwd2xwakRmQjh0dy1WR3hTRU5ad1NFbXotQTlTMnpmSnFuS0hWVTFZRV9McGZVRjJXWUhQWlBfQkg1ajM0UEtBd2tmSHdFZmc1LXltS1o3QWN3eFJiTlJ0RUZHb0ZRY0FLQkNl?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -260631,9 +260671,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 80"
+    },
+    {
+     "at": "2026-11-25T04:20:05+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 61: rejected (Asks for 1-3 years of professional experience in Product Management and prefers an MBA; Shlok's 1.3 years of full-time experience is in Strategy & Operations at Ola Electric, and he does not hold an MBA.)"
     }
    ],
-   "updated_at": "2026-11-24T17:20:44+05:30"
+   "updated_at": "2026-11-25T04:20:05+05:30",
+   "reject_reason": "Asks for 1-3 years of professional experience in Product Management and prefers an MBA; Shlok's 1.3 years of full-time experience is in Strategy & Operations at Ola Electric, and he does not hold an MBA."
   },
   {
    "id": "L2052",

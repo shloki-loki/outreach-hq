@@ -261860,7 +261860,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494125711",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-huntingcube-4494125711",
@@ -261891,8 +261891,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 40,
+    "total": 54,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -261902,15 +261902,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "APM for higher-ed SaaS via HuntingCube, asks 1-2 yrs exp; your InsuranceDekho tech PM internship and IIT B.Tech background fit.",
+    "fit_notes": "Posting asks for 1-2 years in product management/engineering/business analysis, an engineering degree, basic SQL, and prior PM internships. No MBA or consulting background required. Matches your B.Tech from IIT Guwahati, SQL skills, and technical product internship at InsuranceDekho [idekho] where you built Flask APIs and extensions.",
+    "pay_notes": "Pay is not stated. 1-2 year APM roles at non-tier-1 product firms rarely hit the Rs 24.5 LPA target.",
+    "culture_notes": "Posted by HuntingCube, a recruitment agency, for a higher-education SaaS client. No company culture metrics available.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T04:20:48+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "idekho",
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -261934,9 +261944,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-25T04:20:48+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 54: rejected (score 54 is under 60)"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30"
+   "updated_at": "2026-11-25T04:20:48+05:30",
+   "reject_reason": "score 54 is under 60"
   },
   {
    "id": "L2065",

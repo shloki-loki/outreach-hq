@@ -250903,8 +250903,8 @@
    },
    "score": {
     "rules": 75,
-    "research": null,
-    "total": 75,
+    "research": 10,
+    "total": 36,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -250914,15 +250914,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Career Shifts Consulting Founder's Office associate, asks 3+ yrs; coordination of proposals for a small coaching firm.",
+    "fit_notes": "Opened posting 2026-11-24: 3+ yrs ops/project coordination at small leadership consulting firm; no pay stated; no strong fit with facts.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T12:32:24+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -250946,9 +250948,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 75"
+    },
+    {
+     "at": "2026-11-24T12:32:24+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 36: rejected (Asks 3+ years, consulting-firm coordination role, admin-heavy)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30"
+   "updated_at": "2026-11-24T12:32:24+05:30",
+   "reject_reason": "Asks 3+ years, consulting-firm coordination role, admin-heavy"
   },
   {
    "id": "L1999",

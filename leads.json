@@ -251162,15 +251162,15 @@
    "key": "amazon|business analyst i whs wese|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.com",
+   "company_url": "https://www.amazon.jobs",
    "company_linkedin": "",
    "company_note": "",
    "title": "Business Analyst I, WHS WESE",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4476511375",
    "source_url": "https://www.linkedin.com/jobs/view/4476511375/",
@@ -251201,8 +251201,8 @@
    },
    "score": {
     "rules": 64,
-    "research": null,
-    "total": 64,
+    "research": 57,
+    "total": 60,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -251212,15 +251212,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Analyst I at Amazon (Bengaluru, asks 1+ yrs); your SQL proficiency and automation work [idekho] map directly to their WESE analytics mandate.",
+    "fit_notes": "The posting asks for 1+ years of experience in tax, finance, or analytical fields, strong SQL/ETL skills, Python/automation, and BI tools. Shlok's technical product work building Flask APIs and browser extensions [idekho], along with SQL skills and analytical S&OP optimization [sop, o2d], directly meet these requirements without any MBA or consulting prerequisites.",
+    "pay_notes": "No pay numbers are listed in the job posting or verified company evidence.",
+    "culture_notes": "Amazon is a global enterprise; specific Glassdoor India ratings for this division were not provided in the search context.",
+    "hook": "Saw that Amazon's WESE Insight and Analysis team is scaling AI tools and data mechanisms across 20+ critical global safety initiatives.",
+    "hook_source": "https://www.linkedin.com/jobs/view/4476511375/",
+    "researched_at": "2026-11-24T16:00:22+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "YouTube Shopping Creators can now tag Amazon products - blog.youtube",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOThsdTdVT1hwNy1HSXliRXZoWmdWdWoxMElBUjE4TXZ6WnAyQktvRjhtZ3U4ekxlcWJwWnNwcE9WZi0yX2paMGtpRmJhaFZnZGd3LUdyUGVRa3AxcHlUcG1VbE1QUkRpSU5OWEpXSUdjS3dKclpPVU5WY0IycDQzeWc5allIR1E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amazon to invest additional $13 billion in India cloud, AI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjc3RVFRSkZPMUtsVDFNeXp3cFl5dnZ0LVVSd0x6VjlrdXdWUkxmZ1RsQUN4ZTZnbVlSb2w5bDd1UGhoOTBxcXlaS2Y5QkJJNWJJTDVoZkFXYUlLRl85MWhkcUFTcjVLT0VvbVlhaElvZFRqWWU1aXBYV1QzLW1fdnl6RnRXc05qeEZsRGVwYzFydzg?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Amazon Is Said to Pay $7.5 Billion For AI Startup Decart’s Tech - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEtGbThuSmc5SGd2SmJVQjZDSTFPNVVpMjJ5TG10OTA5dWlTNUFnRUtSbTBxOW1WYUtOdGZoWGxySDNHb1BYVjQ0SVhxQlBfYTB4aFhCWFRHSVBnS21XQ1FpS1dYb2p4cGxzb2k4VjJzU1JmVnB1MzktempwZXRyYWw0VFpyR3gtOFFVaVhPdWszS3A1THNRV2RPS3hFNXJ3ZXlkMEY4Um1CZjQ1VmxUNDN3RQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "The Amazon can be saved — with concerted action inside and outside Brazil - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Mbl8tTTBlQUo0VmRuX1RlLXFLSVBiMHk0LXBPaERKQlBHT3BHM09xTGNYTmEzNFhYR1FrU2ZsbHNDcE1vY3FkVmcxam12NHY5X0dSWm83anZ4RjdpWUR3?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "MCP Auto-Execution: From Git Clone to Cloud Compromise in Amazon Q VS Code Extension - wiz.io",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMnY3X1VtaTFaZ3ZJQzdnaHU1ejN5TVUzTy1Ya0RlN25vVmJERUppa2Z3bzdXbEZuSVg3VkRMcFdxdVhVZk5wYk8zSlNkZEd4LS1oeGw0dFRXZw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho",
+     "sop",
+     "o2d"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -251244,14 +251286,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 64"
+    },
+    {
+     "at": "2026-11-24T16:00:22+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 60: qualified"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-24T16:00:22+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1996",

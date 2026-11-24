@@ -208894,9 +208894,9 @@
    },
    "stage": "qualified",
    "outcome": null,
-   "applied_at": null,
+   "applied_at": "2026-11-24T19:50:50+05:30",
    "apply": {
-    "status": "not_started",
+    "status": "applied",
     "notes": "",
     "answers": {}
    },
@@ -208949,9 +208949,15 @@
      "actor": "people-finder",
      "event": "contact_added",
      "detail": "Ayyappan R (hiring_manager, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-24T19:50:50+05:30",
+     "actor": "shlok",
+     "event": "applied",
+     "detail": "application submitted"
     }
    ],
-   "updated_at": "2026-11-23T20:23:06+05:30",
+   "updated_at": "2026-11-24T19:50:50+05:30",
    "research_attempt": {
     "at": "2026-11-17T23:23:41+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",

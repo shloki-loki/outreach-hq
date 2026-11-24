@@ -250820,8 +250820,8 @@
    },
    "score": {
     "rules": 71,
-    "research": null,
-    "total": 71,
+    "research": 10,
+    "total": 34,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -250831,15 +250831,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Qualcomm Business Operations Analyst, asks 4+ yrs business ops; you have 1.3.",
+    "fit_notes": "JD: Bachelor's + 4+ yrs, or higher levels 6+ yrs. Not met.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T12:32:40+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -250863,9 +250865,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 71"
+    },
+    {
+     "at": "2026-11-24T12:32:40+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 34: rejected (Asks 4+ years business operations (6+ for higher level))"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30"
+   "updated_at": "2026-11-24T12:32:40+05:30",
+   "reject_reason": "Asks 4+ years business operations (6+ for higher level)"
   },
   {
    "id": "L1998",

@@ -261148,15 +261148,15 @@
    "key": "maxlinear|project manager program manager|bengaluru",
    "type": "job",
    "company": "MaxLinear",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "maxlinear.com",
+   "company_url": "https://www.maxlinear.com",
    "company_linkedin": "https://www.linkedin.com/company/maxlinear",
    "company_note": "",
    "title": "Project Manager / Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488098612",
    "source_url": "https://in.linkedin.com/jobs/view/project-manager-program-manager-at-maxlinear-4488098612",
@@ -261172,7 +261172,7 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-25",
    "open": true,
-   "jd": "",
+   "jd": "Responsibilities\n MaxLinear's Analog & Mixed Signal (AMS) Business Unit is seeking an experienced Project Manager / Program Manager to lead strategic semiconductor product development programs from concept through production release. This role requires a strong blend of program leadership, technical depth, business acumen, and stakeholder management to successfully execute complex analog and mixed-signal silicon development programs.\nThe ideal candidate will have 8-10 years of experience in semiconductor product development and program management, with a solid understanding of the end-to-end IC development lifecycle. The role demands close collaboration with IC design, engineering, systems, operations, marketing, quality, manufacturing, and applications teams across global locations to ensure successful delivery of products that meet technical, schedule, quality, and business objectives.\n programs from product conception to volume production. \n Define project scope, schedules, milestones, resource requirements, dependencies, and deliverables. \n Establish program governance mechanisms and lead phase-gate reviews throughout the product lifecycle. \n Drive execution excellence across multiple concurrent projects while balancing technical, schedule, and business priorities. \n Lead collaboration across systems, architecture, design, verification, validation, product engineering, quality, operations, manufacturing, supply chain, packaging, and marketing teams across global locations. \n Ensure alignment of cross-functional stakeholders toward program objectives and key deliverables. \n Facilitate technical and management reviews, decision-making forums, and escalation processes. \n Develop and maintain integrated program schedules and critical path tracking. \n Identify technical, operational, and business risks proactively and drive mitigation plans. \n Monitor program health through key performance indicators, milestone tracking, and status reviews. \n Resolve cross-functional issues and remove execution roadblocks to maintain project momentum. \n Serve as a primary program interface for internal customers, business leaders, and executive stakeholders. \n Communicate program status, risks, mitigation plans, and key decisions to key stakeholders. \n Manage stakeholder expectations while ensuring alignment between customer requirements and internal execution plans. \n Support customer reviews, project updates, and major program milestones. \n Partner with engineering and operations teams to drive successful silicon bring-up, qualification, and manufacturing readiness. \n Support transition from development through validation, qualification, production ramp, and sustaining phases. \n Ensure readiness across supply chain, test, quality, and manufacturing functions for product launches. \n Collaborate with Business Unit leadership and Product Management teams on strategic planning and execution. \n Track program budgets, resource utilization, and operational metrics. \n Drive continuous improvement initiatives that enhance program execution, predictability, and organizational efficiency. \n Qualifications\n 8-10 years of experience in Program Management, Project Management, or Technical Program Management within the semiconductor industry. \n Proven track record leading complex semiconductor product development programs from concept to production. \n Experience working with Analog, Mixed-Signal, Power Management, Connectivity, ASIC, or SoC-based products. \n Strong understanding of the semiconductor product development lifecycle, including: \n Ability to engage effectively with engineering teams and understand technical trade-offs, risks, and development challenges. \n Strong proficiency in project planning, scheduling, risk management, dependency management, and stakeholder communication. \n Expertise in program management tools such as Jira, Confluence, Microsoft Project, Excel & MS Office \n Experience managing geographically distributed teams across multiple time zones – India, Asia Pacific and US. \n Demonstrated ability to influence without direct authority and lead cross-functional teams toward common objectives. \n Excellent executive-level presentation, communication, and stakeholder management skills. \n Strong problem-solving, negotiation, and conflict-resolution abilities. \n Bachelor's or Master's Degree in Electronics Engineering or Electrical Engineering or VLSI or related equivalent technical discipline. \n Preferred Qualifications\n Prior experience in Analog/Mixed-Signal IC design, Product Engineering, Validation, or Applications Engineering. \n Experience managing customer-specific or custom silicon development programs. \n Familiarity with AMS products such as power management ICs, Bridge ICs, serial transceiver ICs, SoC, data converters, interface products, or connectivity solutions. \n Exposure to semiconductor manufacturing, qualification, reliability, and supply chain processes. \n PMP, PgMP, Agile, Scrum, or equivalent project management certifications. \n Company Overview\n MaxLinear is a global, NASDAQ-traded company (MXL) where the entrepreneurial spirit is alive and well. We are a fabless system-on-chip product company, striving to improve the world’s communication networks for everyone through our highly integrated radio-frequency (RF), analog, digital, and mixed-signal semiconductor solutions for access and connectivity, wired and wireless infrastructure, and industrial and multi-market applications.\nWe hire the best people in the industry and engage them in some of the most exciting opportunities that connect the world we live in today. Our growth has come from innovative, bold approaches to solving some of the world’s most challenging communication technology problems in the most efficient and effective manner.\nMaxLinear began by developing the world’s first high-performance TV tuner chip using standard CMOS process technology. Others said we couldn’t achieve the extremely high-performance requirements using CMOS, but we proved them wrong and achieved enduring global market leadership with our designs. Since then, we’ve developed a full line of products that drive 4G and 5G infrastructure; enable data center, metro and long-haul optical interconnects; bring 10Gbit to the home; power the IoT revolution; and enable robust and reliable communication in harsh industrial environments. Over the years, we’ve expanded through organic growth and through several acquisitions that have perfectly complemented our existing portfolio and enabled us to deliver complete end-to-end solutions in our target markets. One such example was the acquisition of Intel’s Home Gateway Platform Division that added Wi-Fi, Ethernet, and Broadband Gateway Processor SoC technology to our connected home portfolio creating a complete and scalable platform of connectivity and access solutions to fully address our customers’ needs.\nOur headquarters are in Carlsbad, near San Diego, California. We also have major design centers in Irvine and San Jose, California; Valencia, Spain; Bangalore, India; Munich, Germany; Israel; and Singapore.\nWe have approximately 1,200 employees, a substantial majority of whom have engineering degrees and include masters and Ph.D. graduates from many of the premiere universities around the world. Our employees thrive on innovation, outstanding execution, outside-the-box thinking, nimbleness, and collaboration. Together, we form a high-energy business team that is focused on building the best and most innovative products on the market.\nSeniority level Not Applicable | Employment type Full-time | Industries Semiconductor Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -261187,8 +261187,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -261198,15 +261198,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Project/Program Manager at MaxLinear, asks 8-10 yrs semiconductor experience; your 1.3 yrs and Ola operations do not meet the requirement.",
+    "fit_notes": "The posting asks for \"8-10 years of experience in Program Management, Project Management, or Technical Program Management within the semiconductor industry\" and a \"Bachelor's or Master's Degree in Electronics Engineering or Electrical Engineering or VLSI\". Shlok has ~1.3 years of experience. While his B.Tech is in Electrical and Electronics Engineering [B.Tech, Electrical and Electronics Engineering, IIT Guwahati] and he has hardware-adjacent production planning experience [cell], the 8-10 years experience requirement is a hard block.",
+    "pay_notes": "Pay not stated in the posting or fetched evidence.",
+    "culture_notes": "MaxLinear is a global, NASDAQ-traded semiconductor company (MXL) with approximately 1,200 employees. No specific culture ratings or employee reviews found in evidence.",
+    "hook": "MaxLinear recently unveiled its Control-Plane Portfolio for next-gen AI infrastructure.",
+    "hook_source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTjNMaWJwYVNrbGVxRHFES1lrdVNlUlhuWjJsbzluRjhqZHJCemhHOVRzVE9VMHVscEw0RnhrSHp2OXFURC1qN1ViRjd0eVRvM2RHRE1zZGx6QTd3aXViQmxjS1hZWUFEanZNQ2JYNVQ1UjF0V09oU3BTZmFmTlBjSmtKdV9RbDJQeEs4VVphUjRtR2gxa1pqR3FrT0pQazJkRFZnN3UtbC1HSVFDSzA5eg?oc=5",
+    "researched_at": "2026-11-25T04:30:03+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "AI data-centre demand drives MaxLinear’s Infrastructure growth outlook - S&P Global",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEJUdXI1a2h1djlaVWd2V0s4V0YwWVJ5U19CZTJTSFlwVVhLd3h6TTlwd2doSUVWYkgwc3cxS3ZjdjluM2dmMk4wYlFGTVRNYjlyM2szNDZvZnVKTmhhTUhFUVRuWWRiWlZjQ2FWRF83SXYzaE9PMl95TUE0Zm43dkY2VTJHMm5palZHQWZxcFRJM1lubjY5eDkzLXAyS0NaaENBUS05NEFqSVNJcTYxelVQRmJTV0l5bG5GbEh5ZXlXdHpUaGk4UmdHUE5scC1qTEdONTZ6R3R2c1FSYlRZeGNXWQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "What's Driving MaxLinear's End-Market Strength Ahead of Q2 Earnings? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkhXYzlHTmtCSUcxdlpySU1DbXhFZUVkakxCSmhiU2p5Umh2a0JoY0Q1Tnppa0RrcUl4VThQT3NrWV9iX2FnMkNPQWppeW1wYVRXVGVILWE2c0JnVWZfdzV1VUJrNUtiTmlsMEN1WlZBZXZtQXdIb2JHaUg0QXM5RXpEWTJ2emNxRWF5dkVGSWxBRnJuNUFLaGI1cURzaExJTkkxalBUZDNLVEJBU3JEcUdwWVMtSGFMUWY0NW5tc0o?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "MaxLinear Jumps 6.6% Amid Sector-Wide Rally - AlphaStreet",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BYUlYWXJYZ0tEOHZpMmJqLUJCR2tGYkxnd0VLVGR4ekxYa05wT0t5QU1LZmlIODVGdTRSSDExNmpPRTBzSVdLOVptVWtkbWFNc0pMaFZZcmFKS2R5c3BnNFpqU29MSW5FTlltWkk1bGR3cy1XYkhpWUhjcVPSAYIBQVVfeXFMTWRnbnc0cnkweDJjVmxxeHVENlZGdlB6Yk9LZ2VnSnh2N2N5YmhONDVQb1FGZXdwbnRyUHVELVZzODlIU0d1aTB6RkxVYkNfdWFGNGx6Qnh5d3hwMmw0dVhkMnN4d2J3R01QMVhvTmRBQWRGMFVTdnpZR0ctSXRPVVZUQQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "MaxLinear Unveils Control-Plane Portfolio for Next-Gen AI Infrastructure - All About Circuits",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTjNMaWJwYVNrbGVxRHFES1lrdVNlUlhuWjJsbzluRjhqZHJCemhHOVRzVE9VMHVscEw0RnhrSHp2OXFURC1qN1ViRjd0eVRvM2RHRE1zZGx6QTd3aXViQmxjS1hZWUFEanZNQ2JYNVQ1UjF0V09oU3BTZmFmTlBjSmtKdV9RbDJQeEs4VVphUjRtR2gxa1pqR3FrT0pQazJkRFZnN3UtbC1HSVFDSzA5eg?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "MaxLinear Stock Outlook Hinges on Optics, Broadband and AI Demand - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWZWY1VWcVQta1BIRTNBMnRCRUJkNUl0czFoM1J2Qk1vemRCS0FrMU9zcmxwNzhCZXhvUERvUXFieVZMVjV4Y29nOWJyNC1mWTJmR05raWNuamZxRWRGN2xCeHpHNU9CV2JlbTQtQ1VvaWk5Tm5MclcyQVR3amhvc0tSZGlMLWt4UGlLaWpyVTV1ei1xcFBOYlFmYUI5MDh1REtHUQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Why MaxLinear Stock Is Having Its Worst Day in 2 Years After Strong Earnings - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ScGxPa0EwYmpCeVc0emphcnhrVDNTNFJRaU9Pa2lkelo1cHQ0QmRkV2NsRGhIemV5WlNpODlYUnBpbmRGZnFNY2t3Sk5MMWdPT1ZLdC1fM09LQVhienRKOUs4Q3hMVUxGNFhwd2t0RTZOdnNxbEpBWHBvRko?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -261230,9 +261268,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-25T04:30:03+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The posting asks for 8-10 years of experience in semiconductor product management, which far exceeds Shlok's ~1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-24T17:20:44+05:30"
+   "updated_at": "2026-11-25T04:30:03+05:30",
+   "reject_reason": "The posting asks for 8-10 years of experience in semiconductor product management, which far exceeds Shlok's ~1.3 years."
   },
   {
    "id": "L2053",

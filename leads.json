@@ -262178,15 +262178,15 @@
    "key": "google|technical program manager product ops digitization|bengaluru",
    "type": "job",
    "company": "Google",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "google.com",
+   "company_url": "https://www.google.com",
    "company_linkedin": "https://www.linkedin.com/company/google",
    "company_note": "",
    "title": "Technical Program Manager, Product Ops Digitization",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4485731830",
    "source_url": "https://in.linkedin.com/jobs/view/technical-program-manager-product-ops-digitization-at-google-4485731830",
@@ -262217,8 +262217,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 75,
+    "total": 75,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -262228,15 +262228,60 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Technical Program Manager at Google, asks 2 yrs; your S&OP and production planning data work maps directly.",
+    "fit_notes": "The posting asks for '2 years of experience in Technical Program Management', 'Experience in Hardware Manufacturing, Manufacturing AI, Program Management, Data Visualization, Exploratory Data Analysis', and 'Shop Floor Control systems (SFC), Manufacturing Execution Systems (MES)'. No MBA or consulting is required. Your experience running S&OP planning, building a lotting algorithm for truck dispatches [o2d], and implementing SAP MRP [mrp] maps directly to manufacturing execution and supply chain digitization.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figure for this exact role in Bengaluru is available in the search evidence.",
+    "culture_notes": "Google denies rumours of large-scale layoffs in India [S4], though general tech hiring freezes and layoff discussions have been reported in the media [S6]. Overall company rating and detailed cultural scores were not found in the search evidence.",
+    "hook": "Google DeepMind recently introduced AlphaProof Code as a breakthrough in verifying complex software at depth.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5",
+    "researched_at": "2026-11-25T04:22:02+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Shutting the Door on the XCPE Botnet - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmJ2VVhPbGtGcWJHSGJKcV9UUHU1NzJrdWxPYndXeFNhSDdtaWtZWFl0NFJuQjFYM3pJbVlDR2J6eDdIejBQazh3RDhHYTgweGdvUHllajQyenl2UDB4dVIyZEdzd3Q0RXRHT2xDWEFzcVJlUERFRmkzZkQ4aTd2bEpEQnl2M1NfbHRxQXlONTdTaDg0S3o1aw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "OpenAI models are coming to Google Cloud - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Google denies rumours of large-scale layoffs in India - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaklWbkstRkwwUVdueDFyX0YzNkNjRS1KYTZRcDc5TkFNYmlVMDJyVzZEa0NhVGxTRDNTdmpiT2I3Z3ZLWXRmeC1EVzJvODhxWmVmaXRBeDlmNERFVW9MZVlHTlBtcVMtTmZtUkt1cVF6RUU1SjR5UG5OMUVRRGU3LWxaUlIyT0FJckl5R0Fyd0wxUUZVbHJwd09OTkpZcnNZMGRTc2pGQVV3U2QxMnRoRkZfenl3dllad3fSAcABQVVfeXFMUDVURnRlNlBlYTN2ck9qVDFxM1ZrbjF2aERtQnQ1ZGVQamdUVGFxUE1RM05nV2UtU3FJYkhSdk9acy0zVWhCQmhsRFZVNVdfNlZ1OFZwVDJ5aS10UERPc3NUVE9hUDAtUkFzQmRGaTE0WTB2cmdjY2Rla3pYdEVqdi0tU1Z1cGF0NllhRGRtWTZpRjBPanhSOTR3cXZ3dXZNZk5QNVdoYXhsRlVndGE5UlE3QmhxNDFzVk9ubWdnUUZZ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Preview, edit and collaborate on Markdown (.md) files natively across Drive and Docs - Google Workspace Updates",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObFJPZGNtUlM5ODFBRlh3SFlJSzVFWXJ0NEsxUEJhSHZZMVE4cVFHM1lqS29rWlJ6a2l4N21wZUZ4RldHaEFjQm5ZdElWbldOZl9SODEzQ3hFaWhvdDJ0MnYwSWJYMUNuZ1JCckVHZWtrelkyajFMaUlzajVVNnJpMEpEdmp2bW9udVA4QUE4VDZvTTB3UWxmTVREWGExVWt0RjZqOU5nMGpPNE9vS2JBYlNGVktkLUZoSzlZbHNiSld2THdnaFlQVDNB?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "IT buzz: Google and Microsoft freezing hiring in India in 2027, Google eyes fresh layoffs - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZmdlQk1ZUW0tQjVZeTZrQ1p6b2JkR090NUM5NEdRWjRQNmJxTnpOeF9wR1A1WS1PUHJYdkhYWmtUMzV1OVZlNmU3YWRSVHA1TkpOZWVvOWx0cVM4Nk5JZzBXZGpYbFRMZXRXYXJ6dFo3RGpDeUd2cmUyOE1OVm84N0JVV2tLeU04MUFoNTFyVjA0c0pQNmV2cnRwbXktQzMtdnZPWWVwMTczUmxBTUhOaTB1a1BSejRSRWNrRlJmVzZOeUlKWTF3ZVdnTnlOcDYzOVNmZWNYeWRwTU15UGlvSFVR0gHnAUFVX3lxTE91bkdOSE9mQXUxNVoyM2xUWW9pSzhoZWU3MnRvQkh4YTI3UDRpN3c5eFExRzUyejF2UEdfdmNfSWtWb1NLLUhnTmZlcERuREZOdlVJMVlWMkdIU2tySEE5YWtnOERvNUgxcGRzdC0ya1ZzWkVtbUJ0dHVqclBtMDZyclZKaDNfRmVWdzFKZVN1Z05uUDUwUUNocW0yU3VVYTdHTi1wWHlKMGVhRUdnREQ4enhWSmVDUjViemlhcGhMaWFYZ1lZYVJ5UkItVDI4MzNDd0VRMngzX21WaWJvbkY4b1hvSThsSQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "msl",
+     "o2d",
+     "sop",
+     "mrp",
+     "ceo-coo",
+     "cell"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -262260,9 +262305,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-25T04:22:02+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 75: qualified"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30"
+   "updated_at": "2026-11-25T04:22:02+05:30",
+   "reject_reason": null
   },
   {
    "id": "L2068",

@@ -38,11 +38,12 @@
     "hello@sugarfit.com"
    ],
    "site_personal": [],
-   "pattern": "first",
+   "pattern": "first.last",
    "confirmed": [
-    "madan@sugarfit.com"
+    "madan@sugarfit.com",
+    "nehal.singh@sugarfit.com"
    ],
-   "checked_at": "2026-11-25T04:32:13+05:30"
+   "checked_at": "2026-11-25T04:32:17+05:30"
   },
   "maharishibahugygroup.com": {
    "confirmed": [

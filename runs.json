@@ -1,41 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-22T13:06:04+05:30",
-   "agent": "research-worker",
-   "ok": false,
-   "summary": "30 researched (1 qualified, 29 rejected), 0 closed postings binned, 8 left for a person",
-   "stats": {
-    "researched": 30,
-    "qualified": 1,
-    "rejected": 29,
-    "binned": 0,
-    "left_for_a_person": 8,
-    "errors": 2,
-    "models": {
-     "research": [
-      "gemini-2.5-flash",
-      "gemini-3.8-flash"
-     ],
-     "judge": [
-      "gemini-3.8-flash",
-      "gemini-3.7-flash",
-      "gemini-3.6-flash",
-      "gemini-3.5-flash",
-      "gemini-3.5-flash-lite"
-     ],
-     "reader": [
-      "gemini-3.5-flash-lite",
-      "gemini-3.1-flash-lite",
-      "gemini-3.8-flash",
-      "gemini-3.7-flash",
-      "gemini-3.6-flash",
-      "gemini-3.5-flash"
-     ]
-    }
-   }
-  },
-  {
    "at": "2026-11-22T13:06:11+05:30",
    "agent": "people-finder",
    "ok": true,
@@ -3514,6 +3479,19 @@
    "ok": true,
    "summary": "outside the sending window; 137 approved email(s) wait for the next run",
    "stats": {}
+  },
+  {
+   "at": "2026-11-25T04:13:14+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 55 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 55
+   }
   }
  ]
 }

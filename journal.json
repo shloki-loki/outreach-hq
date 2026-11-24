@@ -10376,6 +10376,15 @@
    "title": "Daily review 2026-11-24",
    "detail": "RAN: send-track/send every ~20 min (121 emails sent today, 10 per run limit); follow-up/track every 20 min (failed twice at 05:22 and 05:37 on inbox timeout, clean since); lead-scout/scrape 04:46 and 17:20 (15 new leads); lead-scout 12:34 (13 researched, 2 qualified: Navi L1980, Zynga L1996); research-worker 02:28 and 16:26; people-finder 16:27 (0 people added); writer 16:29 (1 draft, free Gemini quota used up); live-check 15:20; follow-up/digest 18:39; send-track and follow-up 12:31. All GitHub workflows succeeded today. Last supervisor run was 23 Nov 20:12, so none missed. PROBLEMS: failed messages (I0101, I0102-I0104) are cleared, 0 failed now, lost sends re-queued by PR 20; I0101 and I0046 resolved after checking. Still open and diagnosed: Gemini quota/503 limits writing and research; Instahyre 403 and LinkedIn 429 limit research (I0012, I0039, I0089); Reoon key leaked in old logs still needs rotating (I0025); bounce rate 4.9% borderline; no named contacts for Navi and Zynga (I0105). CHANGES TODAY by others: PR 19 (InMail with job link), PR 20 (applied flow, retry lost sends, follow-ups 2+2 days), 70 follow-ups queued at 18:05. I changed no code or config. FUNNEL: 2061 leads, 703 researched, 82 qualified, 367 emails sent (297 cold), 19 applied, 8 replied, 1 interview, 0 offers; reply rate 2.7%, bounce rate 4.9% (18 of 367). Verifier: Reoon active, quota not checked in detail. NEEDS SHLOK: rotate the leaked Reoon key at reoon.com; decide whether to pause guess/unverified founder-list addresses to keep bounce rate under 5%; add contacts by hand for Navi and Zynga if wanted; 73 approved emails (and 81 follow-ups due) are going out at 10 per run, no action unless you want the pace changed.",
    "ref": ""
+  },
+  {
+   "id": "J1154",
+   "at": "2026-11-24T20:13:27+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "22 open issues (4 new diagnosed, 2 resolved today), reply rate 2.7%, bounce rate 4.9%",
+   "ref": ""
   }
  ]
 }

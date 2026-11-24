@@ -10853,6 +10853,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 137 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J1207",
+   "at": "2026-11-25T04:31:49+05:30",
+   "by": "research-worker",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "24 researched (2 qualified, 22 rejected), 1 closed postings binned, 14 left for a person, 1 errors (first: Gemini unreachable: The read operation timed out)",
+   "ref": ""
   }
  ]
 }

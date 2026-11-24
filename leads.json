@@ -77536,9 +77536,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Shreya Rajpal queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-24T11:43:04+05:30",
+     "actor": "send-track",
+     "event": "send_failed",
+     "detail": "SMTPServerDisconnected: Connection unexpectedly closed: The read operation timed out"
     }
    ],
-   "updated_at": "2026-11-24T00:05:16+05:30",
+   "updated_at": "2026-11-24T11:43:04+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",

@@ -196457,7 +196457,7 @@
    "key": "frontpage|founder s office|bengaluru",
    "type": "company",
    "company": "FrontPage",
-   "company_domain": "",
+   "company_domain": "front.page",
    "company_url": "https://front.page",
    "company_linkedin": "",
    "company_note": "YC Summer 2021 · team of 5 · Community for 100M Indian Financial Market Traders & Investors",
@@ -196465,7 +196465,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "frontpage:company",
    "source_url": "https://www.ycombinator.com/companies/frontpage",
@@ -196481,7 +196481,7 @@
    "first_seen": "2026-11-16",
    "last_seen": "2026-11-22",
    "open": true,
-   "jd": "Frontpage is building a community for 100M Indian traders and investors. Millions of new traders and investors are looking to participate in financial markets. FrontPage harnesses power of community where traders and investors can connect with each other, share their ideas, and learn from each other.",
+   "jd": "FrontPage: Community for 100M Indian Financial Market Traders & Investors | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › FrontPage \n FrontPage\n Community for 100M Indian Financial Market Traders & Investors\n Y Combinator Logo Summer 2021 \nActive\n Fintech\n Community\n Company \n Jobs 1 \n https://front.page\n Community for 100M Indian Financial Market Traders & Investors\n Frontpage is building a community for 100M Indian traders and investors. Millions of new traders and investors are looking to participate in financial markets. FrontPage harnesses power of community where traders and investors can connect with each other, share their ideas, and learn from each other.\n Active Founders\n Avijit Sharma Founder\n Founder & CEO. \nActive trader and investor in public financial markets for 10+ years. 15+ years in product management. Deeply interested in psychology, history, philosophy. 2x-Entrepreneur. Mechanical Engg from IIT Delhi.\n Avijit Sharma Founder\n Founder & CEO. \nActive trader and investor in public financial markets for 10+ years. 15+ years in product management. Deeply interested in psychology, history, philosophy. 2x-Entrepreneur. Mechanical Engg from IIT Delhi.\n Jobs at FrontPage\n View all jobs \n Engineering Intern: Testing, Automation & Development \n Bengaluru, Karnataka, IN\n ₹30K - ₹50K INR / monthly\n Any\n Apply Now › \n FrontPage \n Founded: 2019 \n Batch: Summer 2021 \n Team Size: 5 \n Status: \nActive \n Location: Bengaluru, India \n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -196496,8 +196496,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 62,
+    "total": 59,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -196507,15 +196507,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office speculative note at FrontPage, but no named opening or pay is stated.",
+    "fit_notes": "The posting is a speculative note to founders [rule_reasons] with no stated years, requirements, or pay. While Shlok has Strategy & Operations experience [ceo-coo], there is no specific job description to map his facts against.",
+    "pay_notes": "Pay not stated in the posting [rule_reasons].",
+    "culture_notes": "Team size of 5 [rule_reasons]; YC Summer 2021 [S1]. No ratings or specific culture flags found in evidence.",
+    "hook": "FrontPage is building a community for 100M Indian traders and investors [S1].",
+    "hook_source": "https://front.page",
+    "researched_at": "2026-11-24T16:26:42+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "FrontPage website",
+      "url": "https://front.page"
+     },
+     {
+      "id": "S2",
+      "title": "The Sinch AI Produciton Report frontpage - Cision News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUE9UbXpaNEsxNldpRUo1bnhZQjZFSWdnTHRIVmZZWmwxazgzOGtOclJnVjRQdDYzUGRFZjl5QllyMEljV3d3eThtRVNYdnpBOVBVUVBOTF9SOUNMc1Q2aHlSVVBlWjBIaTg5dEVraHZHZUtLaldPZnZ0a0dMa004bUFPeFNjTTFPQzVGUA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Shivakumar as Shiva on Karnataka newspaper frontpage, people call it blasphemy - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT0xIaDk4RkZQMll1cTE0eXpMd1JPeFctZ3VlZmMwQUhSdmhjMGtWX2ZBckZBSEhidWZEaF8zejFhb3l1TEFHdjNkdE5jYzZZRjBUT1M4TENBQndlenNWenNsU0daQjVPZm5ERWd1d0t0SXRvSXRDUzZiamstMmpTN2NRRl9yQ1Z1TVRYYVBZOFo1c01mSEJyTGZGNThURGJRWkhaRm5ybFRFOHNIUHZHSXJoZ2xfY0FaT3VTZTFqRzBRUTlod1RiVHVVVUJ5bDk2b2FhNEpuZ3VOeDTSAeABQVVfeXFMUGhMQnVBQUdMdHppMkdMZGhxakk5UUJ5NlYyZHpGLVBTUUw5OHd3RzNCX1l0WDZjRk9zbG5NMVliSzh4Qkdybk9GdmRJZ0dPenFoZ0RFMTB6WFFXX0F4cGh1Z2ZXaktEY0xVZ3BwTVp4eEplOTB0b19LbW4yMmR1QjAtNkswWW1CLTlFY2lUQ25wZm5nOEdfYklVd3RnWmFzVlUxSVRnQ3ZoZ2VpUFFCSlhZRWR0aFhEMUI3MDgteUQ2Xy1UR0M5NXVLTVpRRjF0QjVzNDItRDJsbXVQSC0tT3o?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Executive Mansion Rejects FrontPage Africa’s Claims on Purported Confidential Intelligence Report Submitted to the President - The Executive Mansion",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU2xUNDFzb19pNlRnSUVpTzdyaW5sTE1mbURJTmR2QmZjN2VFc294NTBIajB0NDZUQkt5STgxMi0ySG54QmMxem5xcEN2LTVHaG8wdGhWYTlWTF9VVV9lLWRWUEtrZTJOQXBQV2E5UjR3SUhWUGxUVm10NVdTV1RLRkljV3hwUFIyUm5NMzdxOXlxTHZKMkIxTU5pYmNmTXFBMHlfbTI5aWp0MDFGb2ZXYlFyQ2pUYmZGTHlsWnhR?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "WATCH: Updates from Rappler app: https://rplr.co/FrontPage Subscribe: http://rplr.co/RapplerYouTube More videos on Rappler: https://www.rappler.com/video - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObnBvQXlEeUVtTll2Z3p5LUJOU1hoNGR6bzdfVXQxZXRIUnJGWElTNkh1dE5xMWxTeDdoUlFQQXBrWW5KOEp3XzloZmlYSkEyQVFpRUN1RXNLaXNGbDRiTU5WaVJXUEI4N1BjV0NjVkstVHZkd0tHNGdvOE5lTENMclZfM2dfMjZKcGZGVzQ1WGk1NmpYLTNuTHQzNmh5TkwtNjRrUmVNNFU2UElCUVRIem9icDFJUnVlU3BKeHZzOTZQVWxV?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "FrontPage Africa Editor Urges Collective Investment in Liberian Students | News - liberianobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNjNBbkdPYXlZRGdQSHdQLUNVQmJJSnF1OWRYdDg5b2lDTXpoR3ZaM3F4cExiREN0NGFIbEhTRThSeTVESUpHeDdFRmpWaVp6dE5jT1l4NjdmbDgzOU1WN3Q2M1ZpV1BZcEFjdnRCNGF2bHU2SUNIZlpHMkJkX0JtWXBnaVRJYzNDUUh0LXdZYm1nZ09HU2lxQWZHUW0xZkpBeDdlaTFwQ09qV2xFMDUzQ2FmSnB1UjZTZXREWEptUUdlRkhUQnpnN3ItdFppRHhIdmhCTFZlQ19BWnVqY0V3WFB2LVY1M2xDSXFoM3RtR0xhdw?oc=5"
+     },
+     {
+      "id": "S7",
+      "title": "WATCH: Vice President Sara Duterte's lawyer Michael Poa holds a media briefing after the 34th day of Duterte's impeachment trial on Tuesday, October 6, 2026. Updates from Rappler app: https://rplr.co/FrontPage Subscribe: http://rplr.co/RapplerYouTube Mor - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTnRKdHFKYUtrSmxEM281UHI2RGJPNlNtNTVBT2xBdkZjNkhTSThnOUtCaXZweTlxVW91SC1LZ01RZ0tMMjd2WmpYVDlibXg0YUp0V3dzeDI3WEdGOEoyeDl6TER0S05CcWlCQXp0VUt1UC1UeXllTzhlT3F1djhxSU9ndzNEMkJFZ2F5OUcyc3VNenFkY1c4UU0tMUF5R0Z0XzhKMzBtUWhOYWdpSE9BSnpWNUFvY2c2QndscnQwbUxLRTl4M2QyczZvSjdyc18wYUN2MkNGUlh2Y28?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -196553,14 +196596,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T16:26:42+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 59: rejected (The posting asks for a speculative note to founders with no named opening, unstated pay, and no concrete job requirements to qualify against.)"
     }
    ],
-   "updated_at": "2026-11-16T10:01:49+05:30",
+   "updated_at": "2026-11-24T16:26:42+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "The posting asks for a speculative note to founders with no named opening, unstated pay, and no concrete job requirements to qualify against."
   },
   {
    "id": "L1536",

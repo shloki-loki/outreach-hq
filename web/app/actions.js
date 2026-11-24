@@ -186,9 +186,59 @@ export async function setOutcome(leadId, outcome) {
   if (!['interview', 'offer', 'rejected', 'closed', 'none'].includes(outcome)) return { ok: false, error: 'Unknown outcome.' };
   return editLead(leadId, (lead) => {
     lead.outcome = outcome === 'none' ? null : outcome;
+    lead.outcome_at = lead.outcome ? nowIso() : null;
     if (lead.outcome) lead.followup = { due: false, kind: null, since: null };
     addTimeline(lead, 'shlok', 'outcome', outcome);
   }, `site: outcome ${leadId} ${outcome}`);
+}
+
+// "I followed up" on an applied job that went quiet: restarts the 4-day check-in clock (2026-11-24).
+export async function checkIn(leadId) {
+  return editLead(leadId, (lead) => {
+    lead.checked_in_at = nowIso();
+    addTimeline(lead, 'shlok', 'checked_in', 'followed up on LinkedIn or by email');
+  }, `site: checked in ${leadId}`);
+}
+
+// A job he applied to on his own, added so he remembers it (2026-11-24). Saved as applied today.
+export async function addManualJob(company, note, role, link) {
+  const name = clean(company, 120);
+  const text = clean(note, 2000);
+  const title = clean(role, 160);
+  const url = clean(link, 500);
+  if (!name) return { ok: false, error: 'The company name is needed.' };
+  if (!text) return { ok: false, error: 'Add a short note so you remember it.' };
+  if (url && !/^https?:\/\/\S+$/.test(url)) return { ok: false, error: 'The link should start with http:// or https://.' };
+  let id = null;
+  const result = await guarded(async () => {
+    await update('leads', (data) => {
+      const isBoard = 'generated_from' in data;
+      if (!isBoard) {
+        const highest = Math.max(0, ...data.leads.map((l) => Number(String(l.id).slice(1)) || 0));
+        id = `L${String(highest + 1).padStart(4, '0')}`;
+      } else if (!id || data.leads.some((l) => l.id === id)) return;
+      const at = nowIso();
+      const lead = {
+        id, legacy_id: null, key: `manual|${name.toLowerCase()}|${title.toLowerCase()}|${at}`, type: 'job',
+        company: name, company_domain: '', company_url: '', company_linkedin: '', company_note: '',
+        title: title || 'Role not noted', tier: null, location: '', location_bucket: '', work_mode: '',
+        source: 'manual', source_id: id, source_url: url, apply_url: url,
+        sources: [{ source: 'manual', url, seen: at.slice(0, 10) }], posted_at: null,
+        first_seen: at.slice(0, 10), last_seen: at.slice(0, 10), open: true, jd: '',
+        exp_min: null, exp_max: null, exp_text: '', stretch: false, pay: {},
+        score: { rules: 0, research: null, total: 0, reasons: ['added by Shlok'] },
+        research: { done: false, fit_notes: '', pay_notes: '', culture_notes: '', hook: '', hook_source: '', researched_at: null },
+        stage: 'qualified', outcome: null, applied_at: at, apply: { status: 'applied', notes: '', answers: {} },
+        first_contacted_at: null, replied_at: null, contacts: [], referrals: [],
+        followup: { due: false, kind: null, since: null }, notes: [{ at, by: 'shlok', text }],
+        timeline: [], created_at: at, updated_at: at,
+      };
+      addTimeline(lead, 'shlok', 'applied', 'added by hand as applied');
+      data.leads.push(lead);
+    }, `site: manual job ${name}`);
+    refresh();
+  });
+  return result.ok === false ? result : { ok: true, id };
 }
 
 export async function setStage(leadId, stage) {

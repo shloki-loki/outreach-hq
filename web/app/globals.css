@@ -264,3 +264,16 @@ a.highlight:hover { background: var(--surface); }
 .job h3 { margin: 0; font-size: 15px; line-height: 1.4; font-weight: 600; letter-spacing: -.2px; }
 .muted-tag { opacity: .7; font-style: italic; }
 @media (max-width: 640px) { .job { grid-template-columns: 1fr; } }
+
+/* 2026-11-24: Closed tab rows and the check-in reminder */
+.job.is-closed { background: var(--off-soft); }
+.job.is-closed::before { background: var(--off-bar); }
+.job.is-closed:hover { background: var(--off-soft); }
+.job.is-due::before { background: var(--due-bar, #d9a441); }
+.due-tag { background: var(--due-soft, #fbf1dc); color: var(--due, #8a5a00); border-color: transparent; }
+.lead-side.button-row { justify-content: flex-end; }
+.manual-add { display: grid; gap: 10px; grid-template-columns: 1fr 1fr; }
+.manual-add textarea, .manual-add .full { grid-column: 1 / -1; }
+@media (max-width: 640px) { .manual-add { grid-template-columns: 1fr; } }
+.manual-add label { display: grid; gap: 4px; font-size: 13px; color: var(--muted); }
+.manual-add input, .manual-add textarea { width: 100%; max-width: none; }

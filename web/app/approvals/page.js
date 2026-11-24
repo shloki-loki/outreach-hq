@@ -8,6 +8,8 @@ import { sendingMode } from '@/lib/store';
 import { EMAIL_BADGE } from '@/lib/status';
 import { trackOf } from '@/lib/tracks';
 
+const RETRYABLE = /SMTPServerDisconnected|Connection (?:unexpectedly closed|reset|refused|aborted)|timed out|TimeoutError|interrupted and the email is not in Gmail/i;
+
 export const dynamic = 'force-dynamic';
 
 export default async function ApprovalsPage({ searchParams }) {
@@ -33,7 +35,10 @@ export default async function ApprovalsPage({ searchParams }) {
   const by = (status) => messages.filter((m) => m.status === status && matches(leadById[m.lead_id]));
   const drafts = by('draft').sort((a, b) => (a.kind === b.kind ? (a.created_at < b.created_at ? -1 : 1) : a.kind === 'cold' ? 1 : -1));
   const waiting = by('approved');
-  const trouble = [...by('failed'), ...by('sending')];
+  // 2026-11-24: an email lost to a connection error is sent again by the next run (campaign.retry_failed, up to 3
+  // tries), so it is not shown as a problem; only failures that need him are. Bounces never show here.
+  const retrying = by('failed').filter((m) => m.kind === 'cold' && RETRYABLE.test(m.error || '') && (m.retries || 0) < 3);
+  const trouble = [...by('failed').filter((m) => !retrying.includes(m)), ...by('sending')];
   const followDue = leads.filter((lead) => lead.followup?.due && matches(lead));
   const today = new Date(Date.now() + 5.5 * 3600 * 1000).toISOString().slice(0, 10);
   const sentToday = messages.filter((m) => (m.sent_at || '').startsWith(today) && matches(leadById[m.lead_id])).length;
@@ -55,6 +60,10 @@ export default async function ApprovalsPage({ searchParams }) {
         </nav>
         {mode !== 'live' ? (
           <p className="banner">Dry run is on: approving marks an email as approved but nothing is sent. To go live, set <strong>mode = "live"</strong> in config/settings.toml after the test email to yourself works.</p>
+        ) : null}
+
+        {retrying.length > 0 ? (
+          <p className="muted">{retrying.length} {retrying.length === 1 ? 'email' : 'emails'} lost to a connection error will be sent again in the next run.</p>
         ) : null}
 
         {trouble.length > 0 ? (

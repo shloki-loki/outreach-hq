@@ -148,9 +148,9 @@ of 60 (see "Daily founder batch" in `SUPERVISOR.md`).
 
 ## Follow-ups (20-70 words, same thread)
 
-- **First, about day 4:** one new thing: a different result, or one specific thought about their problem.
+- **First, 2 working days after the email with no reply (Shlok, 2026-11-24):** one new thing: a different result, or one specific thought about their problem.
   One soft question. Never "following up" or "bumping".
-- **Second and last, about day 9:** the easy out. "If the seat is filled or the timing is off, a one-word
+- **Second and last, 2 working days after the first:** the easy out. "If the seat is filled or the timing is off, a one-word
   no is fine. If it's open, I'd like to be in the running." Then nothing, ever.
 
 ## LinkedIn (people at the company; Shlok sends these by hand)

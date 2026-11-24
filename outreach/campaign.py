@@ -100,6 +100,31 @@ def unsent(message: dict) -> bool:
     return message.get("status") == "failed" and bool(RETRYABLE.search(message.get("error") or ""))
 
 
+MAX_RETRIES = 3
+
+
+def retry_failed() -> dict[str, Any]:
+    """Shlok, 2026-11-24: a cold email lost to a connection error goes out again in the next run, same text, instead
+    of waiting at the back of the queue. Up to MAX_RETRIES tries; the sender's daily caps still apply. A bounce is
+    never retried. Only messages whose error matches RETRYABLE (timeouts, dropped SMTP connections, an interrupted
+    send that send.py confirmed is not in Gmail's Sent folder)."""
+    retried: list[str] = []
+
+    def change() -> None:
+        retried.clear()
+        data = store.load("messages")
+        for message in data["messages"]:
+            if unsent(message) and message.get("status") == "failed" and message.get("retries", 0) < MAX_RETRIES:
+                message.update(status="approved", approved_at=now_iso(), retries=message.get("retries", 0) + 1,
+                               last_error=message.get("error"), error=None, message_id=None)
+                retried.append(message["id"])
+        if retried:
+            store.save("messages", data)
+
+    store.transact(change, "send: retry emails lost to connection errors")
+    return {"retried": len(retried)}
+
+
 def counts_as_contacted(message: dict) -> bool:
     return message.get("kind") == "cold" and message.get("status") != "skipped" and not unsent(message)
 

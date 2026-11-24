@@ -479,6 +479,7 @@ def main(argv: list[str] | None = None) -> None:
 
     def cycle(_: argparse.Namespace) -> None:
         result = {"track": track.run()}
+        result["retried"] = campaign.retry_failed()
         result["queued"] = campaign.queue_all()
         result.update(send=send.run(), referrals=importers.match_connections())
         result["metrics"] = {k: v for k, v in metrics.snapshot().items() if not isinstance(v, dict)}

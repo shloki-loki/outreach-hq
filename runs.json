@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-21T23:45:22+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
-   "stats": {}
-  },
-  {
    "at": "2026-11-21T23:54:25+05:30",
    "agent": "lead-scout/scrape",
    "ok": true,
@@ -3534,6 +3527,16 @@
   },
   {
    "at": "2026-11-24T18:42:20+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "stats": {
+    "sent": 10,
+    "failed": 0
+   }
+  },
+  {
+   "at": "2026-11-24T18:43:18+05:30",
    "agent": "send-track/send",
    "ok": true,
    "summary": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",

@@ -10295,6 +10295,15 @@
    "title": "Diagnosis: Sending M0436 failed",
    "detail": "Cause: Gmail SMTP connection dropped mid-send (read timeout). The email did not leave. The 24 Nov 17:52 update (PR 20) re-queued lost sends as approved with up to 3 tries; M0436 is approved again and will go in a later send run. Nothing for Shlok.",
    "ref": "I0102"
+  },
+  {
+   "id": "J1145",
+   "at": "2026-11-24T20:12:36+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Sending M0437 failed",
+   "detail": "Same as I0102: SMTP read timeout, email never left. M0437 is back to approved and will be retried by the next send runs (max 3 tries).",
+   "ref": "I0103"
   }
  ]
 }

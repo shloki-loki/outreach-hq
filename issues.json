@@ -1439,7 +1439,7 @@
    "opened_at": "2026-11-24T12:13:59+05:30",
    "last_seen": "2026-11-24T12:13:59+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Same as I0102: SMTP read timeout, email never left. M0437 is back to approved and will be retried by the next send runs (max 3 tries).",
    "resolved_at": null
   },
   {

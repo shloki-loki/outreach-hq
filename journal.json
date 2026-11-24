@@ -10160,6 +10160,15 @@
    "title": "Follow-ups: 70 queued",
    "detail": "generic follow-up template",
    "ref": "M0494"
+  },
+  {
+   "id": "J1130",
+   "at": "2026-11-24T18:21:18+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

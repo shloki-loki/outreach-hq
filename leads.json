@@ -253872,7 +253872,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491395525",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-siddhi-designer-tiles-4491395525",
@@ -253888,23 +253888,23 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "",
+   "jd": "The ideal candidate will lead initiatives to generate and engage with business partners to build new business for the company. This candidate will be focused and have strong communication skills. They should be able to think critically when making plans and have a demonstrated ability to execute a particular strategy. \n Responsibilities \n Identify partnership opportunities\n Develop new relationships in an effort to grow business and help company expand\n Maintain existing business\n Think critically when planning to assure project success\n Look after the present dealers’ network in the city\n Increase the penetration of dealers in all working area\n Interact with architects and designers for direct project working\n Look into day to day sales activity and coordination\n Develop the overall business of the company\n Qualifications \n Bachelor's degree or equivalent experience\n MBA in Marketing is an added advantage\n 8- 10 years' prior industry related business development experience\n Strong communication and interpersonal skills\n Proven knowledge and execution of successful development strategies\n Focused and goal-oriented.\n Salary range \n Gross salary in range of 12-14 lac. per annum. + conveyance allowance + Mobile allowance.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Wholesale Building Materials",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "12-14 lac. per annum",
+    "min_lpa": 12.0,
+    "max_lpa": 14.0,
+    "basis": "stated",
+    "source": "https://in.linkedin.com/jobs/view/business-development-manager-at-siddhi-designer-tiles-4491395525",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 18,
+    "total": 34,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -253914,15 +253914,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at Siddhi Designer Tiles, but asks 8-10 yrs and pays 12-14 LPA.",
+    "fit_notes": "The posting asks for '8-10 years' prior industry related business development experience' and states 'MBA in Marketing is an added advantage'. Shlok has about 1.3 years of experience and no MBA. While he has business experience, the experience gap and low pay make this a reject.",
+    "pay_notes": "Gross salary in range of 12-14 lac. per annum, which is well below Shlok's Rs 24.5 LPA fixed minimum.",
+    "culture_notes": "No company website, ratings, or culture reviews found in web search.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T16:17:13+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -253946,14 +253953,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-24T16:17:13+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 34: rejected (The posting explicitly asks for 8-10 years of prior experience and an MBA in marketing, both of which Shlok lacks, and the pay of 12-14 LPA is far below his Rs 24.5 LPA minimum requirement.)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-24T16:17:13+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting explicitly asks for 8-10 years of prior experience and an MBA in marketing, both of which Shlok lacks, and the pay of 12-14 LPA is far below his Rs 24.5 LPA minimum requirement."
   },
   {
    "id": "L2020",

@@ -82310,7 +82310,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-24T13:38:49+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -82359,9 +82359,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Jyoti Bansal queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-24T13:38:49+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Jyoti Bansal"
     }
    ],
-   "updated_at": "2026-11-24T00:05:16+05:30",
+   "updated_at": "2026-11-24T13:38:49+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",

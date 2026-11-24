@@ -260372,7 +260372,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Delhi, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494322274",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-at-brew-4494322274",
@@ -260403,8 +260403,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 65,
+    "total": 69,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -260414,15 +260414,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at early-stage Brew in Delhi, asks 0-4 yrs; your Ola Electric CEO/COO ops background maps well, but requires relocating to Delhi.",
+    "fit_notes": "The posting asks for 0-4 years experience in startups, operations, or growth to work directly with founder Ankur. No MBA or consulting background is strictly required. Shlok's experience partnering directly with the CEO/COO on S&OP and fulfilment at Ola Electric [ceo-coo, sop] directly addresses the founder-led, high-ownership project execution asked for.",
+    "pay_notes": "Pay is not stated in the posting and no company-specific salary data was found.",
+    "culture_notes": "No company ratings or employee reviews were found for Brew.",
+    "hook": "Noticed founder Ankur previously ran a Sequoia-backed startup for 9 years before launching Brew's content distribution platform for filmmakers.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founder-s-office-at-brew-4494322274",
+    "researched_at": "2026-11-25T04:20:28+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "If You Think Cold Brew and Iced Coffee Are the Same Thing, Read This - Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mQmNuSEg2YVBzSjJWR1lrZWM1Z0xLRjlLY29fdlVIVDBRcnpZNHVoeFNYZWFDaUJWRmFNTHEyWlp6bl90UGFUeU1kSWhIa3JxUUZ2YmpKMVdYZElSejNfZ25EZGJGZDZCbTIxa2VFU2ZyYXQ2bVhKbGpTVDRodw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "The “just kidding” heard around the world - Tech Brew",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sb3A3TjVxOU1JWDN0S20xZlRlTXJmWTdrVGszcU5Ob0s3NDlSM2wyeXRKQ2kwRTNyVmRxQUU0VEpvTFhVRC1SN0c2bjEwMW5paHpjQkJmblFSV2RVcjIxSmZrY3ltTDNKcXVCNWVGYklaZF9hOEE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Morning Brew Acquires Express Checkout in Latest Creator Play - ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHdkQ2xCaG9sSi1XYzZLTE1Ea2UzSWlIZTlUU3lYR01mVTVPRElzT2NjQ0xJVlFmTTBSbGhfemd6bElmZ3RiYUJjaVFReHJxVFBZWW8wdlJvR1pyRXQxUUFraGNGTUViWXlvNS1MSHBQY1lEVElucTVsaVNsNF9idzhyLThnUQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "How a Small Brewery Handles Waste After the Brew - Environment+Energy Leader",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXBtWFFDYmNMNjVvRklPd1I0QTNhR2QwWmdnb21VTTNJRDZ1SW5nTzhPSTRscTcxUV9QOTVwMmM5eXAtRVMwMlBJUjB5VDRGQUxKUFBIX2t2VFJVMVZFdnpvWThMYTJ3U0ZRMl9wR2JlWm1jX3FhbVRTUGdYdTl2d09KNkFFbzZqeFBWQWtfSk11SVBaN3c?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Purchase your tickets now for the annual AU Brew-N-Que fundraiser Oct. 16 - Augusta University",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFpPaEI2eTdIMC1FUi01elpiTHBYRjliY0kweGU3NGNXbjlqTUJSaU84T1NYa0pJdjlmOU9Ed2VPaXlreDFPT3V4d3B5THBsUXRsemlaSGZYN2RjWnVGVThGc0oyQUQyaGk2U3ZmaGJpY2NvZWhCNmhqZkVhby1CemRHUDlGZ01NNzdyRXcySVEzU0tnSHhlY3pUWmhURDcwSktv?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "7 Signs Someone Else Should Brew Your Beer - Brewers Association",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVVFQY3pKZG95MWtDQldwOXUwSHJJVjFHd1gzV1VQNHg0N2Q1Q0NzUTFSN19GZHBEc2RqYl9BWXNFYlM3WERqd2RRZkhka3Jybm9VZWxvemhfMFp2RXpjZWtiV3BQM2J6NkVoSXVxQURVMFFGY1p6T1JHYXhKb3lWWDVqUTZzMjc0TWZ0UWNaZVk?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop",
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -260446,9 +260488,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-25T04:20:28+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 69: qualified"
     }
    ],
-   "updated_at": "2026-11-24T17:20:44+05:30"
+   "updated_at": "2026-11-25T04:20:28+05:30",
+   "reject_reason": null
   },
   {
    "id": "L2050",

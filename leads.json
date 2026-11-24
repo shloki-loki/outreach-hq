@@ -180502,9 +180502,9 @@
    },
    "stage": "qualified",
    "outcome": null,
-   "applied_at": null,
+   "applied_at": "2026-11-24T19:43:28+05:30",
    "apply": {
-    "status": "not_started",
+    "status": "applied",
     "notes": "",
     "answers": {}
    },
@@ -180548,9 +180548,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-24T19:43:28+05:30",
+     "actor": "shlok",
+     "event": "applied",
+     "detail": "application submitted"
     }
    ],
-   "updated_at": "2026-11-19T23:44:44+05:30",
+   "updated_at": "2026-11-24T19:43:28+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

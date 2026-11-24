@@ -10349,6 +10349,15 @@
    "title": "Sending backlog and failed messages checked, 24 Nov 20:15",
    "detail": "0 failed messages now. 73 approved waiting (63 cold, 10 follow-up), including M0113-M0119 and M0436-M0438 which were re-queued by PR 20. Sender is working at its run limit of 10 per run, about every 20 minutes (sent 10 at 18:21, 18:42, 18:43, 19:17, 19:43, 20:00); 121 emails sent today. So approved messages are not stuck, they are waiting behind the per-run limit. GitHub runs all succeeded on 24 Nov (Track and send 12:57 UTC 14m29s, Lead scout 11:36 UTC, Research 10:12 UTC, Live check 09:46 UTC, Digest 13:09 UTC, Supervisor checks 13:49 UTC, Founder emails 14:02 UTC).",
    "ref": ""
+  },
+  {
+   "id": "J1151",
+   "at": "2026-11-24T20:13:05+05:30",
+   "by": "supervisor",
+   "kind": "note",
+   "title": "Bounce rate 4.9% is right at the 5% line",
+   "detail": "18 bounces of 367 sent (4.9%). By send date: 20 Nov 7, 21 Nov 3, 22 Nov 4, 23 Nov 2, 24 Nov 2 (anshul@relsofurniture.com M0451, abhishek@intract.io M0453, both sent at 12:56-12:59). Today is not above 2 bounces, so no new error issue, but 121 sends today at a similar rate will push it over 5%. Earlier diagnosis (I0028/I0040): most bounces are founder-list addresses imported as verified with unknown method. Recommend Shlok consider pausing guess-grade and unverified founder-list addresses until the rate drops.",
+   "ref": ""
   }
  ]
 }

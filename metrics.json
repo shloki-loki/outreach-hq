@@ -569,16 +569,16 @@
   "2026-11-24": {
    "leads_total": 2061,
    "by_status": {
-    "applied": 19,
-    "to_approve": 42,
+    "applied": 21,
+    "contacted": 108,
     "new": 1175,
     "rejected": 574,
     "replied": 7,
-    "contacted": 110,
     "skipped": 4,
     "interview": 1,
-    "qualified": 51,
-    "followup_due": 78
+    "qualified": 49,
+    "followup_due": 84,
+    "to_approve": 38
    },
    "by_source": {
     "linkedin_post": 58,
@@ -601,19 +601,19 @@
    "qualified_total": 82,
    "researched_total": 703,
    "with_email_total": 1025,
-   "emails_sent_total": 373,
-   "emails_sent_today": 127,
+   "emails_sent_total": 377,
+   "emails_sent_today": 131,
    "cold_sent_total": 297,
    "people_replied": 8,
    "bounces_total": 18,
    "reply_rate": 0.027,
    "bounce_rate": 0.048,
-   "applied_total": 21,
+   "applied_total": 23,
    "referrals_sent": 0,
    "interviews": 1,
    "offers": 0,
    "to_approve": 0,
-   "followups_due": 78,
+   "followups_due": 84,
    "new_leads_7d": 509
   }
  }

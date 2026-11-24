@@ -198237,10 +198237,10 @@
      "title": "Manager, Founder's Office at Nat Habit",
      "role_type": "team_lead",
      "linkedin_url": "https://www.linkedin.com/in/kriti-panwar-srcc/",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "kriti.panwar@nathabit.in",
+     "email_status": "catch-all",
+     "email_source": "pattern first.last on a catch-all domain",
+     "confidence": 55,
      "why": "",
      "found_at": "2026-11-23T20:23:06+05:30",
      "found_via": "linkedin-search"
@@ -198251,10 +198251,10 @@
      "title": "Manager - Founder's Office at Nat Habit",
      "role_type": "team_lead",
      "linkedin_url": "https://www.linkedin.com/in/ankita-ghosh-61608b208/",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "ankita.ghosh@nathabit.in",
+     "email_status": "catch-all",
+     "email_source": "pattern first.last on a catch-all domain",
+     "confidence": 55,
      "why": "",
      "found_at": "2026-11-23T20:23:06+05:30",
      "found_via": "linkedin-search"
@@ -198327,9 +198327,27 @@
      "actor": "people-finder",
      "event": "contact_added",
      "detail": "Ankita Ghosh (team_lead, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-24T12:30:24+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Gaurav Agarwal: gaurav@nathabit.in (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-24T12:30:24+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Kriti Panwar: kriti.panwar@nathabit.in (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-24T12:30:24+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Ankita Ghosh: ankita.ghosh@nathabit.in (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-23T20:23:06+05:30",
+   "updated_at": "2026-11-24T12:30:24+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",

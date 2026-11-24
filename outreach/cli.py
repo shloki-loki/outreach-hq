@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 from typing import Any
 
-from . import digest, emailfinder, importers, leads as lead_model, live, llm, messages, metrics, people, research, scout, send, store, track, writer, campaign
+from . import digest, emailfinder, importers, inmail, leads as lead_model, live, llm, messages, metrics, people, research, scout, send, store, track, writer, campaign
 from .rules import Pay, Verdict, judge, pay_fit
 from .util import load_config, load_env, now, now_iso, parse_iso
 
@@ -541,11 +541,20 @@ def main(argv: list[str] | None = None) -> None:
     contact = sub.add_parser("contact", help="add or update a person on a lead").add_subparsers(dest="action", required=True)
     p = contact.add_parser("add"); p.add_argument("lead")
     p.add_argument("--name"); p.add_argument("--title")
-    p.add_argument("--role-type", default="employee", choices=["recruiter", "hiring_manager", "founder", "employee", "generic"])
+    p.add_argument("--role-type", default="employee", choices=["recruiter", "hiring_manager", "team_lead", "founder", "employee", "generic"])
     p.add_argument("--linkedin-url"); p.add_argument("--email")
     p.add_argument("--email-status", choices=["published", "verified", "pattern", "guess", "catch-all"])
     p.add_argument("--email-source"); p.add_argument("--why")
     p.set_defaults(func=cmd_contact_add)
+    p = contact.add_parser("import", help="add many LinkedIn people at once: a JSON list of "
+                           "{lead, name, title, role_type, linkedin_url, why}")
+    p.add_argument("--json", required=True, help="file path or - for stdin")
+    p.set_defaults(func=lambda a: out(inmail.import_people(read_json(a.json))))
+
+    p = lead.add_parser("inmail", help="write the LinkedIn InMail (config/templates/inmail-v1.toml) onto job leads")
+    p.add_argument("ids", nargs="*", help="lead ids; default every listed job")
+    p.add_argument("--dry", action="store_true")
+    p.set_defaults(func=lambda a: out(inmail.write_all(a.ids or None, dry=a.dry)))
 
     p = sub.add_parser("find-email", help="find and grade emails for a lead's contacts")
     p.add_argument("--lead"); p.add_argument("--contact"); p.add_argument("--name"); p.add_argument("--domain")

@@ -1,0 +1,19 @@
+# LinkedIn InMail for a listed job: the same note to every person found for it (hiring manager, team lead,
+# recruiter, founder for founder's-office roles). Shlok sends it himself from LinkedIn Premium; nothing is
+# automated. Rewritten on his feedback (2026-11-23): refer to the posting link, fewer numbers, professional and
+# simple. Checked by messages.check_linkedin before it is written onto a lead. The site fills {first_name}.
+
+id = "inmail-v1"
+audience = "jobs"
+approved_by = "pending Shlok's OK in chat (2026-11-23)"
+
+body = """Hi {first_name},
+
+I'm interested in the {role} role at {company} and wanted to introduce myself. Here's the posting: {job_url}
+
+I'm an IIT Guwahati graduate and spent a year in strategy and operations at Ola Electric, working with the CEO and COO. There I built the algorithm that plans truck dispatches, which cut order-to-delivery time from 32 days to 14.
+
+Would you be open to a short conversation about what the team needs?
+
+Shlok
+"""

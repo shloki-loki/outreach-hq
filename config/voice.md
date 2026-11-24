@@ -162,6 +162,9 @@ The system never sends or automates anything on LinkedIn. It drafts, Shlok copie
   (delivery time 32 to 14 days). Your BizOps role is the same problem. Glad to connect."
 - **Message after they accept, or InMail:** 40-80 words, the same three-paragraph shape as the email, one
   question. An InMail also needs a subject under 5 words.
+- **InMail for a listed job (2026-11-23, Shlok):** one note per job, the same for every person on it
+  (`config/templates/inmail-v1.toml`). It may carry exactly one link, the posting itself, which he asked for; every
+  other link is still refused. One result, not a stack. Plain and professional. He sends it after applying.
 - Up to 3 people per lead: the person the role reports to or a founder, someone already doing the job,
   and the recruiter. Different wording for each; they may compare.
 - Free LinkedIn accounts get few personalised notes a month and no InMail, so both versions are drafted.

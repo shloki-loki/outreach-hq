@@ -14,8 +14,6 @@ export const dynamic = 'force-dynamic';
 
 // Simplified on Shlok's review (2026-11-23): apply, the people to InMail with one note, why it fits, the posting.
 // Cover notes, application answers, notes and the connections search were removed.
-const ROLE = { hiring_manager: 'Hiring manager', team_lead: 'Team lead', recruiter: 'Recruiter', founder: 'Founder',
-  employee: 'Works there', generic: 'Company address' };
 const ROLE_ORDER = ['hiring_manager', 'team_lead', 'recruiter', 'founder', 'employee'];
 const isUrl = (value) => /^https?:\/\//.test(value || '');
 
@@ -72,24 +70,7 @@ export default async function LeadPage({ params }) {
 
         <section className="section">
           <h2 className="section-label">People to message on LinkedIn<span className="n">{people.length}</span></h2>
-          {people.length === 0 ? (
-            <p className="empty">Not looked up yet. The hiring manager, the team lead and the recruiter are found on LinkedIn for each job.</p>
-          ) : (
-            <div className="card">
-              {people.map((person) => (
-                <div key={person.id} className="person">
-                  <div>
-                    <h4>{person.name} <span style={{ fontWeight: 400, color: 'var(--muted)' }}>· {ROLE[person.role_type] || 'Works there'}</span></h4>
-                    {person.title ? <p>{person.title}</p> : null}
-                  </div>
-                  <div className="right">
-                    <a className="button small primary" href={person.linkedin_url} target="_blank" rel="noreferrer">Open LinkedIn</a>
-                  </div>
-                </div>
-              ))}
-            </div>
-          )}
-          {lead.inmail?.body ? <div style={{ marginTop: 14 }}><InMailNote subject={lead.inmail.subject} body={lead.inmail.body} /></div> : null}
+          <InMailNote people={people} note={lead.inmail} />
         </section>
 
         {messages.length > 0 ? (

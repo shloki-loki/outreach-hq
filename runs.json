@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-21T19:05:14+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-21T19:05:22+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3485,6 +3472,16 @@
    "ok": true,
    "summary": "13 researched (9+2 rejected counted: 11 rejected, 2 qualified: Navi L1980, Zynga L1996), 0 emails found; skipped scrape (ran 04:46 today), no Apify used; L2010 SkillYT left unresearched (LinkedIn 429); stale re-verify and Monday company scan not done",
    "stats": {}
+  },
+  {
+   "at": "2026-11-24T12:35:18+05:30",
+   "agent": "send-track/send",
+   "ok": false,
+   "summary": "sent 7, failed 3. run limit of 10 reached; the rest go on the next run",
+   "stats": {
+    "sent": 7,
+    "failed": 3
+   }
   }
  ]
 }

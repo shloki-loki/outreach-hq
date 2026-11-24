@@ -9863,6 +9863,15 @@
    "title": "Scout 24 Nov: no named contacts found for 2 qualified leads",
    "detail": "Navi L1980 and Zynga L1996 qualified but web search gave no verifiable hiring manager or LinkedIn profile URL; no contacts added. SkillYT L2010 LinkedIn page returned 429.",
    "ref": "I0105"
+  },
+  {
+   "id": "J1097",
+   "at": "2026-11-24T12:35:18+05:30",
+   "by": "send-track/send",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "sent 7, failed 3. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

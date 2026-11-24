@@ -77971,9 +77971,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:35+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Indrajeet Roy queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-25T00:05:18+05:30",
+   "updated_at": "2026-11-25T00:05:35+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -78714,9 +78720,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:35+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Suraj Saharan queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-25T00:05:18+05:30",
+   "updated_at": "2026-11-25T00:05:35+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -78891,9 +78903,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T00:05:35+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Sachin Thakkar queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-25T00:05:18+05:30",
+   "updated_at": "2026-11-25T00:05:35+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -80634,9 +80652,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "SMTPServerDisconnected: Connection unexpectedly closed: The read operation timed out"
+    },
+    {
+     "at": "2026-11-25T00:05:35+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Diego Oppenheimer queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-24T11:43:04+05:30",
+   "updated_at": "2026-11-25T00:05:35+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

@@ -263028,15 +263028,15 @@
    "key": "electrolux|sap supply chain planning ibp expert|bengaluru",
    "type": "job",
    "company": "Electrolux Group",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "electroluxgroup.com",
+   "company_url": "https://www.electroluxgroup.com",
    "company_linkedin": "https://se.linkedin.com/company/electroluxgroup",
    "company_note": "",
    "title": "SAP Supply Chain Planning IBP Expert",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru East, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4478551460",
    "source_url": "https://in.linkedin.com/jobs/view/sap-supply-chain-planning-ibp-expert-at-electrolux-group-4478551460",
@@ -263052,7 +263052,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-25",
    "open": true,
-   "jd": "",
+   "jd": "Job Description\n Solve complex problems. Decode the future.\n At Electrolux Group, as a leading global appliance company, we strive every day to shape living for the better for our consumers, our people, and our planet. We share ideas and collaborate so that together, we can develop solutions that deliver enjoyable and sustainable living.\nCome join us as you are. We believe diverse perspectives make us stronger and more innovative. In our global community of people from 100+ countries, we listen to each other, actively contribute, and grow together.\nJoin us in our exciting quest to build a future home.\n All about the role:\n We are looking for a passionate SAP Supply Chain Planning IBP expert with experience in driving projects and managing business stakeholder communication.\nThe role is part of the central Business Area Europe IT Supply Chain Planning Solutions team. The position requires the ability to travel occasionally.\n What you'll do:\n Conduct full lifecycle analysis from pre-studies, requirements gathering to solution delivery\n Work with IBP modules such as Supply & Response, Sales Operations Planning, Forecasting, Demand Management, Inventory Planning, and Optimization\n Conduct pre-studies/activities/projects including Proof of concept, Requirement Fit/Gap analysis, functional design, configuration, testing and cutover activities\n Create design, build, and configure SAP IBP applications to meet business process and application requirements.\n Training Key Users\n Qualifications:\n Hands-on experience & technical expertise of SAP IBP implementations is a must\n Strong functional knowledge of Integrated Business Planning (IBP), Sales and Operations Planning (S&OP), Inventory Planning and Optimization & Demand Planning processes\n Ability to design, build, and configure SAP IBP applications to meet business process and application requirements.\n Problem solving skills and process related mindset.\n Strong sense of ownership\n Ability to dive into details when required, to find solutions and solve problems.\n Ability to communicate with technical teams and developers.\n Self-motivated and self-sufficient – able to drive activities/projects.\n Committed and target oriented – meeting deadlines.\n Supply Chain and/or Logistics operational experiences are a plus.\n Fluent English\n Where you'll be:\n You will be based at Electrolux office in India.\n Attractions include:\n Flexible work hours/hybrid work environment.\n Extensive learning opportunities and flexible career path.\n We look forward to receiving your application!\n As part of Electrolux, we will continuously invest in you and your development. There are no barriers to where your career could take you.\nSeniority level Not Applicable | Employment type Full-time | Industries Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -263067,8 +263067,8 @@
    },
    "score": {
     "rules": 71,
-    "research": null,
-    "total": 71,
+    "research": 45,
+    "total": 55,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -263078,15 +263078,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "SAP Supply Chain Planning IBP Expert at Electrolux Group; asks for SAP IBP implementation expertise which you lack.",
+    "fit_notes": "The posting asks for: \"Hands-on experience & technical expertise of SAP IBP implementations is a must\" and \"Strong functional knowledge of Integrated Business Planning (IBP), Sales and Operations Planning (S&OP), Inventory Planning and Optimization & Demand Planning processes\". Shlok has strong S&OP and MRP experience [sop, mrp], but his stated SAP skills are \"SAP ERP (MM, PP)\" rather than IBP specifically, representing a technical gap for an IBP expert role.",
+    "pay_notes": "Pay is not stated in the posting, and no salary evidence is available in the provided sources.",
+    "culture_notes": "What they do was not found in the evidence; one minor tariff refund claim flag from June 2026 and a recent procurement leadership mention were found [S1, S2].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T04:23:24+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Electrolux Group submits claims related to refund of IEEPA tariffs of approx. USD 88 million - Electrolux Group",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ1AtTFZXV3NpbEttYVk5OEk1QjVjMURnalZYNUNkOWNTVUxRNWpVYlR4eUFxckNsUGpkVFUzWVk1dVQ5QjBCWXNlNkV4Q3dIU1NOeHZHOTdWYy13VkZwcTI1YlpmNmVTeTBrazM2X2RPWkhtNjBObUw3Ry1TSE9NZmVDVF94QlFYMDBHMU9Hajc3X2NlTDRtMzhyVDJCNHJtaXVlMjV2TzBRRnFwTmhWOWxkZjZUdjNHZVhlam9UbU9lMjFzNEd4eHRieVNCUQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Our new Head of Procurement on unlocking further value and strengthening cost leadership - Electrolux Group",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaGZ0WVhGZGpocUtzRjg5REFnSXFyb2t6RFZ2Q1lJTlVuZHl3ZTV5UThWTG9zZGNXZXdNVGN5Q1dZekZPdVJ4OFMyTk9aWFE1Y21rLXRQbjZOVnVKVzBTXzFDcGtzU3czQmN4QjZfdnZhemZOdTYtZ1NGTnFMN3VvMFpyUFFNdWZaZTFXTGszdXd5a3lnR1h5WlJueDJzNlJpYlRKMkNZN3RPcnlrcUU5TkcyYzNpUnA5UWdfN0g5MVY3c3lvemJUb193?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Diego Perrone appointed Chief Strategy Officer - Electrolux Group",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEY5SjhTaVp0RUUwUUozdkg0ZlEwMWRpemEyVEp6blJSdks2QV93dF9PU1pNR05VbkJXNDRod2xfWF84SFJ0cTJFaVQtT0JoR1M3ekd2eS1DWl9oWi1jTFJqVXhzZzlvU3EwNlZaN3E1OFJzMzJiSERIMXFMU2VCZjRlRGw5eEVxbmNPMVBVT2ZLdw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Change in the number of shares and votes in AB Electrolux - Electrolux Group",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXdZWXp6TDRydG9aZGJXX2d2QWlwY1hSdUVMcUhfZEVoVENNelN6S05TSkN5a3FyNEZnV1daYlM3akJGNjV4MHJNQWtUWHJqd2hFQnZHS1F1ZTY3SEtKbFFWeTFjVURnQXQwbnZxNXZIS1hGZGJpS0RNUUZZVGp2S0M4aEk0djc2VXU0eVRsZDY4VEF2MmNjQUg2OEFxYlhL?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Change in the number of shares and votes in AB Electrolux - Electrolux Group",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRFBwemp1V3hUUlRNY0dmRXQxekM0M21tMUx6SjhQQkwxcFNwelF5MUM1ZzRyT2NIdlhrYldtVHNsamwyY0tBTlZJbWItOHE1V05ENG1GamVSQlpEZWJWMUhyaDBJRHlrSGx0dUtJZl9PVTM5MkhpcUY0TXFMR3BKaEJLWWdSQmx4ZEZqcV9HTzJkUnAtQzJRZXBIZUFiU25LZG9Z?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Electrolux Group Appoints Diego Perrone as Chief Strategy Officer - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUxjbkZzZTF1c1dpZWVRcWJlaVBFSF9CczE2MXBxWVpLYmdIUUQ3ZFdNMmw0WjdGQkd4dWNwRTNVRGpNei1TTWdoRHNQQ2ZUVTVIbE4tbC1hUFBMczJXUEJja2xsaHV4R1BHNFBXVHFzXzA5M0VtSmZMdnZDUXNnNHdSdkthVDNtRDVBVlVR?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -263110,9 +263150,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 71"
+    },
+    {
+     "at": "2026-11-25T04:23:24+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 55: rejected (The role requires hands-on experience and technical expertise in SAP IBP implementations, and Shlok's SAP experience is in SAP MRP (MM, PP) rather than IBP (Integrated Business Planning). Additionally, pay is not stated and likely will not meet the Rs 24.5 LPA threshold for a corporate IT/supply chain planning role at this seniority level.)"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30"
+   "updated_at": "2026-11-25T04:23:24+05:30",
+   "reject_reason": "The role requires hands-on experience and technical expertise in SAP IBP implementations, and Shlok's SAP experience is in SAP MRP (MM, PP) rather than IBP (Integrated Business Planning). Additionally, pay is not stated and likely will not meet the Rs 24.5 LPA threshold for a corporate IT/supply chain planning role at this seniority level."
   },
   {
    "id": "L2076",

@@ -251013,8 +251013,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 10,
+    "total": 36,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -251024,15 +251024,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Wadi Surgicals Founders Office Executive Assistant, Hyderabad, asks 2-5 yrs as EA; admin scope.",
+    "fit_notes": "JD in lead record: EA experience required; not strategy/ops.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T12:32:35+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -251056,9 +251058,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-24T12:32:35+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 36: rejected (Executive assistant role asking 2-5 years, Hyderabad, admin scope)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30"
+   "updated_at": "2026-11-24T12:32:35+05:30",
+   "reject_reason": "Executive assistant role asking 2-5 years, Hyderabad, admin scope"
   },
   {
    "id": "L2000",

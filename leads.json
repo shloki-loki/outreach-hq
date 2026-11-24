@@ -236,9 +236,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -316,9 +317,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting page no longer exists (HTTP 404)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T15:20:12+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "closed",
@@ -629,9 +636,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -801,9 +809,15 @@
      "actor": "lead-scout",
      "event": "reopened",
      "detail": "posting is live again"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T17:20:44+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "closed",
@@ -2462,9 +2476,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -2514,9 +2529,15 @@
      "actor": "recheck",
      "event": "unlisted",
      "detail": "posting could not be opened (a LinkedIn post needs a signed-in look)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T18:09:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -2628,9 +2649,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup2",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -2698,9 +2720,15 @@
      "actor": "recheck",
      "event": "unlisted",
      "detail": "posting could not be opened (a LinkedIn post needs a signed-in look)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup2 is due"
     }
    ],
-   "updated_at": "2026-11-23T18:09:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -3092,9 +3120,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup2",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -3156,9 +3185,15 @@
      "actor": "recheck",
      "event": "unlisted",
      "detail": "posting could not be opened (a LinkedIn post needs a signed-in look)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup2 is due"
     }
    ],
-   "updated_at": "2026-11-23T18:09:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -3519,9 +3554,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup2",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -3599,9 +3635,15 @@
      "actor": "recheck",
      "event": "unlisted",
      "detail": "posting could not be opened (a LinkedIn post needs a signed-in look)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup2 is due"
     }
    ],
-   "updated_at": "2026-11-23T18:09:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -3849,9 +3891,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup2",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -3924,9 +3967,15 @@
      "actor": "recheck",
      "event": "unlisted",
      "detail": "posting could not be opened (a LinkedIn post needs a signed-in look)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup2 is due"
     }
    ],
-   "updated_at": "2026-11-23T18:09:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -5662,9 +5711,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup2",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -5768,9 +5818,15 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Shantanu Singh: shantanu@carbontrail.net (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup2 is due"
     }
    ],
-   "updated_at": "2026-11-24T02:29:20+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -6141,9 +6197,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -6193,9 +6250,15 @@
      "actor": "recheck",
      "event": "unlisted",
      "detail": "posting could not be opened (a LinkedIn post needs a signed-in look)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T18:09:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -7369,9 +7432,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup2",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -7433,9 +7497,15 @@
      "actor": "recheck",
      "event": "unlisted",
      "detail": "posting could not be opened (a LinkedIn post needs a signed-in look)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup2 is due"
     }
    ],
-   "updated_at": "2026-11-23T18:09:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -7550,9 +7620,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup2",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -7626,9 +7697,15 @@
      "actor": "recheck",
      "event": "unlisted",
      "detail": "posting could not be opened (a LinkedIn post needs a signed-in look)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup2 is due"
     }
    ],
-   "updated_at": "2026-11-23T18:09:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -7740,9 +7817,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [
     {
@@ -7785,9 +7863,15 @@
      "actor": "recheck",
      "event": "unlisted",
      "detail": "posting could not be opened (a LinkedIn post needs a signed-in look)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T18:09:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -14253,9 +14337,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup2",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -14336,9 +14421,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Madan Somasundaram"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup2 is due"
     }
    ],
-   "updated_at": "2026-11-20T16:34:21+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
@@ -18467,9 +18558,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -18520,9 +18612,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Naman Pushp"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T16:43:43+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "live",
@@ -45577,9 +45675,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -45624,9 +45723,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Komal Rathee"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:31:01+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",
@@ -51809,9 +51914,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -51874,9 +51980,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Shivam Tripathi"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:35:27+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -52774,9 +52886,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -52803,9 +52916,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Gaurav Pushkar"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:34:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -53158,9 +53277,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -53181,9 +53301,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Binny Bansal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:10:45+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -53277,9 +53403,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -53300,9 +53427,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Himanshu Tyagi"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:12:28+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -53409,9 +53542,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -53438,9 +53572,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v1 email to Ashish Agarwal queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T16:07:27+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -53547,9 +53687,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -53582,9 +53723,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T09:35:51+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -53842,9 +53989,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -53895,9 +54043,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Himavanth Chowdary Jasti"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T16:05:35+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -54017,9 +54171,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -54052,9 +54207,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T11:07:38+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -54174,9 +54335,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -54221,9 +54383,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Mayank Goyal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:38:55+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -54330,9 +54498,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -54365,9 +54534,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T12:23:44+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -54474,9 +54649,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -54509,9 +54685,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T13:00:56+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -54618,9 +54800,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -54653,9 +54836,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T13:31:47+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -54749,9 +54938,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -54772,9 +54962,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ishan Sukul"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:28:19+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -54881,9 +55077,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -54916,9 +55113,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T14:10:07+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -55132,9 +55335,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -55167,9 +55371,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T14:35:22+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -55383,9 +55593,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -55406,9 +55617,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Meeta Sharma Gupta"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:33:47+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -55515,9 +55732,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -55550,9 +55768,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Arpit Samdani"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T14:35:42+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -55659,9 +55883,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -55694,9 +55919,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Niranjana Neelakantan"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T14:37:14+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -55803,9 +56034,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -55826,9 +56058,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Shivali Goyal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:38:50+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -55935,9 +56173,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -55970,9 +56209,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Anil Chandra Naidu Matcha"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T14:39:12+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56079,9 +56324,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -56114,9 +56360,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Yash Bansal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T14:45:35+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56210,9 +56462,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -56233,9 +56486,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Jay Kumar"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:42:42+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56342,9 +56601,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -56365,9 +56625,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sulakshan Kumar"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:44:04+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56461,9 +56727,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -56484,9 +56751,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Aastha Pitalia"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:46:05+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56580,9 +56853,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -56603,9 +56877,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Animesh Singh"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:47:59+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56699,9 +56979,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -56722,9 +57003,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Krishna Motukuri"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:49:31+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56951,9 +57238,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -56986,9 +57274,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Anurag Gupta"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T14:47:03+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -57095,9 +57389,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -57130,9 +57425,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Anmol Jain"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T14:48:25+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -57265,9 +57566,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -57324,9 +57626,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Satya Sharma"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T16:07:21+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -57433,9 +57741,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -57474,9 +57783,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Gazal S Kalra"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T14:51:55+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -57596,9 +57911,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -57619,9 +57935,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Raj Singhal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:57:53+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -57728,9 +58050,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -57751,9 +58074,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ashish Chandra"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T15:59:08+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -57873,9 +58202,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -57932,9 +58262,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Oleg Avdeev"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:45:30+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -58054,9 +58390,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -58101,9 +58438,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Abhishek Gautam"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:46:44+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -58223,9 +58566,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -58258,9 +58602,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Kanika Singh Chopda"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T14:57:06+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -58354,9 +58704,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -58377,9 +58728,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Varun Khurana"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T16:06:10+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -58577,9 +58934,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -58702,9 +59060,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Kavish Manubolu queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:07:54+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -58811,9 +59175,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -58846,9 +59211,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Mukul Dhankhar"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:00:52+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -58994,9 +59365,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -59071,9 +59443,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Brandon Yang"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T08:06:59+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -59323,9 +59701,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -59346,9 +59725,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Nikhilesh Tiwari"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T16:11:11+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -59455,9 +59840,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -59490,9 +59876,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Piyush Wadhwani"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:09:07+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -59599,9 +59991,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -59634,9 +60027,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Atul Kumar"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:10:26+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -59863,9 +60262,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -59898,9 +60298,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Kartik Kanaujia"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:12:28+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -59994,9 +60400,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -60017,9 +60424,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Rajat Mishra"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T16:13:41+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -60282,9 +60695,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -60305,9 +60719,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Abhijeet Ghosh"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T16:15:35+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -60414,9 +60834,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -60449,9 +60870,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Shantanu Singh"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:15:21+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -60558,9 +60985,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -60593,9 +61021,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Harry Sehrawat"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:17:30+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -60702,9 +61136,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -60725,9 +61160,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Mayank Bhangadia"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T16:18:16+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -60860,9 +61301,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -60919,9 +61361,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Nishit Asnani"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T16:12:36+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61015,9 +61463,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -61038,9 +61487,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Prateek Singhal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T16:19:38+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61134,9 +61589,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -61157,9 +61613,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Anshul Rustaggi"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T16:20:22+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61266,9 +61728,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -61301,9 +61764,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ritesh Khandelwal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:20:51+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61423,9 +61892,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -61470,9 +61940,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Chandan Yadav"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:50:18+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61579,9 +62055,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -61614,9 +62091,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sriram Rupanagunta"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:27:41+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61710,9 +62193,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -61733,9 +62217,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Rohit Sharma"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-20T16:23:34+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61868,9 +62358,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -61915,9 +62406,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Karan Singla"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T16:14:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -62050,9 +62547,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -62115,9 +62613,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Vinay Singh"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T08:09:04+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -62263,9 +62767,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -62310,9 +62815,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Nikhil Tripathi"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T16:17:21+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -62406,9 +62917,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -62429,9 +62941,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ravi Tiwari"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:53:53+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -62525,9 +63043,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -62548,9 +63067,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Tom Chavez"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:54:18+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -62844,9 +63369,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -62885,9 +63411,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Indraneel Chakravarty"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T08:13:04+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -62981,9 +63513,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -63004,9 +63537,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Brent Nicholson"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:57:23+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63113,9 +63652,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -63154,9 +63694,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Dushyant Agarwal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T08:15:15+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63263,9 +63809,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -63304,9 +63851,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Harshit Surana"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T08:17:19+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63413,9 +63966,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -63454,9 +64008,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Mayank Singh Chauhan"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T08:18:48+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63563,9 +64123,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -63604,9 +64165,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Shirshanka Das"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T08:20:29+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63713,9 +64280,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -63754,9 +64322,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Dipesh Mittal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T08:21:57+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63850,9 +64424,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -63873,9 +64448,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Gaurav Singhal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T16:02:18+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63982,9 +64563,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -64023,9 +64605,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Prashant Kumar"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T08:25:31+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -64145,9 +64733,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -64186,9 +64775,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Chandranshu Sinha"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T15:53:50+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -64282,9 +64877,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -64311,9 +64907,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Arjun Attam"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T15:55:51+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -64420,9 +65022,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -64461,9 +65064,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Pawan Gupta"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T15:57:28+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -64570,9 +65179,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -64611,9 +65221,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Rohan Tomar"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T15:59:02+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -64720,9 +65336,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -64761,9 +65378,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Natarajan H K"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T16:00:33+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -64896,9 +65519,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -64961,9 +65585,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Ayush Lodhi queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:07:54+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65057,9 +65687,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -65086,9 +65717,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Suchin Jain"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T16:03:33+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65182,9 +65819,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -65211,9 +65849,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Jaganath Swamy"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T16:04:59+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65320,9 +65964,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -65361,9 +66006,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ashwani Gautam"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T16:06:39+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65457,9 +66108,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -65486,9 +66138,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Vivek Agarwal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T16:08:38+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65582,9 +66240,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -65611,9 +66270,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Piyush Jain"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:05:42+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65720,9 +66385,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -65767,9 +66433,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Swapnil Basak"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:13:37+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -65863,9 +66535,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -65892,9 +66565,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Pallavi Chakravorty"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:09:06+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -66001,9 +66680,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -66054,9 +66734,15 @@
      "actor": "follow-up",
      "event": "bounced",
      "detail": "rohan@metakeep.xyz does not exist; needs a new address"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:25:13+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -66150,9 +66836,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -66179,9 +66866,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Vikash Mishra"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:12:20+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -67927,9 +68620,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -67980,9 +68674,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Arko Dhar"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T10:37:20+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -68102,9 +68802,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -68161,9 +68862,15 @@
      "actor": "follow-up",
      "event": "bounced",
      "detail": "tim@relvy.ai does not exist; needs a new address"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T10:45:17+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -68420,9 +69127,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -68461,9 +69169,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T08:53:23+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -68570,9 +69284,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -68611,9 +69326,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T08:54:14+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -68707,9 +69428,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -68736,9 +69458,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Manu George"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:29:31+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -68858,9 +69586,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup2",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -68929,9 +69658,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup2 is due"
     }
    ],
-   "updated_at": "2026-11-23T09:06:29+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -69064,9 +69799,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -69129,9 +69865,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "confirmed in Gmail's Sent folder after an interrupted run"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T11:06:32+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -69238,9 +69980,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -69279,9 +70022,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T09:08:09+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -69375,9 +70124,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -69404,9 +70154,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Raghubir Gupta"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:36:20+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -69513,9 +70269,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -69542,9 +70299,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Anubhav Sharma"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:38:20+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -69651,9 +70414,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -69692,9 +70456,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T09:08:59+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -69814,9 +70584,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -69867,9 +70638,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Rupendra Pratap Singh"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T10:45:41+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -69976,9 +70753,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -70017,9 +70795,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T09:10:38+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -70113,9 +70897,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -70142,9 +70927,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Aseem Khanduja"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:50:13+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -70251,9 +71042,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -70292,9 +71084,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T09:11:29+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -70388,9 +71186,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -70417,9 +71216,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Vishnu Raned"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T19:53:54+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -70526,9 +71331,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -70567,9 +71373,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T09:12:20+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -70689,9 +71501,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -70742,9 +71555,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ramakant Vempati"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T10:47:50+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -71076,9 +71895,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -71105,9 +71925,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Dharmik Bapodara"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T20:00:32+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -71332,9 +72158,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -71355,9 +72182,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Dilip Dubey"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T20:06:54+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -71451,9 +72284,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -71474,9 +72308,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ravi Khandelwal"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T20:08:10+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -71583,9 +72423,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -71618,9 +72459,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T09:26:33+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -71740,9 +72587,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -71775,9 +72623,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T09:27:26+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -71897,9 +72751,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -71938,9 +72793,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Varun Gupta"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T10:50:25+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -72047,9 +72908,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -72082,9 +72944,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-23T09:46:44+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -72353,9 +73221,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -72376,9 +73245,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Manish Gupta"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T20:18:09+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -72485,9 +73360,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -72508,9 +73384,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Arpana Shahi"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-22T20:19:59+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -121384,9 +122266,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -121407,9 +122290,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Kapil Makhija"
+    },
+    {
+     "at": "2026-11-24T18:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-21T15:29:12+05:30",
+   "updated_at": "2026-11-24T18:05:14+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

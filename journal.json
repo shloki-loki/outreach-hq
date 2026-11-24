@@ -10331,6 +10331,15 @@
    "title": "Solved: 64 messages sit in failed state; supervisor check fails on them",
    "detail": "Checked 24 Nov evening: 0 messages in failed state (563 messages: 341 sent, 73 approved, 18 bounced, 8 replied, 123 skipped). The lost sends were re-queued as approved by PR 20 and are sending 10 per run. Supervisor checks workflow green at 19:19 IST and GitHub run 13:49 UTC success.",
    "ref": "I0101"
+  },
+  {
+   "id": "J1149",
+   "at": "2026-11-24T20:12:53+05:30",
+   "by": "supervisor",
+   "kind": "fix",
+   "title": "Solved: Inbox scan failed",
+   "detail": "Last failure 24 Nov 05:37 IST; follow-up/track has run clean every 20 minutes since 05:52 (latest 20:05, 1 reply found). The 60-second read limit works.",
+   "ref": "I0046"
   }
  ]
 }

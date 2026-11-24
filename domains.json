@@ -349,6 +349,12 @@
    "site_personal": [],
    "catch_all": true,
    "checked_at": "2026-11-24T02:29:18+05:30"
+  },
+  "intract.io": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

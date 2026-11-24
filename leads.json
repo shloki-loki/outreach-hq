@@ -4014,9 +4014,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup2 to akash.ceo@gbgev.com queued (template)"
+    },
+    {
+     "at": "2026-11-24T18:19:01+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to akash.ceo@gbgev.com"
     }
    ],
-   "updated_at": "2026-11-24T18:05:27+05:30",
+   "updated_at": "2026-11-24T18:19:01+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

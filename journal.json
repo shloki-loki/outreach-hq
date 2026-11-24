@@ -10196,6 +10196,15 @@
    "title": "Ran",
    "detail": "Outreach HQ 24 Nov: 1 reply, 81 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J1134",
+   "at": "2026-11-24T18:42:20+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

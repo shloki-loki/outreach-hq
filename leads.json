@@ -58985,10 +58985,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-24T18:25:11+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -59051,9 +59050,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-24T19:31:44+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup1 email to Siddharth Sharma"
     }
    ],
-   "updated_at": "2026-11-24T18:25:11+05:30",
+   "updated_at": "2026-11-24T19:31:44+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

@@ -255508,15 +255508,15 @@
    "key": "wadhwaniai|impact leadership fellow growth and strategy|india",
    "type": "job",
    "company": "Wadhwani AI Global",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "wadhwaniai.org",
+   "company_url": "https://www.wadhwaniai.org",
    "company_linkedin": "https://in.linkedin.com/company/wadhwani-ai-global",
    "company_note": "",
    "title": "Impact Leadership Fellow, Growth & Strategy",
    "tier": "1 - Strategy & Ops",
    "location": "Delhi, Delhi, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492168888",
    "source_url": "https://in.linkedin.com/jobs/view/impact-leadership-fellow-growth-strategy-at-wadhwani-ai-global-4492168888",
@@ -255532,7 +255532,7 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "",
+   "jd": "Work type: Full time\n Department: Growth & Strategy\n Workplace: On-Site, New Delhi, Delhi, India\n About Wadhwani AI Global\n Wadhwani AI Global (WAIG) is a next-generation AI transformation partner for governments and multilaterals across Africa, Latin America, and Asia. We institutionalise AI across health, education, and agriculture in the Global South, combining cutting-edge AI products with deep advisory capabilities to improve public services at scale. Working at the intersection of strategy advisory and technology scaling, we build and deploy AI solutions with governments and partners to unlock large-scale impact.\n About The Impact Leadership Fellowship\n The fellowship gives early-career professionals a focused year inside one team, with real ownership and direct access to leadership. Each fellow is hired for, and placed with, a single team for the full 12 months. Fellows who perform well convert into full-time Associates on their host team.\n The Role\n The Growth & Strategy Fellow contributes to key pieces of WAIG's growth engine, from market and deal workstreams to live proposals and go-to-market execution. You will support market insights, assist with proposal and commercial analyses, help keep active opportunities moving, and work closely with product, tech, and marketing teams to position solutions for scale, and take on ownership of defined pieces of work early.\n What You Will Do\n Drive Growth Strategy\n Support market expansion and sector growth initiatives\n Help identify white space opportunities and define where Wadhwani AI Global should and shouldn't play\n Push Deals Forward\n Support proposal development for select opportunities\n Support senior leaders in high-stakes conversations with ministries and multilaterals\n Help shape partnership structures, pricing logic, and investment cases\n Execute Go-to-Market\n Help translate AI products into compelling GTM narratives for different countries and sectors\n Track deal momentum and help unblock issues across teams\n Support early-stage negotiation prep and commercial thinking\n Own a defined workstream, such as a proposal or a go-to-market play, with support from your manager\n Who You Are\n You are an early-career professional with 1 to 3 years of relevant work experience and the potential to grow into a full-time Associate. You bring some of the core skills of a growth and strategy role and learn new ones quickly.\n Requirements\n 1 to 3 years in consulting, growth strategy, corporate development, or startups\n Exposure to deal structuring, business modelling, and partnership management\n Excellent executive communication, stakeholder influence, and storytelling skills\n Comfortable operating in fast-changing, under-defined environments\n Nice to Have\n Experience with tech, AI, or impact sectors\n What You Gain\n Global exposure: you work at a global AI organisation, with the possibility of travel to the countries where we operate\n AI in public services: you work directly on WAIG's projects and may join field visits to Sub-Saharan Africa and SouthEast Asia, to see how AI is deployed to improve public services\n Early ownership: as an early-stage organisation, we give fellows ownership of high-impact projects and the chance to work directly with leadership\n Regular guidance: a dedicated manager, structured check-ins, and a clear way to raise concerns\nSeniority level Associate | Employment type Full-time | Industries Technology, Information and Internet",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -255547,8 +255547,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 60,
+    "total": 60,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -255558,15 +255558,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Growth & Strategy Fellowship at Wadhwani AI Global, asks 1-3 yrs; but requires consulting experience you lack.",
+    "fit_notes": "The posting asks for '1 to 3 years in consulting, growth strategy, corporate development, or startups' and 'Exposure to deal structuring, business modelling, and partnership management'. While Shlok has 1.3 years of experience and growth/strategy exposure from Ola Electric [sop, ceo-coo], the role requires consulting background and is structured as a fellowship program.",
+    "pay_notes": "Pay is not stated in the job posting or evidence.",
+    "culture_notes": "Ratings, headcount, and detailed culture flags were not found in the search evidence.",
+    "hook": "Wadhwani AI Global works as a next-generation AI transformation partner for governments and multilaterals across Africa, Latin America, and Asia.",
+    "hook_source": "https://in.linkedin.com/jobs/view/impact-leadership-fellow-growth-strategy-at-wadhwani-ai-global-4492168888",
+    "researched_at": "2026-11-24T16:21:16+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Wadhwani AI Global Impact Leadership Fellowship 2027: Paid 12-Month Fellowship in India for Early-Career Professionals - Global South Opportunities",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91WmZnclQ1M2RiZUNjVk9sTGJuNXRLMnZuS2t6ZkVtM1VneW9QajctdVNpZUdEd0lYTVRwaUFpRFYzR1dNa3VnT05LNDU2T2JjUENvcmJpdXR5VXQtRmZWbnIxcmhuU3NDNHhQVTIzSQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -255590,14 +255606,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-24T16:21:16+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 60: rejected (It is a fellowship program ('Impact Leadership Fellowship') explicitly asking for consulting experience ('1 to 3 years in consulting, growth strategy, corporate development, or startups'), and Shlok has neither an MBA nor consulting background.)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-24T16:21:16+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "It is a fellowship program ('Impact Leadership Fellowship') explicitly asking for consulting experience ('1 to 3 years in consulting, growth strategy, corporate development, or startups'), and Shlok has neither an MBA nor consulting background."
   },
   {
    "id": "L2035",

@@ -10358,6 +10358,15 @@
    "title": "Bounce rate 4.9% is right at the 5% line",
    "detail": "18 bounces of 367 sent (4.9%). By send date: 20 Nov 7, 21 Nov 3, 22 Nov 4, 23 Nov 2, 24 Nov 2 (anshul@relsofurniture.com M0451, abhishek@intract.io M0453, both sent at 12:56-12:59). Today is not above 2 bounces, so no new error issue, but 121 sends today at a similar rate will push it over 5%. Earlier diagnosis (I0028/I0040): most bounces are founder-list addresses imported as verified with unknown method. Recommend Shlok consider pausing guess-grade and unverified founder-list addresses until the rate drops.",
    "ref": ""
+  },
+  {
+   "id": "J1152",
+   "at": "2026-11-24T20:13:09+05:30",
+   "by": "supervisor",
+   "kind": "note",
+   "title": "Writer and research limited by free Gemini quota",
+   "detail": "Writer stopped early at 16:29 IST: free daily quota used on gemini-3.5 to 3.8-flash (limit 20 requests/day each); only 1 cold email drafted. Research-worker 16:26: 26 researched (3 qualified, 23 rejected), 9 errors from Gemini 503 (below the quarter threshold so not marked failed). Reoon is working (doctor OK). Hook-level analysis not done: 297 cold emails sent, over the 30 threshold, but only 8 people replied so no pattern is reliable yet.",
+   "ref": ""
   }
  ]
 }

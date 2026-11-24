@@ -23,8 +23,8 @@ attach_resume = false         # links land in inboxes more reliably than attachm
 
 [followups]
 max_followups = 2
-first_after_business_days = 4
-second_after_business_days = 7   # counted from the first follow-up
+first_after_business_days = 2   # Shlok, 2026-11-24: 2 days of no reply, then 2 more
+second_after_business_days = 2  # counted from the first follow-up
 stop_on = ["replied", "bounced", "lead_closed", "unsubscribed"]
 
 [tracking]

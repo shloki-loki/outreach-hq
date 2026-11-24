@@ -53,6 +53,24 @@ class CampaignTests(unittest.TestCase):
         self.assertEqual(campaign.check(subject, body, "Neha", "Co2"), [])
         self.assertTrue(campaign.check(subject, body.replace("Co2", "{company}"), "Neha", "Co2"))
 
+    def test_connection_failures_are_retried_next_run_but_bounces_are_not(self):
+        data = store.load("messages")
+        data["messages"] += [
+            {"id": "M0002", "lead_id": "L0001", "contact_id": "C1", "to": "asha@co1.com", "kind": "cold",
+             "status": "failed", "error": "TimeoutError: timed out"},
+            {"id": "M0003", "lead_id": "L0002", "contact_id": "C1", "to": "neha@co2.com", "kind": "cold",
+             "status": "failed", "error": "TimeoutError: timed out", "retries": 3},
+            {"id": "M0004", "lead_id": "L0004", "contact_id": "C1", "to": "x@co4.com", "kind": "cold", "status": "bounced"},
+            {"id": "M0005", "lead_id": "L0004", "contact_id": "C1", "to": "y@co4.com", "kind": "cold",
+             "status": "failed", "error": "550 mailbox does not exist"}]
+        store.save("messages", data)
+        self.assertEqual(campaign.retry_failed(), {"retried": 1})
+        by = {m["id"]: m for m in store.load("messages")["messages"]}
+        self.assertEqual((by["M0002"]["status"], by["M0002"]["retries"], by["M0002"]["error"]), ("approved", 1, None))
+        self.assertEqual(by["M0003"]["status"], "failed")
+        self.assertEqual(by["M0004"]["status"], "bounced")
+        self.assertEqual(by["M0005"]["status"], "failed")
+
     def test_only_one_founder_template_is_active(self):
         self.assertFalse(campaign.load("founder-v1").get("active"))
         active = [p.stem for p in (campaign.CONFIG_DIR / "templates").glob("*.toml")

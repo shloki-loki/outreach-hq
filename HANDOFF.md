@@ -211,6 +211,14 @@ issues as supervisor and share improvements via PRs, the work queue and journal.
   Prodigal (he interviewed there), Origin (he has a thread with the CEO), ExxonMobil (InMail over 80 words; posting
   may be a campus program). Re-run for new jobs as they are listed. Text awaits his OK.
 
+- **6I (done 2026-11-24): applied flow.** Agent Leads has three tabs: To apply, Applied, Closed. Applied counts any
+  route (Apply button, a sent email, a reply or an outcome), so jobs applied to by email no longer show under To apply.
+  Applied rows have Interview / Rejected / No response (outcome `closed`); an applied job with nothing new for 4 days
+  is pinned under "Check in" until he presses "I followed up" (`checked_in_at`) or records an outcome (`outcome_at`).
+  "+ Add a job you applied to" saves a `source: manual` lead as applied (company + note required). Cold emails lost
+  to a connection error are retried by the next cycle (`campaign.retry_failed`, up to 3 tries) and no longer listed
+  on Approvals. Follow-ups: 2 working days, then 2 more.
+
 Each item says what done looks like. Where a design choice is already made, follow it.
 
 ### A-E: built on 2026-11-14 (branch `claude/playbook-live-research`), what remains

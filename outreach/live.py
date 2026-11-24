@@ -90,7 +90,7 @@ def in_conversation(lead: dict) -> bool:
 
 
 def due(lead: dict) -> bool:
-    if lead.get("open") is False or lead.get("stage") == "skipped" or in_conversation(lead):
+    if lead.get("open") is False or lead.get("stage") == "skipped" or in_conversation(lead) or lead.get("source") == "manual":
         return False
     if lead.get("outcome") in ("rejected", "closed"):
         return False

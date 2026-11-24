@@ -254125,7 +254125,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491903063",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-astika-software-technologies-private-limited-4491903063",
@@ -254141,7 +254141,7 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "",
+   "jd": "Job Title : Business Development Manager\n Job Summary\n We are looking for an experienced Business Development Manager with strong networking, communication, and negotiation skills to identify new business opportunities, develop client relationships, and drive revenue growth by selling integrated digital marketing services.\n Key Responsibilities\n Identify potential clients, generate leads, and connect with key decision-makers within client organizations.\n Leverage market knowledge, professional networks, and industry connections to generate new business opportunities.\n Understand client requirements and coordinate with vertical heads to determine service pricing, project scope, and delivery timelines.\n Negotiate with clients, handle objections, and successfully close business deals.\n Lead brainstorming sessions to identify new business opportunities and growth strategies.\n Collaborate with the strategy team to develop compelling business proposals aligned with client requirements and objectives.\n Build, maintain, and strengthen client relationships through regular meetings and networking activities.\n Prepare and present monthly and quarterly sales activity and performance reports.\n Monitor digital marketing trends, new media developments, competitor offerings, and market opportunities.\n Required Skills\n Strong business development, sales, networking, and client relationship management skills.\n Excellent communication, pitching, presentation, and negotiation abilities.\n Experience in selling integrated digital marketing services, including:\n Website Development\n Affiliate Marketing\n Search Engine Optimization (SEO)\n Social Media Marketing\n Content Marketing\n Creative Services\n Strong market knowledge and established industry connections.\n Ability to understand client requirements and prepare effective business proposals.\n Excellent objection-handling, problem-solving, and deal-closing skills.\n Ability to identify market trends and convert opportunities into business growth.\n Strong analytical, strategic thinking, and reporting skills.\n Preferred Candidate Profile\n Proven experience in business development, preferably within digital marketing or advertising agencies.\n Strong client acquisition and revenue generation capabilities.\n Ability to build long-term business relationships and achieve sales targets.\nSeniority level Not Applicable | Employment type Full-time | Industries IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -254156,8 +254156,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -254167,15 +254167,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at Astika Software for digital marketing sales, but it is outside your domain expertise.",
+    "fit_notes": "The posting asks for experience in selling integrated digital marketing services including website development, SEO, and social media marketing, along with strong networking and negotiation skills. None of his facts ([msl], [o2d], [sop], [mrp], [ceo-coo], [rebalance], [cell], [idekho], [alcheringa], [ranks]) map to digital marketing sales.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company website, reviews, or news found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T16:18:15+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -254199,14 +254206,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-24T16:18:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The role is for selling digital marketing services, which does not utilize his S&OP, operations, or product background, and pay is unknown.)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-24T16:18:15+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role is for selling digital marketing services, which does not utilize his S&OP, operations, or product background, and pay is unknown."
   },
   {
    "id": "L2022",

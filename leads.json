@@ -60577,7 +60577,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-20T16:11:58+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-24T20:05:20+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -60667,9 +60667,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Jitendra Sharma"
+    },
+    {
+     "at": "2026-11-24T20:05:20+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "jiten@hairoriginals.com: Hi Shlok, Are you based out of Delhi ? You can drop by and we can have a chat around this . Thanks On Fri, Nov 20, 2026 at 4:11 PM Shlok Agrawal <111shlokagrawa"
     }
    ],
-   "updated_at": "2026-11-24T19:45:46+05:30",
+   "updated_at": "2026-11-24T20:05:20+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -60776,9 +60782,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T20:05:20+05:30"
    },
    "notes": [],
    "timeline": [
@@ -60835,9 +60842,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Priya Anant"
+    },
+    {
+     "at": "2026-11-24T20:05:20+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:47:31+05:30",
+   "updated_at": "2026-11-24T20:05:20+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61064,9 +61077,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T20:05:20+05:30"
    },
    "notes": [],
    "timeline": [
@@ -61123,9 +61137,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Shorya Mahajan"
+    },
+    {
+     "at": "2026-11-24T20:05:20+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:49:17+05:30",
+   "updated_at": "2026-11-24T20:05:20+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61675,9 +61695,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T20:05:20+05:30"
    },
    "notes": [],
    "timeline": [
@@ -61734,9 +61755,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Mayank Yadav"
+    },
+    {
+     "at": "2026-11-24T20:05:20+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:54:15+05:30",
+   "updated_at": "2026-11-24T20:05:20+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -61843,9 +61870,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T20:05:20+05:30"
    },
    "notes": [],
    "timeline": [
@@ -61902,9 +61930,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Archit Agarwal"
+    },
+    {
+     "at": "2026-11-24T20:05:20+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:55:36+05:30",
+   "updated_at": "2026-11-24T20:05:20+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -62187,9 +62221,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T20:05:20+05:30"
    },
    "notes": [],
    "timeline": [
@@ -62270,9 +62305,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Gorish Aggarwal"
+    },
+    {
+     "at": "2026-11-24T20:05:20+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T19:58:57+05:30",
+   "updated_at": "2026-11-24T20:05:20+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

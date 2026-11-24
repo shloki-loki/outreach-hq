@@ -262848,10 +262848,17 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 75: qualified"
+    },
+    {
+     "at": "2026-11-25T04:31:58+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-25T04:22:02+05:30",
-   "reject_reason": null
+   "updated_at": "2026-11-25T04:31:58+05:30",
+   "reject_reason": null,
+   "people_searched_at": "2026-11-25T04:31:58+05:30"
   },
   {
    "id": "L2068",

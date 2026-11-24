@@ -254236,7 +254236,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491381160",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-lead-modern-trade-corporate-gifting-at-tusker-trunk-4491381160",
@@ -254252,7 +254252,7 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "",
+   "jd": "ABOUT THE ROLE \n Tusker Trunk is an emerging Indian luggage and travel accessories brand seeking an ambitious\n business development professional to grow our offline retail and corporate gifting channels. We need\n someone who can approach decision-makers, build relationships, negotiate partnerships, and convert\n opportunities into revenue. This is a field-oriented role working closely with the founders.\n MODERN TRADE AND RETAIL PARTNERSHIPS \n • Identify and approach supermarket chains, hypermarkets, malls, department stores, and organised\n retail networks across India.\n • Reach category managers, retail heads, leasing teams, and business owners to secure selling space\n and distribution opportunities.\n • Pitch products and negotiate display spaces, shop-in-shop formats, listing terms, rentals, and\n revenue-sharing arrangements.\n • Coordinate pilot placements, store launches, and expansion into additional outlets.\n CORPORATE AND INSTITUTIONAL GIFTING \n • Identify corporates, gifting agencies, event organisers, and institutional buyers for bulk luggage\n orders.\n • Engage procurement, HR, administration, and gifting decision-makers; prepare proposals and\n negotiate pricing.\n • Close profitable orders, coordinate fulfilment, and develop repeat business from existing accounts.\n SALES EXECUTION AND ACCOUNTABILITY \n • Own prospecting, client meetings, presentations, follow-ups, negotiations, and deal closure.\n • Maintain a structured pipeline and track meetings, agreements, activations, orders, and account\n economics.\n • Travel regularly and coordinate with internal teams on product availability, merchandising, and\n dispatch.\n WHO WE ARE LOOKING FOR \n • 2-5 years in B2B sales, modern trade, retail partnerships, channel sales, corporate gifting, or\n business development.\n • Confident approaching senior business stakeholders; persuasive communicator and practical\n negotiator.\n • Existing connections with retailers or corporate buyers are advantageous, not mandatory.\n • Self-driven, persistent, comfortable with fieldwork and frequent travel, and able to operate with\n limited supervision.\n SUCCESS METRICS \n • New retail partnerships signed and profitable store placements activated.\n • Corporate gifting orders, revenue, and repeat business.\n • Qualified pipeline, conversion rate, and contribution from acquired accounts.\n What matters most: Actual prospecting and deal-closing ability, initiative, and ownership matter more \n than titles or degrees.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Consumer Goods Rental",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -254267,8 +254267,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 25,
+    "total": 39,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -254278,15 +254278,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Lead at Tusker Trunk, asks 2-5 yrs in B2B sales; your background is in supply chain and operations, not sales.",
+    "fit_notes": "The posting asks for \"2-5 years in B2B sales, modern trade, retail partnerships, channel sales, corporate gifting, or business development\" and requires field-oriented offline retail and corporate gifting expansion. Shlok has about 1.3 years of experience, mostly in S&OP, inventory management, and fulfillment operations at Ola Electric. None of his listed facts ([msl], [o2d], [sop], [mrp], [ceo-coo], [rebalance], [cell]) involve B2B sales, retail pitching, or corporate gifting.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company website, employee reviews, or culture data found for Tusker Trunk.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T16:19:10+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -254310,14 +254317,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-24T16:19:10+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 39: rejected (The role asks for 2-5 years in B2B sales, modern trade, or corporate gifting, which exceeds Shlok's 1.3 years of experience, and it is a field-oriented business development role that does not map to his core supply chain and strategy operations background.)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-24T16:19:10+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role asks for 2-5 years in B2B sales, modern trade, or corporate gifting, which exceeds Shlok's 1.3 years of experience, and it is a field-oriented business development role that does not map to his core supply chain and strategy operations background."
   },
   {
    "id": "L2023",

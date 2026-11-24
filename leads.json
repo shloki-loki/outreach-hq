@@ -41788,7 +41788,7 @@
    "key": "businessonbot|founder s office|bengaluru",
    "type": "company",
    "company": "BusinessOnBot",
-   "company_domain": "",
+   "company_domain": "businessonbot.com",
    "company_url": "https://www.businessonbot.com/",
    "company_linkedin": "https://www.linkedin.com/company/businessonbot",
    "company_note": "YC Winter 2021 · team of 25 · Automated user acquisition & selling on WhatsApp for businesses",
@@ -41796,7 +41796,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "businessonbot:company",
    "source_url": "https://www.ycombinator.com/companies/businessonbot",
@@ -41812,7 +41812,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "We help D2C brands and SMBs in India acquire customers and sell on WhatsApp. We do this by offering attribution based marketing and storefront ordering through a commerce bot with \r\nvernacular support.",
+   "jd": "BusinessOnBot: Automated user acquisition & selling on WhatsApp for businesses | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › BusinessOnBot \n BusinessOnBot\n Automated user acquisition & selling on WhatsApp for businesses\n Y Combinator Logo Winter 2021 \nActive\n SaaS\n E-commerce\n AI\n Company \n Jobs 5 \n News \n https://www.businessonbot.com/\n Automated user acquisition & selling on WhatsApp for businesses\n We help D2C brands and SMBs in India acquire customers and sell on WhatsApp. We do this by offering attribution based marketing and storefront ordering through a commerce bot with \r\nvernacular support.\n Latest News\n Why these IIT Madras alumni decided to tap the D2C enablement segment with BusinessOnBot \n Dec 02, 2021\n Jobs at BusinessOnBot\n View all jobs \n Lead Software Engineer \n Bangalore, India\n $40K - $60K\n 0.10% - 0.50%\n 6+ years\n Apply Now › \n Frontend Engineer \n Bangalore, Karnataka, India\n 1+ years\n Apply Now › \n Product Manager \n Bengaluru, KA, IN\n ₹800K - ₹1.1M INR\n 0.05% - 0.25%\n 1+ years\n Apply Now › \n Mobile App Developer \n Bengaluru, KA, IN\n ₹100K - ₹1.5M INR\n 1+ years\n Apply Now › \n Product Designer \n Bengaluru, KA, IN\n ₹7 - ₹12 INR\n 1+ years\n Apply Now › \n BusinessOnBot \n Founded: 2020 \n Batch: Winter 2021 \n Team Size: 25 \n Status: \nActive \n Location: Bengaluru, India \n Primary Partner: Gustaf Alstromer \n Founders\n Kirushanth Kumar Founder\n Kirushanth Kumar Founder\n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -41827,8 +41827,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -41838,15 +41838,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office speculative note at BusinessOnBot, but pay for open roles is below Rs 11 LPA and below your Rs 24.5 LPA target.",
+    "fit_notes": "The posting is a speculative note for a Founder's Office role at BusinessOnBot with no stated years of experience or pay. Open product and engineering roles on their site list pay between ₹800K - ₹1.1M INR (Product Manager) and ₹7 - ₹12 INR (Product Designer), which fall well short of Shlok's Rs 24.5 LPA minimum fixed pay requirement. Shlok's background in Strategy & Operations at Ola Electric [sop, ceo-coo] aligns with Founder's Office expectations, but the lack of pay evidence matching his floor makes this a reject.",
+    "pay_notes": "Pay is not stated in the Founder's Office lead. Other active roles at the company (e.g., Product Manager) list ₹800K - ₹1.1M INR, which is far below Shlok's Rs 24.5 LPA requirement.",
+    "culture_notes": "Team size of 25, YC Winter 2021 batch [S1]. Customer praise noted on the website regarding handling of RTO issues and conversational e-commerce [S1]. No formal Glassdoor rating or review count found.",
+    "hook": "We help D2C brands and SMBs in India acquire customers and sell on WhatsApp with attribution-based marketing and storefront ordering.",
+    "hook_source": "https://www.businessonbot.com/",
+    "researched_at": "2026-11-24T16:21:54+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "BusinessOnBot website",
+      "url": "https://www.businessonbot.com/"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -41884,14 +41900,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T16:21:54+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The lead is a speculative note to founders with no named opening, and active job listings on their site (Product Manager, Frontend, Mobile, Design) offer below Rs 11 LPA, indicating that a Founder's Office role will not meet Shlok's Rs 24.5 LPA fixed pay requirement.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-24T16:21:54+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "The lead is a speculative note to founders with no named opening, and active job listings on their site (Product Manager, Frontend, Mobile, Design) offer below Rs 11 LPA, indicating that a Founder's Office role will not meet Shlok's Rs 24.5 LPA fixed pay requirement."
   },
   {
    "id": "L0300",

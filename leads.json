@@ -249118,8 +249118,8 @@
    "key": "navi|associate manager ii city ceo|india",
    "type": "job",
    "company": "Navi",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "navi.com",
+   "company_url": "https://navi.com",
    "company_linkedin": "https://in.linkedin.com/company/go-navi",
    "company_note": "",
    "title": "Associate Manager II - City CEO (Strategy & Business Operations)",
@@ -249157,8 +249157,8 @@
    },
    "score": {
     "rules": 80,
-    "research": null,
-    "total": 80,
+    "research": 66,
+    "total": 72,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -249169,15 +249169,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Navi Strategy & Business Operations (City CEO track), Delhi, asks 1-3 yrs; your Ola S&OP/dispatch ops work maps, pay unverified.",
+    "fit_notes": "Opened LinkedIn posting 2026-11-24 (113 applicants, 1 day ago): asks up to 1-3 yrs, SBO function across lending, health insurance, MF, UPI with debt management, claims and ops verticals. Shlok's MSL program (Rs 200 Cr buffer, 70% serviceability) and lotting algorithm (32 to 14 days O2D) are ops-and-analytics proof. Missing: BFSI domain, role is Delhi-based, not Bengaluru.",
+    "pay_notes": "No pay in posting. AmbitionBox lists Navi Associate Manager at Rs 20-55 LPA from 99 salaries, too wide to use; fixed vs total unknown (https://ambitionbox.com/salaries/navi-technologies-salaries/manager).",
+    "culture_notes": "Navi is on the favourites list; no rating or review count read this run.",
+    "hook": "Navi's SBO team is going after industry-first outcomes such as raising cashless health claims from 50% towards 90%, stated in this posting.",
+    "hook_source": "https://in.linkedin.com/jobs/view/associate-manager-ii-city-ceo-strategy-business-operations-at-navi-4493705189",
+    "researched_at": "2026-11-24T12:33:04+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -249201,14 +249203,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 80"
+    },
+    {
+     "at": "2026-11-24T12:33:04+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 72: qualified"
     }
    ],
-   "updated_at": "2026-11-23T15:26:35+05:30",
+   "updated_at": "2026-11-24T12:33:04+05:30",
    "research_attempt": {
     "at": "2026-11-24T02:00:02+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L1981",

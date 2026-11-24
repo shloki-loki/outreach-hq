@@ -255080,7 +255080,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490990669",
    "source_url": "https://in.linkedin.com/jobs/view/manager-corporate-strategy-at-mount-talent-consulting-pvt-ltd-4490990669",
@@ -255096,7 +255096,7 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "",
+   "jd": "Must have skills: Corporate growth and Strategy \n Good to have skills: Corporate Strategy, Growth strategy, Business Case, Market entry, Market expansion, Pricing \n Role Summary- \n The candidate should possess post-MBA experience in driving strategic initiatives across one or more of the following areas: Corporate Strategy, Growth Strategy, Business Case Development, Market Entry and Expansion, Pricing and Profit Optimization, Innovation-led Growth, Strategic Planning, Customer Strategy, Value Realization, Sales Acceleration, and Channel Transformation. The role demands strong analytical capabilities, stakeholder management skills, and a proven ability to deliver impactful business outcomes.\n Roles & Responsibilities: \n Corporate Strategy & Growth : Accelerate measurable and sustained growth for clients with an unrivaled set of data-driven capabilities from strategy to execution.\n Mergers & Acquisitions: Support clients in their inorganic growth agenda across the deal lifecycle, i.e., target screening, synergy assessment, due diligence, post-merger integration and portfolio interventions.\n Operating Model & Org Design: Partner with CEOs to architect future proof operating models embracing future of work, workforce and workplace powered by transformational technology, ecosystems and analytics.\n Sustainability & Responsible Business: Work with our ecosystem partners, help clients reach their sustainability goals through digital transformation.\n Professional & Technical Skills: \n  Strategic Thinking: Proven ability to develop and execute Corporate and Growth Strategies aligned with business goals. \n  Business Case Development: Experience in building and evaluating business cases for new initiatives, investments, or market opportunities. \n  Market Entry & Expansion: Knowledge of go-to-market strategies, competitive analysis, and market dynamics for domestic and international expansion. \n  Pricing & Profit Optimization: Familiarity with pricing strategies, margin analysis, and financial modeling to drive profitability. \n  Innovation & Growth Initiatives: Ability to identify growth levers and lead innovation-driven initiatives. \n  Strategic Planning: Strong experience in annual/long-term planning, OKRs/KPIs setting, and performance tracking. \n  Customer Strategy & Value Realization: Experience with customer segmentation, journey mapping, and value realization frameworks. \n Additional Information \n MBA from a tier 1 institute\n Experience in one or more of the following: Corporate Strategy, Growth strategy, Business Case, Market entry, Market expansion, Pricing and Profit Optimization, Growth and Innovation, Strategic Planning, Customer Strategy, Value Realization, Sales Acceleration, Channel Transformation\nSeniority level Mid-Senior level | Employment type Full-time | Industries IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -255111,8 +255111,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -255122,15 +255122,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Manager Corporate Strategy at Mount Talent Consulting, but requires an MBA and post-MBA experience which you lack.",
+    "fit_notes": "The posting asks for 'post-MBA experience in driving strategic initiatives' and 'MBA from a tier 1 institute'. Shlok has no MBA and no consulting or post-MBA experience, representing a hard block despite his Strategy & Operations experience at Ola Electric ([sop], [ceo-coo]).",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Company domain and reviews not found in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T16:20:15+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -255154,14 +255161,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-24T16:20:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The role explicitly requires an MBA from a tier 1 institute and post-MBA experience, which Shlok lacks.)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-24T16:20:15+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role explicitly requires an MBA from a tier 1 institute and post-MBA experience, which Shlok lacks."
   },
   {
    "id": "L2031",

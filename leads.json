@@ -261658,15 +261658,15 @@
    "key": "akamai|revenue operations analyst|bengaluru",
    "type": "job",
    "company": "Akamai Technologies",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "akamai.com",
+   "company_url": "https://www.akamai.com",
    "company_linkedin": "https://www.linkedin.com/company/akamai-technologies",
    "company_note": "",
    "title": "Revenue Operations Analyst",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4493623548",
    "source_url": "https://in.linkedin.com/jobs/view/revenue-operations-analyst-at-akamai-technologies-4493623548",
@@ -261687,7 +261687,7 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-25",
    "open": true,
-   "jd": "The global leader in cdn + cloud services Excel, Operations, Oracle, Revenue, Salesforce",
+   "jd": "Job Description\n Are you a detail-oriented person and strive for quality work?\n Do you like to collaborate with cross functional teams to\nachieve mutually beneficial results\n Join our Revenue Operations Team\n Revenue Operations Team reviews and analyzes customer contract changes and reports bookings data through the monthly bookings cycle. The team collaborates with stakeholders to streamline, simplify, automate and bring efficiencies in the process. The data is used for sales commissions payout, measuring sales productivity and annual planning of sales quota.\n Partner with the best\n As a Revenue Operations Analyst, you will support finance goals and objectives. You will support operations, analysis, documentation, collaboration with cross functional teams and continuous process\nimprovement.\nAs a Booking Operations Analyst, you will be responsible for:\n Processing monthly transactions and communicating variance between forecast and bookings calculation to sales and sales-ops.\n Researching and resolving discrepancies; addressing issues related to data, particularly those impacting compensation and commissionable transactions.\n Creating reports and analyzing data for patterns that indicate problems to be addressed or opportunities to investigate.\n Investigating root causes and working with relevant team(s) to address issues and process improvements.\n Owning and delivering on key business activities in support of the monthly close.\n Preparing presentations, documentations on process, policy for reference and training purposes.\n Do What You Love\n To be successful in this role you will:\n Have 2 to 4 years of experience in Finance or Operations role and a bachelor's degree in finance, accounting, or business management.\n Demonstrate excellent analytical skills and high attention to detail.\n Be able to understand, analyze and organize complex and/or sensitive data sets.\n Possess excellent written and verbal communication skills with the ability to articulate financial and sales bookings to a broad audience.\n Have knowledge/experience working in Salesforce, MS Excel, PowerPoint and Siebel Analytics/Oracle is great to have.\n Possess drive for results, ability to multi-task and handle ambiguity and cross-functional team dynamics.\n About Us\n At Akamai, we make life better for billions of people, trillions of times a day.\nWhether you're streaming live events, scrolling social media, watching your favorite series, or managing your savings, we're the engine behind the scenes. We provide the world's most distributed platform from Cloud to Edge to help the giants of the digital world work faster and stay more secure, making the internet a better experience for everyone.\n Our Focus Is Simple\n Cloud and Edge: Running apps closer to users for instant performance.\n Security : Neutralizing threats before they ever reach your data.\n Content Delivery : Scaling the world's biggest moments without a glitch.\n AI : Enabling our customers to build, secure, and scale AI apps on the world's most distributed cloud platform.\nAt Akamai, we don't just support the internet; we power and protect it, because behind every great digital experience is a massive hidden challenge. And we're the ones who solve it. When millions of people hit play or pay, Akamai ensures it just works.\n Benefits at Akamai: We support your health, well-being, finances, and life beyond work. See our benefits.\n FlexBase adapts to your job's needs\n Akamai's FlexBase program is yet another way we show our commitment to providing employees with an exceptional workplace experience. It's not about telling employees where to work; it's about supporting employees to do their best work.\nWe trust our incredible employees to work in ways that suit them best: at home, in an office, or a combination of both.\nConnect with us on social and see what life at Akamai is like!\nSeniority level Not Applicable | Employment type Full-time | Industries Technology, Information and Internet",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -261702,8 +261702,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -261713,15 +261713,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Revenue Operations Analyst at Akamai, asks 2-4 yrs and finance degree; your S&OP work maps but experience is short.",
+    "fit_notes": "The posting requires: 'Have 2 to 4 years of experience in Finance or Operations role and a bachelor's degree in finance, accounting, or business management.' Shlok has ~1.3 years of experience and a B.Tech in Electrical and Electronics Engineering from IIT Guwahati. While his operations facts like [sop] and [ceo-coo] show strong execution and process improvement, he falls short of the 2-year minimum and does not have the specified finance or business management degree.",
+    "pay_notes": "Pay not stated in the posting; no evidence found in web search.",
+    "culture_notes": "No ratings or reviews found in the available evidence.",
+    "hook": "Akamai recently published research on critical remote code execution vulnerabilities in PHP core [S1].",
+    "hook_source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkhLQTU0TWp5c0Y0MW96SkRqTFcyNzZqQVRFclJBclZNZHlFZGdrdzZ2anoydmU0Z0RuSE83UGdWZ05SbVIxTHJCa19CU3YzNDFqd1JXZVJRYm1OUkNlbEZ6OUVIUU1Kd1gwREtWT3U0RHdzazJSYThxbjczbklUMTI0QmcxMU9XYW1POTNwbkZXclV4MXBiamhibU5fd0M2VzlZ?oc=5",
+    "researched_at": "2026-11-25T04:31:01+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Critical Remote Code Execution Vulnerabilities in PHP Core - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkhLQTU0TWp5c0Y0MW96SkRqTFcyNzZqQVRFclJBclZNZHlFZGdrdzZ2anoydmU0Z0RuSE83UGdWZ05SbVIxTHJCa19CU3YzNDFqd1JXZVJRYm1OUkNlbEZ6OUVIUU1Kd1gwREtWT3U0RHdzazJSYThxbjczbklUMTI0QmcxMU9XYW1POTNwbkZXclV4MXBiamhibU5fd0M2VzlZ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "The New MCP Specification: What Security Teams Must Prepare For - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXhQaUo0QWtIX1ptSVNzU1c3OW9WZnllTUxkUmUzTzlqT3ZtSGlQSmcxVTE1YjAyNm45amt0aXBvWnVCUXRfOENuNHJUUmtXak1wdHNTczlRMWI4NWk3dHFtVVpGQjkzU2FrOFhlTlh0R0xhTmY0NnRJUGpQSzJ1eWtmZFNZeV9DTWxyVndqa29BZzQtMkdDSEJxQQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Understanding PHP2Shell: Everything You Need to Know - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZW1XcDhPckNPTDRHVHJPRWJNWjllU2hXMnNCS21JSnBOOGNENFk5czdEa0xHRVFNN2REdF8xN3hqWmE0aEx3am1TR2dpbTZNYnJwVl9jYklTQ3g2aWtPa3lSS0xNbUFmQTU4Q2hzU3poWDRXd29vd21NNWFtNHl5d1pjbFBDZ2NGMVdsaExmODBWVDNxbUgya0dkeWJ5UQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "CVE-2026-98432: A Remote Use-After-Free in the Linux Kernel’s TCP Stack - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWI2NHo0cjBRc3lyTlhrbnZmMVp2c0wwbjdPNF8yeWtzbUtHMk5qU0VCdFREOGhWd05lampOTDluM2dOSGpvcnRJamtUSU5xa1NaN2Q1Z1pTQkNLNW1zQUpWdUM5YWN4YS1fUXNybnZWZXdsUHhIbU94UWdXWmlaSFgtQTlYQ3BHT095Z3VZWjhTdlVHbUpxc1VsYw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Introducing More Granular Controls for AI Bot Traffic - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSU5UdDRDLXpmOEtuY3ZjbzNoRkRMU0t4eXV3ajNHS0pZRmtwcHg1WnBiQU93eTRYUnJnNkhhdHFUZWtoa0FDWDhUeDhBa3g0STEteklmRi1QQjBKa2V1U1pBd2dTa2lkV2pfOTktX0s1dTUwNkJ4eGU1QWI3QlBSYk5mR0w0ajVmT0twOHJ6aw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "CVE-2026-114938: Critical Memory Corruption Vulnerability in OpenJDK Java - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMncxQ3lESUlwNWVQMjBVYlMtSXhsajg3YTZrZWdJLWZkdzlCSU5zaU02Y2hSV1FYU0pER3lscnFkVl8xc0hrNmhpbGNhZEVQaXNUMnVfWGZJZjd1RTA4bjcyU29tWGdXalppaDVtOTY0NTNVUkxZdEUyR0c0dTZOeHo5U2FZTm56Rnp1SmFwRGxWN1lmS3BTQ2dLM2U0MWp4c0x4cWUxOG1TUQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -261745,9 +261786,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-25T04:31:01+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role asks for 2 to 4 years of experience and a bachelor's degree in finance, accounting, or business management, and Shlok has only ~1.3 years of experience plus a B.Tech in Electrical Engineering rather than a finance/business degree.)"
     }
    ],
-   "updated_at": "2026-11-24T17:20:44+05:30"
+   "updated_at": "2026-11-25T04:31:01+05:30",
+   "reject_reason": "The role asks for 2 to 4 years of experience and a bachelor's degree in finance, accounting, or business management, and Shlok has only ~1.3 years of experience plus a B.Tech in Electrical Engineering rather than a finance/business degree."
   },
   {
    "id": "L2058",

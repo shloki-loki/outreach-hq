@@ -10313,6 +10313,15 @@
    "title": "Diagnosis: Sending M0438 failed",
    "detail": "Same as I0102: SMTP connection closed. M0438 is back to approved and will be retried by the next send runs (max 3 tries). Resolve once M0436-M0438 show sent.",
    "ref": "I0104"
+  },
+  {
+   "id": "J1147",
+   "at": "2026-11-24T20:12:43+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Scout 24 Nov: no named contacts found for 2 qualified leads",
+   "detail": "Cause: no verifiable hiring manager or LinkedIn profile found for Navi L1980 and Zynga L1996 by web search. Remedy for Shlok (optional): open both leads on the site, find a recruiter or hiring manager on LinkedIn by hand and add the person, or apply through the posting. The people-finder also searches LinkedIn on its own runs.",
+   "ref": "I0105"
   }
  ]
 }

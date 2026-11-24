@@ -256160,7 +256160,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493783782",
    "source_url": "https://in.linkedin.com/jobs/view/supply-chain-business-operations-manager-at-skillyt-4493783782",
@@ -256176,7 +256176,7 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-25",
    "open": true,
-   "jd": "",
+   "jd": "About The Role\n We are looking for a hands-on Supply Chain & Business Operations Manager for an early-stage, fast-growing consumer technology startup.\nThe role involves building and managing end-to-end supply chain and business operations, including international vendor management, procurement, imports, inventory planning, warehousing and fulfilment.\nThe ideal candidate should have experience working with overseas manufacturers, preferably in China, and be comfortable taking ownership of operations in a fast-paced startup environment.\n Key Responsibilities\n Manage OEM/ODM manufacturers and international vendors for product sourcing, sampling, customisation and procurement.\n Handle vendor negotiations, purchase orders, production schedules and quality coordination.\n Coordinate imports, freight forwarders, customs brokers and shipping documentation.\n Manage import-related costs, landed cost calculations and product compliance coordination.\n Set up and manage warehousing, third-party logistics (3PL) and fulfilment operations.\n Oversee inventory planning, stock management, order dispatch, returns, replacements and warranty processes.\n Drive product launch timelines, vendor onboarding and operational execution.\n Develop SOPs and streamline business operations.\n Monitor vendor performance, operational costs, inventory health and working capital.\n Identify opportunities for cost optimisation and process improvements.\n Desired Candidate Profile\n 4–8 years of experience in Supply Chain, Procurement, Business Operations, Category Operations or Founder’s Office.\n Experience in consumer electronics, home appliances, hardware-led D2C or consumer product startups.\n Hands-on experience managing international vendors and procurement operations.\n Exposure to China-based OEM/ODM manufacturers and import processes is preferred.\n Understanding of inventory management, warehousing, logistics and fulfilment.\n Strong negotiation, analytical and problem-solving skills.\n Ability to work independently, manage ambiguity and take end-to-end ownership.\n Candidates from reputed institutes such as IIT, IIM, BITS, ISB or similar institutions preferred.\n Key Skills: Supply Chain Management | Procurement | OEM/ODM | Vendor Management | China Sourcing | Import Operations | Inventory Management | 3PL | Logistics | D2C Operations\nSkills: supply chain management,inventory management,3pl\nSeniority level Associate | Employment type Full-time | Industries Human Resources Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -256191,8 +256191,8 @@
    },
    "score": {
     "rules": 71,
-    "research": null,
-    "total": 71,
+    "research": 35,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -256202,15 +256202,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Supply Chain Manager at SkillYT, asks 4–8 years, but your 1.3 years of experience falls well short of the minimum.",
+    "fit_notes": "The posting asks for \"4–8 years of experience in Supply Chain, Procurement, Business Operations, Category Operations or Founder’s Office\" and experience in hardware-led D2C or consumer product startups. While Shlok's supply chain and operations work at Ola Electric (e.g., [sop], [ceo-coo]) maps directly to the operational scope, he only has ~1.3 years of total experience, missing the 4-year minimum floor. No MBA is explicitly required.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "No company website, reviews, or news found for SkillYT in available sources.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T04:22:09+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -256234,9 +256244,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 71"
+    },
+    {
+     "at": "2026-11-25T04:22:09+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The posting asks for 4–8 years of experience, but Shlok has only ~1.3 years, violating his maximum 3-year ceiling rule.)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-25T04:22:09+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -256246,7 +256262,8 @@
     "at": "2026-11-24T15:45:52+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting asks for 4–8 years of experience, but Shlok has only ~1.3 years, violating his maximum 3-year ceiling rule."
   },
   {
    "id": "L2011",

@@ -260579,7 +260579,7 @@
    "posted_at": "2026-11-24T04:05:21+00:00",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-25",
-   "open": true,
+   "open": false,
    "jd": "We're looking for Product Managers !\n Responsibilities \n Define & Drive Strategy: Partner with payments, finance, operations, and business units to discover high-value platform opportunities and translate them into a clear product vision.\n Architect Scalable Solutions: Collaborate closely with engineering to build reusable, API-based charging, invoicing, and transaction workflows that support diverse global use cases.\n Lead Execution: Write clear, high-quality product requirements and user stories, set measurable success metrics, and manage end-to-end rollouts across complex multi-system dependencies.\n Prioritize for Impact: Balance trade-offs between innovation, platform resilience, risk mitigation, and execution speed to maximize partner and customer value.\n Optimize with Data: Leverage operational metrics, analytical insights, and partner feedback to continuously evaluate product performance and guide rapid iteration.\n Champion Quality & Trust: Proactively identify risks, resolve complex cross-functional alignment blockers, and continuously elevate product quality and platform experience.\n Skills and Qualifications \n Platform Product Experience: 3+ years in product management, with a proven track record of shipping technical, platform-based products.\n FinTech / Payments Foundation: Practical experience in payments, billing, invoicing, or related financial transaction processing environments.\n Technical Execution: Strong ability to translate business capabilities into technical requirements and partner effectively with engineering teams on architectural choices.\n Analytical Rigor: Skilled in using data to quantify opportunities, validate hypotheses, and measure product performance metrics.\n Cross-Functional Collaboration: Outstanding communication and stakeholder management skills, capable of driving consensus across matrixed teams.\n ( Note: Relevant applicants will receive an email requesting additional information as part of the next stage. The application process will be completed directly on the team's designated platform, and all subsequent communication and decisions regarding the opportunity are managed by the respective hiring team.)",
    "exp_min": 3,
    "exp_max": null,
@@ -260638,9 +260638,20 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-25T04:27:10+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-24T17:20:44+05:30"
+   "updated_at": "2026-11-25T04:27:10+05:30",
+   "bin": {
+    "at": "2026-11-25T04:27:10+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L2048",

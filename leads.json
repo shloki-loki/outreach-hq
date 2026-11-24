@@ -262070,15 +262070,15 @@
    "key": "peoplehum|product manager|bengaluru",
    "type": "job",
    "company": "peopleHum",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "peoplehum.com",
+   "company_url": "https://peoplehum.com",
    "company_linkedin": "https://www.linkedin.com/company/peoplehum",
    "company_note": "",
    "title": "Product Manager (Agentic AI)",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "linkedin",
    "source_id": "4493000815",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-agentic-ai-at-peoplehum-4493000815",
@@ -262109,8 +262109,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 45,
+    "total": 57,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -262120,15 +262120,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager (Agentic AI) at peopleHum, asks 2+ yrs and AI-SaaS background; your experience is limited to one API internship.",
+    "fit_notes": "The posting asks for \"2+ years of experience in Product Management, preferably in AI, SaaS or technology-based organisations\" and must-have skills including \"Experience working on AI-powered SaaS products or enterprise AI solutions\" and \"Familiarity with agent orchestration frameworks\". Shlok has 1.3 years of experience total, mostly in Strategy & Operations at Ola Electric ([sop], [ceo-coo]), and his only product experience is a technical product internship at InsuranceDekho ([idekho]) building a Flask REST API with a Chrome extension. He lacks the required 2+ years of dedicated product management experience and AI-powered SaaS product background.",
+    "pay_notes": "No pay stated in the posting.",
+    "culture_notes": "peopleHum is an AI-native global HRMS platform provider. No external rating or review sources were found in the provided evidence.",
+    "hook": "peopleHum is building next-generation AI-powered solutions to simplify HR operations through intelligent technology and automation.",
+    "hook_source": "https://in.linkedin.com/jobs/view/product-manager-agentic-ai-at-peoplehum-4493000815",
+    "researched_at": "2026-11-25T04:21:26+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -262152,9 +262161,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-25T04:21:26+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 57: rejected (The posting asks for 2+ years of experience in Product Management and explicitly requires experience working on AI-powered SaaS products or enterprise AI solutions, which Shlok lacks since his technical product experience is a single internship at InsuranceDekho building a Flask API.)"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30"
+   "updated_at": "2026-11-25T04:21:26+05:30",
+   "reject_reason": "The posting asks for 2+ years of experience in Product Management and explicitly requires experience working on AI-powered SaaS products or enterprise AI solutions, which Shlok lacks since his technical product experience is a single internship at InsuranceDekho building a Flask API."
   },
   {
    "id": "L2067",

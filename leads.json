@@ -62736,9 +62736,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T20:25:18+05:30"
    },
    "notes": [],
    "timeline": [
@@ -62795,9 +62796,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Ankit Jaipuria"
+    },
+    {
+     "at": "2026-11-24T20:25:18+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T20:07:26+05:30",
+   "updated_at": "2026-11-24T20:25:18+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -62917,9 +62924,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T20:25:18+05:30"
    },
    "notes": [],
    "timeline": [
@@ -62988,9 +62996,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Shaurya Gupta"
+    },
+    {
+     "at": "2026-11-24T20:25:18+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T20:08:45+05:30",
+   "updated_at": "2026-11-24T20:25:18+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63097,9 +63111,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T20:25:18+05:30"
    },
    "notes": [],
    "timeline": [
@@ -63156,9 +63171,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Amar Kapadia"
+    },
+    {
+     "at": "2026-11-24T20:25:18+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T20:10:37+05:30",
+   "updated_at": "2026-11-24T20:25:18+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63428,9 +63449,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T20:25:18+05:30"
    },
    "notes": [],
    "timeline": [
@@ -63499,9 +63521,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Anubhav Sharma"
+    },
+    {
+     "at": "2026-11-24T20:25:18+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T20:15:13+05:30",
+   "updated_at": "2026-11-24T20:25:18+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63634,9 +63662,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T20:25:18+05:30"
    },
    "notes": [],
    "timeline": [
@@ -63723,9 +63752,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Vivek Gaur"
+    },
+    {
+     "at": "2026-11-24T20:25:18+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T20:17:27+05:30",
+   "updated_at": "2026-11-24T20:25:18+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -63871,9 +63906,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T20:25:18+05:30"
    },
    "notes": [],
    "timeline": [
@@ -63942,9 +63978,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Nukul Upadhye"
+    },
+    {
+     "at": "2026-11-24T20:25:18+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T20:19:17+05:30",
+   "updated_at": "2026-11-24T20:25:18+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

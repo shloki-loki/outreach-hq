@@ -9944,6 +9944,15 @@
    "title": "Ran",
    "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
    "ref": ""
+  },
+  {
+   "id": "J1106",
+   "at": "2026-11-24T14:05:12+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 0 follow-ups due",
+   "ref": ""
   }
  ]
 }

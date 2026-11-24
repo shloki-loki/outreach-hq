@@ -250722,8 +250722,8 @@
    "key": "zynga|product manager 2|bengaluru",
    "type": "job",
    "company": "Zynga",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "zynga.com",
+   "company_url": "https://www.zynga.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager 2",
@@ -250753,16 +250753,16 @@
    "stretch": false,
    "pay": {
     "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "min_lpa": 27,
+    "max_lpa": 38,
+    "basis": "estimate",
+    "source": "AmbitionBox Zynga Product Manager 2, 9 salaries, 1-5 yrs experience; fixed vs total not stated",
+    "fit": "In range (estimate)"
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 61,
+    "total": 66,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -250772,15 +250772,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Zynga Product Manager 2, Bengaluru, asks 1-4 yrs (preferred, not required); AmbitionBox shows Rs 27-38 LPA for PM2.",
+    "fit_notes": "Opened LinkedIn posting 2026-11-24 (84 applicants, 3 days ago): '1-4 years of experience in product management in consumer/mobile or game development is preferred but not required'. Shlok has no PM title or games experience; the lotting algorithm and MSL program show analytics and program ownership. Fit is a stretch on domain.",
+    "pay_notes": "Estimate only, small sample; Grapevine shows Rs 41.6 LPA company-wide average from 24 entries, not role-specific.",
+    "culture_notes": "Not researched beyond pay pages this run; no rating read.",
+    "hook": "Zynga India is hiring product managers to own player experiences in mobile games, per the posting.",
+    "hook_source": "https://www.linkedin.com/jobs/view/4493209169/",
+    "researched_at": "2026-11-24T12:33:15+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -250804,9 +250806,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-24T12:33:15+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 66: qualified"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30"
+   "updated_at": "2026-11-24T12:33:15+05:30",
+   "reject_reason": null
   },
   {
    "id": "L1997",

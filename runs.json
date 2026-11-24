@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-22T12:27:50+05:30",
-   "agent": "lead-scout",
-   "ok": true,
-   "summary": "3 researched, 0 qualified, 3 rejected, 0 emails found; ended before 12-lead budget (scout scrape slow)",
-   "stats": {}
-  },
-  {
    "at": "2026-11-22T13:06:04+05:30",
    "agent": "research-worker",
    "ok": false,
@@ -3514,6 +3507,13 @@
     "settled": 0,
     "followups_due": 55
    }
+  },
+  {
+   "at": "2026-11-25T03:45:28+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 137 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

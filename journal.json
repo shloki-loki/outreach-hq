@@ -9854,6 +9854,15 @@
    "title": "Ran",
    "detail": "13 researched (9+2 rejected counted: 11 rejected, 2 qualified: Navi L1980, Zynga L1996), 0 emails found; skipped scrape (ran 04:46 today), no Apify used; L2010 SkillYT left unresearched (LinkedIn 429); stale re-verify and Monday company scan not done",
    "ref": ""
+  },
+  {
+   "id": "J1096",
+   "at": "2026-11-24T12:34:19+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "Scout 24 Nov: no named contacts found for 2 qualified leads",
+   "detail": "Navi L1980 and Zynga L1996 qualified but web search gave no verifiable hiring manager or LinkedIn profile URL; no contacts added. SkillYT L2010 LinkedIn page returned 429.",
+   "ref": "I0105"
   }
  ]
 }

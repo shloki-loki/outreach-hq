@@ -1455,6 +1455,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0105",
+   "key": "lead-scout:Scout 24 Nov: no named contacts found for 2 qualified leads",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "Scout 24 Nov: no named contacts found for 2 qualified leads",
+   "detail": "Navi L1980 and Zynga L1996 qualified but web search gave no verifiable hiring manager or LinkedIn profile URL; no contacts added. SkillYT L2010 LinkedIn page returned 429.",
+   "status": "open",
+   "opened_at": "2026-11-24T12:34:19+05:30",
+   "last_seen": "2026-11-24T12:34:19+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

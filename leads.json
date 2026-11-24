@@ -253852,8 +253852,8 @@
    },
    "score": {
     "rules": 71,
-    "research": null,
-    "total": 71,
+    "research": 20,
+    "total": 40,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -253863,15 +253863,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "TE Connectivity Corporate Strategy Manager, Bengaluru; prefers MBA plus 5-7 yrs post-MBA consulting, which you lack.",
+    "fit_notes": "Opened posting 2026-11-24 (79 applicants): MBA desirable, 5-7 yrs post-MBA at top consulting firm preferred but not required. Board/earnings reporting scope. Shlok has no MBA or consulting.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T12:33:45+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -253895,9 +253897,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 71"
+    },
+    {
+     "at": "2026-11-24T12:33:45+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 40: rejected (Prefers MBA and 5-7 yrs post-MBA at a top consulting firm; reports to Strategy Director)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30"
+   "updated_at": "2026-11-24T12:33:45+05:30",
+   "reject_reason": "Prefers MBA and 5-7 yrs post-MBA at a top consulting firm; reports to Strategy Director"
   },
   {
    "id": "L2030",

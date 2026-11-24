@@ -198271,7 +198271,13 @@
     "kind": null,
     "since": null
    },
-   "notes": [],
+   "notes": [
+    {
+     "at": "2026-11-24T12:30:53+05:30",
+     "by": "send-track",
+     "text": "Not drafted 24 Nov: founder address catch-all after recheck, score 69 (<80); two Founder's Office managers found on LinkedIn have no email."
+    }
+   ],
    "timeline": [
     {
      "at": "2026-11-17T02:52:54+05:30",
@@ -198352,7 +198358,7 @@
      "detail": "Ankita Ghosh: ankita.ghosh@nathabit.in (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-24T12:30:24+05:30",
+   "updated_at": "2026-11-24T12:30:53+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",

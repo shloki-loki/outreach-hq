@@ -265239,7 +265239,12 @@
      "detail": "naukri: rule score 63"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30"
+   "updated_at": "2026-11-25T03:13:39+05:30",
+   "research_attempt": {
+    "at": "2026-11-25T04:27:28+05:30",
+    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
+    "by": "research-worker"
+   }
   }
  ]
 }

@@ -24996,9 +24996,9 @@
    },
    "stage": "qualified",
    "outcome": null,
-   "applied_at": null,
+   "applied_at": "2026-11-24T20:03:22+05:30",
    "apply": {
-    "status": "not_started",
+    "status": "applied",
     "notes": "",
     "answers": {}
    },
@@ -25091,9 +25091,15 @@
      "actor": "people-finder",
      "event": "contact_added",
      "detail": "Nitesh Singh (recruiter, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-24T20:03:22+05:30",
+     "actor": "shlok",
+     "event": "applied",
+     "detail": "application submitted"
     }
    ],
-   "updated_at": "2026-11-23T20:23:06+05:30",
+   "updated_at": "2026-11-24T20:03:22+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

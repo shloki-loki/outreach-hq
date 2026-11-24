@@ -52032,9 +52032,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:45:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -52127,9 +52128,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Sumit Jasoria"
+    },
+    {
+     "at": "2026-11-24T18:45:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T18:29:27+05:30",
+   "updated_at": "2026-11-24T18:45:12+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -54186,9 +54193,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-24T18:45:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -54269,9 +54277,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Nikhil Gupta"
+    },
+    {
+     "at": "2026-11-24T18:45:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T18:33:18+05:30",
+   "updated_at": "2026-11-24T18:45:12+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -54566,9 +54580,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:45:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -54637,9 +54652,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Adit Jain"
+    },
+    {
+     "at": "2026-11-24T18:45:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T18:35:35+05:30",
+   "updated_at": "2026-11-24T18:45:12+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56057,9 +56078,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:45:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -56116,9 +56138,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Narendra Makwana"
+    },
+    {
+     "at": "2026-11-24T18:45:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T18:42:16+05:30",
+   "updated_at": "2026-11-24T18:45:12+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -56225,9 +56253,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-24T18:45:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -56284,9 +56313,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Rajat Gupta"
+    },
+    {
+     "at": "2026-11-24T18:45:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T18:43:12+05:30",
+   "updated_at": "2026-11-24T18:45:12+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -70289,9 +70324,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-24T18:45:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -70384,9 +70420,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup2 email to Soham Chokshi"
+    },
+    {
+     "at": "2026-11-24T18:45:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-24T18:28:18+05:30",
+   "updated_at": "2026-11-24T18:45:12+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

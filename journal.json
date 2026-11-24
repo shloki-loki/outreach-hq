@@ -10583,6 +10583,15 @@
    "title": "Ran",
    "detail": "0 replies, 0 bounces, 83 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J1177",
+   "at": "2026-11-24T23:45:28+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 63 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

@@ -10115,6 +10115,15 @@
    "title": "Ran",
    "detail": "sent 1, failed 0. nothing approved is waiting",
    "ref": ""
+  },
+  {
+   "id": "J1125",
+   "at": "2026-11-24T17:37:08+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "PR 19 merged: InMail with job link and Copy note per person is live",
+   "detail": "Merged PR 19 on Shlok's OK (merge commit a875ad0). Vercel production deploy succeeded. Job pages now list the people found on his LinkedIn with Open LinkedIn and Copy note (fills the first name); the InMail carries the posting link. Shared folder pulled to main.",
+   "ref": "a875ad0"
   }
  ]
 }

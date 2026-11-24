@@ -72217,7 +72217,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "feeroz@glamstudios.in",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 349 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -72279,9 +72279,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Feeroz A Khan"
+    },
+    {
+     "at": "2026-11-24T13:05:13+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "feeroz@glamstudios.in does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-23T10:53:29+05:30",
+   "updated_at": "2026-11-24T13:05:13+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
@@ -79556,7 +79562,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "anshul@relsofurniture.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 412 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -79601,9 +79607,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Anshul Choubey"
+    },
+    {
+     "at": "2026-11-24T13:05:13+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "anshul@relsofurniture.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-24T12:56:31+05:30",
+   "updated_at": "2026-11-24T13:05:13+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",
@@ -79820,7 +79832,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "abhishek@intract.io",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 415 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -79878,9 +79890,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Abhishek Anita"
+    },
+    {
+     "at": "2026-11-24T13:05:13+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "abhishek@intract.io does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-24T12:59:36+05:30",
+   "updated_at": "2026-11-24T13:05:13+05:30",
    "live_check": {
     "at": "2026-11-23T13:05:24+05:30",
     "state": "unknown",

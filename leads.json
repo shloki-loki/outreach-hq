@@ -11397,10 +11397,10 @@
      "title": "Program Manager at Atlys",
      "role_type": "team_lead",
      "linkedin_url": "https://www.linkedin.com/in/akash-agrawal-676bb017a/",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "akash.agrawal@atlys.com",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "",
      "found_at": "2026-11-23T20:23:06+05:30",
      "found_via": "linkedin-search"
@@ -11411,10 +11411,10 @@
      "title": "Program Manager at Atlys",
      "role_type": "team_lead",
      "linkedin_url": "https://www.linkedin.com/in/prashast-dadu/",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "prashast@atlys.com",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "",
      "found_at": "2026-11-23T20:23:06+05:30",
      "found_via": "linkedin-search"
@@ -11425,10 +11425,10 @@
      "title": "Senior Manager, People Success at Atlys",
      "role_type": "recruiter",
      "linkedin_url": "https://www.linkedin.com/in/maliksahaab/",
-     "email": "",
-     "email_status": "none",
-     "email_source": "",
-     "confidence": 0,
+     "email": "charvi@atlys.com",
+     "email_status": "verified",
+     "email_source": "reoon confirmed the mailbox",
+     "confidence": 90,
      "why": "",
      "found_at": "2026-11-23T20:23:06+05:30",
      "found_via": "linkedin-search"
@@ -11500,9 +11500,27 @@
      "actor": "people-finder",
      "event": "contact_added",
      "detail": "Charvi M. (recruiter, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-24T16:27:34+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Akash Agrawal: akash.agrawal@atlys.com (verified, 90)"
+    },
+    {
+     "at": "2026-11-24T16:27:34+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Prashast Dadu: prashast@atlys.com (verified, 90)"
+    },
+    {
+     "at": "2026-11-24T16:27:34+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Charvi M.: charvi@atlys.com (verified, 90)"
     }
    ],
-   "updated_at": "2026-11-23T20:23:06+05:30",
+   "updated_at": "2026-11-24T16:27:34+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "live",

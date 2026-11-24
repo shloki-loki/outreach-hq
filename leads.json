@@ -261651,7 +261651,12 @@
      "detail": "greenhouse: rule score 81"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30"
+   "updated_at": "2026-11-25T03:13:39+05:30",
+   "research_attempt": {
+    "at": "2026-11-25T04:15:42+05:30",
+    "why": "error: Gemini unreachable: The read operation timed out",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L2063",

@@ -1,41 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-21T22:31:00+05:30",
-   "agent": "research-worker",
-   "ok": false,
-   "summary": "25 researched (1 qualified, 24 rejected), 1 closed postings binned, 8 left for a person",
-   "stats": {
-    "researched": 25,
-    "qualified": 1,
-    "rejected": 24,
-    "binned": 1,
-    "left_for_a_person": 8,
-    "errors": 6,
-    "models": {
-     "research": [
-      "gemini-2.5-flash",
-      "gemini-3.8-flash"
-     ],
-     "judge": [
-      "gemini-3.8-flash",
-      "gemini-3.7-flash",
-      "gemini-3.6-flash",
-      "gemini-3.5-flash",
-      "gemini-3.5-flash-lite"
-     ],
-     "reader": [
-      "gemini-3.5-flash-lite",
-      "gemini-3.1-flash-lite",
-      "gemini-3.8-flash",
-      "gemini-3.7-flash",
-      "gemini-3.6-flash",
-      "gemini-3.5-flash"
-     ]
-    }
-   }
-  },
-  {
    "at": "2026-11-21T22:31:02+05:30",
    "agent": "people-finder",
    "ok": true,
@@ -3545,6 +3510,19 @@
   },
   {
    "at": "2026-11-24T16:45:13+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 0 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 0
+   }
+  },
+  {
+   "at": "2026-11-24T17:05:14+05:30",
    "agent": "follow-up/track",
    "ok": true,
    "summary": "0 replies, 0 bounces, 0 follow-ups due",

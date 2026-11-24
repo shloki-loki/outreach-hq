@@ -527,7 +527,7 @@
    "posted_at": "2026-10-15",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-24",
-   "open": false,
+   "open": true,
    "jd": "Job Description: Manager-CEO's office \n Role Overview: We are seeking a highly motivated and strategic thinker to join our team as a Strategy Associate/Manager. This role is pivotal in driving key initiatives and strategy projects that will shape the future of our organization. You will work closely with the CEO and leadership team to ensure rigor in problem-solving, strategic planning, and execution across various functions. This is meant to be a pre-MBA role, if you thrive in a fast-paced environment and are passionate about driving impactful change, this role is for you. Past Alumni have gotten admits at HBS, Wharton etc, Moved on to leadership roles at large MNCs.\n Key Responsibilities: \n Drive Strategic Projects: Lead critical strategy projects from 0->1 and 1->10, initiating and scaling new business initiatives across the organization.\n Org-level streamlining: Ensure timely interventions and rigorous problem-solving on key projects through close collaboration with leadership.\n Business Understanding & Metrics: Develop a deep understanding of the business and success metrics, tracking progress through detailed dashboards and analytics.\n Planning & Execution: Drive quarterly and annual planning cycles across the organization, and monitor execution through regular weekly reviews.\n Culture & Change Initiatives: Collaborate with functional and organizational leadership to drive initiatives that define and evolve the company culture.\n Qualification \n Educational Background: Strong academic pedigree with an undergraduate degree from IITs/BITS \n Experience: \n 2-4 years of experience in strategy consulting firms (MBB, ATK, Strategy&, Dalberg, Auctus), high-growth startups (Flipkart, Ola, Swiggy), or leading corporations (ITC, HUL, P&G).\n Demonstrable spike in academic or professional achievements.\n Skills & Attributes: \n High degree of ownership and accountability.\n Strong aptitude and ability to quickly grasp new concepts and domains.\n Proven experience in structured problem-solving and stakeholder management.\n Ability to switch contexts and manage multiple priorities with passion, hunger, and perseverance.\n Desired Personal Traits: \n Passionate about driving change and making an impact.\n Hunger for learning and growth, with the ability to persevere through challenges.\n Strong context-switching skills, comfortable navigating complex and dynamic environments.\n Excellent interpersonal skills with the ability to manage and influence senior stakeholders.\n What We Offer: \n Opportunity to work directly with senior leadership and have a meaningful impact on the organization’s strategic direction.\n A dynamic and entrepreneurial work environment where your ideas and contributions will be highly valued.\n Competitive compensation and benefits package.\n If you are a strategic thinker with a passion for solving complex problems and driving impactful change, we would love to hear from you!",
    "exp_min": 2.0,
    "exp_max": 4.0,
@@ -795,9 +795,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-24T15:20:12+05:30",
+   "updated_at": "2026-11-24T17:20:44+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "closed",
@@ -10142,7 +10148,7 @@
    "posted_at": "2026-10-16T12:44:06.067000+00:00",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-24",
-   "open": false,
+   "open": true,
    "jd": "What you will do\nAnalysis, customer interviews, user research, competition analysis and other qualitative/quantitative techniques.\n Problem Identification & Prioritization: Adopt a structured approach to identify what problems need to be solved and break them down into smaller chunks. Prioritize what problems need to be solved now vs. later.\n Solution Discovery: Facilitate a process to come up with the best technology-led ideas to solve the prioritised problems. Harness the creativity of not just yourself but of other teams such as design, engineering., business, etc Be willing to experiment with multiple solution ideas and test them using MVPs, prototypes, etc.\n Product Delivery: Define detailed product requirements and work collaboratively with a cross-functional team (design, engg. business, analytics, etc.) to bring a product to life. Ensure high product quality through processes such as user acceptance testing, dogfooding, etc.\n Go-to-Market Planning: Create a go-to-market plan working with business/marketing stakeholders to maximize product adoption and success.\n Adoption & Metrics: Define product metrics for your area, and track them continuously. Identify usage patterns and come up with action plans to move metrics in the right direction.\n Roadmap Creation: Create a product roadmap for your area that has at least a 3-month forward-looking view of key customer/business problems to be solved.\nWhat you will need \nOverall experience of 3+ yrs with at least 1+ yrs in product management in a tech-led company (consumer internet space is preferred).\n Exceptional problem-solving skills based on first principles of thinking.\n Good understanding of technology, and comfort with product management processes such as A/B experimentation, writing product requirement documents, managing product backlogs, and creating roadmaps.\n Good communication and stakeholder management skills to get work done across different functions and drive product development.",
    "exp_min": 1,
    "exp_max": null,
@@ -10305,9 +10311,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the job board says the posting no longer exists (HTTP 404)"
+    },
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-24T15:20:12+05:30",
+   "updated_at": "2026-11-24T17:20:44+05:30",
    "reject_reason": "Asks 3+ years overall incl. 1+ year as a PM; Shlok has 1.3 years and no full-time PM role.",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
@@ -11984,7 +11996,7 @@
    "posted_at": "2026-04-17T19:17:20.479+00:00",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-24",
-   "open": false,
+   "open": true,
    "jd": "About Sarvam\n\nSarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.\n\n \n\nAbout the Role\n\nWe are hiring a Model Product Manager to own charters for Automatic Speech Recognition (ASR), Text-to-Speech (TTS), and model evaluation pipelines. You will work closely with research and engineering teams to define roadmaps, run training and evaluation cycles, and ship models that directly improve product experience and reliability.\n\n \n\nWhat You'll Do\n\n• Define and drive roadmaps for ASR, TTS, and evaluation systems.\n\n• Partner with engineering and research teams on data collection, training cycles, and model release planning.\n\n• Set up and own evaluation frameworks and quality metrics covering accuracy, latency, MOS, and robustness.\n\n• Run structured experiments — offline tests, A/Bs, and human evaluations — to quantify model improvements.\n\n• Ensure scalable deployment and monitoring of models in collaboration with infra and data teams.\n\n• Translate user and business needs into measurable model goals.\n\n• Communicate priorities, timelines, and trade-offs clearly across stakeholders.\n\n \n\nWhat We're Looking For\n\n• 3+ years of experience building AI, applied AI, ML products, or model training pipelines.\n\n• Familiarity with the model lifecycle: training, fine-tuning, deployment, and monitoring.\n\n• Strong analytical skills and comfort with data-driven decision making.\n\n• Ability to collaborate effectively across research, engineering, and product teams.\n\n \n\nBonus Points\n\n• Exposure to speech technologies (ASR, TTS) or evaluation pipelines.\n\n• Experience with quality metrics such as WER, CER, MOS, or latency tracking.\n\n• Hands-on familiarity with SQL, Python, or ML toolkits.\n\n \n\nWhy Sarvam?\n\nSarvam is a fast-moving, high talent-density team building full-stack AI for India, working on problems that push the frontiers of AI with real population-scale impact.\n\n• Work alongside researchers, engineers, builders, and business leaders who move fast and hold each other to a very high bar\n\n• High ownership and high impact, from day one\n\n• Everything we do is AI-first, from the way we build and ship to the way we think about problems\n\n• You can work on problems that could change how an entire country learns, works, and communicates\n\nIf you want to work on problems at the frontier of AI in India, Sarvam is the place to be.",
    "exp_min": 3,
    "exp_max": null,
@@ -12134,9 +12146,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: no longer on the company's Ashby job board"
+    },
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-24T15:20:12+05:30",
+   "updated_at": "2026-11-24T17:20:44+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "closed",
@@ -12977,12 +12995,17 @@
      "source": "ashby",
      "url": "https://jobs.ashbyhq.com/spotdraft/96761f6b-578d-4daa-9d02-25c47fd39590",
      "seen": "2026-11-12"
+    },
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-404215-product-manager-at-spotdraft-bangalore/",
+     "seen": "2026-11-24"
     }
    ],
    "posted_at": "2026-10-27T10:27:25.628+00:00",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18",
-   "open": false,
+   "last_seen": "2026-11-24",
+   "open": true,
    "jd": "About SpotDraft\nSpotDraft is on a mission to help legal and business teams move faster, together. Our AI-powered contracting platform is redefining how companies manage contracts, and our story deserves to be told in creative, human, and memorable ways.\n\n\n\nTop Outcomes:\n\nThis role sits in the core workflow legal and business teams use every day to get a contract from draft to signature: collaborative editing and redlining, negotiating with counterparties, routing for approval, and signing. It’s one of the highest-usage parts of the product, used by nearly every customer on nearly every contract, and it doesn’t have a single owner today.\n\nScope is flexible and will be shaped around the person we hire, calibrated to their experience during the process rather than fixed in this posting. Part of the job either way is imposing a single prioritised roadmap on an area that today gets pulled in different directions by different stakeholders, rather than treating each piece in isolation.\n\n\n\nDay to Day:\n\n - Own discovery for your area. Run customer and prospect conversations every week, and turn what you learn into a clear view of who you're building for and why it matters to them.\n\n - Make evidence-based calls. Instrument what you ship, state your confidence level upfront, and track whether you were right so your judgment keeps improving.\n\n - Partner through the build, not just at kickoff. Work with engineering and design end to end, and give everyone a release affects, support, sales, whoever’s downstream, a real briefing instead of a surprise.\n\n - De-risk before you build. Test your riskiest assumptions before you commit engineering time to them.\n\n - Prioritise ruthlessly. Keep one ranked backlog sized against real customer demand, and be ready to defend the business case and trade-off behind every roadmap call.\n\n - Ship iteratively. Deliver a working increment every sprint, each one tied to a real outcome or a learning.\n\nWhat success looks like\n\n - A clear, prioritised roadmap for the area you own, with an explicit plan for how scope grows from there.\n\n - Measurable reduction in time and friction from “ready to negotiate” to “signed” within your area.\n\n - Issues resolved through the product, not through a standing support escalation queue.\n\n\n\nRequirements:\n\n - Product management experience owning a feature or workflow end to end to a measurable outcome. Years of experience matter less than the scope you’ve handled: tell us what you’ve owned and we’ll calibrate the role to it.\n\n - Comfortable working in a high-usage, multi-stakeholder area where prioritisation itself is a core skill, not just execution.\n\n - Background in document collaboration, e-signature, contract/legal tech, or workflow automation products is a strong plus.\n\n - Comfortable ramping quickly in a legal or contract-heavy domain if you don’t already have that background.\n\n\n\nNice to have\n\n - Prior experience in a regulated domain where explainability/audit was a hard requirement rather th…",
    "exp_min": null,
    "exp_max": null,
@@ -13068,9 +13091,15 @@
      "actor": "lead-scout",
      "event": "posting_closed",
      "detail": "no longer on the company's job board"
+    },
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-19T01:14:59+05:30",
+   "updated_at": "2026-11-24T17:20:44+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",
@@ -27413,7 +27442,7 @@
    ],
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-24",
    "open": true,
    "jd": "About The Team\n Purplle’s Product Management team builds the technology products that power a comprehensive e-commerce platform. The team constantly ships new supply chain features that are scalable, reduce cost, and enhance customer experience. As a team, every individual is expected to make a significant, measurable impact on the business.\n About The Role\n We are looking for an Associate Product Manager who will own the product charter for B2B logistics, covering how we move goods to retailers, distributors, modern trade, marketplaces, and institutional buyers, as well as stock movement between our plants and warehouses. You will work at the intersection of product, logistics operations, and finance systems, turning the needs of operations and business stakeholders into reliable, well-built features. This is an individual contributor role with end to end ownership of the B2B logistics roadmap and its business impact. You will work closely with backend engineering, the SAP team, operations, and logistics partners to deliver it.\n Key Responsibilities\n B2B Logistics Product Ownership\n Own the product roadmap for B2B logistics flows, including customer orders, stock transfers between locations, and B2B returns, prioritised by business impact.\n Translate operational problems into clear Product Requirement Documents, use cases, and acceptance criteria for engineering and QA.\n Lead initiatives such as automatic carrier enablement for B2B shipments and the CPG forward and returns flow, from problem definition to rollout and adoption.\n Partner with backend engineering to design, build, and roll out new features, and drive adoption with operations teams.\n Maintain a separate B2B layer for carrier and logistics partner integrations, and coordinate with the B2C logistics owner on anything shared.\n Delivery Reliability and Network Performance\n Own delivery promise reliability for B2B orders, defining and tracking the metrics that show whether commitments to customers are met.\n Improve network cost, capacity, and delivery performance across carriers and lanes through structured product changes.\n Identify workflow gaps and inefficiencies on the ground and define improvements that scale.\n Compliance and ERP (SAP)\n Own B2B compliance flows such as e-way bills and invoicing, and keep them aligned with SAP.\n Support integration and data consistency between the warehouse systems, logistics partners, and SAP for sales, stock movement, and returns.\n Work with engineering, finance, and operations to debug system-level discrepancies and drive root causes to closure.\n Governance, Analytics, and Stakeholders\n Drive operations governance and risk reduction by defining clear processes, escalation paths, and checks that prevent repeat failures.\n Use logistics data and dashboards to track performance, surface insights, and drive data-informed product decisions.\n Delegate and escalate effectively, and push repeatable manual work toward automation.\n Communicate progress, ris…",
    "exp_min": null,
@@ -35632,6 +35661,11 @@
      "source": "instahyre",
      "url": "https://www.instahyre.com/job-448499-product-manager-at-bluno-bangalore/",
      "seen": "2026-11-12"
+    },
+    {
+     "source": "instahyre",
+     "url": "https://www.instahyre.com/job-495820-product-manager-at-bluno-bangalore/",
+     "seen": "2026-11-24"
     }
    ],
    "posted_at": null,
@@ -46308,11 +46342,16 @@
      "source": "linkedin",
      "url": "https://in.linkedin.com/jobs/view/manager-strategy-and-operations-at-r3-consultant-4491478602",
      "seen": "2026-11-18"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/manager-strategy-and-operations-at-r3-consultant-4494104656",
+     "seen": "2026-11-24"
     }
    ],
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-24",
    "open": true,
    "jd": "Job description \n Job Description- Manager Strategy and Operations\n Work Location: Hyderabad\n Working Days: 6 Days\n Role Overview\n We are looking for a high-impact Manager Strategy & Operations to work closely with the Founders Office and leadership team. This role will drive strategic initiatives, solve critical business problems, and ensure execution across cross-functional teams in a fast-paced B2C startup environment.\n Key Responsibilities\n 1. Founders Office & Strategic Initiatives\n Partner directly with founders to drive high-priority business initiatives\n Translate ambiguous problems into structured strategies and execution plans\n Own end-to-end delivery of key projects impacting growth, revenue, and efficiency\n 2. Data-Driven Decision Making\n Analyze large datasets to derive actionable insights for business decisions\n Build dashboards, track KPIs, and identify performance gaps\n Act as an Individual Contributor (IC) on critical analytical problem statements\n 3. Business Operations & Execution\n Drive operational excellence across functions (Sales, Product, Marketing, Ops)\n Identify bottlenecks and implement scalable processes\n Ensure timely execution and measurable outcomes of initiatives\n 4. Cross-Functional Leadership\n Lead and manage cross-functional projects across teams\n Align stakeholders and drive accountability without direct authority\n Collaborate with leadership to prioritize initiatives\n 5. Team Management\n Manage and mentor a small, high-performance team\n Ensure strong ownership, output quality, and execution speed\n Ideal Candidate Profile\n Education: B.Tech from IIT / BITS and/or MBA from IIM (preferred)\n Experience:\n 3+ years of total experience\n 2+ years in Strategy / Operations / Founders Office roles in Series A+ B2C startups\n 2+ years of strong hands-on experience working with data as an IC\n Proven experience managing teams and delivering business outcomes\n Strong exposure to cross-functional project leadership\n High ownership, structured thinking, and problem-solving ability\n Ability to thrive in ambiguity and high-growth environments\n What Success Looks Like\n High-impact projects delivered with measurable business outcomes\n Improved operational efficiency and faster decision-making\n Strong alignment across teams and leadership\n Data-backed strategy influencing key business decisions",
    "exp_min": 2,
@@ -184893,6 +184932,11 @@
      "source": "linkedin",
      "url": "https://in.linkedin.com/jobs/view/growth-manager-at-neuraleap-group-4493793531",
      "seen": "2026-11-24"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/growth-manager-at-neuraleap-group-4494317451",
+     "seen": "2026-11-24"
     }
    ],
    "posted_at": "2026-11-14",
@@ -215033,7 +215077,7 @@
    ],
    "posted_at": null,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "open": true,
    "jd": "Treating hair loss in threefold ways Business Strategy, Category Management, Consulting, Corporate Strategy, Growth, Startup Strategy",
    "exp_min": null,
@@ -215565,7 +215609,7 @@
    ],
    "posted_at": null,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-24",
    "open": true,
    "jd": "Empowering limitless human potential A/B, A/B Testing, Growth, Product",
    "exp_min": null,
@@ -226434,7 +226478,7 @@
    ],
    "posted_at": "2026-11-19",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "open": true,
    "jd": "",
    "exp_min": null,
@@ -238758,7 +238802,7 @@
    ],
    "posted_at": "2026-11-20",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "open": true,
    "jd": "",
    "exp_min": null,
@@ -238855,7 +238899,7 @@
    ],
    "posted_at": "2026-11-19",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "open": true,
    "jd": "",
    "exp_min": null,
@@ -246427,6 +246471,11 @@
      "source": "linkedin",
      "url": "https://in.linkedin.com/jobs/view/core-team-%E2%80%93-strategy-growth-at-complyplanet-4493167534",
      "seen": "2026-11-22"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://www.linkedin.com/jobs/view/4493167534/",
+     "seen": "2026-11-24"
     }
    ],
    "posted_at": "2026-11-22",
@@ -247048,7 +247097,7 @@
    ],
    "posted_at": "2026-11-21",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "open": true,
    "jd": "",
    "exp_min": null,
@@ -248587,7 +248636,7 @@
    ],
    "posted_at": "2026-11-22",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "open": true,
    "jd": "",
    "exp_min": null,
@@ -257301,6 +257350,1387 @@
     "state": "live",
     "why": ""
    }
+  },
+  {
+   "id": "L2047",
+   "legacy_id": null,
+   "key": "scoutit|product manager|bengaluru",
+   "type": "job",
+   "company": "Scoutit",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Product Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4493179803",
+   "source_url": "https://www.linkedin.com/jobs/view/4493179803/",
+   "apply_url": "https://www.linkedin.com/jobs/view/4493179803/",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://www.linkedin.com/jobs/view/4493179803/",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24T04:05:21+00:00",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "We're looking for Product Managers !\n Responsibilities \n Define & Drive Strategy: Partner with payments, finance, operations, and business units to discover high-value platform opportunities and translate them into a clear product vision.\n Architect Scalable Solutions: Collaborate closely with engineering to build reusable, API-based charging, invoicing, and transaction workflows that support diverse global use cases.\n Lead Execution: Write clear, high-quality product requirements and user stories, set measurable success metrics, and manage end-to-end rollouts across complex multi-system dependencies.\n Prioritize for Impact: Balance trade-offs between innovation, platform resilience, risk mitigation, and execution speed to maximize partner and customer value.\n Optimize with Data: Leverage operational metrics, analytical insights, and partner feedback to continuously evaluate product performance and guide rapid iteration.\n Champion Quality & Trust: Proactively identify risks, resolve complex cross-functional alignment blockers, and continuously elevate product quality and platform experience.\n Skills and Qualifications \n Platform Product Experience: 3+ years in product management, with a proven track record of shipping technical, platform-based products.\n FinTech / Payments Foundation: Practical experience in payments, billing, invoicing, or related financial transaction processing environments.\n Technical Execution: Strong ability to translate business capabilities into technical requirements and partner effectively with engineering teams on architectural choices.\n Analytical Rigor: Skilled in using data to quantify opportunities, validate hypotheses, and measure product performance metrics.\n Cross-Functional Collaboration: Outstanding communication and stakeholder management skills, capable of driving consensus across matrixed teams.\n ( Note: Relevant applicants will receive an email requesting additional information as part of the next stage. The application process will be completed directly on the team's designated platform, and all subsequent communication and decisions regarding the opportunity are managed by the respective hiring team.)",
+   "exp_min": 3.0,
+   "exp_max": null,
+   "exp_text": "Seniority level Mid-Senior level Employment type Full-time Industries IT Services and IT Consulting",
+   "stretch": true,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 63,
+    "research": null,
+    "total": 63,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Stretch: asks 3+ years (+4)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 63"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2048",
+   "legacy_id": null,
+   "key": "genpact|servicenow business analyst|bengaluru",
+   "type": "job",
+   "company": "Genpact",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "ServiceNow Business Analyst",
+   "tier": "3 - APM / Analyst",
+   "location": "Bangalore Urban",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4492384099",
+   "source_url": "https://www.linkedin.com/jobs/view/4492384099/",
+   "apply_url": "https://www.linkedin.com/jobs/view/4492384099/",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://www.linkedin.com/jobs/view/4492384099/",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24T06:05:23+00:00",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "Ready to build the future with AI? \n At Genpact, we don’t just keep up with technology—we set the pace. AI and digital innovation are redefining industries, and we’re leading the charge. Genpact’s AI Gigafactory, our industry-first accelerator, is an example of how we’re scaling advanced technology solutions to help global enterprises work smarter, grow faster, and transform at scale. From large-scale models to agentic AI, our breakthrough solutions tackle companies’ most complex challenges. \n If you thrive in a fast-moving, innovation-driven environment, love building and deploying cutting-edge AI solutions, and want to push the boundaries of what’s possible, this is your moment. \n Genpact (NYSE: G) is an advanced technology services and solutions company that delivers lasting value for leading enterprises globally. Through our deep business knowledge, operational excellence, and cutting-edge solutions – we help companies across industries get ahead and stay ahead. Powered by curiosity, courage, and innovation, our teams implement data, technology, and AI to create tomorrow, today. Get to know us at genpact.com and on LinkedIn, X, YouTube, and Facebook.\n Role : Business Analyst – 4C (S2P)\n Key Responsibilities\n • Maintain strong functional, configuration and technical knowledge of the \n ServiceNow Source To Pay (S2P) module and its integrations with related \n ServiceNow applications.\n • Partner with business stakeholders, Product Owners, and technical teams to \n gather, analyze, and document business needs, translating them into business \n requirements, functional requirements, user stories, and acceptance criteria.\n • Facilitate requirement workshops, process mapping sessions, and solution \n design discussions to support platform enhancements and transformational \n initiatives (e.g., Classic UI to Workspace UI migration).\n • Analyze current-state and future-state business processes to identify \n opportunities for efficiency, automation, improved user experience, and stronger \n risk management outcomes.\n • Support continuous improvement initiatives across assessments, questionnaire \n design and routing, issue management, workflow automation, reporting, and \n integration with other ServiceNow modules.\n • Coordinate and help lead user acceptance testing (UAT) activities, including test \n planning, test case development, defect management, execution support, and \n business stakeholder signoff.\n • Provide formal testing certification and business readiness validation for \n changes being promoted through lower environments and into production.\n • Support release management activities by tracking enhancement progress, \n maintaining Jira board, facilitating prioritization discussions, and communicating \n status updates to stakeholders.\n • Partner with Product Owners and leadership to evaluate enhancement requests, \n identify dependencies, assess impacts, and recommend solutions.\n • Develop and maintain documentation including business requirements, process \n flows, test plans, testing evidence, user guides, and operational procedures.\n • Support S2P operating model, governance, policy, and control improvements by \n identifying process gaps and recommending solutions\n • Serve as a liaison between business stakeholders and technical teams to ensure \n solutions are delivered accurately, efficiently, and in alignment with strategic \n objectives",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Associate Employment type Full-time Industries Business Consulting and Services",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 49,
+    "research": null,
+    "total": 49,
+    "reasons": [
+     "3 - APM / Analyst role (+18)",
+     "Bengaluru (+20)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 49"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2049",
+   "legacy_id": null,
+   "key": "brew|founder s office|india",
+   "type": "job",
+   "company": "Brew",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/brew-tv",
+   "company_note": "",
+   "title": "Founder's Office",
+   "tier": "1 - Strategy & Ops",
+   "location": "Delhi, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4494322274",
+   "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-at-brew-4494322274",
+   "apply_url": "https://in.linkedin.com/jobs/view/founder-s-office-at-brew-4494322274",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/founder-s-office-at-brew-4494322274",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "We are looking for our Winston Wolf - someone who gets things done. (Look him up - he's the guy in Pulp Fiction).\n We are a small team. You'll be working directly with the founder and CEO, Ankur and with Akshat, who is part of the founder's office.\n You'll be expected to work hard, learn fast and implement new things quickly. The founder has worked at Amazon and ran his own Sequoia-backed startup for 9 years. Hence, you'll be given the required autonomy to do your job and expected to deliver at a high level of proficiency.\n This role is well-suited for someone who wants to do his/her startup in 2-3 years and is looking for experience to help them succeed as a founder.\n Brew is building a next‑gen content distribution platform for filmmakers. Our best-in-class platform empowers filmmakers, studios, and producers to monetise their work directly while reaching engaged global audiences.\n We’re looking for a proactive, high-ownership Founder’s Office Associate to work closely with the founding team across business development, growth, operations, and cross-functional projects. This role is ideal for someone in the early stage of their career who thrives in dynamic startup environments, communicates clearly, and enjoys turning ambiguity into action.\n What You’ll Do:\n Conduct market research and analysis to identify growth opportunities, competitor moves, and whitespace.\n Support and execute sales and partnership initiatives; manage pipelines, outreach, follow-ups, and coordination.\n Execute growth and marketing initiatives across online and offline channels; track performance and iterate.\n Collaborate with cross-functional teams (Content, Product, Ops) to optimise business processes and improve execution.\n Coordinate with clients and partners to support project execution and ensure timely deliverables.\n Work on founder-led, high-priority projects and contribute to strategic planning and execution.\n Participate in brainstorming sessions to generate innovative ideas for business growth, marketing, and partnerships.\n What We’re Looking For:\n 0–4 years of work experience (startups, consulting, operations, growth, or similar roles preferred).\n Strong communication and organisational skills.\n Ability to take initiative and own tasks end-to-end with a bias for action and attention to detail.\n Comfort working in ambiguity and a fast-paced startup environment.\n Prior experience working with startups or early-stage companies is an added advantage.\n A collaborative attitude and strong execution mindset.\n Location: Green Park, New Delhi",
+   "exp_min": 0.0,
+   "exp_max": 4.0,
+   "exp_text": "Seniority level Executive Employment type Full-time Industries Internet Marketplace Platforms",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 74,
+    "research": null,
+    "total": 74,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience fits: asks 0+ years (+15)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 74"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2050",
+   "legacy_id": null,
+   "key": "amwoodo|founder s office operations|india",
+   "type": "job",
+   "company": "Amwoodo",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/amwoodo",
+   "company_note": "",
+   "title": "Founder's office- Operations",
+   "tier": "1 - Strategy & Ops",
+   "location": "Kolkata, West Bengal, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4492688682",
+   "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-operations-at-amwoodo-4492688682",
+   "apply_url": "https://in.linkedin.com/jobs/view/founder-s-office-operations-at-amwoodo-4492688682",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/founder-s-office-operations-at-amwoodo-4492688682",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "Company: Amwoodo Eco Products Private Limited\n Job role: Founder’s office- Operations\n Location: Kolkata, West Bengal\n About the Role \n Amwoodo Eco Products Private Limited is looking for a highly organised, proactive and result-oriented professional to join the Founder's Office as Founder's Office – Operations.\n The individual will work closely with the Founder and senior leadership team to drive operational excellence, streamline business processes, strengthen cross-functional coordination and execute strategic business initiatives.\n The role will involve overseeing and monitoring critical business operations, identifying operational bottlenecks, implementing process improvements and ensuring seamless coordination across departments. A key focus area will be understanding and driving the operational strategy and growth of the company's D2C and E-commerce business.\n The ideal candidate should possess strong operational and business acumen, excellent communication skills, analytical capabilities and the ability to translate business strategies into effective execution.\n Key Responsibilities \n 1. Business Operations & Strategic Execution \n Work closely with the Founder to drive key operational priorities and strategic business initiatives.\n Translate business objectives into actionable operational plans with clearly defined timelines and deliverables.\n Monitor day-to-day business operations and ensure seamless coordination across various departments.\n Identify operational gaps, process inefficiencies and bottlenecks and implement appropriate corrective measures.\n Drive operational excellence through process standardisation, automation and continuous improvement.\n Take ownership of special projects and ensure timely execution from conceptualisation to completion.\n 2. D2C & E-commerce Operations \n Develop a strong understanding of the D2C and E-commerce business model and contribute towards building scalable operational processes.\n Monitor the end-to-end D2C business operations, including order management, inventory planning, warehousing, fulfilment, logistics and returns.\n Coordinate with E-commerce, Marketing, Sales and Supply Chain teams to ensure smooth business operations.\n Monitor key operational and business metrics such as order fulfilment rates, inventory turnover, stock availability, return rates, RTO, delivery timelines and customer satisfaction.\n Identify opportunities to improve operational efficiency, customer experience and overall D2C business profitability.\n Support demand forecasting, inventory planning and resource allocation based on business requirements.\n Evaluate operational challenges impacting D2C growth and recommend scalable solutions.\n 3. Process Improvement & Operational Excellence \n Design, implement and monitor Standard Operating Procedures (SOPs) across critical business functions.\n Identify opportunities for process optimisation, cost reduction and improved resource utilisation.\n Establish effective operational workflows, accountability mechanisms and performance tracking systems.\n Drive automation and technology-led process improvements wherever applicable.\n Conduct root cause analysis of recurring operational issues and implement sustainable solutions.\n Ensure adherence to defined operational standards, timelines and business processes.\n 4. Cross-functional Coordination & Stakeholder Management \n Act as a key coordination point between the Founder and various functional teams, including Finance, HR, Marketing, Sales, E-commerce, Procurement, Logistics and Supply Chain.\n Ensure alignment of departmental objectives with the organisation's overall business strategy.\n Monitor interdepartmental dependencies and ensure timely resolution of operational challenges.\n Coordinate with external vendors, service providers and business partners to ensure smooth execution of operational activities.\n Drive accountability and ensure timely closure of critical business deliverables.\n 5. Business Analytics & Performance Monitoring \n Develop and maintain operational dashboards, MIS reports and performance trackers.\n Monitor business KPIs and analyse operational performance against defined targets.\n Identify trends, deviations and areas of improvement through data-driven analysis.\n Prepare periodic business performance reports and presentations for the Founder and senior leadership.\n Provide actionable insights and recommendations to improve productivity, efficiency and business performance.\n 6. Founder's Office & Strategic Initiatives \n Partner with the Founder on high-priority business projects, expansion plans and operational transformation initiatives.\n Conduct market research, competitor benchmarking and business process analysis.\n Evaluate new business opportunities, operational models and strategic partnerships.\n Support the implementation of new systems, processes and business initiatives.\n Maintain project trackers, monitor milestones and provide regular updates to the Founder.\n Ensure that strategic decisions are effectively translated into measurable operational outcomes.\n Desired Candidate Profile \n Minimum 4+ years of relevant experience in Business Operations, Operations Management, Strategy & Operations, Supply Chain, D2C Operations or Founder's Office roles.\n Prior experience in FMCG, D2C, E-commerce, Retail, Consumer Products or start-up environments will be preferred.\n Strong understanding of D2C business models, E-commerce operations and business growth strategies.\n Good understanding of inventory management, demand planning, order fulfilment, warehousing, logistics and supply chain processes.\n Experience in developing SOPs, streamlining business processes and driving operational improvements.\n Strong analytical and problem-solving capabilities with a data-driven approach.\n Proficiency in MS Excel, PowerPoint and business reporting tools; exposure to ERP, CRM and business intelligence platforms will be an advantage.\n Excellent verbal and written communication skills, with the ability to interact confidently with the Founder, senior management and cross-functional stakeholders.\n Strong project management, coordination and stakeholder management skills.\n Ability to manage multiple priorities, work independently and drive initiatives with minimal supervision.\n High ownership, accountability, adaptability and execution-oriented mindset.\n What We Are Looking For \n We are looking for a strategic yet execution-focused professional who can act as an extension of the Founder in driving the organisation's operational priorities.\n The candidate should be someone who can understand the larger business vision, identify operational challenges, develop practical solutions and ensure effective execution across teams.\n A strong understanding of D2C and E-commerce operations, coupled with the ability to connect operational efficiency with business growth and profitability, will be essential for this role.\n The individual should be comfortable handling both strategic assignments and hands-on operational responsibilities in a fast-paced business environment.",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Executive Employment type Full-time Industries Personal Care Product Manufacturing",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 59,
+    "research": null,
+    "total": 59,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 59"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2051",
+   "legacy_id": null,
+   "key": "juspay|associate product manager|bengaluru",
+   "type": "job",
+   "company": "JUSPAY",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/juspay-technologies",
+   "company_note": "",
+   "title": "Associate Product Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4494318099",
+   "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-juspay-4494318099",
+   "apply_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-juspay-4494318099",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-juspay-4494318099",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "About the Role : \n At Juspay, Associate Product managers take end to end product ownership, juggling between building the product, managing operations and evangelizing our creation with our customers.\n Being a Creator :\n Can PMs become TRUE creators? Can they CODE? Can they Design? Can they analyze data programmatically?\n Yes they do it here! We offer unique opportunities for PMs to upskill themselves and overlap with Devs and Designers. We believe PMs should participate in the creation process and make product specifications that is close to implementation.\n They Should : \n Own the vision of the organization\n Develop and foster a deep understanding of\n Domain - Payments\n Technology - Purescript/Haskell\n Design - Mobile UX/UI (Tools: Sketch, Flinto)\n Data - Payments user journey and conversions (Tools: SQL, Tableau & data science programming)\n Deliver impactful and time-bound results by getting hands on with all aspects of product development and leading by example\n Develop framework solutions that solve problems fundamentally\n Enable, Collaborate & Coordinate with various stakeholders to craft the optimal product\n Internal - Technical Product Analysts (TPAs), Developers, Designers, Business Development and Senior Management\n External - CxOs, Sr. Executives, PMs and Devs of Merchants, Banks and Vendors\n Improve & optimise product development processes continuously\n Apply if you have : \n Aspiration for value creation\n Aspiration for quality\n Genuine user empathy\n Openness and patience to learn harder things\n Systematic approach to problem solving\n Attitude and ability to get-things-done\n Effectively balance big picture / details\n Self-motivated and driven\n Persuasive without being forceful\n The Giver attitude\n Preferred Qualifications And Skills \n MBA with 1-3 years of professional experience in Product Management.\n Strong strategic mindset along with exceptional execution capabilities and rigor.\n Proven expertise in stakeholder management\n Excellent communication and interpersonal skills with the ability to plan, coordinate and execute assigned tasks via collaboration with multiple cross functional teams\n Why work in Juspay? \n Payments.. big deal? \n Yes, it is a big deal. The wind is strongly blowing in favor of electronic payments - India wants to buy/order everything online, go cashless (regulation) and can’t have enough of using smartphones! Startups and internet businesses currently see a payment’ success rate of 60% ( 40 out of 100 people fail during the payments process!). These businesses that will define our future are absolutely dependent on solving digital payments. Big industry with bigger problems to solve!\n How can Engineering solve this? \n Payments is a complex ecosystem involving banks, RBI regulations, payment networks, telecom infrastructure, online and offline merchants. There is no way to align all these stars without radical engineering innovation. Talk to us about it.\n What does Juspay offer? \n You get the opportunity to work in a free liberal environment with some of the best engineers and entrepreneurs. We live & breathe the art of building amazing products with impeccable design and engineering. We want more innovators and a little bit of madness to take it further. For us office is like home with everything needed to make us comfortably code all day and chill out too. We have a full size piano, drums and a Shruti box if you are into music :) Lots of books, pictionary and interesting people to talk to about varied subjects - art, philosophy and of course about how to do the highest feats of engineering/design. We take an active interest in helping people reach their highest potential.",
+   "exp_min": 1.0,
+   "exp_max": 3.0,
+   "exp_text": "Seniority level Associate Employment type Full-time Industries Technology, Information and Internet",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 80,
+    "research": null,
+    "total": 80,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience fits: asks 1+ years (+15)",
+     "Pay not stated; needs evidence (+6)",
+     "Company on the strong pay/culture list (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 80"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2052",
+   "legacy_id": null,
+   "key": "maxlinear|project manager program manager|bengaluru",
+   "type": "job",
+   "company": "MaxLinear",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/maxlinear",
+   "company_note": "",
+   "title": "Project Manager / Program Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4488098612",
+   "source_url": "https://in.linkedin.com/jobs/view/project-manager-program-manager-at-maxlinear-4488098612",
+   "apply_url": "https://in.linkedin.com/jobs/view/project-manager-program-manager-at-maxlinear-4488098612",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/project-manager-program-manager-at-maxlinear-4488098612",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 59,
+    "research": null,
+    "total": 59,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 59"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2053",
+   "legacy_id": null,
+   "key": "google|technical program manager ai products ism product operations|bengaluru",
+   "type": "job",
+   "company": "Google",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/google",
+   "company_note": "",
+   "title": "Technical Program Manager, AI Products, ISM Product Operations",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4494320898",
+   "source_url": "https://in.linkedin.com/jobs/view/technical-program-manager-ai-products-ism-product-operations-at-google-4494320898",
+   "apply_url": "https://in.linkedin.com/jobs/view/technical-program-manager-ai-products-ism-product-operations-at-google-4494320898",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/technical-program-manager-ai-products-ism-product-operations-at-google-4494320898",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 59,
+    "research": null,
+    "total": 59,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 59"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2054",
+   "legacy_id": null,
+   "key": "oyela|category manager|india",
+   "type": "job",
+   "company": "OYELA",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/oyela-in",
+   "company_note": "",
+   "title": "Category Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Gurugram, Haryana, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4494307829",
+   "source_url": "https://in.linkedin.com/jobs/view/category-manager-at-oyela-4494307829",
+   "apply_url": "https://in.linkedin.com/jobs/view/category-manager-at-oyela-4494307829",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/category-manager-at-oyela-4494307829",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 47,
+    "research": null,
+    "total": 47,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 47"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2055",
+   "legacy_id": null,
+   "key": "tala|business analyst|bengaluru",
+   "type": "job",
+   "company": "Tala",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/talamobile",
+   "company_note": "",
+   "title": "Business Analyst",
+   "tier": "3 - APM / Analyst",
+   "location": "Bangalore Urban district, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4493974838",
+   "source_url": "https://in.linkedin.com/jobs/view/business-analyst-at-tala-4493974838",
+   "apply_url": "https://in.linkedin.com/jobs/view/business-analyst-at-tala-4493974838",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/business-analyst-at-tala-4493974838",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 49,
+    "research": null,
+    "total": 49,
+    "reasons": [
+     "3 - APM / Analyst role (+18)",
+     "Bengaluru (+20)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 49"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2056",
+   "legacy_id": null,
+   "key": "alphanodus|alpha nodus business and amp product analyst|bengaluru",
+   "type": "job",
+   "company": "Alpha Nodus",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/alphanodus",
+   "company_note": "",
+   "title": "Alpha Nodus - Business &amp; Product Analyst",
+   "tier": "3 - APM / Analyst",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4493944729",
+   "source_url": "https://in.linkedin.com/jobs/view/alpha-nodus-business-amp-product-analyst-at-alpha-nodus-4493944729",
+   "apply_url": "https://in.linkedin.com/jobs/view/alpha-nodus-business-amp-product-analyst-at-alpha-nodus-4493944729",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/alpha-nodus-business-amp-product-analyst-at-alpha-nodus-4493944729",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 49,
+    "research": null,
+    "total": 49,
+    "reasons": [
+     "3 - APM / Analyst role (+18)",
+     "Bengaluru (+20)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 49"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2057",
+   "legacy_id": null,
+   "key": "akamai|revenue operations analyst|bengaluru",
+   "type": "job",
+   "company": "Akamai Technologies",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/akamai-technologies",
+   "company_note": "",
+   "title": "Revenue Operations Analyst",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4493623548",
+   "source_url": "https://in.linkedin.com/jobs/view/revenue-operations-analyst-at-akamai-technologies-4493623548",
+   "apply_url": "https://in.linkedin.com/jobs/view/revenue-operations-analyst-at-akamai-technologies-4493623548",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/revenue-operations-analyst-at-akamai-technologies-4493623548",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 59,
+    "research": null,
+    "total": 59,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 59"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2058",
+   "legacy_id": null,
+   "key": "pentair|business analyst revenue operations|india",
+   "type": "job",
+   "company": "Pentair",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://uk.linkedin.com/company/pentair",
+   "company_note": "",
+   "title": "Business Analyst - Revenue Operations",
+   "tier": "2 - Product / Program / BD",
+   "location": "Delhi, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4486197785",
+   "source_url": "https://in.linkedin.com/jobs/view/business-analyst-revenue-operations-at-pentair-4486197785",
+   "apply_url": "https://in.linkedin.com/jobs/view/business-analyst-revenue-operations-at-pentair-4486197785",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/business-analyst-revenue-operations-at-pentair-4486197785",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 47,
+    "research": null,
+    "total": 47,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 47"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2059",
+   "legacy_id": null,
+   "key": "qrtigerqrcodegenerator|growth manager|bengaluru",
+   "type": "job",
+   "company": "QR TIGER - QR Code Generator",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/qrtiger",
+   "company_note": "",
+   "title": "Growth Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4494301631",
+   "source_url": "https://in.linkedin.com/jobs/view/growth-manager-at-qr-tiger-qr-code-generator-4494301631",
+   "apply_url": "https://in.linkedin.com/jobs/view/growth-manager-at-qr-tiger-qr-code-generator-4494301631",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/growth-manager-at-qr-tiger-qr-code-generator-4494301631",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 59,
+    "research": null,
+    "total": 59,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 59"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2060",
+   "legacy_id": null,
+   "key": "driv|materials planning manager|india",
+   "type": "job",
+   "company": "DRiV",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://www.linkedin.com/company/drivautomotive",
+   "company_note": "",
+   "title": "Materials Planning Manager",
+   "tier": "2 - Product / Program / BD",
+   "location": "Palwal, Haryana, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4493994955",
+   "source_url": "https://in.linkedin.com/jobs/view/materials-planning-manager-at-driv-4493994955",
+   "apply_url": "https://in.linkedin.com/jobs/view/materials-planning-manager-at-driv-4493994955",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/materials-planning-manager-at-driv-4493994955",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 47,
+    "research": null,
+    "total": 47,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 47"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
+  },
+  {
+   "id": "L2061",
+   "legacy_id": null,
+   "key": "adebatrading|business development manager horeca|bengaluru",
+   "type": "job",
+   "company": "Adeba Trading Private Limited",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/adeba-trading",
+   "company_note": "",
+   "title": "Business Development Manager - HoReCa",
+   "tier": "2 - Product / Program / BD",
+   "location": "Bengaluru, Karnataka, India",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4494316413",
+   "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-horeca-at-adeba-trading-private-limited-4494316413",
+   "apply_url": "https://in.linkedin.com/jobs/view/business-development-manager-horeca-at-adeba-trading-private-limited-4494316413",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/business-development-manager-horeca-at-adeba-trading-private-limited-4494316413",
+     "seen": "2026-11-24"
+    }
+   ],
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "open": true,
+   "jd": "",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 59,
+    "research": null,
+    "total": 59,
+    "reasons": [
+     "2 - Product / Program / BD role (+28)",
+     "Bengaluru (+20)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-24T17:20:44+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 59"
+    }
+   ],
+   "updated_at": "2026-11-24T17:20:44+05:30"
   }
  ]
 }

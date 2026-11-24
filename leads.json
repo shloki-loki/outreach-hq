@@ -261961,15 +261961,15 @@
    "key": "cricbuzzcom|associate product manager|bengaluru",
    "type": "job",
    "company": "Cricbuzz.com",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cricbuzz.com",
+   "company_url": "https://www.cricbuzz.com",
    "company_linkedin": "https://in.linkedin.com/company/cricbuzz.com",
    "company_note": "",
    "title": "Associate Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493013364",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-cricbuzz-com-4493013364",
@@ -262000,8 +262000,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 45,
+    "total": 57,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -262011,15 +262011,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "APM for Cricbuzz Global Broadcast in Bengaluru, asks 2-3 yrs exp; your tech product intern work [idekho] and ticketing app [alcheringa] map to UX and analytics needs.",
+    "fit_notes": "Posting asks for '2-3 years of experience in product management, product analytics and consumer technology roles' with SQL, Excel, and user journey skills; no MBA or consulting required. Shlok's product work at InsuranceDekho [idekho] and Alcheringa app development [alcheringa], combined with his SQL background, meet the technical and analytical needs, though he lacks OTT streaming domain experience.",
+    "pay_notes": "Pay is not stated in the job posting and no reliable pay evidence was found.",
+    "culture_notes": "No company rating or culture data found in search evidence.",
+    "hook": "Cricbuzz's Global Broadcast business is expanding live cricket streaming across North America, MENA, and Southeast Asia through Willow by Cricbuzz.",
+    "hook_source": "https://in.linkedin.com/jobs/view/associate-product-manager-at-cricbuzz-com-4493013364",
+    "researched_at": "2026-11-25T04:21:07+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "idekho",
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -262043,9 +262053,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-25T04:21:07+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 57: rejected (score 57 is under 60)"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30"
+   "updated_at": "2026-11-25T04:21:07+05:30",
+   "reject_reason": "score 57 is under 60"
   },
   {
    "id": "L2066",

@@ -44777,7 +44777,7 @@
    "key": "wifidabba|founder s office|bengaluru",
    "type": "company",
    "company": "Wifi Dabba, Inc.",
-   "company_domain": "",
+   "company_domain": "dabba.com",
    "company_url": "https://dabba.com",
    "company_linkedin": "https://www.linkedin.com/company/wifidabba",
    "company_note": "YC Winter 2017 · team of 21 · Decentralised broadband connectivity.",
@@ -44785,7 +44785,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "wifi-dabba-inc:company",
    "source_url": "https://www.ycombinator.com/companies/wifi-dabba-inc",
@@ -44816,8 +44816,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -44827,15 +44827,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office speculative note at Wifi Dabba, a 21-person Web3 Wi-Fi startup with no open role or pay stated.",
+    "fit_notes": "The posting (S1) is a general company overview for Wifi Dabba (YC W17) describing their Free Space Optics and blockchain/crypto infrastructure, rather than a specific job description. It asks for no explicit years of experience, skills, MBA, or consulting. Shlok has strong operational execution experience ([sop], [ceo-coo]) and is in Bengaluru, but this is a speculative application with no named opening or pay evidence.",
+    "pay_notes": "Pay is not stated in the posting or company evidence.",
+    "culture_notes": "Headcount is 21 [S1]. No employee ratings, reviews, or culture flags were found in the evidence.",
+    "hook": "At Wifi Dabba (YC W17), you are building a low cost, scalable & distributed Wi-Fi infrastructure using a grid of lasers and blockchain to enable sachetized internet access.",
+    "hook_source": "https://dabba.com",
+    "researched_at": "2026-11-24T16:24:41+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Wifi Dabba, Inc. website",
+      "url": "https://dabba.com"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -44886,14 +44899,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T16:24:41+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (Speculative cold application to a very small, early-stage crypto/Web3 infrastructure team (21 people) with no named opening, unknown pay, and no concrete job description matching his Strategy & Operations or supply chain background.)"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30",
+   "updated_at": "2026-11-24T16:24:41+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "Speculative cold application to a very small, early-stage crypto/Web3 infrastructure team (21 people) with no named opening, unknown pay, and no concrete job description matching his Strategy & Operations or supply chain background."
   },
   {
    "id": "L0322",

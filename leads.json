@@ -44103,7 +44103,7 @@
    "key": "binks|founder s office|bengaluru",
    "type": "company",
    "company": "Binks",
-   "company_domain": "",
+   "company_domain": "getbinks.com",
    "company_url": "https://getbinks.com/",
    "company_linkedin": "https://www.linkedin.com/company/getbinks/",
    "company_note": "YC Summer 2019 · team of 70 · A zero inventory, zero returns factory-to-consumer apparel company",
@@ -44111,7 +44111,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "binks:company",
    "source_url": "https://www.ycombinator.com/companies/binks",
@@ -44142,8 +44142,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 65,
+    "total": 61,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -44153,15 +44153,62 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Binks, a zero-inventory apparel brand; experience and pay not stated; your S&OP and inventory work maps directly.",
+    "fit_notes": "The posting for Founder's Office (speculative note) [yc] does not state required years of experience, pay, or specific degree requirements. It seeks someone to help scale their tailor-made apparel and end-user experience. Shlok's experience owning S&OP over Rs 200 Cr inventory [sop] and partnering with the COO and CEO on fulfillment operations [ceo-coo] directly answers the operational depth needed for an early-stage consumer/inventory-heavy brand. No MBA or consulting is required.",
+    "pay_notes": "Pay is not stated in the posting, and no pay evidence was found in the search results. Requires verification during outreach.",
+    "culture_notes": "Team of 70, YC Summer 2019 [yc]. Zero inventory, zero returns factory-to-consumer apparel company [yc]. No formal employee ratings or culture flags found in search results.",
+    "hook": "Binks makes custom tailoring seamless for urban Indian women through a proprietary sizing chart and direct-to-doorstep delivery.",
+    "hook_source": "https://getbinks.com/",
+    "researched_at": "2026-11-24T16:23:43+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Binks website",
+      "url": "https://getbinks.com/"
+     },
+     {
+      "id": "S2",
+      "title": "Well-travelled Binks eager to make mark for Scotland - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6SC1RS1htS092T2FmaXZnUHZjaTcxb2VpMmJOcGsxOTFxTFJMRHBNT1JYcEhyNF9iN3M2MWlWZjd6clpjU0hlMXU2ZzFHMHZuX3FzenFaVjB5SmhpUHFXSjl1c3plN1N1?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Saffery elevates Paul Binks to partner position in London - International Accounting Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd09FQ216dWpmT1N2MHJldllyTDNrSVlnUlM0azQzUUg4NXFGLVhEWUhmeEFpcmd2Ri1BLVNrRVpzOWV1Sm5obklvcmNWd3hQZ2g0TGJYaHVBdXJKMWhYRlFJMW5oNXpLQnhYcW1UaHFxZnFMOEdVLXZpbTVGSUJwelFTUVhyQTl2LS1sRE5pQ0tBS3JqVEpaUlJZZjVhaE9Fb2ZWc1lDYzFuODh3eWRKZw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Luis Binks: 'Scotland was always the one for me' - Brondby defender determined to make mark in first squad - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeF9uMmJ3X3VTd2JUMTdCaHNRQm5hbDc2UWd4YjdaQVM0SldQQWFxSU80dzFCUDBsb3pYZEloWlRCVHNjZ29sWjZ6U05JYXM5NDlaWEFlakt0bk5ZckV0cW1zUEROUGY4eU95YjdvUG16VHg4RTVlRmNJTUljM1pLQWNTRWM4cTNiOTZhUjNubHYydS1SeUdodlF4ODkxT1Y2WjV0UllxZzVuVjg4aWd1b3FKWF9vTE1jVVFXTUU4Vzg3d09RQTRkejhYemhIblc3MmJWS1h2UUg5RlpIdk5mYkxEWHM?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Binks Announces Exit from Spray Foam Contractor Equipment Business - Spray Foam Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUREVlpSR3NGSlZ6SThPRXJOTTJIWmtQYnRSaHZMMFlxQVBfWGhXc2laYnhQeUFDV2djY1I4R0tNSHpfYUVzVjdzNEw0RHNndl9tenFwazB6T0lUX3VjNGNaMGpNVVdWWnF0RXhsZVJHd2lKMGdTNVJhaTBHclZJLWluVURvSW1WTndjTXNROW1PWm1GTHRKTzdFUmZrNWNPZXR5eE4zblF3MTktTzdkVVVuMVo3Zw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Luis Binks could seal Everton transfer within hours as David Moyes on red alert - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmRLOHNhY1pOMTNfeEpTdk13TEFWTVhfQm1tRFpWMFJyU0xVU0M2Z044S3JxV2Q0UEppUS1lRUtfTUFLUlRfNjdReWtuQS1PV0NSS3FIZFIxY2g5SDZOeXhYLVFyNnRNRnpuY3ZOOGFRYkVKTVAxNXc0WGFEVjA0ZUhqbw?oc=5"
+     },
+     {
+      "id": "S7",
+      "title": "\"Plotless Novels\" and what Romance can teach us about good writing - Danielle Binks | Substack",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zQzNHcmZPMGpYOXpJWWRiU3lnWmhFOWlNTmNvZkp1dUJoM3ZjczE3MnRIQzFGajQzTXQ3SHJDODVJc291QkVPV1NHdUNrRWVTSlNzY1dVRktRVEx6V0g0c3BOOUZIbFdmMFloNWh5OVFVLVVzN3lPOQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -44212,14 +44259,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T16:23:43+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 61: qualified"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30",
+   "updated_at": "2026-11-24T16:23:43+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": null
   },
   {
    "id": "L0318",

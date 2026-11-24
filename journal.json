@@ -10142,6 +10142,15 @@
    "title": "Applied flow, check-in reminder, manual add; lost sends retried; follow-ups 2+2 days",
    "detail": "PR 20 merged (fd983f2), production deploy success. Agent Leads: To apply / Applied / Closed; Applied counts jobs applied to by email, reply or outcome (fixes L0035 showing under To apply). Interview / Rejected / No response buttons; jobs quiet for 4 days pinned under Check in. Manual 'Add a job you applied to'. 68 cold emails lost to connection errors will be retried by the next cycle (max 3 tries, caps unchanged) and are hidden from Approvals. Follow-ups now 2 working days after the email, then 2 more (followups_per_day stays 70).",
    "ref": "fd983f2"
+  },
+  {
+   "id": "J1128",
+   "at": "2026-11-24T18:05:20+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 127 follow-ups due",
+   "ref": ""
   }
  ]
 }

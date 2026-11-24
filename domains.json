@@ -370,11 +370,12 @@
    "site_personal": [
     "help@atlys.com"
    ],
-   "pattern": "first.last",
+   "pattern": "first",
    "confirmed": [
-    "akash.agrawal@atlys.com"
+    "akash.agrawal@atlys.com",
+    "prashast@atlys.com"
    ],
-   "checked_at": "2026-11-24T16:27:21+05:30"
+   "checked_at": "2026-11-24T16:27:27+05:30"
   }
  }
 }

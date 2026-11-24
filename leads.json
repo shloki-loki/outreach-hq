@@ -253722,15 +253722,15 @@
    "key": "azimpremjifoundation|planning manager civil|bengaluru",
    "type": "job",
    "company": "Azim Premji Foundation",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "azimpremjifoundation.org",
+   "company_url": "https://azimpremjifoundation.org",
    "company_linkedin": "https://in.linkedin.com/company/azim-premji-foundation",
    "company_note": "",
    "title": "Planning Manager - Civil",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493752331",
    "source_url": "https://in.linkedin.com/jobs/view/planning-manager-civil-at-azim-premji-foundation-4493752331",
@@ -253746,7 +253746,7 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "",
+   "jd": "Job Title: Planning Manager – PMO to coordinate Fast-Track Projects \n Experience: 12–15 Years\n Location: Bangalore \n Industry: Engineering & Construction (EPC)\n Role Objective \n The Planning Manager will be the strategic lead for multiple project controls in terms of Design Coordination, Procurement Tracking and review integrated Engineering, Procurement, and Construction activities into a unified, high-performance schedule to ensure the successful delivery of fast-track projects.\n Key Responsibilities- Coordinate with multiple projects for \n Integrated Scheduling: Primavera P6 or MS Project (LMS) . Knowledge of BIM advantage \n Fast-Track Project Tracking: Monitor daily/weekly progress against the baseline and identify critical path variances early. Implement 2–4 week look-ahead schedules to maintain momentum on fast-track timelines.\n Stakeholder Coordination: Act as the central planning hub, coordinating with Architects, Consultants, and Contractors to resolve drawing discrepancies, material delays, or site bottlenecks.\n Performance Dashboards: Create and maintain sophisticated management dashboards using Excel, Power BI, or similar technological tools. These should visualize KPIs like S-Curves, Earned Value Management (EVM), and Milestone Slippage.\n Management Action Plans: Perform Delay Analysis (Root Cause Analysis) and develop proactive recovery or mitigation plans for management review.\n Risk & Resource Management: Forecast manpower and machinery requirements while identifying potential scheduling risks to prevent budget or timeline overruns.\n Required Qualifications & Skills \n Education: Bachelor’s degree in Civil Engineering or Construction Management (Post-graduation in Project Management is a plus). \n Software Proficiency: Expert-level knowledge of Primavera P6 and MS Project . Advanced skills in Excel for data visualization and dashboard creation.\n Industry Experience: Minimum 12 years in project planning, Coordination, Contracts management in EPC projects and fast-track construction .\n Analytical Thinking: Ability to translate complex site data into clear, actionable insights for senior management.\n Communication: Strong interpersonal skills to drive alignment between technical consultants and site execution teams\nSeniority level Mid-Senior level | Employment type Full-time | Industries Non-profit Organizations",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -253761,8 +253761,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 10,
+    "total": 30,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -253772,15 +253772,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Planning Manager at Azim Premji Foundation, but asks 12-15 yrs while you have 1.3 yrs.",
+    "fit_notes": "The posting asks for 'Minimum 12 years in project planning, Coordination, Contracts management in EPC projects and fast-track construction' with a 'Bachelor’s degree in Civil Engineering or Construction Management'. Shlok has 1.3 years of experience and a B.Tech in Electrical and Electronics Engineering, which is a complete mismatch on experience years, industry, and educational background.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Azim Premji Foundation is a well-known non-profit organization focused on education and social change in India.",
+    "hook": "Azim Premji Foundation recently launched a programme to support social startups in November 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdXpjbmNLR2JZU0FvdVNHbUhWUnE2SjJPRjdNNGhnSDQwTFFSbHhTMHNxbS1HbVR3QmxTYjAxQVN1ZVVLZkJWTEZ5UW1iSzNYN3dKUjJQMGM2UEFhOEZpQUNRNnBnSlU1bDRnQkZQdVgwLXdtWnVObDRQdmE2MFZLWW05emVwcFBOblR2azlBUmducXNiMExRakZwTWVPZWpOd3hReDRsMWxfZkg0MnZ3NWV3VUdnenZ2REtCU1dYZUxId2NTWE9reG9od29KUS1TOW5r0gHYAUFVX3lxTFBqbjhEazM0a0Fwc1Z5YWVJT3NnRTJUbHlBeVE5OWs4NS1QWVVFQ2V2RXRCTC1sT1ZOM0I1Snk1amZVWGRMRG5JZk1mTFdHLVZ6WEFsNlF3SWF4X0xfV0phY1JZMVF1MTlUV213d0NYWnJQTnhfS2MyY2hnOG5uU1FqU0dmWDliRjRialJxSWdCdWNXYnJZM082alMzanA4Ui1ySXowSm5FdnhlNWp1dXJXdWFnU3EyRFR6emY1NzJzc05qREF1SWZkZHVBS1lRSDlhYmV4OU5MeQ?oc=5",
+    "researched_at": "2026-11-24T16:16:20+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Azim Premji Foundation launches programme to support social startups - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdXpjbmNLR2JZU0FvdVNHbUhWUnE2SjJPRjdNNGhnSDQwTFFSbHhTMHNxbS1HbVR3QmxTYjAxQVN1ZVVLZkJWTEZ5UW1iSzNYN3dKUjJQMGM2UEFhOEZpQUNRNnBnSlU1bDRnQkZQdVgwLXdtWnVObDRQdmE2MFZLWW05emVwcFBOblR2azlBUmducXNiMExRakZwTWVPZWpOd3hReDRsMWxfZkg0MnZ3NWV3VUdnenZ2REtCU1dYZUxId2NTWE9reG9od29KUS1TOW5r0gHYAUFVX3lxTFBqbjhEazM0a0Fwc1Z5YWVJT3NnRTJUbHlBeVE5OWs4NS1QWVVFQ2V2RXRCTC1sT1ZOM0I1Snk1amZVWGRMRG5JZk1mTFdHLVZ6WEFsNlF3SWF4X0xfV0phY1JZMVF1MTlUV213d0NYWnJQTnhfS2MyY2hnOG5uU1FqU0dmWDliRjRialJxSWdCdWNXYnJZM082alMzanA4Ui1ySXowSm5FdnhlNWp1dXJXdWFnU3EyRFR6emY1NzJzc05qREF1SWZkZHVBS1lRSDlhYmV4OU5MeQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Azim Premji Foundation launches social startups programme - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLU9VS1ZDZ1hpbWRtRUhzUFlFZ1VEMlNCU010NlBfNmd4UnJsWk9UNkdjb3pyZzluVllSMFc4RVV5NlNlT2VicHhqR0pOM1RKd2t2ZE1XTnNGRmZRY2UxMFRSM2NPUFBwQ3poWnU5VVNWMF85NGMzM3FfQ3hZLWQ4MEQ0UnY3Y3luWDAydVBfZjMwQnhjRy1hZ1BRMU52c1VRd1ZiZ0ZyazdGdEN3M21IeXVWazNpVWVHeXlHN0ZrTUx4QdIByAFBVV95cUxPczRzUnVpREZPcGlnS1VNcE4xRW9DZVdqUFJqNEZtSzRIVGNUeW1tbnFWXzZkOTdSWVNrWl9uZ3Bqd2xSR2txaWZUNkd3Rk45TnJDcHhtNWh4Tll2NktzY2xmckZydzcyaGg2NEJDMTE0X3RNYzRHN3NCOC0xdjlvaHhEbmZmYV83U3RueDhzQWw4TjE4ZFpJRnBadE4wZ2ptTDNyX0dBNXZJNkNYclJJUlh4M2Zsd2VHblNkQThTZFRETjM2S1RLSA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Azim Premji Foundation to support 20,000 girls in Delhi with higher education scholarships - ET Education",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVkMySkFrd2dBNEMzNWNYdHV5WXlsZmcwYzRzZDJtQXZaaU52VkhFMEIwZkdNZk1Nby1uSmtHMFZWc18xeXRFSXl6X2JrVmpzMGM1Q1hsOU1RNVVrbVYteHNQU3ZrLXRVRVZRNFh0SEd3RjNqTXRfaGlFV3NrNnNTa2VPc3doUGRCc29hRVVDNzZMMnB6aE9jUFRBN2psZlQ0YXRDM3RHV3M3ZjhMVXdWY1JnbWN3cTNCOVpHNXpXU3Y0elg5blA3b012WW1Sb2xYQ3hKZVRMVGFHek1kNUd1OXNaTW1xb1lqX3BYN0wxaGfSAfYBQVVfeXFMTzZzRVF2S1BEZGZGM2F4Nzh4OFpSVmc0ZUZwMFJqN3BNVC1IUk51a1lLSF83V2N4RWxfWFhaa2pUWW5GZGY4V0NKZHJjdkNhSlJMYVlhOTAzZ2ZlMmRRc0g5TlFLLW5LRFRfbUVsbW1ZUzE0OGNxNUdaZXNrRWV2d3R6ckRYQk5jdHZDQjZNR0JHaURHbUg2ckEyRnpTeTJlZExVZ0hXajFXeDhrMzdRSzk5dkZ5Y3JpS0dRalljYTNWWXNJQnFkUWdHSzRLV09oSEJtV0YxU2lyTm5BVlR0MWl2Zkl6bHlOY0hpcDloR19PaE9oOWdB?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Azim Premji Foundation to support up to 20,000 girls in Delhi NCT with scholarships - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd0Z2Ml9pSjh1alN6Vk1ITmZFRk9yYm5ETnFGa0t5VV9RdXN4UFJYcGJ3bmxXdV9kaHRtMHlDWm1KeHU4TVFDZ19kZDRKSW5VUWlPTVRRS1hTeXF6SzZjTmVaY3MyNk9qbGJaVTlEdEVlYVo5TWdHVTNxU0FJMFFlOGFUOVB6M1ppSHdBSTdRWXUwcFRzZ09jZ1VoLXZYMG1SZEg2SkVBRzhlc2NQRG9uM1BLbENLRWZveXRTMVN5TjhhLVNBTUJwN0tqRXVraWFRZWfSAdgBQVVfeXFMT1RWV3hGS1BFRnRpZkYwbTExVE1vY3YtRmdnREN6X2lpT25LSWRFMk0yTzlUQWUzU3l6OVNVbTE2bWlpVU8xOUplSHhzNGpuWjU0cGdNOG9Hc2xGOEJqSVVlbTdmazluTEwtV0hvNFI2TmlnWlVockZVNUFJUF9ucnRvMU1Td3M5UWk3ZGtWZkNlRXZpaHA3cGVEeVM0dWoyOXNaOHF6T0ZsZDRpT1NXY1U2Vk9XNm1vcVk3RURCeW1pc09hREpfQ3NRcjktc25FTFVMT2pVbklo?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Programme Manager, Azim Premji Foundation, Bhopal, Bangalore - India Water Portal",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTRwZ29rUDA0d0VBRk8tbm1TLW9lbDhfYXRsNTV5dW1HUVhsQUhaOFVWTlZzOE5sSWV1NzhFN0NLRVJmNk43RVBTU28ta2l6R2JlaWtKTkk1MHZOQlI2a2VaZ29BZ1dobWx2NlpjdURwZFJmNVRYVi0yVkVyMllUaWVyWTJQNWJpakkwZlJfcTl2X0lpempjcnVOVWtPOWRWdWN0QUZvQdIBtAFBVV95cUxPWTlMMlBpRWZoMlRnQ3U1cnRMSlJVcWJramU0b09EOS0xcUM3ZVBsSElJTm1RS0tGV0ZIOTRtNHYweHR1X1hUeEZ1V2V1a2RxUnhQSVhiNnpXQWJucFNITFQzcVlPdDBGOW5uYzhHUlBnSHdSY0xmUldFbkRxU2NNQ1NJMUFkeUItelBFQTNONlhOY3FGeFlkVnZvLXJsNjUtRE1ScjNMbzVEMThtWTR1cFVNV2k?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "What is Janato Cinema? How Azim Premji Foundation's New Initiative Is Backing Socially-Engaged Films - The Hollywood Reporter India",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNnhSSGo4eG8tejd6Sm1KaUREZDBVU1cyR0o3YmJtZENVNmQyeHl3OWJ1Q3AyTDFmbThMODVlTW9YOXk0Uy0tbURjRGJRcGhsNXdKZzBiNEJmTnRVT3oxbnlQVVF0SXlmeTR6QmV1Vl92OC1xaWFHTk1jcWNHYTNZcUVFNHpZVmpJLTFvbWkzMlBiQWRKamdxUGlWc041UkdYTmI5b01Xc0ZBYXQ5MGJZdHNYSm4yZVNaMG56d09mdXJRNjJrWEZNeHlsNmJKa3Jqa19KNmVxTW5QNDd5cG82UE5fbktKQXh6Q2fSAfcBQVVfeXFMTXl6NHRJRFhJVmhhYnFzMU0yNEpZQnl2Q2RDd19uY3hUZERsVTdsM3NVN0RnTXd4Z3JlMmxFZ013VlR5elBFWVFVRFRDMmNrT0szWFJwQm9YOXcwbkNzMm8yNVhhMkFTNXpRSXZhZzVlamRqRTlzNzJsbjdmUnlrSTRWc3FiYnJHNGVyUHFRLWF1bHMzcWRGMng5WDJNVUQydk1IOTV6U3puWEpSRWhzTjdvMDJYT2IxakRzSFhUMXFpLTlmbXN1UFdiRUJaZ2JtTFNaQmUtT0RvSklHZVVMQ2hxNWo1VHhPYXMxa0pVZnlsNnctdmxzdw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -253804,14 +253842,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-24T16:16:20+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 30: rejected (The posting asks for 12-15 years of experience, but Shlok has 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-24T16:16:20+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting asks for 12-15 years of experience, but Shlok has 1.3 years."
   },
   {
    "id": "L2019",

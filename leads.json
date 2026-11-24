@@ -177484,9 +177484,9 @@
    },
    "stage": "qualified",
    "outcome": null,
-   "applied_at": null,
+   "applied_at": "2026-11-24T20:25:35+05:30",
    "apply": {
-    "status": "not_started",
+    "status": "applied",
     "notes": "",
     "answers": {}
    },
@@ -177569,9 +177569,15 @@
      "actor": "people-finder",
      "event": "contact_added",
      "detail": "Satish S (recruiter, LinkedIn search)"
+    },
+    {
+     "at": "2026-11-24T20:25:35+05:30",
+     "actor": "shlok",
+     "event": "applied",
+     "detail": "application submitted"
     }
    ],
-   "updated_at": "2026-11-23T20:23:06+05:30",
+   "updated_at": "2026-11-24T20:25:35+05:30",
    "research_attempt": {
     "at": "2026-11-15T01:48:25+05:30",
     "why": "error: Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",

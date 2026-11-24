@@ -259204,7 +259204,7 @@
    "key": "codingal|senior business development associate|bengaluru",
    "type": "job",
    "company": "Codingal",
-   "company_domain": "",
+   "company_domain": "codingal.com",
    "company_url": "https://www.codingal.com/?utm_source=yc",
    "company_linkedin": "https://www.linkedin.com/company/codingal",
    "company_note": "YC Winter 2021 · team of 100 · Leading online after-school for kids & teens to learn AI & coding",
@@ -259212,7 +259212,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, KA, IN / Bengaluru, Karnataka, IN",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "codingal:91645",
    "source_url": "https://www.ycombinator.com/companies/codingal/jobs/FfYHlsZ-senior-business-development-associate",
@@ -259243,8 +259243,8 @@
    },
    "score": {
     "rules": 69,
-    "research": null,
-    "total": 69,
+    "research": 45,
+    "total": 55,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -259253,15 +259253,33 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Business Development Associate at Codingal, asks 1+ yrs, but pay is unknown and it is a sales role.",
+    "fit_notes": "The posting asks for 1+ years of experience in business development and sales for an online K-12 coding education platform. Shlok's background is in Strategy & Operations and Supply Chain at Ola Electric ([sop], [ceo-coo]), which does not align with a pure K-12 edtech sales role. No MBA or consulting is required, but pay is not stated.",
+    "pay_notes": "Pay is not stated in the posting or evidence.",
+    "culture_notes": "Online after-school for kids & teens to learn AI & coding; team of 100 per YC note; no specific culture ratings found.",
+    "hook": "Codingal is trusted by over 1 million registered students in 70+ countries with an NPS of 86.",
+    "hook_source": "https://www.ycombinator.com/companies/codingal/jobs/FfYHlsZ-senior-business-development-associate",
+    "researched_at": "2026-11-25T04:23:59+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Codingal website",
+      "url": "https://www.codingal.com/?utm_source=yc"
+     },
+     {
+      "id": "S2",
+      "title": "Codingal - 2026 Latest Shareholding & Valuation - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXF0dzc3azlyaGNGcHdYVTd5M3oySkw0Wk0tUkhpUGs0X2ZsZ21fdm90cDhPaWJXRmJKUXdsSHM1ZmxGVTdCRC13RE4tZkVzV0N3TFNJZmJMYkwtaUw2azBhSzVnbTBQS1ZSd0cxLU9DVGZKcFRGcHV6T1QtZFJQbWp2VzA2QUVQU1pSSHlPTzZlOVpqQWFTZDBwMm9CVDV4VWtNNF9aWWg?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -259312,9 +259330,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 69"
+    },
+    {
+     "at": "2026-11-25T04:23:59+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 55: rejected (Pay is completely unknown, role is a pure sales/business development role rather than Strategy & Ops or Product, and it does not meet Shlok's preference for fixed pay >= Rs 24.5 LPA.)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-25T04:23:59+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "live",
@@ -259324,7 +259348,8 @@
     "at": "2026-11-24T15:49:58+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Pay is completely unknown, role is a pure sales/business development role rather than Strategy & Ops or Product, and it does not meet Shlok's preference for fixed pay >= Rs 24.5 LPA."
   },
   {
    "id": "L2039",

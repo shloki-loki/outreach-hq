@@ -1,16 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-21T18:45:20+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "sent 0, failed 0. daily cap of 60 speculative notes reached",
-   "stats": {
-    "sent": 0,
-    "failed": 0
-   }
-  },
-  {
    "at": "2026-11-21T19:05:14+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3487,6 +3477,13 @@
    "agent": "follow-up",
    "ok": true,
    "summary": "0 follow-ups drafted (none due), 6 replies flagged (3 new notes: Reslink no, Xindus CV request, Airveda resume request), 0 bounces handled",
+   "stats": {}
+  },
+  {
+   "at": "2026-11-24T12:34:16+05:30",
+   "agent": "lead-scout",
+   "ok": true,
+   "summary": "13 researched (9+2 rejected counted: 11 rejected, 2 qualified: Navi L1980, Zynga L1996), 0 emails found; skipped scrape (ran 04:46 today), no Apify used; L2010 SkillYT left unresearched (LinkedIn 429); stale re-verify and Monday company scan not done",
    "stats": {}
   }
  ]

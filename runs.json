@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-21T18:45:11+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-21T18:45:20+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3493,6 +3480,13 @@
    "agent": "send-track",
    "ok": true,
    "summary": "0 emails drafted, 0 referral notes (no connections matched), 0 application kits; skipped: L0105 and L1556 only catch-all addresses after recheck and score under 80; apply pages are LinkedIn job pages, no readable forms",
+   "stats": {}
+  },
+  {
+   "at": "2026-11-24T12:31:28+05:30",
+   "agent": "follow-up",
+   "ok": true,
+   "summary": "0 follow-ups drafted (none due), 6 replies flagged (3 new notes: Reslink no, Xindus CV request, Airveda resume request), 0 bounces handled",
    "stats": {}
   }
  ]

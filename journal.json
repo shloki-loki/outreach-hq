@@ -9836,6 +9836,15 @@
    "title": "Ran",
    "detail": "0 emails drafted, 0 referral notes (no connections matched), 0 application kits; skipped: L0105 and L1556 only catch-all addresses after recheck and score under 80; apply pages are LinkedIn job pages, no readable forms",
    "ref": ""
+  },
+  {
+   "id": "J1094",
+   "at": "2026-11-24T12:31:28+05:30",
+   "by": "follow-up",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 follow-ups drafted (none due), 6 replies flagged (3 new notes: Reslink no, Xindus CV request, Airveda resume request), 0 bounces handled",
+   "ref": ""
   }
  ]
 }

@@ -248826,7 +248826,7 @@
    "posted_at": "2026-11-23",
    "first_seen": "2026-11-23",
    "last_seen": "2026-11-23",
-   "open": false,
+   "open": true,
    "jd": "About BHIVE Workspace: BHIVE Workspace is one of Bengaluru’s leading flexible workspace providers. Founded in 2014, BHIVE has grown into a homegrown brand that offers coworking spaces, managed offices and enterprise workspace solutions across key business districts in the city. We serve thousands of members, from early-stage startups and freelancers to large enterprises and global companies. \n Our goal is to make great workspaces accessible, so that businesses of every size can grow without the cost and complexity of traditional real estate. Beyond workspaces, BHIVE is building a wider real estate ecosystem that includes investment-led platforms. \n BHIVE is in a strong growth phase, opening new centres and expanding our portfolio across Bengaluru. You’ll have real ownership, work closely with leadership, and help shape how India’s next generation of businesses works.\n Why join us: \n Join a well-established brand with 30+ centres across Bengaluru’s prime business hubs \n Be part of a fast-growing, founder-led company with a big expansion roadmap \n Take on high-ownership roles with visible impact and direct access to leadership \n Work in a collaborative, entrepreneurial culture where ideas move quickly \n Learn across real estate, hospitality, sales and technology \n About the role: The CEO's Office doesn't own a single function; it drives the CEO's agenda across Finance, Strategy, Investor Relations, Real Estate, Revenue and Marketing. You will own complete workstreams end to end – from driving the organisation's goal-setting to fixing the processes and controls that influence those goals. You'll run your workstreams independently, with direct visibility to the CEO and leadership. This is a senior role in the CEO's Office, sitting one level below the Chief of Staff, with the autonomy and mandate to shape how the company executes.\n Key responsibilities: \n Org goals and execution: Drive the annual and quarterly goal-setting process with leadership, and own tracking and reviews against those goals, driving the whole organisation towards execution.\n Process efficiency: Find and fix inefficiencies in commercial and operational processes, owning each from diagnosis through to an implemented, measurable improvement.\n Payouts and controls: Verify that payouts and internal controls work as intended; identify gaps and own the fixes through to closure with the relevant teams.\n Initiative tracking: Track whether key initiatives are succeeding – define success measures upfront, review outcomes honestly, and push for course correction early.\n Cross-functional delivery: Own cross-departmental programmes so that work comes together rather than falling between teams; align owners, resolve conflicts and hold teams to timelines.\n Leadership review cadences: Run the CEO's Office review cadences independently, so leadership forums focus on decisions and accountability rather than status updates.\n Decision-shaping analysis: Lead analyses on financials, MIS, cash flow and…",
    "exp_min": 4,
    "exp_max": 6,
@@ -248842,8 +248842,8 @@
    },
    "score": {
     "rules": 75,
-    "research": null,
-    "total": 75,
+    "research": 5,
+    "total": 33,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -248853,15 +248853,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "BHIVE Workspace CEO's Office manager role is marked closed by the scraper; not re-opened today.",
+    "fit_notes": "Scraper flags posting not open; no verification possible, so not qualified.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-24T12:32:45+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -248891,14 +248893,21 @@
      "actor": "research-worker",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-24T12:32:45+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 33: rejected (Posting marked closed by scraper (open=false); could not verify live)"
     }
    ],
-   "updated_at": "2026-11-24T02:00:59+05:30",
+   "updated_at": "2026-11-24T12:32:45+05:30",
    "bin": {
     "at": "2026-11-24T02:00:59+05:30",
     "reason": "the posting says \"No longer accepting applications\"",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Posting marked closed by scraper (open=false); could not verify live"
   },
   {
    "id": "L1978",

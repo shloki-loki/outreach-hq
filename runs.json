@@ -1,30 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-22T14:29:42+05:30",
-   "agent": "lead-scout/scrape",
-   "ok": true,
-   "summary": "6925 jobs read, 426 passed rules, 16 new leads",
-   "stats": {
-    "fetched": 6925,
-    "passed_rules": 426,
-    "new": 16,
-    "updated": 387,
-    "closed": 0,
-    "by_source": {
-     "greenhouse": 3734,
-     "lever": 111,
-     "ashby": 2018,
-     "linkedin": 566,
-     "instahyre": 219,
-     "yc": 205,
-     "naukri": 72,
-     "wellfound": 0,
-     "hiringcafe": 0
-    }
-   }
-  },
-  {
    "at": "2026-11-22T15:53:43+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3494,6 +3470,17 @@
       "gemini-3.5-flash"
      ]
     }
+   }
+  },
+  {
+   "at": "2026-11-25T04:32:06+05:30",
+   "agent": "people-finder",
+   "ok": true,
+   "summary": "2 companies searched on LinkedIn, 0 people added",
+   "stats": {
+    "leads": 2,
+    "people_added": 0,
+    "skipped": ""
    }
   }
  ]

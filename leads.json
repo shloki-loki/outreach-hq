@@ -261369,7 +261369,12 @@
      "detail": "linkedin: rule score 59"
     }
    ],
-   "updated_at": "2026-11-24T17:20:44+05:30"
+   "updated_at": "2026-11-24T17:20:44+05:30",
+   "research_attempt": {
+    "at": "2026-11-25T04:30:44+05:30",
+    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L2054",

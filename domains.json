@@ -361,6 +361,20 @@
     "first"
    ],
    "confirmed": []
+  },
+  "atlys.com": {
+   "provider": "google",
+   "published": [
+    "support@atlys.com"
+   ],
+   "site_personal": [
+    "help@atlys.com"
+   ],
+   "pattern": "first.last",
+   "confirmed": [
+    "akash.agrawal@atlys.com"
+   ],
+   "checked_at": "2026-11-24T16:27:21+05:30"
   }
  }
 }

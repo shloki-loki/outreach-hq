@@ -251852,7 +251852,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493669242",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-b2b-at-refold-ai-4493669242",
@@ -251868,7 +251868,7 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "",
+   "jd": "About Refold AI\n Refold AI is the AI integration platform built for agents, made for modern SaaS companies that need to ship enterprise integrations at scale. We're reimagining integrations with AI agents that work like business consultants and integration engineers, building them 10x faster, in hours instead of days. The payoff: integrations stop being a bottleneck that costs you deals and burns margin, and become a growth engine. You win the enterprise deals that hinge on them, onboard faster, and scale without an army of consultants.\nWe've grown rapidly, reaching seven-figure ARR and 30+ paying customers, powering the product and professional services teams at modern SaaS companies, from Incorta, Kantata, and Coupa to Highradius, Naehas, and OvationCXM.\nRefold AI has raised $6.5M from world-class investors including Eniac Ventures (early investors in Airbnb & Uber), Tidal Ventures, and Better Capital.\n What you'll do:\n Where does automation earn trust, and where does a human still need to stay in the loop?\n You will draw that line repeatedly, and the answer will keep changing. How do you price outcomes instead of usage, in an industry that has only ever paid for hours? \n You will own that question commercially and build the model around it. What does it mean for a platform to get smarter across customers without leaking what any one customer knows?\n You will define what learning looks like at the system level. \n How do ISV developers think about reliability when their customers depend on\n integrations running without anyone watching? You will own that experience end to end. \n When something breaks in production for an enterprise customer, who gets told, what do they see, and what can they do about it? You will design that judgment layer. \n What we're looking for:\n You have shipped something on your own. A side project, a tool, anything you took from zero to working. We are building systems with real complexity. We need someone who has felt the difference between a decision made in a doc and a decision made in code. \n You are technically grounded. You do not write the code, but you understand the structure, the trade-offs, and the failure modes. When engineering says a change costs 40% more compute, you know what that means downstream. \n You think in constraints. When you look at a feature request, the first question is what breaks if we build this, not what we could do with it. Edge cases are not polish. They are often the product. \n You write, not deck. Specs, trade-off docs, design decisions. If you cannot write a crisp two-page spec, the feature is not ready to build. \n You push back. If the scoping is underspecified, say so. If the deadline is not realistic, say so. Disagree clearly and commit once a decision is made\n Experience\n 2-3 years in product in the B2B software industry\n At least 1 year on a platform, infrastructure, or developer tool. \n Comfortable with distributed systems concepts: queues, retries, schema versioning, idempotency\n Track record of shipping things that were actually hard, not feature additions on a stable roadmap\n Degree from a top-tier institution, or hands-on product experience at a company known for building hard things. One or the other, not neither.\nSeniority level Not Applicable | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -251883,8 +251883,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -251894,15 +251894,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "B2B PM at Refold AI asks 2-3 yrs in B2B PM & dev tools; your 1.3 yrs of full-time exp is in S&Ops at Ola Electric, not B2B software PM.",
+    "fit_notes": "Posting requires '2-3 years in product in the B2B software industry' and 'At least 1 year on a platform, infrastructure, or developer tool' as well as familiarity with distributed systems concepts. Shlok has an engineering degree from IIT Guwahati and technical product internship experience [idekho], but his 1.3 years of full-time work experience is in S&Ops at Ola Electric, not B2B SaaS PM.",
+    "pay_notes": "Pay is not mentioned in the posting and no salary data was found for Refold AI.",
+    "culture_notes": "Early-stage startup ($6.5M raised, Eniac/Tidal/Better Capital). No employee reviews found.",
+    "hook": "Refold AI raised $6.5M from Eniac Ventures and reached seven-figure ARR powering product teams at Incorta, Kantata, and Coupa.",
+    "hook_source": "https://in.linkedin.com/jobs/view/product-manager-b2b-at-refold-ai-4493669242",
+    "researched_at": "2026-11-24T16:00:54+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -251926,14 +251935,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-24T16:00:54+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Requires 2-3 years of product management experience in B2B software and at least 1 year on platform/infrastructure/developer tools, which Shlok lacks (his 1.3 years of full-time experience is in Strategy & Operations at Ola Electric).)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-24T16:00:54+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Requires 2-3 years of product management experience in B2B software and at least 1 year on platform/infrastructure/developer tools, which Shlok lacks (his 1.3 years of full-time experience is in Strategy & Operations at Ola Electric)."
   },
   {
    "id": "L2002",

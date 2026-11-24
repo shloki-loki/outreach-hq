@@ -44281,7 +44281,7 @@
    "key": "inito|founder s office|bengaluru",
    "type": "company",
    "company": "Inito",
-   "company_domain": "",
+   "company_domain": "inito.com",
    "company_url": "https://www.inito.com/",
    "company_linkedin": "https://www.linkedin.com/company/initoinc/",
    "company_note": "YC Winter 2019 · team of 100 · Enabling better self care with at-home hormone tracking.",
@@ -44289,7 +44289,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "yc",
    "source_id": "inito:company",
    "source_url": "https://www.ycombinator.com/companies/inito",
@@ -44305,7 +44305,7 @@
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-19",
    "open": true,
-   "jd": "",
+   "jd": "Inito: Enabling better self care with at-home hormone tracking. | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › Inito \n Inito\n Enabling better self care with at-home hormone tracking.\n Y Combinator Logo Winter 2019 \nActive\n Fertility Tech\n Health Tech\n Digital Health\n Women's Health\n Company \n Jobs 2 \n News \n https://www.inito.com/\n Enabling better self care with at-home hormone tracking.\n Latest News\n Inito, a startup that helps women quickly track fertility hormones at home, raises $6M | TechCrunch \n Nov 15, 2023\n Jobs at Inito\n View all jobs \n Machine Learning Engineer \n Bengaluru, KA, IN\n ₹40 INR\n 1+ years\n Apply Now › \n Senior Software Engineer \n Bengaluru, KA, IN\n ₹25 - ₹35 INR\n 1+ years\n Apply Now › \n Inito \n Batch: Winter 2019 \n Team Size: 100 \n Status: \nActive \n Location: Dubai, United Arab Emirates \n Founders\n Varun AV Founder\n Varun AV Founder\n Aayush Rai Founder\n Aayush Rai Founder\n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -44320,8 +44320,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 60,
+    "total": 58,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -44331,15 +44331,43 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office speculative note at Inito, but no Strategy & Operations roles are currently listed.",
+    "fit_notes": "The YC posting lists a Machine Learning Engineer role requiring 1+ years and a Senior Software Engineer role. It has no open Strategy & Operations or Founder's Office roles listed, making this a speculative cold outreach rather than an active qualifying role. Shlok's facts in S&OP and supply chain ([sop], [ceo-coo]) would be strong for an operations role, but none are open.",
+    "pay_notes": "No pay stated for a speculative Founder's Office note.",
+    "culture_notes": "Team size of 100 [S1], YC Winter 2019 batch [S1]. No direct employee ratings found in search evidence.",
+    "hook": "Inito raised $6M to help women quickly track fertility hormones at home [S1].",
+    "hook_source": "https://www.inito.com/",
+    "researched_at": "2026-11-24T16:23:57+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Inito website",
+      "url": "https://www.inito.com/"
+     },
+     {
+      "id": "S2",
+      "title": "Inito Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wS2VCblFoelRXUG40eUxWaVhTTUVuWnJZNUFTSHZNWmtSV2lWMVpBczBaVUMzb2YxcVlDbVFQdXB4ZjE2alpPcVpISnBYMk00OGNTZ19QN3g3eW01NExyeVEzSQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "I Tested the Inito Fertility Monitor | Here's What I Actually Think | 2026 Review - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpSjFQMGhSMnlqLVY2QmRjUWR2R1FKY2M2aldnbE5OUTNpczF0YVJuVEFiMzQ0WkpLYVJVLUktMTJRdEF5eW8ybzJJS2ppT2s?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Inito - 2026 Latest Shareholding & Valuation - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTk1alpQSkZCeUZ0SklrejdWU3RzX1BDU2NGV2J5VG9RZWtCU3pwYmRMcTRwSnZBZHlXdVpzemd6S2pUbnR3YlhWNXdfc3paLVFNX3B5d2hLUnEtejBBY1JzTmo4bGQ2VzRoLXhNajFKOUdHb25rVUNkc3lualRWaWx6ZDEzUTgwVnEzbTlIYWp0NUhSOW1WR2xnajBmVXp5Q2l1WQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -44390,14 +44418,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-24T16:23:57+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 58: rejected (The posting on the YC page lists no named Founder's Office or Strategy & Operations opening; it only lists Engineering roles (Machine Learning Engineer, Senior Software Engineer) which do not match Shlok's target roles or primary skill set.)"
     }
    ],
-   "updated_at": "2026-11-13T04:00:41+05:30",
+   "updated_at": "2026-11-24T16:23:57+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "The posting on the YC page lists no named Founder's Office or Strategy & Operations opening; it only lists Engineering roles (Machine Learning Engineer, Senior Software Engineer) which do not match Shlok's target roles or primary skill set."
   },
   {
    "id": "L0319",

@@ -10340,6 +10340,15 @@
    "title": "Solved: Inbox scan failed",
    "detail": "Last failure 24 Nov 05:37 IST; follow-up/track has run clean every 20 minutes since 05:52 (latest 20:05, 1 reply found). The 60-second read limit works.",
    "ref": "I0046"
+  },
+  {
+   "id": "J1150",
+   "at": "2026-11-24T20:12:57+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Sending backlog and failed messages checked, 24 Nov 20:15",
+   "detail": "0 failed messages now. 73 approved waiting (63 cold, 10 follow-up), including M0113-M0119 and M0436-M0438 which were re-queued by PR 20. Sender is working at its run limit of 10 per run, about every 20 minutes (sent 10 at 18:21, 18:42, 18:43, 19:17, 19:43, 20:00); 121 emails sent today. So approved messages are not stuck, they are waiting behind the per-run limit. GitHub runs all succeeded on 24 Nov (Track and send 12:57 UTC 14m29s, Lead scout 11:36 UTC, Research 10:12 UTC, Live check 09:46 UTC, Digest 13:09 UTC, Supervisor checks 13:49 UTC, Founder emails 14:02 UTC).",
+   "ref": ""
   }
  ]
 }

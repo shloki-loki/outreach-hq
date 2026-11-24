@@ -260892,7 +260892,7 @@
    "key": "amwoodo|founder s office operations|india",
    "type": "job",
    "company": "Amwoodo",
-   "company_domain": "",
+   "company_domain": "amwoodo.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/amwoodo",
    "company_note": "",
@@ -260900,7 +260900,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Kolkata, West Bengal, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492688682",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-operations-at-amwoodo-4492688682",
@@ -260922,17 +260922,17 @@
    "exp_text": "Seniority level Executive Employment type Full-time Industries Personal Care Product Manufacturing",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "not stated",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "not stated",
     "fit": "Unknown"
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 38,
+    "total": 46,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -260942,15 +260942,32 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office Operations at Amwoodo in Kolkata, but asks 4+ years and your experience is 1.3 years.",
+    "fit_notes": "The posting asks for 'Minimum 4+ years of relevant experience in Business Operations, Operations Management, Strategy & Operations, Supply Chain, D2C Operations or Founder's Office roles.' It also looks for 'Strong understanding of D2C business models, E-commerce operations' and inventory management. Shlok has strong inventory and supply chain execution facts like [sop], [mrp], and [ceo-coo], but his total experience is about 1.3 years, failing the 4+ years minimum requirement. Furthermore, the role is based in Kolkata, which violates his location constraints (Bengaluru or remote-first).",
+    "pay_notes": "Pay not stated in the posting, and no evidence available from web sources.",
+    "culture_notes": "Company headcount, ratings, and culture flags were not found in the provided evidence.",
+    "hook": "Amwoodo Eco Products Private Limited is building a case for sustainable manufacturing in India.",
+    "hook_source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfbnBfN2M2WThWX1Z5VWZ4SkxWaDNXTFdlTG1HTUhuQmJ5ZDlka2o4TXExRm05Tmk2aF9BUk52Q3pNeDZvVkF1VjZIaXBabVpPc1R4WnlnMmZObUJwYl9JVGtmbjBjOXZDcEJVSWxfaV8wNENmaEHSAXZBVV95cUxQX25wXzdjNlk4Vl9WeVVmeEpMVmgzV0xXZUxtR01IbkJieWQ5ZGtqOE1xMUZtOU5pNmhfQVJOdkN6TXg2b1ZBdVY2SGlwWm1aT3NUeFp5ZzJmTm1CcGJfSVRrZm4wYzl2Q3BCVUlsX2lfMDRDZmhB?oc=5",
+    "researched_at": "2026-11-25T04:29:49+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amwoodo Is Building a Case for Sustainable Manufacturing in India - Local Samosa",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfbnBfN2M2WThWX1Z5VWZ4SkxWaDNXTFdlTG1HTUhuQmJ5ZDlka2o4TXExRm05Tmk2aF9BUk52Q3pNeDZvVkF1VjZIaXBabVpPc1R4WnlnMmZObUJwYl9JVGtmbjBjOXZDcEJVSWxfaV8wNENmaEHSAXZBVV95cUxQX25wXzdjNlk4Vl9WeVVmeEpMVmgzV0xXZUxtR01IbkJieWQ5ZGtqOE1xMUZtOU5pNmhfQVJOdkN6TXg2b1ZBdVY2SGlwWm1aT3NUeFp5ZzJmTm1CcGJfSVRrZm4wYzl2Q3BCVUlsX2lfMDRDZmhB?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "mrp",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -260974,9 +260991,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-25T04:29:49+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 46: rejected (The posting asks for a minimum of 4+ years of relevant experience, which exceeds Shlok's limit of 3 years maximum. Additionally, the location is Kolkata, which is neither Bengaluru nor remote first.)"
     }
    ],
-   "updated_at": "2026-11-24T17:20:44+05:30"
+   "updated_at": "2026-11-25T04:29:49+05:30",
+   "reject_reason": "The posting asks for a minimum of 4+ years of relevant experience, which exceeds Shlok's limit of 3 years maximum. Additionally, the location is Kolkata, which is neither Bengaluru nor remote first."
   },
   {
    "id": "L2051",

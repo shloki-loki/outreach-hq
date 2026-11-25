@@ -420,6 +420,12 @@
     "nimeet@happi-planet.com"
    ],
    "pattern": "first"
+  },
+  "grainite.com": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

@@ -11942,6 +11942,15 @@
    "title": "Template founder-v2: 3 emails queued",
    "detail": "1504 addresses left after today; refused 0",
    "ref": "M0819"
+  },
+  {
+   "id": "J1328",
+   "at": "2026-11-26T00:05:35+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 132 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

@@ -20292,6 +20292,34 @@
    "thread_parent": "<179540980184.1098.10132775391260742341@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0677",
+   "lead_id": "L0528",
+   "contact_id": "C2",
+   "to": "rajesh.jain@wappsys.com",
+   "to_name": "Rajesh Jain",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Rajesh,\n\nOne more thing that may be relevant at DigitalPaani: I set up SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Is material planning still handled by hand there?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-25T13:41:18+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179540991386.1098.8316579039199060040@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

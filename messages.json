@@ -19648,6 +19648,34 @@
    "thread_parent": "<179535618250.72781.2632815081868852050@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0654",
+   "lead_id": "L0490",
+   "contact_id": "C1",
+   "to": "akshay@snef.co",
+   "to_name": "Akshay Bhardwaj",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Akshay,\n\nOne more thing that may be relevant at Snef: I set up SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Is material planning still handled by hand there?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-25T13:38:44+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179535626680.72781.11325672178317205174@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

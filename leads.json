@@ -219818,7 +219818,7 @@
    "key": "gosats|founder s office|bengaluru",
    "type": "company",
    "company": "GoSats",
-   "company_domain": "",
+   "company_domain": "gosats.io",
    "company_url": "https://gosats.io",
    "company_linkedin": "https://www.linkedin.com/company/gosats",
    "company_note": "YC Winter 2022 · team of 26 · GoSats helps you earn free bitcoin when you shop in India.",
@@ -219826,7 +219826,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "gosats:company",
    "source_url": "https://www.ycombinator.com/companies/gosats",
@@ -219842,7 +219842,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "GoSats is a bitcoin rewards app. We help people accumulate free bitcoin as cashbacks and rewards every time they shop in India.",
+   "jd": "GoSats: GoSats helps you earn free bitcoin when you shop in India. | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › GoSats \n GoSats\n GoSats helps you earn free bitcoin when you shop in India.\n Y Combinator Logo Winter 2022 \nActive\n Fintech\n India\n Investing\n Consumer Finance\n Company \n Jobs 10 \n News \n https://gosats.io\n GoSats helps you earn free bitcoin when you shop in India.\n GoSats is a bitcoin rewards app. We help people accumulate free bitcoin as cashbacks and rewards every time they shop in India.\n Latest News\n GoSats raises $5M in Series A round led by Konvoy | YourStory \n Apr 06, 2026\n GoSats Bags Funding To Make Consumers Earn More Cashbacks \n May 31, 2022\n Bitcoin rewards platform GoSats receives Y Combinator backing \n Feb 26, 2022\n Bitcoin rewards platform GoSats receives Y Combinator backing \n Feb 24, 2022\n [Tech50] This startup helps you win Bitcoin rewards when you use Swiggy, Bigbasket, Flipkart, Amazon, Myntra \n Nov 28, 2021\n Jobs at GoSats\n View all jobs \n VP, Growth \n Bengaluru, KA, IN / Bengaluru, Karnataka, IN\n ₹3.5M - ₹5.5M INR\n 0.10% - 0.50%\n Any (new grads ok)\n Apply Now › \n Principal Officer \n Bengaluru, KA, IN / Bengaluru, Karnataka, IN / Mumbai, MH, IN / Mumbai, Maharashtra, IN / Remote (Bengaluru, KA, IN; Bengaluru, Karnataka, IN; Mumbai, MH, IN; Mumbai, Maharashtra, IN; DL, IN; Delhi, IN; New Delhi, DL, IN; New Delhi, Delhi, IN)\n ₹2.5M - ₹4M INR\n 0.15% - 0.30%\n 3+ years\n Apply Now › \n Senior Software Engineer (Full-Stack) \n Bengaluru, KA, IN / Bengaluru, Karnataka, IN\n ₹1 INR\n 0.02% - 0.08%\n 6+ years\n Apply Now › \n Senior Product Manager - Cards & Payments \n Bengaluru, KA, IN / Bengaluru, Karnataka, IN\n ₹1 INR\n 3+ years\n Apply Now › \n Product Manager - AI / Product Intelligence \n Bengaluru, KA, IN / Bengaluru, Karnataka, IN\n ₹1 INR\n 0.05% - 0.10%\n 1+ years\n Apply Now › \n GoSats \n Founded: 2021 \n Batch: Winter 2022 \n Team Size: 26 \n Status: \nActive \n Location: Bengaluru, India \n Primary Partner: Harj Taggar \n Founders\n Mohammed Roshan Founder\n Mohammed Roshan Founder\n Roshni Aslam Founder\n Roshni Aslam Founder\n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -219857,8 +219857,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -219868,15 +219868,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Speculative Founder's Office note at GoSats (YC W22, team 26), but no open role or pay stated to verify your Rs 24.5 LPA target.",
+    "fit_notes": "The posting is a speculative note to founders for GoSats, a YC W22 bitcoin rewards app with 26 employees. No specific years, hard requirements, MBA, or consulting is mentioned in the posting text, and pay is not stated. Your S&OP [sop] and fulfillment operations [ceo-coo] background at Ola Electric maps well to startup operations, but the lack of an actual open role and verified pay makes this too speculative.",
+    "pay_notes": "Pay not stated in the posting; no evidence available for this speculative role.",
+    "culture_notes": "Y Combinator Winter 2022 batch, team size of 26. No ratings or culture flags found.",
+    "hook": "Since raising your Series A led by Konvoy in April 2026, how are you scaling your operations and merchant network for GoSats?",
+    "hook_source": "https://www.ycombinator.com/companies/gosats",
+    "researched_at": "2026-11-25T14:55:12+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -219927,14 +219937,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-25T14:55:12+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (Speculative note to founders for a company with no named Founder's Office opening and no pay transparency, making it unlikely to meet the Rs 24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-25T14:55:12+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
     "why": "a company with no posting; nothing to check"
-   }
+   },
+   "reject_reason": "Speculative note to founders for a company with no named Founder's Office opening and no pay transparency, making it unlikely to meet the Rs 24.5 LPA threshold."
   },
   {
    "id": "L1693",

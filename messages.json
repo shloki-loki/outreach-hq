@@ -20208,6 +20208,34 @@
    "thread_parent": "<179535888017.74684.6425062551393304704@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0674",
+   "lead_id": "L0512",
+   "contact_id": "C2",
+   "to": "arpana@gabit.com",
+   "to_name": "Arpana Shahi",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Arpana,\n\nOne more thing that may be relevant at Gabit: at InsuranceDekho I built a Flask API with a Chrome extension that autofilled forms, cutting response times by 40%. Is there a manual workflow in your team that I could look at?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-25T13:41:01+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179535898971.74684.7513447438956652888@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

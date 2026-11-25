@@ -260507,8 +260507,8 @@
    "key": "browserstack|lead strategy and operations|india",
    "type": "job",
    "company": "BrowserStack",
-   "company_domain": "",
-   "company_url": "https://browserstack.com",
+   "company_domain": "browserstack.com",
+   "company_url": "https://www.browserstack.com",
    "company_linkedin": "",
    "company_note": "A cloud-based software testing platform empowering developers to deliver high-quality software at speed.",
    "title": "Lead - Strategy & Operations",
@@ -260546,8 +260546,8 @@
    },
    "score": {
     "rules": 65,
-    "research": null,
-    "total": 65,
+    "research": 25,
+    "total": 41,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -260558,15 +260558,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
+    "done": true,
+    "headline": "BrowserStack Lead, Strategy & Ops (sales ops/GTM): asks 4+ yrs consulting or BizOps, must live in Mumbai; above your 1.3 yrs.",
+    "fit_notes": "Read Workday posting via its public JSON 2026-11-25. Sales ops, Salesforce, SQL dashboards; 4+ yrs required.",
+    "pay_notes": "None stated.",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T13:35:58+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -260590,9 +260592,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 65"
+    },
+    {
+     "at": "2026-11-25T13:35:58+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 41: rejected (Asks 4+ years at consulting/IB/BizOps; Mumbai-based; sales-ops scope)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-25T13:35:58+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "live",
@@ -260602,7 +260610,8 @@
     "at": "2026-11-25T04:26:55+05:30",
     "why": "the posting page has no readable description",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Asks 4+ years at consulting/IB/BizOps; Mumbai-based; sales-ops scope"
   },
   {
    "id": "L2046",

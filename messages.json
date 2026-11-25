@@ -3400,7 +3400,7 @@
    "kind": "cold",
    "subject": "Ops and strategy help at WeRize",
    "body": "Hi Himanshu,\n\nI'm Shlok, an IIT Guwahati grad who spent a year in strategy and operations at Ola Electric, working directly with the CEO and COO.\n\nThe work I'm proudest of: I ran production planning over Rs 200 Cr of inventory and cut working capital by 40% in two and a half months. I also built a dispatch algorithm that took order-to-delivery from 32 days to 14.\n\nI'd like to do the same kind of work at WeRize, taking planning, operations or special projects off your plate in a Founder's Office or strategy role.\n\nIs a hire like this on your mind in the next few months?\n\nShlok\n",
-   "status": "sending",
+   "status": "failed",
    "email_status": "verified",
    "speculative": true,
    "hook": "",
@@ -3418,7 +3418,7 @@
    "sent_at": null,
    "message_id": "<179558695983.50437.5178452275349575319@gmail.com>",
    "thread_parent": null,
-   "error": null,
+   "error": "SMTPServerDisconnected: Connection unexpectedly closed: The read operation timed out",
    "reply": null,
    "retries": 1,
    "last_error": "SMTPServerDisconnected: Connection unexpectedly closed: [Errno 54] Connection reset by peer"

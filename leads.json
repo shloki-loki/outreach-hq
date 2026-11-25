@@ -73751,10 +73751,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-25T13:45:13+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -73823,9 +73822,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-25T14:55:17+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to John Tench"
     }
    ],
-   "updated_at": "2026-11-25T13:45:13+05:30",
+   "updated_at": "2026-11-25T14:55:17+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

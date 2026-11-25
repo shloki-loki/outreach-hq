@@ -16003,9 +16003,39 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Linson Thomas: linson.thomas@zamp.ai (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-25T13:32:49+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Amit Jain: amit@zamp.ai (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-25T13:32:49+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Raghav Saraf: raghav@zamp.ai (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-25T13:32:49+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Prabhu Sachdeva: prabhu.sachdeva@zamp.ai (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-25T13:32:49+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Vaibhav Jaitwal: vaibhav@zamp.ai (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-25T13:32:49+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Linson Thomas: linson.thomas@zamp.ai (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-24T12:30:42+05:30",
+   "updated_at": "2026-11-25T13:32:49+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",

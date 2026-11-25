@@ -11483,6 +11483,15 @@
    "title": "Template founder-v2: 1 emails queued",
    "detail": "1507 addresses left after today; refused 0",
    "ref": "M0748"
+  },
+  {
+   "id": "J1277",
+   "at": "2026-11-25T17:45:31+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 0, failed 0. daily cap of 60 speculative notes reached",
+   "ref": ""
   }
  ]
 }

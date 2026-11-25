@@ -79743,7 +79743,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-23T10:36:00+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-25T15:45:10+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -79827,9 +79827,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Nimeet Dhokai"
+    },
+    {
+     "at": "2026-11-25T15:45:10+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "nimeet@happi-planet.com: Hi Shlok - We might have something on this front to offer. Please share your CV so we can have a more concrete discussion. Regards, Nimeet Dhokai -----Original "
     }
    ],
-   "updated_at": "2026-11-25T14:20:15+05:30",
+   "updated_at": "2026-11-25T15:45:10+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

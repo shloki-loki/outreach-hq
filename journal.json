@@ -11249,6 +11249,15 @@
    "title": "Template founder-v2: 10 emails queued",
    "detail": "1520 addresses left after today; refused 0",
    "ref": "M0726"
+  },
+  {
+   "id": "J1251",
+   "at": "2026-11-25T15:06:39+05:30",
+   "by": "research-worker",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "27 researched (0 qualified, 27 rejected), 0 closed postings binned, 1 left for a person, 12 errors (first: Gemini HTTP 503: { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try agai)",
+   "ref": ""
   }
  ]
 }

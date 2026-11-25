@@ -11906,6 +11906,15 @@
    "title": "Ran",
    "detail": "0 replies, 0 bounces, 9 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J1324",
+   "at": "2026-11-25T23:45:25+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 59 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

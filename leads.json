@@ -43283,7 +43283,7 @@
    "key": "fampay|founder s office|bengaluru",
    "type": "company",
    "company": "FamPay",
-   "company_domain": "",
+   "company_domain": "fampay.in",
    "company_url": "https://fampay.in",
    "company_linkedin": "https://www.linkedin.com/company/fampay/",
    "company_note": "YC Summer 2019 · team of 24 · India’s first neobank for teenagers",
@@ -43291,7 +43291,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "yc",
    "source_id": "fampay:company",
    "source_url": "https://www.ycombinator.com/companies/fampay",
@@ -43307,7 +43307,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "With FamPay, minors can do UPI, P2P and card payments without the need to set up a bank account. FamPay allows parents to send money to their kids below the age of 18, which they can spend securely any time, anywhere, under parent’s supervision. FamPay aims at making payments smooth and fun for children.",
+   "jd": "FamPay: India’s first neobank for teenagers | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › FamPay \n FamPay\n India’s first neobank for teenagers\n Y Combinator Logo Summer 2019 \nActive\n Fintech\n Payments\n Company \n Jobs 1 \n News \n https://fampay.in\n India’s first neobank for teenagers\n With FamPay, minors can do UPI, P2P and card payments without the need to set up a bank account. FamPay allows parents to send money to their kids below the age of 18, which they can spend securely any time, anywhere, under parent’s supervision. FamPay aims at making payments smooth and fun for children.\n Active Founders\n Sambhav Jain Founder\n Founder at FamPay (YC S19) \nBuilding the future of payments for teenagers in India\n Sambhav Jain Founder\n Founder at FamPay (YC S19) \nBuilding the future of payments for teenagers in India\n Kush Taneja Founder\n Hi - it's Kush.\nFounded FamPay at 21. Fam is the world's largest banking product designed exclusively for teenagers with 15M+ monthly active customers, and processing 1B+ txns/ month. We raised $42M+ from Sequioa, GC, DST, GreenOaks, Elevation etc\nLast year on becoming profitable, I stepped down from day to day operations.\nOnto my next adventure.\n Kush Taneja Founder\n Hi - it's Kush.\nFounded FamPay at 21. Fam is the world's largest banking product designed exclusively for teenagers with 15M+ monthly active customers, and processing 1B+ txns/ month. We raised $42M+ from Sequioa, GC, DST, GreenOaks, Elevation etc\nLast year on becoming profitable, I stepped down from day to day operations.\nOnto my next adventure.\n Latest News\n FamPay, a fintech aimed at teens in India, raises $38 million – TechCrunch \n Jun 15, 2021\n Jobs at FamPay\n View all jobs \n [India] FamPay- Site Reliability Engineer \n Bangalore / Remote (US)\n 1+ years\n Apply Now › \n FamPay \n Founded: 2019 \n Batch: Summer 2019 \n Team Size: 24 \n Status: \nActive \n Location: Bengaluru, India \n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -43322,8 +43322,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -43333,15 +43333,33 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "No open Founder's Office role at FamPay; the only listed opening is Site Reliability Engineer, which requires software infrastructure skills.",
+    "fit_notes": "The company page lists only one role: Site Reliability Engineer (1+ years experience). FamPay has no active opening for Founder's Office or Strategy & Operations. Shlok's background is in S&OP and operations [sop, ceo-coo], not infrastructure engineering.",
+    "pay_notes": "No pay details found in the job posting or evidence.",
+    "culture_notes": "No Glassdoor or AmbitionBox ratings were found in the provided evidence.",
+    "hook": "FamPay achieved profitability while scaling to 15M+ monthly active customers and 1B+ monthly transactions.",
+    "hook_source": "https://www.ycombinator.com/companies/fampay",
+    "researched_at": "2026-11-25T14:51:01+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "FamPay website",
+      "url": "https://fampay.in"
+     },
+     {
+      "id": "S2",
+      "title": "FamPay’s Pivot: How Expanding Beyond Teens Changed Its Growth Story - Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdE52bzV3VVNNSFJNOHQ2a1hFc0t5akctTDgyRUtVSnNPcGxNenpPS2dHLTJKU3lLYXNiUTgtVG9WSV9HQ1RPOVd3VFRFTGxSeDloQTYzU0hNZGRXdjBONlRjWnBuQ0NLZkNqV3gtUGpGUVhhcXBKd2xVeE5LNkotZF9ZS2VGMll6S3g0RFVrZDBHbmk2T0xqTmJuVld5VnA4MzdFSENha9IBtAFBVV95cUxPY3BfR29NckFOOTFjWVFfUGVOcTV0SHM3SlFkNmZOUTllNVhRTnE4OGFyQUd0c0F6eWxqcHdWelZ1TnItai1SUXRWVFRnQUR4TmlTWWp0ZFozNTRHVl8yTVM4QjZRS3I0eWxwbUY5c3hwSXViQkVwcUZ5OFBfVHBqVmFuY1I1RDhFS0FONjlxR1pHSUc0Q0s2U21fZmszbk16d3k5dHpFUXIya19WM1dyTjZaTXg?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -43392,9 +43410,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-25T14:51:01+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (FamPay has no active Founder's Office or Strategy & Ops role listed; the only open job is Site Reliability Engineer.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-25T14:51:01+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -43404,7 +43428,8 @@
     "at": "2026-11-24T16:23:15+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "FamPay has no active Founder's Office or Strategy & Ops role listed; the only open job is Site Reliability Engineer."
   },
   {
    "id": "L0306",

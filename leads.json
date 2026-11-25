@@ -270107,15 +270107,15 @@
    "key": "ascendion|product manager|bengaluru",
    "type": "job",
    "company": "Ascendion",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "ascendion.com",
+   "company_url": "https://ascendion.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4494008596",
    "source_url": "https://www.linkedin.com/jobs/view/4494008596/",
@@ -270146,8 +270146,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -270157,15 +270157,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Ascendion for platform migration, but requires TimeshareWare/hospitality PMS experience you lack.",
+    "fit_notes": "The posting asks to 'Drive a legacy-to-modern platform migration through 2027 (TSW to TSWE)' with 'Strong Preference: TimeshareWare (TSW/TSWE), or hospitality PMS, reservations, owner-servicing or revenue management experience'. Shlok has strong tech and product/operations background but lacks legacy platform migration and the specific hospitality/TSW domain requested. He has SQL which is listed under 'Technical fluency in APIs, integrations, data flows and SQL'. No MBA or consulting required.",
+    "pay_notes": "Pay not stated in posting; no evidence found in web search for this specific role.",
+    "culture_notes": "Ascendion is recognized as a leader in Generative AI and Agentic AI Services by ISG Provider Lens 2026 [S1]. No employee ratings or direct Glassdoor data found in the snippet.",
+    "hook": "Ascendion was recently named a Leader in ISG Provider Lens for Generative AI and Agentic AI Services 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWFUaVJzOVdLdHl3YkpZT3h5Q1pjZ0JzNjF6Vm5McTd3TEliNkNTUTJWZXNLX3o5ekRyVlg3b2hZVU5sbXRVQkM1NUcycHFZcjk5X0VpRFk3Z0wxWElXM25COGlZNy1lWXlEVFdVQWRfSmE4MTdWUFRKTTV0eGtuZEVkU1dJbS1JS01yYXUyY1FOMVRSOHRZNVRfLWpBUWY3?oc=5",
+    "researched_at": "2026-11-26T03:42:07+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Ascendion Named a Leader in ISG Provider Lens® for Generative AI and Agentic AI Services 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWFUaVJzOVdLdHl3YkpZT3h5Q1pjZ0JzNjF6Vm5McTd3TEliNkNTUTJWZXNLX3o5ekRyVlg3b2hZVU5sbXRVQkM1NUcycHFZcjk5X0VpRFk3Z0wxWElXM25COGlZNy1lWXlEVFdVQWRfSmE4MTdWUFRKTTV0eGtuZEVkU1dJbS1JS01yYXUyY1FOMVRSOHRZNVRfLWpBUWY3?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Ascendion Named an AI Leader by ISG for Integrated Platform and Application Services - Plataforma Media",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXB0QUlVRWRqakEtUXRsVEtoY1pabzNUc3F3eWs4aTl5d0lyX2FrNVBqbG5qcFlSRXZUamM0ZnpZaFZqcnFWZmFyX01CLXhOUlpEbnp6MzlNWTdaUFlsRVctUDZINXR4WG9WaUR3SE1hd2V1UjFySzdzSXBiQ0dERDgxUkpzQ1k1ZnNsenM1bFZDNmFpcVJHVW9ZaGcxdjAtbm5tZ2luTTlUWWVqRVlCNjh0TG5xREtCWGFSVURwV1c4MFBoTUhsamNwSQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "How Agentic AI Is Transforming Enterprise Software Engineering | Ascendion - IT Voice Media",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkVhbmVyQnpSY2pBRGlEajI3MXppRFNhX3cyUWhmV3d6ckRabGtyblhyZVZhdDQzZVlULXBUQlB5Y1Nvbm5VWXlaM1ZPQXptVC1XbDlwS19LYXFfVFlfNWExZkhpTVlXYlFKYmVMU3lYWGVvcjBqY1ZRUnhyU1FScE5DUjZJeDBjVXktNktHZkJtd3Rndm1OZ0JORDZTWWxVRXlqYTdSWTNid2s?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Ascendion named leader in three ISG AI service categories - IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzVuQjZWRVpUekJQSjJaRW00SlY0dGRSanVadmo3d3AxNE5neURPVHVqS19TVlNDWDVLN0R5ZnpIbTZ3dWJ2eU5PSTJuRG5DWHNZUER6ZlpSc0hXbHF4OXNBSVQxb3RnSEVRSUZWUjRYbHQ5QThSTGpJNlIzeUpDMGltV1htSXUtOGdNbGlR?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Ascendion to Host its Flagship CIO Summit in Manila - Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUlPRGktdWczX1AzMVlrSm5NQ2tRVjVTZklWMzVCell5enJ4X3VCa3FCSFpzZFdfVEtxTjVBZ0JVTVhPcmo3aFJqUmR1ZU1CMTY2d1lfTHdrRXdaVUNRYWxVdWx2QXhoclV1Y2NZQmVwYWNiTUZxcUdLN0JuYXd3Y2IxRkw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "WeWork India presents CNBC-TV18 The Titans, co-presented by PhonePe, associate partner Ascendion. As AI platforms and large language models evolve rapidly, enterprises are being forced to rethink not just technology adoption but the very nature of talen - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTR4eGNRLU5RQjJEdlZidGkzUGptUU1BSVVNQW5CY2xZV005bi1FclpfenR1YXhxQnJhUE9tVUdfdVlrSTRoNE1tTHNjWGZGY2dDWmdnRXNPTk9kQzN0bUo3NFlmb1l1QmVEeGZKSnBPY0ZsYXRJTUxMWWttNHVZUjdwNklidkN1TkpBVS04eXlWSlZUWTFGeE5YemdrMW5RMXBlc2NWWQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -270189,9 +270227,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-26T03:42:07+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role requires legacy-to-modern platform migration experience and specialized hospitality/reservations domain knowledge (TimeshareWare), which does not map to his S&OP/supply chain experience. Furthermore, pay is unknown and fails to provide evidence of meeting Shlok's Rs 24.5 LPA fixed floor.)"
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30"
+   "updated_at": "2026-11-26T03:42:07+05:30",
+   "reject_reason": "The role requires legacy-to-modern platform migration experience and specialized hospitality/reservations domain knowledge (TimeshareWare), which does not map to his S&OP/supply chain experience. Furthermore, pay is unknown and fails to provide evidence of meeting Shlok's Rs 24.5 LPA fixed floor."
   },
   {
    "id": "L2096",

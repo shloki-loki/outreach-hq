@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-22T21:05:20+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "outside the sending window; 26 approved email(s) wait for the next run",
-   "stats": {}
-  },
-  {
    "at": "2026-11-22T21:25:10+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3485,6 +3478,13 @@
     "settled": 0,
     "followups_due": 55
    }
+  },
+  {
+   "at": "2026-11-25T13:34:14+05:30",
+   "agent": "send-track",
+   "ok": true,
+   "summary": "0 emails drafted, 0 referral notes (no connections matched), 0 application kits; skipped: L0105, L1556, L0077 only catch-all addresses after recheck and score under 80; L0063 Greenhouse posting 404 (likely closed); L0077 Ashby form is JS-rendered, no readable questions",
+   "stats": {}
   }
  ]
 }

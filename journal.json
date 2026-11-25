@@ -11060,6 +11060,15 @@
    "title": "Ran",
    "detail": "0 replies, 0 bounces, 55 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J1230",
+   "at": "2026-11-25T13:34:14+05:30",
+   "by": "send-track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 emails drafted, 0 referral notes (no connections matched), 0 application kits; skipped: L0105, L1556, L0077 only catch-all addresses after recheck and score under 80; L0063 Greenhouse posting 404 (likely closed); L0077 Ashby form is JS-rendered, no readable questions",
+   "ref": ""
   }
  ]
 }

@@ -65430,9 +65430,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup1 to Ravi Tiwari queued (template)"
+    },
+    {
+     "at": "2026-11-25T16:39:06+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup1 email to Ravi Tiwari"
     }
    ],
-   "updated_at": "2026-11-25T00:05:29+05:30",
+   "updated_at": "2026-11-25T16:39:06+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

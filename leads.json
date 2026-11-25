@@ -269942,7 +269942,7 @@
    "posted_at": "2026-11-25",
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-25",
-   "open": true,
+   "open": false,
    "jd": "About the Role \n About the Role This is not a project-coordination role. We want someone who builds a culture of ownership and execution across the company — who ensures priorities turn into outcomes, teams take responsibility, and things actually get done. You will work directly with the CEO and leadership team to drive execution across Business, Tech, Projects, HR and other functions. Your job isn’t to chase people for updates; it’s to make sure the organization delivers on what it commits to. We believe in outcomes, not effort — being busy isn’t progress, and completing tasks isn’t solving problems. We need someone who lives this and builds the same mindset company-wide. Key Responsibilities Drive company-wide execution: Translate priorities into clear goals, owners, timelines and measurable outcomes; ensure every initiative has an accountable owner; track progress, spot slippage early, remove bottlenecks, and turn decisions into action. Build a culture of ownership: Create an environment where people own outcomes instead of waiting for instructions; challenge vague commitments and unclear ownership; push teams to bring solutions, not just problems; build systems that encourage ownership without constant follow-up. Make performance measurable: Set clear metrics for company and departmental priorities; build dashboards showing execution, risks and bottlenecks; keep reviews focused on results and impact; find the patterns behind missed commitments and separate genuine constraints from weak planning or ownership. Drive leadership accountability: Align priorities with the CEO and CXOs; run weekly execution and monthly business reviews; hold functional leaders to their commitments; escalate blocking dependencies and conflicts; ensure discussions end in clear decisions and accountability. Fix problems at the system level: Identify processes and dependencies that repeatedly slow the company; solve root causes, not symptoms; simplify workflows and speed up decisions; build operating systems that make execution predictable and less reliant on individual follow-ups. Bring insights, not just updates: Independently find execution gaps; use data to understand why targets are missed and where time or money is lost; recommend what must change, who acts and the outcome expected; own initiatives from problem to solution to measured impact.\n Who You Are ~5–8 years in Business Operations, Strategy & Operations, Business Excellence, or Program Management. Experience in a startup, scale-up or fast-moving tech/services environment where ownership matters. Have driven cross-functional initiatives from problem to measurable result. Extremely proactive with a strong ownership mindset — you fix what isn’t working rather than wait. Comfortable challenging senior stakeholders and having hard conversations. Strong with data; can tell symptoms from root causes; switch between strategy and execution detail. Comfortable deciding with incomplete information; prefer solving problems over explaining them; build systems without bureaucracy. \n What This Role Is NOT This is not about scheduling meetings, preparing MIS, maintaining trackers or chasing people. Success isn’t measured by how busy the team is or how many tasks are marked done. If your approach is to send reminders, escalate everything and wait for leadership to resolve it, this isn’t the fit. We don’t need another layer of coordination — we need someone who identifies what’s blocking delivery, brings the right people together, drives decisions, and ensures the problem gets solved. Your success is measured by how much better the organization executes because you are here.",
    "exp_min": null,
    "exp_max": null,
@@ -270001,9 +270001,20 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 71"
+    },
+    {
+     "at": "2026-11-26T03:34:18+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30"
+   "updated_at": "2026-11-26T03:34:18+05:30",
+   "bin": {
+    "at": "2026-11-26T03:34:18+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L2097",

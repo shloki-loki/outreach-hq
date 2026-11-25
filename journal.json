@@ -11636,6 +11636,15 @@
    "title": "Diagnosis: Inbox scan failed",
    "detail": "Cause: a transient SSL socket error on the Gmail IMAP connection at ~05:03 on 25 Nov. Later follow-up/track runs (every 20 min since 15:25) all succeeded and found replies, so inbox scanning works again. Remedy: none needed; resolve after a day with no repeat.",
    "ref": "I0106"
+  },
+  {
+   "id": "J1294",
+   "at": "2026-11-25T20:11:55+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Sending M0115 failed",
+   "detail": "Cause: Gmail SMTP dropped the connection mid-send (timeout) at 11:39 on 25 Nov; same pattern as I0102-I0104 on 24 Nov. Nothing was lost; 130 emails went out later today without failures. Remedy for Shlok: press Retry on M0115 on the Approvals page. If it keeps happening, the sender should retry SMTP once on disconnect.",
+   "ref": "I0107"
   }
  ]
 }

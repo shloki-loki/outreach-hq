@@ -1495,7 +1495,7 @@
    "opened_at": "2026-11-25T11:39:17+05:30",
    "last_seen": "2026-11-25T11:39:17+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: Gmail SMTP dropped the connection mid-send (timeout) at 11:39 on 25 Nov; same pattern as I0102-I0104 on 24 Nov. Nothing was lost; 130 emails went out later today without failures. Remedy for Shlok: press Retry on M0115 on the Approvals page. If it keeps happening, the sender should retry SMTP once on disconnect.",
    "resolved_at": null
   },
   {

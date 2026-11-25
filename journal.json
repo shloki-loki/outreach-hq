@@ -11654,6 +11654,15 @@
    "title": "Diagnosis: Sending M0116 failed",
    "detail": "Same cause as I0107: SMTP read timeout at 12:10 on 25 Nov for M0116. Remedy for Shlok: press Retry on M0116 (Approvals page). Third day of occasional SMTP timeouts, so a code-level retry is worth adding in a coding session.",
    "ref": "I0108"
+  },
+  {
+   "id": "J1296",
+   "at": "2026-11-25T20:12:04+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: send-track 25 Nov: no draftable leads",
+   "detail": "Cause: L0105, L1556 and L0077 only have catch-all addresses after recheck and score 65-73, below the 80 needed to draft to an unverified address. Remedy: find a named, verified contact for them (people-finder or Shlok by hand) or skip them. Nothing is lost.",
+   "ref": "I0109"
   }
  ]
 }

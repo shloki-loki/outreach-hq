@@ -1523,7 +1523,7 @@
    "opened_at": "2026-11-25T13:34:17+05:30",
    "last_seen": "2026-11-25T13:34:17+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: L0105, L1556 and L0077 only have catch-all addresses after recheck and score 65-73, below the 80 needed to draft to an unverified address. Remedy: find a named, verified contact for them (people-finder or Shlok by hand) or skip them. Nothing is lost.",
    "resolved_at": null
   },
   {

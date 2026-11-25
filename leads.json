@@ -27760,7 +27760,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "New Delhi, Delhi, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488317217",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-e-commerce-at-tech-it%21-4488317217",
@@ -27776,7 +27776,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Role Overview \n We’re hiring an APM who operates like an owner — not just a coordinator.\n At Tech it!, product = conversion, revenue, and user experience . You’ll work across CRO, Shopify, analytics, and client execution for multiple D2C brands.\n This is a hands-on role with a clear path to Product Manager in 12–18 months .\n What You’ll Do \n Execute CRO experiments across PDP, Cart, Checkout \n Analyze funnels using GA4, Shopify, Clarity \n Manage tasks, QA releases, and coordinate with design/dev teams\n Participate in client discussions and share insights \n Support PMs in hypothesis building and execution \n What We’re Looking For \n Must-have: \n Experience in e-commerce (Shopify ecosystem) \n Strong understanding of funnels & conversion \n Working knowledge of Shopify, GA4, Excel/Sheets \n Hands-on with Claude and GPT for day to day workflows\n Plus: \n Clarity, Figma, SQL, AI tools\n Mindset \n High ownership, execution-focused\n Structured thinker with attention to detail\n Comfortable in a fast-paced, high-expectation environment \n Strong communication (client-facing role)\n What You’ll Get \n Work directly with senior product leaders\n Exposure to large D2C brands \n Hands-on CRO + product experience\n Fast-track growth to PM (12–18 months)\n Opportunity to work on Shopify apps / SaaS \n Application Process (Important) \n As part of the shortlisting process, you would need to submit an assignment, please do not apply for the job post in case you have any issues with working on a detailed assignment.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Technology, Information and Internet",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -27791,8 +27791,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -27802,15 +27802,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "APM (E-Commerce) at Tech it! in New Delhi, but location is outside Bengaluru and pay is unstated.",
+    "fit_notes": "The posting asks for 'Experience in e-commerce (Shopify ecosystem)', 'Strong understanding of funnels & conversion', 'Working knowledge of Shopify, GA4, Excel/Sheets', and 'Plus: Clarity, Figma, SQL, AI tools'. His experience with SQL and data/analytics maps partially, but the role is located in New Delhi, violates location preferences, and has unstated pay.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company website, reviews, or culture data found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T15:05:31+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -27834,14 +27841,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-25T15:05:31+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (Location is New Delhi (not Bengaluru or remote first), pay is unknown and unlikely to clear Rs 24.5 LPA for an APM role at an unknown D2C agency, and seniority level says 'Mid-Senior level' for an e-commerce APM role.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-25T15:05:31+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Location is New Delhi (not Bengaluru or remote first), pay is unknown and unlikely to clear Rs 24.5 LPA for an APM role at an unknown D2C agency, and seniority level says 'Mid-Senior level' for an e-commerce APM role."
   },
   {
    "id": "L0191",

@@ -273950,7 +273950,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493425922",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-solfin-4493425922",
@@ -273981,8 +273981,8 @@
    },
    "score": {
     "rules": 62,
-    "research": null,
-    "total": 62,
+    "research": 45,
+    "total": 52,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -273992,15 +273992,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Product Manager at Solfin in Gurugram, asks 1-2 yrs; pay is unstated and likely below your Rs 24.5 LPA threshold.",
+    "fit_notes": "The posting asks for \"1–2 years of experience in product management, business analysis, consulting, technology, fintech, or a related role\" and a \"Bachelor’s degree in engineering, business, economics, or a related field\". His background in technical product work at InsuranceDekho [idekho] fits the product requirements, but the role is onsite in Gurugram and pay is unknown.",
+    "pay_notes": "Pay is not stated in the posting or fetched evidence. As an early-stage distributed solar startup, it is unlikely to meet his fixed Rs 24.5 LPA requirement.",
+    "culture_notes": "No ratings, reviews, or culture flags found in the sources. Recent news shows Solfin launched a performance-linked lease for C&I solar projects [S1].",
+    "hook": "Solfin recently launched performance-linked leases for C&I solar projects in Himachal Pradesh and Punjab [S1].",
+    "hook_source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR25ycFlOWFJSMjJhY29GVFlMRWlEWFIwVnl6Zi1qczNmRU53TXVDcGNQYWMxdl9iNEFvWGlRM3Zlb1RobzNlZnF2UjNnNjUzcVlILXYxM1lVOTQ4S1RYQW9FMm9aWlYxYkE2Z29JSEk1YmFiR0RfaXJPRFhBcEQ5VTNYSVg1bUVEZGxhNFo2b2VreDA2NnpyT3RPQ2ZiNEZ4aFE?oc=5",
+    "researched_at": "2026-11-26T03:38:23+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Solfin Launches Performance-Linked Lease for C&I Solar Projects - Energetica India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR25ycFlOWFJSMjJhY29GVFlMRWlEWFIwVnl6Zi1qczNmRU53TXVDcGNQYWMxdl9iNEFvWGlRM3Zlb1RobzNlZnF2UjNnNjUzcVlILXYxM1lVOTQ4S1RYQW9FMm9aWlYxYkE2Z29JSEk1YmFiR0RfaXJPRFhBcEQ5VTNYSVg1bUVEZGxhNFo2b2VreDA2NnpyT3RPQ2ZiNEZ4aFE?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Solfin Launches Performance-Linked Solar Lease in HP, Punjab - Saur Energy",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMm1HallmRkhEOFhQWmE3MGpienlBSV9fVjVpajZqdl9tTDBaRmdWYmZqbE8xeDVLY2Jzbl93S1FncjVCc2hXQUZveWRTR0NpVUdJWTlfVHF4OGdMODRjcWRBODFxRWFTN1RJYzRPbGRIekhMZjBKNUxpaE9tMUpsUG0tRXB0OFFKZnl2akh6MkpWS1JPdHBiOTZydnZfbG1qSHlzUUR2TUFOaE4tUDBMV2Rabw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Solfin: Bridging financing gaps in distributed solar - Renewable Watch",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY1k3bDlpd1c3cmxpUmlYVzBxc1NiQXM5b0hRUHhOVWhrak0tUThNYUJveWtob2NtUDFfUjRtQTZadTA0STBFTXRyM2pPSjRxbXcwYWpuelhTX1ZJd0ZmZU05c2l4UlAtOFhGRWtEbTVoMk9WV2EzeDFLeWN6ZEdxTkdCb1NaTjlkMXFseEMtOVl0b3c?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Solfin appoints Anil Rathore as Head of Human Resources - Exchange4Media",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUh5Y2VYZFRyNlB6c1pQMGdsTTVTdGY1eTkyejhmVG1KOFhNRnhOVVMxZlVVVURtMnBQM1FGVm1NYW80em5KUEQxamlybzhJLUFndzlZMTZtOXdnSmVwRHlORkZfd3VGcFo2YkR0Y3BTNEx5bjBuQ2FHSDN0LTdGSnU0LUxHbFM2dnNBX3VrTFJnSUc1WUlWOE5MeXBzZFZ1UU9HVEdxcDhpX1pfd2t4SWs1Q3N1dnhOS3pn?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Solfin Launches Performance-Linked Solar Lease for C&I Businesses in Himachal Pradesh and Punjab - SolarQuarter",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZE1fcktJQ0hnZXdQN05lUFp0bkVXZ1Ntc1JCSy1xRHRwZ1ZCa3NFd0xBQ3lya1ZFeUhhdVl4T21TeFRPbHlKY3Bnd2t5dERCaEJpRE1EVGtKMHdBZjhfWi02d3FwQzYtcFhUbHA4TmszOW5SWURNZDBVTjFKYjVhQUloVkZGZXB2Y0xNbHJCUXlHMENuazBiQVdsVmNVeGlocGo2V3E1MklEUnRqdTZOZFdKVzFxamtCdU5lS3VkRUNKT0F0TUFDM3Y5NXY?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Solfin gets Anil Rathore as head of human resources - HR Katha",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHl6dzFubUlXMnQyekdTVV9EalpNTURWdFVubE5nVU41bFpJY09mRDIwN3A1Y0lWaWdueUlJUF9xbnlSVVdxNi1nQmFMTDliYURiYkxTZ3YyMnFJcU5WZEFzcGxPOXVGa2ZKaGNNX0lNbGZlZVhTSkcwNGFKeEFURUNmWVh6REVNdVhKZHlqN2NkUEo4bHVn?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -274024,9 +274064,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 62"
+    },
+    {
+     "at": "2026-11-26T03:38:23+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (Pay is not stated and likely below his Rs 24.5 LPA fixed threshold for an early-stage distributed solar startup in Gurugram, and the role is onsite outside Bengaluru.)"
     }
    ],
-   "updated_at": "2026-11-26T02:20:42+05:30"
+   "updated_at": "2026-11-26T03:38:23+05:30",
+   "reject_reason": "Pay is not stated and likely below his Rs 24.5 LPA fixed threshold for an early-stage distributed solar startup in Gurugram, and the role is onsite outside Bengaluru."
   },
   {
    "id": "L2137",

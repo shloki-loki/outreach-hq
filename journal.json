@@ -11258,6 +11258,15 @@
    "title": "Run failed",
    "detail": "27 researched (0 qualified, 27 rejected), 0 closed postings binned, 1 left for a person, 12 errors (first: Gemini HTTP 503: { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try agai)",
    "ref": ""
+  },
+  {
+   "id": "J1252",
+   "at": "2026-11-25T15:06:41+05:30",
+   "by": "people-finder",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 companies searched on LinkedIn, 0 people added",
+   "ref": ""
   }
  ]
 }

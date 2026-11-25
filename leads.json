@@ -271678,7 +271678,7 @@
    "key": "supermoney|growth manager|bengaluru",
    "type": "job",
    "company": "super.money",
-   "company_domain": "",
+   "company_domain": "super.money",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/getsupermoney",
    "company_note": "",
@@ -271686,7 +271686,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494789634",
    "source_url": "https://in.linkedin.com/jobs/view/growth-manager-at-super-money-4494789634",
@@ -271702,7 +271702,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-26",
    "open": true,
-   "jd": "",
+   "jd": "Role - Growth Manager, Credit Cards (incl. Rent; Tuition Payments)\n Own user acquisition, activation and repeat usage for credit card payments on super.money,\n including rent and tuition use cases. Grow volume at low CAC, within RBI payment\n aggregator rules.\n What you’ll do\n • Build and run growth plans for card spends and the rent and tuition journeys\n • Drive distribution: institution, property-manager and society partnerships, plus\n referrals and community channels\n • Run CRM campaigns (push, WhatsApp, SMS) timed to rent dates and fee seasons\n • Convert existing UPI and credit-card-on-UPI users into repeat card payers\n • Work with Product, Risk, Legal and Compliance on a compliant launch\n • Test messaging, pricing and offers, and cut channels that don’t pay back\n What we need\n • Experience in growth, performance or lifecycle marketing in fintech, payments or\n cards\n • Strong analytical skills (funnels, cohorts, CAC, LTV) and comfort with SQL or\n dashboards\n • Understanding of the credit card ecosystem, interchange, and RBI payment\n aggregator norms\n • Experience with partnerships or B2B2C distribution is a plus\n • Clear written communication and ownership\n Success metrics\n CAC by channel, first-payment activation rate, monthly repeat rate, payers per onboarded\n merchant, GMV and net revenue per user.\nSeniority level Associate | Employment type Full-time | Industries Financial Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -271717,8 +271717,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 68,
+    "total": 64,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -271728,15 +271728,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Growth Manager at super.money, asks growth experience in fintech; your Alcheringa and analytical work maps well.",
+    "fit_notes": "The posting asks for 'Experience in growth, performance or lifecycle marketing in fintech, payments or cards' and 'Strong analytical skills (funnels, cohorts, CAC, LTV) and comfort with SQL or dashboards'. No MBA or consulting is required, and years are not stated. Shlok's SQL skills and experience scaling ticketing and traffic (alcheringa) map to the analytical and distribution needs.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figures were found in the evidence.",
+    "culture_notes": "Company: super.money (backed by Flipkart). Recent news: launched Tiger Shroff-led campaign for splitStore [S3] and AI agents [S2]. Ratings and headcount not found in evidence.",
+    "hook": "Noticed super.money recently rolled out the Tiger Shroff-led campaign for splitStore, scaling user adoption effectively.",
+    "hook_source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVR1aU1Hd1dueVdIZEFqVTA2NDlyQ1NjUE5GaUZqbTZMU0UyV0NpQ0FDT2x2X0ZZcXBocjNWa3hIZkp3Y2NGVERhSDNmWTBWNXl3Z1lXVXJ1Z2V5ZGx2QmtPSzNqZXppZGdBNG9MUVVIN2RvRnY4TXJOR1Q3TEtXRUNEcFdMR29BZzZmS2RNaG4tYUE1djUyUmFEelRIOXlaTDMyX2dRem5QbDRvWWZxRW5BWGdPSzA?oc=5",
+    "researched_at": "2026-11-26T03:46:43+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "super.money launches splitStore for flexible UPI checkout - IBS Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXNZbkFiR3NwV0hlSXFseEE2N2RZQkR6eE9ETVQxanpCUlh5YmpuV1JHejNuUVItLTE1M280dDBkUG5FeHREUGt1RnRPQXlqcWdlWV9SS1BSN29LTWRMSXRuM3RSdE9JYUx1TVJTRUVIT0t4U0R4NWhnUzZqVHlSbi0yVnpIQmdtTzBxbGJQQXBqdzl5b3dDaTFxSUs?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Flipkart’s Super.money Bets on AI Agents to Outdo Bigger Rivals - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZXlTVWpZR3ltdUtBczhNdHVCQmRMYmZuZ1ZUaENpTGdRYkpVZmVTUk1RUnpiSk9XOThtVTU1SHVKUnM4WkxLWXRlZHZjdjFfbU9QVGpScmNrNklTTGljd0JpSWR3WU14WjJlX1RHbkNCR2M1M3djMEhRVHhuX0x6WkRUUFN6Ulp5Mno5bkY1X1Flb01uTmVocDk5MXBCS0NobnBkbE16WW8xR1F2V2RNYjd5bWo?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "super.money launches Tiger Shroff-led campaign for splitStore - IMPACT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVR1aU1Hd1dueVdIZEFqVTA2NDlyQ1NjUE5GaUZqbTZMU0UyV0NpQ0FDT2x2X0ZZcXBocjNWa3hIZkp3Y2NGVERhSDNmWTBWNXl3Z1lXVXJ1Z2V5ZGx2QmtPSzNqZXppZGdBNG9MUVVIN2RvRnY4TXJOR1Q3TEtXRUNEcFdMR29BZzZmS2RNaG4tYUE1djUyUmFEelRIOXlaTDMyX2dRem5QbDRvWWZxRW5BWGdPSzA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Flipkart's Super.money bets on AI agents to take on bigger rivals - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2JXekpyT0lTN0FYSEFuX2RMc0MtRFRacVdpazY2ZXJ4Wl9TZU11a29yRWdVTG9rakdMOURlOTU4MlN2QmpFWFBIVzFBMGtLOTNiQUtQS2VPelZJMzY2eVA4bFFVM05vTHlVNVh1dEczU3M3aVVpTU1kUjUyYjlXSlhRY0dOakQ5WVJyNFoyT1NYZGJDSDFpcGNCOERMMWk5TU5jXzFEc0xRX2dGTUpLSnZlc1FqWnBqblp4R0std281Z3hMbERod2F3THVVc2vSAdQBQVVfeXFMTzJwUW5fQndUMkttX0trRjloZmhhRVpDR09TZFl4V05iQlk0VkVHWnBhYXVDVElZNVZMNUpFbkFXSVlsVDNsRzFacXVEdXF4MXdHcWFadmo3bUp5d29RNVhJODVtMXpuQTBMVFN0TDdYVFNENlFyQXBDZWFwaFFaa2J2ZUdhM1hZXy1VaUFCSUktOVhyeUJON2dPVWpqOGtJZVAzV29yOXRJVVFNU2dhZ3pQc0RndzNJREpJQTROQlNMcXhvYzZLZ2Zza1Q5SFRacUxpMmQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "super.money launches 'superGift', sets a new benchmark for gifting in India - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDlDWTQ5TFNGMHdhZTdCN0d3MEZOV2Y3WXVTZWk1X3F3aWdDck1lT19LQlVraEtkUDlNNGtjX0J2VGNlXzdCZXo3MFRMYm9kRk9QWDBKMWRjdmdIM1h0TTlrVlB4X1pfaEZLUHQ0UHFGOGcyTWZMVjA3akFOY3Z5WEV6Ny1rbXFya1lnQUVXdXhERWF3RFFKNC1mME9ZcFRSLXc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "super.money’s Premanshu Singh on the Gen Z marketing trap; why brands need to earn attention, not buy it - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb1lvV0pyYzBnTXJqVUgxTVZ2NG4xOWxobHhRYWNKSnhxaFhwa3IwWm5CR0ZLVWtORF9LQmdOdE1nNnZzSUFyaDJBc1daYm9Dang3bWdZSTZuWHQwRjFTdGM3akxnUGtzVm9hWFBaZUxvUWVrYjhKbmZKaEQxelNhYy1NUXZzeE4yX2hQX08zRzJEX2MzWG9aZ0E4bnpCSTZ5LU5uRllLTFF1N1pNYzlFZzVQUXk1VWZ3alhzYVAxWjBBcmE3SHJYVDhmeHFld1p2YjFCek5QTXRzSUpIUUt3X21pTHVJazU2YmfSAe8BQVVfeXFMTlM4RVl3SDBUbjYyTkQtMWNLdDd6RnpOSUg5QXNUeWwycDFOR0s0aWhSb1AxWWdCU0g0NEVrQ2ROTUJVS045Z2FUVkhVVGJWZ19qWFItbVR3Q055M2h3QWswR290UFhXVUdfSzRnakRiWkVkWlVLNXliRGdwUGRQbDlXV3hZZzEta09OSndDLXpvdDFrbGZwSU5BLVB0QUVBQ0Y5MDVkcG1YUDU1WkpwY01xOVpmaXVCa3lRM0g0NTI4Q2dGWTdxMmMwVDVJbVZQaDcxN25TN0VycUZEY2w0cGlJbmZpR1NsMklMSllUS3M?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -271760,9 +271800,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-26T03:46:43+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 64: qualified"
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30"
+   "updated_at": "2026-11-26T03:46:43+05:30",
+   "reject_reason": null
   },
   {
    "id": "L2110",

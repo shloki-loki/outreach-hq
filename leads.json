@@ -61412,9 +61412,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Chris Re"
+    },
+    {
+     "at": "2026-11-25T17:17:24+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup1 email to Brandon Yang"
     }
    ],
-   "updated_at": "2026-11-25T17:07:21+05:30",
+   "updated_at": "2026-11-25T17:17:24+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

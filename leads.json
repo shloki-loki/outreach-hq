@@ -273386,7 +273386,7 @@
    "key": "weekdayai|associate product manager|bengaluru",
    "type": "job",
    "company": "Weekday AI (YC W21)",
-   "company_domain": "",
+   "company_domain": "weekday.works",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/weekdayjobs",
    "company_note": "",
@@ -273394,7 +273394,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494656064",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-weekday-ai-yc-w21-4494656064",
@@ -273425,8 +273425,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 45,
+    "total": 57,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -273436,15 +273436,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Associate Product Manager via Weekday AI for a client, asks 2+ yrs; requires dedicated product management experience you do not have.",
+    "fit_notes": "The posting asks for \"2+ years of experience in product management or related roles within a fast-paced environment\" and \"Strong understanding of the end-to-end product lifecycle from ideation to retirement\". It does not require an MBA or consulting. While Shlok has strong analytical, cross-functional, and execution skills from his Ola Electric roles [sop, ceo-coo], he lacks dedicated product management experience and formal product lifecycle ownership.",
+    "pay_notes": "Pay is not stated in the posting, and no external pay data is available for this specific client role.",
+    "culture_notes": "The posting is via Weekday AI for an unnamed client; no company culture details or reviews are available for the specific hiring company.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T03:32:25+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -273468,9 +273475,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-26T03:32:25+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 57: rejected (The role requires dedicated product management experience, but Shlok's background is entirely in operations, supply chain, and strategy at Ola Electric. He lacks the required core PM experience (the posting asks for 2+ years of experience in product management or related roles and deep familiarity with Agile/Scrum and product life-cycle management). Furthermore, pay is unknown and not stated.)"
     }
    ],
-   "updated_at": "2026-11-26T02:20:42+05:30"
+   "updated_at": "2026-11-26T03:32:25+05:30",
+   "reject_reason": "The role requires dedicated product management experience, but Shlok's background is entirely in operations, supply chain, and strategy at Ola Electric. He lacks the required core PM experience (the posting asks for 2+ years of experience in product management or related roles and deep familiarity with Agile/Scrum and product life-cycle management). Furthermore, pay is unknown and not stated."
   },
   {
    "id": "L2134",

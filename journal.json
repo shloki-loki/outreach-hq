@@ -11357,6 +11357,15 @@
    "title": "Ran",
    "detail": "6807 jobs read, 304 passed rules, 33 new leads",
    "ref": ""
+  },
+  {
+   "id": "J1263",
+   "at": "2026-11-25T16:20:31+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

@@ -414,6 +414,12 @@
   "oncemore.co.za": {
    "provider": null,
    "checked_at": "2026-11-25T15:06:49+05:30"
+  },
+  "happi-planet.com": {
+   "confirmed": [
+    "nimeet@happi-planet.com"
+   ],
+   "pattern": "first"
   }
  }
 }

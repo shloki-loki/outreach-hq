@@ -232903,15 +232903,15 @@
    "key": "ethos|senior cx operations product manager|bengaluru",
    "type": "job",
    "company": "Ethos",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "getethos.com",
+   "company_url": "https://www.getethos.com",
    "company_linkedin": "https://www.linkedin.com/company/ethoslife",
    "company_note": "",
    "title": "Senior CX Operations Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4490571998",
    "source_url": "https://in.linkedin.com/jobs/view/senior-cx-operations-product-manager-at-ethos-4490571998",
@@ -232927,7 +232927,7 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "About Ethos\n Ethos (Nasdaq: $LIFE) is a leading life insurance technology company on a mission to protect families by democratizing access to life insurance and empowering agents at scale. With its robust three-sided technology platform, Ethos is transforming the life insurance experience for consumers, agents, and carriers alike. Ethos offers instant, accessible products and a seamless online process that requires no medical exams and just a few health questions; it eliminates traditional barriers, making it easier than ever for everyone to protect their families. Ethos is redefining how life insurance is bought, sold, and underwritten.\n About The Role\n We’re looking for a Senior CX Operations Product Manager to partner with business leaders to set systems strategy and own prioritization for the technology that powers our Customer Experience and Support teams. This role sits at the intersection of frontline support operations and enterprise technology, covering telephony, routing, case management, and identity verification. You’ll be the central point of intake, evaluation, and prioritization for CX platform requests, turning strategy from CX and Support leaders into clear product and process requirements and partnering with our Enterprise Systems team to deliver them.\nThis is a strong fit for a product manager who enjoys improving internal tools and business processes, and who is comfortable making and defending prioritization calls across competing stakeholders. It is not a customer-facing product role. You’ll report into the core CX leadership team and work with a high degree of autonomy.\n Duties And Responsibilities\n Partner with CX leaders to establish systems and platforms strategy then turn that strategy into concrete product and process requirements, driving through to implementation\n Own prioritization and sequencing of the CX platform backlog, building a clear framework to evaluate competing requests from CX and Support leaders and frontline feedback, and explaining the tradeoffs behind each decision\n Partner with operational subject matter experts to understand current-state processes and what needs to change, then translate that into clear technical requirements and PRDs\n Partner with dedicated Enterprise Systems resources on workflow design, platform configuration, testing and QA, and launch across our core platforms, including Salesforce and Amazon Connect\n Represent CX and Support on enterprise infrastructure projects, ensuring queue, telephony, and case management infrastructure reflects how our teams are structured as that structure evolves\n Work within broader cross-functional programs as the owner of the requirements and infrastructure workstream\n Through in-depth data and product analysis, identify opportunities to improve existing tooling and ensure we’re fully using the capabilities of our existing platforms before recommending new tools or custom builds\n Define and track post-launch success metrics, such as handle time, transfer rates, and first-contact resolution, to evaluate impact and iterate\n Build deep knowledge of our support workflows, with room over time to take on a larger role in shaping strategy, not just executing it\n Qualifications And Skills\n 6+ years of experience in product management, business systems, or CX platform roles, with hands-on experience building roadmaps, prioritizing backlogs, managing sprints, and writing PRDs or equivalent requirements\n Demonstrated ability to prioritize across competing requests from multiple leaders, using data and judgment to make decisions and hold a clear line when needed\n Strong understanding of support and CX operations, including routing logic, queue management, agent workflows, and telephony mechanics, and how platform changes affect agents and customers\n Ability to translate business needs into well-scoped requirements that platform developers and administrators can execute with minimal back-and-forth\n Experience partnering with technical teams through testing, QA, launch, and post-launch measurement\n Experience working with frontier AI models, Figma, Jira, and other product focused systems\n Comfort working in ambiguity, with the rigor to document current and future state clearly for technical and non-technical audiences\n Strong communication and stakeholder management skills, with the ability to build trust with frontline teams and senior leaders alike\n Experience with enterprise CX platforms such as Salesforce Service Cloud or Amazon Connect (or comparable CRM, case management, and contact center platforms) is a plus\n #[LI-KP2 ]\n Don’t meet every single requirement? If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. At Ethos we are dedicated to building a diverse, inclusive and authentic workplace.\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Pursuant to the SF Fair Chance Ordinance, we will consider employment for qualified applicants with arrests and conviction records.\nTo learn more about what information we collect and how it may be used, please refer to our California Candidate Privacy Notice.\n Recruitment Notice: Please be aware of recruitment scams. All legitimate communication from our team will only come from email addresses ending in @ethos.com or @getethos.com.\n We will never ask for payment, banking details, or sensitive personal information during the hiring process. If you are contacted by someone claiming to represent us from a different email address, please treat it as fraudulent.\nSeniority level Not Applicable | Employment type Full-time | Industries Technology, Information and Internet",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -232942,8 +232942,8 @@
    },
    "score": {
     "rules": 60,
-    "research": null,
-    "total": 60,
+    "research": 25,
+    "total": 39,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -232954,15 +232954,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Senior CX Operations Product Manager at Ethos, asks 6+ yrs; your 1.3 years of experience falls well short.",
+    "fit_notes": "The posting asks for '6+ years of experience in product management, business systems, or CX platform roles, with hands-on experience building roadmaps, prioritizing backlogs, managing sprints, and writing PRDs or equivalent requirements'. Shlok has about 1.3 years of experience, which makes this a reject per his rule. His facts like [ceo-coo] and [sop] show operations and planning ownership, but the experience gap is insurmountable.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Company quality and culture details not found in the evidence aside from news of financial performance.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T03:38:36+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Kroll’s Investment Banking Team Advised Ethos Partners on Its Sale of Motocaddy to Corbel Capital Partners - Kroll",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QVTBvNVVPYjg4NnlGdGxLbE1vSmNFOEVWRVl5Q1NwbFppaU42YVlXN1VHVGxySGpRSlRrRFdUM0wtMmZ1aEJqT3p2ajdGWWNFWENIVUlxRjhBcElqVTVUM0taMXhuRXRWRmhxMEpTWmxhLThUeF9fb3h3?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "ETHOS Q2 PROFIT JUMPS 26% TO RS 29.4 CR AS REVENUE SURGES 30% YOY ON STRONG VOLUME GROWTH - ICICI Direct",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVnpLelEzb1oxbWxDdkFRN2xJWVhZTk9maXByZ1JKVmQwZlFwMDdsUUNuWGhZU2U1RVhhWXNwNGtsTjIxTmlvaGFIVFJFT1NJMmZkUE9ESVhxbnRzOEFqWU1fOVp3cGJLUU5UN1F6Qlgtb25VY1RFXzdsSEtaZWdXSHZpOGl1VjlTREZLd2xaMDZ4TnZXZWNXX0E0SHUybVZQOWh5WXVSNlZtbDFqQktpR2dBS2NPaURtR2duem9GOUtBaGV1cmNVUzZTUWpwNnE5aWFWaU0yU2JfOGtU?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Fresh stint for PK Saboo as MD of Ethos Ltd - Whispers in the Corridors",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTVlXc0FBM0NQOF9RQ3RGUE9tUGNGRE1hTGdZcTdOMmVDQXRUajVyZDBkajROOFFocXlHUVhGRkF5UlNlWTF4Q1VhUHVVUm44bW50dkV6aUpMQmlLWE1RZUpxdjhmbWhyYUVXVWdpeHFROWI2MWdGbVFQaWxJbm53TFZBQnp3MTFYckRB?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Ethos Ltd to host analyst and investor meet in Mumbai on Sep 30 - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUTdJU2M1bWF6dWhwYTZLX1ZHR3A1RGFLOWtlVmhPcEU3ZzBDa0taSEhDcFc1SDR6Y0E1WFJlajJLal81RmQ3Rkx3dlIyWVhKQktxTlBxUlQyR3otZURHVnQxcTB5LVZyQU9NRWNpQzdQaW01bUdWX0F4WmdNdjM2aGRialF3ZDRuRzFMME5yaXU5aE1RMVo1MS1BcVBhYTRWT3FaejBBT0lVU0U?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "KDDL: Eigen grew fivefold, but Ethos drives the price - Value Research",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEV2dFJVQ00waC1fTmNzZGxac0FsaXppTGxMWmZLRDZFZmZiVDE4X0FnMWotMFlVRWtVMGdSeDEzSTRDbGt0NDJ0a3dkRXpGd0NnRXpJbGdfeFdEQWdHTlBLZGlaUm96MzF6SjlIQkg2TTh6TTZadnkyNExOUkZzMzRVdUJHQ2o1aVo0S3ZIZVhvMG1RS2Roc3oyQTBBOGc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Ethos adds 27 watch brands, with 21 arriving during Q2 FY27 - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlY0d3RGTUxyekxrWmpQa3F6aVpGSkp5X3poVTFMZTh0QzVhajlyMjFfLVBGYWVuMUZvTGlDdlJ6WGJmSWljSElLQTB6eGlPUXhxQnhsM2RyWUI4a2RzWUlSN3FJZXZ3UmEwR3JUOW9SYkNNS0FnSk1TdGQtMXhUN2NnejNXbHhXdmJuM19sZUg5SWNlOU5uZjQ2cG95eEdjT0RpLUF3?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -232986,9 +233024,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 60"
+    },
+    {
+     "at": "2026-11-26T03:38:36+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 39: rejected (The role requires 6+ years of experience, which exceeds Shlok's limit of 3 years.)"
     }
    ],
-   "updated_at": "2026-11-19T15:09:24+05:30",
+   "updated_at": "2026-11-26T03:38:36+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -232998,7 +233042,8 @@
     "at": "2026-11-25T04:28:14+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role requires 6+ years of experience, which exceeds Shlok's limit of 3 years."
   },
   {
    "id": "L1782",

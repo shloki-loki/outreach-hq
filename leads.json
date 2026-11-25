@@ -271022,15 +271022,15 @@
    "key": "capco|technical program manager|bengaluru",
    "type": "job",
    "company": "Capco",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "capco.com",
+   "company_url": "https://www.capco.com",
    "company_linkedin": "https://uk.linkedin.com/company/capco",
    "company_note": "",
    "title": "Technical Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4478521204",
    "source_url": "https://in.linkedin.com/jobs/view/technical-program-manager-at-capco-4478521204",
@@ -271046,7 +271046,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-26",
    "open": true,
-   "jd": "",
+   "jd": "Technical Program Manager (AI, Cloud & Portfolio Delivery)\n Experience: 10-18 Years\nRole Overview\nWe are seeking an experienced Technical Program Manager with a strong engineering background who has progressed from Software Engineer, Technical Lead, or Solution Architect into Program Management. The role will lead enterprise transformation, AI/GenAI, cloud modernization, strategic pre-sales initiatives, and portfolio delivery across multiple programs.\nKey Responsibilities\n Lead end-to-end delivery of large-scale technology and transformation programs.\n Drive AI/GenAI, cloud migration, application modernization, and digital transformation initiatives.\n Own program governance, budgeting, resource planning, risk management, and executive reporting.\n Manage a portfolio of programs, ensuring alignment to business objectives and strategic priorities.\n Partner with Product, Engineering, Architecture, and Business leaders to define technology roadmaps.\n Support pre-sales, solutioning, estimation, RFP/RFI responses, client presentations, and proposal development.\n Engage with senior stakeholders and clients as a trusted advisor, translating business needs into technology solutions.\n Ensure delivery excellence through Agile, DevOps, CI/CD, and engineering best practices.\n Required Skills\n Prior hands-on experience in Java, Python, .NET, or other enterprise technologies.\n Strong experience with AWS, Azure, or GCP.\n Knowledge of AI/GenAI, LLMs, Machine Learning concepts, and modern data platforms.\n Microservices, APIs, Kafka, Event-Driven Architecture, and Distributed Systems.\n Agile, Scrum, DevOps, CI/CD, and Program Governance.\n Strong client-facing, stakeholder management, and executive communication skills.\n Preferred\n Experience managing technology portfolios worth multi-million-dollar budgets.\n Strong background in pre-sales, solution consulting, and strategic account management.\n Certifications such as PMP, SAFe, AWS, Azure, or Cloud certifications.\nSeniority level Not Applicable | Employment type Full-time | Industries Financial Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -271061,8 +271061,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -271072,15 +271072,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Technical Program Manager at Capco, but asks 10-18 yrs experience which exceeds your 1.3 yrs.",
+    "fit_notes": "The posting asks for 'Experience: 10-18 Years' and progress 'from Software Engineer, Technical Lead, or Solution Architect into Program Management'. Shlok has about 1.3 years of experience and no software engineering or architect background, making this a clear reject on seniority.",
+    "pay_notes": "Pay not stated in the posting or reliable evidence.",
+    "culture_notes": "Capco was recognised by OpenAI for innovation and responsible AI leadership in 2026 [S2].",
+    "hook": "Capco was recognized by OpenAI for innovation and responsible AI leadership.",
+    "hook_source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzFjRE1HeFVaSHpfM2cyWHd3VlN2RWFwMklvSGZDSHFkeDFhVXZ0MG5MTFltdFpTTGhrbXJWRWg3XzRUMFFDdzVaNjE5MUxTWnFHQ0YzNTBsLWtEcVNuaTRTSnhLSUVfUVhPWG1fQWlpRG9NQTNISlp3VkNETUZLa2hIZHFpcHpHbHdLQU1LOEZ2bjYtNXdCWGJNWk1EdTk3MzFGaHdRRkh0TjNMeEHSAbMBQVVfeXFMTXZUYW9PSGFnN3ZWNjJKdjRZaG1qbDNvUHRuY2hHTnFzZ0tNVzMtVTgyX1NIdVNyM2MtMldMY1Q4SERLeXlRNFJ3b2ZtUUZuVm1KWFJYYzRJdmN6OTZxdnFRdEEteVNvN2Mya3dBaUJobE5Mb1RRb1RNSEpSVm9QWWJ6am5sREZZVGp5bm9ZM0ktTEQybVV4Ukw4LU1LYWZQOHg3SlFTZXJKSTRzRVB0NFlobU0?oc=5",
+    "researched_at": "2026-11-26T03:44:44+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Capco: Building a Banking Partnership that Lasts - FinTech Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdmZPQmZpRGJwdVNrUDAzek52OHRtWmFSeDItUDlBdHMtd1BPQXRmbEoxYjhCMWRUbk02RW1SUzZ2TlVqN194SGpzaFZPVFFjNFg5MEpYQ2FocVB3WUhuZ3NoaHFQal9FT18wYnlfaGVyMjJNblRBTkpFaHprYnAtOTM2MU4zOTZydXBSRw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Capco recognised by OpenAI for innovation and responsible AI leadership - Consultancy.uk",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzFjRE1HeFVaSHpfM2cyWHd3VlN2RWFwMklvSGZDSHFkeDFhVXZ0MG5MTFltdFpTTGhrbXJWRWg3XzRUMFFDdzVaNjE5MUxTWnFHQ0YzNTBsLWtEcVNuaTRTSnhLSUVfUVhPWG1fQWlpRG9NQTNISlp3VkNETUZLa2hIZHFpcHpHbHdLQU1LOEZ2bjYtNXdCWGJNWk1EdTk3MzFGaHdRRkh0TjNMeEHSAbMBQVVfeXFMTXZUYW9PSGFnN3ZWNjJKdjRZaG1qbDNvUHRuY2hHTnFzZ0tNVzMtVTgyX1NIdVNyM2MtMldMY1Q4SERLeXlRNFJ3b2ZtUUZuVm1KWFJYYzRJdmN6OTZxdnFRdEEteVNvN2Mya3dBaUJobE5Mb1RRb1RNSEpSVm9QWWJ6am5sREZZVGp5bm9ZM0ktTEQybVV4Ukw4LU1LYWZQOHg3SlFTZXJKSTRzRVB0NFlobU0?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Capco partners with Clearstream’s D7 platform - Securities Finance Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTM1TXhSQ0xkX0tPb3NTYXJpa1hqb1plcnhCcWxrMml4N0FLNWVleEZQZVhmeG9QXzVLZ201cFV3eEZ4eHo5clVBcDBVUFUtU0pvLVBQcks4bnVDVDFxeWFabHd2eF9uQ08wd0FVdElTT3R4bHZIQVBKd2tzSjlCYTUzejZpRFJLODVuQVZUcFJTZHUwWU5QTVR2cXpYR3M?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Business Consultancy Capco Establishes Partnership With Molecule - Built In",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UVXo3ZV9kZ29BSTRhTEdkWnBvSmdrd3AtU2tscmcxcDIyaXRlMkJZMjVlNDZfZjVqczhuYjBNNHRWY3pOdnhVSjN1QkhjdlF6NllFMEsxekNqTmRJQndwazZZcTE4alRMUW5ocVZfOVQ5dw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "[Spotlight] Capco strengthens client experience delivery through integrated product and design capability - The Digital Banker",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRHhjVHp3WmJUeEM0Y0tBWUVOeEpkbkwzTngyYUpNZmFlQXJJMVNubkFnT182a3lqaFEzNnpoM0VZbWxJSFVXTU5qc2xaY2g2Wm0tcDJoOHR1N0gtX0FIZUY0Sldjam5uNEIxSVdCSkM1d1FzYlJ2SFRDNDY3NF9zYk1qc1BSWUNvVDZhOTd6NGRnaDd1RDNsSFcwWHJCT09uanRfeks1djZyekJJZWNXN2NOSzVyUU91cDBHUVNkbW9ObDVvb3ZaQVhfUFVYUQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Capco Recognized by OpenAI for Innovation and Responsible AI Leadership - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDBZLWM5dGlISlVwd1daN3l4U0JxNWRPUVBiYkFaVlJtLXZBa2FOQ3lhZVpJaEVjLVlOdjZTWjZfOGlxVEtMLVlJeUVWSGhNbVhLempvZlVFbDFoUDhuZzY4Q3Exd0U0anh2aTB1aC03OFpuM1JMN2Z3dUZZTVROY0lOUi1fcTZxNkktZkRQai1Ja1FqbU1fWnhDTjZtekI3SnlZeElrRXo0bkw2OTlReHhGVVY4ekgzUmNEUkdHbENPOFF6cWRv?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -271104,9 +271142,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-26T03:44:44+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The posting asks for 10-18 years of experience, far exceeding Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30"
+   "updated_at": "2026-11-26T03:44:44+05:30",
+   "reject_reason": "The posting asks for 10-18 years of experience, far exceeding Shlok's 1.3 years."
   },
   {
    "id": "L2104",

@@ -19564,6 +19564,34 @@
    "thread_parent": "<179535584251.72781.8045521612992472835@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0651",
+   "lead_id": "L0487",
+   "contact_id": "C1",
+   "to": "manu@sensoviz.com",
+   "to_name": "Manu George",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Manu,\n\nOne more thing that may be relevant at SensoVision: I set up SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Is material planning still handled by hand there?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-25T13:38:26+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179535596270.72781.16129237487876018692@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

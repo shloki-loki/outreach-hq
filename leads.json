@@ -273492,15 +273492,15 @@
    "key": "abracon|associate product manager|bengaluru",
    "type": "job",
    "company": "Abracon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "abracon.com",
+   "company_url": "https://www.abracon.com",
    "company_linkedin": "https://www.linkedin.com/company/abracon",
    "company_note": "",
    "title": "Associate Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4494656290",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-abracon-4494656290",
@@ -273531,8 +273531,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 70,
+    "total": 72,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -273542,15 +273542,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Product Manager for Power & Magnetics at Abracon, asks 2-3 yrs; your B.Tech EEE background maps directly.",
+    "fit_notes": "The posting asks for a \"Bachelor's degree in Electrical Engineering, Electrical & Electronics Engineering, or a related field\" and \"2–3 years of experience in an engineering, applications, field application, product, or technical sales role, with an electronic component manufacturer or distributor\". Shlok has a B.Tech in Electrical and Electronics Engineering from IIT Guwahati. While he has ~1.3 years of experience (under the 2-3 year stated range), his background in hardware/manufacturing operations at Ola Electric ([cell], [mrp]) and technical internship ([idekho]) aligns with the electronics and technical scope, though he lacks specific electronic component vendor experience.",
+    "pay_notes": "Pay not stated in the posting or search evidence.",
+    "culture_notes": "Company quality and culture details not found in search evidence; posting mentions 'Excellence through teamwork drives the company culture at Abracon.'",
+    "hook": "Abracon recently expanded its digital customer experience with new website accounts designed for engineers.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNjM5T3U1bTN0N0p3Y3ZyM3pZdjBEZ0lQV1pPMGV3UVNZeHZ6Y0x6LVhpR2pfb1dYc2FqdkhTY0ZaQjhlZE9hVGFMMlk4Q1RLRU1mUFlkZzdJcmF2eFN2YjJTWmNlMEpOSFhzNW9vcnJoQ0FmX2lZTXdUTjRtYmpKQmJjUFRPOEJabC0xMS1qcS1vcmhwaXJPb1A4VkZRdzMxU04yYm1QazNvZlZqRFZXYmtZdmNTR1BHMExr?oc=5",
+    "researched_at": "2026-11-26T03:32:59+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Abracon Expands Digital Customer Experience with New Website Accounts Designed for Engineers - Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNjM5T3U1bTN0N0p3Y3ZyM3pZdjBEZ0lQV1pPMGV3UVNZeHZ6Y0x6LVhpR2pfb1dYc2FqdkhTY0ZaQjhlZE9hVGFMMlk4Q1RLRU1mUFlkZzdJcmF2eFN2YjJTWmNlMEpOSFhzNW9vcnJoQ0FmX2lZTXdUTjRtYmpKQmJjUFRPOEJabC0xMS1qcS1vcmhwaXJPb1A4VkZRdzMxU04yYm1QazNvZlZqRFZXYmtZdmNTR1BHMExr?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "cell",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -273574,9 +273590,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-26T03:32:59+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 72: qualified"
     }
    ],
-   "updated_at": "2026-11-26T02:20:42+05:30"
+   "updated_at": "2026-11-26T03:32:59+05:30",
+   "reject_reason": null
   },
   {
    "id": "L2135",

@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-23T04:46:35+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "outside the sending window; 60 approved email(s) wait for the next run",
-   "stats": {}
-  },
-  {
    "at": "2026-11-23T05:05:37+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3539,6 +3532,13 @@
     "sent": 0,
     "failed": 0
    }
+  },
+  {
+   "at": "2026-11-25T20:12:47+05:30",
+   "agent": "supervisor",
+   "ok": true,
+   "summary": "30 open issues (6 new/diagnosed today, 0 resolved), reply rate 3.1%, bounce rate 3.9%",
+   "stats": {}
   }
  ]
 }

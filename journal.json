@@ -11708,6 +11708,15 @@
    "title": "Daily review 2026-11-25",
    "detail": "RAN: lead-scout 13:36 and scrape 16:12 (33 new leads), send-track 13:34, follow-up 13:42 (55 follow-ups drafted, 8 replies flagged), follow-up/track every 20 min to 20:05, follow-up/digest 17:27, live-check 13:57, people-finder 15:06, writer 15:07 (0 drafted, quota), supervisor/check 18:32. DID NOT RUN OK: research-worker 15:06 marked failed (Gemini 503, I0111). PROBLEMS TODAY: I0106 inbox scan SSL error 05:03 (transient, diagnosed); I0107/I0108 SMTP timeouts on M0115/M0116 (diagnosed, need Retry by Shlok); I0109 send-track no draftable leads; I0110 scout 0 qualified of 7; I0111 Gemini quota. CHANGES: none made by me (reporting run). FUNNEL: 2127 leads, 761 researched, 84 qualified total, 28 applied, 136 contacted, 507 emails sent (357 cold), 11 people replied, 1 interview, 0 offers. Reply rate 3.1%, bounce rate 3.9% (20 bounces). Verifier credits: Reoon key works, no usage data read this run. NEEDS SHLOK: approve the 55 follow-up drafts; press Retry on M0115 and M0116; reply to the 5-8 replies flagged today; rotate the leaked Reoon key (I0025).",
    "ref": ""
+  },
+  {
+   "id": "J1302",
+   "at": "2026-11-25T20:12:47+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "30 open issues (6 new/diagnosed today, 0 resolved), reply rate 3.1%, bounce rate 3.9%",
+   "ref": ""
   }
  ]
 }

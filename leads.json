@@ -262325,8 +262325,8 @@
    "key": "inmobi|consultant global business operations|bengaluru",
    "type": "job",
    "company": "InMobi",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "inmobi.com",
+   "company_url": "https://www.inmobi.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Consultant- Global Business Operations",
@@ -262364,8 +262364,8 @@
    },
    "score": {
     "rules": 81,
-    "research": null,
-    "total": 81,
+    "research": 22,
+    "total": 46,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -262376,15 +262376,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "InMobi GBO Senior Analyst: campaign ops and client reporting, asks MBA and 3-4 yrs, flexible shifts; only Excel/SQL overlaps.",
+    "fit_notes": "Read live Greenhouse posting 2026-11-25. Needs MBA, 3-4 yrs, ad-tech campaign ops. Only Excel/SQL/dashboards map.",
+    "pay_notes": "No pay stated; not researched since role rejected on fit.",
+    "culture_notes": "Posting claims Great Place to Work; not independently checked.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T13:34:43+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -262408,14 +262410,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "greenhouse: rule score 81"
+    },
+    {
+     "at": "2026-11-25T13:34:43+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 46: rejected (Campaign-operations analyst role (DSP setup, client reports, shift work) asking MBA plus 3-4 years; no strategy content)"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30",
+   "updated_at": "2026-11-25T13:34:43+05:30",
    "research_attempt": {
     "at": "2026-11-25T04:15:42+05:30",
     "why": "error: Gemini unreachable: The read operation timed out",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Campaign-operations analyst role (DSP setup, client reports, shift work) asking MBA plus 3-4 years; no strategy content"
   },
   {
    "id": "L2063",

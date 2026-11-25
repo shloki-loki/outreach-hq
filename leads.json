@@ -27398,15 +27398,15 @@
    "key": "rebelfoods|associate product manager|india",
    "type": "job",
    "company": "Rebel Foods",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "rebelfoods.com",
+   "company_url": "https://www.rebelfoods.com",
    "company_linkedin": "https://in.linkedin.com/company/rebel-foods",
    "company_note": "",
    "title": "Associate Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Mumbai Metropolitan Region",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489953180",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-rebel-foods-4489953180",
@@ -27422,7 +27422,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-25",
    "open": true,
-   "jd": "",
+   "jd": "About Us \n We are surrounded by the world's leading consumer companies led by technology - Amazon for retail, Airbnb for hospitality, Uber for mobility, Netflix and Spotify for entertainment, etc. Food & Beverage is the only consumer sector where large players are still traditional restaurant companies. At Rebel Foods, we are challenging this status quo as we are building the world's most valuable restaurant company on the internet, superfast.\n The opportunity for us is immense due to the exponential growth in the food delivery business worldwide which has helped us build 'The World's Largest Internet Restaurant Company' in the last few years. Rebel Foods' current presence in India and UAE with close to 50 brands and 4500+ internet restaurants has been built on The Rebel Operating System.\n While for us it is still Day 1, we know we are in the middle of a revolution towards creating never seen before customer-first experiences. We bring you a once-in-a-lifetime opportunity to disrupt the 500-year-old industry with technology at its core.\n Discover more about our vision and culture by exploring the link below: https://jaydeepbarman.substack.com/?utm_campaign=profile_chips \n About the Role \n We're seeking a technically savvy, hands-on Associate Platform Product Manager to own and\n enhance key components of the Rebel Operating Stack.\n Your work will span integrations with global food aggregators, order management, and the Rebel\n Kitchen system stack. You'll work with external partners and internal engineering teams to improve order success, while partnering with kitchen teams to simplify workflows, reduce manual effort, and improve operational efficiency.\n This role requires curiosity about how systems work, a strong process mindset, and comfort engaging with users across the organization - from kitchen staff and dispatch teams to brand managers and business leaders.\n What You'll Do \n • Build the Rebel Kitchen Stack: Continuously improve the systems used for kitchen preparation,\n order management, routing, and dispatch. Translate observations from kitchen operations into\n practical features that reduce effort, errors, and turnaround time.\n • Work with Global Aggregators and Ordering Partners: Partner with platforms such as Swiggy,\n Zomato, Talabat, Uber Eats, IRCTC, Keeta, and Noon across markets to build and improve API\n integrations covering menus, availability, order processing, and order status updates. Coordinate\n requirements, testing, certification, and rollouts with partner teams.\n • Drive Order Success: Identify and address failures across the order lifecycle - from store and\n menu availability to order acceptance and fulfilment. Investigate rejection patterns, diagnose\n issues with engineering and operations, and drive fixes that prevent recurrence.\n • Understand the Technology: Develop a working understanding of our microservices\n architecture, APIs, databases, and system dependencies. Contribute to technical discussions,\n identify edge cases, and help balance operational needs with scalability and reliability.\n What You'll Do \n • Stay Close to Ground-Level Users: Spend time with kitchen staff, dispatch teams, operations,\n brand teams, and customer support to understand how the platform performs in practice. Use\n these insights to define solutions and validate their effectiveness.\n • Own Features Through Execution: Take features from problem definition and requirements\n through prioritization, development, testing, launch, and adoption. Document business rules,\n dependencies, exception scenarios, and acceptance criteria clearly.\n • Build Reliable Processes: Establish clear workflows for platform configuration, partner\n onboarding, rollouts, and issue resolution. Create documentation and training that help teams use new capabilities consistently.\n • Measure Outcomes: Define and track metrics such as order success, rejection rates, menu\n availability, preparation and dispatch time, and manual effort. Use data to prioritize improvements and assess their impact.\n What You'll Bring \n • Technical Acumen: A solid understanding of APIs, microservices, and database principles, with\n the ability to reason through system flows and integration failures. Experience with cloud platforms or external integrations is a plus.\n • Product Sense: The ability to turn operational problems into clear requirements and prioritize\n solutions based on user needs, business impact, and implementation effort.\n • Operational Curiosity: A willingness to spend time in kitchens, observe workflows firsthand, and understand the constraints teams face during peak operations.\n • Analytical Problem-Solving: Comfort working with data to identify failure patterns, investigate\n root causes, and measure whether a solution delivers the intended outcome. Familiarity with SQL is a plus.\n • Process Orientation: Attention to detail when defining workflows, handling exceptions,\n documenting requirements, and planning rollouts.\n • Communication Skills: The ability to explain technical concepts clearly to non-technical users and communicate operational requirements precisely to engineers and external partners.\n • Collaboration and Ownership: A proactive approach to coordinating across engineering,\n operations, business teams, and aggregator partners, with consistent follow-through.\n • Familiarity with Product Tools: Experience with tools such as Jira, Confluence, Slack, and API\n testing tools like Postman is a plus.\n If you enjoy solving complex platform problems, working with global partners, and seeing your\n products improve everyday kitchen operations, we'd love to hear from you.\n The Rebel Culture \n We believe in empowering and growing people to perform the best at their job functions. We follow outcome-oriented, fail-fast iterative & collaborative culture to move fast in building tech solutions. Rebel is not a usual workplace. The following slides will give you a sense of our culture, how Rebel conducts itself and who will be the best fit for our company. We suggest you go through it before making up your mind.\n Culture@RebelFoods.pdf\nSeniority level Mid-Senior level | Employment type Full-time | Industries Internet Marketplace Platforms",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -27437,8 +27437,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 48,
+    "total": 50,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -27448,15 +27448,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Product Manager at Rebel Foods in Mumbai; asks for technical API integration, pay and years not stated.",
+    "fit_notes": "The posting asks for a technically savvy Associate Platform Product Manager to own components of the Rebel Operating Stack, requiring an understanding of APIs, microservices, and database principles, plus operational curiosity. Shlok has strong technical and operations background (SAP MRP, S&OP, and Flask API work from InsuranceDekho [idekho]), but this role is based in Mumbai (not Bengaluru or remote) and focuses on software platform/aggregator integrations rather than core Strategy & Operations.",
+    "pay_notes": "Pay not stated in the posting. Recent financial reports show revenue of Rs 1,952 Cr in FY26 with narrowing losses [S2], but specific band for this role is unknown.",
+    "culture_notes": "Rebel Foods is an internet restaurant company operating ~4500+ internet restaurants across India and UAE. Culture follows outcome-oriented, fail-fast iterative principles. ESOP distributions noted ahead of IPO push [S6].",
+    "hook": "Rebel Foods recently reported FY26 revenue of Rs 1,952 Cr while narrowing losses by 16% [S2].",
+    "hook_source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTZGUWFiV0pHTWY1T0QxMVVGZlVBM1hGMkFSQ3YwemxVSUs2X0ptLWFrbG1zRVUwS0NObXVrbHZ4Z1BFMGdIZXRTdXZDMnMtYVh5QUVDeklrVElVTnNqa0VFYnlKN0RHb1lPY0UtdDNtUmNaX2F5a2VuMnE5a1R4dl9rbWVSRm1WZmtRYmE3bl9MdGVHd2IzSmJzYU5IYWtqRWFLa05n0gGmAUFVX3lxTE9lNkZRYWJXSkdNZjVPRDExVUZmVUEzWEYyQVJDdjB6bFVJSzZfSm0tYWtsbXNFVTBLQ05tdWtsdnhnUEUwZ0hldFN1dkMycy1hWHlBRUN6SWtUSVVOc2prRUVieUo3REdvWU9jRS10M21SY1pfYXlrZW4ycTlrVHh2X2ttZVJGbVZma1FiYTduX0x0ZUd3YjNKYnNhTkhha2pFYUtrTmc?oc=5",
+    "researched_at": "2026-11-25T15:04:27+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Can Ankush Grover take Rebel Foods to the IPO finish line? - The Morning Context",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVkVFcjZ5QWpUTC1vVFBwWG1KWlBmcVlYdFM0RUZCbGFVZ2hsOXg1QmZpYXRCaHRpakR4M090cWNqVmZ3RHprT2hCSlo1QjRILXhVNi1aZzVUR2hUdno3bTBHdGozNjY5QWVScWcxQWwxNU1qLVJDR0V4OGtVSFdSNHN3RHFrWVFiUXY1MFdMRktjZk9uVUdKaEJXNHY?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Rebel Foods reports Rs 1,952 Cr revenue in FY26, losses narrow 16% - Entrackr",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTZGUWFiV0pHTWY1T0QxMVVGZlVBM1hGMkFSQ3YwemxVSUs2X0ptLWFrbG1zRVUwS0NObXVrbHZ4Z1BFMGdIZXRTdXZDMnMtYVh5QUVDeklrVElVTnNqa0VFYnlKN0RHb1lPY0UtdDNtUmNaX2F5a2VuMnE5a1R4dl9rbWVSRm1WZmtRYmE3bl9MdGVHd2IzSmJzYU5IYWtqRWFLa05n0gGmAUFVX3lxTE9lNkZRYWJXSkdNZjVPRDExVUZmVUEzWEYyQVJDdjB6bFVJSzZfSm0tYWtsbXNFVTBLQ05tdWtsdnhnUEUwZ0hldFN1dkMycy1hWHlBRUN6SWtUSVVOc2prRUVieUo3REdvWU9jRS10M21SY1pfYXlrZW4ycTlrVHh2X2ttZVJGbVZma1FiYTduX0x0ZUd3YjNKYnNhTkhha2pFYUtrTmc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Rebel Foods Cuts FY26 Loss By 16% To ₹282 Cr, Revenue Jumps 21% - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3pEeXVHdXRnWFdTWFdXeDhmREdWOVA2VkE5N19scExBX2llTDRlX2t0S1JkbGN3aGt2MUlUNEVyY0xKajhDVDd5cnR0T1ZtX3VURm5DbWxfa0p5NHlDcVJVWjZzN2x3djVyTFM1d0xnV1JZdVNETnd4UWVXT3hHRkZxOExyRXpDSkhrQkJ2X1B0VE9mVEY0?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Rebel Foods partners with Naturals Ice Cream to drive pan-India expansion via Rebel Launcher - ET HospitalityWorld",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWndmakI3ZmNENWExd0xJSTI0TU9ZTjJ1MDZlMFVOMlRQUTVncF91N1kxZFZGQUxRMHVIWXduQnZrTUlfY1dZSUNWMzYzeWc5bXRyaFF4VktwX3kxNDV6S1pnaTE2TW8yVTQ4SXVOX2lsS1EzdE9SanBrZXNtbzBGSXgzOUFiQnZia0tuZ25IVGE3NFJmY2oyeDhBSVRIeTBjRmJ6QmZGa0RBZ3ZFMThlYndSZFlCZEQ5dU01cFliLWNGRm5MdU1yRXZ6dEM0MDJQRFBSaG1NeUc3X1lMRXVXT293X0wzUlU5V3pJcEJGbWxfY3EzcVdQRWRjVdIBgAJBVV95cUxOQlhucEk4aE5idHhmSmg1UktiUk1TeUt4SzF3cVVmdTVCRmpJQV80ZHN3YUZaVVoyTU9fMnFWZDE4N0RhTktpbGNmYnU4Y2xSUTFITm9LNjJPNUhOaGtNMDdJVTU1U0ZRU3V0Uk90QWs5WjNybHhRdXR2b3ZZR0xrVmtTbGpVN2xkR3RTMDZvUmkzc0VOM2ZUUWpkMHFNRXVyU3l1cl9lRUluX3dkNy1Bbm1paHNObk9vWUhhT2lKbldiRS1nSHVFUmVISS1qQ3IwRGs4a3JzV1h3YmVaMkxTMzNWd19heENCR1NTM3gyc1ZFM0FUTkVyQzRzZDkwVGJx?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Rebel Foods Partners with Naturals Ice Cream to Drive Pan-India Expansion via Rebel Launcher - Local Samosa",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbk5XcFhqVnJuS2txZ09FZGhabWxHYWI4LXlXR2dzQjViRDRzY28xQWVQeEdORXNBaGRPdS1wMEtnOGFvTHc0ZzB6Z3BDQV9jdDB2RGJqY2xUX3F6b2dzLXVuckRzWXVCQVJfbXNtOEhCeUFkOFZ2UmIxMGdUcjhsTTZ1YWN6ckVrLWRlVElIUdIBjwFBVV95cUxQbk5XcFhqVnJuS2txZ09FZGhabWxHYWI4LXlXR2dzQjViRDRzY28xQWVQeEdORXNBaGRPdS1wMEtnOGFvTHc0ZzB6Z3BDQV9jdDB2RGJqY2xUX3F6b2dzLXVuckRzWXVCQVJfbXNtOEhCeUFkOFZ2UmIxMGdUcjhsTTZ1YWN6ckVrLWRlVElIUQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Rebel Foods hands co-founders $20M in fresh ESOPs ahead of IPO push - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRXg1NEM0ZERWZUlQRkJad2FSSDNsQVEyWGJBMjBrWWpBM09uMFF1dVoxZkJQckhwOXVCZTFWd2E5OWh6V2I0ejhQc3pSX0FtWnJiZ0ZEOU83UEZXZzdxbkc2S015aHE0bF9wZWxFOE9KZWpVYW1sOThXV0ZFTTl2aFVNaXp3QTFyWU5Sc2YtaDJiZmQzaUt0SGVRQ2ZtclpRUXc?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -27480,14 +27520,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-25T15:04:27+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 50: rejected (The posting asks for a technical platform product manager with microservices/API integration experience and does not meet Shlok's salary or specific role priorities (APM tech platform stack vs his S&OP/supply chain ops background).)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-25T15:04:27+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting asks for a technical platform product manager with microservices/API integration experience and does not meet Shlok's salary or specific role priorities (APM tech platform stack vs his S&OP/supply chain ops background)."
   },
   {
    "id": "L0188",

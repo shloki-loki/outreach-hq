@@ -265010,7 +265010,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494330687",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-p-c-mallappa-company-4494330687",
@@ -265026,7 +265026,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-25",
    "open": true,
-   "jd": "",
+   "jd": "Company Description P.C Mallappa & Company has been a leading name in premium sanitaryware, tiles, modular kitchens, and wardrobes for over 34 years. The company is known for high-quality products that blend modern design with functionality to elevate residential and commercial spaces. A skilled team of design and craftsmanship professionals focuses on tailoring solutions to the specific preferences and requirements of each client. Strong attention to detail, customer satisfaction, and continuous innovation drive the company’s reputation as a trusted industry leader. P.C Mallappa & Company continues to set benchmarks for superior living spaces and invites driven professionals to be part of this growth journey.\n Role Description This is a full-time, on-site Business Development Manager role based in Bengaluru. The Business Development Manager will identify and cultivate new business opportunities, build and maintain relationships with architects, interior designers, contractors, and retail customers, and expand the company’s market presence. Day-to-day responsibilities include prospecting and lead generation, conducting client meetings and product presentations, negotiating and closing deals, and collaborating with the sales and design teams to deliver customized solutions. The role involves monitoring market trends and competitor activity, preparing sales forecasts and reports, and ensuring that revenue targets and growth objectives are met. The Business Development Manager will also support brand-building initiatives, participate in industry events, and provide feedback to management on customer needs and product enhancements.\n Qualifications \n Demonstrated experience in business development, sales, or account management, preferably in building materials, sanitaryware, tiles, or interior solutions.\n Strong skills in client relationship management, negotiation, and deal closing, with a proven ability to meet or exceed sales targets.\n Ability to conduct market research, analyze sales data, and identify new market segments and partnership opportunities.\n Excellent communication and presentation skills to explain product features, value propositions, and design options clearly to diverse stakeholders.\n Proficiency in basic office software (e.g., MS Office suite) and CRM tools for tracking leads, opportunities, and customer interactions.\n Strong organizational and time-management skills, with the ability to handle multiple projects and client requirements simultaneously.\n Bachelor’s degree in Business, Marketing, Commerce, or a related field; an MBA or relevant postgraduate qualification is an advantage.\n Knowledge of interior design trends, materials, and finishes, and an interest in aesthetics and functional design solutions.\n Comfort working in an on-site, customer-facing environment in Bengaluru, with readiness to travel locally for client visits and site meetings.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Retail Furniture and Home Furnishings",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -265041,8 +265041,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -265052,15 +265052,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "BD Manager at a 34-year-old tiles and sanitaryware retailer in Bengaluru; requires interior/building materials sales experience you do not have.",
+    "fit_notes": "The posting asks for demonstrated BD/sales experience in building materials, sanitaryware, tiles, or interior solutions, and building relationships with architects and interior designers. Shlok's facts ([msl], [o2d], [sop], [mrp], [ceo-coo]) are in supply chain and operations at Ola Electric, with no overlap with retail/interior design sales.",
+    "pay_notes": "Pay is not stated. Traditional retail/building materials BD roles typically pay well below Rs 24.5 LPA.",
+    "culture_notes": "No Glassdoor or AmbitionBox culture data found for P.C Mallappa & Company.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T14:40:42+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -265084,14 +265091,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-25T14:40:42+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The role is a traditional building materials and sanitaryware sales position requiring domain experience with architects and interior designers, which does not leverage any of Shlok's strategy/ops facts.)"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30",
+   "updated_at": "2026-11-25T14:40:42+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role is a traditional building materials and sanitaryware sales position requiring domain experience with architects and interior designers, which does not leverage any of Shlok's strategy/ops facts."
   },
   {
    "id": "L2079",

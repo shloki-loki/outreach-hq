@@ -19872,6 +19872,34 @@
    "thread_parent": "<179535730807.73785.11495935845205697556@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0662",
+   "lead_id": "L0498",
+   "contact_id": "C1",
+   "to": "vishnu.raned@videoken.com",
+   "to_name": "Vishnu Raned",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Vishnu,\n\nOne more thing that may be relevant at VideoKen: at InsuranceDekho I built a Flask API with a Chrome extension that autofilled forms, cutting response times by 40%. Is there a manual workflow in your team that I could look at?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-25T13:39:48+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179535742511.73785.16784844322868217779@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

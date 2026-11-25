@@ -667,11 +667,11 @@
    "new_leads_7d": 479
   },
   "2026-11-26": {
-   "leads_total": 2127,
+   "leads_total": 2160,
    "by_status": {
     "applied": 26,
     "to_approve": 107,
-    "new": 1182,
+    "new": 1215,
     "rejected": 630,
     "replied": 10,
     "contacted": 55,
@@ -685,18 +685,18 @@
     "greenhouse": 16,
     "lever": 7,
     "ashby": 19,
-    "linkedin": 737,
+    "linkedin": 765,
     "instahyre": 213,
     "yc": 50,
     "founder_reoutreach": 983,
-    "naukri": 12,
+    "naukri": 17,
     "hiringcafe": 32
    },
    "by_tier": {
-    "1 - Strategy & Ops": 1390,
-    "2 - Product / Program / BD": 669,
+    "1 - Strategy & Ops": 1395,
+    "2 - Product / Program / BD": 693,
     "4 - Other": 4,
-    "3 - APM / Analyst": 64
+    "3 - APM / Analyst": 68
    },
    "qualified_total": 84,
    "researched_total": 761,
@@ -714,7 +714,7 @@
    "offers": 0,
    "to_approve": 45,
    "followups_due": 66,
-   "new_leads_7d": 403
+   "new_leads_7d": 436
   }
  }
 }

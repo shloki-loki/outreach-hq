@@ -1539,6 +1539,20 @@
    "count": 1,
    "remedy": "Cause: the top unresearched leads were senior (4+ yrs), outside Bengaluru, or already closed, and Naukri/LinkedIn JDs for L1895 and L1771 are unreadable. Research correctly rejected them. Remedy: open L1895 and L1771 by hand in a browser if Shlok wants them considered; otherwise skip.",
    "resolved_at": null
+  },
+  {
+   "id": "I0111",
+   "key": "supervisor:research-worker 25 Nov 15:06 failed: Gemini 503 and free quota exhausted",
+   "agent": "supervisor",
+   "severity": "warn",
+   "title": "research-worker 25 Nov 15:06 failed: Gemini 503 and free quota exhausted",
+   "detail": "research-worker run at 15:06 IST marked failed: 27 researched (0 qualified, 27 rejected), 12 errors, first Gemini HTTP 503 high demand. The writer at 15:07 then stopped with 0 drafts because the free quota was used up on gemini-3.5 to 3.8-flash. 0 qualified leads from research for the 3rd day running.",
+   "status": "open",
+   "opened_at": "2026-11-25T20:12:18+05:30",
+   "last_seen": "2026-11-25T20:12:18+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

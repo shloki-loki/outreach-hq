@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-22T21:25:18+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "outside the sending window; 26 approved email(s) wait for the next run",
-   "stats": {}
-  },
-  {
    "at": "2026-11-22T21:45:14+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3479,6 +3472,16 @@
    "ok": true,
    "summary": "7 researched, 0 qualified, 7 rejected, 0 emails found; scrape skipped (ran 03:13 today), no Apify used; 7 already-closed postings and L1771 (no JD readable), L1895 OYO (Naukri blocked) left unresearched; stale re-verify and Monday company scan not done",
    "stats": {}
+  },
+  {
+   "at": "2026-11-25T13:39:21+05:30",
+   "agent": "send-track/send",
+   "ok": false,
+   "summary": "sent 8, failed 2. run limit of 10 reached; the rest go on the next run",
+   "stats": {
+    "sent": 8,
+    "failed": 2
+   }
   }
  ]
 }

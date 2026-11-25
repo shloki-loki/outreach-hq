@@ -269742,7 +269742,7 @@
    "key": "techademy|business development associate|bengaluru",
    "type": "job",
    "company": "Techademy",
-   "company_domain": "",
+   "company_domain": "techademy.com",
    "company_url": "",
    "company_linkedin": "",
    "company_note": "AmbitionBox 3.5 (208 reviews, via Naukri)",
@@ -269750,7 +269750,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "naukri",
    "source_id": "241126021753",
    "source_url": "https://www.naukri.com/job-listings-business-development-associate-techademy-bengaluru-0-to-5-years-241126021753",
@@ -269781,8 +269781,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 35,
+    "total": 46,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -269792,15 +269792,33 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "EdTech B2C Sales Associate at Techademy, asks 6m-3 yrs; low pay and sales profile do not match your S&O background.",
+    "fit_notes": "The posting asks for \"Minimum 6 months of experience in EdTech B2C Sales (Mandatory)\" and \"Fluency in Kannada or Tamil (Mandatory)\". Shlok has no B2C sales or EdTech experience, does not speak Kannada or Tamil, and the role is heavily focused on tele-sales and counseling rather than Strategy & Operations.",
+    "pay_notes": "Pay is not stated in the posting. Given the BDA EdTech profile, it is estimated to be well below Shlok's Rs 24.5 LPA fixed requirement.",
+    "culture_notes": "AmbitionBox 3.5 stars with 208 reviews via Naukri; no other culture flags or funding details found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T03:37:29+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Techademy Appoints Dara Elavia as Chief Revenue Officer to Drive Enterprise Growth - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVkzTEZWRG1SQ211c2o3MVRIRDNOY3V2NXYzd1licF91VGRIbEU2ZTNNbjZUbUxDbE9DM3VDa0FvQzZpTkpraDdLNHM4TmdRLUx1N0hYYXJ2VWdNbDh0TVNVa0hndHIyWWpxbHQ1TlNrcjBKR2RxR29hdUZwOFRZOGp2Q3FtUG9SQ21IS3hMdFhpUDVEYkVzNnNEaGVQQ3RodURzdA?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Techademy names Dara Elavia as Chief Revenue Officer - MediaNews4U",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTFBQXV5Q2x2MXhQcTdReHA4bFZpZzY1N1lCclhsRzQ0enVFQ3BTMHF3TVJxYnRLLXpZQXViSVJEZWdLOTg0LTVWSDVvS1NDUlZLMDhnLUhkOG4tM1BnVzVPdGRSakVhVGpwWkV4T2tObjBITEtmLTRRdVNrRk5yMXNoTXdMMVZr?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -269824,9 +269842,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 63"
+    },
+    {
+     "at": "2026-11-26T03:37:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 46: rejected (EdTech B2C sales role requiring Kannada or Tamil fluency and targeting sub-15 LPA pay, which is far below Shlok's Rs 24.5 LPA fixed requirement and completely misaligned with his Strategy & Operations profile.)"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30",
+   "updated_at": "2026-11-26T03:37:29+05:30",
    "research_attempt": {
     "at": "2026-11-25T04:27:28+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
@@ -269836,7 +269860,8 @@
     "at": "2026-11-25T13:57:44+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "EdTech B2C sales role requiring Kannada or Tamil fluency and targeting sub-15 LPA pay, which is far below Shlok's Rs 24.5 LPA fixed requirement and completely misaligned with his Strategy & Operations profile."
   },
   {
    "id": "L2095",

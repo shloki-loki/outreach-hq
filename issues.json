@@ -1525,6 +1525,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0110",
+   "key": "lead-scout:Scout 25 Nov: 0 qualified of 7, Naukri and LinkedIn JDs thin",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "Scout 25 Nov: 0 qualified of 7, Naukri and LinkedIn JDs thin",
+   "detail": "Top unresearched leads were mostly senior (4+ yrs), non-Bengaluru, or closed. Naukri (L1895 OYO) and LinkedIn Arkaylite (L1771) JDs unreadable. Google L2053 pay figure from a search summary, low confidence.",
+   "status": "open",
+   "opened_at": "2026-11-25T13:36:12+05:30",
+   "last_seen": "2026-11-25T13:36:12+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

@@ -265029,8 +265029,8 @@
    "key": "lseg|data strategy manager company data|bengaluru",
    "type": "job",
    "company": "LSEG",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "lseg.com",
+   "company_url": "https://www.lseg.com",
    "company_linkedin": "https://uk.linkedin.com/company/london-stock-exchange-group",
    "company_note": "",
    "title": "Data Strategy Manager, Company Data",
@@ -265059,7 +265059,7 @@
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "169,200-267,600 zl in the posting (Poland band, not India)",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
@@ -265068,8 +265068,8 @@
    },
    "score": {
     "rules": 71,
-    "research": null,
-    "total": 71,
+    "research": 18,
+    "total": 39,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -265079,15 +265079,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
+    "done": true,
+    "headline": "LSEG Data Strategy Manager (Manager stage): needs deep financial-markets and company-data expertise you do not have.",
+    "fit_notes": "Read LinkedIn guest posting 2026-11-25, 15h old, 200+ applicants. Requires significant financial markets experience, entity data subject expertise, transformation programmes. No fact in profile maps.",
+    "pay_notes": "Band is in zloty, not usable for Bengaluru.",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T13:34:48+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -265111,14 +265113,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 71"
+    },
+    {
+     "at": "2026-11-25T13:34:48+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 39: rejected (Asks significant financial-markets and entity-data subject expertise; salary band quoted in Polish zloty so pay for India not stated)"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30",
+   "updated_at": "2026-11-25T13:34:48+05:30",
    "research_attempt": {
     "at": "2026-11-25T04:23:45+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Asks significant financial-markets and entity-data subject expertise; salary band quoted in Polish zloty so pay for India not stated"
   },
   {
    "id": "L2090",

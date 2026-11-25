@@ -266590,8 +266590,8 @@
     "why": "LinkedIn rate limit; skipped this run"
    },
    "research_attempt": {
-    "at": "2026-11-25T14:29:32+05:30",
-    "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
+    "at": "2026-11-26T03:40:26+05:30",
+    "why": "model answer failed the checks: pay basis is 'stated' but the posting states no figure; use estimate or unknown",
     "by": "research-worker"
    }
   },

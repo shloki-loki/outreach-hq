@@ -76801,9 +76801,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ashish Jindal"
+    },
+    {
+     "at": "2026-11-25T15:13:12+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Vedant Katiyar"
     }
    ],
-   "updated_at": "2026-11-25T13:39:11+05:30",
+   "updated_at": "2026-11-25T15:13:12+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

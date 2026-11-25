@@ -270527,7 +270527,7 @@
    "key": "qrata|founder s office|bengaluru",
    "type": "job",
    "company": "Qrata",
-   "company_domain": "",
+   "company_domain": "qrata.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/qrata",
    "company_note": "",
@@ -270535,7 +270535,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4494776902",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-product-strategy-analytics-at-qrata-4494776902",
@@ -270551,7 +270551,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-26",
    "open": true,
-   "jd": "",
+   "jd": "About the Role\n We are looking for curious, analytical, and action-oriented individuals to join the Founder's Office and work directly with the founders on important product and business problems. This is a hands-on, generalist role spanning product, analytics, and customer engagement.\n You will speak to customers, understand their problems, analyse data, translate insights into product improvements, and work with business and engineering teams to bring those improvements to life. You should enjoy getting your hands dirty, whether that means conducting a customer interview, hosting a webinar, helping a customer troubleshoot an issue, or digging into data to understand what is happening.\n You will learn how to build, sell, and grow a product by working across the entire lifecycle.\n What You'll Do\n Customer Discovery & Engagement\n Speak to customers regularly to understand their workflows, pain points, and feedback.\n Conduct customer interviews, product demos, and webinars.\n Help organise and set up stalls at industry events.\n Engage with customers on support queries and help resolve their problems.\n Product & Execution\n Convert customer feedback and insights into clear product requirements and PRDs.\n Work with engineering and design teams to take features from idea to launch.\n Coordinate with business teams to prioritise problems, drive adoption, and ensure successful execution.\n Track new features after launch and identify opportunities to improve them.\n Analytics & Insights\n Extract and analyse data to understand customer behaviour, product usage, and business performance.\n Build dashboards, analyse funnels, and identify trends or unexpected patterns.\n Turn data into clear narratives, actionable insights, and product recommendations.\n Measure the impact of product changes and experiments.\n What They're Looking For\n Customer-first mindset: You enjoy talking to people, asking questions, and understanding how they work.\n Analytical thinking: You are comfortable extracting data, interpreting it, and building a compelling story from it.\n Structured problem-solving: You can break down ambiguous problems and turn them into actionable solutions.\n Bias for action: You are happy to do whatever is needed, from analysing data to speaking to customers or helping at an event.\n High ownership: You take responsibility, follow through, and do not wait for detailed instructions at every step.\n Strong communication: You can explain ideas clearly, write well, and engage confidently with customers and internal teams.\n AI-native mindset: You actively leverage AI tools to analyse data, conduct research, automate workflows, and improve the speed and quality of your work.\n Learning mindset: You are excited to learn product management, analytics, and business execution on the job.\n We are looking for candidates with 1–3 years of experience from leading colleges. Fresh graduates are welcome. Familiarity with SQL, Python, or spreadsheets is a plus.\nSeniority level Associate | Employment type Full-time | Industries Human Resources Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -270566,8 +270566,8 @@
    },
    "score": {
     "rules": 71,
-    "research": null,
-    "total": 71,
+    "research": 75,
+    "total": 73,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -270577,15 +270577,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at Qrata, asks 1-3 yrs; your analytical thinking and SQL skills map directly.",
+    "fit_notes": "The posting asks for \"1–3 years of experience from leading colleges. Fresh graduates are welcome. Familiarity with SQL, Python, or spreadsheets is a plus.\" Shlok's IIT Guwahati background matches leading college preferences, and his SQL skills and analytical experience match the analytics requirements. No MBA or consulting is required.",
+    "pay_notes": "Pay is not stated in the job posting. Needs evidence during outreach.",
+    "culture_notes": "No company website or reviews found in web search.",
+    "hook": "We are looking for curious, analytical, and action-oriented individuals to join the Founder's Office and work directly with the founders on important product and business problems.",
+    "hook_source": "https://in.linkedin.com/jobs/view/founder-s-office-product-strategy-analytics-at-qrata-4494776902",
+    "researched_at": "2026-11-26T03:34:50+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "msl",
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -270609,9 +270619,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 71"
+    },
+    {
+     "at": "2026-11-26T03:34:50+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 73: qualified"
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30"
+   "updated_at": "2026-11-26T03:34:50+05:30",
+   "reject_reason": null
   },
   {
    "id": "L2103",

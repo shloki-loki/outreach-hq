@@ -70487,9 +70487,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-25T14:45:13+05:30"
    },
    "notes": [],
    "timeline": [
@@ -70564,9 +70565,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Arun Kotharamath"
+    },
+    {
+     "at": "2026-11-25T14:45:13+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-25T14:31:05+05:30",
+   "updated_at": "2026-11-25T14:45:13+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -71756,9 +71763,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C4",
+    "since": "2026-11-25T14:45:13+05:30"
    },
    "notes": [],
    "timeline": [
@@ -71845,9 +71853,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Arpit Ratan"
+    },
+    {
+     "at": "2026-11-25T14:45:13+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-25T14:40:36+05:30",
+   "updated_at": "2026-11-25T14:45:13+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -79285,7 +79299,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-23T10:59:44+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-25T14:45:13+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -79445,9 +79459,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sahil Barua"
+    },
+    {
+     "at": "2026-11-25T14:45:13+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "sb@delhivery.com: Varun, Vivek - can you connect with Shlok. Given aggressive expansion plans in PTL and XB both there should be a number of challenging roles. Best, Sahil *Sahil"
     }
    ],
-   "updated_at": "2026-11-25T14:27:04+05:30",
+   "updated_at": "2026-11-25T14:45:13+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

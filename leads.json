@@ -28373,15 +28373,15 @@
    "key": "proctergamble|product manager|india",
    "type": "job",
    "company": "Procter & Gamble",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "pg.com",
+   "company_url": "http://www.pg.com",
    "company_linkedin": "https://www.linkedin.com/company/procter-and-gamble",
    "company_note": "",
    "title": "Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Mumbai Metropolitan Region",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4470874541",
    "source_url": "https://in.linkedin.com/jobs/view/product-manager-at-procter-gamble-4470874541",
@@ -28397,7 +28397,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Job Location\n MUMBAI GENERAL OFFICE\n Job Description\n P&G was founded over 180 years ago as a simple soap and candle company. Today, we're the world’s largest consumer goods company and home to iconic, trusted brands that make life a little bit easier in small but meaningful ways. We've spanned three centuries thanks to three simple ideas: leadership, innovation and citizenship. The insight, innovation and passion of hardworking teams have helped us grow into a global company that is governed responsibly and ethically, that is open and visible, and that supports good causes and protects the environment. This is a place where you can be proud to work and do something that matters.\n Dedication from Us: You'll be at the core of breakthrough innovations, be given exciting assignments, lead initiatives, and take ownership and responsibility, in creative workspaces where new insights thrive. All the while, you'll receive outstanding training to help you become a leader in your field. It is not just about what you'll do, but how you'll feel: encouraged, valued, purposeful, challenged, heard, and inspired.\n What we Offer: Continuous mentorship – you will collaborate with peers and receive both formal training as well as day-to-day mentoring from your manager dynamic and encouraging work environment– employees are at the centre, we value every individual and support initiative, promoting agility and work/life balance.\n Job Description :\nThe Digital Product Manager/Owner will set priorities for an internal digital product in data domain to all within an organization. They will translate customer needs into valuable, feasible, and usable user stories, personas, user journeys, and user flows. They will deliver a hands-on MVP for new products/features to confirm value. They will be responsible to understand data/API integrations needed to deliver the product. They will drive the digital product strategy, define the roadmap, and guide the digital product team on \"what\" should be built.\n Key Responsibilities:\n Translate customer needs into valuable, feasible, and usable user stories.\n Drive the digital product strategy and define the roadmap working with multi-functional team.\n Collaborate with regional/global stakeholders and developers to prioritize the product backlog.\n Create MVP (minimum viable product) to confirm product value.\n Design data pipelines leveraging Azure, Databricks and PBI.\n Make data-driven decisions based on complex, multivariable environments.\n Implement best practices for product operations and data management for the product including data governance, security, and compliance.\n Stay up to date with emerging trends and technologies in product management, data engineering and visualization and AI.\n Test/Experiment with AI agents to drive higher value of the product.\n About Us\n We produce globally recognized brands, and we grow the best business leaders in the industry. With a portfolio of trusted brands as diverse as ours, it is paramount our leaders are able to lead with courage the vast array of brands, categories and functions. We serve consumers around the world with one of the strongest portfolios of trusted, quality, leadership brands, including Always®, Ariel®, Gillette®, Head & Shoulders®, Herbal Essences®, Oral-B®, Pampers®, Pantene®, Tampax® and more. Our community includes operations in approximately 70 countries\nworldwide.\nVisit http://www.pg.com to know more.\nWe are an equal opportunity employer and value diversity at our company. We do not discriminate against individuals on the basis of race, color, gender, age, national origin, religion, sexual orientation, gender identity or expression, marital status, citizenship, disability, HIV/AIDS status, or any other legally protected factor.\n At P&G, the hiring journey is personalized every step of the way, thereby ensuring equal opportunities for all, with a strong foundation of Ethics & Corporate Responsibility guiding everything we do.\nAll the available job opportunities are posted either on our website - pgcareers.com, or on our official social media pages, for the convenience of prospective candidates, and do not require them to pay any kind of fees towards their application.”\n Job Qualifications\n Bachelor’s degree in computer science, Software Engineering, Data Science, Statistics, or a related field.\n 1-2 years experience as product manager/product owner.\n 1-2 years of experience in data engineering/software engineering with a proven track.\n Proficiency in SQL, and Python programming skills.\n Proficiency in Data bricks/Microsoft Fabric.\n Excellent analytical and problem-solving skills with a keen attention to detail.\n Strong communication and interpersonal skills. Actively participates in teamwork while demonstrating cultural awareness and a willingness to share insights.\n Defines and leads the work necessary to shape team dynamics, organizational culture, or IT practices.\n Certifications preferred: Microsoft Azure Fundamentals, Python Programming Certification, Microsoft Fabric Data Engineer Associate [DP-700] or Databricks Certified Data Engineer Associate / Professional\n Preferred Experience: Experience building AI products and agents on industry platforms like N8N, Lang Graph /Lang chain etc.\n Job Schedule\n Full time\n Job Number\n R000159669\n Job Segmentation\n Experienced Professionals\nSeniority level Not Applicable | Employment type Full-time | Industries Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -28412,8 +28412,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -28423,15 +28423,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Manager at Procter & Gamble (Mumbai); asks 1-2 yrs PM/data engineering and Databricks/Fabric experience.",
+    "fit_notes": "The posting asks for a 'Bachelor’s degree in computer science, Software Engineering, Data Science, Statistics, or a related field' and '1-2 years experience as product manager/product owner' alongside '1-2 years of experience in data engineering/software engineering with a proven track' and 'Proficiency in Data bricks/Microsoft Fabric'. Shlok has a B.Tech in Electrical and Electronics Engineering, and while his technical background covers Python and SQL, he lacks formal PM experience and Databricks/Microsoft Fabric expertise.",
+    "pay_notes": "Pay is not stated in the job posting, and no specific salary figures were found in the available evidence for this exact role.",
+    "culture_notes": "Procter & Gamble is the world's largest consumer goods company. No specific Glassdoor or employee rating counts or negative culture flags were found in the provided evidence.",
+    "hook": "Procter & Gamble recently reported an earnings beat as sales rose 4%, boosted by laundry and home products.",
+    "hook_source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYSGZoSC1RZ3ljdEVaOWQxSDhsd0lBdC01WXNLMVJodllaS2h1OThxbVRLWUc0ckRDOHdQNlVlWFZCTDBNbVh1SlhNeHJhVnlsMGpfV0hsWkhEcG1kSzNRY1lWU2Z0Qm5pdERlX000aWliWmM3blNJT1ZyMNIBgAFBVV95cUxOQmplR3pxdTdldmFUazNDMVZjU192bFd1WVFUQjlWSWJfOGRkUFRCWTZSdHJBeWhsUlF0dEtFM0ZzUUNhVjFiQzBuNFFJR0pZVFZaTDVfWm1mRUxxblQ0QWtVTk0tT3RYQUJhT1l4ZkdmamdBMVJNYkM2T0E1UXZlaw?oc=5",
+    "researched_at": "2026-11-25T15:06:36+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Procter & Gamble modernizes SAP on Azure with 40% average performance gains - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa3ZWTnN2aXpEVkYwS2drZ2tFN1dWWUk5UTZxanZpVkRNcVkxUzBTT1hkcEFzUndReXdiMGZIQlh5a1hqWkZXakdodjByNjV3THFKUW9xeXIzNFVPRm01ajhhUVBicnVUM2VXcl9PN2thbnU5Y3BBUnhwUUZxSjdtVXExZ1Y5cHBOQ0Jr?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYSGZoSC1RZ3ljdEVaOWQxSDhsd0lBdC01WXNLMVJodllaS2h1OThxbVRLWUc0ckRDOHdQNlVlWFZCTDBNbVh1SlhNeHJhVnlsMGpfV0hsWkhEcG1kSzNRY1lWU2Z0Qm5pdERlX000aWliWmM3blNJT1ZyMNIBgAFBVV95cUxOQmplR3pxdTdldmFUazNDMVZjU192bFd1WVFUQjlWSWJfOGRkUFRCWTZSdHJBeWhsUlF0dEtFM0ZzUUNhVjFiQzBuNFFJR0pZVFZaTDVfWm1mRUxxblQ0QWtVTk0tT3RYQUJhT1l4ZkdmamdBMVJNYkM2T0E1UXZlaw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Procter & Gamble vs. Colgate-Palmolive: Which Dividend Stock Is Safer? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVpEM2NtaDRTRmdCUW5YaXgtTEh5MjFsZ21IWm9iakFmTXU1NHNhWGhKUDZLVVoxQ2pRc3FvNWd1Sm5XcW9JZlZlMHg2VHhmWHBvU3BjRGswV200WU82OFZRQUtWeUhXZHd3VUY5RnprU3VRUlU3dktpbUlEZ2FKVUV1SzZmWFA0SGZGekRkNG45LVdYYWxYaTZpNVJCb2N6eGVSb0xqZWpZMHAwbWc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Procter & Gamble puts AI at center of its growth strategy - Constellation Research",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcXdTMGZKdnhGaWl0ZDZ4aERuU3h5U2N6ZUEyVjZMa3FrdmE4dTBmcVFPcXZJSTdPMDE1dmFOZzJmZ2dMTmZNbm4wWXY0czUwOVBqRXA4NDcxa08yMEVkeVoyeExlb2gzNW8wSDVhaVk3Qklya09rQVRzQktjMUJnSjZrUFNKbmUxMm9KNVFsOENReXFIM0NvRlNB?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Procter & Gamble Gives Soft Outlook as Iran War Drives Up Costs - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUxvOXZ1eEFvYXk5MC1TUnh2dFZ4VHJBNzRjdGZjMkJXcDEybzFhVlRUX2ExRXpkREt4bWJRd0RfeFJUZUpNRWFTaDlQTlBUcUhKbWczT3hzTWFkeWlxMXgzN2dWazFXSFdlZ0RSYmNPUXlrQ25Ob0Y5TmhKRzdkRG4tY1FsZi1TT05QU2Vjd21QcklJbVBCcVZFd25aNEdZVTFwRW1EUGo?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzNaTFRSWC1iNk9rYXhLLUNFZkxRbXhQVGZHaGh4ekJVSmZuZTdFYm1SWENrNGE5VGhLWWk3ZWpWM05OVFd5X05pRTEzMXFwaFdBUXRhNHJtcTg3Ny1qLVRhUnluU2VuN3VfcnREQXIzYXVJdWJVMmNCNEM1d1JfT0FCd1dBUmJD?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -28455,14 +28493,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-25T15:06:36+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The role requires a Bachelor's degree in computer science, software engineering, data science, or statistics, and 1-2 years of experience as a product manager plus specific proficiency in Databricks/Microsoft Fabric, whereas Shlok has an Electrical and Electronics Engineering degree and no prior formal product manager title.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-25T15:06:36+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role requires a Bachelor's degree in computer science, software engineering, data science, or statistics, and 1-2 years of experience as a product manager plus specific proficiency in Databricks/Microsoft Fabric, whereas Shlok has an Electrical and Electronics Engineering degree and no prior formal product manager title."
   },
   {
    "id": "L0196",

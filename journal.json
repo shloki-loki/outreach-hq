@@ -11663,6 +11663,15 @@
    "title": "Diagnosis: send-track 25 Nov: no draftable leads",
    "detail": "Cause: L0105, L1556 and L0077 only have catch-all addresses after recheck and score 65-73, below the 80 needed to draft to an unverified address. Remedy: find a named, verified contact for them (people-finder or Shlok by hand) or skip them. Nothing is lost.",
    "ref": "I0109"
+  },
+  {
+   "id": "J1297",
+   "at": "2026-11-25T20:12:10+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Scout 25 Nov: 0 qualified of 7, Naukri and LinkedIn JDs thin",
+   "detail": "Cause: the top unresearched leads were senior (4+ yrs), outside Bengaluru, or already closed, and Naukri/LinkedIn JDs for L1895 and L1771 are unreadable. Research correctly rejected them. Remedy: open L1895 and L1771 by hand in a browser if Shlok wants them considered; otherwise skip.",
+   "ref": "I0110"
   }
  ]
 }

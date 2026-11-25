@@ -268088,7 +268088,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Kolkata, West Bengal, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493016301",
    "source_url": "https://in.linkedin.com/jobs/view/growth-and-strategy-analyst-at-sisir-radar-private-limited-4493016301",
@@ -268104,7 +268104,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-26",
    "open": true,
-   "jd": "",
+   "jd": "Key Responsibilities\n ● AI-Driven Business Research: Leverage advanced AI platforms and specialised research\n tools to systematically scan, extract, and synthesise high-volume technical documentation,\n industry resources, and commercial datasets.\n ● Meticulous Data Management: Source, clean, organise, and structure data from internal\n databases and external repositories with a high degree of accuracy, identifying discrepancies\n and maintaining data integrity.\n ● Commercial Writing & Documentation: Convert complex research findings into precise,\n well-structured business briefs, executive summaries, reports, and presentations for\n leadership and decision-making.\n ● Data Analysis & Reporting: Analyse information, identify trends, interpret data, and present\n meaningful insights to support business decisions.\n ● Spreadsheet Management: Maintain, organise, and manage spreadsheets, ensuring\n accurate data entry, formatting, tracking, and reporting.\n Requirements\n ● Education: Bachelor's or Master's degree in Commerce or Economics preferred. Candidates\n with academic backgrounds in Mathematics, Physics, or Chemistry may also be considered.\n ● Experience: 0–2 years of experience in corporate analytics, a startup, business research, or\n a related environment. Prior exposure to deep-tech, aerospace, or defence is advantageous.\n ● AI Literacy: Familiarity with generative AI platforms, advanced search tools, and prompt\n engineering for research and workflow optimisation.\n ● Technical Skills: Good to advanced proficiency in Microsoft Excel, including data\n manipulation, spreadsheet management, business modelling, and formatting.\n ● Communication Skills: Strong verbal and written communication skills, with the ability to\n communicate ideas clearly and professionally.\n ● Personality & Professionalism: A confident, presentable, and professional personality with\n a proactive approach to work and the ability to interact effectively with different stakeholders.\n Good to Have\n ● Basic designing skills and familiarity with tools used for creating professional presentations,\n reports, and business documents.\n ● Strong documentation and report preparation skills.\n ● Hands-on experience in creating, managing, and maintaining spreadsheets.\n ● Good analytical and problem-solving abilities.\n ● Ability to organise large volumes of information and present it in a structured,\n easy-to-understand format.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Defense and Space Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -268119,8 +268119,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -268130,15 +268130,30 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Growth and Strategy Analyst at Sisir Radar in Kolkata, asks 0-2 yrs, but location is outside Bengaluru and pay is unknown.",
+    "fit_notes": "The posting asks for \"0–2 years of experience in corporate analytics, a startup, business research\" and \"Good to advanced proficiency in Microsoft Excel\". His experience at Ola Electric answers the data analysis and spreadsheet needs, but the location is Kolkata and pay is unknown.",
+    "pay_notes": "Pay not stated in the posting or search evidence.",
+    "culture_notes": "Ratings and culture details not found in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T03:41:24+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Sisir Radar Startup Deep Dive: Funding, Model, Risks - Indian Startup Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVURwaGRfQTZrM21GMlNFdlljWEpRWUJoWjI2TldWbXdqOW9lY09iNldzTngxa1R5cjAwVkhQdGd2dF83aG81WTRtWmZyVXlzS2R4RHVoZDBIajRLZmJWVVlLaDVoeEtTcFlZYThSY1o0Si1pNW0yemdlay13czJyWQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -268162,9 +268177,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-26T03:41:24+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Location is Kolkata (not Bengaluru or remote) and pay is unknown, falling short of his Rs 24.5 LPA fixed target.)"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30",
+   "updated_at": "2026-11-26T03:41:24+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -268174,7 +268195,8 @@
     "at": "2026-11-25T14:37:36+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Location is Kolkata (not Bengaluru or remote) and pay is unknown, falling short of his Rs 24.5 LPA fixed target."
   },
   {
    "id": "L2077",

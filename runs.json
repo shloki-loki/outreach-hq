@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-22T22:05:17+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-22T22:05:27+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3481,6 +3468,18 @@
     "bounces": 0,
     "settled": 0,
     "followups_due": 9
+   }
+  },
+  {
+   "at": "2026-11-25T13:57:47+05:30",
+   "agent": "live-check",
+   "ok": true,
+   "summary": "1363 postings checked: 311 live, 7 moved to the Bin, 1626 could not be checked",
+   "stats": {
+    "checked": 1363,
+    "live": 311,
+    "binned": 7,
+    "unknown": 1626
    }
   }
  ]

@@ -11132,6 +11132,15 @@
    "title": "Template founder-v2: 3 emails queued",
    "detail": "1560 addresses left after today; refused 0",
    "ref": "M0693"
+  },
+  {
+   "id": "J1238",
+   "at": "2026-11-25T13:57:47+05:30",
+   "by": "live-check",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "1363 postings checked: 311 live, 7 moved to the Bin, 1626 could not be checked",
+   "ref": ""
   }
  ]
 }

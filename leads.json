@@ -82094,7 +82094,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-25T15:25:46+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -82174,9 +82174,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Safeer Mohiuddin queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-25T15:25:46+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Shreya Rajpal"
     }
    ],
-   "updated_at": "2026-11-25T13:45:26+05:30",
+   "updated_at": "2026-11-25T15:25:46+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

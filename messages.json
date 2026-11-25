@@ -20544,6 +20544,34 @@
    "thread_parent": "<179541237438.3929.7254621918157053919@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0686",
+   "lead_id": "L0542",
+   "contact_id": "C1",
+   "to": "kapil@vyntelligence.com",
+   "to_name": "Kapil Singhal",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Kapil,\n\nOne more thing that may be relevant at Vyntelligence: at InsuranceDekho I built a Flask API with a Chrome extension that autofilled forms, cutting response times by 40%. Is there a manual workflow in your team that I could look at?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-25T13:42:12+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179541249194.3929.8943020500126896588@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

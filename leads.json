@@ -275677,15 +275677,15 @@
    "key": "k12techno|business development manager|bengaluru",
    "type": "job",
    "company": "K12 Techno Services",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "k12technoservices.com",
+   "company_url": "https://www.k12technoservices.com",
    "company_linkedin": "",
    "company_note": "AmbitionBox 3.7 (2416 reviews, via Naukri)",
    "title": "Business Development Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "naukri",
    "source_id": "251126031404",
    "source_url": "https://www.naukri.com/job-listings-business-development-manager-k12-techno-services-bengaluru-0-to-1-years-251126031404",
@@ -275716,8 +275716,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 35,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -275727,15 +275727,38 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Development Manager at K12 Techno Services, asks 0-2 yrs, pay unstated; requires sales/marketing, not your S&OP background.",
+    "fit_notes": "The posting asks for 'Graduate / Masters' with 'Prior experience in sales, marketing, or customer relations is a plus, but not mandatory. Experience: 0-2 years.' No MBA or consulting is required. However, the role is pure sales/business development in the education sector, which does not utilize his core strengths in S&OP, inventory management, or technical execution (such as SAP MRP [mrp] or S&OP planning [sop]).",
+    "pay_notes": "Pay not stated in the posting; no exact salary figures found in evidence.",
+    "culture_notes": "AmbitionBox rating 3.7 (2416 reviews, via Naukri); recent news notes K12 Techno Services granted fresh ESOPs worth $20 Mn [S1].",
+    "hook": "K12 Techno Services recently granted fresh ESOPs worth $20 Mn in September 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1FJcGVGbmhROHVnYlIyTFlWWG1RVUx0Q3B5czYzSXRZTU1RenNMMnEtbHAydmdqcXQzY3NtYmdkbWh4a1ExdnlJeXBFQlV5X09BVlNGUXp3ZkhlcW0tUG9nNVJXdFNOYnJ1aG9CWVY5bTgzcWh0OWlERUN3d1hSRlJURlRfenE3X0FMLWJ1NjktX0tLY25IaW5yYXdPRld1MnfSAaIBQVVfeXFMUG9RSXBlRm5oUTh1Z2JSMkxZVlhtUVVMdENweXM2M0l0WU1NUXpzTDJxLWxwMnZnanF0M2NzbWJnZG1oeGtRMXZ5SXlwRUJVeV9PQVZTRlF6d2ZIZXFtLVBvZzVSV3RTTmJydWhvQllWOW04M3FodDlpREVDd3dYUkZSVEZUX3pxN19BTC1idTY5LV9LS2NuSGlucmF3T0ZXdTJ3?oc=5",
+    "researched_at": "2026-11-26T03:34:15+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Exclusive: K12 Techno Services grants fresh ESOPs worth $20 Mn - Entrackr",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1FJcGVGbmhROHVnYlIyTFlWWG1RVUx0Q3B5czYzSXRZTU1RenNMMnEtbHAydmdqcXQzY3NtYmdkbWh4a1ExdnlJeXBFQlV5X09BVlNGUXp3ZkhlcW0tUG9nNVJXdFNOYnJ1aG9CWVY5bTgzcWh0OWlERUN3d1hSRlJURlRfenE3X0FMLWJ1NjktX0tLY25IaW5yYXdPRld1MnfSAaIBQVVfeXFMUG9RSXBlRm5oUTh1Z2JSMkxZVlhtUVVMdENweXM2M0l0WU1NUXpzTDJxLWxwMnZnanF0M2NzbWJnZG1oeGtRMXZ5SXlwRUJVeV9PQVZTRlF6d2ZIZXFtLVBvZzVSV3RTTmJydWhvQllWOW04M3FodDlpREVDd3dYUkZSVEZUX3pxN19BTC1idTY5LV9LS2NuSGlucmF3T0ZXdTJ3?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "K12 Techno Services Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56SFl0aHBUOUVCbURtWG02cFZDMjFMT1ZIZkcyNEZYSUxZaVh0TkFLOE9jdWZldFc1UW4zS2xFRnl0N0xfM0ZueE1FdVBfbzVXMF9WTG9tcWtVTHhlZVhiT0w2ZnY5Mm91dUpOVGtoTXI0azQ0WXc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Navneet Education Subsidiary to Divest Stake in K12 Techno Services for ₹329.68 Crore - EquityBulls",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0gzWUdQYmFaRW1IaHdmT3ZjUDlkTkRKTmxGYmhGSzVIR3BBMEhyUVRmY3RKZlQ1d21UYUR0eHRBOFR2cE9RV2RlNmN0Y1BpTFZsYWdtQVpxLUJEY1RhRmlCRmpMTmJsZlQ0MGdFVVlrNFNOX1VFUXpkMGs1bWtSX0ExNU85QngwM1ZKRl82b2hfSGdadGtwSEVPMy1QRUwwZUx6TEFrdTlBcDFNU18wVUJ2eG1OR19qaDFWSQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -275759,9 +275782,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 74"
+    },
+    {
+     "at": "2026-11-26T03:34:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role is a junior Business Development position well below Shlok's minimum Rs 24.5 LPA target, focused on school sales rather than strategy or operations, and does not use his core background.)"
     }
    ],
-   "updated_at": "2026-11-26T02:20:42+05:30"
+   "updated_at": "2026-11-26T03:34:15+05:30",
+   "reject_reason": "Role is a junior Business Development position well below Shlok's minimum Rs 24.5 LPA target, focused on school sales rather than strategy or operations, and does not use his core background."
   },
   {
    "id": "L2158",

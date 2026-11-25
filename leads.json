@@ -79245,9 +79245,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Nepal Singh queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-25T14:05:28+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Nikhil Vij queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-25T13:45:26+05:30",
+   "updated_at": "2026-11-25T14:05:28+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -81398,9 +81404,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "SMTPServerDisconnected: Connection unexpectedly closed: The read operation timed out"
+    },
+    {
+     "at": "2026-11-25T14:05:28+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Gergely Danyi queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-24T12:13:54+05:30",
+   "updated_at": "2026-11-25T14:05:28+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -81556,9 +81568,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "SMTPServerDisconnected: Connection unexpectedly closed"
+    },
+    {
+     "at": "2026-11-25T14:05:28+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Manya Ranjan queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-24T12:27:04+05:30",
+   "updated_at": "2026-11-25T14:05:28+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -81688,9 +81706,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sameer Sadana"
+    },
+    {
+     "at": "2026-11-25T14:05:28+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Anuj Gupta queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-24T12:27:23+05:30",
+   "updated_at": "2026-11-25T14:05:28+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -81833,9 +81857,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Manas Gupta"
+    },
+    {
+     "at": "2026-11-25T14:05:28+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Srikumar Nair queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-24T12:29:06+05:30",
+   "updated_at": "2026-11-25T14:05:28+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -82004,9 +82034,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Abhishek Kumar Jha"
+    },
+    {
+     "at": "2026-11-25T14:05:28+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Richard ichard Kibbey queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-24T12:31:22+05:30",
+   "updated_at": "2026-11-25T14:05:28+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -82136,9 +82172,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ayush Srivastava"
+    },
+    {
+     "at": "2026-11-25T14:05:28+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Sachin Goel queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-24T12:33:09+05:30",
+   "updated_at": "2026-11-25T14:05:28+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -82625,9 +82667,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Umair Mohammed"
+    },
+    {
+     "at": "2026-11-25T14:05:28+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Shamail Tayyab queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-24T12:49:02+05:30",
+   "updated_at": "2026-11-25T14:05:28+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -83008,9 +83056,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Pranav Chopra"
+    },
+    {
+     "at": "2026-11-25T14:05:28+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Pradeep Chopra queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-24T12:53:10+05:30",
+   "updated_at": "2026-11-25T14:05:28+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -83265,9 +83319,15 @@
      "actor": "follow-up",
      "event": "bounced",
      "detail": "anshul@relsofurniture.com does not exist; needs a new address"
+    },
+    {
+     "at": "2026-11-25T14:05:28+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Abhinav Agarwal queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-24T13:05:13+05:30",
+   "updated_at": "2026-11-25T14:05:28+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

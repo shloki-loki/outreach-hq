@@ -267618,7 +267618,7 @@
    "key": "huntingcube|program manager|bengaluru",
    "type": "job",
    "company": "HuntingCube",
-   "company_domain": "",
+   "company_domain": "huntingcube.ai",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/huntingcubeai",
    "company_note": "",
@@ -267626,7 +267626,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494133277",
    "source_url": "https://in.linkedin.com/jobs/view/program-manager-at-huntingcube-4494133277",
@@ -267642,7 +267642,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-26",
    "open": true,
-   "jd": "",
+   "jd": "Job Description\n Job Overview We are looking for a Program Manager to manage end-to-end delivery across multiple product modules. The role involves working closely with the Customer Success, Product, Development, and Marketing teams to understand institutional requirements, translate customer feedback into structured product requirements, and ensure the timely delivery and adoption of product features. The Program Manager will act as the primary coordination point between the Customer Success and Development teams, ensuring clear communication, effective coordination, and smooth execution of requirements. The role will focus on delivering a product experience that serves four stakeholder groups: Parents, Students, Teachers, and Administrators. Roles & Responsibilities 1. Requirements Gathering & Discovery Own the end-to-end requirements gathering process by working closely with the Customer Success SPOC to understand institution-specific needs, workflows, and pain points across all four stakeholder groups. Translate customer conversations and feedback into structured and clear Product Requirement Documents (PRDs) that the Development team can act upon. Prioritize incoming requirements based on customer impact, feasibility, and business goals. Maintain a clear and updated requirements backlog. 2. Coordination & Delivery Management Serve as the primary coordination point between the Customer Success and Development teams. Ensure requirements are communicated clearly, dependencies are tracked, and delivery timelines are met. Proactively identify risks, blockers, and scope changes, and resolve them before they lead to delays. Manage task tracking and sprint progress visibility using project management tools such as ClickUp and JIRA. Ensure all relevant stakeholders are informed about project progress. 3. Release Management & Communication Prepare detailed and customer-friendly Release Notes for every feature or update shipped. Ensure accuracy and clarity in release communications for institutional stakeholders. Coordinate with the Marketing team for timely feature announcements and rollout communications. Help educational institution customers understand, adopt, and derive value from new features. 4. Feature Adoption & Product Health Monitor the usage of modules and features across educational institutions. Proactively identify gaps in feature adoption and investigate the reasons behind low usage. Share feature adoption insights with the Product and Customer Success teams. Define and track success metrics, including NPS, module adoption rates, and support ticket trends. Continuously monitor customer satisfaction and overall product health. Requirements Must-Have Skills & Experience 3–6 years of experience in a Program Manager, Product Manager, or Business Analyst role, preferably in a SaaS or technology product environment. Ability to independently write clear and structured Product Requirement Documents (PRDs) or functional specifications without requiring extensive guidance. Strong coordination and communication skills, with the ability to manage multiple stakeholders, including customers, developers, and marketing teams. Familiarity with project management tools such as JIRA, ClickUp, Asana, or equivalent tools. A structured and process-oriented mindset with a strong focus on timely delivery and follow-through. Good-to-Have Skills & Experience Prior experience in EdTech or working with educational institution customers. Exposure to Figma or the ability to read and interpret design wireframes. Experience preparing release notes or customer-facing product communications. Understanding of feature adoption tracking and basic product analytics concepts. Genuine interest in education and the impact of technology on learning outcomes and institutional operations. Role Expectations Own end-to-end delivery across multiple product modules. Ensure effective coordination between Customer Success, Product, Development, and Marketing teams. Focus on feature adoption, stakeholder satisfaction, and overall product experience. Monitor product health through NPS, module adoption rates, and support ticket trends. Application Process Interested candidates can share their updated resume along with a short note describing a program or project they have managed end-to-end. Candidates should also mention how they came to know about the opportunity.\n Required Skills\n ['Requirements Gathering', 'Product Requirement Documents (PRDs)', 'Project Management Tools (JIRA, ClickUp)', 'Stakeholder Management', 'Release Management', 'Feature Adoption Tracking']\nAdditional Information\nna\nSeniority level Not Applicable | Employment type Full-time | Industries Human Resources Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -267657,8 +267657,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -267668,15 +267668,30 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Program Manager at HuntingCube, asks 3-6 yrs, but your experience is ~1.3 yrs.",
+    "fit_notes": "The posting asks for \"3–6 years of experience in a Program Manager, Product Manager, or Business Analyst role\" and the ability to \"independently write clear and structured Product Requirement Documents (PRDs)\". No MBA or consulting is required. Shlok has ~1.3 years of experience, violating the strict max 3-year rule. While his execution and stakeholder management skills map to the requirements, the experience gatekeeper fails.",
+    "pay_notes": "Pay is not stated in the posting, and no credible pay evidence is available in the provided sources.",
+    "culture_notes": "Company stage, funding, headcount, and ratings were not found in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T03:41:10+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "HuntingCube.ai: Transforming AI-Powered Recruitment in India - Business Outreach Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRbWduOHhsRVdPOENPOE82akI5dS1rbWxSMWZNRFBsTzFjU3dwSDkwWmlmbFdqNzRmeGhQYXF5aUpOaTNfOWFWaXNKREtsd3VTMDdEZ2J6SjJ1UTJrMVVQWDZ3aFNpa1BIaDctWUIwWWxnWmRUM3dRVFpB?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -267700,9 +267715,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-26T03:41:10+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The posting asks for 3-6 years of experience, which exceeds Shlok's limit of up to 3 years.)"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30",
+   "updated_at": "2026-11-26T03:41:10+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -267712,7 +267733,8 @@
     "at": "2026-11-25T14:36:31+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting asks for 3-6 years of experience, which exceeds Shlok's limit of up to 3 years."
   },
   {
    "id": "L2073",

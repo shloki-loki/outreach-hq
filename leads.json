@@ -27863,15 +27863,15 @@
    "key": "karix|associate product manager|india",
    "type": "job",
    "company": "Karix",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "karix.com",
+   "company_url": "https://www.Karix.com",
    "company_linkedin": "https://in.linkedin.com/company/karix",
    "company_note": "",
    "title": "Associate Product Manager [ Voice Agentic AI]",
    "tier": "2 - Product / Program / BD",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488670478",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-voice-agentic-ai-at-karix-4488670478",
@@ -27887,7 +27887,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "About the Role: About the Role : We are looking for a Voice Agentic AI Product Specialist to shape, launch, and improve our voice-based AI agents: systems that hold natural spoken conversations, reason over context, call tools, and complete tasks autonomously on behalf of customers. You will sit at the intersection of product, conversation design, and applied AI, turning customer needs into reliable, human-sounding voice AI experiences.\n Key Responsibilities: \n Product Definition & Strategy \n Define use cases, requirements, and success metrics for voice agents (e.g., inbound support, outbound qualification, scheduling, collections, and onboarding).\n Maintain the product roadmap in partnership with engineering, design, and go-to-market teams.\n Translate customer and business problems into clear agent behaviours, guardrails, and escalation paths.\n Agent Design & Optimization \n Design conversation flows, prompts, personas, and tool/function-calling logic for agentic voice workflows.\n Tune the voice stack (ASR, LLM, TTS) for latency, interruption handling, turn-taking, accuracy, and tone.\n Define fallback, handoff-to-human, and compliance behaviours for edge cases.\n Quality, Evaluation & Analytics \n Build evaluation frameworks: test call sets, scorecards, and automated and human review of transcripts and recordings.\n Track KPIs such as task completion rate, containment rate, average handle time, latency, CSAT, and cost per call.\n Run A/B tests and iterate on prompts, models, and workflows based on data.\n Customer & Cross-Functional Collaboration \n Work with customers and internal stakeholders to gather requirements, run pilots, and support deployments.\n Partner with engineering on integrations (telephony, CRM, helpdesk, calendars, internal APIs).\n Create documentation, demos, and enablement material for sales, support, and customers.\n Market & Technology Awareness \n Track developments in speech models, real-time LLMs, agent frameworks, and competitors.\n Recommend build, buy, or partner decisions for new capabilities.\n What You’d have? \n 3+ years in product management, solutions engineering, conversation design, or a similar role; experience with AI or voice products is strongly preferred.\n Hands-on understanding of LLM-based agents: prompting, tool use, RAG, and evaluation.\n Familiarity with voice technologies such as speech-to-text, text-to-speech, telephony (SIP/PSTN, WebRTC), and real-time streaming concepts.\n Strong analytical skills, with comfort in dashboards, call transcripts, and metrics.\n Excellent written and verbal communication, and the ability to explain technical concepts to non-technical audiences.\n Preferred Qualifications \n Experience with contact centre, IVR, or conversational AI platforms.\n Working knowledge of voice AI tooling (e.g., Twilio, Sarvam, LiveKit, Deepgram, ElevenLabs, or similar).\n Basic scripting skills (Python/JavaScript) or API/webhook fluency.\n Why join us? \n Impactful Work : Play a key role in delivering high-quality software products that directly influence user experience, system reliability, and business success across global platforms. \n Tremendous Growth Opportunities : Accelerate your career through challenging projects, continuous learning, and clear advancement paths in a fast-paced, innovative-driven environment.\n Innovative Environment: Thrive in a culture that encourages experimentation, embraces new technologies, and empowers you to bring bold ideas to life.\n Tanla is an equal opportunity employer. We champion diversity and are committed to creating an inclusive environment for all employees.\n www.Karix.com\nSeniority level Associate | Employment type Full-time | Industries Telecommunications",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -27902,8 +27902,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -27913,15 +27913,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Product Manager (Voice Agentic AI) at Karix; asks 3+ yrs; your experience is ~1.3 yrs.",
+    "fit_notes": "The posting asks for '3+ years in product management, solutions engineering, conversation design, or a similar role; experience with AI or voice products is strongly preferred.' While Shlok has strong technical skills (Python, Flask) demonstrated in his technical product internship ([idekho]), his total experience is ~1.3 years, falling short of the 3+ years minimum requirement.",
+    "pay_notes": "Pay not stated in the posting; no salary data found in the evidence.",
+    "culture_notes": "No ratings or reviews found in the evidence. A news flag from Nov 2026 notes Karix Mobile denied any association with an SBI data breach [S1].",
+    "hook": "Karix MD & CEO Deepak Goyal outlined growth plans through 2030, eyeing a 2x increase in India revenue as businesses shift to WhatsApp and AI.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUC02enlTMHFOV0pSZnlyTzc1eTE5TFRlSWhWY2tsWDJKQ01ZQVBzZGtVVEN1MjJPdmRWZGkzTkUyUmRob0IzMkYxMS1GbjdPalBVeGVVSGtuOWJ1VzlERVB6R2tnVjVNLTk2dlpjV2JiNDNGc1V5Sk9OWVRtT3hBNUFMa0xTVF83N1lmclpuaUhtUGhnNDRTZFQxY2RiVldaRzdiMThSeUY?oc=5",
+    "researched_at": "2026-11-25T15:05:45+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Tanla's Karix Mobile denies any association with SBI data breach - ET Telecom",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHFUWFJ5S3B5YUNud2NsaF8zZVc3SkJhMXhXRGVBQ0JlMnJXdFdSeElPakUxcFM3S1JYZHZoWGlhVUE1clNYb1pMQk9wd1JkZ0tJSGM4cVNzTGJDWG1iTTNxLUFKLUlSM1UwZm9wMHZYN3NWQU9zbkdTdm1yMmJNS2lDcWdjTm51UDhvRms3ZC1uc2l3Yi1WbFRMc2VyTHhMTkdXQmpVYS0wUzQxQ2NHQ0NKLTJRQUYxZFdCX3hUOXpqb2PSAcgBQVVfeXFMUDhoZU9RWU04SlpYSGo3cFRQVERFSkRETmFpUUI2SjFLWFAxdGdWQjR1VENhVTBzVEZhdm9MTWZSOEZtdWFEazNuUU1IbVdubjlwemhyZkJyQTJScWJJdU5jXzhnOUdfckQtb18zcU9VX3AtYUZhVlROVGNxN0lyZzFqNC1RNEwtd0lYUEl1amlzd3QyRE83UDY0cWtrTVZxNGtUY2NHRDdYRUxSWEllMmJ1N1hHaXEtM2k3LVdzTlJfdk1jYVVjTFQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "“We would be looking at doubling our revenues in India.” Karix MD & CEO Deepak Goyal outlines the company’s growth plans through 2030, including expansion into new global markets after its KSA acquisition. #GFF2026 #FintechStudio #CNBCTV18 #Karix - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUC02enlTMHFOV0pSZnlyTzc1eTE5TFRlSWhWY2tsWDJKQ01ZQVBzZGtVVEN1MjJPdmRWZGkzTkUyUmRob0IzMkYxMS1GbjdPalBVeGVVSGtuOWJ1VzlERVB6R2tnVjVNLTk2dlpjV2JiNDNGc1V5Sk9OWVRtT3hBNUFMa0xTVF83N1lmclpuaUhtUGhnNDRTZFQxY2RiVldaRzdiMThSeUY?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "AI, trust and digital transformation shape fintech conversations at Karix presents CNBC-TV18 Fintech Studio... - Forbes India",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ1YzQ29zeFhoZHdMM0pXZE9qV1ZFYWgyNjRLb0tscGNJNEJYZF9fOGl3a29hNzdhdTh5ckNRM2k2MXVRb01jQ1kzSTNuQUhyUlM1dHFyTmJQLVltT2dZNHk2SldWV1RJN19NRmFobjRXcUVURTdtRXlMRWhrYjlrcmlvV3VvRGR3dlJDZ2R3TVF3Mms5a1RRTEJOWFdOTmdjR29jajA2bTE3T2NUdW1KeVZZZTVFQUxzWGpEdDUwQzlGQzJxTERvYzNxVFpRMGEtMFFkM1FLMHBnWDJRMHpJeUlEcTFnN0hCOUhNNXdwYjFjS0pXdjQySk5zNUVfeFZWbzlHa3BJbWhoZ9IBjwJBVV95cUxQVlVOeXlyUG16QjVHcEJfdFYyejNGWE85bUptYzhZbnRlR1N6bnFTZnJmbVU0MWNvdFFnOXo0bjFnUmc0ZUU0TVJSeWtVU2xPV3hPbE1ZMmdtVkI4NTlxRENReEt3c2l5Yks1NkpKOFJJcFhUTkVNcjd0aXFwZ0xvOTdHNWtULThnWkVlemVXT0twZjhnZ0F0LUp1X1RrX2d2WjBKU21Tb3pGaVhDcXdEUThOZHdOajVqRGsyNDhvUG9aUTM4aWNncTFESGlUZ2RPaVlaZUNkS2pUanlISGpZbkVhNDlVelZIODRTcEg3SUhrZHdrOW5SSkRld18zMHJ4UFJtZ1c4VFNfWERuaV9V?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "GFF 2026: Karix eyes 2x India revenue by 2030 as businesses shift to WhatsApp, AI - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcUdUd3hjSTZ0anhMYnppTUtDbnZmTGJXcHUzYy1VNE5LWVo5a3RaUW14bURjYjBkR3J3WXFZLVlzbTJnWVlEVmFYMElsZmVGbEVIMHdnazEzTzNuLVJ0eDF5SXRNanVyWmZEM1VJczhKWGdTa25KLXJvNEx6VENTNG5ra1V2STBJclM2XzZKZ3RoRjZ3RnE2d2RHNTlHejkxMXFxcWpEVm9pOTFH0gGyAUFVX3lxTFBGazRQa05tSzhGSTZfb21BUEVSdkhDSUc2VlpMdTJ3SVJQejNOQjgxb3JlaHlyQ0pvamFMSVBrVlllTVZJaWVqbWZiekY1azZQYTRXbWwyMkgtZnBlOFQtOE5nTFRJV3h1Vy0wZ2dpcFBtN3g4cGRNSTlNY0UzQ3pzblhYVFp2amh1Z3NNUUJpQ3RoVTQ2ME9ZZUhYSG1JVzk2dFBQZGhzR0pDdjBIWGlvVkE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Uma Singh Elevated to Senior Director – Human Resources at Karix - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaTZFc0ZmWXZsdVZPbDlVQVI2RDdfb2lzNm9rRnhGOXB0SzgxQUQyMkdLWUctZEpTZnpReFBVTkxLUm9oaVptQm1sMW0zc3NFU1hpWlNSUGtWRTE0a3N2cFB6bHVrdTBtZWFuNU5RWGF1OTRmNktxUzlmU0Q2aDh2ZEV2VTIyTmx3V0E?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "“This is going to be driven by AI.” Karix MD & CEO Deepak Goyal on how AI is shaping conversational messaging, enabling contextual communication and helping detect and block scam messages. #GFF2026 #FintechStudio #CNBCTV18 #Karix #Fintech #AI - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGdIbjJsemdJbFlzYmdEQ2cxdVBOZWRrSkNkelB6alJVOUJjb3N1d191US02UjU5ZDU3NHpfVndFYUw2NTJZak9rbEdoOFZ5eWZlcGF3SnRWTGFrNXFWWUo4SU01MUc3UmIySTVSZ09ESmw2TFNORTgzd25VZVFVNFd5UnFWOXZKM1h4djlzM1Q3WHBfTmV1MVlPUy1uaGVXUDNZOF8wSi0?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -27945,14 +27985,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-25T15:05:45+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The role requires 3+ years of experience in product management, solutions engineering, or conversation design, which exceeds Shlok's ~1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-25T15:05:45+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role requires 3+ years of experience in product management, solutions engineering, or conversation design, which exceeds Shlok's ~1.3 years of experience."
   },
   {
    "id": "L0192",

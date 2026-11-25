@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-23T11:40:20+05:30",
-   "agent": "follow-up",
-   "ok": true,
-   "summary": "0 follow-ups drafted, 3 replies flagged (Origin L1360 and Helium Air L0014 already noted; Boombox L0445 decline noted), 0 bounces handled",
-   "stats": {}
-  },
-  {
    "at": "2026-11-23T11:45:26+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3539,6 +3532,13 @@
     "settled": 0,
     "followups_due": 66
    }
+  },
+  {
+   "at": "2026-11-26T02:24:10+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 132 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

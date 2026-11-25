@@ -9881,6 +9881,11 @@
      "at": "2026-11-20T15:36:08+05:30",
      "by": "send-track",
      "text": "No application kit: the Greenhouse posting returns 404 (job not found) on 2026-11-20, so the role looks closed. Check the careers page before doing more."
+    },
+    {
+     "at": "2026-11-25T13:34:08+05:30",
+     "by": "send-track",
+     "text": "Send-track 25 Nov: Greenhouse API returns 404 for this posting; likely closed. No application kit made."
     }
    ],
    "timeline": [
@@ -9903,7 +9908,7 @@
      "detail": "no longer on the company's job board"
     }
    ],
-   "updated_at": "2026-11-20T15:36:08+05:30",
+   "updated_at": "2026-11-25T13:34:08+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",

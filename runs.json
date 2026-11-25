@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-22T21:45:14+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-22T21:45:23+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3482,6 +3469,13 @@
     "sent": 8,
     "failed": 2
    }
+  },
+  {
+   "at": "2026-11-25T13:42:57+05:30",
+   "agent": "follow-up",
+   "ok": true,
+   "summary": "55 follow-ups drafted (all followup1, founder_reoutreach, awaiting approval; used a different profile fact per lead, no per-company news search done), 8 replies flagged (6 earlier notes + 91trucks and HairOriginals added this run), 0 bounces handled",
+   "stats": {}
   }
  ]
 }

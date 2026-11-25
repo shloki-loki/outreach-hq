@@ -79523,9 +79523,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Serge Maskalik queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-25T14:29:05+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Allwyn Sequeira"
     }
    ],
-   "updated_at": "2026-11-25T13:45:26+05:30",
+   "updated_at": "2026-11-25T14:29:05+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

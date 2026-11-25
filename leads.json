@@ -65341,9 +65341,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Jitender Bedwal"
+    },
+    {
+     "at": "2026-11-25T17:14:01+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup1 email to Nikhil Tripathi"
     }
    ],
-   "updated_at": "2026-11-25T16:35:49+05:30",
+   "updated_at": "2026-11-25T17:14:01+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

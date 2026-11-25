@@ -19396,6 +19396,34 @@
    "thread_parent": "<179535473382.70829.6206689441253654376@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0645",
+   "lead_id": "L0468",
+   "contact_id": "C1",
+   "to": "naga.samineni@metakeep.xyz",
+   "to_name": "Naga R Samineni",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Naga,\n\nOne more thing that may be relevant at MetaKeep: I set up SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Is material planning still handled by hand there?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-25T13:37:51+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179535484074.70829.884862919586469957@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

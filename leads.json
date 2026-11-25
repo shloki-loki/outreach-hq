@@ -76645,9 +76645,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Vivek Kumar"
+    },
+    {
+     "at": "2026-11-25T15:11:42+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Ashutosh Pathak"
     }
    ],
-   "updated_at": "2026-11-25T13:37:44+05:30",
+   "updated_at": "2026-11-25T15:11:42+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

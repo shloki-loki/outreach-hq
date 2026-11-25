@@ -89484,9 +89484,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Prateek Garg queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-25T17:45:22+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Rishabh Nagpal queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-25T15:45:25+05:30",
+   "updated_at": "2026-11-25T17:45:22+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

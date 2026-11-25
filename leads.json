@@ -41759,7 +41759,7 @@
    "key": "algouniversity|founder s office|bengaluru",
    "type": "company",
    "company": "AlgoUniversity",
-   "company_domain": "",
+   "company_domain": "algouniversity.com",
    "company_url": "http://algouniversity.com/",
    "company_linkedin": "https://www.linkedin.com/company/algouniversity",
    "company_note": "YC Summer 2021 · team of 40 · Building Job driven Virtual Tech University for India 🇮🇳",
@@ -41767,7 +41767,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "algouniversity:company",
    "source_url": "https://www.ycombinator.com/companies/algouniversity",
@@ -41783,7 +41783,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "We are building live teaching infrastructure that enables handful of top educators (from Google, Facebook, etc) to coach a large number of students.\r\nWe train college students in a year-long live cohorts and they pay us a portion of their salary as fees once they get a tech job (Income Sharing Agreement)",
+   "jd": "AlgoUniversity: Building Job driven Virtual Tech University for India 🇮🇳 | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › AlgoUniversity \n AlgoUniversity\n Building Job driven Virtual Tech University for India 🇮🇳\n Y Combinator Logo Summer 2021 \nActive\n Education\n Income Share Agreements\n eLearning\n Company \n Jobs 6 \n http://algouniversity.com/\n Building Job driven Virtual Tech University for India 🇮🇳\n We are building live teaching infrastructure that enables handful of top educators (from Google, Facebook, etc) to coach a large number of students.\r\nWe train college students in a year-long live cohorts and they pay us a portion of their salary as fees once they get a tech job (Income Sharing Agreement)\n Active Founders\n Manas Kumar Verma Founder\n Manas Kumar Verma Founder\n Swapnil Daga Founder\n Co-Founder at AlgoUniversity (S21)\nI previously worked as an SRE intern at Google, and as an SWE at Apple after graduating from university. I have an extensive teaching experience and have previously taught in other edtech startups as lead instructor for over 2 years, with my students bagging offers from Google, Microsoft, Bytedance etc. I look after scaling the teaching infrastructure at AlgoUniversity.\n Swapnil Daga Founder\n Co-Founder at AlgoUniversity (S21)\nI previously worked as an SRE intern at Google, and as an SWE at Apple after graduating from university. I have an extensive teaching experience and have previously taught in other edtech startups as lead instructor for over 2 years, with my students bagging offers from Google, Microsoft, Bytedance etc. I look after scaling the teaching infrastructure at AlgoUniversity.\n Jobs at AlgoUniversity\n View all jobs \n CEO's Office \n Hyderabad, Telangana, India\n ₹400K - ₹1M INR\n Any\n Apply Now › \n Digital Marketing Specialist \n Hyderabad, TS, IN\n ₹300K - ₹1M INR\n 1+ years\n Apply Now › \n Visual Communication Designer \n Hyderabad, TS, IN / Remote\n ₹300K - ₹1M INR\n 1+ years\n Apply Now › \n Business Development Associate \n Hyderabad, Telangana, India\n ₹600K - ₹1.5M INR\n Any (new grads ok)\n Apply Now › \n Community Growth & Partnerships \n Hyderabad, TS, IN / Hyderabad, Telangana, IN\n ₹600K - ₹1M INR\n 1+ years\n Apply Now › \n AlgoUniversity \n Founded: 2020 \n Batch: Summer 2021 \n Team Size: 40 \n Status: \nActive \n Location: Bengaluru, India \n Primary Partner: Diana Hu \n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -41798,8 +41798,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -41809,15 +41809,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office speculative note at AlgoUniversity (YC S21); no active Bengaluru role listed and company pay tops out below target.",
+    "fit_notes": "The lead is a speculative outreach note to founders with no specific years stated. While Shlok's direct work with Ola Electric's CEO/COO [ceo-coo, sop] fits Founder's Office responsibilities, AlgoUniversity has no active Bengaluru opening for this role.",
+    "pay_notes": "No pay is stated for this speculative lead. The company's listed roles on YC (including CEO's Office) range between ₹4L - ₹15L INR, far below Shlok's ₹24.5 LPA threshold.",
+    "culture_notes": "Team size of 40, YC Summer 2021 batch. No ratings found on Glassdoor or AmbitionBox.",
+    "hook": "AlgoUniversity's live teaching infrastructure enabling top tech educators to coach students via Income Sharing Agreements.",
+    "hook_source": "http://algouniversity.com/",
+    "researched_at": "2026-11-25T14:49:23+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "AlgoUniversity website",
+      "url": "http://algouniversity.com/"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -41868,9 +41884,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-25T14:49:23+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (Speculative note with no named active role in Bengaluru; listed CEO's Office role is in Hyderabad paying ₹4L-₹10L INR, well below the ₹24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-25T14:49:23+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -41880,7 +41902,8 @@
     "at": "2026-11-24T02:27:58+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Speculative note with no named active role in Bengaluru; listed CEO's Office role is in Hyderabad paying ₹4L-₹10L INR, well below the ₹24.5 LPA threshold."
   },
   {
    "id": "L0295",

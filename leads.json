@@ -65092,9 +65092,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Naveen Jindal"
+    },
+    {
+     "at": "2026-11-25T17:12:35+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup1 email to Alok Thakur"
     }
    ],
-   "updated_at": "2026-11-25T16:37:26+05:30",
+   "updated_at": "2026-11-25T17:12:35+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

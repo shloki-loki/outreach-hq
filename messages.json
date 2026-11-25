@@ -20152,6 +20152,34 @@
    "thread_parent": "<179535866282.74684.10881344261114145448@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0672",
+   "lead_id": "L0510",
+   "contact_id": "C3",
+   "to": "girish@zotok.ai",
+   "to_name": "Girish Kasliwal",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Girish,\n\nOne more thing that may be relevant at Zötok: I drove production planning for a cell line launch where yield went from 42% to 67% in two months. Is scaling production something you're working through?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-25T13:40:49+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179541130024.2973.4888328331039355195@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

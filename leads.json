@@ -54827,9 +54827,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup1 to Mayank Goyal queued (template)"
+    },
+    {
+     "at": "2026-11-25T10:08:22+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Anand Prajapati"
     }
    ],
-   "updated_at": "2026-11-25T00:05:29+05:30",
+   "updated_at": "2026-11-25T10:08:22+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

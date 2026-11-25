@@ -271343,15 +271343,15 @@
    "key": "mirafra|technical program manager|bengaluru",
    "type": "job",
    "company": "Mirafra Technologies",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "mirafra.com",
+   "company_url": "https://www.mirafra.com",
    "company_linkedin": "https://in.linkedin.com/company/mirafra-technologies",
    "company_note": "",
    "title": "Technical Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493594592",
    "source_url": "https://in.linkedin.com/jobs/view/technical-program-manager-at-mirafra-technologies-4493594592",
@@ -271367,7 +271367,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-25",
    "open": true,
-   "jd": "",
+   "jd": "Job Title: Technical Program Manager – VLSI / ASIC Design\n Role Overview \n We are seeking an experienced Technical Program Manager to lead end-to-end silicon development programs from architecture definition through tape-out and post-silicon validation. You will coordinate cross-functional engineering teams—including RTL Design, Design Verification (DV), Physical Design (PD), DFT, and Firmware—to deliver complex SoC/ASIC projects on schedule and within PPA (Power, Performance, Area) targets.\n Key Responsibilities \n End-to-End Program Execution. Drive project planning, milestone tracking, resource allocation, and execution across all phases of the ASIC/SoC lifecycle.\n Cross-Functional Coordination. Align dependencies across frontend (RTL, DV), backend (Synthesis, P&R, STA, Physical Verification), IP vendors, and foundry partners.\n Risk & Schedule Management. Identify technical and schedule bottlenecks early, build mitigation plans, and manage critical path items leading up to RTL freeze and GDSII tape-out.\n Stakeholder & Customer Reporting. Establish clear governance, track KPIs (bug burn-down, coverage metrics, timing closure), and present status updates to executive leadership and clients. [1, 2]\n Process & Tooling Optimization. Standardize project tracking workflows using tools like Jira, Confluence, MS Project, or Cliosoft/Perforce.\n Required Qualifications \n Education. B.E./B.Tech or M.E./M.Tech in Electronics, Electrical Engineering, VLSI, or a related field.\n Technical Background. Prior hands-on engineering experience in at least one core VLSI domain (RTL Design, Verification, Physical Design, or DFT).\n Domain Knowledge. Deep understanding of the ASIC flow, EDA toolchains, technology nodes (e.g., 7nm, 5nm, 3nm), and tape-out checklists.\n Project Management Skills. Proven track record of managing multiple complex tape-outs or semiconductor IP deliveries.\n Communication. Strong leadership, negotiation, and stakeholder management abilities across global engineering teams\nSeniority level Associate | Employment type Full-time | Industries Semiconductor Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -271382,8 +271382,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -271393,15 +271393,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Technical Program Manager for VLSI/ASIC at Mirafra, but requires hands-on semiconductor tape-out experience you lack.",
+    "fit_notes": "The posting asks for 'hands-on engineering experience in at least one core VLSI domain (RTL Design, Verification, Physical Design, or DFT)' and a 'proven track record of managing multiple complex tape-outs or semiconductor IP deliveries.' It also requires a B.E./B.Tech or M.E./M.Tech in Electronics, Electrical Engineering, VLSI, or a related field (he has B.Tech in Electrical and Electronics Engineering). However, Shlok has no VLSI design or tape-out experience; his facts ([cell], [msl]) cover cell production planning and inventory, not chip design or semiconductor program management.",
+    "pay_notes": "Pay is not stated in the posting.",
+    "culture_notes": "No company website or reviews found for Mirafra Technologies in the provided search notes.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T03:44:54+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -271425,9 +271432,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-26T03:44:54+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The role requires deep hands-on VLSI domain experience (RTL Design, DV, PD, or DFT) and managing semiconductor tape-outs, which does not match Shlok's S&OP and supply chain background.)"
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30"
+   "updated_at": "2026-11-26T03:44:54+05:30",
+   "reject_reason": "The role requires deep hands-on VLSI domain experience (RTL Design, DV, PD, or DFT) and managing semiconductor tape-outs, which does not match Shlok's S&OP and supply chain background."
   },
   {
    "id": "L2107",

@@ -268315,9 +268315,15 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 61: qualified"
+    },
+    {
+     "at": "2026-11-26T03:47:19+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-26T03:41:43+05:30",
+   "updated_at": "2026-11-26T03:47:19+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -268328,7 +268334,8 @@
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
    },
-   "reject_reason": null
+   "reject_reason": null,
+   "people_searched_at": "2026-11-26T03:47:19+05:30"
   },
   {
    "id": "L2078",

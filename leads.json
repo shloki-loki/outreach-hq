@@ -270347,15 +270347,15 @@
    "key": "indmoney|founder s office growth and strategic initiatives|india",
    "type": "job",
    "company": "INDmoney",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "indmoney.com",
+   "company_url": "https://indmoney.com",
    "company_linkedin": "https://in.linkedin.com/company/indmoney",
    "company_note": "",
    "title": "Founder's Office – Growth & Strategic Initiatives",
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494611189",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-%E2%80%93-growth-strategic-initiatives-at-indmoney-4494611189",
@@ -270371,7 +270371,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-26",
    "open": true,
-   "jd": "",
+   "jd": "The Founder's Office at INDmoney is a small, high-intensity team that works directly with the Founder and Chief of Staff to identify, design, and execute the company's most critical strategic focus areas - across growth, new business lines, operational scale, market expansion & improving talent density. \n If you have ever wanted to build something from scratch, own a problem end-to-end, and see your decisions translate into outcomes within weeks rather than quarters - this is that opportunity. \n Founders Office roles at INDmoney have gone on to lead business units, head new verticals, and start new ventures. This is a stepping stone - one that compresses years of learning into months. \n Role : \n You will own high-stakes clear problem statements - new product lines, new markets, operational bottlenecks, scaled processes, competitive strategies, organisation design.\n Work alongside the Founder and Chief of Staff defining various solutions through to execution - you are not preparing decks for someone else to act on.\n Move fast across multiple simultaneous workstreams without losing rigour on any of them.\n Ability to interface with external stakeholders - partners, investors, regulators, vendors — and drive outcomes\n You are a strong fit if: \n You have a clear entrepreneurial ambition — you want to eventually run something of your own or lead a business unit, and you recognise that this role is how you compress that learning curve\n You solve problems by going to the data first — you are not comfortable with a hypothesis you cannot test or a claim you cannot quantify\n You operate well in ambiguity — you do not need a fully defined brief to start; you define the brief yourself\n You have a bias for action that borders on impatience — you find it uncomfortable when a good idea sits still\n You can influence people who do not report to you and bring stakeholders along without needing formal authority\n What we are looking for: \n 3–7 years of experience in fintech, or management consulting in Financial Services domain. Do note that financial services/ FinTech/ Investment Tech/ Trading / Capital markets/ Payments/ Wealth Tech background is a must.\n Demonstrated ability to own a problem end-to-end — not just analyse it\n Strong familiarity with financial services, investments, or capital markets — either professionally or as a serious personal practitioner\n Sharp quantitative and analytical skills — you are comfortable building models, interrogating data, and defending your numbers\n Exceptional project management instincts — you can run five things in parallel and know which one needs your attention right now\n Education: Engineering degree or MBA from a top-tier institution. What matters more than the institution is what you have done since.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Financial Services, Technology, Information and Media, and Information Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -270386,8 +270386,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -270397,15 +270397,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at INDmoney, but asks 3-7 yrs fintech/consulting experience you do not have.",
+    "fit_notes": "The posting asks for \"3–7 years of experience in fintech, or management consulting in Financial Services domain. Do note that financial services/ FinTech/ Investment Tech/ Trading / Capital markets/ Payments/ Wealth Tech background is a must.\" and \"Engineering degree or MBA from a top-tier institution.\" Shlok has about 1.3 years of experience, no financial services or consulting background, and no MBA.",
+    "pay_notes": "Pay not stated in the posting, and no concrete salary figures were found in the evidence.",
+    "culture_notes": "Ratings, employee counts, and structured culture reviews were not found in the evidence. Recent news indicates INDmoney saw a surge as retail investors rushed to buy Anthropic shares after its Nasdaq debut [S1].",
+    "hook": "INDmoney recently saw a surge as Indian retail investors rushed to buy Anthropic shares after its Nasdaq debut.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMlFKaEVJVUw1eGhsOUE2OG44Q3lmeUN2LTl4SlVRZ19RUWwtQTE1S1VKYlVmRTZRMGRRSlYtU2Z3dVpBNGVGOXdyU2VvLWk2eTZlVDRrSzAxcmgzTXo1OXdzRkY2dFpxV0lLWDFHVnV1V09TOVFoTGc4WGRjOGJxSWtVakZMM09RNEpsd0stWXRRbzlOb25QQWVwSkNKWFFZWkl5dXVXRFRsYTduaWZ2WjhqQjNBNnJ1MmVkalNjSG9TMGlLWDY3TnJfZ1lVT2R4TkJFZQ?oc=5",
+    "researched_at": "2026-11-26T03:42:19+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Indian Retail Investors Rush To Buy Anthropic Shares After Nasdaq Debut; Mudrex, INDmoney See Surge - BW Disrupt",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMlFKaEVJVUw1eGhsOUE2OG44Q3lmeUN2LTl4SlVRZ19RUWwtQTE1S1VKYlVmRTZRMGRRSlYtU2Z3dVpBNGVGOXdyU2VvLWk2eTZlVDRrSzAxcmgzTXo1OXdzRkY2dFpxV0lLWDFHVnV1V09TOVFoTGc4WGRjOGJxSWtVakZMM09RNEpsd0stWXRRbzlOb25QQWVwSkNKWFFZWkl5dXVXRFRsYTduaWZ2WjhqQjNBNnJ1MmVkalNjSG9TMGlLWDY3TnJfZ1lVT2R4TkJFZQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -270429,9 +270442,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-26T03:42:19+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The posting asks for \"3–7 years of experience in fintech, or management consulting in Financial Services domain\" and an \"Engineering degree or MBA\", whereas Shlok has about 1.3 years of experience and no financial services or consulting background.)"
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30"
+   "updated_at": "2026-11-26T03:42:19+05:30",
+   "reject_reason": "The posting asks for \"3–7 years of experience in fintech, or management consulting in Financial Services domain\" and an \"Engineering degree or MBA\", whereas Shlok has about 1.3 years of experience and no financial services or consulting background."
   },
   {
    "id": "L2098",

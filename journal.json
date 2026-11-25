@@ -11681,6 +11681,15 @@
    "title": "research-worker 25 Nov 15:06 failed: Gemini 503 and free quota exhausted",
    "detail": "research-worker run at 15:06 IST marked failed: 27 researched (0 qualified, 27 rejected), 12 errors, first Gemini HTTP 503 high demand. The writer at 15:07 then stopped with 0 drafts because the free quota was used up on gemini-3.5 to 3.8-flash. 0 qualified leads from research for the 3rd day running.",
    "ref": "I0111"
+  },
+  {
+   "id": "J1299",
+   "at": "2026-11-25T20:12:33+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: research-worker 25 Nov 15:06 failed: Gemini 503 and free quota exhausted",
+   "detail": "Cause: Gemini free-tier overload (503) and daily quota spent by the 15:06 research run, so the writer had nothing to draft with. Remedy: it resets tomorrow; to avoid repeats spread research across fewer leads per run or add a paid/second model key. Nothing lost; the 55 follow-ups were drafted earlier at 13:42.",
+   "ref": "I0111"
   }
  ]
 }

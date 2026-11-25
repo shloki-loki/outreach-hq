@@ -261453,8 +261453,8 @@
    "key": "google|technical program manager ai products ism product operations|bengaluru",
    "type": "job",
    "company": "Google",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "google.com",
+   "company_url": "https://www.google.com",
    "company_linkedin": "https://www.linkedin.com/company/google",
    "company_note": "",
    "title": "Technical Program Manager, AI Products, ISM Product Operations",
@@ -261484,16 +261484,16 @@
    "stretch": false,
    "pay": {
     "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "min_lpa": 26,
+    "max_lpa": 30,
+    "basis": "estimate",
+    "source": "Levels.fyi Google TPM L3 Bengaluru (Jan 2026 snapshot): avg total ~$29.4K-equivalent per search summary is unclear; base ~$22.3K, small sample, total pay incl. stock",
+    "fit": "In range (estimate)"
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 38,
+    "total": 46,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -261503,15 +261503,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
+    "done": true,
+    "headline": "Google TPM, AI Products (ISM Product Ops), Bengaluru, 1 yr min: wants AngularJS and gen-AI agent experience; est. base below Rs 24.5L.",
+    "fit_notes": "Read LinkedIn guest posting 2026-11-25 (21h old, 48 applicants). Supply-chain automation scope maps to MRP/Python work, but minimum quals ask AngularJS and gen-AI agents.",
+    "pay_notes": "Search summary only, not read on the page; low confidence. Fixed likely under the floor.",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T13:36:03+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -261535,14 +261537,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-25T13:36:03+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 46: rejected (Minimum quals include AngularJS app development and gen-AI agents, none in profile; estimated fixed pay below floor)"
     }
    ],
-   "updated_at": "2026-11-24T17:20:44+05:30",
+   "updated_at": "2026-11-25T13:36:03+05:30",
    "research_attempt": {
     "at": "2026-11-25T04:30:44+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Minimum quals include AngularJS app development and gen-AI agents, none in profile; estimated fixed pay below floor"
   },
   {
    "id": "L2054",

@@ -270763,7 +270763,12 @@
      "detail": "linkedin: rule score 59"
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30"
+   "updated_at": "2026-11-25T16:12:37+05:30",
+   "research_attempt": {
+    "at": "2026-11-26T03:43:32+05:30",
+    "why": "model answer failed the checks: pay basis is 'stated' but the posting states no figure; use estimate or unknown",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L2101",

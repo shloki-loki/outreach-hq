@@ -55331,9 +55331,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Saransh Garg"
+    },
+    {
+     "at": "2026-11-25T12:25:19+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Yash Gupta"
     }
    ],
-   "updated_at": "2026-11-24T18:37:51+05:30",
+   "updated_at": "2026-11-25T12:25:19+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

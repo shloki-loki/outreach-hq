@@ -11645,6 +11645,15 @@
    "title": "Diagnosis: Sending M0115 failed",
    "detail": "Cause: Gmail SMTP dropped the connection mid-send (timeout) at 11:39 on 25 Nov; same pattern as I0102-I0104 on 24 Nov. Nothing was lost; 130 emails went out later today without failures. Remedy for Shlok: press Retry on M0115 on the Approvals page. If it keeps happening, the sender should retry SMTP once on disconnect.",
    "ref": "I0107"
+  },
+  {
+   "id": "J1295",
+   "at": "2026-11-25T20:11:59+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Sending M0116 failed",
+   "detail": "Same cause as I0107: SMTP read timeout at 12:10 on 25 Nov for M0116. Remedy for Shlok: press Retry on M0116 (Approvals page). Third day of occasional SMTP timeouts, so a code-level retry is worth adding in a coding session.",
+   "ref": "I0108"
   }
  ]
 }

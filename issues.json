@@ -1509,7 +1509,7 @@
    "opened_at": "2026-11-25T12:10:02+05:30",
    "last_seen": "2026-11-25T12:10:02+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Same cause as I0107: SMTP read timeout at 12:10 on 25 Nov for M0116. Remedy for Shlok: press Retry on M0116 (Approvals page). Third day of occasional SMTP timeouts, so a code-level retry is worth adding in a coding session.",
    "resolved_at": null
   },
   {

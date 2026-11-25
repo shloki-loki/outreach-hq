@@ -23281,15 +23281,15 @@
    "key": "amazon|program manager i flex advocacy operations|india",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.jobs",
+   "company_url": "https://amazon.jobs",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Program Manager I, Flex Advocacy Operations",
    "tier": "2 - Product / Program / BD",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4472773762",
    "source_url": "https://in.linkedin.com/jobs/view/program-manager-i-flex-advocacy-operations-at-amazon-4472773762",
@@ -23305,7 +23305,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Description\n The Amazon Flex program uses independent drivers—called delivery partners—to deliver to our customers. Through the Amazon Flex app, drivers sign up for the program, schedule pickup times, are guided during routes with the navigation system, and more.\nAs the Amazon Flex Program Manager, you will be responsible for the strategy and initiatives aimed at improving the quality and efficiency of the deliveries carried out by the program. To achieve your goals, you'll work with diverse areas of the organization, including technology, operations, and marketing. A successful program manager will work to enhance the experience of hundreds of drivers, both within operations and when carrying out delivery routes, through data analysis, identifying obstacles and problem spots, and implementing effective and well-defined standards. These improvements must be balanced with business needs and take into account key operational metrics. Effective stakeholder management skills are essential to balance these competing priorities and delivering effective solutions for our customers and drivers.\nKey job responsibilities\nSupport long-term strategic planning to improve quality and efficiency.\n Work closely with the areas of finance, marketing, capacity management, operations, engineering, and program management on process improvement and launch initiatives.\n Develop, implement, and oversee reports, ensuring clear visibility of project milestones and performance.\n Effectively influence stakeholders through collaboration and effective prioritization.\n Be responsible for key performance indicators and work closely with stakeholders to understand everyday opportunities and challenges in order to implement short and long-term solutions.\n Monitor the execution of projects and ensure that the delivery is at the appropriate quality level and in compliance with the expected deadline.\n Navigate and resolve ambiguities by applying creative problem solving skills.\n Identify and mitigate risks, preventing them from becoming larger problems.\n About The Team\n Amazon Flex's Advocacy Operations (AO) team is seeking a highly skilled and motivated Program Manager to lead the planning, coordination, and delivery of Amazon Flex programs and initiatives worldwide. As a Program Manager, you will be responsible for defining and executing the program roadmap for the Advocacy Operations, translating strategic goals into structured programs, aligning stakeholders, and driving initiatives to completion across a complex, multi-marketplace landscape.\nYou will own programs end to end, shaping the charter and success metrics, building mechanisms and roadmaps, managing dependencies and risks, and reporting progress to senior leadership. Throughout this process you will drive continuous innovation and improvement to deliver fast, easy, and rich functionality that supports a best-in-class Delivery Partner (DP) and customer experience. A critical part of this role is working across teams and marketplaces. You will partner with Operations, Analytics, Tech/Product, Finance, Legal, and Compliance stakeholders, and coordinate with regional teams across worldwide Flex-enabled marketplaces (US, CA, UK, IN, JP, AU, SG, MX, BR), to align priorities, drive consistent execution, and land programs that scale globally while respecting local nuances. You will lead through influence rather than direct authority aligned on shared goals across DP lifecycle, bulk communications, compliance workflows, and programmatic support.\nYou will play a pivotal role in defining and delivering strategic automation initiatives, identifying opportunities to build long-term, scalable solutions that eliminate manual work without negatively impacting the DP experience. You will establish the mechanisms, standards, and reporting cadences that keep programs on track and give leadership clear visibility into progress, risks, and outcomes.\n Basic Qualifications\n 2+ years of program or project management experience\n 3+ years of advanced Microsoft Word and Excel experience\n Work a flexible schedule/shift/work area, including weekends, nights, and/or holidays\n Knowledge of SQL\n Preferred Qualifications\n Knowledge of Lean principles and DMAIC methodology\n Experience in MS Access and SQL\n Experience in requirement gathering and ability to write clear and detailed requirement document\n Experience working in an analytical environment with cross-functional teams\n Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n Company - ADCI HYD 13 SEZ - H84\nJob ID: A10523744\nSeniority level Mid-Senior level | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -23320,8 +23320,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -23331,15 +23331,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Program Manager I at Amazon Flex Advocacy in Hyderabad, asks 2+ yrs; your S&OP and supply chain execution map well, but it is outside Bengaluru.",
+    "fit_notes": "The posting asks for \"2+ years of program or project management experience\" and \"Knowledge of SQL\". Shlok has ~1.3 years of experience. His facts on S&OP and supply chain execution ([sop], [ceo-coo]) map to program management, but the location is Hyderabad (onsite) and he requires Bengaluru or remote-first.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "Amazon company culture is well known, but no specific team ratings or pay evidence were found in the provided snippets.",
+    "hook": "Amazon recently announced plans to invest an additional $13 billion in India cloud and AI infrastructure.",
+    "hook_source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjc3RVFRSkZPMUtsVDFNeXp3cFl5dnZ0LVVSd0x6VjlrdXdWUkxmZ1RsQUN4ZTZnbVlSb2w5bDd1UGhoOTBxcXlaS2Y5QkJJNWJJTDVoZkFXYUlLRl85MWhkcUFTcjVLT0VvbVlhaElvZFRqWWU1aXBYV1QzLW1fdnl6RnRXc05qeEZsRGVwYzFydzg?oc=5",
+    "researched_at": "2026-11-25T14:57:34+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "YouTube Shopping Creators can now tag Amazon products - blog.youtube",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOThsdTdVT1hwNy1HSXliRXZoWmdWdWoxMElBUjE4TXZ6WnAyQktvRjhtZ3U4ekxlcWJwWnNwcE9WZi0yX2paMGtpRmJhaFZnZGd3LUdyUGVRa3AxcHlUcG1VbE1QUkRpSU5OWEpXSUdjS3dKclpPVU5WY0IycDQzeWc5allIR1E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amazon points to water conservation steps in India amid data centre scrutiny - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXIyRTE5NU9hVTA0ZXhQQ0tsQUF5bjdRUkZYUjg2OE9lbzMtdGJ2d3Vfa3lnMkZaamg3Q3FXdnpiTUk4Nm1YLUdWdTdSaFdiTDVSNHZpcVplQ3p2WDdFV2FoOW5hOFBnYk5ZQUFKUU9KQ0ViekFOcEcwQVUtRnhGLVo4cjdZU2pFVzZOMkVVWWdmZms3TGw3c1kwR0drd0xuUzFPYjNMYmpxV0ctRm1TS2cxMEFXMG9MUmc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Amazon carbon emissions driven by human actions amplified by droughts - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXZ09WT24wYkkybFV3d3hRSF9GVkxvbWNGMm1HWlFVamlmTkhnUkxnWXhaam83S3dycGc3TXVKTDVycVkycERKVUZJRnA1LUZuSzZWcmpDWEF0ZVJQZWg0?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "MCP Auto-Execution: From Git Clone to Cloud Compromise in Amazon Q VS Code Extension - wiz.io",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMnY3X1VtaTFaZ3ZJQzdnaHU1ejN5TVUzTy1Ya0RlN25vVmJERUppa2Z3bzdXbEZuSVg3VkRMcFdxdVhVZk5wYk8zSlNkZEd4LS1oeGw0dFRXZw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Amazon to invest additional $13 billion in India cloud, AI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjc3RVFRSkZPMUtsVDFNeXp3cFl5dnZ0LVVSd0x6VjlrdXdWUkxmZ1RsQUN4ZTZnbVlSb2w5bDd1UGhoOTBxcXlaS2Y5QkJJNWJJTDVoZkFXYUlLRl85MWhkcUFTcjVLT0VvbVlhaElvZFRqWWU1aXBYV1QzLW1fdnl6RnRXc05qeEZsRGVwYzFydzg?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -23363,14 +23404,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-25T14:57:34+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (Role is located in Hyderabad, but Shlok wants Bengaluru or remote-first.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-25T14:57:34+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Role is located in Hyderabad, but Shlok wants Bengaluru or remote-first."
   },
   {
    "id": "L0160",

@@ -38302,7 +38302,7 @@
    "key": "xpay|founder s office|bengaluru",
    "type": "company",
    "company": "xPay",
-   "company_domain": "",
+   "company_domain": "xpaycheckout.com",
    "company_url": "https://www.xpaycheckout.com/",
    "company_linkedin": "https://www.linkedin.com/company/xpay-checkout/?viewAsMember=true",
    "company_note": "YC Winter 2024 · team of 3 · International Billing Ops, Sales Tax and Payments for SaaS businesses",
@@ -38310,7 +38310,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "xpay:company",
    "source_url": "https://www.ycombinator.com/companies/xpay",
@@ -38326,7 +38326,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "We're building a commerce solution for SaaS companies globally that have overseas customers. We especially help them with streamlining billing operations like invoicing and reconciliation, managing foreign sales tax and accepting payments.  We abstract out the complexities of compliance, remittance and integration for these merchants by running all that machinery in the background.",
+   "jd": "xPay: International Billing Ops, Sales Tax and Payments for SaaS businesses | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › xPay \n xPay\n International Billing Ops, Sales Tax and Payments for SaaS businesses\n Y Combinator Logo Winter 2024 \nActive\n Company \n Jobs 1 \n https://www.xpaycheckout.com/\n International Billing Ops, Sales Tax and Payments for SaaS businesses\n We're building a commerce solution for SaaS companies globally that have overseas customers. We especially help them with streamlining billing operations like invoicing and reconciliation, managing foreign sales tax and accepting payments. We abstract out the complexities of compliance, remittance and integration for these merchants by running all that machinery in the background.\n Active Founders\n Aniket Gupta Founder/CEO\n Founder of xPay - An international payment acceptance solution. In the past, I've started DisruptX Labs, a globally acclaimed dev studio and ingig, an online live streaming platform for musicians. Been running startups for 3 years and probably will for a lifetime more.\n Aniket Gupta Founder/CEO\n Founder of xPay - An international payment acceptance solution. In the past, I've started DisruptX Labs, a globally acclaimed dev studio and ingig, an online live streaming platform for musicians. Been running startups for 3 years and probably will for a lifetime more.\n Rakshit Bansal Founder\n Founder of xPay - An international payment acceptance solution. Been building products for the last 7 years. Have led tech teams at multiple startups namely Observe.AI & Flipkart.\n Rakshit Bansal Founder\n Founder of xPay - An international payment acceptance solution. Been building products for the last 7 years. Have led tech teams at multiple startups namely Observe.AI & Flipkart.\n Jobs at xPay\n View all jobs \n Founding Sales lead \n Bengaluru, KA, IN / Bengaluru, Karnataka, IN\n ₹25 - ₹35 INR\n 3+ years\n Apply Now › \n xPay \n Founded: 2024 \n Batch: Winter 2024 \n Team Size: 3 \n Status: \nActive \n Location: Bengaluru, India \n Primary Partner: Pete Koomen \n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -38341,8 +38341,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 25,
+    "total": 37,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -38352,15 +38352,43 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Speculative note to YC W24 founders; only active role is Founding Sales Lead (3+ yrs), which lacks ops fit.",
+    "fit_notes": "The YC posting lists only one open role: 'Founding Sales lead' requiring 3+ years of experience. There is no open Strategy & Operations or Founder's Office opening. Shlok's experience is in supply chain planning and S&OP at Ola Electric ([sop], [ceo-coo]), which does not match B2B SaaS sales.",
+    "pay_notes": "No pay stated for a Founder's Office role (the lead is speculative). The open Founding Sales Lead role lists ₹25 - ₹35 LPA, but is a sales role.",
+    "culture_notes": "YC W24 startup with a 3-person team based in Bengaluru. No Glassdoor or AmbitionBox ratings found.",
+    "hook": "xPay simplifies billing operations, foreign sales tax management, and cross-border payment acceptance for SaaS merchants.",
+    "hook_source": "https://www.ycombinator.com/companies/xpay",
+    "researched_at": "2026-11-25T14:45:25+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "xPay website",
+      "url": "https://www.xpaycheckout.com/"
+     },
+     {
+      "id": "S2",
+      "title": "XPAY: Pay Cuts Even In Good Years, And This Dip May Not Bounce Back Quickly - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNTNwOGk1Vnp3Wk1NelgyY2lyR0RPU3MtUVFuZmJkaVU2cXVMMmRDMHVxeDVZUHhVZ3VrVlI4M3lwMXBiQzRsUnRKYkswU3Y4VTN0SDh4OVJ1bW9SbTRPb25QQ0xKUVZqRFNiVGgwU2p4dGVkOGdNbXVLc0hVNWZYNHZNR2Q2UDg1NDhnbXU2WExnOHd2M3hfbi1KZkdFc3FraElMLUxPUml0a3Yyd01Pa2I1T1E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "(XPAY) Risk Channels and Responsive Allocation - Stock Traders Daily",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzktVVBvMnd0WkxWS0NvWkQydlFFWXVwVmtLa1pPb08wWEZUQkNGTTlXQ3dQc0JqSXhyVHVmU05pa1VCNmRHamMyanZTZHJ1WmdHb3lzRzlvdHNfTEpPMUZqaU9zUzNCaGd4VlJGS3dHTjFOd0JjdTU1MThTSHZFV3h2R1NPZS1vRnlqd0FQMnFnWUlkd0dzeml1N1FPVU9vQ2FNQjRIZEdTNUhkbWQ3OTBDZkQxUzdzb1Ewc3pFRkNVZw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Security Bank eyes xPay integration for cards by 2027 - BusinessWorld Online",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2ppdzRjRUppR2pZaDRScEpleDBqdEE2N2ZNZU9YN0podkJmbmszSVd5MjJRcWt0bFJ2Rl9iYjJpdXhrcDh1YWxtZFp0c0ZuRUhlTjlsLWV6bFZka2hmMnJvTEtVcWZGZ1dheUcwV1RMc0JYUWM4OUp4b1BReVp2cjVwS2Z0enRtVVJRNGxHM1ViSXRLaE9rdWRmOTd6LUprbmQ2d0NGQ0NseWs1a1ZENnFpZw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -38411,9 +38439,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-25T14:45:25+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 37: rejected (No Founder's Office role is open at xPay (only Founding Sales Lead asking 3+ years), and Shlok lacks B2B SaaS sales experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-25T14:45:25+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -38423,7 +38457,8 @@
     "at": "2026-11-24T02:20:58+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "No Founder's Office role is open at xPay (only Founding Sales Lead asking 3+ years), and Shlok lacks B2B SaaS sales experience."
   },
   {
    "id": "L0272",

@@ -54995,9 +54995,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Tonmoy Shingal"
+    },
+    {
+     "at": "2026-11-25T11:39:12+05:30",
+     "actor": "send-track",
+     "event": "send_failed",
+     "detail": "SMTPServerDisconnected: Connection unexpectedly closed: timed out"
     }
    ],
-   "updated_at": "2026-11-24T18:36:15+05:30",
+   "updated_at": "2026-11-25T11:39:12+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

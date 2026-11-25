@@ -274303,10 +274303,17 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 72: qualified"
+    },
+    {
+     "at": "2026-11-26T03:47:07+05:30",
+     "actor": "people-finder",
+     "event": "people",
+     "detail": "0 people found on LinkedIn"
     }
    ],
-   "updated_at": "2026-11-26T03:32:59+05:30",
-   "reject_reason": null
+   "updated_at": "2026-11-26T03:47:07+05:30",
+   "reject_reason": null,
+   "people_searched_at": "2026-11-26T03:47:07+05:30"
   },
   {
    "id": "L2135",

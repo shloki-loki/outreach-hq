@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-22T21:25:10+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-22T21:25:18+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3484,6 +3471,13 @@
    "agent": "send-track",
    "ok": true,
    "summary": "0 emails drafted, 0 referral notes (no connections matched), 0 application kits; skipped: L0105, L1556, L0077 only catch-all addresses after recheck and score under 80; L0063 Greenhouse posting 404 (likely closed); L0077 Ashby form is JS-rendered, no readable questions",
+   "stats": {}
+  },
+  {
+   "at": "2026-11-25T13:36:09+05:30",
+   "agent": "lead-scout",
+   "ok": true,
+   "summary": "7 researched, 0 qualified, 7 rejected, 0 emails found; scrape skipped (ran 03:13 today), no Apify used; 7 already-closed postings and L1771 (no JD readable), L1895 OYO (Naukri blocked) left unresearched; stale re-verify and Monday company scan not done",
    "stats": {}
   }
  ]

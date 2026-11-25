@@ -11078,6 +11078,15 @@
    "title": "send-track 25 Nov: no draftable leads",
    "detail": "3 leads need drafts (L0105, L1556, L0077); all addresses are catch-all after recheck, scores 65-73 (<80), so none may be queued. Need a verified address or a different verifier.",
    "ref": "I0109"
+  },
+  {
+   "id": "J1232",
+   "at": "2026-11-25T13:36:09+05:30",
+   "by": "lead-scout",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "7 researched, 0 qualified, 7 rejected, 0 emails found; scrape skipped (ran 03:13 today), no Apify used; 7 already-closed postings and L1771 (no JD readable), L1895 OYO (Naukri blocked) left unresearched; stale re-verify and Monday company scan not done",
+   "ref": ""
   }
  ]
 }

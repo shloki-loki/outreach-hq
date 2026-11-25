@@ -39301,7 +39301,7 @@
    "key": "primevault|founder s office|bengaluru",
    "type": "company",
    "company": "PrimeVault",
-   "company_domain": "",
+   "company_domain": "primevault.com",
    "company_url": "https://www.primevault.com",
    "company_linkedin": "https://www.linkedin.com/company/primevault",
    "company_note": "YC Summer 2022 · team of 11 · Infrastructure powering stablecoin and digital finance",
@@ -39309,7 +39309,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "primevault:company",
    "source_url": "https://www.ycombinator.com/companies/primevault",
@@ -39340,8 +39340,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 35,
+    "total": 43,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -39351,15 +39351,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Speculative Founder's Office pitch at an 11-person YC S22 stablecoin startup; no active posting and your manufacturing S&OP background does not map.",
+    "fit_notes": "The listing is a general YC profile for PrimeVault building stablecoin and digital asset infrastructure, with no stated role requirements or active job description. Shlok's experience in S&OP planning [sop], inventory management [msl], and logistics [o2d] at Ola Electric does not map to digital asset treasury and compliance infrastructure.",
+    "pay_notes": "No salary information provided in the posting or web evidence.",
+    "culture_notes": "No glassdoor or employee reviews found.",
+    "hook": "PrimeVault combines secure wallets, programmable treasury, compliance, and market access into a single digital asset platform for financial institutions.",
+    "hook_source": "https://www.ycombinator.com/companies/primevault",
+    "researched_at": "2026-11-25T14:46:26+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -39410,9 +39417,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-25T14:46:26+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 43: rejected (No active job posting listed, and PrimeVault's Web3/stablecoin infrastructure focus does not align with Shlok's supply chain and manufacturing operations background.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-25T14:46:26+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -39422,7 +39435,8 @@
     "at": "2026-11-24T02:22:14+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "No active job posting listed, and PrimeVault's Web3/stablecoin infrastructure focus does not align with Shlok's supply chain and manufacturing operations background."
   },
   {
    "id": "L0278",

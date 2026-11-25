@@ -75429,9 +75429,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Anuj Jain awaiting approval"
+    },
+    {
+     "at": "2026-11-25T15:02:59+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Sidhartha Kumar Bhimania"
     }
    ],
-   "updated_at": "2026-11-25T13:40:42+05:30",
+   "updated_at": "2026-11-25T15:02:59+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

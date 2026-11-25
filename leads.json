@@ -272960,7 +272960,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494775741",
    "source_url": "https://in.linkedin.com/jobs/view/executive-ceo-s-office-nice-centre-for-entrepreneurship-at-school-of-inspired-leadership-4494775741",
@@ -272991,8 +272991,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 25,
+    "total": 45,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -273002,15 +273002,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Executive in CEO's Office at School of Inspired Leadership, asks 1-3 yrs; administrative support focus does not match your high-impact S&OP and CEO-COO partnership work.",
+    "fit_notes": "The posting asks for a 'Graduate or postgraduate degree in Management, Business Administration... MBA/PGDM... preferred' and '1–3 years of relevant experience in executive assistance, office administration, programme coordination...'. While his 1.3 years of experience fits the duration, the role focuses heavily on calendar management, travel arrangements, meeting minutes, and general administration rather than strategic operations. Shlok's facts like [sop] and [ceo-coo] involve high-impact inventory, S&OP planning, and logistics execution, which are mismatched with a traditional administrative executive assistant role.",
+    "pay_notes": "Pay is not stated in the posting.",
+    "culture_notes": "No company website, ratings, or culture reviews were found in the evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T03:30:26+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -273034,9 +273041,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-26T03:30:26+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The role is primarily an administrative and executive assistant position for a CEO's office, which is too junior/low-paid and heavily administrative compared to his Strategy & Operations background.)"
     }
    ],
-   "updated_at": "2026-11-26T02:20:42+05:30"
+   "updated_at": "2026-11-26T03:30:26+05:30",
+   "reject_reason": "The role is primarily an administrative and executive assistant position for a CEO's office, which is too junior/low-paid and heavily administrative compared to his Strategy & Operations background."
   },
   {
    "id": "L2130",

@@ -11042,6 +11042,15 @@
    "title": "Sending M0115 failed",
    "detail": "SMTPServerDisconnected: Connection unexpectedly closed: timed out",
    "ref": "I0107"
+  },
+  {
+   "id": "J1228",
+   "at": "2026-11-25T12:10:02+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "Sending M0116 failed",
+   "detail": "SMTPServerDisconnected: Connection unexpectedly closed: The read operation timed out",
+   "ref": "I0108"
   }
  ]
 }

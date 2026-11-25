@@ -266206,7 +266206,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Pune District, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492672611",
    "source_url": "https://in.linkedin.com/jobs/view/strategy-manager-at-ethiqual-global-pvt-ltd-4492672611",
@@ -266222,7 +266222,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-25",
    "open": true,
-   "jd": "",
+   "jd": "Job Description – Strategy Manager \n Industry: Education / Higher Education / Universities \n The Strategy Manager will be responsible for developing, implementing and monitoring strategic initiatives to drive institutional growth, operational excellence, revenue enhancement and long-term business sustainability.\n The role involves working closely with senior leadership, academic heads, admissions, marketing, finance and operations teams to identify growth opportunities, improve institutional performance and execute strategic business plans.\n Key Responsibilities: \n A. Strategic Planning & Business Growth \n Develop and implement short-term and long-term business strategies aligned with the organisation's vision.\n Identify new business opportunities, expansion opportunities and potential revenue streams.\n Develop strategic roadmaps for university and institutional growth.\n Support management in business planning, annual operating plans and strategic decision-making.\n Evaluate opportunities for geographical expansion, new campuses and new academic programmes.\n B. Strategy Execution & Monitoring \n Translate organisational strategies into actionable plans with defined timelines and deliverables.\n Monitor implementation of strategic initiatives across different departments.\n Coordinate with department heads to ensure timely execution of strategic projects.\n Establish KPIs, performance metrics and review mechanisms.\n Prepare monthly and quarterly strategy implementation reports for senior management.\n Identify execution gaps and recommend corrective action plans.\n C. Revenue Growth & Business Performance \n Identify opportunities to increase revenue through student enrolments, new courses and institutional partnerships.\n Analyse admission funnels, conversion ratios, student acquisition costs and revenue performance.\n Work with sales, marketing and admissions teams to improve enrolment and revenue targets.\n Develop strategies to improve profitability and optimise operational costs.\n Monitor business performance against annual budgets and revenue targets.\n D. Market Research & Competitor Analysis \n Conduct market research to identify education industry trends and emerging opportunities.\n Analyse competitor universities, educational institutions and their business models.\n Benchmark tuition fees, course offerings, student enrolments and market positioning.\n Identify gaps in existing offerings and recommend new programmes.\n Prepare market intelligence reports for management.\n E. Business Analytics & MIS \n Analyse institutional performance through data-driven insights.\n Develop dashboards and management reports to track business performance.\n Monitor key metrics such as:\n Student enrolment and admission conversion.\n Revenue growth and profitability.\n Student retention and satisfaction.\n Campus utilisation and operational efficiency.\n Marketing ROI and student acquisition cost.\n Present strategic recommendations to senior leadership.\n F. Cross-Functional Coordination \n Work closely with academic, admissions, marketing, finance, HR and operations departments.\n Drive cross-functional strategic projects and transformation initiatives.\n Ensure alignment between departmental goals and organisational objectives.\n Facilitate management review meetings and track action points.\n G. New Business Initiatives & Partnerships \n Explore strategic alliances with corporates, universities and educational institutions.\n Identify opportunities for online education, executive education and skill development programmes.\n Support mergers, acquisitions, collaborations and institutional expansion initiatives.\n Develop business cases and feasibility reports for new projects.\n The ideal candidate should have 3–8 years of experience in strategy, business planning, strategy execution or business transformation.\n The candidate should have hands-on experience in:\n Developing and executing organisational strategies.\n Driving revenue growth and business expansion.\n Working with senior management and leadership teams.\n Managing cross-functional strategic projects.\n Analysing business performance and developing growth plans.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Business Consulting and Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -266237,8 +266237,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 30,
+    "total": 42,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -266248,15 +266248,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Strategy Manager at Ethiqual Global (Pune), asks 3-8 yrs; higher-ed admissions focus has no overlap with your EV supply chain background.",
+    "fit_notes": "The posting requires 3–8 years of experience in strategy and business execution within the Higher Education industry, focusing on student enrolment funnels, campus expansion, tuition benchmarking, and academic offerings. Shlok has 1.3 years of experience concentrated in EV supply chain planning and S&OP [sop, msl, ceo-coo], which does not align with higher-education growth strategy.",
+    "pay_notes": "No pay details provided in the job description or web evidence.",
+    "culture_notes": "No company website, reviews, or employee feedback found for Ethiqual Global Pvt.Ltd.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T14:40:58+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -266280,14 +266287,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-25T14:40:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 42: rejected (Asks 3–8 years for a Mid-Senior Strategy Manager role in Higher Education (student enrolment, campus expansion, academic pricing), which has no domain overlap with Shlok's EV supply chain and S&OP experience.)"
     }
    ],
-   "updated_at": "2026-11-25T03:13:39+05:30",
+   "updated_at": "2026-11-25T14:40:58+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Asks 3–8 years for a Mid-Senior Strategy Manager role in Higher Education (student enrolment, campus expansion, academic pricing), which has no domain overlap with Shlok's EV supply chain and S&OP experience."
   },
   {
    "id": "L2091",

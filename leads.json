@@ -208816,17 +208816,17 @@
    "exp_text": "Seniority level Executive Employment type Full-time Industries Software Development",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
+    "stated": "Rs 25,000-40,000 per month",
+    "min_lpa": 3,
+    "max_lpa": 4.8,
+    "basis": "stated",
     "source": "",
-    "fit": "Unknown"
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -208836,15 +208836,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
+    "done": true,
+    "headline": "LAPAK Founder's Office Associate, Indore on-site, Rs 25-40k per month; pay far below floor.",
+    "fit_notes": "Posting text in lead (stated 0-3 yrs, Indore WFO). Role fits tier 1 but pay is about Rs 3-5 LPA.",
+    "pay_notes": "Stated in the posting.",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T13:34:53+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -208868,9 +208870,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-25T13:34:53+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 35: rejected (Pay stated Rs 25,000-40,000 per month and location Indore)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30",
+   "updated_at": "2026-11-25T13:34:53+05:30",
    "research_attempt": {
     "at": "2026-11-25T04:24:48+05:30",
     "why": "model answer failed the checks: pay basis is 'stated' but the posting states no figure; use estimate or unknown",
@@ -208880,7 +208888,8 @@
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Pay stated Rs 25,000-40,000 per month and location Indore"
   },
   {
    "id": "L1612",

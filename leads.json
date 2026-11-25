@@ -218713,8 +218713,8 @@
    "key": "beato|chief of staff|india",
    "type": "job",
    "company": "BeatO",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "beatoapp.com",
+   "company_url": "https://www.beatoapp.com",
    "company_linkedin": "",
    "company_note": "India's trusted digital platform for diabetes and metabolic health, offering connected devices, care programs, and nutrition products.",
    "title": "Chief of Staff",
@@ -218757,8 +218757,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 30,
+    "total": 44,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -218768,15 +218768,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "BeatO Chief of Staff, Delhi: well-funded ($33M+) but asks 4+ yrs in consulting/IB/founder office, beyond your 1.3.",
+    "fit_notes": "Read Workable posting 2026-11-25 (state published, created 2026-11-11). Founder-facing CoS role fits tier 1, but 4+ years requirement is above the 3-year ceiling.",
+    "pay_notes": "No pay in posting.",
+    "culture_notes": "Posting says raised over $33M from Lightrock, HealthQuad, Flipkart Ventures and others; 3M+ users. Not independently verified.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T13:34:58+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -218800,9 +218802,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 66"
+    },
+    {
+     "at": "2026-11-25T13:34:58+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 44: rejected (Asks 4+ years; Delhi based)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-25T13:34:58+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "live",
@@ -218812,7 +218820,8 @@
     "at": "2026-11-25T04:24:51+05:30",
     "why": "the posting page has no readable description",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Asks 4+ years; Delhi based"
   },
   {
    "id": "L1694",

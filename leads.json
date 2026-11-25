@@ -42060,7 +42060,7 @@
    "key": "rocketsdr|founder s office|bengaluru",
    "type": "company",
    "company": "RocketSDR",
-   "company_domain": "",
+   "company_domain": "rocketsdr.ai",
    "company_url": "https://rocketsdr.ai",
    "company_linkedin": "https://www.linkedin.com/company/try-rocketsdr/",
    "company_note": "YC Winter 2021 · team of 30 · AI Native Sales Outreach Platform",
@@ -42068,7 +42068,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "rocketsdr:company",
    "source_url": "https://www.ycombinator.com/companies/rocketsdr",
@@ -42084,7 +42084,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "The only sales outreach platform you’ll ever need.\r\n\r\nFrom research to outreach, RocketSDR runs your entire top-of-funnel — freeing you to focus on conversations that convert.",
+   "jd": "RocketSDR: AI Native Sales Outreach Platform | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › RocketSDR \n RocketSDR\n AI Native Sales Outreach Platform\n Y Combinator Logo Winter 2021 \nActive\n Sales\n AI\n Company \n Jobs 1 \n https://rocketsdr.ai\n AI Native Sales Outreach Platform\n The only sales outreach platform you’ll ever need.\r\nFrom research to outreach, RocketSDR runs your entire top-of-funnel — freeing you to focus on conversations that convert.\n Active Founders\n Ayush Pateria Founder\n Hacker and entrepreneur.\n Ayush Pateria Founder\n Hacker and entrepreneur.\n Keshav chouksey Founder\n Growth and Operations\n Keshav chouksey Founder\n Growth and Operations\n Jobs at RocketSDR\n View all jobs \n Founding Engineer (Golang/ReactJS) \n Bengaluru, KA, IN / Bengaluru, Karnataka, IN\n ₹800K - ₹2M INR\n 0.10% - 0.80%\n Any (new grads ok)\n Apply Now › \n RocketSDR \n Founded: 2020 \n Batch: Winter 2021 \n Team Size: 30 \n Status: \nActive \n Location: Bengaluru, India \n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -42099,8 +42099,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 35,
+    "total": 43,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -42110,15 +42110,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office (speculative) at RocketSDR (YC W21); no open role posted and company pay scale (8-20 LPA for Founding Eng) is below target.",
+    "fit_notes": "RocketSDR has no open Founder's Office role (only Founding Engineer). Additionally, RocketSDR builds an AI sales outreach platform, which does not map to Shlok's S&OP and inventory planning experience at Ola Electric ([sop], [mrp], [ceo-coo]).",
+    "pay_notes": "No pay stated for a Founder's Office role. The single open role on YC (Founding Engineer) lists ₹8L - ₹20L INR, indicating overall compensation is below Shlok's Rs 24.5 LPA target.",
+    "culture_notes": "No public ratings or culture reviews found for RocketSDR.",
+    "hook": "RocketSDR automates top-of-funnel sales outreach from research to execution.",
+    "hook_source": "https://rocketsdr.ai",
+    "researched_at": "2026-11-25T14:50:11+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "RocketSDR website",
+      "url": "https://rocketsdr.ai"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -42169,9 +42182,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-25T14:50:11+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 43: rejected (No active Founder's Office role listed, and published company pay scale (Founding Engineer at 8-20 LPA) falls well below Shlok's Rs 24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-25T14:50:11+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -42181,7 +42200,8 @@
     "at": "2026-11-24T16:21:39+05:30",
     "why": "model answer failed the checks: the answer was not valid JSON: Expecting property name enclosed in double quotes: line 13 column 5 (char 730)",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "No active Founder's Office role listed, and published company pay scale (Founding Engineer at 8-20 LPA) falls well below Shlok's Rs 24.5 LPA threshold."
   },
   {
    "id": "L0297",

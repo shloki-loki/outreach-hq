@@ -77343,7 +77343,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "jcoelho@aurascape.ai",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 320 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -77378,9 +77378,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-25T14:05:14+05:30"
    },
    "notes": [],
    "timeline": [
@@ -77449,9 +77450,21 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Jean-Luc Coelho"
+    },
+    {
+     "at": "2026-11-25T14:05:14+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "jcoelho@aurascape.ai does not exist; needs a new address"
+    },
+    {
+     "at": "2026-11-25T14:05:14+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-25T14:02:54+05:30",
+   "updated_at": "2026-11-25T14:05:14+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

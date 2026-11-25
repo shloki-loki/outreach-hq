@@ -273150,15 +273150,15 @@
    "key": "frnd|associate product manager|bengaluru",
    "type": "job",
    "company": "FRND",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "joinfrnd.com",
+   "company_url": "https://joinfrnd.com",
    "company_linkedin": "https://in.linkedin.com/company/frnd-app",
    "company_note": "",
    "title": "Associate Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494640649",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-frnd-4494640649",
@@ -273189,8 +273189,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 75,
+    "total": 75,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -273200,15 +273200,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Product Manager at FRND, asks 1-3 yrs; your product-building and data fundamentals map well.",
+    "fit_notes": "The posting asks for '1–3 years of experience in Product Management, preferably at a high-growth consumer internet startup', 'Graduate from a Tier 1 institute with strong academic and analytical fundamentals', and someone comfortable with numbers, data, funnels, and cohorts. Shlok's IIT Guwahati background and his technical product experience at InsuranceDekho where he 'built a Flask REST API with a Chrome extension that autofilled forms, cutting response times by 40%' ([idekho]) map directly to product building. He has no MBA or consulting requirements.",
+    "pay_notes": "Pay is not stated in the posting. FRND posted Rs 367 crore revenue in FY26, with profit jumping nearly tenfold to ₹19.27 crore [S2], but specific compensation numbers for this role are not provided.",
+    "culture_notes": "No ratings found. Note from posting: 'The FRND team works 6 days a week, with the 1st and 3rd Saturdays being working days.'",
+    "hook": "FRND posted Rs 367 crore in revenue for FY26 with profit jumping nearly tenfold to Rs 19.27 crore while scaling advertising spend [S2].",
+    "hook_source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUG9lQkdrdU42UllDN3VveTlnWW4wNXMxVDlhSDBUX1l3UHVOcnFublZKdjRqRFdycXBwbHRiY0lkY2J5bElCRDRTZjNHV3A4clcwZWEwdWhZeWVxeFp6VF80MFVkdVlWS0p0RDJLTFM5cHpSQ1lkR2lrZ2Zzc05jM18wNlo1d0NqR3RSRnl2dV9Vb1RUR3dSeFl1cFpuT3ZVMjdMcndMMXhMbE9aQ2pQTG1rUnptR2p3Y0xGenhaMFZsOEVSc3phU0RIdldxWVRqeER6SdIB2gFBVV95cUxQNThyc0xMN2cwZnFlN1JJdmFNUEUwRjR1THFzQlI3Z21SNXdjZXBRNzFVZEhkQ0NfQkJHYThIN3NsWmZnZExETVZaSmRhSnI4SENiR29tNzhEcEVSRTVSaWxxNnNrTFRqYU1mcHBxQkw1c1psSVlSUkYwSkZTMmRKLXhZNzVhNTFXS3cyc3VJLVV4c1l4SnNVR0cwTEJPTjhVMHAzdUZZWngwcVRZVlhtOXFCYlR0dkJwVmxCcm4yRHRFX0tTNDNRY2J4eG5VaU8xeVZMZTVsNndRdw?oc=5",
+    "researched_at": "2026-11-26T03:30:39+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "FRND’s big bet: Why young India may still choose conversation over content - SME Futures",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjVtV2lqeFZqQmpxMXFxcVc0NUJYZC1sdF8zWnIxeUxUTWFHTGtRZkoySUdYVUMtalhFVnJ4NHVadFBjNTAzd3czZnhXRnZRcDhaT3oxVWdqNlJsYTZXQmFyMlVxUHpIaWhna0N0Tm9ZWXBzczVyblFwdzhLZ3VKajNVa1ltOWFoUWo0QS1jRXF0TVAwb2g1eHlUT0E?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "FRND posts Rs 367 crore revenue in FY26; advertising spend rises 82% to Rs 153 crore - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUG9lQkdrdU42UllDN3VveTlnWW4wNXMxVDlhSDBUX1l3UHVOcnFublZKdjRqRFdycXBwbHRiY0lkY2J5bElCRDRTZjNHV3A4clcwZWEwdWhZeWVxeFp6VF80MFVkdVlWS0p0RDJLTFM5cHpSQ1lkR2lrZ2Zzc05jM18wNlo1d0NqR3RSRnl2dV9Vb1RUR3dSeFl1cFpuT3ZVMjdMcndMMXhMbE9aQ2pQTG1rUnptR2p3Y0xGenhaMFZsOEVSc3phU0RIdldxWVRqeER6SdIB2gFBVV95cUxQNThyc0xMN2cwZnFlN1JJdmFNUEUwRjR1THFzQlI3Z21SNXdjZXBRNzFVZEhkQ0NfQkJHYThIN3NsWmZnZExETVZaSmRhSnI4SENiR29tNzhEcEVSRTVSaWxxNnNrTFRqYU1mcHBxQkw1c1psSVlSUkYwSkZTMmRKLXhZNzVhNTFXS3cyc3VJLVV4c1l4SnNVR0cwTEJPTjhVMHAzdUZZWngwcVRZVlhtOXFCYlR0dkJwVmxCcm4yRHRFX0tTNDNRY2J4eG5VaU8xeVZMZTVsNndRdw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "FRND’s ad and marketing spend rises 82% to Rs 153 crore in FY26 as revenue grows 88% - Social Samosa",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMm9ETm1LQ1hmYlEwWTU5bWp6QTBJcW5QNUJHakZqVFRGeUlleWZWcVJMTm1wRHhXSTBQbkRmUWFDeHNQWFVCbUJyenN6Uy1LX3V2UGcxYjZsR1kxbkUyYUpZU2p2aXI0V1E2a2R3LVVnRWVCbE5sWlp0ZWN2RjlSYWxpTzI1enEwWi1NMmdNTHpoVjFYdUJUZU1lcThWUV9nTHVjbEhtLW82WGxwcFJqRmFvdmF5Y0tSZExjYUZlQdIBvwFBVV95cUxNMm9ETm1LQ1hmYlEwWTU5bWp6QTBJcW5QNUJHakZqVFRGeUlleWZWcVJMTm1wRHhXSTBQbkRmUWFDeHNQWFVCbUJyenN6Uy1LX3V2UGcxYjZsR1kxbkUyYUpZU2p2aXI0V1E2a2R3LVVnRWVCbE5sWlp0ZWN2RjlSYWxpTzI1enEwWi1NMmdNTHpoVjFYdUJUZU1lcThWUV9nTHVjbEhtLW82WGxwcFJqRmFvdmF5Y0tSZExjYUZlQQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Beyond the Profile Picture: FRND CPO Harshvardhan Chhangani on Building Social Discovery for Bharat - TechGraph",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2pSdGFnTmlrdjFlTXNTeGpBV1V2T3hoMjZob29JUU9JbVZHTGNQSlpXZXREcllvX1JzVnBIT0MyRlBtVk8xYzZBWVZaM0pIMnhyT0pxb1kzaG5Mb0JRNi0wX1BxQXJ6MDNDUjdzeGtHTFBSNHh6ZUNIZzdMcTBYWGpVVXdidHU3ank3ZU1UTVBHdXVNUlB3aA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "FRND posts Rs 367 Cr revenue in FY26; profit jumps 10X - Entrackr",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS1NreUs5M0ZIWkdTS2ppcXZTOS1McldsMVpQR3NOdHNIMjQ3M2dUVDlFY2ZYWXdQWjZzTkdkN1dfS0lmNDZoXzJlb2RkbDVHM2dWR25ISlBRUXgyUlZCSlBZQlVVSVE3S1Z6eUtSVjBKcUZTOGRNQkx2cnpqc3RwV3h3aG5sQURyVnRGZ1ptMFJIZ9IBkgFBVV95cUxOS1NreUs5M0ZIWkdTS2ppcXZTOS1McldsMVpQR3NOdHNIMjQ3M2dUVDlFY2ZYWXdQWjZzTkdkN1dfS0lmNDZoXzJlb2RkbDVHM2dWR25ISlBRUXgyUlZCSlBZQlVVSVE3S1Z6eUtSVjBKcUZTOGRNQkx2cnpqc3RwV3h3aG5sQURyVnRGZ1ptMFJIZw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "FRND’s profit jumps nearly tenfold to ₹19.27 crore as revenue rises 88% - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWkRlQUg0bzRaUHQxanV4U0pTR3VqU1lrYVRmQ09hRUFDX3VSVGl1VnFZeTRXMm8yaGJPSWt2Q25ZNXVhblNVSUNPVXl2MmpCVGJ6V0h5Y0RkT3VMeW5vYXdwYjZaX0tXMElwWkRoQlVPbEJXQ0VMWEpsLV9NeWJuczdod0FlV1lmVVBRWFNiU1laRVg0OVkxc2JUZzlSNTZMZng3QU5heVMyU0dKZ2dWS2tjZmFPYldKRGFUWEVDdFhCeGtwak1ZaU1sdW9CdlHSAdYBQVVfeXFMTXRxWnJzMVFhUE5XblBvLWVUTjZPZ1M1X2VwcEhSV29fdWtKVU9zVTlXdkMxZllaQlZKS1o4c1lGbGtmdGNobUJDdno0WlJNREptcVNGMEozdEJzZzBSSHFjd18ybXFjck5lSkxQYWtDWVZ5ZVFkeTJ2c2MxSlJwQkNlY2FmR0QwRzJYbmhiVkNRbTlzS2oycnVEQXJwbHVPQ1VRMzRyOTBiNjVxNnhod2Rjd0Z3d3VMS2xKOXBxbGNzMnVlamM1WnYzZ3ZCVG1uUjhuMDNaUQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -273232,9 +273272,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-26T03:30:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 75: qualified"
     }
    ],
-   "updated_at": "2026-11-26T02:20:42+05:30"
+   "updated_at": "2026-11-26T03:30:39+05:30",
+   "reject_reason": null
   },
   {
    "id": "L2132",

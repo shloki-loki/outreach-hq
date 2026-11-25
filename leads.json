@@ -72984,9 +72984,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-25T15:05:13+05:30"
    },
    "notes": [],
    "timeline": [
@@ -73061,9 +73062,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sunish Kumar"
+    },
+    {
+     "at": "2026-11-25T15:05:13+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-25T14:47:54+05:30",
+   "updated_at": "2026-11-25T15:05:13+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -73961,9 +73968,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-25T15:05:13+05:30"
    },
    "notes": [],
    "timeline": [
@@ -74038,9 +74046,21 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to John Tench"
+    },
+    {
+     "at": "2026-11-25T15:05:13+05:30",
+     "actor": "follow-up",
+     "event": "auto_reply",
+     "detail": "johntench@wysa.io: Out of Office Re: Strategy and Ops role | Shlok Agrawal"
+    },
+    {
+     "at": "2026-11-25T15:05:13+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-25T14:55:17+05:30",
+   "updated_at": "2026-11-25T15:05:13+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
@@ -75265,9 +75285,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-25T15:05:13+05:30"
    },
    "notes": [],
    "timeline": [
@@ -75330,9 +75351,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Nithin K David"
+    },
+    {
+     "at": "2026-11-25T15:05:13+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-25T15:01:18+05:30",
+   "updated_at": "2026-11-25T15:05:13+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

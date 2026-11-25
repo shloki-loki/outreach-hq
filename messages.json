@@ -11593,7 +11593,12 @@
    "error": null,
    "reply": null,
    "retries": 1,
-   "last_error": "TimeoutError: timed out"
+   "last_error": "TimeoutError: timed out",
+   "auto_reply": {
+    "at": "2026-11-25T15:05:13+05:30",
+    "subject": "Out of Office Re: Strategy and Ops role | Shlok Agrawal",
+    "snippet": "Thanks for your email, I am at an event today. If the matter is urgent please feel free to call me on 07584321947 or forward to one of the team below. Adults Services (healthcare): nicky@wysa.io Children &amp; Adolescent Services: Emma@wysa.io Wysa products: lila@wysa.io Partnerships (Healthcare, Insurance &amp; Employers): Davy@wysa.io , Thanks John -- John Tench Global Managing Director Johntenc"
+   }
   },
   {
    "id": "M0386",

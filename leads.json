@@ -251277,8 +251277,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 15,
+    "total": 35,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -251288,15 +251288,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Uniliv (Communezen) Founders Office Associate, Noida: regular night work, no fixed hours, pay unstated; poor fit on culture and location.",
+    "fit_notes": "Read posting text. Broad generalist founders-office scope, but office is Noida and conditions are explicit.",
+    "pay_notes": "Form asks for expected CTC; no figure.",
+    "culture_notes": "Posting states no work-life balance promise and regular night work.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T13:35:03+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -251320,9 +251322,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 66"
+    },
+    {
+     "at": "2026-11-25T13:35:03+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 35: rejected (Noida; posting itself says no work-life balance and regular night work; pay not stated; application only via Google Form)"
     }
    ],
-   "updated_at": "2026-11-23T00:20:55+05:30",
+   "updated_at": "2026-11-25T13:35:03+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -251332,7 +251340,8 @@
     "at": "2026-11-25T04:25:34+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Noida; posting itself says no work-life balance and regular night work; pay not stated; application only via Google Form"
   },
   {
    "id": "L1965",

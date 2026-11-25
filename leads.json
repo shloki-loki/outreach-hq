@@ -88631,7 +88631,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "ashish@grainite.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 475 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -88682,9 +88682,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Abhishek Chauhan queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-25T17:25:10+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "ashish@grainite.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-25T15:05:25+05:30",
+   "updated_at": "2026-11-25T17:25:10+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

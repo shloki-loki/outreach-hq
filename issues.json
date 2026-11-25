@@ -1481,7 +1481,7 @@
    "opened_at": "2026-11-25T05:03:00+05:30",
    "last_seen": "2026-11-25T05:03:00+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: a transient SSL socket error on the Gmail IMAP connection at ~05:03 on 25 Nov. Later follow-up/track runs (every 20 min since 15:25) all succeeded and found replies, so inbox scanning works again. Remedy: none needed; resolve after a day with no repeat.",
    "resolved_at": null
   },
   {

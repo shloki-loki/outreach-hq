@@ -23887,15 +23887,15 @@
    "key": "google|program manager leadership operations and executive initiatives|india",
    "type": "job",
    "company": "Google",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "google.com",
+   "company_url": "https://www.google.com",
    "company_linkedin": "https://www.linkedin.com/company/google",
    "company_note": "",
    "title": "Program Manager, Leadership Operations and Executive Initiatives",
    "tier": "2 - Product / Program / BD",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489063423",
    "source_url": "https://in.linkedin.com/jobs/view/program-manager-leadership-operations-and-executive-initiatives-at-google-4489063423",
@@ -23911,7 +23911,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Minimum qualifications:\n Bachelor's degree or equivalent practical experience.\n 4 years of experience in a management consulting, sales operations, business strategy or corporate advisory role.\n Experience in management consulting, sales operations, business strategy, or corporate advisory for a technology company.\n Experience managing executive stakeholders and navigating in a global company (e.g., presenting to internal audiences including executives).\n Experience managing cross-functional projects and stakeholders.\n Experience initiating and executing projects and operational processes.\n Preferred qualifications:\n Experience in driving stakeholder relationships, to ensure alignment across broad cross-functional teams.\n Ability to thrive in an ambiguous and fast-paced environment with limited direction, balance competing priorities, and manage several time-sensitive projects at once.\n Excellent strategic, problem solving, analytical, presentation and communication skills.\n Excellent communication, problem-solving, investigative-thinking, prioritization, and program management skills.\n Comfortable crafting and communicating insights from data, as well as attention to detail and an interest in metrics/understanding trends and patterns in business performance.\n About The Job\n The gTech Ads Chief of Staff organization is the central engine that empowers executive leadership, accelerates strategic velocity, and drives organizational clarity across thousands of Googlers worldwide.\nOperating in close partnership with the Vice President of gTech Ads and anchoring a high-performing network of divisional Chiefs of Staff across Solutions, Enablement, and Customer Experience, our team serves as the vital connective tissue between executive vision and ground-level execution. We are strategic catalysts and operational architects—governing leadership cadences, leading high-stakes executive initiatives, and ensuring leadership focus remains squarely on the highest-priority business outcomes. Joining this team provides an unparalleled vantage point into senior executive decision-making and cross-organizational business strategy.\nGoogle is seeking an exceptional, strategic Program Manager to join the Executive Office of gTech Ads as Program Manager, Leadership Operations & Executive Initiatives. In this high-visibility position, you will operate at the operational and strategic nexus of Google’s global advertising technical services organization, functioning as a trusted partner to executive leadership and playing an instrumental role in shaping leadership operations at global scale.\nGoogle creates products and services that make the world a better place, and gTech’s role is to help bring them to life. Our teams of trusted advisors support customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers’ complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.\nTo learn more about gTech, check out our video .\n Responsibilities\n Be able to program manage high-visibility, large-scale leadership summits. Manage the master run-of-show, synchronize cross-functional content workstreams, and manage overall programming in partnership with the broader executive office.\n Lead end-to-end strategy and project management for the VP's global market visits. Orchestrate high-impact regional itineraries, localized customer engagements, and leadership town halls by partnering with regional cross-functional leads to define objectives and synthesize executive briefs.\n Establish and manage robust preparation pipelines for senior leadership connects. Drive accountability across global cross-functional contributors to curate concise, strategic prep dossiers, and design follow-through frameworks to ensure critical outcomes are actioned.\n Act as a flexible program manager on critical, fast-moving corporate initiatives directed by the Chief of Staff, driving cross-pillar alignment and tracking key performance milestones.\n Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\nSeniority level Mid-Senior level | Employment type Full-time | Industries Information Services and Technology, Information and Internet",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -23926,8 +23926,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -23937,15 +23937,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Program Manager at Google, but asks 4+ yrs consulting/strategy experience you do not have.",
+    "fit_notes": "The posting asks for \"4 years of experience in a management consulting, sales operations, business strategy or corporate advisory role\" and \"Experience in management consulting, sales operations, business strategy, or corporate advisory for a technology company.\" Shlok has ~1.3 years of experience and no consulting or corporate advisory background.",
+    "pay_notes": "Pay not stated in the posting; no evidence found.",
+    "culture_notes": "No specific ratings or culture flags found in the search results.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-25T14:58:54+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Shutting the Door on the XCPE Botnet - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmJ2VVhPbGtGcWJHSGJKcV9UUHU1NzJrdWxPYndXeFNhSDdtaWtZWFl0NFJuQjFYM3pJbVlDR2J6eDdIejBQazh3RDhHYTgweGdvUHllajQyenl2UDB4dVIyZEdzd3Q0RXRHT2xDWEFzcVJlUERFRmkzZkQ4aTd2bEpEQnl2M1NfbHRxQXlONTdTaDg0S3o1aw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Real-time speech translation in Google Meet expands to 63 languages with automatic language detection - Google Workspace Updates",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWk2WWlUWnBBdjRDcVNrYXRpR0RlYjlMRVVnZ3owVWdKbDVWTmxlZFFZZjh5QzhNMVdtU2RZSkpfZUZWR0VOc2lGVTRIWkRiUDhVM3FFQ2dXOU9tb29McklzdzZlb0l2N1VyMnZWa2c4Q3lIa195UmNnQi14VWFHUjd4d29TckwtTXVfNGRtY2tvMnVRNmREMmhhVmUyd1VTQXJYZ1FodDF3R0xud29LaWFNWEJGQkdEZVkxcUUwNTFhUFB0amhNalBKMnN4c1F4eF9URkdmY3Nhd3dHd29JQ1J0czdnY2tPM2c?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Gemini Robotics 2.5: Accelerating Physical Intelligence - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnFDRm1lR21jZXRpR2JUak1nSUpZeU9jSXkzRFVfanhaVll4clRtdWUyZzZFeXcwb2ZiS0NsUmoxaFZkcDlGbnJqa2lIM2hBdmNqb0hPTWl4UWc2LXFXcmRPbHF4Q2VzZWQ2UG96Y1FrUzE3dkVUT0dvNHkzLWN0Y25ZR3V1SVE0TGxxb1U5YVNfRUJxc25iaVZR?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWHJkYURWVE9paG9HMUJJRWxXeEYwa1FHMkhIVllEVUFjRGkwYUNFXzVTMEdRNWVtREZjdlo5WUpiNFdCdHBmS21IRGNZRnNTcHJpaEN5M1BFa1ZEM01SajZEa0U3b2VCM2ZHOEFURGdQNVNlODQ5Y2l3d3NiRzF4TktIbnVha2NTTHVaeDVDSjNLeHM?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9US2kzdWs5bHhuMThHOEpkbFZ4VTh6UEdodGJRVWJ0OXJBYlVsZk5lbnRKT3FQVUxXRFNJbDNCS3hlTVFDcTJSSm9nUzJ6R2FGWVAwRHhORm16NjdySHNleTBKMTRzWnNvejZRZGtfSXo0WWtKdFlYbURhX2haZXFRTlhvdUtrV3U1UFBiY0RMQlFsQTVpRDl5RWk1RDBnazYtbUM4Z0I?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -23969,14 +24007,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-25T14:58:54+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The posting explicitly requires 4 years of experience in management consulting, sales operations, business strategy, or corporate advisory, exceeding his ~1.3 years and lacking his specific background.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-25T14:58:54+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting explicitly requires 4 years of experience in management consulting, sales operations, business strategy, or corporate advisory, exceeding his ~1.3 years and lacking his specific background."
   },
   {
    "id": "L0164",

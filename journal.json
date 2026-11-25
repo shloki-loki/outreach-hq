@@ -11456,6 +11456,15 @@
    "title": "Ran",
    "detail": "sent 8, failed 0. daily cap of 60 speculative notes reached",
    "ref": ""
+  },
+  {
+   "id": "J1274",
+   "at": "2026-11-25T17:30:45+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 4, failed 0. daily cap of 60 speculative notes reached",
+   "ref": ""
   }
  ]
 }

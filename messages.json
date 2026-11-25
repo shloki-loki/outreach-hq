@@ -20040,6 +20040,34 @@
    "thread_parent": "<179535828125.74684.14228888002227647673@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0668",
+   "lead_id": "L0506",
+   "contact_id": "C1",
+   "to": "dt@inspektlabs.com",
+   "to_name": "Devesh Trivedi",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Devesh,\n\nOne more thing that may be relevant at Inspektlabs: at InsuranceDekho I built a Flask API with a Chrome extension that autofilled forms, cutting response times by 40%. Is there a manual workflow in your team that I could look at?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-25T13:40:24+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179535837390.74684.4815337036285066337@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

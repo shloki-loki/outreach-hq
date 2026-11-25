@@ -270390,15 +270390,15 @@
    "key": "tredence|business operations manager|bengaluru",
    "type": "job",
    "company": "Tredence Inc.",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "tredence.com",
+   "company_url": "https://www.tredence.com",
    "company_linkedin": "https://www.linkedin.com/company/tredence",
    "company_note": "",
    "title": "Business Operations Manager",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4494600090",
    "source_url": "https://in.linkedin.com/jobs/view/business-operations-manager-at-tredence-inc-4494600090",
@@ -270414,7 +270414,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-26",
    "open": true,
-   "jd": "",
+   "jd": "Role Purpose\n The Business Operations Manager is responsible for driving operational excellence, business performance, governance, planning, and execution across a business unit, practice, or function. The role acts as the bridge between leadership, delivery, finance, HR, sales, and resource management teams to ensure business goals are achieved efficiently and profitably.\n In addition, the role will serve as a strategic business partner to leadership by driving Annual Operating Plan (AOP) execution, business forecasting, performance visibility, and governance, enabling data-driven decision-making across the organization.\n Key Responsibilities\n 1. Business Planning & Performance Management\n Support annual operating plans, budgets, and strategic initiatives.\n Track key business metrics including revenue, margin, utilization, headcount, backlog, and growth.\n Develop performance dashboards and executive reports.\n Identify risks, trends, and opportunities through data analysis.\n Drive AOP tracking and monitor business performance against plan and budget.\n Develop monthly business forecasts and conduct variance analysis against business targets.\n Partner with Sales and Delivery teams to improve forecasting accuracy and provide visibility into future business performance.\n Support leadership with proactive identification of business risks, opportunities, and corrective actions.\n 2. Operational Governance\n Establish and manage operating rhythms such as weekly business reviews and monthly operational reviews.\n Ensure compliance with company policies, controls, and governance frameworks.\n Drive accountability on business commitments and action plans.\n Establish and manage Weekly, Monthly, and Quarterly Business Review cadences (WBRs, MBRs, QBRs).\n Track action items and business commitments arising from governance forums and ensure timely closure.\n Provide consolidated business performance insights to support leadership decision-making.\n 3. Financial & Resource Management\n Partner with Finance on forecasting, budgeting, and cost management.\n Monitor productivity, utilization, bench, and workforce planning.\n Support resource allocation decisions to optimize profitability and delivery.\n Monitor business performance against revenue, margin, utilization, and workforce targets.\n Partner with Finance to provide business performance visibility and forecasting inputs.\n Support capacity planning and resource allocation decisions based on demand forecasts and business priorities.\n 4. Business Analytics & Insights\n Analyze business performance and generate actionable insights.\n Develop KPI scorecards and management dashboards.\n Conduct root cause analysis for performance gaps and recommend corrective actions.\n Develop executive scorecards and dashboards that provide a holistic view of business performance.\n Generate actionable insights across revenue trends, utilization, workforce planning, productivity, and growth metrics.\n Conduct variance analysis to identify performance gaps and recommend corrective actions.\n 5. Cross-Functional Program Management\n Lead strategic initiatives and transformation programs.\n Coordinate across Delivery, Sales, HR, Talent Acquisition, Finance, and PMO teams.\n Ensure timely execution of high-priority business programs.\n 6. Process Improvement\n Identify inefficiencies and streamline operational processes.\n Drive automation, standardization, and continuous improvement initiatives.\n Establish best practices and operational playbooks.\n 7. Leadership Support\n Act as a Chief of Staff-like partner for business leaders.\n Prepare leadership reviews, board updates, and executive presentations.\n Facilitate decision-making through data-driven recommendations.\n Act as a trusted business partner to leadership by providing visibility into business performance, forecasting, and execution progress.\n Serve as the central coordination point for business planning, governance, and operational reviews.\n Support strategic decision-making through data-driven recommendations and business performance analysis.\n Typical KPIs\n Revenue Growth\n Gross Margin / Contribution Margin\n Utilization %\n Bench %\n Headcount Growth\n Attrition %\n Hiring Fulfillment %\n Forecast Accuracy\n Project Delivery Health\n Employee Productivity\n Customer Satisfaction (CSAT/NPS)\n Annual Operating Plan (AOP) Achievement\n Revenue Forecast Visibility\n Workforce Plan Adherence\n Business Review Effectiveness\n Skills Required\n Functional\n Business Operations\n Financial Analysis & Budgeting\n Workforce Planning\n Program Management\n Data Analytics\n Process Excellence\n Stakeholder Management\n Tools\n Excel / Google Sheets\n Power BI\n Salesforce\n SuccessFactors\n PowerPoint\n Leadership Skills\n Strategic Thinking\n Executive Communication\n Problem Solving\n Influence Without Authority\n Data-Driven Decision Making\n Typical Qualification\n Bachelor's degree in Engineering, Business, Finance, or Operations.\n MBA preferred.\n 12-15 years of experience in Business Operations, Strategy, PMO, Finance, Consulting, or Delivery Operations.\n Additional Preferred Experience\n Experience supporting business leaders through planning cycles, forecasting, governance reviews, and performance management.\n Proven experience driving business reviews, operational governance, and executive reporting.\n Strong exposure to revenue forecasting, workforce planning, utilization management, and business performance tracking.\n Ability to build and institutionalize operational processes in a growing organization.\nSeniority level Director | Employment type Full-time | Industries Artificial Intelligence",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -270429,8 +270429,8 @@
    },
    "score": {
     "rules": 71,
-    "research": null,
-    "total": 71,
+    "research": 45,
+    "total": 55,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -270440,15 +270440,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Operations Manager at Tredence Inc., but asks 12-15 yrs and director-level experience you do not have.",
+    "fit_notes": "The posting asks for a 'Bachelor's degree in Engineering, Business, Finance, or Operations' and '12-15 years of experience in Business Operations, Strategy, PMO, Finance, Consulting, or Delivery Operations' with an 'MBA preferred'. Shlok's S&OP and inventory work [sop, ceo-coo] aligns with operations, but his ~1.3 years of experience falls severely short of the 12-15 year minimum.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company ratings or culture data found in the web search or posting.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T03:34:40+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Tredence Inc. is bringing its AI Foundry to Kolkata for the first time on 8 August, marking the fourth edition of the hands-on workshop series built for developers, data scientists, architects, and AI practitioners already working on production-grade AI systems. Unli - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUJHdGpoNGplQ25yVDVlU0ZRQ1ppXzhVdXAxc2l4Q1VFM0dXckV3aU40YnVyZW9QUVNtc0FfdkpTUHRid3FMMzVudDJhRUk4dVZEOFdkUFlBamZvLTVJQ0NfZzhlcktvQVlMS2R5Y3B1LUNVa0lrakxhdXZGQWV0djlXY21HTmMyREZsbzVZQmtXa2dKNGRRcE5YbGxRSVZybktJR2o1eVZMeUNEUmlhb281a082aGs?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "RPA v AI: Tredence's Rakesh Sancheti on Procurement's Future - Procurement Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcE01ajUxdWozNG9jVTh1SFlidzU1QWthV19jZEtsSmFnM2xIM1IwbUJobGlWejJEWVlSSlpEZ18zU2Znb2ZZdnNqcWxBVDAzV212YzkzdG5uWWp5Nld1WG1qRFRmOU1CQ1ZVUUdjNnJ0YjNoazU0alVOMFNzeC1LcTlJNUJKS3dLRTNhUmgyYnRzZWs?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Tredence aims for $1 billion revenue by 2030 - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWs5SGtjdjNfNlRnTFVKaE9UQmVneEMwcmZRLWUtbGVBTUVxdHJqM0JlN1BRS09EaFNaa1lPYUwtLXJOVC1HclNxNENsV01mT044MG8zTDRSbGtTSFhpbTRqcndmTVJRVGtqSUs5NEhkbW55TDJCSF92LUVFNTJTaWs3b1loV0NsNTkyNTlxOTQydnpiZFI2b3kzWEd3ODJ3cjRxSGJVR0FEUHBnUjQ40gG2AUFVX3lxTE1ZVU9rRXJsbk5ILVVWOXNlYjJBYk94UlBidnV0VnFydmpyWEpkQnRTMGlFc19oXzRxa2hfdEp1VGVQZnktcldGZjYwa0o3MXBfUG1aNXUySk5XMzluZ2FCREt6WUZ0Q0h2NkUyUVJaQXZYUWVFZFY0cWV1eVd4OFBlLWpyTW5EcEpKSXZXYnBlV1M5UWpRajVxZFltSDVDMHpjbnc3VFZVemRvUjQ1bDFUQkVEUi1B?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Tredence acquires KMK Consulting to expand pharma AI business, target $1 billion revenue by 2030 - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM1daRXBQOWRTOWVONkpFLXVRU2dzMDhYUE1uRmxUQ2dJSFJQQkZFS2NLYktrRjFXOTY1ZWt5SHEzVHdHT0xycHFPNzc1OThUZGZQbS1fam52YVNiQlNBN29VUGlydG5ZcVJUcUh3MnJmczZ4YzB0YjNMUFcyM3JCRGMtWmQzRURreFpzZEFReV9yb29rbmtUNENBdG5tWC1vY3h0Y0tNNzFCYlZKSF8tYW1KTkVGZ1FGMmxWdXRNZTAtY3ozZnozRzBNcGU2ek4wZzN3b2NOUHBJcF9tRS14dUNpbmptcWU3UWlNWg?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Tredence Launches Domain Native Forward Deployed Engineering to Close the Last Mile of Enterprise AI - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWEp3cEtfaEZtTEQ0ZDREM0M1dVY5SW9qdUs2T1gzVThRSDd0QmRBMVdkRlpjUm4tZDRNbTFSS21JQ1lQNDh5eFBKRDBuS1Q1U0lfYlVXb2hMUDBfdHd4UHNReFVYdk54ZDcxQ0pla1BJVzh0QTZ3ejlpREFFSkZka2ExS0M4R09IQ0FxTER2OTYzS3NrT0xKdnlyZXB4cWRiVm1CTG5SNWxoeDNTMHhSamM0WlZxdkJFN1o2ek1JUVBSdE9Sczc0WXVaLWtCU3BIQjNVOVhvRlhtbHZ6UkhEa0RR0gHnAUFVX3lxTE9kaFNzWnJadzNSeEduNXBIbENoMldiRTlqYWFyTG56S0l3dkRseGg2aGRBU1drcnBzeEJVSHZxUVVWTUFyamhBTXdJak9ER3F4dXJsMmxuZXdYYVJpOWlzd0dnV2JhWFNkSTY1aTIwZTNqd1pSaHd1bkdfR1JrXzR5bWFDYW45OUdtWFRXbXZxaFN4RDNQVHVnQ2dQaFhNaGZPd29OU05kUmRWNEpBNkZSa0wxam8xVXV6R0FfazNsV2gyNzMxS0s0djZsU29pYWRPbVd4OFF0TFp0UG5PZXRjM3RYOG1wYw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Tredence Brings AI From Conversation to Creation in Kolkata - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDk3b2NnV1hmcWpsY1pxSnlvQmpZdE4yRm9kWnNxSWtWR2dYN2VzQUlCOUxvQmtQRVBycF8yMmUtenc1LS05X0FfakNIdV9GMG1ZZWpWZDBwZXhzRC1kdF9DZ0E1UlQ5LVA4RjlqZHZVbnM5bUs3eHhXX1B1TlhFRlk1T3ZiQjRrUjM1Y0s3aDVQbW80eHFyS2tmZGFmeFdoYUpsaXVB?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -270472,9 +270510,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 71"
+    },
+    {
+     "at": "2026-11-26T03:34:40+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 55: rejected (The posting asks for 12-15 years of experience, whereas Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30"
+   "updated_at": "2026-11-26T03:34:40+05:30",
+   "reject_reason": "The posting asks for 12-15 years of experience, whereas Shlok has about 1.3 years."
   },
   {
    "id": "L2102",

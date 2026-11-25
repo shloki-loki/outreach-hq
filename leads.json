@@ -79131,9 +79131,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Kapil Bharati awaiting approval"
+    },
+    {
+     "at": "2026-11-25T13:45:26+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Nepal Singh queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-25T13:41:48+05:30",
+   "updated_at": "2026-11-25T13:45:26+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -79319,9 +79325,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Debashis Basak awaiting approval"
+    },
+    {
+     "at": "2026-11-25T13:45:26+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Serge Maskalik queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-25T13:41:54+05:30",
+   "updated_at": "2026-11-25T13:45:26+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",
@@ -81127,9 +81139,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Diego Oppenheimer queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-25T13:45:26+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "template founder-v2 email to Safeer Mohiuddin queued (approved in chat)"
     }
    ],
-   "updated_at": "2026-11-25T00:05:35+05:30",
+   "updated_at": "2026-11-25T13:45:26+05:30",
    "live_check": {
     "at": "2026-11-24T15:20:12+05:30",
     "state": "unknown",

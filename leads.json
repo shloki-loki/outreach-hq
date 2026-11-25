@@ -275436,15 +275436,15 @@
    "key": "navi|ai strategy and operations|bengaluru",
    "type": "job",
    "company": "Navi Limited",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "navi.com",
+   "company_url": "https://navi.com",
    "company_linkedin": "",
    "company_note": "AmbitionBox 3.3 (479 reviews, via Naukri)",
    "title": "AI Strategy & Operations",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "naukri",
    "source_id": "251126031553",
    "source_url": "https://www.naukri.com/job-listings-ai-strategy-operations-navi-limited-bengaluru-0-to-1-years-251126031553",
@@ -275475,8 +275475,8 @@
    },
    "score": {
     "rules": 77,
-    "research": null,
-    "total": 77,
+    "research": 35,
+    "total": 52,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -275487,15 +275487,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "AI Strategy & Operations at Navi Limited, asks 0-1 yrs with no pay stated; does not meet your Rs 24.5 LPA floor.",
+    "fit_notes": "The posting asks for '0 to 1 years' and 'Bachelor s degree in any discipline (Preferred backgrounds: Economics,English,Psychology,Marketing,Social Sciences)'. Shlok's B.Tech in Electrical and Electronics Engineering does not match preferred backgrounds, and no pay is stated to verify the Rs 24.5 LPA requirement.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "AmbitionBox 3.3 (479 reviews, via Naukri); stage/funding notes a Prosus proposal of US$100m investment on 19 Aug 2026 [S1].",
+    "hook": "Founded in 2018 by Sachin Bansal and Ankit Agarwal, Navi has grown rapidly across Loans, UPI, Insurance, Mutual Funds and Digital Gold.",
+    "hook_source": "https://www.naukri.com/job-listings-ai-strategy-operations-navi-limited-bengaluru-0-to-1-years-251126031553",
+    "researched_at": "2026-11-26T03:30:15+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Prosus proposes investment of US$100m in Navi - Prosus",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbXN5U29uVFhQWm5IajIxZ0ExYV9sRlF4WTE1RVNKenozQTdObnd3cXNtUGhQcGZ1SDJiQ0ZhR2s2SlE4eVpCWFJhamRndUVIR29MalR5WjVMbmE2TEJVZUx1T3RjUmZCSEQ0MU1tSjlxU3lMOVVHQTBObTV2MTZXZFluWEZNOHJaNXlHeVMwV3hWS2Zqbjg4Tm16bw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Navi Mumbai airport opens a new real estate corridor - JLL",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd29kNWtqMXM1T1FrZi1rVU5zX1ozaWlKSTJjOGVOdVE1SGdpdkRPZTR3ZXZET1FQZm5fR29lOVp0SWRCZWI4a2JjMnR5eDBvcVVFVkZUSWVSZ2xTOWhMdURYV3d0RHg1N2VtTEJJc2lWMnBhbWxmeXRubVEySDlRSzg0TFlMY3d3TFBVVHphQU8?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Nobel Peace Prize for Navi Pillay a recognition that human rights, justice and accountability are fundamental to everything, says Türk - ohchr",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUlWVGRxckF3NkRmWnA5ejBRazhRT2dDYlFPVURNMUpfVS0yVnBDd1Bwa0RZem15SmFrOVhFUUlFeHFlZFZ3T3h5dU1Vek9ET3k5OFktT2dPSU5oZHA5Z2FYSnJ5XzBxNnk2NktsYjBrUjJtQWt5YkZUWmlBUklJdGFfWFdOajNhWVRHVGFiOTlGN084NlRFUElQa1JQamlucmtvTmEyRF9UQlpLNndlTnRZODkydTZiam4wZDQ4bWk?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Nobel Peace Prize laureate Navi Pillay visits International Criminal Court - | International Criminal Court",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlY4SVhsOVFwV3RwNGNPd2N6OC04bWRSMlZCYTMyWHo5ckVtSVg1Ukw5WTNFWlQ4M09iUzdoQ05qSXE2bnlJNjZ3eUJJdnJTSDF3SGIxUE9Lb1EwRk9MZzdXRDMxNDh5ZGFZZ21VSDBqcndhbzlYeEpBd25BaEY3ZWh5anJfRG9Cc1puSE9rME0wQ1htNVAzdEI1M0N5UVpDV0FMUnF3?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55N1F5NElCZGp4OGx3Mlk5LUVPNzFoYlo2bmVOT3JxNnZQeGZVb0NZVllFX0R0dXRBbFJmbERxQWFGZEozdWJDaE5VX1VaNlFVT2tnc3NBcw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Nobel Peace Prize to human rights pioneer Navi Pillay - Unric",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOazdmRzVOVDFJSC1jcXd3cHRFa2VRYmZ4SzByV3lmYndQOTRyaUZiQmNWTFFpVm83d0hwRHgwTEJ3QzZsSlV3aUlzZ1RPSkotLTU3LTNzY3N3U1NkYnpBTzF6QzFJU1pPQkk3d183SGNzQUVudXJ3OGtaLTd0dGZMVw?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -275519,9 +275557,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 77"
+    },
+    {
+     "at": "2026-11-26T03:30:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The role asks for 0 to 1 years of experience, but the posting specifies non-quantitative preferred backgrounds (Economics, English, Psychology, Marketing, Social Sciences) and mentions no pay, failing to meet Shlok's fixed pay requirement of Rs 24.5 LPA.)"
     }
    ],
-   "updated_at": "2026-11-26T02:20:42+05:30"
+   "updated_at": "2026-11-26T03:30:15+05:30",
+   "reject_reason": "The role asks for 0 to 1 years of experience, but the posting specifies non-quantitative preferred backgrounds (Economics, English, Psychology, Marketing, Social Sciences) and mentions no pay, failing to meet Shlok's fixed pay requirement of Rs 24.5 LPA."
   },
   {
    "id": "L2157",

@@ -19676,6 +19676,34 @@
    "thread_parent": "<179535626680.72781.11325672178317205174@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0655",
+   "lead_id": "L0491",
+   "contact_id": "C1",
+   "to": "rg@susteon.com",
+   "to_name": "Raghubir Gupta",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Raghubir,\n\nOne more thing that may be relevant at Susteon: I drove production planning for a cell line launch where yield went from 42% to 67% in two months. Is scaling production something you're working through?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-25T13:38:50+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179535637145.72781.15901696802402232940@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

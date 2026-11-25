@@ -78113,7 +78113,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-25T14:11:52+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -78168,9 +78168,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "TimeoutError: timed out"
+    },
+    {
+     "at": "2026-11-25T14:11:52+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Upasana Taku"
     }
    ],
-   "updated_at": "2026-11-23T08:32:27+05:30",
+   "updated_at": "2026-11-25T14:11:52+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

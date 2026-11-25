@@ -11690,6 +11690,15 @@
    "title": "Diagnosis: research-worker 25 Nov 15:06 failed: Gemini 503 and free quota exhausted",
    "detail": "Cause: Gemini free-tier overload (503) and daily quota spent by the 15:06 research run, so the writer had nothing to draft with. Remedy: it resets tomorrow; to avoid repeats spread research across fewer leads per run or add a paid/second model key. Nothing lost; the 55 follow-ups were drafted earlier at 13:42.",
    "ref": "I0111"
+  },
+  {
+   "id": "J1300",
+   "at": "2026-11-25T20:12:37+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Checks 25 Nov 20:xx: sending, bounces, workflows",
+   "detail": "Daily cap of 60 speculative notes reached at 17:30; 130 emails sent today, 0 failed in the 15:20-17:30 runs; later runs correctly sent 0. 59 messages are 'approved' (founder-v2 queue) and are held by the cap, not stuck. 55 follow-up drafts (created 13:42) await Shlok's approval, under 3 days. Bounces: total 20 of 507 sent = 3.9%; 1 bounce reported at 17:25 on 25 Nov, below the 5% and 2-a-day limits. GitHub runs (gh run list, 15 latest) all succeeded and ran on time today (digest 11:57Z, scout 10:28Z, track 11:48Z). data branch log shows clean sequential commits, no repair commits. Open-issue count is high (30) mostly because old issues I0010, I0011, I0015 await a no-error day to resolve; not resolved this run since 401s last seen 17 Nov but no fresh GitHub run evidence of success was checked.",
+   "ref": ""
   }
  ]
 }

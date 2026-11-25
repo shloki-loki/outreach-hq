@@ -77595,9 +77595,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Manish Gupta"
+    },
+    {
+     "at": "2026-11-25T15:14:45+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Tapan Kapoor"
     }
    ],
-   "updated_at": "2026-11-25T13:55:33+05:30",
+   "updated_at": "2026-11-25T15:14:45+05:30",
    "live_check": {
     "at": "2026-11-25T13:57:44+05:30",
     "state": "unknown",

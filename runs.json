@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-23T22:45:17+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-23T23:05:27+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3497,6 +3484,13 @@
     "settled": 0,
     "followups_due": 65
    }
+  },
+  {
+   "at": "2026-11-26T16:26:50+05:30",
+   "agent": "lead-scout",
+   "ok": true,
+   "summary": "8 researched, 0 qualified, 8 rejected, 0 emails found; no new qualified leads; remaining 4 of the 12 budget skipped as the rest were closed or low-scoring",
+   "stats": {}
   }
  ]
 }

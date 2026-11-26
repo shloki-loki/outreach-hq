@@ -284808,7 +284808,12 @@
      "detail": "linkedin: rule score 74"
     }
    ],
-   "updated_at": "2026-11-27T02:15:28+05:30"
+   "updated_at": "2026-11-27T02:15:28+05:30",
+   "research_attempt": {
+    "at": "2026-11-27T03:28:54+05:30",
+    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L2198",

@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T12:31:03+05:30",
-   "agent": "send-track",
-   "ok": true,
-   "summary": "0 emails drafted, 0 referral notes (no connections matched), 0 application kits; skipped: L0105 and L1556 only catch-all addresses after recheck and score under 80; apply pages are LinkedIn job pages, no readable forms",
-   "stats": {}
-  },
-  {
    "at": "2026-11-24T12:31:28+05:30",
    "agent": "follow-up",
    "ok": true,
@@ -3459,6 +3452,13 @@
     "settled": 0,
     "followups_due": 5
    }
+  },
+  {
+   "at": "2026-11-26T22:25:20+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 57 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

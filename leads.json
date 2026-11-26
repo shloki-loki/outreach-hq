@@ -57938,9 +57938,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup2 to Meeta Sharma Gupta queued (template)"
+    },
+    {
+     "at": "2026-11-26T17:47:12+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to Meeta Sharma Gupta"
     }
    ],
-   "updated_at": "2026-11-26T00:05:23+05:30",
+   "updated_at": "2026-11-26T17:47:12+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

@@ -1565,7 +1565,7 @@
    "opened_at": "2026-11-26T16:27:01+05:30",
    "last_seen": "2026-11-26T16:27:01+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: the scheduled lead-scout session has no Apify tools and no WebFetch, so LinkedIn-post and Naukri sourcing is skipped and only curl on LinkedIn guest pages works. Remedy for Shlok: run the scout from a session with Apify connected, or accept curl-only research. Not a data-loss problem.",
    "resolved_at": null
   },
   {

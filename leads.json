@@ -264503,15 +264503,15 @@
    "key": "teampumpkin|business development manager|bengaluru",
    "type": "job",
    "company": "Team Pumpkin",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "teampumpkin.com",
+   "company_url": "https://www.teampumpkin.com",
    "company_linkedin": "https://in.linkedin.com/company/team-pumpkin",
    "company_note": "",
    "title": "Business Development Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493621293",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-team-pumpkin-4493621293",
@@ -264527,7 +264527,7 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-27",
    "open": true,
-   "jd": "",
+   "jd": "T Job Overview: \n We are looking for a motivated and results-driven Business Development to join our dynamic team. In this role, you will work closely with the Sales and Marketing teams to identify new business opportunities, build relationships with potential customers, and contribute to revenue growth. Your primary responsibility will be to generate high-quality leads through various channels, including cold calling, email campaigns, and market research, while also guiding and supporting the sales team to meet and exceed sales targets.\n If you have a passion for sales, enjoy working in a fast-paced environment, and have a proven track record in lead generation and business development, we would love to meet you!\n Key Responsibilities: \n Market Research & Lead Generation: \n Conduct thorough market research to identify prospective clients and develop strategies to attract new business.\n Generate leads through emails, and other outreach methods to build a robust pipeline.\n Business Development Strategy: \n Create and implement strategies for business development based on target demographics, customer needs, economic trends, and industry insights.\n Sales Process Management: \n Guide and support business development associates in their efforts to increase sales and revenue.\n Prepare and present sales pitches, product demos, and compelling reports to potential prospects to educate them on how our products and services meet their needs.\n Client Relationship Building: \n Cultivate and maintain strong relationships with customers to maximize business opportunities and improve customer retention.\n Needs Identification & Product Recommendations: \n Assess client needs and proactively suggest appropriate products/services, upselling when applicable.\n Educate clients on product specifications, benefits, and how they align with their business objectives.\n Account Management: \n Maintain and nurture potential customer accounts to ensure continuous revenue generation and the achievement of sales targets.\n Sales Performance Monitoring: \n Regularly monitor and evaluate sales performance metrics to ensure alignment with business objectives.\n Meet or exceed weekly/monthly activity goals and quotas.\n Training & Mentoring: \n Provide guidance and training to sales and customer service professionals on successful sales strategies, product knowledge, and customer engagement techniques.\n Trade Shows & Networking: \n Participate in industry trade shows, sales meetings, webinars, and training sessions to expand knowledge and build professional networks.\n Data Management & Reporting: \n Ensure the accuracy and regular update of customer contact information in the CRM system.\n Prepare detailed reports on business development activities, lead generation efforts, and sales performance.\n Required Skills & Experience: \n Work Experience: 3 -4 years of experience in business development, customer service, or sales roles.Proven track record of generating leads, meeting sales quotas, and achieving business development goals.\n Communication Skills: Excellent verbal and written communication skills, with the ability to deliver engaging presentations.\n Sales Techniques: Hands-on experience with various sales techniques, including cold calling, email outreach, and direct sales.\n CRM Experience: Familiarity with CRM software (such as Salesforce, HubSpot, or similar platforms) is a plus.\n Sales Metrics: Strong understanding of sales performance metrics and ability to drive results based on data.\n Technical Skills: Proficient in Microsoft Office (Word, Excel, PowerPoint, Outlook).\n Why Join Us? \n Competitive salary and performance-based incentives.\n Opportunities for career growth and professional development.\n Collaborative and fast-paced work environment\nSeniority level Mid-Senior level | Employment type Full-time | Industries Marketing Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -264542,8 +264542,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -264553,15 +264553,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Development Manager at Team Pumpkin, asks 3-4 yrs; requires sales experience that does not match your S&OP background.",
+    "fit_notes": "The posting asks for '3 -4 years of experience in business development, customer service, or sales roles' and a 'proven track record of generating leads'. Shlok has ~1.3 years of experience in Strategy & Operations at Ola Electric, with no primary background in direct sales or business development. No MBA or consulting is required.",
+    "pay_notes": "Pay is not stated in the posting ('Competitive salary and performance-based incentives'). No pay evidence found in sources.",
+    "culture_notes": "Team Pumpkin recently appointed Swati Nathani as CEO in October 2026 [S3]. No employee ratings or specific culture flags were found in the provided sources.",
+    "hook": "Swati Nathani took charge as CEO of Team Pumpkin in October 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1M1RGpjeThPcFd1SEdhSlY0b1lvNGcyYWRSZXg2djcyemVFekkwWjFaNkN0TzVLU3BKTmtoSEh3MDgxbGc5cWJxcTBNWUEwSXVrVVlXNmV2eWVVdHJCRTZiR1NGaU5OYTZsdERORVhOUXhuSFdodGxBXy1KalZyQWZjVnFJRUduZTFtcFlMcVJXUUdCd0pqYnozTFY5ZTJDSnZBZEtmSDEzLXV3N3NSd0c4TQ?oc=5",
+    "researched_at": "2026-11-27T03:32:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Royaloak appoints Team Pumpkin as digital marketing partner - afaqs!",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeE9YOWxfNS1oVWozNVY3OXRYQXkycTV3eE1QbEw5SkhmNVdteERsLUN6MUl2WE52eDVDYllZMVJBdXR5MFk1Y1MyS2wxQUNiMXljeXRaQkhZX0lISE51NUJhb1IwZjF3eS0wZnE5OVdLVU1PajRqU3RNaU5PVVRaQzNUbHJENHVxRVJsbW1lX0Z4N003bTVfNDZXaGtwQnprZVB3TVZ3N1VzZw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Team Pumpkin secures social media mandate for Lavie Sport - Social Samosa",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQlZCeFEwU1pwY1ZrRm9BM0FMYW1TaVZkN0JxUENEMjVZMkxsM1VSbGNORi0zQXlFakVZTTY2bmZfSFQ5a1NhN0NUM0JjQkppYlZJWUxxbnBaNjFsbS16U3NRNmdBMzVlQnRneHZTd1NYOXJvOHc3Um9RYW1iZjdLdFdxOWhrbWNHTlNpcFdTbkw1aV9FazA4bzRDYnlMRzdvaDNobENVTUp1RHZJ0gGsAUFVX3lxTE1CVkJ4UTBTWnBjVmtGb0EzQUxhbVNpVmQ3QnFQQ0QyNVkyTGwzVVJsY05GLTNBeUVqRVlNNjZuZl9IVDlrU2E3Q1QzQmNCSmliVklZTHFucFo2MWxtLXpTc1E2Z0EzNWVCdGd4dlN3U1g5cm84dzdSb1FhbWJmN0t0V3E5aGttY0dOU2lwV1NuTDVpX0VrMDhvNENieUxHN29oM2hsQ1VNSnVEdkk?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Swati Nathani takes charge as CEO of Team Pumpkin - Exchange4Media",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1M1RGpjeThPcFd1SEdhSlY0b1lvNGcyYWRSZXg2djcyemVFekkwWjFaNkN0TzVLU3BKTmtoSEh3MDgxbGc5cWJxcTBNWUEwSXVrVVlXNmV2eWVVdHJCRTZiR1NGaU5OYTZsdERORVhOUXhuSFdodGxBXy1KalZyQWZjVnFJRUduZTFtcFlMcVJXUUdCd0pqYnozTFY5ZTJDSnZBZEtmSDEzLXV3N3NSd0c4TQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Team Pumpkin wins AlphaTheta’s social media mandate in India - IMPACT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWk5WGkzZUxYTmdlR2ItVEcwWnpJVUtsLWdNcHF1ckdEYy1hTmxJQ0I3YXRJNEg1c1lnSVlleHl3N1Q4MnY2Um50VHFoOUtTeVlPVTU2Uk1rNkFHbFJkbURNOEZIbTFEOTM2YUR6eTQxdlhNSnRBYWZrN2ZDeXc5YllqaTV1MEkwNlVhNTRSWEZ1SDk5ZUFIWlpjMmJHREJEWjRXQml4ZC1vc3Z1OHR1TUpyNkYwZw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Swati Nathani takes charge as Team Pumpkin CEO - MediaNews4U",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVZHRnpnWnB1YnJpSXk2Y1hOQkFsVXRHck9Tb0t4Mkd4ZFRQMTlaUTVtLVhLSUxLSG1PdWlaYUhEaU1lRnhCRERhZ1pMNGstVkdzRHhyZWl2NDI0OGc3WkdXM01Ka0VVSFZ6QXA3cFdtUDZCNmtJWEdRVTdEeFUzeQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "zingbus partners with Team Pumpkin to strengthen brand visibility - Adgully",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXBZWkg3MzZJMXh6c0hSTm45MDF2RGFCRldNbjk2eHpoTzNLVnJrc1BZaU1XRDRHWDRsYUdldVljWUFoTDRDa0t3QXgwWXg2RWw3c0VvRV90NVRiSVRaNnNvcGtQMC11TGhUU2dNcXF4cEtMWl9oMDFtRTZiMDRvSC1TN3RRSkFIbWI4TTdyNG0xV3VSNHNDRTN0MGFLZVQ2MEE?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -264585,9 +264623,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-27T03:32:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The role requires 3-4 years of experience, exceeding Shlok's ~1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-27T03:32:58+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -264597,7 +264641,8 @@
     "at": "2026-11-26T03:40:05+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role requires 3-4 years of experience, exceeding Shlok's ~1.3 years."
   },
   {
    "id": "L2015",

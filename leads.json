@@ -263107,15 +263107,15 @@
    "key": "cisco|engineering program manager lab management end to end 8 years|bengaluru",
    "type": "job",
    "company": "Cisco",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cisco.com",
+   "company_url": "https://www.cisco.com",
    "company_linkedin": "https://www.linkedin.com/company/cisco",
    "company_note": "",
    "title": "Engineering Program Manager - Lab Management- End to End - 8+ Years",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4492470577",
    "source_url": "https://in.linkedin.com/jobs/view/engineering-program-manager-lab-management-end-to-end-8%2B-years-at-cisco-4492470577",
@@ -263131,7 +263131,7 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-26",
    "open": true,
-   "jd": "",
+   "jd": "Manages the development and implementation process of a company’s products and services. Manages cross-functional projects or programs that are focused on the delivery of a product or system from concept to release for customers. Develops, defines and executes project plans, schedules, budgets, and deliverables. Identifies needed resources for projects, defines and assigns major project roles. Monitors the project from initiation through delivery including planning and directing schedules and monitoring budget/spending. Assigns and monitors work of project/program management staff, providing technical support and direction. Organizes cross-functional activities, ensuring completion of the project i.e., product on schedule and within budget constraints. The role typically requires a technical background in order to complete its overall project management responsibility. What You’ll Do:\n Advanced experienced professional using best practices and knowledge of internal or external business issues to improve products or services.\n Works independently but receives minimal guidance and direction from leader then determines best approach to accomplish work.\n Acts as a resource for colleagues with less experience.\n Requires solid conceptual and practical knowledge in primary technical job family and knowledge of related technical job families; has worked with a range of technologies.\n Understands project and/or department needs and establishes relationships with appropriate cross-functional stakeholders to gather input, collect information and complete work steps.\n Manages a small number of mid-sized projects or programs with moderate to high risk, and multiple interdependencies (e.g., multiple features)\n Agile: Manages projects involving 3-6 scrum teams and complex dependencies\n Provides technical guidance and oversight to junior team members\n Typical strategic horizon of project: 6 months to 1 year\n Demonstrates solid working knowledge of multiple engineering/technical domains and provides domain knowledge transfer to less senior team members\n Has solid working knowledge of agile principles; identifies opportunities to implement agile best practices in own teams\n Manages end to end schedule and identifies critical path and dependencies to optimize schedules across technical projects/programs\n Consults on changes to the project plan in an iterative and adaptive way, and within the constraints of scope, time and cost\n Reviews project milestones against predetermined key performance indicators and reports consolidated project/program status and financial information to leadership\n Manages complex risks and proactively anticipates and manages scope creep; executes on plans to mitigate and eliminate impediments and facilitate flow\n Allocates and continuously evaluates resource needs (training needs, tools, funding) and develops action plans for optimal resource utilization.\n Identifies and engages right set of functional and cross functional stakeholders to collaborate and develop technical solutions impacting own and related project/programs\n Collaborates with project leadership team to identify areas of improvement and applies knowledge of emerging best practices and policies within span of engagement\n Facilitates technical QA and general code testing\n Identifies and recommends improvements to product development lifecycle and best engineering best practices\n Develops roadmap and guidelines for tailoring practices to complex and dynamic projects/programs Minimum qualification: Typically: Bachelors + 7 years of related experience, or Masters + 4 years of related experience, or PhD + 1 year of related experience. Preferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications\n Why Cisco?\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\nWe are Cisco, and our power starts with you.\n Disclaimer\n About\n To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n be in direct response to an application you have submitted through the company career site\n begin with screening or an interview\n originate from a Cisco email address, and\n be conducted across email, phone, or WebEx\n Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\nIf you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.\nSeniority level Not Applicable | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -263146,8 +263146,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -263157,15 +263157,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Engineering Program Manager at Cisco, but asks 7+ years and you have 1.3 years.",
+    "fit_notes": "The posting asks for a Bachelors + 7 years of related experience (\"Typically: Bachelors + 7 years of related experience\"). Shlok only has 1.3 years of experience, violating his rule of rejecting roles requiring more than 3 years minimum. No specific facts map to this mismatch.",
+    "pay_notes": "Pay not stated in the posting or search evidence.",
+    "culture_notes": "Cisco reported fresh workforce reductions/layoffs in November 2026, reducing headcount by 8.8% over two years (People Matters - HR News).",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T03:32:37+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Two critical RCEs in PHP core - Cisco Talos Blog",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zN3ZxNXRYbmtlVzVQNU53dTAwLXk1WUxZckEyZ0RaU1pvNXVDQnctWGE3anY3MUt1NGdsUlB2bzhsQXBkcXljdmtTWFFENkVacVFnUF9kdmp2aXNkWmw1dWkxX2IzMERMa2g5TlJOWlJPVE0?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "OpenAI and Cisco introduce Shirudo - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Deploying AI You Control Doesn’t Need to be So Hard - Cisco Blogs",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXg3UlBaUk5Ebl9CaU1FUzRnSmduVXpsMDBkUTNDX1FhQWg1THg4SVJJUDQ2RnZ0XzlmNnBDb09VZWI3OFFlS1pzSVBkYk02aGE2anFYd2ZhTXZrUnhuM3B5THliLVAtNk9VeF9KYS1ndFQ4WjUwTEZlT1ZxdkoweU1jQklkdw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Cisco reduces workforce by 8.8% in two years, reports fresh layoffs in November - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNG9PSzVDT2NMNlpiZGp2czdjQklYOXEzYVEwbENLMkdEQktKdWFDeEczajhoU2xmZGdSbnQzU0x1ZjUyNFEzUWxKV0JfUVk1NnpkbzRLNTJCSGNITzFIZTVTYzhWTHJKZGJvTjM4R3VLS05NWm52dUlJN3VjOFl6NzVOWVJHZkhlM3ZqVEhLX1NybFRTcFJsekFZdXc1bG1zdlNWWFo5RDlPQ0JFWmVUT2V6SDdITW02b3BXUWJBU2ZnMG43dm1qS3lKS1hNNWU5eHc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzdLenZkbmg4ZVgySnVXMnlkbFFUT1p0cWdwNXRRRHVxRXp4TTNnUDF0bHA5YVQ3U3h5TURVaHlCZHpEN1F2RmxqXzkwbnRSVU1UTHRYTzUwdUdDOXBsbDlVWFNZYXNKNE9uUTdzLU1aaXV2Z0hqc2tLcUpYOUZTOEJJM2dxZTVhWURKdFNjYWcyMTZ2ZWRuWGxGbXUzY3lSaEFjRTBvaVdwM3Bu?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Cisco Products Multiple Vulnerabilities - Hong Kong Computer Emergency Response Team Coordination Centre",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORU5udUZHUkctenA5dExpSnl1ejVHUzRLZHIwWnZ5cDU4QzFJd054TVU5cWZFOWFTd21tTWEzcGw5bWdLWkFhUnNXS1A5NkZtdm5ZRURpNFVIMDZad2Zxb2tMblU5aXhKaGN2eGNwQmJ1TUdZUUZqSFluS0JWUFA3MFViRGhKMVg5SC1mRWxESGZyR3M?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -263189,9 +263227,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-27T03:32:37+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The posting asks for 7+ years of experience, which violates Shlok's strict 3-year maximum limit rule.)"
     }
    ],
-   "updated_at": "2026-11-24T04:46:08+05:30",
+   "updated_at": "2026-11-27T03:32:37+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -263201,7 +263245,8 @@
     "at": "2026-11-26T03:38:57+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting asks for 7+ years of experience, which violates Shlok's strict 3-year maximum limit rule."
   },
   {
    "id": "L2004",

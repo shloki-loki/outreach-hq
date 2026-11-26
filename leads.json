@@ -91077,9 +91077,15 @@
      "actor": "follow-up",
      "event": "bounced",
      "detail": "ashish@grainite.com does not exist; needs a new address"
+    },
+    {
+     "at": "2026-11-26T17:05:40+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Abhishek Chauhan"
     }
    ],
-   "updated_at": "2026-11-25T17:25:10+05:30",
+   "updated_at": "2026-11-26T17:05:40+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

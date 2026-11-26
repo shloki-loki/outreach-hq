@@ -1553,6 +1553,20 @@
    "count": 1,
    "remedy": "Cause: Gemini free-tier overload (503) and daily quota spent by the 15:06 research run, so the writer had nothing to draft with. Remedy: it resets tomorrow; to avoid repeats spread research across fewer leads per run or add a paid/second model key. Nothing lost; the 55 follow-ups were drafted earlier at 13:42.",
    "resolved_at": null
+  },
+  {
+   "id": "I0112",
+   "key": "lead-scout:Scheduled run: no Apify, WebFetch unavailable",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "Scheduled run: no Apify, WebFetch unavailable",
+   "detail": "Apify tools not in session, so no LinkedIn post or Naukri sourcing. WebFetch not available; postings checked with curl on LinkedIn guest pages. Only 8 of 12 leads researched; rest of the top 15 were flagged closed (open:false) and skipped. Pay evidence was thin: only PhonePe had AmbitionBox data via search snippets.",
+   "status": "open",
+   "opened_at": "2026-11-26T16:27:01+05:30",
+   "last_seen": "2026-11-26T16:27:01+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

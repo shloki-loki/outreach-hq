@@ -12518,6 +12518,15 @@
    "title": "Ran",
    "detail": "8 researched, 0 qualified, 8 rejected, 0 emails found; no new qualified leads; remaining 4 of the 12 budget skipped as the rest were closed or low-scoring",
    "ref": ""
+  },
+  {
+   "id": "J1392",
+   "at": "2026-11-26T16:27:01+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "Scheduled run: no Apify, WebFetch unavailable",
+   "detail": "Apify tools not in session, so no LinkedIn post or Naukri sourcing. WebFetch not available; postings checked with curl on LinkedIn guest pages. Only 8 of 12 leads researched; rest of the top 15 were flagged closed (open:false) and skipped. Pay evidence was thin: only PhonePe had AmbitionBox data via search snippets.",
+   "ref": "I0112"
   }
  ]
 }

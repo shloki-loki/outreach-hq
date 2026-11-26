@@ -25625,6 +25625,34 @@
    "thread_parent": "<179550353772.18073.17210969339888471786@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0856",
+   "lead_id": "L0558",
+   "contact_id": "C1",
+   "to": "ayush.srivastava@moneytor.in",
+   "to_name": "Ayush Srivastava",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Ayush,\n\nOne more thing that may be relevant for Bodhi: At Ola Electric I implemented SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Happy to share how I approached it. Would a short call this week work?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-26T16:32:10+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179550377563.18073.14080617675850344488@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

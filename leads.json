@@ -88070,9 +88070,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Kapil Bardeja awaiting approval"
+    },
+    {
+     "at": "2026-11-26T16:47:44+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Anoop Prabhu"
     }
    ],
-   "updated_at": "2026-11-26T16:33:31+05:30",
+   "updated_at": "2026-11-26T16:47:44+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

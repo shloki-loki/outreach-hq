@@ -185103,15 +185103,15 @@
    "key": "ennovi|global program manager tesla|india",
    "type": "job",
    "company": "ENNOVI",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "ennovi.com",
+   "company_url": "https://www.ennovi.com",
    "company_linkedin": "https://sg.linkedin.com/company/ennovi-electrify-faster",
    "company_note": "",
    "title": "Global Program Manager, Tesla",
    "tier": "2 - Product / Program / BD",
    "location": "Chennai, Tamil Nadu, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489097411",
    "source_url": "https://in.linkedin.com/jobs/view/global-program-manager-tesla-at-ennovi-4489097411",
@@ -185127,7 +185127,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Global Program Manager, Tesla \n Job Description \n About Company \n At Ennovi we harness the power of two megatrends - electrification and AI - to help industries innovate at speed, operate smarter, and achieve sustainable growth. By combining these transformative forces with our global reach and best talent, we empower our customers to lead their markets and drive sustainable progress.\n From automotive and aerospace to consumer electronics, data storage, industrial, and medical markets, we harness these forces to help our customers create smarter, safer, and more sustainable solutions. We thrive best in developing high-performance custom solutions that meet diverse technical needs, solve unique challenges, optimize performance, and adapt to evolving market demands.\n Our mission is to get customers to the future faster, from anywhere. Headquartered in Singapore, ENNOVI has a global presence across North America, Europe, SEA, China and India, where all its activities are socially responsible, with minimal environmental impact. Learn more at www.ennovi.com.\n Ennovi is an equal opportunity employer in conformance with all applicable laws and regulations to individuals who are qualified to perform job requirements. The Company administers its personnel policies, programs, and practices in a non-discriminatory manner in all aspects of the employment relationship, including recruitment, hiring, work assignment, promotion, transfer, termination, wage and salary administration, and selection for training.\n Why Join Us \n At Ennovi, we envision a future of electrification and innovation and strive to create an inspiring workplace where our employees are integral to shaping that future. We offer a dynamic, collaborative and inclusive culture that encourages continuous learning, professional growth, and a sense of purpose. As a part of the Ennovi team, employees experience the excitement of being at the forefront of cutting-edge technologies and contributing to a sustainable future.\n Our commitment to the transformation is epitomized by our five pillars: Speed, Innovation, Best Talent, Global Reach, and Sustainability. This entails navigating exponential market changes through agile structures, fostering innovation across all aspects of our business, strategically expanding our global footprint, championing sustainability initiatives and nurturing a winning team.\n Privacy Policy \n By applying to this job posting, you agree with and acknowledge our privacy policy.\n Job Summary \n The Program Manager will serve as the primary interface for Tesla and lead complex programs from development through production launch. The role requires strong cross-functional leadership to coordinate Engineering, Manufacturing, Operations, Quality, Supply Chain, Finance, and Sales teams, ensuring delivery against quality, cost, and timing objectives while maintaining customer satisfaction and successful program execution.\n Main Responsibilities \n The Program Manager (PM) will interface directly with customers to ensure successful product launches while meeting quality, timing, and cost objectives.\n Responsible for the overall success of assigned programs, with key performance indicators including on-time PPAP, on-time SOP, and program delivery within budget.\n Lead large and complex programs, multiple projects, or coordinate a team of Project Managers and Project Executives across their respective programs.\n Lead project teams and ensure compliance with APQP requirements throughout the product development and launch lifecycle.\n Coordinate and manage cross-functional inputs and outputs, providing interdepartmental and interdivisional alignment and escalating issues when necessary to maintain program objectives.\n Facilitate program issue resolution by driving root cause analysis and implementation of corrective actions.\n Upon program award and in accordance with the APQP process:\n Define, document, and communicate program targets, including cost, timing, reliability, and product specifications.\n Identify Project Core Team (PCT) members and establish appropriate meeting cadences.\n Serve as the primary customer interface across all functional areas.\n Maintain the Program Action Register/Open Point List (OPL) and overall project schedule.\n Provide regular program status updates to senior leadership.\n For New Product Introduction (NPI) programs, own and manage the RFQ and quotation process.\n Manage customer relationships and overall customer satisfaction at the program/project level.\n Qualifications \n Bachelor’s degree or equivalent required; technical background preferred (M.E., G.E., or Q.E.).\n 10–15+ years of experience in automotive program/project management, engineering, operations, or related functions within the automotive or a related industry.\n Demonstrated success managing complex global automotive programs.\n Strong OEM and customer-facing experience; direct Tesla experience highly preferred.\n Proven expertise in APQP, PPAP, product launches, and engineering/program change management.\n Experience managing customer escalations, compressed timelines, and rapidly changing requirements.\n Strong analytical, structured, and strategic thinking skills with the ability to work effectively with large data sets.\n Technical experience in high-volume stamping, molding, and mechatronic product assembly preferred.\n 8D problem-solving training and/or practical experience preferred.\n PMP or equivalent project management certification is an advantage.\n Flexibility to support working hours overlapping with US Pacific Time, including early morning and late evening calls. High availability during critical program milestones, launches, and customer escalations is required.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Appliances, Electrical, and Electronics Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -185142,8 +185142,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 38,
+    "total": 44,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -185153,15 +185153,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Global Program Manager for Tesla at Ennovi in Chennai, asks 10-15+ years experience, but you have 1.3 years.",
+    "fit_notes": "The posting asks for \"10–15+ years of experience in automotive program/project management, engineering, operations, or related functions within the automotive or a related industry\" and a \"Bachelor’s degree or equivalent required; technical background preferred (M.E., G.E., or Q.E.).\" While you have a technical B.Tech from IIT Guwahati and heavy operations experience at Ola Electric ([ceo-coo], [sop]), your ~1.3 years of experience falls severely short of the 10+ years minimum requirement.",
+    "pay_notes": "Pay not stated.",
+    "culture_notes": "No company ratings or specific culture reviews found in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T15:04:35+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -185185,14 +185195,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-26T15:04:35+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 44: rejected (The posting explicitly asks for 10-15+ years of experience, whereas you have about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-26T15:04:35+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting explicitly asks for 10-15+ years of experience, whereas you have about 1.3 years."
   },
   {
    "id": "L1381",

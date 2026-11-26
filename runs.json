@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T12:34:16+05:30",
-   "agent": "lead-scout",
-   "ok": true,
-   "summary": "13 researched (9+2 rejected counted: 11 rejected, 2 qualified: Navi L1980, Zynga L1996), 0 emails found; skipped scrape (ran 04:46 today), no Apify used; L2010 SkillYT left unresearched (LinkedIn 429); stale re-verify and Monday company scan not done",
-   "stats": {}
-  },
-  {
    "at": "2026-11-24T12:35:18+05:30",
    "agent": "send-track/send",
    "ok": false,
@@ -3465,6 +3458,13 @@
     "settled": 0,
     "followups_due": 5
    }
+  },
+  {
+   "at": "2026-11-26T22:45:21+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 57 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

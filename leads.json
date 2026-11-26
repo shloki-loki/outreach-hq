@@ -279194,8 +279194,8 @@
    "key": "inner|founder s office growth and go to market|bengaluru",
    "type": "job",
    "company": "Inner Labs",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "theinnerlabs.com",
+   "company_url": "https://www.theinnerlabs.com",
    "company_linkedin": "https://in.linkedin.com/company/the-inner-labs",
    "company_note": "",
    "title": "Founder's Office, Growth & Go-to-Market",
@@ -279224,17 +279224,17 @@
    "exp_text": "Seniority level Executive Employment type Full-time Industries Technology, Information and Media",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "Competitive fixed salary + performance incentive tied to revenue + equity",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "LinkedIn posting",
     "fit": "Unknown"
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 38,
+    "total": 57,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -279244,15 +279244,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office at a bootstrapped AI-search startup, asks 0-3 yrs; mostly outbound sales, no pay stated.",
+    "fit_notes": "Posting opened on LinkedIn 2026-11-26, no closed notice. Only partial match: Alcheringa sales/ticketing growth (300% YoY). S&OP, inventory and supply-chain facts do not map; role is pipeline building and pitching to CMOs. No funding/stage info found in search.",
+    "pay_notes": "No figure anywhere; no salary data found for the company.",
+    "culture_notes": "Bootstrapped, about a year in market per posting; founder is ex-VC (Zomato, Paytm earlier) per posting. No Glassdoor/AmbitionBox found. Occasional Saturdays per posting.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T16:25:00+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -279276,9 +279278,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-26T16:25:00+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 57: rejected (Role is mostly cold outreach and closing enterprise deals (sales), which the posting itself says is not for someone wanting strategy work; pay is only 'competitive fixed + incentive', no figure; bootstrapped, so 24.5 LPA fixed is unlikely and unverifiable.)"
     }
    ],
-   "updated_at": "2026-11-26T15:46:46+05:30"
+   "updated_at": "2026-11-26T16:25:00+05:30",
+   "reject_reason": "Role is mostly cold outreach and closing enterprise deals (sales), which the posting itself says is not for someone wanting strategy work; pay is only 'competitive fixed + incentive', no figure; bootstrapped, so 24.5 LPA fixed is unlikely and unverifiable."
   },
   {
    "id": "L2166",

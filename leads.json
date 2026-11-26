@@ -92420,9 +92420,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Pawan Kumar awaiting approval"
+    },
+    {
+     "at": "2026-11-26T17:12:36+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Prabu Chanduru"
     }
    ],
-   "updated_at": "2026-11-26T16:36:06+05:30",
+   "updated_at": "2026-11-26T17:12:36+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

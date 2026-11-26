@@ -13238,6 +13238,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 130 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J1472",
+   "at": "2026-11-27T02:15:32+05:30",
+   "by": "lead-scout/scrape",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "7095 jobs read, 331 passed rules, 39 new leads",
+   "ref": ""
   }
  ]
 }

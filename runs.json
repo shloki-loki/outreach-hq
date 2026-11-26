@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T16:45:13+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-24T17:05:14+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3383,6 +3370,31 @@
    "ok": true,
    "summary": "outside the sending window; 130 approved email(s) wait for the next run",
    "stats": {}
+  },
+  {
+   "at": "2026-11-27T02:15:32+05:30",
+   "agent": "lead-scout/scrape",
+   "ok": true,
+   "summary": "7095 jobs read, 331 passed rules, 39 new leads",
+   "stats": {
+    "fetched": 7095,
+    "passed_rules": 331,
+    "new": 39,
+    "updated": 277,
+    "closed": 0,
+    "by_source": {
+     "alerts": 49,
+     "greenhouse": 3703,
+     "lever": 117,
+     "ashby": 2029,
+     "linkedin": 638,
+     "instahyre": 219,
+     "yc": 179,
+     "naukri": 114,
+     "wellfound": 0,
+     "hiringcafe": 58
+    }
+   }
   }
  ]
 }

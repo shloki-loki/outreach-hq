@@ -206716,9 +206716,27 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Ankita Ghosh: ankita.ghosh@nathabit.in (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-26T16:23:41+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Gaurav Agarwal: gaurav@nathabit.in (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-26T16:23:41+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Kriti Panwar: kriti.panwar@nathabit.in (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-26T16:23:41+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Ankita Ghosh: ankita.ghosh@nathabit.in (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-25T13:33:14+05:30",
+   "updated_at": "2026-11-26T16:23:41+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",

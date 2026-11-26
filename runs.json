@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-23T22:06:13+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-23T22:25:14+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3496,6 +3483,19 @@
      "wellfound": 0,
      "hiringcafe": 0
     }
+   }
+  },
+  {
+   "at": "2026-11-26T15:51:00+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "1 replies, 1 bounces, 65 follow-ups due",
+   "stats": {
+    "replies": 1,
+    "auto_replies": 0,
+    "bounces": 1,
+    "settled": 2,
+    "followups_due": 65
    }
   }
  ]

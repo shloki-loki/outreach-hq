@@ -275959,7 +275959,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494474610",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-metaapply-ie-4494474610",
@@ -275975,7 +275975,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-27",
    "open": true,
-   "jd": "",
+   "jd": "BDM Job Description: \n Job Summary: \n The Business Development Manager (BDM) will be responsible for expanding the organization’s footprint in the overseas education market by building strong partnerships with local agents, driving student recruitment, and promoting international universities. The role requires in-depth knowledge of global education markets, strong networking abilities, and a results-driven approach to achieve enrollment targets.\n Key Responsibilities: \n Develop and execute strategic plans to promote overseas education services across assigned regions.\n Identify, onboard, and manage a strong network of local education agents and partners.\n Build and maintain long-term relationships with agents, ensuring consistent student pipeline generation.\n Conduct regular market research to understand trends in study destinations such as the UK, Canada, Australia, Europe, and other emerging markets.\n Drive student recruitment targets by supporting agents with training, product knowledge, and conversion strategies.\n Organize and participate in seminars, webinars, education fairs, and promotional events.\n Coordinate with internal admissions and operations teams to ensure smooth application processing.\n Provide regular reports on market feedback, competitor analysis, and business performance.\n Ensure compliance with university requirements and visa regulations.\n Key Requirements: \n Bachelor’s degree (Master’s preferred) in Business, Marketing, or a related field.\n 3–8 years of experience in the overseas education industry or international student recruitment.\n Strong understanding of international education systems (UK, Canada, Australia, Europe, etc.).\n Proven experience in agent network development and management.\n Excellent communication, negotiation, and presentation skills.\n Ability to travel extensively for agent meetings and market development.\n Strong problem-solving skills with a target-oriented mindset.\n Preferred Skills: \n Existing network of active education agents in the local market.\n Experience working with universities or education service providers.\n Knowledge of visa processes and admission requirements.\n CRM handling and reporting skills.\nSeniority level Associate | Employment type Full-time | Industries Higher Education",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -275990,8 +275990,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -276001,15 +276001,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at MetaApply, asks 3-8 yrs in overseas education; your supply-chain background does not map to it.",
+    "fit_notes": "The posting asks for '3–8 years of experience in the overseas education industry or international student recruitment' and a 'Bachelor’s degree (Master’s preferred) in Business, Marketing, or a related field'. Shlok has ~1.3 years of experience, failing the minimum requirement of 3 years. None of his facts ([msl], [o2d], [sop], [mrp], [ceo-coo], [rebalance], [cell], [idekho], [alcheringa], [ranks]) map to overseas education or student recruitment.",
+    "pay_notes": "No pay stated in the posting.",
+    "culture_notes": "No company website, reviews, or culture information found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T03:34:17+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -276033,9 +276040,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-27T03:34:17+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The posting explicitly requires '3–8 years of experience in the overseas education industry', and Shlok only has about 1.3 years of experience. Furthermore, the role is entirely focused on overseas student recruitment and agent network management, which has no overlap with his S&OP, inventory, and supply chain execution facts.)"
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30",
+   "updated_at": "2026-11-27T03:34:17+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -276045,7 +276058,8 @@
     "at": "2026-11-26T14:21:55+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting explicitly requires '3–8 years of experience in the overseas education industry', and Shlok only has about 1.3 years of experience. Furthermore, the role is entirely focused on overseas student recruitment and agent network management, which has no overlap with his S&OP, inventory, and supply chain execution facts."
   },
   {
    "id": "L2114",

@@ -50398,15 +50398,15 @@
    "key": "lego|demand planning manager|india",
    "type": "job",
    "company": "the LEGO Group",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "lego.com",
+   "company_url": "https://www.lego.com",
    "company_linkedin": "https://dk.linkedin.com/company/lego-group",
    "company_note": "",
    "title": "Demand Planning Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4463420857",
    "source_url": "https://in.linkedin.com/jobs/view/demand-planning-manager-at-the-lego-group-4463420857",
@@ -50422,7 +50422,7 @@
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Job Description\n Are you ready to join a high-performing Operations team and take ownership of demand decisions that shape business performance, influence senior colleagues, and ensure our products are available when it matters most?\nBring your planning and forecasting skills to be part of India’s growth journey – Use your excellent stakeholder skills to assure an optimal build up of India’s business plans, that are grounded in market realities while clearly articulating BU-specific assumptions across the planning horizon consolidating key inputs from sales and marketing to create plans.\n No relocation assistance is offered for this position\nCore Responsibilities\n Own the end-to-end Demand Plan for a part of the Business Unit, covering both Consumer Sales (CS – sales to consumers, based on retail sell-out data) and Selling-In (SI – sales to retail partners) at theme, customer group, and SKU level.\n Shape BU-level CS and SI decisions by balancing commercial ambitions with supply chain constraints, inventory health, and financial implications\n Define, challenge, and align demand assumptions with Sales and Brand Management, ensuring plans reflect commercial activities, product launches, and promotional strategies.\n Work with the sales and marketing teams to gain an understanding of past performance and reasons for deviations from expectations, as well as the drivers behind Forecasting KPIs.\n Work with the Business Intelligence team to understand drivers impacting consumer sales, including any changes to the category or country macroeconomic environment.\n Monitor and steer forecast performance (topline, theme, and item level), proactively identifying risks and adjusting plans to ensure strong in-stock levels while minimizing excess inventory and waste.\n Represent Demand Planning in key cross-functional forums, shaping plans for critical campaigns and driving alignment on priorities and trade-offs.\n Manage the Gap to Target process with Sales and Marketing to identify opportunities to close gaps in Consumer Sales and Retail Inventory\n Build and continuously improve demand planning capabilities, including tools, analytics, and ways of working, driving digitalization, process and collaboration excellence. \n Understanding of different channels & their behaviour which support better planning & forecasting.\n Play your part in our team succeeding\n BU India is one of the fastest growing BUs in the LEGO group and is quite strategic to the growth of the APAC maket. The team provides the operational backbone for sales and marketing functions enabling business continuity covering planning, inventory, customer service and logistics.\nAs Demand Planning Manager, you will shape the BU demand plan, aligning Sales and Marketing into one clear, data-driven view that drives critical commercial and supply chain decisions. Your work ensures the business commits to the right volumes at the right time\n Do you have what it takes?\n Bachelor’s Degree with MBA in Operations or Supply chain management from a Tier 1 institute is preferred\n Proven experience of 5 years or above owning and delivering demand planning, supply planning, or advanced analytics within a multinational FMCG, retail, or consumer goods organization.\n Strong understanding of S&OP processes and demand drivers, with the ability to translate Consumer Sales (CS), Selling-In (SI), and inventory dynamics into clear business decisions and outcomes.\n Ability to navigate ambiguity and complexity, prioritize effectively, and take accountability for sound business decisions in fast-paced and volatile environments.\n Strong collaborator management and executive presence; acts as a decisive sparring partner to Sales and Marketing, confidently influencing and constructively challenging decisions.\n Strong analytical and strategic capability; able to synthesize complex datasets, challenge assumptions, and own the development of robust, actionable demand plans.\n NICE TO HAVE \n Result Orientation There is a high expectation to deliver an accurate and insight-based forecast built off an understanding of past performance and the ability to explain its impact on future planning assumptions.\n Collaboration To be effective in this role, you will need to proactively build a culture of collaboration with the Sales, Marketing and Business Intelligence teams where changes in planning assumptions are stress-tested through constructive discussions.\n Functional Expertise You will need to have a strong understanding of Sales and Operations Planning and Forecasting, as well as best practices to be able to drive the continuous improvement within the processes.\n Power BI Passion for data and digital tools advanced proficiency in Excel (including VBA and Power Query) and Power BI, with a focus on driving automation and enabling better decision-making.\n Applications are reviewed on an ongoing basis. However, please note we do amend or withdraw our jobs and reserve the right to do so at any time, including prior to any advertised closing date. So, if you're interested in this role we encourage you to apply as soon as possible.\n What’s in it for you?\n Here is what you can expect\n Family Care Leave - We offer enhanced paid leave options for those important times.\n Insurances – All colleagues are covered by our life and disability insurance which provides protection and peace of mind.\n Wellbeing - We want our people to feel well and thrive. We offer resources and benefits to nurture physical and mental wellbeing along with opportunities to build community and inspire creativity.\n Colleague Discount – We know you'll love to build, so from day 1 you will qualify for our generous colleague discount.\n Bonus - We do our best work to succeed together. When goals are reached and if eligible, you'll be rewarded through our bonus scheme.\n Workplace - When you join the team you'll be assigned a primary workplace location i.e. one of our Offices, stores or factories. Our hybrid work policy means an average of 3 days per week in the office. The hiring team will discuss the policy and role eligibility with you during the recruitment process.\nChildren are our role models. Their curiosity, creativity and imagination inspire everything we do. We strive to create a diverse, dynamic and inclusive culture of play at the LEGO Group, where everyone feels safe, valued and they belong.\nThe LEGO Group is highly committed to equal employment opportunity and equal pay and seeks to encourage applicants from all backgrounds (eg. sex, gender identity or expression, race/ethnicity, national origin, sexual orientation, disability, age and religion) to apply for roles in our team.\nThe LEGO Group is fully committed to Children’s Rights and Child Wellbeing across the globe. Candidates offered positions with high engagement with children are required to take part in Child Safeguarding Background Screening, as a condition of the offer.\nThank you for sharing our global commitment to Children’s Rights.\nJust imagine building your dream career.\nThen make it real.\n Join the LEGO® team today.\nSeniority level Not Applicable | Employment type Full-time | Industries Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -50437,8 +50437,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -50448,15 +50448,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Demand Planning Manager at the LEGO Group in Mumbai, but asks 5+ yrs and an MBA which you do not have.",
+    "fit_notes": "The posting asks for a 'Bachelor’s Degree with MBA in Operations or Supply chain management from a Tier 1 institute is preferred' and 'Proven experience of 5 years or above owning and delivering demand planning, supply planning, or advanced analytics'. Shlok has about 1.3 years of experience, no MBA, and his background is in S&OP planning and execution [sop, msl] rather than meeting the 5-year threshold.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "Headcount, ratings, and salary details were not found in the provided sources. The company has an active presence in India [S1] and a focus on sustainable materials [S4].",
+    "hook": "The LEGO Group recently marked another milestone in India with its first LEGO Certified Store in Mumbai.",
+    "hook_source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFdHWmlkQ1ZuZW5YSzBJVjZCXzd6MGRzU0g4dVVCOWlLdDVJRXhRUEdBUU5TeE5FSVJleTFQQ2hxZEF3bFUtSW84MlRXVW1JWkd2ZEZMOGE2Zm5yaGU1Ykc0alRudVlYQVhNUFdjQXVGTEo0dEJOYmZ2WUJsU3lzOVYzdGFZTENTQUZBM0VacFZHRzViZkwtU0k4cnd6cjZJeVRsR3cwZW4telR5NVlCQ2hSNGtsazJZRVVWYVRwamZvZ2duTTltSzY0bzjSAdIBQVVfeXFMTWxFMDEzeWlNNW4tOG5kRDhPbi1TNE5sWXVRRTREU3JKVzdRNGRYdXprcjR3cnBudU1rMVBQelViaTk3bU1mdEVsMzZnUzBfY2J3NzhYSkY3NnlwaUVJQk51SlFaMWI5UUNsNHRoLUh3NW5PclJtLS1VN25tVnhGeVBkbnlsSTVMRzg3R19pSkNzWEFUXzhkdkFmQ1RRY05qc2hlYXRhSXJsZVFDZVhuZVVqdEwwa1ViYXY3bE9VTnJkWVUtd3RlS1A3b1E1YjAzczhB?oc=5",
+    "researched_at": "2026-11-26T15:04:29+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "The LEGO Group marks another milestone in India with its first LEGO Certified Store in Mumbai - TheWire.in",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFdHWmlkQ1ZuZW5YSzBJVjZCXzd6MGRzU0g4dVVCOWlLdDVJRXhRUEdBUU5TeE5FSVJleTFQQ2hxZEF3bFUtSW84MlRXVW1JWkd2ZEZMOGE2Zm5yaGU1Ykc0alRudVlYQVhNUFdjQXVGTEo0dEJOYmZ2WUJsU3lzOVYzdGFZTENTQUZBM0VacFZHRzViZkwtU0k4cnd6cjZJeVRsR3cwZW4telR5NVlCQ2hSNGtsazJZRVVWYVRwamZvZ2duTTltSzY0bzjSAdIBQVVfeXFMTWxFMDEzeWlNNW4tOG5kRDhPbi1TNE5sWXVRRTREU3JKVzdRNGRYdXprcjR3cnBudU1rMVBQelViaTk3bU1mdEVsMzZnUzBfY2J3NzhYSkY3NnlwaUVJQk51SlFaMWI5UUNsNHRoLUh3NW5PclJtLS1VN25tVnhGeVBkbnlsSTVMRzg3R19pSkNzWEFUXzhkdkFmQ1RRY05qc2hlYXRhSXJsZVFDZVhuZVVqdEwwa1ViYXY3bE9VTnJkWVUtd3RlS1A3b1E1YjAzczhB?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Transforming the LEGO Group for the Digital Economy - MIT Sloan",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmRjSFQ2b0VVaE1JandCLWNFT25zN0hpUWlBRklRMHlGSW9QLXMyWkh4RS1WR3F2MWgwcXYwZEI0eTVmakZxV09TYUtMQVlnOU4xMUJtS1VDVmVuZXU2QzZXaUtubTU2dzgyVDlmNkx1VVFpZjZmYThQSnpMRExDM1I4ZWgydnNkbk1vTnl1RG1SdmRULWc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Ample Group and the LEGO Group Open Hyderabad’s First LEGO® Certified Store - Local Samosa",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU1paSlRIYkt6c0hKaHJKb2hmY1M5NEM2NU1kaUFCZ2pLazRIbmtGelI3MXFWVDdkWWpZZUV5akp4LTNTYzFaaS1KTHF5dnRGM1BBQ2JETWc1R1haTUJXNG9qT2hRdGdJWU56dFlRQ0VWN2JIQTRISjdqelRCTTl3aXk0LWF2YmxBUGg00gGLAUFVX3lxTE5TWlpKVEhiS3pzSEpockpvaGZjUzk0QzY1TWRpQUJnaktrNEhua0Z6UjcxcVZUN2RZalllRXlqSngtM1NjMVppLUpMcXl2dEYzUEFDYkRNZzVHWFpNQlc0b2pPaFF0Z0lZTnp0WVFDRVY3YkhBNEhKN2p6VEJNOXdpeTQtYXZibEFQaDQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "E-Methanol: The LEGO Group’s Sustainable Materials Journey - Sustainability Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGtCWWZPNWVHSjZKci00U3pzbXBhZWd5azU4bzZmR0tfTlpoTmlKQWxwM09KRjZHclhtUWZwS0lXelJUVFlyQ0VQVU5YeU80bUVtNWJJR0d1bExqQURJM2xQaWhabjRma2NEU29fOFJjVmdTNHdlU184Ukpxbl9jWDFPYXc1NmhFNnJOMEtjYUhZOGFESnc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "The LEGO Group opens its first LEGO® Certified Store in Hyderabad - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkNjZTFtR0tsR0t2SjNvYVplUlcydTVuN3VBVk5fSVNPTVZzbU1NV2E1RThZdS1laWtvVHkyMU1oOW9PdURiUXAzMXlOLS1RZzRfSmFmZDlZSWNsWnJkNmZhVm9raUk4MHdvTjZId1ZIdGFYTTA4a1FVbGtlVzcxaWFQOXgwaVRxOHVBcHlLUTh3aF9EUHRmS2lCSW96VjdWU21aZmxNb1NtNHM1ZUxYejBmQTUzak5YYmc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "The LEGO Group - Olivia Rodrigo Experience — LBB - LBB - Little Black Book",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12SXVicmExXzQ5alBWY0h5cU96QUZnRTdJODZFMXNack96ZFhsLVBUb1ZidFJ0VlM0RDdlVlozdnJBSzhGZ2ZoTw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -50480,14 +50521,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-26T15:04:29+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The posting asks for 5 years or above of proven experience, and prefers an MBA in Operations or Supply Chain from a Tier 1 institute, both of which exceed Shlok's ~1.3 years of experience and lack of MBA.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-26T15:04:29+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting asks for 5 years or above of proven experience, and prefers an MBA in Operations or Supply Chain from a Tier 1 institute, both of which exceed Shlok's ~1.3 years of experience and lack of MBA."
   },
   {
    "id": "L0348",

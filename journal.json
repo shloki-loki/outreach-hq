@@ -12392,6 +12392,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 132 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J1378",
+   "at": "2026-11-26T13:41:54+05:30",
+   "by": "live-check",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "1366 postings checked: 314 live, 10 moved to the Bin, 1677 could not be checked",
+   "ref": ""
   }
  ]
 }

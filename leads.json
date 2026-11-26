@@ -19103,9 +19103,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup2 to Naman Pushp queued (template)"
+    },
+    {
+     "at": "2026-11-26T19:07:11+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to Naman Pushp"
     }
    ],
-   "updated_at": "2026-11-26T00:05:23+05:30",
+   "updated_at": "2026-11-26T19:07:11+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "live",

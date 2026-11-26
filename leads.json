@@ -2634,9 +2634,15 @@
      "actor": "follow-up",
      "event": "replied",
      "detail": "aditya.sharma@emversity.com: Hi Shlok, Apologies for the delay in getting back to you. Please note that the fixed component of the CTC for this role is capped at 10 LPA, with the remainder "
+    },
+    {
+     "at": "2026-11-26T19:45:22+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "aditya.sharma@emversity.com: Hi Shlok, Apologies for the delay in getting back to you. Please note that the fixed component of the CTC for this role is capped at 10 LPA, with the remainder "
     }
    ],
-   "updated_at": "2026-11-26T19:25:12+05:30",
+   "updated_at": "2026-11-26T19:45:22+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -73315,9 +73321,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-26T19:45:22+05:30"
    },
    "notes": [],
    "timeline": [
@@ -73428,9 +73435,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Divyanshu Verma"
+    },
+    {
+     "at": "2026-11-26T19:45:22+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T19:35:13+05:30",
+   "updated_at": "2026-11-26T19:45:22+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

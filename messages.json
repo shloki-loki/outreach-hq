@@ -9750,7 +9750,7 @@
    "kind": "cold",
    "subject": "Strategy and Ops role | Shlok Agrawal",
    "body": "Hi Puneet,\n\nI'm looking for a Strategy and Ops or Founder's Office role, and I'd like to be considered at TyrePlex.\n\nOver the last year at Ola Electric, I ran production planning for Rs 200 Cr of inventory and cut working capital by 40% in under three months. I also built a dispatch system that took order-to-delivery from 32 days to 14.\n\nAt TyrePlex, I can take planning, ops reviews and special projects off your plate, so you have more time for the work only you can do.\n\nAre you hiring for a role like this, now or in the next few months? If yes, I'd love a 15-minute call to share more.\n\nShlok\n",
-   "status": "sent",
+   "status": "replied",
    "email_status": "verified",
    "speculative": true,
    "hook": "",
@@ -9769,7 +9769,13 @@
    "message_id": "<179535700585.73785.265927248709406882@gmail.com>",
    "thread_parent": null,
    "error": null,
-   "reply": null
+   "reply": {
+    "at": "2026-11-26T15:50:50+05:30",
+    "from": "puneet@tyreplex.com",
+    "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+    "date": "Thu, 26 Nov 2026 14:50:29 +0530",
+    "snippet": "Hi Shlok, Lets talk sometime tomorrow or today late evening. Regards, Puneet On Sun, Nov 22, 2026 at 7:46 PM Shlok Agrawal <111shlokagrawal@gmail.com> wrote:"
+   }
   },
   {
    "id": "M0328",
@@ -11807,7 +11813,7 @@
    "kind": "cold",
    "subject": "Strategy and Ops role | Shlok Agrawal",
    "body": "Hi Darakhshan,\n\nI'm looking for a Strategy and Ops or Founder's Office role, and I'd like to be considered at Glam Studios.\n\nOver the last year at Ola Electric, I ran production planning for Rs 200 Cr of inventory and cut working capital by 40% in under three months. I also built a dispatch system that took order-to-delivery from 32 days to 14.\n\nAt Glam Studios, I can take planning, ops reviews and special projects off your plate, so you have more time for the work only you can do.\n\nAre you hiring for a role like this, now or in the next few months? If yes, I'd love a 15-minute call to share more.\n\nShlok\n",
-   "status": "sent",
+   "status": "bounced",
    "email_status": "verified",
    "speculative": true,
    "hook": "",
@@ -19787,7 +19793,7 @@
    "kind": "followup1",
    "subject": "Re: Strategy and Ops role | Shlok Agrawal",
    "body": "Hi Puneet,\n\nOne more thing that may be relevant at TyrePlex: I set up milk-run truck routes that raised first-mile utilisation by 45% and cut logistics spend by 34%. Is logistics cost something you're watching right now?\n\nShlok\n",
-   "status": "draft",
+   "status": "skipped",
    "email_status": "verified",
    "speculative": true,
    "hook": "",
@@ -19803,7 +19809,7 @@
    "sent_at": null,
    "message_id": null,
    "thread_parent": "<179535700585.73785.265927248709406882@gmail.com>",
-   "error": null,
+   "error": "They replied; the queued message was dropped.",
    "reply": null
   },
   {
@@ -20977,7 +20983,7 @@
    "kind": "cold",
    "subject": "Strategy and Ops role | Shlok Agrawal",
    "body": "Hi Srikumar,\n\nI'm looking for a Strategy and Ops or Founder's Office role, and I'd like to be considered at GobbleCube.\n\nOver the last year at Ola Electric, I ran production planning for Rs 200 Cr of inventory and cut working capital by 40% in under three months. I also built a dispatch system that took order-to-delivery from 32 days to 14.\n\nAt GobbleCube, I can take planning, ops reviews and special projects off your plate, so you have more time for the work only you can do.\n\nAre you hiring for a role like this, now or in the next few months? If yes, I'd love a 15-minute call to share more.\n\nShlok\n",
-   "status": "sending",
+   "status": "failed",
    "email_status": "verified",
    "speculative": true,
    "hook": "",
@@ -20995,7 +21001,7 @@
    "sent_at": null,
    "message_id": "<179568486483.2142.17577700739669790729@gmail.com>",
    "thread_parent": null,
-   "error": null,
+   "error": "The send was interrupted and the email is not in Gmail's Sent folder. Press Retry to queue it again.",
    "reply": null
   },
   {
@@ -21007,7 +21013,7 @@
    "kind": "cold",
    "subject": "Strategy and Ops role | Shlok Agrawal",
    "body": "Hi Richard,\n\nI'm looking for a Strategy and Ops or Founder's Office role, and I'd like to be considered at Elucidata.\n\nOver the last year at Ola Electric, I ran production planning for Rs 200 Cr of inventory and cut working capital by 40% in under three months. I also built a dispatch system that took order-to-delivery from 32 days to 14.\n\nAt Elucidata, I can take planning, ops reviews and special projects off your plate, so you have more time for the work only you can do.\n\nAre you hiring for a role like this, now or in the next few months? If yes, I'd love a 15-minute call to share more.\n\nShlok\n",
-   "status": "sending",
+   "status": "failed",
    "email_status": "verified",
    "speculative": true,
    "hook": "",
@@ -21025,7 +21031,7 @@
    "sent_at": null,
    "message_id": "<179568517442.2142.2135970880210641049@gmail.com>",
    "thread_parent": null,
-   "error": null,
+   "error": "The send was interrupted and the email is not in Gmail's Sent folder. Press Retry to queue it again.",
    "reply": null
   },
   {

@@ -74913,7 +74913,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-22T19:46:54+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-26T15:50:50+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -74957,10 +74957,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-25T15:05:13+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -75041,9 +75040,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-26T15:50:50+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "puneet@tyreplex.com: Hi Shlok, Lets talk sometime tomorrow or today late evening. Regards, Puneet On Sun, Nov 22, 2026 at 7:46 PM Shlok Agrawal <111shlokagrawal@gmail.com> wrote:"
     }
    ],
-   "updated_at": "2026-11-25T15:05:13+05:30",
+   "updated_at": "2026-11-26T15:50:50+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -78047,7 +78052,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "darakhshan.husain@glamstudios.in",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 300 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -78147,9 +78152,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Darakhshan Husain"
+    },
+    {
+     "at": "2026-11-26T15:50:50+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "darakhshan.husain@glamstudios.in does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-25T15:07:29+05:30",
+   "updated_at": "2026-11-26T15:50:50+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -84516,9 +84527,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-26T15:50:50+05:30"
    },
    "notes": [],
    "timeline": [
@@ -84557,9 +84569,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Anuj Gupta"
+    },
+    {
+     "at": "2026-11-26T15:50:50+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T14:25:48+05:30",
+   "updated_at": "2026-11-26T15:50:50+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -84679,9 +84697,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-26T15:50:50+05:30"
    },
    "notes": [],
    "timeline": [
@@ -84726,9 +84745,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Nitesh Jindal"
+    },
+    {
+     "at": "2026-11-26T15:50:50+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T15:26:34+05:30",
+   "updated_at": "2026-11-26T15:50:50+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -84874,9 +84899,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-26T15:50:50+05:30"
    },
    "notes": [],
    "timeline": [
@@ -84933,9 +84959,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Swetabh Pathak"
+    },
+    {
+     "at": "2026-11-26T15:50:50+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T15:28:04+05:30",
+   "updated_at": "2026-11-26T15:50:50+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -85042,9 +85074,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-26T15:50:50+05:30"
    },
    "notes": [],
    "timeline": [
@@ -85083,9 +85116,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sachin Goel"
+    },
+    {
+     "at": "2026-11-26T15:50:50+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T15:17:27+05:30",
+   "updated_at": "2026-11-26T15:50:50+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -85570,9 +85609,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-26T15:50:50+05:30"
    },
    "notes": [],
    "timeline": [
@@ -85611,9 +85651,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Shamail Tayyab"
+    },
+    {
+     "at": "2026-11-26T15:50:50+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T15:19:01+05:30",
+   "updated_at": "2026-11-26T15:50:50+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -85985,9 +86031,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-26T15:50:50+05:30"
    },
    "notes": [],
    "timeline": [
@@ -86038,9 +86085,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Neeraj Kumar"
+    },
+    {
+     "at": "2026-11-26T15:50:50+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T15:29:54+05:30",
+   "updated_at": "2026-11-26T15:50:50+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

@@ -279009,8 +279009,8 @@
    "key": "phonepe|product manager|bengaluru",
    "type": "job",
    "company": "PhonePe",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "phonepe.com",
+   "company_url": "https://www.phonepe.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Manager",
@@ -279040,16 +279040,16 @@
    "stretch": false,
    "pay": {
     "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "min_lpa": 21,
+    "max_lpa": 45,
+    "basis": "estimate",
+    "source": "AmbitionBox PhonePe Product Manager page: 58 salaries, 11-45.4 LPA for 2-7 yrs; a second block 20 salaries 21-52 LPA; fixed vs total not stated",
+    "fit": "Possibly in range (estimate)"
    },
    "score": {
     "rules": 80,
-    "research": null,
-    "total": 80,
+    "research": 42,
+    "total": 57,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -279060,15 +279060,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "PM for PhonePe treasury and settlement platforms, asks 2-4 yrs PM; you have no PM or payments experience, only the working-capital angle.",
+    "fit_notes": "Posting opened on LinkedIn 2026-11-26, live. Weak overlaps: S&OP working-capital cut of 40%, Flask REST API at InsuranceDekho. Missing: full-time PM experience, fintech, bank/network integrations.",
+    "pay_notes": "Ranges are wide and self-reported; Levels.fyi median total comp about 42 LPA India (includes stock). Not confirmed as fixed pay for this level.",
+    "culture_notes": "Large fintech; no culture data read in this run.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T16:25:06+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -279092,9 +279094,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 80"
+    },
+    {
+     "at": "2026-11-26T16:25:06+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 57: rejected (Asks 2-4 yrs as a Product Manager on treasury, settlement and bank-API integrations; Shlok has no PM role and no payments/treasury background.)"
     }
    ],
-   "updated_at": "2026-11-26T15:46:46+05:30"
+   "updated_at": "2026-11-26T16:25:06+05:30",
+   "reject_reason": "Asks 2-4 yrs as a Product Manager on treasury, settlement and bank-API integrations; Shlok has no PM role and no payments/treasury background."
   },
   {
    "id": "L2164",

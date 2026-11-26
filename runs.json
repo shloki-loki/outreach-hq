@@ -1,16 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-23T18:26:44+05:30",
-   "agent": "supervisor/check",
-   "ok": false,
-   "summary": "M0109: failed; needs investigation; M0110: failed; needs investigation; M0111: failed; needs investigation; M0112: failed; needs investigation; M0113: failed; needs investigation; M0114: failed; needs investigation; M0115: failed; needs investigation; M0116: failed; needs investigation; M0117: failed; needs investigation; M0118: failed; needs investigation; M0119: failed; needs investigation; M0347: failed; needs investigation; M0348: failed; needs investigation; M0349: failed; needs investigation; M0350: failed; needs investigation; M0351: failed; needs investigation; M0352: failed; needs investigation; M0353: failed; needs investigation; M0354: failed; needs investigation; M0355: failed; needs investigation; M0356: failed; needs investigation; M0357: failed; needs investigation; M0358: failed; needs investigation; M0359: failed; needs investigation; M0360: failed; needs investigation; M0361: failed; needs investigation; M0362: failed; needs investigation; M0363: failed; needs investigation; M0364: failed; needs investigation; M0365: failed; needs investigation; M0366: failed; needs investigation; M0367: failed; needs investigation; M0368: failed; needs investigation; M0369: failed; needs investigation; M0370: failed; needs investigation; M0371: failed; needs investigation; M0372: failed; needs investigation; M0373: failed; needs investigation; M0374: failed; needs investigation; M0375: failed; needs investigation; M0376: failed; needs investigation; M0377: failed; needs investigation; M0378: failed; needs investigation; M0379: failed; needs investigation; M0380: failed; needs investigation; M0381: failed; needs investigation; M0382: failed; needs investigation; M0383: failed; needs investigation; M0384: failed; needs investigation; M0385: failed; needs investigation; M0386: failed; needs investigation; M0387: failed; needs investigation; M0388: failed; needs investigation; M0389: failed; needs investigation; M0390: failed; needs investigation; M0391: failed; needs investigation; M0392: failed; needs investigation; M0393: failed; needs investigation; M0394: failed; needs investigation; M0395: failed; needs investigation; M0396: failed; needs investigation; M0397: failed; needs investigation; M0398: failed; needs investigation; M0399: failed; needs investigation",
-   "stats": {
-    "alerts": 64,
-    "open_work": 169
-   }
-  },
-  {
    "at": "2026-11-23T18:45:14+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3460,6 +3450,13 @@
     "settled": 0,
     "followups_due": 66
    }
+  },
+  {
+   "at": "2026-11-26T06:45:26+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 132 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

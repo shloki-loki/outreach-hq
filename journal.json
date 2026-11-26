@@ -12635,6 +12635,15 @@
    "title": "Ran",
    "detail": "Outreach HQ 26 Nov: 2 replies, 108 to approve, 5 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J1405",
+   "at": "2026-11-26T17:18:59+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

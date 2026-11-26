@@ -1567,6 +1567,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0113",
+   "key": "send-track:send-track 26 Nov: no draftable leads",
+   "agent": "send-track",
+   "severity": "warn",
+   "title": "send-track 26 Nov: no draftable leads",
+   "detail": "Only 3 leads need a draft (L0105, L1556, L0077); all addresses are catch-all after recheck and scores are under 80. Application kits blocked: apply links are LinkedIn, Instahyre (403) and YC pages that need login.",
+   "status": "open",
+   "opened_at": "2026-11-26T16:29:35+05:30",
+   "last_seen": "2026-11-26T16:29:35+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

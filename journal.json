@@ -12536,6 +12536,15 @@
    "title": "Ran",
    "detail": "0 emails drafted, 0 referral notes (no connections matched), 0 application kits; skipped: L0105, L1556, L0077 still catch-all after recheck and score under 80; top 12 qualified leads with no kit have only LinkedIn/Instahyre/YC apply links (login or 403), no readable questions",
    "ref": ""
+  },
+  {
+   "id": "J1394",
+   "at": "2026-11-26T16:29:35+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "send-track 26 Nov: no draftable leads",
+   "detail": "Only 3 leads need a draft (L0105, L1556, L0077); all addresses are catch-all after recheck and scores are under 80. Application kits blocked: apply links are LinkedIn, Instahyre (403) and YC pages that need login.",
+   "ref": "I0113"
   }
  ]
 }

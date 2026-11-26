@@ -70773,10 +70773,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup2",
-    "contact_id": "C1",
-    "since": "2026-11-27T00:05:14+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -70863,9 +70862,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup2 is due"
+    },
+    {
+     "at": "2026-11-27T03:43:03+05:30",
+     "actor": "writer",
+     "event": "drafted",
+     "detail": "followup2 email to Chitransh Sahai awaiting approval"
     }
    ],
-   "updated_at": "2026-11-27T00:05:14+05:30",
+   "updated_at": "2026-11-27T03:43:03+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

@@ -12473,6 +12473,15 @@
    "title": "Ran",
    "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
    "ref": ""
+  },
+  {
+   "id": "J1387",
+   "at": "2026-11-26T15:46:52+05:30",
+   "by": "lead-scout/scrape",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "6893 jobs read, 302 passed rules, 27 new leads",
+   "ref": ""
   }
  ]
 }

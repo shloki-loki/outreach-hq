@@ -284079,15 +284079,15 @@
    "key": "meesho|assistant program manager fulfilment and experience|bengaluru",
    "type": "job",
    "company": "Meesho",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "meesho.com",
+   "company_url": "https://meesho.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Assistant Program Manager – Fulfilment & Experience (Strategic Initiatives) ( Kirana Club)",
    "tier": "1 - Strategy & Ops",
    "location": "Bangalore, Karnataka",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "lever",
    "source_id": "meesho:2779eb08-9997-4962-815b-c7d441759764",
    "source_url": "https://jobs.lever.co/meesho/2779eb08-9997-4962-815b-c7d441759764",
@@ -284123,8 +284123,8 @@
    },
    "score": {
     "rules": 77,
-    "research": null,
-    "total": 77,
+    "research": 72,
+    "total": 74,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -284135,15 +284135,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Fulfilment APM at Meesho's Kirana Club; no years asked, your Ola Electric logistics and truck dispatch work maps directly.",
+    "fit_notes": "The posting seeks candidates with 'Experience in business strategy, analytics, program management, or strategic operations' with logistics/e-commerce preferred, focusing on 3PL allocation, logistics costs, and supply chain economics. No minimum years, MBA, or consulting background required. Shlok's direct fulfilment experience partnering with executive leadership to cut logistics spend by 34% [ceo-coo], lotting algorithm for truck dispatch [o2d], and inventory rebalancing [rebalance] align closely with the role requirements.",
+    "pay_notes": "Pay is not disclosed in the posting or provided search evidence. Assistant Program Manager roles at Meesho often range between 18-26 LPA total, but fixed pay clearing Rs 24.5 LPA requires direct verification.",
+    "culture_notes": "No Glassdoor/AmbitionBox ratings provided in the search data. Meesho is a late-stage scaled e-commerce company.",
+    "hook": "Meesho's quarterly losses narrowed significantly on the back of surging order volumes across its marketplace.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMExLVTU4MmRnZmVqdFQ4YW5GMVBLOFRtZmUwTnF3WGU3Z05WRndOcFB2STR2RG5YYVllWnh4MzlVY3RBTGlZRjFFMVFuSDJiV19ZNHRPQjRVTGFmOFhvTXp1UHJhc05mRnI4X3lCdllITlc4NnkzNE1iNkRicWIxc2JHTzAtTDNRQU11MjNyUkt0UUx0WWQydXlSS1dOQ0Q2ZmM0VWYwUnV0UEJGMUlTZFY4eWgtUGMy?oc=5",
+    "researched_at": "2026-11-27T03:21:42+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Meesho: Making e-commerce everyone’s business - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTh6OFd6cFY3UDM0R2VERDMxdDI3MDVCY3ZUVUlldTdCSkJxbzBIVFQyU01xZTZhSnpwR0VYQlFkOC1kN29KS0R3QlVxT0Zic1NEdHZaMGdzM2FnMEN1RWZUNXF1MjRQVmtOTFRJNDBrS19YZjJmMjAwTUhUZHAyUlc4TVk4V1VTOUZjRnh2MDEzdWRiSzZ5YU1JS1pEbDF3ZGU4?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Indian e-commerce player Meesho's quarterly loss shrinks on rising orders - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMExLVTU4MmRnZmVqdFQ4YW5GMVBLOFRtZmUwTnF3WGU3Z05WRndOcFB2STR2RG5YYVllWnh4MzlVY3RBTGlZRjFFMVFuSDJiV19ZNHRPQjRVTGFmOFhvTXp1UHJhc05mRnI4X3lCdllITlc4NnkzNE1iNkRicWIxc2JHTzAtTDNRQU11MjNyUkt0UUx0WWQydXlSS1dOQ0Q2ZmM0VWYwUnV0UEJGMUlTZFY4eWgtUGMy?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Meesho Share Price Jumps 6%: What 152% Content Commerce Growth Really Means - NiftyTrader",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaU56c014aENwcTd4Zlh3Sks4Nk41SkFDTFZUVF9SYV9uczVPZW9fUzhtSmlkXzhpWEgzR20zSFFiSmFKOUoyNHlaaGV2aDZxeUhPWnVVYWZHVUpyVXZ1TERsV1VhWk1RSjlRNU1pYmllclhmYnZldTcxRzBrMHVIUkdHMWI?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Meesho share price surges 10% in two days on heavy volume - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUhyTVpYekZzTk5kU1pGZkM2RnMzdVlHYl91ZjdkX25DMXIxdUhBNmoteUZXcHBpV2tMLVJveGRXV00xdlNQSVF6a3lxMlJzUlQ5dHRzd0JKU1BzM2xYY0xGUjB3N0F6Z3FZWVYxV24wdXlIUk00OWlCd1RGZjdfbTRYcjlIN0t0V25nX295bWFDZXZ4RlpEM3JqVjE0SGE3NTFKU0dFNGZrVW9rWjVFS2dnV1FIOGkxenhNd0ptN0_SAcYBQVVfeXFMTlNieVdsNHNBczlIc19JNENsa2FDb1AzOHhiNHRlTWxibXN4RjJheWJvZkhwRHI5dmNRQnNKUlhhRkdlaElyQ2dOLVpOUWdES3pSYXVpUUltT3dQRENzYkEyUnBmNS1kUEc0bm5ULWMySjFjajY3T3ZLY0dXZ0sxZ1lqb0E0Q3dJeFEzSjlFU2owSS0ycm11REJrYTd3OVVidklOWUJMUlpiU0lIc3A2aWQzNXBjNGMzOG1aOGlOQmRpYkNqdnhR?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Inside Meesho's big AI bet: Why India's most-downloaded shopping app is betting on infrastructure - Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWnBCa19LTkVNdW5wWVBOdjVicTg3aDMteklPZkFYbWkxN1lncHA3ZUl6aTJEZjVFc0JzT1gxS2l5b2ZjUGVrSnNIQmFISW1kaUlOWlgtbWlfZ1hCTmNrdGVqbElQOWMtMEsxaUQtV1ZpeDNpT255bXMzS2VlcjR2YlIzQkVTOFprVFZKTUIzZXJta3g4bXMzVDQ5Z2llaU5DWWg1MWlVOGMwWlRCakF3QnhVcFYtYTdNaFhTY0pFOTdOb3pQYXpTNklzZjBFZXVnSTVWb1AyS1BPOGkw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "SoftBank sells $186M Meesho stake in block deal - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFBYZ24zZTdYX3RDOWhkRXhyaU5YZU5BMjJWM3VSZmdwZEFNN09hNXNya2JwZlExMUFCUjlpTVo4eFJsSHE3dGJSMGxxakJvWTF6TDhPNWF3TlVZb3lwdnF5MlA1X2RIUlBxWVVMYTlWdEJvR2VldVl1SU9TdGNtUFdKekVuVUE?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "o2d",
+     "rebalance",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -284167,9 +284210,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "lever: rule score 77"
+    },
+    {
+     "at": "2026-11-27T03:21:42+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 74: qualified"
     }
    ],
-   "updated_at": "2026-11-27T02:15:28+05:30"
+   "updated_at": "2026-11-27T03:21:42+05:30",
+   "reject_reason": null
   },
   {
    "id": "L2193",

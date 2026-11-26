@@ -670,15 +670,15 @@
    "leads_total": 2160,
    "by_status": {
     "applied": 26,
-    "to_approve": 106,
-    "new": 1186,
-    "rejected": 654,
+    "to_approve": 113,
+    "new": 1157,
+    "rejected": 676,
     "replied": 10,
-    "contacted": 56,
+    "contacted": 62,
     "skipped": 4,
     "interview": 1,
     "qualified": 51,
-    "followup_due": 66
+    "followup_due": 60
    },
    "by_source": {
     "linkedin_post": 58,
@@ -699,21 +699,21 @@
     "3 - APM / Analyst": 68
    },
    "qualified_total": 89,
-   "researched_total": 790,
+   "researched_total": 812,
    "with_email_total": 1025,
-   "emails_sent_total": 517,
-   "emails_sent_today": 10,
-   "cold_sent_total": 367,
+   "emails_sent_total": 527,
+   "emails_sent_today": 20,
+   "cold_sent_total": 377,
    "people_replied": 11,
    "bounces_total": 20,
-   "reply_rate": 0.03,
-   "bounce_rate": 0.039,
+   "reply_rate": 0.029,
+   "bounce_rate": 0.038,
    "applied_total": 28,
    "referrals_sent": 0,
    "interviews": 1,
    "offers": 0,
    "to_approve": 45,
-   "followups_due": 66,
+   "followups_due": 60,
    "new_leads_7d": 436
   }
  }

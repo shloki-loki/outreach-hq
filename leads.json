@@ -287126,7 +287126,12 @@
      "detail": "naukri: rule score 80"
     }
    ],
-   "updated_at": "2026-11-27T02:15:28+05:30"
+   "updated_at": "2026-11-27T02:15:28+05:30",
+   "research_attempt": {
+    "at": "2026-11-27T03:17:44+05:30",
+    "why": "the posting page has no readable description",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L2225",

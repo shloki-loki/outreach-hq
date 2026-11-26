@@ -286939,15 +286939,15 @@
    "key": "nxtwavedisruptive|associate business development manager|bengaluru",
    "type": "job",
    "company": "Nxtwave Disruptive Technologies",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "nxtwave.tech",
+   "company_url": "https://www.nxtwave.tech",
    "company_linkedin": "",
    "company_note": "AmbitionBox 3.2 (1634 reviews, via Naukri)",
    "title": "Associate Business Development Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Pune, Chennai, Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "naukri",
    "source_id": "261126038188",
    "source_url": "https://www.naukri.com/job-listings-associate-business-development-manager-nxtwave-disruptive-technologies-pune-chennai-bengaluru-0-to-4-years-261126038188",
@@ -286969,7 +286969,7 @@
    "exp_text": "0-4 Yrs",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "not stated",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
@@ -286978,8 +286978,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 35,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -286989,15 +286989,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Associate BD Manager at Nxtwave, asks 1+ yrs; a sales/admissions team lead role mismatched with your S&OP background.",
+    "fit_notes": "The posting asks for a 'Minimum 1+ year of experience in sales, business development or a target-driven revenue role' and experience to 'manage, develop and lead a team of Business Development Associates'. Shlok has strong operational execution in S&OP and supply chain at Ola Electric ([sop], [ceo-coo], [msl]), but no direct sales team management or EdTech sales experience. Furthermore, the role is a traditional sales management function rather than Strategy & Operations, Founder's Office, or Product.",
+    "pay_notes": "Pay is not stated in the posting, and no external pay evidence is available.",
+    "culture_notes": "AmbitionBox 3.2 (1634 reviews, via Naukri); no other culture flags or details found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T03:29:08+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -287021,9 +287028,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 74"
+    },
+    {
+     "at": "2026-11-27T03:29:08+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Role is a high-volume EdTech sales and admissions team management position ('Academy Sales Managerial Hiring', 'manage, develop and lead a team of Business Development Associates') which does not align with Shlok's Strategy & Operations or product priority, and pay is unstated with no evidence meeting his Rs 24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-27T02:15:28+05:30"
+   "updated_at": "2026-11-27T03:29:08+05:30",
+   "reject_reason": "Role is a high-volume EdTech sales and admissions team management position ('Academy Sales Managerial Hiring', 'manage, develop and lead a team of Business Development Associates') which does not align with Shlok's Strategy & Operations or product priority, and pay is unstated with no evidence meeting his Rs 24.5 LPA threshold."
   },
   {
    "id": "L2222",

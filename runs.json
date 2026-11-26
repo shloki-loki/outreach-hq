@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T18:39:46+05:30",
-   "agent": "follow-up/digest",
-   "ok": true,
-   "summary": "Outreach HQ 24 Nov: 1 reply, 81 follow-ups due",
-   "stats": {}
-  },
-  {
    "at": "2026-11-24T18:42:20+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3384,6 +3377,34 @@
     "leads": 1,
     "people_added": 0,
     "skipped": ""
+   }
+  },
+  {
+   "at": "2026-11-27T03:43:06+05:30",
+   "agent": "writer",
+   "ok": true,
+   "summary": "0 cold emails, 1 follow-ups and 0 LinkedIn note sets drafted for approval; 0 dropped for failing checks; stopped early: free quota used for today on gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash",
+   "stats": {
+    "cold": 0,
+    "followups": 1,
+    "linkedin": 0,
+    "apply_notes": 0,
+    "dropped": 0,
+    "models": {
+     "writer": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash"
+     ],
+     "judge": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite"
+     ]
+    }
    }
   }
  ]

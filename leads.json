@@ -276768,15 +276768,15 @@
    "key": "cisco|sales business development manager|bengaluru",
    "type": "job",
    "company": "Cisco",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cisco.com",
+   "company_url": "https://www.cisco.com",
    "company_linkedin": "https://www.linkedin.com/company/cisco",
    "company_note": "",
    "title": "Sales Business Development Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4487014430",
    "source_url": "https://in.linkedin.com/jobs/view/sales-business-development-manager-at-cisco-4487014430",
@@ -276792,7 +276792,7 @@
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-26",
    "open": true,
-   "jd": "",
+   "jd": "Cisco is seeking an experienced, visionary Sales Business Development Manager to lead the recruitment, onboarding, enablement, and joint Go-to-Market (GTM) strategy development for our expanding Intelligent Workplace Experiences (IWE) ecosystem across India.\nIn this strategic role, you will bridge the gap between two complementary partner communities: Real Estate & Facilities Design-in Partners (Architects, Master Systems Integrators, Workplace Strategists, and Engineering Consultants) and Cisco Reseller Partners (1-Tier, 2-Tier, and Specialized Solution Providers). You will architect joint business models that embed Cisco smart building, collaboration, networking, and spatial intelligence technologies (such as Cisco Spaces and Fault-Managed Power/PoE) into early-stage architectural building blueprints while enabling resellers to monetize and deploy these integrated solutions at scale.\n What You'll Do\n Partner Recruitment & Ecosystem Expansion\n Identify, target, and recruit high-influence Real Estate, A&E (Architecture & Engineering), and Facilities Design-in firms as well as specialized Cisco Resellers across India.\n Position the Cisco Intelligent Workplace value proposition to C-suite and Practice Leads, establishing formal design-in and co-selling partnership frameworks.\n Expand the pipeline of joint customer opportunities by identifying building renovation, retrofit, and net-new campus real estate initiatives in early design phases.\n Onboarding, Enablement & Practice Building\n Lead the end-to-end onboarding journey for newly recruited design-in partners and reseller sales/practice teams.\n Drive adoption of Cisco enablement assets, including Black Belt IWE Learning Maps, Black Belt gamification programs, and partner training bootcamps (e.g., Cisco Spaces partner cohorts).\n Equip partner design teams with digital design assets, 3D modeling/VR experience libraries, and blueprint specifications for smart workplace solutions.\n Joint Go-To-Market (GTM) & Co-Selling Strategy\n Build and execute joint business plans, revenue targets, and co-marketing campaigns that pair Design-in Partners with Cisco Authorized Resellers on active customer projects.\n Facilitate joint account mapping and lead-sharing between design consultants, reseller account executives, and Cisco enterprise/commercial sales teams.\n Drive partner participation in flagship customer events, executive briefings, innovation office tours, and industry showcases (e.g., Corenet, Cisco Live).\n Business Development & Revenue Acceleration\n Drive qualified pipeline and bookings growth across Cisco Networking, Collaboration (Devices), IoT, and Cisco Spaces.\n Track, analyze, and report on partner-sourced pipeline, design-in win rates, enablement completion, and revenue attainment across the India region.\n Cross-Functional Collaboration & Influence\n Partner closely with APJC Partner Leadership, Architecture Specialists, Global Partner Sales (GPS), Product Marketing, and Business Units to remove blockers and accelerate deal velocity.\n Serve as the subject matter expert and advocate for real estate and design partner needs within Cisco product engineering and business units.\n Why Cisco?\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\nWe are Cisco, and our power starts with you.\n Disclaimer\n About\n To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n be in direct response to an application you have submitted through the company career site\n begin with screening or an interview\n originate from a Cisco email address, and\n be conducted across email, phone, or WebEx\n Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\nIf you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.\nSeniority level Not Applicable | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -276807,8 +276807,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -276818,15 +276818,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sales Business Development Manager at Cisco, but asks senior partner experience you do not have.",
+    "fit_notes": "The posting asks for an 'experienced, visionary Sales Business Development Manager to lead the recruitment, onboarding, enablement, and joint Go-to-Market (GTM) strategy development for our expanding Intelligent Workplace Experiences (IWE) ecosystem across India'. It requires managing partner communities, architectural blueprints, and reseller networks. Shlok has 1.3 years of experience in S&OP and supply chain at Ola Electric ([sop], [ceo-coo]), which does not map to enterprise IT/real estate channel sales and partner management. No MBA or consulting is strictly required, but the seniority of partner ecosystem management requires far more than 1.3 years of experience.",
+    "pay_notes": "Pay is not stated in the posting.",
+    "culture_notes": "Ratings and reviews were not found in the evidence. Culture flag: Cisco reports fresh layoffs in November and a workforce reduction of 8.8% in two years [S4].",
+    "hook": "Cisco recently introduced Shirudo in November 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5",
+    "researched_at": "2026-11-26T14:55:40+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Two critical RCEs in PHP core - Cisco Talos Blog",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zN3ZxNXRYbmtlVzVQNU53dTAwLXk1WUxZckEyZ0RaU1pvNXVDQnctWGE3anY3MUt1NGdsUlB2bzhsQXBkcXljdmtTWFFENkVacVFnUF9kdmp2aXNkWmw1dWkxX2IzMERMa2g5TlJOWlJPVE0?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "OpenAI and Cisco introduce Shirudo - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "From an Idea to a Live App on Cisco, in Minutes - Cisco Blogs",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAweXZmLTE4X3BiZFp1ZE54WVdKQzBsdkVMTUdSbWNybE85bTZ3VE5TRUVKYk5IYzcyYVI1S1pkdy1SQVN6OWFnRlpwUkVxcl9XOHdTTTRZaTVheXhTZmcwOHFoU1l0RXNvZ3plOU0zb3hkYllTanM0dnFzbUowQQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Cisco reduces workforce by 8.8% in two years, reports fresh layoffs in November - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNG9PSzVDT2NMNlpiZGp2czdjQklYOXEzYVEwbENLMkdEQktKdWFDeEczajhoU2xmZGdSbnQzU0x1ZjUyNFEzUWxKV0JfUVk1NnpkbzRLNTJCSGNITzFIZTVTYzhWTHJKZGJvTjM4R3VLS05NWm52dUlJN3VjOFl6NzVOWVJHZkhlM3ZqVEhLX1NybFRTcFJsekFZdXc1bG1zdlNWWFo5RDlPQ0JFWmVUT2V6SDdITW02b3BXUWJBU2ZnMG43dm1qS3lKS1hNNWU5eHc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzdLenZkbmg4ZVgySnVXMnlkbFFUT1p0cWdwNXRRRHVxRXp4TTNnUDF0bHA5YVQ3U3h5TURVaHlCZHpEN1F2RmxqXzkwbnRSVU1UTHRYTzUwdUdDOXBsbDlVWFNZYXNKNE9uUTdzLU1aaXV2Z0hqc2tLcUpYOUZTOEJJM2dxZTVhWURKdFNjYWcyMTZ2ZWRuWGxGbXUzY3lSaEFjRTBvaVdwM3Bu?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Cisco Products Multiple Vulnerabilities - Hong Kong Computer Emergency Response Team Coordination Centre",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORU5udUZHUkctenA5dExpSnl1ejVHUzRLZHIwWnZ5cDU4QzFJd054TVU5cWZFOWFTd21tTWEzcGw5bWdLWkFhUnNXS1A5NkZtdm5ZRURpNFVIMDZad2Zxb2tMblU5aXhKaGN2eGNwQmJ1TUdZUUZqSFluS0JWUFA3MFViRGhKMVg5SC1mRWxESGZyR3M?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -276850,14 +276888,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-26T14:55:40+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (Role requires extensive senior ecosystem/partner business development experience across real estate and reseller networks, which far exceeds his 1.3 years of experience and background.)"
     }
    ],
-   "updated_at": "2026-11-26T02:20:42+05:30",
+   "updated_at": "2026-11-26T14:55:40+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Role requires extensive senior ecosystem/partner business development experience across real estate and reseller networks, which far exceeds his 1.3 years of experience and background."
   },
   {
    "id": "L2154",

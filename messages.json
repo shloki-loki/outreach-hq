@@ -26521,6 +26521,34 @@
    "thread_parent": "<179550827140.24128.17410616588424355646@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0888",
+   "lead_id": "L0592",
+   "contact_id": "C1",
+   "to": "sonal@zingg.ai",
+   "to_name": "Sonal Goyal",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Sonal,\n\nOne more thing that may be relevant for Zingg: At Ola Electric I implemented SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Happy to share how I approached it. Would a short call this week work?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-26T16:35:08+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179550835387.24128.12261036540546394116@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

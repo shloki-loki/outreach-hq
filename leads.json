@@ -27128,15 +27128,15 @@
    "key": "makemytrip|associate product manager|india",
    "type": "job",
    "company": "MakeMyTrip",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "makemytrip.com",
+   "company_url": "https://www.makemytrip.com",
    "company_linkedin": "https://in.linkedin.com/company/makemytrip.com",
    "company_note": "",
    "title": "Associate Product Manager (Flights- Funnel)",
    "tier": "2 - Product / Program / BD",
    "location": "Gurgaon, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4479780438",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-flights-funnel-at-makemytrip-4479780438",
@@ -27172,8 +27172,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -27183,15 +27183,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Product Manager at MakeMyTrip in Gurgaon, but asks 3-4 years experience.",
+    "fit_notes": "The posting asks for \"Engineering & Management graduates from reputed institutes with 3 to 4 years of experience in product management roles\". Shlok has ~1.3 years of experience and no MBA. While the role asks for proficiency in SQL, Excel, and PowerPoint (which he has), the minimum experience requirement of 3 years is a reject per his rule.",
+    "pay_notes": "Pay is not stated in the posting or evidence.",
+    "culture_notes": "Ratings and reviews not found. One consumer court order flagged in recent news regarding non-existent hotel bookings [S4].",
+    "hook": "MakeMyTrip is preparing to confidentially file a DRHP with SEBI for a $1 Billion IPO.",
+    "hook_source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHpQTFRpTjU3eUlsQmwxNkhqWW1JLTRkVElBdEJwZ2MwQS1fMm9Zb0VGcHNoNVNFR0pjTWdScnZDZnBQQjF0b1hXM2pXTVFOYWFqc3Y4NWI4TGN1N0tmbGwxWGx0TzhzZG4waTY2ZThiT0RVOFh4WmpMMWJ0blVsZm1ZSndNbnEwbExQUnk0QnI5dGMz?oc=5",
+    "researched_at": "2026-11-26T14:58:51+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "MakeMyTrip To Confidentially File DRHP With SEBI for $1 Billion IPO - Groww",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHpQTFRpTjU3eUlsQmwxNkhqWW1JLTRkVElBdEJwZ2MwQS1fMm9Zb0VGcHNoNVNFR0pjTWdScnZDZnBQQjF0b1hXM2pXTVFOYWFqc3Y4NWI4TGN1N0tmbGwxWGx0TzhzZG4waTY2ZThiT0RVOFh4WmpMMWJ0blVsZm1ZSndNbnEwbExQUnk0QnI5dGMz?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "MakeMyTrip Limited (MMYT) stock price, news, quote and history - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwSnhyOGQzUllNWlhOclA1cUp5NlRtWC00Snk3UHhtTFpUUm52NDdKRGlqV2x0TE52bkd0WHB1UGNoei0tX0xVOW42MFdjdWtEVFE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "MakeMyTrip to launch second edition of ‘Travel Ka Muhurat Sale’ on November 14 - IMPACT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTTZvSTBHdXhKTWh1ODRBemFTNGg0NkNpVWp5UlUyclZTT19TV0V4dFdvcUJKbGlOdVJRbFQxbTdobVRueWZRLWUwdy1oMGJ4RU9WQ082bUNXS2NoYVZYVEVUbDFGSXo1SW42OVJNOHpkZ1hLQnVLQjRKNmVlQzlOc0FkRXB3LVg1WG5MenRlenVsRW9tYmp2S2pLaTU3VVBfTExqSHljRVJxRFltaUxfbnZBRk9yb0o2VWV6czdPUVFfTDNEUEo1ZFV5Nnk?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Two hotels booked online found non-existent; consumer court orders MakeMyTrip to pay Rs 48,775 - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRW5URjBsdnhQdjRpeDNZWXJyVkVDQWoyMENnQl9EXzdXMTJXWGVqUGQxSzgybllBbWJGWmgzYzdmdEtvaDJaZGhERFdLZHU1QXoyT0t1QkZDeDRYS3Vabm1YYU5TZFl5elh4WFdVSEwyblZ5YjljeEZ0dTNEak8tUXJDRzZSbndlV1JCNmlXUDA1WEx5NE9Vb0FaNnRsclRyczNLdTJsVnZ5QzlqSy1pRUZ3X01vdll6T3l3LVUxOS13WTJ3Tk9hV3FQWUV0aklRUlF4QmNyVmpzWW1iNG1vLUNEMG1RSTJmZnk0QTNNcElDa0tmNEs5ZdIB_gFBVV95cUxOd3I2SFRWREVSdFJjMzFHNmRHMUpPZWxsLXJCXzRuWTVORllKOGFSRTZNbjNwOWs2VEdQLTZCUkc4QldSeHgtenlKelJGem5qdi0tX0xwb0hRVlIzcEFaQmM2U3FHQWxTTEdFenZXNEtzakxWTDJ4R0RaVXBNLW1NZ09XRHJDS2RpR1U1YjFEZWhodmhrcXNCMGZ2Smxua3BoNnBCLWFoWUpOMWdDMmdMVmFUZV9EbjlEWEVkNlNYR3hCa2VscG16WmlEdFBQLS1yWWQyS3ZIVEpzOXRGeW9tWVdFLTVVM3lkTUFjY21tNmhIUnZUeFJ4Qm13WVgyZw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "MakeMyTrip evaluates India IPO after RedBus merger - Kotak Neo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS1sRzhwMVhCcXhpSF8tWGRTMEdVVGcwOWIwVGJyVjFELThZYThEekwzVFdlV0h6OU1udURKclh1SWJBNGtSeEV0Y3Uzb3JyZDhPdDFkcjR6TV82cXA1SGMtWVBkNlRDTkkzWFlyZW1jSHRXNTBpTVNKU3VzSlZqc1c1dk1BVWtOWlZPTVhoX281MzV2d2Q3V3FEcmo2eDRvbVVMTTdxZnladzRLZ2M4UmVMY0lLQQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "MakeMyTrip India files DRHP for India IPO through confidential route - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmlRNC1PMDM4LTFiYXpZc2EzbE5veDVCMm9uQ0swQXdzVGRaUVcyWEY5ZUk4X2x4SURsUlZjelhYUVlGOTZzR05LRXRvNWV0NFVvbXVPNV9wYlo0NnlxQktiTzdIaVNpSnFuVmpBOVNkM3M3c3FRV1Q4aGY5b0xfczNDcWN1ZmV5SjJUOFpEd2ZJOGIxUEJ2bzkzQWpXbVV3UFdSZm10MVpGb2JPdlcweW1IaXZ1QXJKTzFsRUpmVDdodjVpbW9OcU9wdjVjRGdD0gHWAUFVX3lxTE5wSEIxOTl4ckJ4aEZBQ25mU2RidlIyZ2hRWEgtTFRHcThOdEtSU1ctV1psNEZGdXJZb3B4aF9XSC1abkNnUGthd29qUjdGaDNYYmpLeS1fdFVWSXdyMlJ0dUJjT3l2Z25OajNUS3duNzNCdmFBeDN5MzN6NnZHWldVRER1YTZiU3oxZEhJN25lejNoSEdfcmFEZXo2ZjNnWWhhcTc2VzlQSEdKUWlsd05ueDhnYklfOGYtNUVZSHNjc3liVG44NTlqczRNVEFOODQ5QjA5Z0E?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -27215,9 +27253,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-26T14:58:51+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The role asks for 3 to 4 years of experience, exceeding Shlok's ~1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-26T14:58:51+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -27227,7 +27271,8 @@
     "at": "2026-11-25T14:59:57+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role asks for 3 to 4 years of experience, exceeding Shlok's ~1.3 years."
   },
   {
    "id": "L0184",

@@ -279949,13 +279949,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "LinkedIn posting",
     "fit": "Unknown"
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 40,
+    "total": 54,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -279965,15 +279965,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "APM at ShareChat on AI content and creator marketplace, asks 1-2 yrs; needs prototyping with AI tools and product ownership you lack.",
+    "fit_notes": "Codeforces and the Flask API internship partly map; no consumer product ownership. Posting page opened on LinkedIn 2026-11-26 with no closed notice.",
+    "pay_notes": "No external pay evidence gathered this run.",
+    "culture_notes": "Not researched beyond the posting.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T16:26:36+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -279997,9 +279999,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-26T16:26:36+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 54: rejected (Needs hands-on AI-native product building and PM experience; no PM background.)"
     }
    ],
-   "updated_at": "2026-11-26T15:46:46+05:30"
+   "updated_at": "2026-11-26T16:26:36+05:30",
+   "reject_reason": "Needs hands-on AI-native product building and PM experience; no PM background."
   },
   {
    "id": "L2173",

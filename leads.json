@@ -27978,7 +27978,7 @@
    "key": "phenom|associate product manager forward deployment|india",
    "type": "job",
    "company": "Phenom",
-   "company_domain": "",
+   "company_domain": "phenom.com",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/phenomai",
    "company_note": "",
@@ -27986,7 +27986,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4487779629",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-forward-deployment-at-phenom-4487779629",
@@ -28002,7 +28002,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12",
    "open": true,
-   "jd": "",
+   "jd": "Job Requirements\n Phenom Intro:\n Our purpose is to help a billion people find the right work! Phenom is an AI-Powered talent experience platform. We solve the most complex operational challenges in the Talent Acquisition and Talent Management space using Applied AI.\nWe have grown into a global organization with offices in 6 countries and over 1,500 employees. As an HR tech unicorn organization, innovation and creativity is within our DNA. Come help us make every talent moment Phenomenal!\n Job Summary\n As a Forward deployed product manager, you will spend your time on the front lines, deeply embedded with customers to identify their highest-value problems and building bespoke AI solutions that eventually drive our core product roadmap\nOur PMs being the heart of the company work closely with all cross functional teams to drive product success - focussing on both inbound and outbound aspects of product management.\nIt's a fast-paced environment, innovative, data driven and impact oriented culture - a unique opportunity to learn end to end aspects of owning a product business.\n What You'll Do\n Lead AI Bootcamps: Run intensive, hands-on workshops with customer stakeholders to identify \"unsolvable\" problems and prove value through rapid prototyping.\n Take end-to-end accountability for customer success during the initial deployment phase, ensuring the \"Applied AI\" actually delivers measurable ROI (e.g., reduced Operational Expenses, faster decision-making)\n Synthesize complex customer feedback into structured product requirements for the core R&D team, ensuring our roadmap is grounded in real-world friction.\n Identify patterns across different customer deployments to help build \"Productized Blueprints\" that our sales team can replicate.\n Interfacing with internal stakeholders - delivery, customer success and support teams to help understand customer pain points that shape your roadmap\n Collaborating with fellow team members to train cross functional team, help drive product adoption, and improve usability\n Participate in customer beta program conversations, introduce new products and help drive customer value and grow adoption\n What You've Done\n Background in Computer Science or Engineering with 3-4 years of prior work experience in product development\n Comfortable in Python, SQL, and working with APIs.\n Built or deployed LLM-based applications, automated workflows or managed complex data integrations\n Understand the nuances of LLMs, vector databases, and RAG (Retrieval-Augmented Generation)\n Good To Have\n Prior experience in product management would be an added advantage (but not necessary)\n Having an MBA is highly desirable\n Experience in collaborating with customers and internal business partners\n Experience working with distributed / international teams\n Benefits\n We move at the speed of Applied AI. If your solution works, it goes live.\n You aren't optimizing a button color, you’re re-engineering how Fortune 500 companies operate.\n Work alongside world-class engineers who value technical excellence and creative problem-solving.\n We want you to be your best self and to pursue your passions!\n Health and wellness benefits/programs to support holistic employee health\n Flexible hours and working schedules, as well as parental leave for new parents\n Growing organization with career pathing and development opportunities\n Tons of perks and extras in every location for all Phenoms!\n Diversity, Equity, & Inclusion\n Our commitment to diversity runs deep! Diversity is essential to building phenomenal teams, products, and customer experiences. Phenom is proud to be an equal opportunity employer taking collective action to build a more inclusive environment where every candidate and employee feels welcomed. We recognize there is more to be done.\nSeniority level Not Applicable | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -28017,8 +28017,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -28028,15 +28028,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Product Manager at Phenom, asks 3-4 yrs and product development background; your experience is 1.3 yrs.",
+    "fit_notes": "The posting asks for \"3-4 years of prior work experience in product development\" and \"Background in Computer Science or Engineering\", plus Python, SQL, and working with APIs. While Shlok has Python, SQL, and an engineering degree (B.Tech in Electrical and Electronics Engineering from IIT Guwahati) along with technical product intern experience at InsuranceDekho ([idekho]), the 3-4 years minimum requirement exceeds his ~1.3 years of total experience. Having an MBA is also listed as highly desirable.",
+    "pay_notes": "Pay is not stated in the job posting and no salary figures were found in the evidence sources.",
+    "culture_notes": "Phenom is an AI-powered talent experience platform with over 1,500 employees across 6 countries (from posting). Review ratings, specific Glassdoor/AmbitionBox scores, and culture flags were not found in the provided evidence.",
+    "hook": "Phenom recently showcased the engineering and orchestration behind AI agents for human resources at AI Day 2026 [S4].",
+    "hook_source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGctRl9Gb0hfR3JJdGRBZERKTm9HWUhjMVdIYWE4TktPTDM5STVMNTZxaXpDYWstdm15Qk02QU5TLUE5UjdlVWtqUnVzSHBiZ1NTZkNONlNsRFl5QjVoSEw2QkotdTBhRThkTW1rU0RteWN6LThmYjBnVkdwRjEwa0pDeEFFdkpkRWk3VVhIMEN0dFZnZ2NoVUMxT2w?oc=5",
+    "researched_at": "2026-11-26T15:00:34+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Phenom Adds Major Headline Speakers as IAMPHENOM Europe Approaches Sold-Out Status - AFP.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13RWtjdldrUDczLVdzeWVlNlU3N0dkZ3hFU1pXUkhESHdGY09uVmh0VFhVb095VkQzUEc4TzFpM3FWaVh3S0cwX2J2QQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Cooper Lutkenhaus: US track phenom on family ties, LA 2028 and balancing stardom with high school - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVEM0OHdfcmJLd3QydzhlMHJvSnRzMW5oYzRkT1hpUWJNR1lCcEphX0NrZ1lJVVpwMUpwTmVoLXVkRmFJR1Jna0xsOU1IeUpWUTZoZHI0T3F0b18yakZnY05FSEE2UWloekZwdThjV19RYlE0aHQzUlNkT3hXai00RDUzTExFQjJ1WTJRelM0V3k2ajFnaXY0SGxNTUE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "“Outcomes Come From Workflow Redesign, Not Simply Applying AI”: Phenom’s Amit Kumar - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWC03ZTlWNW4zYl9GYkRkWkJueDBhYzF2WEhxcFpxRkdnYzlwdi01bzFvOFpqQUNVQVBab3FOMGpYMHJhS1RkbHd2cXJJeWxTU0E4a1ROVWRVQXlERjg1VjdCT0N6WXUwaWlLTWdGZy1URk5vS1VlUEdrbUs1V043Smc4MUlBWHVsQ2tOd2pjaUx3Q0dnUlB6d2FHWlVTYWVCamMwRXk5Y2gyaExmU01aUno2OUhGaFAxYWRBTEZIZk9oUlZjQVg2SzQwaE5rWHFtdnZsNHdnNEp1dw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Phenom Opens Registration for AI Day 2026, Showcasing the Engineering and Orchestration Behind AI Agents for Human Resources - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGctRl9Gb0hfR3JJdGRBZERKTm9HWUhjMVdIYWE4TktPTDM5STVMNTZxaXpDYWstdm15Qk02QU5TLUE5UjdlVWtqUnVzSHBiZ1NTZkNONlNsRFl5QjVoSEw2QkotdTBhRThkTW1rU0RteWN6LThmYjBnVkdwRjEwa0pDeEFFdkpkRWk3VVhIMEN0dFZnZ2NoVUMxT2w?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Musical phenom introduces an old instrument to new audiences - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eXEtRU5QZTlocldZaWptNkE3emxmbUVVcU0yOXliMHYwdjhySGdBLTV3S3g0d3lnaUVLUXRidzZyWHgxbzJhWndVNmc0ZHpLNWVhTE5HUlV1bGpFQ3lr?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Embraer Launches the Phenom 300EV, the Latest Evolution of the World’s Best-Selling Light Jet, Featuring New Safety Technologies and Avionics Enhancing Performance - Embraer",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zb3NHc3pIcWNMUWg2WGRFQ3RGcmJNY2NUVU1wTGJvV1VUbTVKdFJGOFA0ZlE4ZUFsR0lSVjNtZWNqZWhYY09FWXprazF5cERBTDA5bzJWV2pWOGo3NDZRTVZhdC1yYlRYdTdfNWlQaE8taVhx?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -28060,9 +28100,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-26T15:00:34+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The role requires 3-4 years of prior work experience in product development, which exceeds Shlok's ~1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-26T15:00:34+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -28072,7 +28118,8 @@
     "at": "2026-11-25T15:05:04+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role requires 3-4 years of prior work experience in product development, which exceeds Shlok's ~1.3 years of experience."
   },
   {
    "id": "L0190",

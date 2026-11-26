@@ -27280,15 +27280,15 @@
    "key": "qualys|associate product manager|india",
    "type": "job",
    "company": "Qualys",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "qualys.com",
+   "company_url": "https://www.qualys.com",
    "company_linkedin": "https://www.linkedin.com/company/qualys",
    "company_note": "",
    "title": "Associate Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Pune Division, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4467620199",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-manager-at-qualys-4467620199",
@@ -27304,7 +27304,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
    "open": true,
-   "jd": "",
+   "jd": "Come work at a place where innovation and teamwork come together to support the most exciting missions in the world!\n Job Description\n We are looking for an enthusiastic and committed Vulnerability Management Product Manager to join our dynamic team. This role will blend aspects of product management and cybersecurity analysis to ensure the delivery of high-quality security solutions to our customers.\n Key Responsibilities\n Assist in market research to identify new opportunities and customer needs specific to cybersecurity.\nPerform vulnerability assessments and threat analysis to inform product development.\nGenerate vulnerability management reports for customers.\nCollaborate with engineering teams to define product requirements and specifications.\nAssist in developing product roadmaps and feature prioritization.\nHelp prepare product collateral, including user guides, FAQs, and datasheets.\nMonitor and report on product performance and cybersecurity metrics.\nStay updated with the latest industry trends and regulatory requirements related to cybersecurity.\n Qualifications\n Bachelor’s degree in Computer Science, Information Security, Business, or related field.\nBasic understanding of cybersecurity concepts such as vulnerability management, patch management, and asset management.\nStrong analytical skills with the ability to collect, organize, and analyze significant amounts of information.\nExcellent communication skills, both written and verbal.\nSeniority level Not Applicable | Employment type Full-time | Industries Computer and Network Security",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -27319,8 +27319,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 40,
+    "total": 46,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -27330,15 +27330,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Product Manager at Qualys in Pune, but location is Pune and requires cybersecurity background.",
+    "fit_notes": "The posting asks for a 'Bachelor’s degree in Computer Science, Information Security, Business, or related field' and a 'Basic understanding of cybersecurity concepts such as vulnerability management, patch management, and asset management.' Shlok has a B.Tech in Electrical and Electronics Engineering and lacks a cybersecurity or computer science product background. Additionally, the location is Pune, which violates his Bengaluru or remote-first rule.",
+    "pay_notes": "Pay not stated in the posting or search evidence.",
+    "culture_notes": "Ratings, headcount, and stage/funding were not found in the evidence.",
+    "hook": "Qualys recently published an article detailing how to find, mitigate, and patch the critical Java4Shell Flaw (CVE-2026-114938).",
+    "hook_source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWJtZnlLOVpILWNKalhlRWFFdWYzbUtucWZ4REQ2RDFTR0RnUlIyQ0N4RDBCbExRRXQwQ1R5azFXUmxjQ1ZWYk5Wcl9qS2h6ZHptdzZ5UHB5UlZoaG1WZVctSHg2M0M4elVpV1JPLWhCWERuVVVCc0R3eHNsLXZPN292U3VhQVh1X19SQnFrSldDRGlhZkpmX0NsSlFrUlVDbFNDLXlPaVktSF9LWG1KY2Y5eTFYMHV0el9HTWJvck53Q0dwT1pjWXFiMHMzR3lBcml1Uk1OemZmbnVPdm9F?oc=5",
+    "researched_at": "2026-11-26T14:59:28+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "PHP2Shell: Find, Mitigate, and Patch Now | Qualys - Qualys",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGhPNXhLcTVQUzdSck1XajM5M0V5MllLMGNET2tEX2lSa3B5ZXd4UEtUWnN2YkZkdDJjZWwxN0VUa3YxTnZOdUZqRFBNb3ZGNkhfX21LSWRodVNXRlpYOXpjb0Z0TVZFVmR0UFdVWFRiT0s1bjhRcTFFY2trZVZXZHNNbk11aDdza0ZPNUk1OWVKd3FFTHRCbmZxSUhXMlZrQnlMQjF0NU9fcmp5dHRKZVo2SGJZbEhnR013TnduX0sxZ0VfT1BSVVl3?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now - Qualys",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWJtZnlLOVpILWNKalhlRWFFdWYzbUtucWZ4REQ2RDFTR0RnUlIyQ0N4RDBCbExRRXQwQ1R5azFXUmxjQ1ZWYk5Wcl9qS2h6ZHptdzZ5UHB5UlZoaG1WZVctSHg2M0M4elVpV1JPLWhCWERuVVVCc0R3eHNsLXZPN292U3VhQVh1X19SQnFrSldDRGlhZkpmX0NsSlFrUlVDbFNDLXlPaVktSF9LWG1KY2Y5eTFYMHV0el9HTWJvck53Q0dwT1pjWXFiMHMzR3lBcml1Uk1OemZmbnVPdm9F?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do - Qualys",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUFJCNHJuUHRPamV6dGJ1MFhOVDJIMnJpM3dnMjJ6V3RsZElLU21yQVlOQTRKOFpSX1BReU8yMzhlZll2azZzQnFuN1k0cUFETzlVUk1ZR2h0ekZYUW14Wm0zVUJwbUJJbjJWbl9aSm5wc0NickdDRGZEQno3cDhSd2NXa2RnTERkaXBKZ0NTXzlmaDh0TW5xMkl2M3I0ekFrajQ5OUdQcC1pa0l0eHdNSkN5ZFlOVy0wTWRiN3c2Ukk3X2pnOF9WT0tJdWJXdkwwN1JhcXFJRnB6QQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600) - Qualys",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQjlBRk9XRDVuaUFrdEZRUFp2ZTJkR3VzZ2dxdlI3a1lQWlVMM3dCQWlRZU1SVmhEQ1NRVkU0bkhEUWFFQnotdFF6N2Iybkk5RnVNTUg0QnpqV096MU5JUnJfWG5wWjl1WnB2X2RCQzJGTzVTa1dmUVpKMEdYM1ZyVW9QQmhiN0VKdnduVjF2YTFRNURJdlVHQU5MTnk5YnQ4UFUzVk1WU2wwV19wZjBaa2xZN0g0WmllZmRJZVU4V2Y3OEpQTXdnb1BqbEQ3bllqSlAydlpoMVExZkNrTV95Yg?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Microsoft and Adobe Patch Tuesday, November 2026 Security Update Review - Qualys",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTVVTM2dBVjNhaThUWERHMm1tb2xSTGRwalFJclBUSkN1ZGxBcWwtOU9FbGJPUnlYVUgya1hKeGFRcXF3T2NCQUhLSTZWeEpSdzJlSTRVZkVndUZkdEQ5OHBzLTNtdUQwcVN2ZHVUUG9IcndjVU0wYVhIRjQyQzdtOU5TUW5Fc2tLVmkwRjQ4Y0g3ZnV5V0JkR3BUZVlZVTNldUdZWHkzRWZ2WnNzbGN3QldaMUJwbzkyY3pnNHpzMkR1OEo1cWc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Microsoft and Adobe Patch Tuesday, June 2026 Security Update Review - Qualys",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcWl1enRmR2J0R24zNUtZcDRrX3VSZTJCNHkxelZxaVgxeUJ5dnhkRTlLN0JuSXlkLVVCa2tySzVxZHUwOTdPcnNUXzR6V1FSTkdWWDVVeUoxYTlhSVVVRzRxRkNlM1ZUYjNJS0F2Y3pzeWxvRXUtaFpyVU9XSVoteDVFNGE5Z01od3hQbVJIeUVWRXBTNkMwZmVIUzJsZGp5cTV2aUp0dUpkSTVaNF8yX0VLQ2xvM1p5Snl1TEg3TVNZd2FuLUVnUU5YbTJIUQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -27362,9 +27400,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-26T14:59:28+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 46: rejected (Role is located in Pune, violating Shlok's preference for Bengaluru or remote-first; it also requires a computer science or information security background with cybersecurity vulnerability management focus, which does not map to his S&OP and operations facts.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-26T14:59:28+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -27374,7 +27418,8 @@
     "at": "2026-11-25T15:01:03+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Role is located in Pune, violating Shlok's preference for Bengaluru or remote-first; it also requires a computer science or information security background with cybersecurity vulnerability management focus, which does not map to his S&OP and operations facts."
   },
   {
    "id": "L0185",

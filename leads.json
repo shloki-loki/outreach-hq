@@ -84178,9 +84178,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Gergely Danyi"
+    },
+    {
+     "at": "2026-11-26T15:23:03+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Nathan Brahms"
     }
    ],
-   "updated_at": "2026-11-26T14:17:38+05:30",
+   "updated_at": "2026-11-26T15:23:03+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

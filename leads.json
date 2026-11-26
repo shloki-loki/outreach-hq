@@ -277471,15 +277471,15 @@
    "key": "simplilearn|business development associate|bengaluru",
    "type": "job",
    "company": "Simplilearn",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "simplilearn.com",
+   "company_url": "https://www.simplilearn.com",
    "company_linkedin": "",
    "company_note": "AmbitionBox 3.7 (1006 reviews, via Naukri)",
    "title": "Business Development Associate",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "naukri",
    "source_id": "251126031896",
    "source_url": "https://www.naukri.com/job-listings-business-development-associate-simplilearn-bengaluru-1-to-5-years-251126031896",
@@ -277510,8 +277510,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -277521,15 +277521,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Associate at Simplilearn in Bengaluru, but pays below target and fits sales rather than strategy.",
+    "fit_notes": "The posting asks for 'freshers and experienced candidates' with 'a passion for sales,and the ability to engage with prospective customers'. Shlok's background in operations, inventory planning, and supply chain ([sop], [ceo-coo], [mrp]) does not map to a pure BDA sales role.",
+    "pay_notes": "Pay not stated; typical BDA roles in edtech are well below Shlok's Rs 24.5 LPA fixed requirement.",
+    "culture_notes": "AmbitionBox 3.7 (1006 reviews, via Naukri); no specific culture flags found in research sources.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T14:56:22+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Best Programming Languages to Learn in 2027 - Simplilearn.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMDN0b3ppcWVqUEJieVIxU3pvRzNWQ0oyWTZRdTB1anh2Wjhjc3BLbTJmd0pFOWVzYWM0MW1PRzBUR0dxRVJVSFZ6dEFGZGVXOGRyRWpvQWxDaVIyVklBZjJXSFNsLXFGV2lORGNQT0RyMnpibVpHdFZUNlZFTk16U2otUVlsdEZPMDRJ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "20 New Technology Trends for 2027 | Emerging Technologies 2027 - Simplilearn.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Qlh1S3htejlyck9TZjZacklqZ0dpMUpwRWJxMWtkQkVpSUl6c0I0S0M5MWdfV0JQOU0yZkpfVVFUN3kwZGFyMHFlWWdaYnIwWmpDOGxIOG96NFNYS2JfWi1VcjJxTGVzSEppUVpScGlqTksy?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "What Is Artificial Intelligence (AI)? Types, and Advantages - Simplilearn.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVFqUGlIQ0dCX0hxVDg0V3cxbjZKQ0dpZFZoNF9GV3dFb1I1V3hZZDBzTE4tZk92bzdBNmlTbS1NVTF4ZDVrdDNTQjctN292UjJnTloySjUtbnRjdXF5QTBhc1V3RzdYMTR0Q0ctRTNORTI2WllGQnhwMWpFVHBXRmhJRnVtd2JaSXctcHVETElfWkpsMlRuY3RkMVZfdXVKNnVMSg?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "How to Become a Data Scientist | Become a Data Scientist in 2026 - Simplilearn.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWpVLXJrTGRtbmcweDVpenE5bUtiTVRFcmNBSzEtZ3QyWUlrSUY0SWxhQjhmRkxXRnRpTXJJOEl6QjZlRTZyTVJLQVc2TnFfZ3RTUTdUekZER0FMcVRsT3E2QU1USGFadkpIVnJxYmtDRHoySThTcGsySHhzbWd6SVpZanVCR19nVEtlZTdmdWdTYnZD?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Mastering the Future With a Master’s Degree in Artificial Intelligence in 2027 - Simplilearn.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM1pXZjl6OU1Ka2xJMi1sZ3paN1NLT056azM0RVdGWDNlQXNJbmpjaGwza2w5Q1ppNjdGRHRZbFoyaGp5SEdsSjh2aU5QbVo4ZFF1V2h5aEV6WkliLVBCRk1tb3dEZUNQWU54cy1nMlRHR09JZ1N3UDVSRHpsWTBEbg?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Artificial Intelligence Tutorial for Beginners - Simplilearn.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjV2NjY1k1YVp3eEIySkdvR2UyWUFWMzl1aDRBanB4Ny1vLWxTeUpRMVAxQkxMd1U0Q2tRZXZjSE9HeGN5Q3A0cG53NkEycThfWk1wcFZfMHBrVFMzT1UyaXB5N1dubGg3TzZhcnpNM3Y3dXoxZW9aNEJn?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -277553,14 +277591,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 59"
+    },
+    {
+     "at": "2026-11-26T14:56:22+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (Low-paid sales role (Business Development Associate) with no pay stated, likely well below Rs 24.5 LPA fixed, and does not match strategy/operations or product priorities.)"
     }
    ],
-   "updated_at": "2026-11-26T02:20:42+05:30",
+   "updated_at": "2026-11-26T14:56:22+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Low-paid sales role (Business Development Associate) with no pay stated, likely well below Rs 24.5 LPA fixed, and does not match strategy/operations or product priorities."
   },
   {
    "id": "L2160",

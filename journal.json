@@ -13418,6 +13418,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 130 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J1492",
+   "at": "2026-11-27T05:07:14+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 130 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

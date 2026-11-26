@@ -286539,7 +286539,7 @@
    "key": "ablecreditgenaiinfraforbfsi|strategy manager growth and new initiatives|bengaluru",
    "type": "job",
    "company": "AbleCredit - GenAI Infra for BFSI",
-   "company_domain": "",
+   "company_domain": "ablecredit.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/able-credit",
    "company_note": "",
@@ -286547,7 +286547,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493839056",
    "source_url": "https://in.linkedin.com/jobs/view/strategy-manager-growth-new-initiatives-at-ablecredit-genai-infra-for-bfsi-4493839056",
@@ -286563,7 +286563,7 @@
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27",
    "open": true,
-   "jd": "",
+   "jd": "About Ablecredit\n AbleCredit is an AI technology company building enterprise intelligence and decision-making solutions. Our capabilities enable organisations to transform complex, manual and evidence-intensive workflows through AI. Having established our capabilities in financial services, we are expanding into new industries, geographies and enterprise use cases.\n THE ROLE\n We are looking for a commercially minded strategy professional who can identify, evaluate and validate new business opportunities for AbleCredit. Working directly with business leadership, you will understand unfamiliar industries, identify high-value problems, translate AI capabilities into commercially viable solutions and develop market-entry strategies. This is not a conventional corporate strategy role: you will take opportunities from initial hypothesis through customer discovery, commercial validation and POC scoping, while managing the GTM Lead.\n What You Will Do\n Market strategy & opportunity identification\n Research new industries, geographies and customer segments, including market dynamics, competitive landscapes and entry barriers.\n Develop bottom-up TAM, SAM and SOM estimates, revenue models and commercial attractiveness assessments.\n Prioritise markets based on revenue potential, customer pain, competitive differentiation, product feasibility and speed to market.\n Use-case development & commercial strategy\n Understand enterprise workflows, identify high-value business problems and assess where AbleCredit’s AI capabilities can create differentiated value.\n Develop solution hypotheses, value propositions, ROI models, ideal customer profiles and pricing hypotheses.\n Work with product and engineering teams to assess feasibility, identify capability gaps and develop commercially viable POC proposals.\n Customer discovery, business validation & team management\n Conduct structured customer discovery with senior industry stakeholders to validate problems, existing solutions, willingness to pay and buying behaviour.\n Manage and coach the GTM Lead; set priorities, define market-validation experiments, review pipeline progress and ensure disciplined execution.\n Synthesise findings into recommendations on which opportunities to pursue, refine or discontinue, including developing repeatable GTM playbooks.\n Preferred Professional Backgrounds\n Management consulting or commercial strategy consulting.\n Founder’s Office, business strategy or new business initiatives.\n Corporate strategy with demonstrable commercial ownership.\n B2B SaaS or AI-led business strategy and market expansion.\n Must-have Skills\n 5–9 years of relevant experience with ownership of strategic or commercial initiatives.\n Strong structured problem-solving, market research, financial modelling and commercial analysis capabilities.\n Ability to understand complex enterprise workflows and translate them into clearly defined business opportunities.\n Strong communication and executive stakeholder management skills, including senior-level customer discovery.\n High ownership, intellectual curiosity and ability to navigate ambiguity; ability to manage and develop team members.\n GOOD TO HAVE\n Experience launching a new business vertical, product or geography.\n Understanding of enterprise AI, SaaS or workflow automation.\n Exposure to BFSI, insurance, healthcare or other regulated industries.\n Experience developing business cases, enterprise pricing models or POC proposals.\n Exposure to international markets, particularly MENA, Southeast Asia or the US.\n How Success Will Be Measured\n Quality and commercial potential of shortlisted business opportunities.\n Number of customer-validated problems and use cases.\n Opportunities progressing from discovery to commercially viable POCs.\n Quality of market-entry decisions and prioritisation.\n Potential revenue and repeatability of validated opportunities.\n Who Will Thrive In This Role\n You enjoy understanding how businesses work, questioning established processes and finding overlooked opportunities. You are equally comfortable building a financial model, talking with an industry leader, working with a product team and leading GTM execution. You aspire to build businesses rather than simply advise them.\n WHY JOIN ABLECREDIT\n Direct exposure to business leadership and strategic decision-making.\n Opportunity to shape new business verticals from the ground up.\n Work at the intersection of AI, enterprise technology and commercial strategy.\n See your recommendations translate into real products, customers and businesses.\n Skills:- Business Planning and Market Research\nSeniority level Mid-Senior level | Employment type Full-time | Industries Technology, Information and Internet",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -286578,8 +286578,8 @@
    },
    "score": {
     "rules": 71,
-    "research": null,
-    "total": 71,
+    "research": 45,
+    "total": 55,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -286589,15 +286589,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Strategy Manager at AbleCredit, asks 5-9 yrs; your 1.3 years falls short of the minimum requirement.",
+    "fit_notes": "The posting asks for \"5–9 years of relevant experience with ownership of strategic or commercial initiatives\" and lists management consulting or commercial strategy consulting as preferred backgrounds. Shlok has about 1.3 years of experience and no consulting background, failing the explicit experience gate.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "No company website or news found in evidence.",
+    "hook": "AbleCredit is expanding its enterprise intelligence and decision-making solutions into new industries, geographies, and enterprise use cases beyond financial services.",
+    "hook_source": "https://in.linkedin.com/jobs/view/strategy-manager-growth-new-initiatives-at-ablecredit-genai-infra-for-bfsi-4493839056",
+    "researched_at": "2026-11-27T03:29:36+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -286621,9 +286628,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 71"
+    },
+    {
+     "at": "2026-11-27T03:29:36+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 55: rejected (The posting requires 5-9 years of relevant experience, which exceeds Shlok's 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-27T02:15:28+05:30"
+   "updated_at": "2026-11-27T03:29:36+05:30",
+   "reject_reason": "The posting requires 5-9 years of relevant experience, which exceeds Shlok's 1.3 years."
   },
   {
    "id": "L2217",

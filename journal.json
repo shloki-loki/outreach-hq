@@ -12581,6 +12581,15 @@
    "title": "Template founder-v2: 10 emails queued",
    "detail": "1476 addresses left after today; refused 0",
    "ref": "M0904"
+  },
+  {
+   "id": "J1399",
+   "at": "2026-11-26T17:02:55+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

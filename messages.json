@@ -25261,6 +25261,34 @@
    "thread_parent": "<179552381704.31292.1183270627227995255@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0843",
+   "lead_id": "L0383",
+   "contact_id": "C2",
+   "to": "ankit@signoz.io",
+   "to_name": "Ankit Nayan",
+   "kind": "followup1",
+   "subject": "Re: Ops and strategy help at SigNoz",
+   "body": "Hi Ankit,\n\nOne more thing that may be relevant for SigNoz: I also designed Ola Electric's Minimum Stock Limit program, which moved us from make-to-order to stock-and-sell and reached 70% serviceability across India. Happy to share how I approached it. Would a short call this week work?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-26T16:30:59+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179552392175.31292.10936715676741777423@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

@@ -80627,9 +80627,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ankit Shrivastava"
+    },
+    {
+     "at": "2026-11-26T14:04:42+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Indrajeet Roy"
     }
    ],
-   "updated_at": "2026-11-25T14:15:48+05:30",
+   "updated_at": "2026-11-26T14:04:42+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

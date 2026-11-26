@@ -280138,17 +280138,17 @@
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "Confidential",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "LinkedIn posting",
     "fit": "Unknown"
    },
    "score": {
     "rules": 71,
-    "research": null,
-    "total": 71,
+    "research": 35,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -280158,15 +280158,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office Revenue Ops at an Uplers client, asks 2-5 yrs, pay confidential; deal tracking and CRM, not S&OP.",
+    "fit_notes": "Posting is for Uplers' client UNF (quality-management software); sales ops and SDR skills, none of Shlok's facts match. Posting page opened on LinkedIn 2026-11-26 with no closed notice.",
+    "pay_notes": "No external pay evidence gathered this run.",
+    "culture_notes": "Not researched beyond the posting.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T16:26:44+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -280190,9 +280192,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 71"
+    },
+    {
+     "at": "2026-11-26T16:26:44+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 49: rejected (Revenue-operations/sales support role asking 2-5 yrs at a staffing-agency client; pay confidential, US customer-facing, in office.)"
     }
    ],
-   "updated_at": "2026-11-26T15:46:46+05:30"
+   "updated_at": "2026-11-26T16:26:44+05:30",
+   "reject_reason": "Revenue-operations/sales support role asking 2-5 yrs at a staffing-agency client; pay confidential, US customer-facing, in office."
   },
   {
    "id": "L2175",

@@ -276765,7 +276765,7 @@
    "key": "brioelevators|business development manager|bengaluru",
    "type": "job",
    "company": "Brio Elevators",
-   "company_domain": "",
+   "company_domain": "brioelevators.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/brioelevators",
    "company_note": "",
@@ -276773,7 +276773,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494770738",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-brio-elevators-4494770738",
@@ -276789,7 +276789,7 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-27",
    "open": true,
-   "jd": "",
+   "jd": "The ideal candidate will lead initiatives to generate and engage with business partners to build new business for the company. This candidate will be focused and have strong communication skills. They should be able to think critically when making plans and have a demonstrated ability to execute a particular strategy.\n Responsibilities \n Identify partnership opportunities\n Develop new relationships in an effort to grow business and help company expand\n Maintain existing business\n Think critically when planning to assure project success\n Qualifications \n Bachelor's degree or equivalent experience\n 3 - 4 years' prior industry related business development experience\n Strong communication and interpersonal skills\n Proven knowledge and execution of successful development strategies\n Focused and goal-oriented\nSeniority level Mid-Senior level | Employment type Full-time | Industries Industrial Machinery Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -276804,8 +276804,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -276815,15 +276815,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at Brio Elevators, asks 3-4 yrs; your background is in supply chain and operations, not sales.",
+    "fit_notes": "The posting asks for a 'Bachelor's degree or equivalent experience' and '3 - 4 years' prior industry related business development experience'. Shlok has ~1.3 years of experience (failing the 3-year minimum requirement) and his background is entirely in supply chain, S&OP, and operations at Ola Electric ([sop], [ceo-coo]), lacking the requested business development experience.",
+    "pay_notes": "Pay is not stated in the posting, and no pay evidence is available for Brio Elevators.",
+    "culture_notes": "Headcount, funding, and ratings were not found. A culture flag from Hindustan Times on 2026-09-03 notes: 'Customers question product origin and certification.' [S1]",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T03:34:38+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Odyssey & Brio Elevators: Are Customers Being Given the Full Picture on Product Origin and Certification? | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR0xHdGwzelJiSV91c2ZmZUs3ZWRVM05fVFhSR3lxdEM3THdySTRhZXc4dTQtQ2NnTmJWVGVxMVBjenNPaGtNcEZTWlJrYmNTa1E0RUROMHNYMWd0eWdqd3JiVVRQRVRucFFjMEM5aERDc2h3Rlk4dmdKd2FyWFBkZjZGRjNKWEVPRUpyMkZuM1dtQ1V4bWlGMkgtZjRvOWhpYU1JU2ZteXVsbDFqVjZqZkFUTmM1Zjc0Mi1mWlFaLWZUeWFBZURCRnMzSUVydmplZEl4a2xuczBRNGlLT2x6dWRmQ2V0U1dHSjBEVi16WTNrY0HSAfgBQVVfeXFMTzYtc0FuV254ME5PNHF5clVLNU00WFR3ckVyR1ppQmd3QURwUjAtMmZXcXhfeld0TThtbGJYSko1NWFpN3FiWXllOU8waHdrNkhpbU5yQnZ3MGU2NUxENVVtb3F6UnNaX0M2TVVQMUZnNnYtaHpORkstaGZ2T291SFNuWFF5X21QWHBKLThiTGtQbExOVm1EXzRqSDNPTWJQb19jcDlTaUNHdmRjR3ZiTVJQNWJFNG1nWVJ5TWFzdE53dWpjV2VTd0FLQnBXMjl0R2N1MHdtNno4RkxvZS1nUDZYTE1RVWxvS05pa0NiVll6WUpaREhBaFQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -276847,9 +276860,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-27T03:34:38+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The posting explicitly requires '3 - 4 years' prior industry related business development experience', which exceeds Shlok's ~1.3 years of experience. Furthermore, the role requires business development/sales experience rather than supply chain, operations, or strategy & operations background.)"
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30",
+   "updated_at": "2026-11-27T03:34:38+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -276859,7 +276878,8 @@
     "at": "2026-11-26T14:28:04+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting explicitly requires '3 - 4 years' prior industry related business development experience', which exceeds Shlok's ~1.3 years of experience. Furthermore, the role requires business development/sales experience rather than supply chain, operations, or strategy & operations background."
   },
   {
    "id": "L2122",

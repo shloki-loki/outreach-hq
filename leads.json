@@ -92114,9 +92114,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Narahari Payala awaiting approval"
+    },
+    {
+     "at": "2026-11-26T17:12:21+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Saurabh Gupta"
     }
    ],
-   "updated_at": "2026-11-26T16:35:56+05:30",
+   "updated_at": "2026-11-26T17:12:21+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

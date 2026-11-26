@@ -287403,7 +287403,7 @@
    "key": "colliers|business operations project management india|bengaluru",
    "type": "job",
    "company": "Colliers",
-   "company_domain": "",
+   "company_domain": "colliers.com",
    "company_url": "https://colliers.com",
    "company_linkedin": "",
    "company_note": "A global diversified professional services and investment management company.",
@@ -287411,7 +287411,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram or Bengaluru or Mumbai",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "hiringcafe",
    "source_id": "smartrecruiters___colliers1___1646c8b4-bc9b-4318-b490-22019efa1224",
    "source_url": "https://jobs.smartrecruiters.com/Colliers1/744000163842729-business-operations-project-management-india",
@@ -287442,8 +287442,8 @@
    },
    "score": {
     "rules": 71,
-    "research": null,
-    "total": 71,
+    "research": 35,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -287453,15 +287453,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Operations at Colliers, but asks 8-10 yrs and an MBA/consulting background you do not have.",
+    "fit_notes": "The posting asks for \"8-10 years in business operations, strategy, business finance, consulting, commercial management or a comparable role\" and states \"MBA preferred\". You have about 1.3 years of experience and no MBA. While your S&OP and inventory work [sop, msl] maps to the operational tracking requirements, the experience gap is a definitive reject.",
+    "pay_notes": "Pay not stated in posting or evidence.",
+    "culture_notes": "Recognized as one of the top companies in the world for employee satisfaction, revenue growth, and sustainability on TIME's world's best companies 2025 list [S1].",
+    "hook": "Jan-Sep 2026 investments in Indian real estate touch USD 5.9 Bn, highest 9-month volume in recent years",
+    "hook_source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmw1aExVdjRSMU9VNmNoNHpqM1JPTm1BUkh6NnlzeHhlUXh2LTFQLXF0c0JncjBJVFA1bmlYcWdreTJ4UUZ1QnlDNXNEc0EwY1dRdGt0a1RVZ0ZFMEhzMVo5RU15RUNnd3R4QnhMc1NmcjRVSWdqcXVkYUQtR1FlRF8zaw?oc=5",
+    "researched_at": "2026-11-27T03:29:53+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Colliers website",
+      "url": "https://colliers.com"
+     },
+     {
+      "id": "S2",
+      "title": "India Office Snapshot Q2 2026 - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd1pXZlJyZ19NUGxQODVQWjhiX1Eya3Y2aGYwSTZTR0FYb1JrTHpOR2NQQmdrYW85RHZlcEV5YVZkT1pkS2NtU0NNVVlKMjJZYXBVcDZ2bmlRclhrOHp4dkhJa1dxWTZaWGZOUW44OGZuaGM2V3VmZUZMVlVvSVVKQ25jcw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Senior Living Market to Cross INR 1 Trillion - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WNE5VMnNpYkh4X2FxOEgwVWxOckJocWhjeGtNQ29FalpPU1Bub29RVUxWaGVPTTRnRXNoc2FDQlZIaG9lTTRUdzBzaVZ0VDhySnRBQm5qbC1kcC1tR0NkYm85aTBjX0QwalBGSzh6OTE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Homebuying Sentiment Survey 2026 - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DTTZiV2wxMGNNRVhBR1RlY09aRFpIUHhWdy1aY3laQnl3M1BZYnZLTFpCU0NSWERLclg5Z0UxMU1JbWtDR0dNWEp5X1Z2emZ4UGIxV1AyTkhFUTd5RHhwVHFmZ2R2bzljSU41WGczTjBCcDMxeWdhallXX0o?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "GCCs in India Report 2026 Insights - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qOFUybFlCM0FIOXF0MWJQUDVhSENzUXU5SWlueDNVdUJCZDBWTlVrUm8yVllVbl9iSGFKY0NILUFtYjYzSi0yQzBvV0ZNTFpibUpaRVhLVnJhcU9ucWR2ajZ1MklERVJFOFRCSk1pQjlYc3M?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Jan-Sep 2026 investments in Indian real estate touch USD 5.9 Bn, highest 9-month volume in recent years - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmw1aExVdjRSMU9VNmNoNHpqM1JPTm1BUkh6NnlzeHhlUXh2LTFQLXF0c0JncjBJVFA1bmlYcWdreTJ4UUZ1QnlDNXNEc0EwY1dRdGt0a1RVZ0ZFMEhzMVo5RU15RUNnd3R4QnhMc1NmcjRVSWdqcXVkYUQtR1FlRF8zaw?oc=5"
+     },
+     {
+      "id": "S7",
+      "title": "From the Boiler Room to the Boardroom: The New Era of Facility Management Leadership - Colliers",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oeU1TMl9ocm9vU2pWMDlPYzhZdk9KcVUxbWtjeU5RdjhOajFIV0ZMNDlKSnpXRTA3NnhTOFpuYXpMa0cxY09BSmN1clFXbVFGM2tzYy1iWExOYng5SmlxbW1QX3ZyRVNraERZMVE4WGpDejlPZUFhMWlLbW80QQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -287485,9 +287528,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "hiringcafe: rule score 71"
+    },
+    {
+     "at": "2026-11-27T03:29:53+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The posting asks for 8-10 years of experience, which far exceeds your 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-27T02:15:28+05:30"
+   "updated_at": "2026-11-27T03:29:53+05:30",
+   "reject_reason": "The posting asks for 8-10 years of experience, which far exceeds your 1.3 years."
   },
   {
    "id": "L2226",

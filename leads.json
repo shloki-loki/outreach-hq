@@ -48787,15 +48787,15 @@
    "key": "tbocom|operations manager|india",
    "type": "job",
    "company": "TBO.COM",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "tbo.com",
+   "company_url": "https://in.linkedin.com/jobs/view/operations-manager-at-tbo-com-4489564540",
    "company_linkedin": "https://in.linkedin.com/company/tbo-com",
    "company_note": "",
    "title": "Operations Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489564540",
    "source_url": "https://in.linkedin.com/jobs/view/operations-manager-at-tbo-com-4489564540",
@@ -48811,7 +48811,7 @@
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Job description \n Location: Gurugram\n Experience: 10+ Years\n Employment Type: Full-time\n Function: Operations / Business Transformation\n About the Role\n We are looking for an experienced and strategic Senior Manager / Group Manager Operations to lead large-scale business operations and drive operational excellence across global teams.\n The role will be responsible for end-to-end operations management, P&L performance, strategic planning, productivity, workforce management, client governance, process transformation and automation initiatives . The ideal candidate should have experience managing large teams and working with global stakeholders across multiple geographies.\n Key Responsibilities\n Strategic Operations Leadership\n Lead end-to-end business operations and develop strategic roadmaps aligned with organizational and business objectives.\n Drive operational scalability, process standardization and continuous improvement across teams and geographies.\n Partner with senior leadership to translate business objectives into actionable operational strategies.\n P&L & Business Performance\n Own and manage operational performance, including cost optimization, productivity and margin improvement.\n Identify opportunities to improve operational efficiency and optimize resource utilization.\n Drive business performance through effective planning, governance and execution.\n Team Leadership\n Lead and develop large, diverse teams through Managers and Team Leaders.\n Build a strong leadership pipeline and develop future operational leaders.\n Drive a high-performance culture focused on accountability, collaboration and continuous improvement.\n Workforce & Productivity Management\n Partner with WFM teams on forecasting, capacity planning and staffing strategies.\n Drive productivity, utilization, shrinkage and absenteeism governance.\n Establish performance dashboards and review mechanisms to improve operational efficiency.\n Client & Stakeholder Management\n Lead Weekly, Monthly and Quarterly Business Reviews with senior internal and external stakeholders.\n Serve as a key escalation point for business, operational and client-related issues.\n Build strong relationships with global stakeholders and ensure effective delivery against agreed KPIs and SLAs.\n Governance & Operational Excellence\n Establish robust governance frameworks to ensure SLA adherence, quality, compliance and process consistency.\n Drive operational reviews, performance management and corrective action plans.\n Ensure data accuracy and effective reporting for leadership and business reviews.\n Transformation & Automation\n Identify and lead process transformation opportunities across operations.\n Drive automation and AI-led initiatives to improve turnaround time, quality and employee productivity.\n Collaborate with Technology, Analytics, MIS and Business teams to implement scalable operational solutions.\n Training & Quality\n Partner with Training and Quality teams to strengthen capability development and operational readiness.\n Develop frameworks to improve employee proficiency, process adherence and defect prevention.\n Drive continuous improvement initiatives to enhance customer and business outcomes.\n Required Skills & Experience\n 10+ years of experience in Operations, Business Operations, Shared Services, BPO, Global Capability Centers or large-scale service delivery environments.\n Experience managing large teams through multiple layers of leadership .\n Strong experience in Operations Management, Business Performance and Governance .\n Exposure to P&L management, cost optimization and productivity improvement .\n Experience working with global stakeholders and cross-functional teams .\n Strong understanding of:\n Workforce Management\n Capacity Planning\n Forecasting\n Productivity Management\n SLA & KPI Governance\n Client Management\n Process Improvement\n Business Reviews\n Automation and Digital Transformation\n Experience with MIS, Analytics and Data-driven decision-making .\n Exposure to AI, Automation or Technology-led transformation initiatives will be an advantage.\n Six Sigma / Lean certification will be preferred.\n Excellent stakeholder management, communication and leadership skills.\n Preferred Profile\n The ideal candidate should have experience in organizations with complex, large-scale and global operations , managing multiple stakeholders and teams across geographies.\n Candidates with experience in BPO, ITES, Technology Operations, Shared Services, Deal Desk, Contract Management, Revenue Operations or Global Service Delivery would be highly relevant.\nSeniority level Associate | Employment type Full-time | Industries Travel Arrangements and IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -48826,8 +48826,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -48837,15 +48837,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Operations Manager at TBO.COM, but asks 10+ yrs experience and large team management you do not have.",
+    "fit_notes": "The posting asks for \"10+ years of experience in Operations, Business Operations, Shared Services, BPO, Global Capability Centers or large-scale service delivery environments\" and experience \"managing large teams through multiple layers of leadership\". Shlok has ~1.3 years of experience and no full-time team management background. No MBA or consulting is explicitly required, but the seniority gap is a hard blocker.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Company culture and ratings were not found in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T15:03:09+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -48869,14 +48876,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-26T15:03:09+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (The posting explicitly requires 10+ years of experience in Operations, Business Operations, Shared Services, BPO, Global Capability Centers, or large-scale service delivery environments, which far exceeds Shlok's ~1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-14T00:19:17+05:30",
+   "updated_at": "2026-11-26T15:03:09+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting explicitly requires 10+ years of experience in Operations, Business Operations, Shared Services, BPO, Global Capability Centers, or large-scale service delivery environments, which far exceeds Shlok's ~1.3 years of experience."
   },
   {
    "id": "L0338",

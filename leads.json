@@ -186519,15 +186519,15 @@
    "key": "amazonweb|procurement category manager energy and water infrastructure data center services procurement|india",
    "type": "job",
    "company": "Amazon Web Services (AWS)",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.com",
+   "company_url": "https://aws.amazon.com",
    "company_linkedin": "https://www.linkedin.com/company/amazon-web-services",
    "company_note": "",
    "title": "Procurement Category Manager - Energy & Water Infrastructure, Data Center Services Procurement (DCSP)",
    "tier": "2 - Product / Program / BD",
    "location": "Mumbai Metropolitan Region",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4455795331",
    "source_url": "https://in.linkedin.com/jobs/view/procurement-category-manager-energy-water-infrastructure-data-center-services-procurement-dcsp-at-amazon-web-services-aws-4455795331",
@@ -186543,7 +186543,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "Description\n AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.\nYou’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion. We are seeking a Procurement professional to support the APAC data center operations space.\nAs a Procurement Category Manager, you will create and implement sourcing strategies for the Energy and Water Infrastructure categories and collaborate with internal business partners and suppliers to reduce risks and costs for Amazon. You will develop mechanisms and metrics to hold suppliers accountable for performance and delivery. Additionally, you will drive results through methods that include competitive bidding, negotiating, and analyzing data and market trends for your category. You will also create global Procurement processes and tools to drive innovation across teams.\nThe ideal candidate thinks long term, drives multiple initiatives, and communicates appropriately and influences customers and suppliers at all levels. You must be collaborative, but also work with significant autonomy. To be successful in this role you must be highly analytical; think strategically and globally; have a sense of urgency to meet customer timelines; exhibit curiosity and learning drive; succeed in a fast-paced environment; engage and influence key stakeholders; and have a high level of customer focus and business judgement. Also, you must have a demonstrated track record of managing multiple projects and driving them to completion to meet business objectives. It will be critical to embrace and model Amazon’s Leadership Principles and have an entrepreneurial spirit with a “get it done” mentality.\nKey job responsibilities\n Responsibilities Include But Are Not Limited To The Following\n Manage the Energy and Water Infrastructure categories within the CAPEX domain\n Ensure on-time execution of RFPs/tenders across multiple countries from supplier on-boarding, RFx initiation, pre-tender briefings, post-tender interviews and clarifications, proposal evaluations, negotiations, supplier selection till contract award\n Achieve cost savings through bidding, negotiations and strategic initiatives\n Understand customer requirements and analyze category data to establish and implement robust regional procurement category strategies that deliver value to the business\n Understand trends in customers’ needs and concerns across categories and regions to influence customers’ priorities\n Provide in-depth knowledge about the supply market and supplier capabilities, technically and geographically, to the business.\n Develop mechanisms and metrics to track supplier performance related to delivery, quality, and cost\n Create supplier scorecards to measure and track supplier performance\n Lead business reviews to discuss best practices and issues and to ultimately improve supplier performance and strengthen business partnerships\n Innovate within the procurement space, automating and improving tools or processes to better support the Procurement Lifecycle\n Provide support throughout the contracting process, as well as management of contracts post-execution\n Some travel is required (\n About The Team\n Diverse Experiences\nAWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\nWhy AWS?\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\nInclusive Team Culture\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (diversity) conferences, inspire us to never stop embracing our uniqueness.\nMentorship & Career Growth\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional\nWork/Life Balance\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n Basic Qualifications\n Bachelor's degree in Supply Chain, Business, Engineering, Finance, or a related technical field\n Experience gathering business requirements, using industry standard business intelligence tool(s) to extract data, formulate metrics and build reports\n Experience driving process excellence and productivity improvement initiatives, including Kaizen methodologies\n 5+ years of supply chain, forecasting, manufacturing, sourcing/procurement, or vendor management experience\n Preferred Qualifications\n Master's degree in Business Administration, Finance, Economics, Computer Science, or a related field\n Experience creating an innovative global supply strategy for the organization resulting in a tangible benefit to the business\n Experience building measures and metrics, and developing reporting solutions\n Knowledge of data center products and their global supply chains\n Six-Sigma or equivalent certification\n Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n Company - ADSIPL - Maharashtra\nJob ID: A3195404\nSeniority level Mid-Senior level | Employment type Full-time | Industries IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -186558,8 +186558,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -186569,15 +186569,57 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Procurement Category Manager at AWS Mumbai, but asks 5+ years of experience which exceeds your 1.3 years.",
+    "fit_notes": "The posting asks for a 'Bachelor's degree in Supply Chain, Business, Engineering, Finance, or a related technical field' and '5+ years of supply chain, forecasting, manufacturing, sourcing/procurement, or vendor management experience'. While Shlok has strong supply chain execution experience like [sop] and [ceo-coo], he falls short of the 5+ years requirement.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "AWS values diverse experiences and work-life harmony as stated in the job posting. No ratings or specific Glassdoor data found in search results.",
+    "hook": "AWS recently partnered with Novo Nordisk to accelerate drug discovery with AI.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1hpNWhoZDhpb2oteHM4dVIybE94b0dMMV9nQXNqb3hIeS1JbWsyTjhkUktRUXRwVmtLLXA2akpPSlFYNkhVOE0tQUUyYm1HNmJSYU8xZERmOFAtRXZ6V0sydDdmMDhNVE5YVU1jdFBLY19adWtTSHN0dF9xWFdZRHRHYkRxanZJT3dRX0FlM2tCdTJFVUJFUXJJdTVYUlFZMlZYLXdoT0FFOE9TWmFmbHdCWFZOUkpFX0VoZzFFLWc?oc=5",
+    "researched_at": "2026-11-26T15:05:28+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Novo Nordisk selects AWS as strategic partner to accelerate drug discovery with AI | Amazon Web Services - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1hpNWhoZDhpb2oteHM4dVIybE94b0dMMV9nQXNqb3hIeS1JbWsyTjhkUktRUXRwVmtLLXA2akpPSlFYNkhVOE0tQUUyYm1HNmJSYU8xZERmOFAtRXZ6V0sydDdmMDhNVE5YVU1jdFBLY19adWtTSHN0dF9xWFdZRHRHYkRxanZJT3dRX0FlM2tCdTJFVUJFUXJJdTVYUlFZMlZYLXdoT0FFOE9TWmFmbHdCWFZOUkpFX0VoZzFFLWc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Amazon Web Services' Swami Sivasubramanian says that CEOs are no longer worried if AI will add value to t - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQbzJaMC1sRXRKWnNXSzdpdHpjMWZfUzgxYTF6M3l6R2dnNzgxeEtjS2NyVlV0Qkxicnh6TS1zMS15ejQwR0RaNV8wT0lxTTVrWGxTdWltb0puOUtEamZPWE91S2c2WWdNUGV6cXNFRkY0LVkxTFlwQWkzWWF3TWlCR3o2YkV4QTgwcGxfbUpKSE9nSVVIV3VwczJ2eXByWExvTnE0bU5LbUtzTTRBTW9HdW1DMHBpaXZieXNZaTZXRWxvQjIyMnkxSHZaVnRjelFHd0RmcDFzRWpOVkZ0Qm1CX0pseWtRZjc3bDcyMVFrN29hbXRxZkw4Q0NIeGJXR2VRQS1uRHRKR19MbHpPRDB1U1ZhbzhVdVBzX0J5TXktNkVOUHBUZ2RlMXpuWjJSVnBQWk1rSFdBLWdZSjhsU3dPaktoRlBLa0phUnFF0gHQAkFVX3lxTE1kenlXd3pYOTZKdnFNa3lTbHhmUTFfeHF6VTNhVWxiT0UwbkYxNHU1Mm5XNU92UElueDl4TG1ORkJQMUhvY3U2Y2pqYlFFU0pXcXJzWFc0ekUwSnF0TGs0aXk3eV9sZHFKZ2QxXzB3eFRoZmhOMkEzNlV5V1hxYkhFV1g4UzhjeTRzU09kVXVhZGdfcWpMeXNfX2hUY053QlkwOUd0WGJpSTZrY2hEUXN6Q2gwa2hRZHlKMFoxcHl1a05EeWd1ZW5BbGlhM2RjSVNMRkYwWWI5NHJNTTlSdDF3RGJQVzRvX0Z4YnloTWhVZGxnV0prOHduMGdidlFkaURYaDB4UHdLeFJZVEpkQzFwR2g2Z0ZBUWZlMTlidjF5OExPUkFkcXVCdjBuZnNRUHl1MkcwVmU3UVVzcUExa243VXFLT2gwNWlDU0ZHeEJsSA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "ANZ migrates 1.7 petabytes of data to Amazon Web Services - Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUpZNmVRZXVPeVFFVDBEeUl4UWNzNjdpdVpQWEhxUjRRZjJiZGdjWmxPd183VzM5MjIyNUVLdVVXWF9kUnpldDdzbHJxS1JEU0g3TGEtNlMxU281QWNoQlZVdXo2RmIwa2U3WnBCdUlJeTFMaW0zZ0w4a0RpUVJ4RFpjQ08xQzAyT1ViS21kcWNSTk1CXzNhck4wV0hMVnNxaXVwaA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Exclusive: Amazon Web Services CFO says AI spending is sustainable - Axios",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2bkxFUFRMWlFOeXFSVU5iVDhhMjBuQk82TkxmNFVWUmQ2YW4zNU1UR0tNeVA3Zms2OWVrXzhJbld4aUlhWmtqY19MVFNncWIwRzBDak1CRDRENmhHdGotZFpQajlsdENBZHNz?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0d2RzRyLXM3VTZNUzEweGx2TFhSSUwycTNoVG0wSng3ZGxqdVlMVjhMZFdpUU5GblB0V1JKVHpORWxLZkxfVGdYWlRlQlotVTJyMFR0N3JVTHJNSHVEaHlmbmtjX21JTVBQZFkzS3NzSWZmMHpTakg1akQtcTBCYnJUTldjaDEtTlo3UWNrTzZkTmtQOGNYLXpwc0dDYjIyZnhKeUliX0VmQmI3STlWMHctdjYyRHRBYUNRWW9Wa2U1X09EZFBIRkZ4eXFFQXZYeGdRa25R?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Amazon Web Services Expands Virginia Footprint | VEDP - VEDP",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNC1LcWZHSlJFanRtV3hXcURTRXZKcGtIYzdka0VNbFJpalY5bW9HYjdRVEx0SEl4Z0pCaEdjUEloTGFQNldkR01veXU3c1FIemQ1TV9ZNlBpUDdzTklBMjNmSWtLeG5YbVBLNXlVa3V1aVhsTHg5REZZdzMzQjlxOE5JSzVDOE50?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -186601,14 +186643,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-26T15:05:28+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The posting asks for 5+ years of experience and is located in the Mumbai Metropolitan Region, neither of which match Shlok's criteria of up to 3 years and Bengaluru/remote.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-26T15:05:28+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting asks for 5+ years of experience and is located in the Mumbai Metropolitan Region, neither of which match Shlok's criteria of up to 3 years and Bengaluru/remote."
   },
   {
    "id": "L1391",

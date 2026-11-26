@@ -25737,6 +25737,34 @@
    "thread_parent": "<179550465015.21308.3842264838132714991@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0860",
+   "lead_id": "L0562",
+   "contact_id": "C1",
+   "to": "umair@nitrocommerce.ai",
+   "to_name": "Umair Mohammed",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Umair,\n\nOne more thing that may be relevant for Nitro Commerce: At Ola Electric I implemented SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Happy to share how I approached it. Would a short call this week work?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-26T16:32:31+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179550473231.21308.14061546324114216759@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

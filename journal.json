@@ -12527,6 +12527,15 @@
    "title": "Scheduled run: no Apify, WebFetch unavailable",
    "detail": "Apify tools not in session, so no LinkedIn post or Naukri sourcing. WebFetch not available; postings checked with curl on LinkedIn guest pages. Only 8 of 12 leads researched; rest of the top 15 were flagged closed (open:false) and skipped. Pay evidence was thin: only PhonePe had AmbitionBox data via search snippets.",
    "ref": "I0112"
+  },
+  {
+   "id": "J1393",
+   "at": "2026-11-26T16:29:31+05:30",
+   "by": "send-track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 emails drafted, 0 referral notes (no connections matched), 0 application kits; skipped: L0105, L1556, L0077 still catch-all after recheck and score under 80; top 12 qualified leads with no kit have only LinkedIn/Instahyre/YC apply links (login or 403), no readable questions",
+   "ref": ""
   }
  ]
 }

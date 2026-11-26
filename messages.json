@@ -26185,6 +26185,34 @@
    "thread_parent": "<179550677911.22139.12802498202720704302@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0876",
+   "lead_id": "L0580",
+   "contact_id": "C1",
+   "to": "kamal.tripathi@stylobug.com",
+   "to_name": "Kamal Tripathi",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Kamal,\n\nOne more thing that may be relevant for StyloBug: At Ola Electric I implemented SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Happy to share how I approached it. Would a short call this week work?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-26T16:33:50+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179550692247.23253.16192577359571506043@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

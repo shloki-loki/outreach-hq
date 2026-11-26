@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T05:37:28+05:30",
-   "agent": "follow-up/track",
-   "ok": false,
-   "summary": "inbox scan failed: TimeoutError: The read operation timed out",
-   "stats": {}
-  },
-  {
    "at": "2026-11-24T05:52:41+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3458,6 +3451,16 @@
     "bounces": 0,
     "settled": 0,
     "followups_due": 5
+   }
+  },
+  {
+   "at": "2026-11-26T20:45:27+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 0, failed 0. daily cap of 60 speculative notes reached",
+   "stats": {
+    "sent": 0,
+    "failed": 0
    }
   }
  ]

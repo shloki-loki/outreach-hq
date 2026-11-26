@@ -275531,8 +275531,8 @@
    "key": "jiostar|associate product manager|bengaluru",
    "type": "job",
    "company": "JioStar",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "jiostar.com",
+   "company_url": "https://www.jiostar.com",
    "company_linkedin": "https://www.linkedin.com/company/jio-star",
    "company_note": "",
    "title": "Associate Product Manager",
@@ -275565,13 +275565,13 @@
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
-    "source": "",
+    "source": "No JioStar APM figure found; AmbitionBox JioStar Product Manager (all levels) 15-32.6 LPA for 3-10 yrs, 31 salaries, not APM",
     "fit": "Unknown"
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 30,
+    "total": 48,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -275581,15 +275581,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "APM I at JioStar (JioHotstar) asking 1-3 yrs full-time PM; internship-only profiles are excluded, which blocks you.",
+    "fit_notes": "Posting opened on LinkedIn 2026-11-26, live. Facts that partly map: Codeforces Expert, data work, InsuranceDekho product internship. Blocked by the explicit full-time PM requirement and a B2C preference.",
+    "pay_notes": "Adjacent benchmarks only; no APM-level evidence.",
+    "culture_notes": "Not researched beyond the posting.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T16:25:14+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -275613,9 +275615,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-26T16:25:14+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 48: rejected (Requires 1-3 yrs as a full-time Product Manager and states internship-only candidates are not considered; Shlok's PM exposure is one internship.)"
     }
    ],
-   "updated_at": "2026-11-26T02:20:42+05:30",
+   "updated_at": "2026-11-26T16:25:14+05:30",
    "research_attempt": {
     "at": "2026-11-26T03:32:14+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
@@ -275625,7 +275633,8 @@
     "at": "2026-11-26T13:41:50+05:30",
     "state": "live",
     "why": ""
-   }
+   },
+   "reject_reason": "Requires 1-3 yrs as a full-time Product Manager and states internship-only candidates are not considered; Shlok's PM exposure is one internship."
   },
   {
    "id": "L2133",

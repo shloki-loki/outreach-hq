@@ -26857,6 +26857,34 @@
    "thread_parent": "<179550970753.24996.2634917845709150985@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0900",
+   "lead_id": "L0605",
+   "contact_id": "C1",
+   "to": "pawan@placeorder.com",
+   "to_name": "Pawan Kumar",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Pawan,\n\nOne more thing that may be relevant for Rapidor: At Ola Electric I implemented SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Happy to share how I approached it. Would a short call this week work?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-26T16:36:06+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179550979862.24996.5912593525883153470@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

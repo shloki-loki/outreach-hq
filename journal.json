@@ -12608,6 +12608,15 @@
    "title": "Template founder-v2: 10 emails queued",
    "detail": "1466 addresses left after today; refused 0",
    "ref": "M0914"
+  },
+  {
+   "id": "J1402",
+   "at": "2026-11-26T17:05:17+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 5 follow-ups due",
+   "ref": ""
   }
  ]
 }

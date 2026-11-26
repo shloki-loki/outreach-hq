@@ -26409,6 +26409,34 @@
    "thread_parent": "<179550762414.23253.18162958781588310424@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0884",
+   "lead_id": "L0588",
+   "contact_id": "C2",
+   "to": "jyoti@traceable.ai",
+   "to_name": "Jyoti Bansal",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Jyoti,\n\nOne more thing that may be relevant for Traceable Security: At Ola Electric I implemented SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Happy to share how I approached it. Would a short call this week work?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-26T16:34:47+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179550771951.23253.11068371637962388366@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

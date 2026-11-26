@@ -91224,10 +91224,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C3",
-    "since": "2026-11-26T00:05:13+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -91266,9 +91265,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-26T16:35:37+05:30",
+     "actor": "follow-up",
+     "event": "drafted",
+     "detail": "followup1 email to Jyoti Prakash Gadia awaiting approval"
     }
    ],
-   "updated_at": "2026-11-26T00:05:13+05:30",
+   "updated_at": "2026-11-26T16:35:37+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

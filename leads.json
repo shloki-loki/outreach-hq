@@ -91957,9 +91957,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Prateek Garg"
+    },
+    {
+     "at": "2026-11-26T17:18:18+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Rishabh Nagpal"
     }
    ],
-   "updated_at": "2026-11-26T17:17:14+05:30",
+   "updated_at": "2026-11-26T17:18:18+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

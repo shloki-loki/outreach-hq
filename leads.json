@@ -281824,15 +281824,15 @@
    "key": "linkedin|sales operations analyst sales development|bengaluru",
    "type": "job",
    "company": "LinkedIn",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "linkedin.com",
+   "company_url": "https://www.linkedin.com",
    "company_linkedin": "https://www.linkedin.com/company/linkedin",
    "company_note": "",
    "title": "Sales Operations Analyst - Sales Development",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4495255127",
    "source_url": "https://in.linkedin.com/jobs/view/sales-operations-analyst-sales-development-at-linkedin-4495255127",
@@ -281863,8 +281863,8 @@
    },
    "score": {
     "rules": 64,
-    "research": null,
-    "total": 64,
+    "research": 52,
+    "total": 57,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -281874,15 +281874,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sales Operations Analyst at LinkedIn, asks 2+ yrs; your S&OP and SQL work maps well, but experience falls short.",
+    "fit_notes": "The posting asks for '2+ years of experience in Sales Operations, Business Operations, Revenue Operations, or Sales Development', '1+ year of experience using Excel and PowerPoint', and 'Experience performing data analysis using SQL or comparable analytical tools'. Shlok has about 1.3 years of total experience, which misses the 2-year minimum requirement. He has SQL skills and operations experience (such as [sop] and [ceo-coo]), but does not meet the minimum tenure requested.",
+    "pay_notes": "Pay not stated in the job posting.",
+    "culture_notes": "Company quality is high (LinkedIn), with a hybrid work mode in Bengaluru. No specific glassdoor rating or pay data found in the evidence.",
+    "hook": "LinkedIn's approach to flexible work is centered on trust and optimized for culture, connection, clarity, and the evolving needs of our business.",
+    "hook_source": "https://in.linkedin.com/jobs/view/sales-operations-analyst-sales-development-at-linkedin-4495255127",
+    "researched_at": "2026-11-27T03:30:58+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "LinkedIn Usage and Revenue Statistics (2026) - Business of Apps",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81NEx3RUFMRmNxOG5MQ1hJQncwTUEtWjdDS2VyM0RPUTF5QkxROUJtNlFUY213ZFl5aHUyODV1T29GY3hQaFpZSTNvZlRqZVFPRWloRmxCdk01ZWh0bzRnNXFxMVh2QmM?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "LinkedIn - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1blNQZFdDS3FabG10MnJOYzN6b1NnWGNNTzF0VkI1N0FvSWxkZzc0NHRSY0tBQXlsdlpZX1hIOEpyWDFpRUZZQ21yNGE3MkFVSF8w?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "How to Use LinkedIn for Business - Business News Daily",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zWGZnQzFLMERQVU5hekQyTFZfSzZ4cm5BWWJBU0ZBSGxXNzA1RkN0VElZV28yYXQ4Z01WekU3V1M2X2J5QzJlWVQtR1lCaC1lQ1BjaVlMME4yMzFYQkVkNHh2VUJ6NmpYNlZDdmxJbi0yZHRh?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "AI Code Review at Scale: LinkedIn's Multi-Agent Approach - infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yNDJSS243SkVFSzA5ZlR5Y0tpZ1VsaUJzWGZmWnVsdm93UU55Q0tmMmdhZTBBYWZJYmo5OWFldGRJNjJ6LV9zVGx0a1lfTnkwamI4UWVWamZrQTlGV0JFbzNJeTNRc1ZOM2ln?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "LinkedIn Users, Stats, Data, Trends, and More — DataReportal – Global Digital Insights - DataReportal – Global Digital Insights",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lei1nT1JMSlVTWlJBU2VqV2t4T2lTWFd3ZkZqZWZ5Si1BMHhoV2JzV2w0a1V3N2NqbVh0Nk1YWkZVZVZCdGpzUldXWHBKNGxoWG9rbmJrWHM5V3gxLWc?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Keeping conversations real on LinkedIn - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yWTI3ZDFBcG9FM2NsUVZqazlXS01VdjFMVFBZbEJRbGZVM2RqS1NmVGJoeEtNaUE2Z1Vud09lYnJ1ajkyWHZxZFpabTFsN0hGMWp0SGNuWjZhQlJSUmxjS3E1STNGeVNZX0pyWFYtUXFmckg5TEt1LQ?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -281906,9 +281947,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 64"
+    },
+    {
+     "at": "2026-11-27T03:30:58+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 57: rejected (The posting asks for 2+ years of experience in Sales Operations, Business Operations, Revenue Operations, or Sales Development, whereas Shlok has about 1.3 years of total experience. Additionally, pay is not stated and cannot be verified to meet the Rs 24.5 LPA fixed minimum.)"
     }
    ],
-   "updated_at": "2026-11-26T15:46:46+05:30"
+   "updated_at": "2026-11-27T03:30:58+05:30",
+   "reject_reason": "The posting asks for 2+ years of experience in Sales Operations, Business Operations, Revenue Operations, or Sales Development, whereas Shlok has about 1.3 years of total experience. Additionally, pay is not stated and cannot be verified to meet the Rs 24.5 LPA fixed minimum."
   },
   {
    "id": "L2169",

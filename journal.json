@@ -12869,6 +12869,15 @@
    "title": "Daily review 2026-11-26",
    "detail": "Ran today: lead-scout/scrape 15:46 (27 new leads), live-check 13:41, lead-scout 16:26 (8 researched, 0 qualified), send-track 16:29 (0 drafted), follow-up 16:36 (64 follow-ups drafted, 3 new replies: TyrePlex, Happi Planet, Delhivery), follow-up/track every 20 min, send-track/send every 20 min (130 emails sent, cap reached 19:45), digest 17:16, supervisor/check 18:13, campaign founder-v2 queued 55 emails. Partly failed: research-worker 15:09 (Gemini 503, 15 errors) and writer 15:10 (free quota used on all gemini flash models), so no new drafts. Problems: 32 open issues, none new from me; I0112 and I0113 diagnosed today (no Apify/WebFetch in scheduled scout; only 3 draftable leads, all catch-all under 80 score, apply pages need login). Older open ones (Reoon/Hunter 401 and the plain-text Reoon key in I0010, Instahyre 403, GitHub cron lateness) unchanged; GitHub runs all succeeded today, so I0005 looks calmer today but I did not resolve it. No code or config changes made by me. Funnel: 2187 leads, 820 researched, 89 qualified, 637 emails sent (417 cold), 28 applied, 14 people replied, 1 interview, 0 offers. Reply rate 3.4%, bounce rate 3.6% (23 bounces, 1 today). Verifier credits: Reoon key present per doctor; no credit count available in status. Needs Shlok: approve the 108 drafts (incl. 64 follow-ups) on the Approvals page; rotate the Reoon key that leaked into I0010; answer the three new replies; decide on the catch-all leads and an Apify-connected scout session.",
    "ref": ""
+  },
+  {
+   "id": "J1431",
+   "at": "2026-11-26T20:11:57+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "32 open issues, 0 fixed, 2 diagnosed today, reply rate 3.4%, bounce rate 3.6%",
+   "ref": ""
   }
  ]
 }

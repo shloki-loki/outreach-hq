@@ -26073,6 +26073,34 @@
    "thread_parent": "<179550623968.22139.12711650674152328220@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0872",
+   "lead_id": "L0576",
+   "contact_id": "C1",
+   "to": "kapil@vehant.com",
+   "to_name": "Kapil Bardeja",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Kapil,\n\nOne more thing that may be relevant for Vehant Technologies: At Ola Electric I implemented SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Happy to share how I approached it. Would a short call this week work?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-26T16:33:31+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179550635882.22139.1527969802871627152@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

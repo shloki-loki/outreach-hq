@@ -56217,9 +56217,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup2 to Vishal Chopra queued (template)"
+    },
+    {
+     "at": "2026-11-26T14:13:03+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Himanshu Gupta"
     }
    ],
-   "updated_at": "2026-11-26T00:05:23+05:30",
+   "updated_at": "2026-11-26T14:13:03+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

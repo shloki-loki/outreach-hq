@@ -185217,15 +185217,15 @@
    "key": "amazonweb|tech infrastructure program manager aws data center planning and delivery|india",
    "type": "job",
    "company": "Amazon Web Services (AWS)",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.com",
+   "company_url": "https://aws.amazon.com",
    "company_linkedin": "https://www.linkedin.com/company/amazon-web-services",
    "company_note": "",
    "title": "Tech Infrastructure Program Manager, AWS Data Center Planning & Delivery",
    "tier": "2 - Product / Program / BD",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4455783971",
    "source_url": "https://in.linkedin.com/jobs/view/tech-infrastructure-program-manager-aws-data-center-planning-delivery-at-amazon-web-services-aws-4455783971",
@@ -185241,7 +185241,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Description\n AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.\nYou’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.\nAmazon Web Service (AWS) is a comprehensive, evolving, and growing business unit within Amazon.com. Since early 2006, AWS has provided a highly reliable, scalable, low-cost cloud infrastructure platform that empowers hundreds of thousands of businesses in 190 countries to innovate and invent.\nDo you have the business background, complex cross functional program management experience, financial expertise, legal/regulatory comprehension and technical understanding? Can you communicate effectively, find clarity in ambiguity, and simplicity in complexity ?\nIf yes, then come and explore this exciting role. This role in Amazon Data Services India Private Limited (ADSIPL) Telangana builds infrastructure that hosts AWS cloud services. It delivers AWS cloud infrastructure in a challenging, high growth, fast paced and customer focused work environment. In this role, you will lead cross functional teams to deliver usable data center capacity. You will partner with senior stakeholders to develop, document, manage and deliver infrastructure designs, implementation schedules and budgets. You will earn trust of your partners in your ability to solve complex issues and steer teams in right direction to deliver results, on-time and at-cost.\nYou must be an exceptionally strong communicator (both written and verbal), and possess relevant experience in managing technical and strategic programs. If you bring past experience in data center deployment programs, great. If not, then having a background in program and project management, architecture/design, mechanical/electrical engineering, software/hardware engineering with strong urge to learn will be essential.\nCome Join us, have fun, and create history!!\nKey job responsibilities\nInfrastructure TPM owns delivery of new DC across one or more availability zones in India. They manage 5+ projects at any time. They bridge internal customers, business functions, (Planning, Finance, Procurement, Legal, Policy, Operations), and functional delivery teams (Construction, Commissioning, Controls, Fiber and Network) to enable on-time and right sized delivery of new DC capacity.\nThe scope begins with early expansion planning, which includes a feasibility analysis to approve expansion plans and associated build timelines. They evaluate multiple factors prior to approving a new plan of record, including owned/leased/collocated DC supply, utility delivery (power, water, and fiber), and long lead equipment (LLE) availability. It requires region-wide knowledge and monitoring of in-flight projects, major risks, and remediation efforts to ensure DC delivery is not only on track to meet supply commitments but also to meet customer demand, which is constantly changing.\nA successful TPM must be capable of managing a combination of metrics, tools, and mechanisms to remain aware of ongoing risks or issues that require their action, decision, mitigations, or effort to identify alternative solutions communicating up, down, and across the organization to align direction, gain support and drive remediation efforts\n About The Team\n Diverse Experiences:\nAmazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\nWhy AWS?\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n Work/Life Balance\n We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.\n Inclusive Team Culture\n AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.\n Mentorship And Career Growth\n We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\nInclusive Team Culture\nAWS values curiosity and connection. Our department, Data Center Planning and Delivery (DCPD), sponsors a Women's Leadership Program that supports the growth and development of female builders across the organization. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events build stronger, more collaborative teams. Our continual innovation draws on the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.\n Basic Qualifications\n 3+ years of technical infrastructure management experience\n Knowledge of best practices and emerging technologies, related to infrastructure (i.e. network, data center, hardware, software)\n Preferred Qualifications\n Experience with varying scenarios of infrastructure builds\n Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\nnull\n Company - ADSIPL - Telangana\nJob ID: A10499594\nSeniority level Mid-Senior level | Employment type Full-time | Industries IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -185256,8 +185256,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -185267,15 +185267,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Tech Infrastructure Program Manager at AWS, but asks 3+ yrs experience which exceeds your 1.3 years.",
+    "fit_notes": "The posting asks for '3+ years of technical infrastructure management experience'. While Shlok has strong operational background at Ola Electric like [ceo-coo] and [msl], he has ~1.3 years of experience which falls short of the 3+ years minimum requirement. No MBA or consulting is required.",
+    "pay_notes": "Pay is not stated in the job posting and no reliable pay evidence was found for this specific role.",
+    "culture_notes": "AWS values work-life harmony and inclusive team culture as stated in the posting, but no specific glassdoor ratings were found in the evidence.",
+    "hook": "AWS recently announced that Novo Nordisk selected AWS as a strategic partner to accelerate drug discovery with AI.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1hpNWhoZDhpb2oteHM4dVIybE94b0dMMV9nQXNqb3hIeS1JbWsyTjhkUktRUXRwVmtLLXA2akpPSlFYNkhVOE0tQUUyYm1HNmJSYU8xZERmOFAtRXZ6V0sydDdmMDhNVE5YVU1jdFBLY19adWtTSHN0dF9xWFdZRHRHYkRxanZJT3dRX0FlM2tCdTJFVUJFUXJJdTVYUlFZMlZYLXdoT0FFOE9TWmFmbHdCWFZOUkpFX0VoZzFFLWc?oc=5",
+    "researched_at": "2026-11-26T15:05:14+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Novo Nordisk selects AWS as strategic partner to accelerate drug discovery with AI | Amazon Web Services - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1hpNWhoZDhpb2oteHM4dVIybE94b0dMMV9nQXNqb3hIeS1JbWsyTjhkUktRUXRwVmtLLXA2akpPSlFYNkhVOE0tQUUyYm1HNmJSYU8xZERmOFAtRXZ6V0sydDdmMDhNVE5YVU1jdFBLY19adWtTSHN0dF9xWFdZRHRHYkRxanZJT3dRX0FlM2tCdTJFVUJFUXJJdTVYUlFZMlZYLXdoT0FFOE9TWmFmbHdCWFZOUkpFX0VoZzFFLWc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Amazon Web Services' Swami Sivasubramanian says that CEOs are no longer worried if AI will add value to t - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQbzJaMC1sRXRKWnNXSzdpdHpjMWZfUzgxYTF6M3l6R2dnNzgxeEtjS2NyVlV0Qkxicnh6TS1zMS15ejQwR0RaNV8wT0lxTTVrWGxTdWltb0puOUtEamZPWE91S2c2WWdNUGV6cXNFRkY0LVkxTFlwQWkzWWF3TWlCR3o2YkV4QTgwcGxfbUpKSE9nSVVIV3VwczJ2eXByWExvTnE0bU5LbUtzTTRBTW9HdW1DMHBpaXZieXNZaTZXRWxvQjIyMnkxSHZaVnRjelFHd0RmcDFzRWpOVkZ0Qm1CX0pseWtRZjc3bDcyMVFrN29hbXRxZkw4Q0NIeGJXR2VRQS1uRHRKR19MbHpPRDB1U1ZhbzhVdVBzX0J5TXktNkVOUHBUZ2RlMXpuWjJSVnBQWk1rSFdBLWdZSjhsU3dPaktoRlBLa0phUnFF0gHQAkFVX3lxTE1kenlXd3pYOTZKdnFNa3lTbHhmUTFfeHF6VTNhVWxiT0UwbkYxNHU1Mm5XNU92UElueDl4TG1ORkJQMUhvY3U2Y2pqYlFFU0pXcXJzWFc0ekUwSnF0TGs0aXk3eV9sZHFKZ2QxXzB3eFRoZmhOMkEzNlV5V1hxYkhFV1g4UzhjeTRzU09kVXVhZGdfcWpMeXNfX2hUY053QlkwOUd0WGJpSTZrY2hEUXN6Q2gwa2hRZHlKMFoxcHl1a05EeWd1ZW5BbGlhM2RjSVNMRkYwWWI5NHJNTTlSdDF3RGJQVzRvX0Z4YnloTWhVZGxnV0prOHduMGdidlFkaURYaDB4UHdLeFJZVEpkQzFwR2g2Z0ZBUWZlMTlidjF5OExPUkFkcXVCdjBuZnNRUHl1MkcwVmU3UVVzcUExa243VXFLT2gwNWlDU0ZHeEJsSA?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "ANZ migrates 1.7 petabytes of data to Amazon Web Services - Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUpZNmVRZXVPeVFFVDBEeUl4UWNzNjdpdVpQWEhxUjRRZjJiZGdjWmxPd183VzM5MjIyNUVLdVVXWF9kUnpldDdzbHJxS1JEU0g3TGEtNlMxU281QWNoQlZVdXo2RmIwa2U3WnBCdUlJeTFMaW0zZ0w4a0RpUVJ4RFpjQ08xQzAyT1ViS21kcWNSTk1CXzNhck4wV0hMVnNxaXVwaA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Exclusive: Amazon Web Services CFO says AI spending is sustainable - Axios",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2bkxFUFRMWlFOeXFSVU5iVDhhMjBuQk82TkxmNFVWUmQ2YW4zNU1UR0tNeVA3Zms2OWVrXzhJbld4aUlhWmtqY19MVFNncWIwRzBDak1CRDRENmhHdGotZFpQajlsdENBZHNz?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0d2RzRyLXM3VTZNUzEweGx2TFhSSUwycTNoVG0wSng3ZGxqdVlMVjhMZFdpUU5GblB0V1JKVHpORWxLZkxfVGdYWlRlQlotVTJyMFR0N3JVTHJNSHVEaHlmbmtjX21JTVBQZFkzS3NzSWZmMHpTakg1akQtcTBCYnJUTldjaDEtTlo3UWNrTzZkTmtQOGNYLXpwc0dDYjIyZnhKeUliX0VmQmI3STlWMHctdjYyRHRBYUNRWW9Wa2U1X09EZFBIRkZ4eXFFQXZYeGdRa25R?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Amazon Web Services Expands Virginia Footprint | VEDP - VEDP",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNC1LcWZHSlJFanRtV3hXcURTRXZKcGtIYzdka0VNbFJpalY5bW9HYjdRVEx0SEl4Z0pCaEdjUEloTGFQNldkR01veXU3c1FIemQ1TV9ZNlBpUDdzTklBMjNmSWtLeG5YbVBLNXlVa3V1aVhsTHg5REZZdzMzQjlxOE5JSzVDOE50?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -185299,14 +185340,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-26T15:05:14+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (The posting asks for '3+ years of technical infrastructure management experience', which exceeds Shlok's ~1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-26T15:05:14+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting asks for '3+ years of technical infrastructure management experience', which exceeds Shlok's ~1.3 years of experience."
   },
   {
    "id": "L1382",

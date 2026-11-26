@@ -281444,15 +281444,15 @@
    "key": "revolut|product strategy manager|india",
    "type": "job",
    "company": "Revolut",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "revolut.com",
+   "company_url": "https://www.revolut.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Product Strategy Manager",
    "tier": "1 - Strategy & Ops",
    "location": "India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "remote",
    "source": "linkedin",
    "source_id": "4477556997",
    "source_url": "https://www.linkedin.com/jobs/view/4477556997/",
@@ -281483,8 +281483,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 60,
+    "total": 61,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -281494,15 +281494,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Product Strategy Manager in CEO Office at Revolut, but asks 3+ yrs and strategy consulting background.",
+    "fit_notes": "The posting asks for a \"STEM or other highly quantitative degree from a top-tier university\" (which Shlok matches via IIT Guwahati) and \"3+ years of experience in a top-tier strategy consulting, investment bank/PE/VC, or fast-growing technology company in a business, product, or strategy role\". Shlok has ~1.3 years of experience at Ola Electric and lacks consulting or banking experience. While his CEO Office and S&OP work ([ceo-coo], [sop]) demonstrate strategic execution, he falls short of the hard 3+ years minimum and the preferred consulting/banking background.",
+    "pay_notes": "Pay is not stated in the posting, and no specific salary figure is provided in the evidence.",
+    "culture_notes": "Certified as a Great Place to Work per the posting. Recent flag: Italian court placed a Revolut unit under supervision over money-laundering failings [S2].",
+    "hook": "Revolut recently launched personal loans in the UK, taking on major banks.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYkotM0FkTm56WWNyM1BROVVjRUdOX2VpUTJSN0RYY1VycXBiRmRVb1p1ZVdyaXBETTVVMGtBRmJGLXJVYXJxeUFldGttRjV3NnpfNE5ic0dzamNYV25NSjVSdjBsMG91Z1QzNVJMYVp0X3dFWjJuVjg5djY0d2NwWVlrU0NaU2xoMnNLWjBlUjZtYjRZSVo4c2RyUGxJUm1od0g1c2QtUTFUQQ?oc=5",
+    "researched_at": "2026-11-27T03:31:42+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "How Revolut raises ambition without lowering the bar - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wcVlNSERLbE1OOGd2ZmhIUzd4QnhUOUQ5Qmh5WWJZQXpBR0NvUHJzbDYwWEtqQzZ5d3NMM1VxSWR2MHd3VjdqaFNwS0RCZk44OUh1dGtPWU5BdUMxT29ndHU4QQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Exclusive-Italian court places Revolut unit under supervision over money-laundering failings - Euronext Markets: Real-time Stock Market Data | live",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORTFwaFliRTBNYm83M0NhZHJCb3RkUGdWMGtIOElWV1p2VkxHOFJ6MFJocFk0UjhVTlVROTh0Z3ZhMEhsQ2lEUlNKRlQtREFhdGlja2ZYYWZxc1lDUDZ4eEFlcjFkVC1FMHJuUGx3MWoyOUtpWnRLNW9RZEJPaFBUMUw5MXFncE9TY1pXaFZWNWhnOGgtLWlJTlFlMWJBV21yYllMQUNBTV94VEYwRHJWZGQ4NlBUbWNRMDhpSWx0djYwMkg2SkE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Revolut launches personal loans in UK, taking on major banks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYkotM0FkTm56WWNyM1BROVVjRUdOX2VpUTJSN0RYY1VycXBiRmRVb1p1ZVdyaXBETTVVMGtBRmJGLXJVYXJxeUFldGttRjV3NnpfNE5ic0dzamNYV25NSjVSdjBsMG91Z1QzNVJMYVp0X3dFWjJuVjg5djY0d2NwWVlrU0NaU2xoMnNLWjBlUjZtYjRZSVo4c2RyUGxJUm1od0g1c2QtUTFUQQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Bank of England orders review of Revolut’s product approval processes - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHRTeWYwR3RRdWtDRmI1VU5Ia095T3BIQk1CMTM2bElzUUhjNHVidWRpMHJpOXhuZzloS2ZjWkdvSU96T3N1c19heFl6bmRyckpGcG1DaE9pNl9CRE0xQ1l0UWRYdlJTNWRnUFJnU2Z1QnBTSnVKQ3hxZ3JZTTNnS1dVU3U?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Revolut Is Bringing Facial-Recognition Checkout to UK Businesses - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkp6WUliY0ZSYWpwOUF1SjR2NXpFTk42OERubnJOME1uRlpVZk02cFBjOWowR2xLUXUwR1pNbTZ2S2o3V214VVFCdmgtdEdXZGg0QXd5cUF4UXRkT0ZFNGVfVzZlY3U2eE1ZeFFmcjhBQXRUek9YYWo5QVhJZ09WTXFSYTZPdTJXLURnNV9fV2pYVFpVYnlXODF5b2puV0ZJYzFnQjR1VWlsdlNkSjhCck9WSkZnZw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Digital Bank Revolut, Europe’s Most Valuable Startup, Valued at $115 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXhIMWY2VTE0eEJJQ25FMXB1MVVya0Zna25HZUR6Z29jZ0x0aEhROG1ZMGtYUGVMdW5aYVpkWHZRS2FVam9PZVlETV9yQktSN0dzVnYzbGF0WlFkckhOcy1LLWNTQm1Za1F3T1F6MHhndXBDY3RrZVFCVkdMcU9UR1RMeDluakxta1J1YWpDSFRNUmZLWWwxUjNqYnZVTGdrUTJObFJnVzQ5Y2ZHdzZ0T0owSmt1QjFS?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -281526,9 +281567,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-27T03:31:42+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 61: rejected (The role requires 3+ years of experience in top-tier strategy consulting, investment banking/PE/VC, or fast-growing tech, but Shlok has only ~1.3 years of experience and no consulting background.)"
     }
    ],
-   "updated_at": "2026-11-26T15:46:46+05:30"
+   "updated_at": "2026-11-27T03:31:42+05:30",
+   "reject_reason": "The role requires 3+ years of experience in top-tier strategy consulting, investment banking/PE/VC, or fast-growing tech, but Shlok has only ~1.3 years of experience and no consulting background."
   },
   {
    "id": "L2165",

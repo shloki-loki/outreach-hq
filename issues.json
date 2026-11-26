@@ -1579,7 +1579,7 @@
    "opened_at": "2026-11-26T16:29:35+05:30",
    "last_seen": "2026-11-26T16:29:35+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: the only 3 leads needing a draft (L0105, L1556, L0077) are catch-all addresses scoring under 80, and application kits are blocked because LinkedIn, Instahyre (403) and YC apply pages need a login. Remedy for Shlok: either approve drafting for the catch-all leads, or fill the application questions by hand for the top qualified leads; the send queue itself is not affected (founder-v2 emails keep going).",
    "resolved_at": null
   }
  ],

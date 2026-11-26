@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T18:28:11+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 85 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 85
-   }
-  },
-  {
    "at": "2026-11-24T18:39:46+05:30",
    "agent": "follow-up/digest",
    "ok": true,
@@ -3386,6 +3373,17 @@
       "gemini-3.5-flash"
      ]
     }
+   }
+  },
+  {
+   "at": "2026-11-27T03:36:19+05:30",
+   "agent": "people-finder",
+   "ok": true,
+   "summary": "1 companies searched on LinkedIn, 0 people added",
+   "stats": {
+    "leads": 1,
+    "people_added": 0,
+    "skipped": ""
    }
   }
  ]

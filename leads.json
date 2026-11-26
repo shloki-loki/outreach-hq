@@ -41301,7 +41301,7 @@
    "key": "coulombai|founder s office|bengaluru",
    "type": "company",
    "company": "Coulomb AI",
-   "company_domain": "",
+   "company_domain": "coulomb.ai",
    "company_url": "https://coulomb.ai/",
    "company_linkedin": "https://www.linkedin.com/company/coulomb-ai/",
    "company_note": "YC Summer 2021 · team of 10 · Battery Observability Platform for Electric Vehicles",
@@ -41309,7 +41309,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "yc",
    "source_id": "coulomb-ai:company",
    "source_url": "https://www.ycombinator.com/companies/coulomb-ai",
@@ -41325,7 +41325,7 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "At Coulomb AI, we envision a future powered by the seamless integration of AI and battery technologies, creating a powerful synergy to combat climate change. We build category-leading software that can significantly improve battery lifespan and performance by employing advanced predictive analytics, real-time monitoring, and adaptive battery management algorithms.",
+   "jd": "Coulomb AI: Battery Observability Platform for Electric Vehicles | Y Combinator \n Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Software YC Blog \n Companies Startup Directory Founder Directory Launch YC \n Library \n Partners \n Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface SAFE Find a Co-Founder Events \n Startup Jobs \n Log in Apply \n Home › Companies › Coulomb AI \n Coulomb AI\n Battery Observability Platform for Electric Vehicles\n Y Combinator Logo Summer 2021 \nActive\n Climate\n Electric Vehicles\n AI\n Company \n Jobs 9 \n https://coulomb.ai/\n Battery Observability Platform for Electric Vehicles\n At Coulomb AI, we envision a future powered by the seamless integration of AI and battery technologies, creating a powerful synergy to combat climate change. We build category-leading software that can significantly improve battery lifespan and performance by employing advanced predictive analytics, real-time monitoring, and adaptive battery management algorithms.\n Active Founders\n Khushboo Shrivastava Founder\n Khushboo is currently the CEO of Coulomb AI. She is an award-winning Data Scientist with over 6 years of experience in automotive enterprise products development such as car-sharing Platforms and Fleet Management Software.\n Khushboo Shrivastava Founder\n Khushboo is currently the CEO of Coulomb AI. She is an award-winning Data Scientist with over 6 years of experience in automotive enterprise products development such as car-sharing Platforms and Fleet Management Software.\n Santanu Mondal Founder\n Santanu is the Co Founder and CTO of Coulomb. He has extensive experience of working as a product lead in Electric vehicles, Battery Management and charging systems. He has spent 6 years working on Automobiles at General Motors. He graduated in Mechanical Engineering from IIT Bombay, India.\n Santanu Mondal Founder\n Santanu is the Co Founder and CTO of Coulomb. He has extensive experience of working as a product lead in Electric vehicles, Battery Management and charging systems. He has spent 6 years working on Automobiles at General Motors. He graduated in Mechanical Engineering from IIT Bombay, India.\n Jobs at Coulomb AI\n View all jobs \n Senior Frontend Developer \n Bangalore\n $20K - $30K\n 0.01% - 0.20%\n 6+ years\n Apply Now › \n Senior Full Stack Developer \n Bangalore\n $50K - $70K\n 0.10% - 0.50%\n 6+ years\n Apply Now › \n Senior Backend Engineer \n Bangalore\n $30K - $40K\n 0.01% - 0.20%\n 6+ years\n Apply Now › \n Senior Data Scientist \n Bengaluru, KA, IN\n $25K - $40K\n 0.05% - 0.10%\n 3+ years\n Apply Now › \n Battery Modelling Engineer \n Bangalore\n $10K - $14K\n 0.01% - 0.10%\n 3+ years\n Apply Now › \n Coulomb AI \n Founded: 2021 \n Batch: Summer 2021 \n Team Size: 10 \n Status: \nActive \n Location: Bengaluru, India \n Footer\n Y Combinator Make something people want.\n Programs\n YC Program \n Startup School \n Work at a Startup \n Co-Founder Matching \n Resources\n Startup Directory \n Startup Library \n Investors \n Demo Day \n SAFE \n Hacker News \n Launch YC \n YC Deals \n Company\n YC Blog \n Contact \n Press \n People \n Careers \n Privacy Policy \n Notice at Collection \n Security \n Terms of Use \n Twitter Twitter Facebook Facebook Instagram Instagram LinkedIn LinkedIn Youtube YouTube \n © 2026 Y Combinator",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -41340,8 +41340,8 @@
    },
    "score": {
     "rules": 55,
-    "research": null,
-    "total": 55,
+    "research": 45,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -41351,15 +41351,28 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office at Coulomb AI (YC S21, 10 people), but no such role is actually open on their site.",
+    "fit_notes": "The lead is a speculative note to founders for a 'Founder's Office' role, but the actual careers page lists only engineering and battery modelling roles (Senior Frontend, Senior Full Stack, Senior Backend, Senior Data Scientist, Battery Modelling Engineer) asking 3+ or 6+ years. There is no open Strategy & Operations or Founder's Office role posted, and no pay is stated. His EV background at Ola Electric ([cell], [ceo-coo]) would map well if a real role existed, but currently there is no opening.",
+    "pay_notes": "Pay not stated. As a 10-person YC S21 seed-stage startup (Coulomb AI), fixed pay at or above Rs 24.5 LPA is extremely unlikely.",
+    "culture_notes": "No ratings or reviews found. Team size is 10 (YC Summer 2021 batch).",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-26T14:56:39+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Coulomb AI website",
+      "url": "https://coulomb.ai/"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -41410,9 +41423,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "yc: rule score 55"
+    },
+    {
+     "at": "2026-11-26T14:56:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (No named opening for Founder's Office on their careers page; listed roles are strictly engineering (Senior Frontend, Full Stack, Backend, Data Scientist) and modelling, all asking 3+ or 6+ years. Pay is not stated and likely below his Rs 24.5 LPA threshold for a 10-person YC S21 seed-stage EV startup.)"
     }
    ],
-   "updated_at": "2026-11-12T21:02:04+05:30",
+   "updated_at": "2026-11-26T14:56:39+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -41422,7 +41441,8 @@
     "at": "2026-11-25T14:47:20+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "No named opening for Founder's Office on their careers page; listed roles are strictly engineering (Senior Frontend, Full Stack, Backend, Data Scientist) and modelling, all asking 3+ or 6+ years. Pay is not stated and likely below his Rs 24.5 LPA threshold for a 10-person YC S21 seed-stage EV startup."
   },
   {
    "id": "L0288",

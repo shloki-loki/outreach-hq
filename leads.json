@@ -86003,9 +86003,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Pradeep Chopra"
+    },
+    {
+     "at": "2026-11-26T15:29:54+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Neeraj Kumar"
     }
    ],
-   "updated_at": "2026-11-26T15:20:15+05:30",
+   "updated_at": "2026-11-26T15:29:54+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

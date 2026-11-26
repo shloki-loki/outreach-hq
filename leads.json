@@ -84392,7 +84392,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "shashidhar@twopointo.capital",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 399 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -84466,9 +84466,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Shashidhar Reddy S"
+    },
+    {
+     "at": "2026-11-26T16:24:09+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "shashidhar@twopointo.capital does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-26T16:23:50+05:30",
+   "updated_at": "2026-11-26T16:24:09+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -86524,9 +86530,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-26T16:24:09+05:30"
    },
    "notes": [],
    "timeline": [
@@ -86565,9 +86572,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Anshul Singhal"
+    },
+    {
+     "at": "2026-11-26T16:24:09+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T15:51:27+05:30",
+   "updated_at": "2026-11-26T16:24:09+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -86969,9 +86982,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C1",
+    "since": "2026-11-26T16:24:09+05:30"
    },
    "notes": [],
    "timeline": [
@@ -87010,9 +87024,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Kartikeya Gupta"
+    },
+    {
+     "at": "2026-11-26T16:24:09+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T16:20:09+05:30",
+   "updated_at": "2026-11-26T16:24:09+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -87132,9 +87152,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-26T16:24:09+05:30"
    },
    "notes": [],
    "timeline": [
@@ -87179,9 +87200,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Bhramar Jaysen Choudhary"
+    },
+    {
+     "at": "2026-11-26T16:24:09+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T16:21:41+05:30",
+   "updated_at": "2026-11-26T16:24:09+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

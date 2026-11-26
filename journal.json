@@ -12851,6 +12851,15 @@
    "title": "Diagnosis: send-track 26 Nov: no draftable leads",
    "detail": "Cause: the only 3 leads needing a draft (L0105, L1556, L0077) are catch-all addresses scoring under 80, and application kits are blocked because LinkedIn, Instahyre (403) and YC apply pages need a login. Remedy for Shlok: either approve drafting for the catch-all leads, or fill the application questions by hand for the top qualified leads; the send queue itself is not affected (founder-v2 emails keep going).",
    "ref": "I0113"
+  },
+  {
+   "id": "J1429",
+   "at": "2026-11-26T20:11:44+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Checks 26 Nov evening: workflows, queue, bounces",
+   "detail": "gh run list: all 15 latest GitHub runs succeeded (Track and send 17:03 IST, Lead scout 15:31, Research and write 14:13, Live check 13:36, Digest 17:15, Supervisor checks 18:13, Founder emails 18:26). No stuck sending and no failed messages in message list (statuses: sent 598, skipped 138, draft 108, approved 57, bounced 23, replied 16). The 57 approved cold emails are waiting because the daily cap of 60 speculative notes was reached at 19:45 IST (130 emails sent today); they go out next window. Bounces today: 1 (M0716 twopointo.capital at 16:23); 23 total, 3.6% of sent, under the 5% line. data branch git log shows no repair or conflict commits; claim/sent commits are sequential. research-worker 15:09 failed with Gemini 503 (15 errors) and the writer stopped at 15:10 because free quota on all four gemini flash models is used for today: 108 drafts wait and no new drafts were written; same cause as the 25 Nov issue, quota resets daily.",
+   "ref": ""
   }
  ]
 }

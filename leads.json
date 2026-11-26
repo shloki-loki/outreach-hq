@@ -2522,7 +2522,7 @@
     }
    },
    "first_contacted_at": "2026-11-20T16:45:29+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-26T19:25:12+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -2628,9 +2628,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup2 email to Aditya Sharma"
+    },
+    {
+     "at": "2026-11-26T19:25:12+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "aditya.sharma@emversity.com: Hi Shlok, Apologies for the delay in getting back to you. Please note that the fixed component of the CTC for this role is capped at 10 LPA, with the remainder "
     }
    ],
-   "updated_at": "2026-11-26T19:12:02+05:30",
+   "updated_at": "2026-11-26T19:25:12+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

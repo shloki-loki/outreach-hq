@@ -72895,9 +72895,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-26T16:45:15+05:30"
    },
    "notes": [],
    "timeline": [
@@ -72996,9 +72997,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Arun Kotharamath awaiting approval"
+    },
+    {
+     "at": "2026-11-26T16:45:15+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T16:31:09+05:30",
+   "updated_at": "2026-11-26T16:45:15+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -74188,9 +74195,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-26T16:45:15+05:30"
    },
    "notes": [],
    "timeline": [
@@ -74289,9 +74297,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Arpit Ratan awaiting approval"
+    },
+    {
+     "at": "2026-11-26T16:45:15+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T16:31:13+05:30",
+   "updated_at": "2026-11-26T16:45:15+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -76029,9 +76043,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-26T16:45:15+05:30"
    },
    "notes": [],
    "timeline": [
@@ -76124,9 +76139,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to John Tench awaiting approval"
+    },
+    {
+     "at": "2026-11-26T16:45:15+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T16:31:19+05:30",
+   "updated_at": "2026-11-26T16:45:15+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -77351,9 +77372,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C3",
+    "since": "2026-11-26T16:45:15+05:30"
    },
    "notes": [],
    "timeline": [
@@ -77428,9 +77450,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Nithin K David awaiting approval"
+    },
+    {
+     "at": "2026-11-26T16:45:15+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T16:31:24+05:30",
+   "updated_at": "2026-11-26T16:45:15+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -78931,7 +78959,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "rachit@zaamo.co",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 306 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -78969,9 +78997,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Rachit Juneja"
+    },
+    {
+     "at": "2026-11-26T16:45:15+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "rachit@zaamo.co does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-25T13:47:55+05:30",
+   "updated_at": "2026-11-26T16:45:15+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -85051,9 +85085,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-26T16:45:15+05:30"
    },
    "notes": [],
    "timeline": [
@@ -85122,9 +85157,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Manimala Sen"
+    },
+    {
+     "at": "2026-11-26T16:45:15+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-26T16:25:59+05:30",
+   "updated_at": "2026-11-26T16:45:15+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -87115,7 +87156,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-24T13:07:32+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-26T16:45:15+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -87199,9 +87240,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Abhishek Agrawal awaiting approval"
+    },
+    {
+     "at": "2026-11-26T16:45:15+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "kartikeya@getsmylo.com: Hi Shlok Sure Can you please share me your resume and expected CTC? On Thu, 26 Nov 2026 at 4:20 PM, Shlok Agrawal <111shlokagrawal@gmail.com> wrote:"
     }
    ],
-   "updated_at": "2026-11-26T16:33:07+05:30",
+   "updated_at": "2026-11-26T16:45:15+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

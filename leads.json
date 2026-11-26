@@ -91726,9 +91726,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Rishabh Agarwal awaiting approval"
+    },
+    {
+     "at": "2026-11-26T17:10:15+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Alok Kumar"
     }
    ],
-   "updated_at": "2026-11-26T16:35:46+05:30",
+   "updated_at": "2026-11-26T17:10:15+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

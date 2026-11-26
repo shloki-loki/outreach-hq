@@ -25289,6 +25289,34 @@
    "thread_parent": "<179552392175.31292.10936715676741777423@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0844",
+   "lead_id": "L0385",
+   "contact_id": "C2",
+   "to": "aniket@limechat.ai",
+   "to_name": "Aniket Bajpai",
+   "kind": "followup1",
+   "subject": "Re: Ops and strategy help at Aerchain",
+   "body": "Hi Aniket,\n\nOne more thing that may be relevant for Aerchain: At Ola Electric I implemented SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Happy to share how I approached it. Would a short call this week work?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-26T16:31:04+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179552404076.31292.6276871454586997959@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

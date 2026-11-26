@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T00:05:11+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 0 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 0
-   }
-  },
-  {
    "at": "2026-11-24T00:05:24+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3476,6 +3463,19 @@
    "ok": true,
    "summary": "64 follow-ups drafted (followup1, one per lead, awaiting approval), 3 new replies flagged (TyrePlex, Happi Planet, Delhivery; 11 replied leads total have notes), 0 bounces handled. Drafts use a rotated profile fact not in the first email; no news search done for the batch.",
    "stats": {}
+  },
+  {
+   "at": "2026-11-26T16:45:27+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "1 replies, 1 bounces, 5 follow-ups due",
+   "stats": {
+    "replies": 1,
+    "auto_replies": 0,
+    "bounces": 1,
+    "settled": 0,
+    "followups_due": 5
+   }
   }
  ]
 }

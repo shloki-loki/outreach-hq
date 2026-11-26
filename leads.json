@@ -281794,7 +281794,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4494919488",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-wellness-venture-at-end-to-end-integrity-solutions-4494919488",
@@ -281825,8 +281825,8 @@
    },
    "score": {
     "rules": 63,
-    "research": null,
-    "total": 63,
+    "research": 45,
+    "total": 52,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -281836,15 +281836,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office at a wellness venture, asks 3-7 yrs which exceeds your limit, and pay is not stated.",
+    "fit_notes": "The posting asks for \"3–7 years of experience in operations, project management, business consulting, startups, hospitality, retail or wellness.\" Shlok has ~1.3 years of experience, making the 3-year minimum a hard reject per his rule. The role asks for commercial feasibility, project management, and business operations, which could be answered by [sop] and [ceo-coo], but the experience floor blocks it.",
+    "pay_notes": "Pay is not stated in the posting.",
+    "culture_notes": "No company website, reviews, or background found for the confidential client under End to End Integrity Solutions.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T03:31:55+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -281868,9 +281878,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 63"
+    },
+    {
+     "at": "2026-11-27T03:31:55+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 52: rejected (The posting asks for 3–7 years of experience, which violates Shlok's rule of a maximum 3 years minimum. Additionally, the location is Mumbai, and pay is not stated.)"
     }
    ],
-   "updated_at": "2026-11-26T15:46:46+05:30"
+   "updated_at": "2026-11-27T03:31:55+05:30",
+   "reject_reason": "The posting asks for 3–7 years of experience, which violates Shlok's rule of a maximum 3 years minimum. Additionally, the location is Mumbai, and pay is not stated."
   },
   {
    "id": "L2168",

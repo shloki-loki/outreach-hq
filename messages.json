@@ -25961,6 +25961,34 @@
    "thread_parent": "<179550584366.22139.8844923875196493139@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M0868",
+   "lead_id": "L0572",
+   "contact_id": "C3",
+   "to": "ravi@solarad.ai",
+   "to_name": "Ravi Choudhary",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Ravi,\n\nOne more thing that may be relevant for Solarad.ai: At Ola Electric I implemented SAP MRP from scratch as Raw Material Manager, which cut stock-outs by 20% and raw material inventory by 25%. Happy to share how I approached it. Would a short call this week work?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-26T16:33:13+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179550593460.22139.474077245935173447@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

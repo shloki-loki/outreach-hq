@@ -284376,7 +284376,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Mumbai Metropolitan Region",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4495001764",
    "source_url": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-mumbai-0%E2%80%932-years-4495001764",
@@ -284407,8 +284407,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 35,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -284418,15 +284418,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder’s Office at a seed-funded startup via Fidvia Consulting (0-2 yrs, Mumbai), but requires a CA qualification or MBA.",
+    "fit_notes": "The posting specifies: 'Either a BCom from a top-10 college with CA Inter cleared or a completed CA qualification, or an MBA from a reputed business school.' Shlok has a B.Tech from IIT Guwahati without an MBA or CA qualification. While his strategic ops experience with Ola Electric executives [sop, ceo-coo] aligns well with execution, the education requirement is an explicit barrier.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "No company reviews or ratings found for Fidvia Consulting or the client startup.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T03:25:15+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -284450,9 +284460,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-27T03:25:15+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Requires a CA qualification, BCom with CA Inter, or an MBA from a reputed business school, which Shlok lacks (B.Tech IIT Guwahati, no MBA/CA).)"
     }
    ],
-   "updated_at": "2026-11-27T02:15:28+05:30"
+   "updated_at": "2026-11-27T03:25:15+05:30",
+   "reject_reason": "Requires a CA qualification, BCom with CA Inter, or an MBA from a reputed business school, which Shlok lacks (B.Tech IIT Guwahati, no MBA/CA)."
   },
   {
    "id": "L2195",

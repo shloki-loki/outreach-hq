@@ -275719,7 +275719,7 @@
    "key": "kineticage|operations manager|bengaluru",
    "type": "job",
    "company": "Kinetic Age",
-   "company_domain": "",
+   "company_domain": "kineticage.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/kinetic-age",
    "company_note": "",
@@ -275727,7 +275727,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bangalore Rural, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493401229",
    "source_url": "https://in.linkedin.com/jobs/view/operations-manager-at-kinetic-age-4493401229",
@@ -275743,23 +275743,23 @@
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-27",
    "open": true,
-   "jd": "",
+   "jd": "Operations Manager | Kinetic Age | 6 to 10 LPA\n Bangalore (Whitefield / Marathahalli) · Full-time · On-site\n Kinetic Age brings physiotherapy home. We run monthly subscription programs for older adults across Bangalore, delivered by a team of 15+ physiotherapists and backed by doctors, nutritionists and a relationship management team. Every client has a care plan, a dedicated physio, and a team tracking whether the program is working.\n We're hiring an Operations Manager to run delivery day to day. The role sits between the Head of Operations and our frontline team, and you'll own whether every session, onboarding and renewal happens the way it should.\n What you'll own\n • Daily execution: run the morning and evening stand-ups, clear escalations and make sure missed sessions are caught, followed up and resolved the same day\n • The Relationship Manager team: assign client books, coach the team, review ticket closure and hold the team to response and resolution SLAs\n • Scheduling and coverage: work with the scheduling and provider coordination leads so physio assignments, trials, consultations and leave coverage happen without gaps\n • Onboarding and renewals: keep new clients within the onboarding turnaround and keep renewals moving through the pipeline well before subscriptions end\n • Service quality: track CSAT calls, audits, progress reviews and physio SOP compliance, and turn what you find into fixes\n • Reporting: maintain weekly ops metrics (utilisation, renewals, churn, on-time sessions, CSAT) and show leadership what's slipping and why\n • Process: keep our SOPs current as the business grows and put each new process into practice with the team\n What we're looking for\n • 3–5 years in operations, ideally in home healthcare, field services, or another consumer business where frontline people deliver the service\n • Experience managing a team and running a daily operating rhythm\n • Strong with data: comfortable in Excel/Google Sheets and with CRM and ticketing tools; SQL is a plus\n • Clear communication with clients, clinicians and the team, in English plus Kannada or Hindi\n • You follow up until a problem is closed, and you'd rather fix the process than firefight the same issue twice\n Why Kinetic Age\n • Real ownership in a growing team, working directly with the Head of Operations and the CEO\n • Meaningful work: our clients are older adults recovering mobility and independence at home\n • A chance to help design the operating system of a healthcare business as it scales\nSeniority level Mid-Senior level | Employment type Full-time | Industries Wellness and Fitness Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "6 to 10 LPA",
+    "min_lpa": 6,
+    "max_lpa": 10,
+    "basis": "stated",
+    "source": "https://in.linkedin.com/jobs/view/operations-manager-at-kinetic-age-4493401229",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -275769,15 +275769,41 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Operations Manager at Kinetic Age, asks 3-5 yrs and pays 6-10 LPA; far below your Rs 24.5 LPA floor.",
+    "fit_notes": "The posting asks for '3–5 years in operations, ideally in home healthcare, field services, or another consumer business where frontline people deliver the service' and 'Experience managing a team and running a daily operating rhythm'. Shlok has ~1.3 years of experience and no direct full-time team management. While his operations work ([ceo-coo], [sop]) matches daily operational execution, the role is underpaid.",
+    "pay_notes": "Stated as 6 to 10 LPA in the posting, which is well below Shlok's Rs 24.5 LPA floor.",
+    "culture_notes": "Early-stage healthtech startup backed by AJVC and Agrasar Ventures ($250K raised in Oct 2026); no employee ratings or reviews found.",
+    "hook": "Kinetic Age recently raised $250K from AJVC and Agrasar Ventures to expand coordinated healthcare for adults over 40.",
+    "hook_source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0VqcUU2bDVFbDBhUzY0aDZTdG9aZmFTQjY5WjdqYjg3SUVOM3dPcmNIczNndjZZcTVxdWFIU2drNmJEbXI5QmJzWTIzUG5DUW9FNW1QQU9EZ1BsT0ItRVBTT2poeXZFVDhDUTRvcGJSLVRRVXFTZkhKdURvQmN6WTE0aklFUlFqR0VoaEVCVUpsZHPSAZMBQVVfeXFMTlNFanFFNmw1RWwwYVM2NGg2U3RvWmZhU0I2OVo3amI4N0lFTjN3T3JjSHMzZ3Y2WXE1cXVhSFNnazZiRG1yOUJic1kyM1BuQ1FvRTVtUEFPRGdQbE9CLUVQU09qaHl2RVQ4Q1E0b3BiUi1UUVVxU2ZISnVEb0JjelkxNGpJRVJRakdFaGhFQlVKbGRz?oc=5",
+    "researched_at": "2026-11-27T03:34:11+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Kinetic Age raises $250K from AJVC, Agrasar Ventures - Entrackr",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0VqcUU2bDVFbDBhUzY0aDZTdG9aZmFTQjY5WjdqYjg3SUVOM3dPcmNIczNndjZZcTVxdWFIU2drNmJEbXI5QmJzWTIzUG5DUW9FNW1QQU9EZ1BsT0ItRVBTT2poeXZFVDhDUTRvcGJSLVRRVXFTZkhKdURvQmN6WTE0aklFUlFqR0VoaEVCVUpsZHPSAZMBQVVfeXFMTlNFanFFNmw1RWwwYVM2NGg2U3RvWmZhU0I2OVo3amI4N0lFTjN3T3JjSHMzZ3Y2WXE1cXVhSFNnazZiRG1yOUJic1kyM1BuQ1FvRTVtUEFPRGdQbE9CLUVQU09qaHl2RVQ4Q1E0b3BiUi1UUVVxU2ZISnVEb0JjelkxNGpJRVJRakdFaGhFQlVKbGRz?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Kinetic Age Raises $250,000 From AJVC and Agrasar Ventures to Expand Coordinated Healthcare for Adults Over 40 - Indian Startup Times",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYTlwNUtTYkxDRFgwSjJHVldvckJFNzAxZ05mVlpzSndvQWtMNm13Z3FrN084OThhZVhYQUUtaEN2MUlieTVsR09xdm16U0pXdTdVUEk0X09iUHowbDJVZnY2cFRFa3JMcUItMzZaWVNZMk9XNTRwZXcwQnpRdFYtblBfTVZDdkZlenFpRmlWTW9rejQxSUlqSi1iZURJa2hrVUFKS3JlUkZ1RjE3SHZwWDVkWndLbTIybG9NcUZ0OFk0MFdZUThBX3lGY3ljYkNTdHkyd0VMS01fZ3piTnFUb0IyOW00aVNTQnZB?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Kinetic Age: Making Preventive Health and Movement Accessible Across India - Indian Startup Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUktZWUyelFkTnptV2RRX1hscGVMelF0RENfdE9MdXlCZWdjUlRiY2NMemQyZ2dsN0VFOTRXWVZueVI1eHAxWWdUME96VzB3eWtIbWxkVHhGa2gwOHBjeXZPaWVTY1RMakFvQXZaSElVUkY5QjFNd0hDY1daT3Y0ZWpBR09TSXE3S3UxYUNLLXhUR3RwQkRkRElFZ01kWENKbk1vTGpNMmNRRG5Dd045SU1mdzFFd3NnVEVPbw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -275801,9 +275827,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-27T03:34:11+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The role pays 6 to 10 LPA, which is far below Shlok's Rs 24.5 LPA fixed minimum, and asks for 3-5 years of experience while he has 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-25T16:12:37+05:30",
+   "updated_at": "2026-11-27T03:34:11+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",
@@ -275813,7 +275845,8 @@
     "at": "2026-11-26T14:20:15+05:30",
     "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The role pays 6 to 10 LPA, which is far below Shlok's Rs 24.5 LPA fixed minimum, and asks for 3-5 years of experience while he has 1.3 years."
   },
   {
    "id": "L2112",

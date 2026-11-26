@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-23T20:12:59+05:30",
-   "agent": "supervisor",
-   "ok": true,
-   "summary": "7 open issues needing attention (I0101 new), 0 fixed today by me, reply rate 2.5%, bounce rate 5.7%",
-   "stats": {}
-  },
-  {
    "at": "2026-11-23T20:25:19+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3446,6 +3439,19 @@
    "stats": {
     "sent": 10,
     "failed": 0
+   }
+  },
+  {
+   "at": "2026-11-26T14:25:25+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 66 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 66
    }
   }
  ]

@@ -31981,6 +31981,34 @@
    "thread_parent": "<179559393894.50437.3330614251242817435@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1072",
+   "lead_id": "L0515",
+   "contact_id": "C1",
+   "to": "vivek@cashbookapp.in",
+   "to_name": "Vivek Kumar",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Vivek,\n\nOne more thing that may be useful: at InsuranceDekho I built a Flask API and a Chrome extension that autofilled forms and saved 30 minutes per case.\n\nWould that kind of product-plus-ops help at CashBook?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:12:08+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559404099.50437.6196617874230901240@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

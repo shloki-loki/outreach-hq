@@ -14030,6 +14030,15 @@
    "title": "One follow-up only",
    "detail": "Shlok asked for a single follow-up per person (a second one annoys people). max_followups = 1. Second follow-ups can no longer be queued, drafted or sent; an approved one is skipped at send time. 126 second follow-ups had already gone out on 26-27 Nov under the old setting. Merged PR 21, shared folder pulled.",
    "ref": "aa9785cd"
+  },
+  {
+   "id": "J1560",
+   "at": "2026-11-27T19:06:18+05:30",
+   "by": "claude",
+   "kind": "debug",
+   "title": "Spam check 27 Nov: no spam blocks found",
+   "detail": "Read-only scan of the sending inbox since 20 Nov: 40 bounce notices, none for spam or reputation. 17 address does not exist, 6 dead domains, 1 mailbox full, the rest delays/timeouts at dead mail servers, 2 Microsoft 550 5.4.1 'recipient address rejected: access denied' (address not in their directory). No Gmail sending-limit or suspension notices. Bounce rate 3.7%, reply rate 3.1% (15 people). Two Google alerts on 26 Nov ('someone else may be trying to access your Google Account data') for Shlok to check. Recipients' spam folders cannot be seen from here.",
+   "ref": ""
   }
  ]
 }

@@ -292626,15 +292626,15 @@
    "key": "morphogenesis|manager founder s office|india",
    "type": "job",
    "company": "Morphogenesis",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "morphogenesis.org",
+   "company_url": "https://www.morphogenesis.org",
    "company_linkedin": "https://in.linkedin.com/company/morphogenesis",
    "company_note": "",
    "title": "Manager, Founder's Office",
    "tier": "1 - Strategy & Ops",
    "location": "New Delhi, Delhi, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4495584571",
    "source_url": "https://in.linkedin.com/jobs/view/manager-founder-s-office-at-morphogenesis-4495584571",
@@ -292656,7 +292656,7 @@
    "exp_text": "Seniority level Not Applicable Employment type Full-time Industries Architecture and Planning",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "not stated",
     "min_lpa": null,
     "max_lpa": null,
     "basis": "unknown",
@@ -292665,8 +292665,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -292676,15 +292676,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office at Morphogenesis; asks 3-5 years and an MBA/consulting background you do not have.",
+    "fit_notes": "The posting asks for \"3–5 years in consulting or business operations\" and \"MBA / PGP in Strategy, Finance or Operations\". You have ~1.3 years of experience and no MBA. While your S&OP [sop] and automation work map to the operational requirements, the hard gating criteria of 3-5 years and an MBA are missing.",
+    "pay_notes": "Pay is not stated in the posting, and no external pay evidence was found.",
+    "culture_notes": "No ratings or reviews found for this company in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T03:08:48+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Morphogenesis of a stratified cell mound at a vortex defect - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Pa1VBWFVSMjRNeXhNVmZmOXZucDlUMFhUYmRRcXVST0VaLUp1bExzcDNjMjJNUFoxTHBDTmhCWjlIQUc0ei1IRlF3c0VfV01MQVpJeW5GMmpXell1Q1E0?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Spatially Organized Human Ovarian Spheroids Instruct Endometrial Morphogenesis - Wiley & Sons",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FU3FsM1RnY0gwYmRtSS1wNW9QQzc0Ry1CMm9pOEpoRnVsa3lpV0I5aW1QTndIWFh1ZmQtbmY1RE01RXIzekVqTmlEWXkwV1hZdy0waFdrbm92OUo0VXV6dFZQM080OG5oOTYybVpIeHE?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Morphogenesis as explained by Alan Turing - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamZHY2dQb1o2MHJ0b1NiMVJHXzZkNjY4OU95YTV2QmlrekttWlcwSk84ZFMxZHJDX1Y4dnZsdXppUzlXakhwX0RIWDNVSWlNNS1rVHUtVEtiOG1pN3VJVDV2Z04tbmRnVUJwSXA5dVlaeTFXWGVacTRYc3F1UGd6NE9YbXg?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Engineering signalling centres to trigger human trunk morphogenesis in vitro - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qc1dzSHBVb1E0M1hRaWcyZGNxR1NyOHQxOS0yTHFyMVVmSEZvNC1xQUJZc2JJNHMwMl9nM3Yxc0ZjaDYzNEFTR2k2SWd5TmU5aFdMQmNqZUFpcmNRZUMw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Interactions between immune cells and epithelial cells orchestrate stem cell niche formation and morphogenesis requiring TGFβ signaling - The Company of Biologists",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVR6WEZfZlN6RlBmVWZrQktnSGZZdU13TVhJU21yckxLZHo2Q1BaNDJ1RXNkRTE4YjZrUFFSV1Etcld6Rk1ZbDNIeTU1N1pCU0lhNW81cUNYVmx4OXVpYmFtS2hSV213czh5NWNwb1VqbnBvenBtOFB4Q3g2cDFEaUM0TGNiS3pzOUVodlM0b3JnX2hjcHpqZFBLUG40VE56RVcwMFRYTHg5S3BlNUs5YTV2OU1jTjg?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Self-propelled actin filaments: Novel structures driving spontaneous cell morphogenesis - EurekAlert!",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TWl6RFZDMGx6aVBLT0tiZ3B1WmUyMk1iU1NONlFoM0lqa3lfVEV4bTZ1eGFBTDJMV2ctNUwxMURHUmpWVGJKNC1lVWNSQkNDNzFuVnlDTDRCLVNy?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -292708,9 +292746,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-28T03:08:48+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The posting explicitly requires 3–5 years in consulting or business operations and an MBA / PGP in Strategy, Finance or Operations, both of which you lack.)"
     }
    ],
-   "updated_at": "2026-11-27T15:53:17+05:30"
+   "updated_at": "2026-11-28T03:08:48+05:30",
+   "reject_reason": "The posting explicitly requires 3–5 years in consulting or business operations and an MBA / PGP in Strategy, Finance or Operations, both of which you lack."
   },
   {
    "id": "L2232",

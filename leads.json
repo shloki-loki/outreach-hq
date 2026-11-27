@@ -235689,8 +235689,8 @@
    },
    "score": {
     "rules": 66,
-    "research": null,
-    "total": 66,
+    "research": 5,
+    "total": 29,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -235700,15 +235700,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
+    "done": true,
+    "headline": "Chief of Staff at Arkaylite Electricals: the LinkedIn posting has been removed (404 on 2026-11-27), so there is nothing to apply to.",
+    "fit_notes": "Not assessed; posting not readable.",
     "pay_notes": "",
     "culture_notes": "",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T09:30:10+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -235738,9 +235740,15 @@
      "actor": "research-worker",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-27T09:30:10+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 29: rejected (Posting is gone: the LinkedIn listing URL returned HTTP 404 on 2026-11-27, so the role is no longer open.)"
     }
    ],
-   "updated_at": "2026-11-26T03:36:00+05:30",
+   "updated_at": "2026-11-27T09:30:10+05:30",
    "research_attempt": {
     "at": "2026-11-25T04:24:54+05:30",
     "why": "the posting page has no readable description",
@@ -235755,7 +235763,8 @@
     "at": "2026-11-26T03:36:00+05:30",
     "reason": "the posting says \"No longer accepting applications\"",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Posting is gone: the LinkedIn listing URL returned HTTP 404 on 2026-11-27, so the role is no longer open."
   },
   {
    "id": "L1772",

@@ -29954,7 +29954,7 @@
    "kind": "followup2",
    "subject": "Re: Strategy and Ops role | Shlok Agrawal",
    "body": "Hi Mayank,\n\nI know things get busy, so this is my last note on this. If the timing isn't right, no worries at all. If something opens up at CtrlB later, I'd be glad to hear from you.\n\nShlok\n",
-   "status": "approved",
+   "status": "skipped",
    "email_status": "verified",
    "speculative": true,
    "hook": "",
@@ -29972,7 +29972,7 @@
    "sent_at": null,
    "message_id": null,
    "thread_parent": "<179531571964.66741.9494065981806303700@gmail.com>",
-   "error": null,
+   "error": "M1002: lead replied or closed since approval",
    "reply": null
   },
   {

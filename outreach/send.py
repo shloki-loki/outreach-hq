@@ -68,6 +68,10 @@ def pick_next(settings: dict, sent_this_run: int) -> tuple[dict | None, str]:
         contact = store.find(lead.get("contacts", []), message.get("contact_id")) or {}
         if contact.get("email", "").lower() == message["to"].lower() and contact.get("email_status"):
             message["email_status"] = contact["email_status"]  # the grade may have improved since drafting
+        if message.get("kind") == "followup2" and settings.get("followups", {}).get("max_followups", 2) < 2:
+            held = f"{message['id']}: only one follow-up per person (Shlok, 2026-11-27)"
+            _hold(message["id"], "skipped", held)
+            continue
         if message["email_status"] in ("bounced", "invalid"):
             held = f"{message['id']}: {message['to']} is now marked {message['email_status']}"
             _hold(message["id"], "skipped", held)

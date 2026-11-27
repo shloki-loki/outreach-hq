@@ -300,6 +300,8 @@ def create_draft(lead_id: str, contact_id: str, kind: str, subject: str, body: s
             cold = next((m for m in previous if m.get("kind") == "cold"), None)
             if not cold:
                 problems.append("no sent cold email to follow up on")
+            elif kind == "followup2" and settings["followups"]["max_followups"] < 2:
+                problems.append("only one follow-up per person (Shlok, 2026-11-27); no second follow-up")
             elif kind == "followup2" and not any(m.get("kind") == "followup1" for m in previous):
                 problems.append("followup2 needs a sent followup1 first")
             else:

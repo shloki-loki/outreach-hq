@@ -217,7 +217,7 @@ issues as supervisor and share improvements via PRs, the work queue and journal.
   is pinned under "Check in" until he presses "I followed up" (`checked_in_at`) or records an outcome (`outcome_at`).
   "+ Add a job you applied to" saves a `source: manual` lead as applied (company + note required). Cold emails lost
   to a connection error are retried by the next cycle (`campaign.retry_failed`, up to 3 tries) and no longer listed
-  on Approvals. Follow-ups: 2 working days, then 2 more.
+  on Approvals. Follow-ups: one only, 2 working days after the email (changed from two on 2026-11-27).
 
 Each item says what done looks like. Where a design choice is already made, follow it.
 

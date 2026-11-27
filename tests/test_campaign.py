@@ -208,15 +208,24 @@ class FollowupAndJobTemplateTests(unittest.TestCase):
         bodies = sorted(m["body"].splitlines()[0] for m in store.load("messages")["messages"] if m.get("template"))
         self.assertEqual(bodies, ["Hi Co1 team,", "Hi there,"])
 
-    def test_second_followup_after_first(self):
+    def test_only_one_followup(self):
+        # Shlok, 2026-11-27: one follow-up per person, never a second.
         self.activate("followup-v1")
         store.save("leads", {"leads": [lead(1, [person("C1", "Asha Rao", "a@co1.com")])]})
         store.save("suppression", {"emails": {}})
         store.save("messages", {"messages": [self.sent("M0001", "L0001", 30), self.sent("M0002", "L0001", 12, kind="followup1")]})
-        campaign.queue_followups("followup-v1")
-        follow = store.load("messages")["messages"][-1]
-        self.assertEqual(follow["kind"], "followup2")
-        self.assertIn("Co1 Technologies", follow["body"])
+        self.assertEqual(campaign.queue_followups("followup-v1")["queued"], 0)
+        self.assertEqual(len(store.load("messages")["messages"]), 2)
+        # A second follow-up approved before the change is skipped at send time, never sent.
+        from outreach import send
+        from outreach.util import load_config
+        data = store.load("messages")
+        data["messages"].append(dict(self.sent("M0003", "L0001", 0, kind="followup2"), status="approved",
+                                     sent_at=None, approved_at="2026-11-27T09:00:00+05:30", email_status="valid"))
+        store.save("messages", data)
+        message, reason = send.pick_next(load_config("settings"), 0)
+        self.assertIsNone(message)
+        self.assertEqual(store.find(store.load("messages")["messages"], "M0003")["status"], "skipped")
 
     def test_inactive_templates_queue_nothing(self):
         for template_id in ("followup-v1", "job-apply-v1"):

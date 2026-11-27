@@ -292241,15 +292241,15 @@
    "key": "masai|entrepreneur in residence|bengaluru",
    "type": "job",
    "company": "Masai",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "masai.school",
+   "company_url": "https://www.masaischool.com",
    "company_linkedin": "",
    "company_note": "",
    "title": "Entrepreneur in Residence (EIR)",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4495069879",
    "source_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-eir-at-masai-4495069879",
@@ -292280,8 +292280,8 @@
    },
    "score": {
     "rules": 75,
-    "research": null,
-    "total": 75,
+    "research": 50,
+    "total": 60,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -292291,15 +292291,55 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "EIR at Masai, asks 3-5 yrs and P&L/marketing ownership; your 1.3 yrs and supply chain background fall short.",
+    "fit_notes": "The posting asks for \"3–5 years of experience in startups, business strategy, growth, business operations, entrepreneurship, or a Founder's Office role\" and \"Proven experience in owning and managing P&L, with a strong understanding of revenue, costs, margins, and profitability.\" Shlok has about 1.3 years of experience. While his work with the CEO and COO at Ola Electric ([ceo-coo]) maps to Founder's Office exposure, the role explicitly requires heavy digital/organic marketing and P&L ownership which he does not possess.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Ratings, review counts, and culture flags were not found in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T03:03:26+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "A 11-Day Kenya Adventure - Amboseli, Masai Mara, Naivasha & Nakuru - Team-BHP",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZTc4QVluZm5yZnJqYzZ1QkhEZHk4R1NFbnRGSWtFamZuU1hzamlOd1dtQ1F5ME9GVzNGd0lpM2oybTZ3RkZuOWV6bFdSZHh4RlhUMUgyYzRManNUX1RrREd6SVdFbmVWOWlLWlVULXpnTnNwRkVMaVR3T3l3eVJaVS1PUWFaUThHd2NwbV9ZZHVDd9IBlwFBVV95cUxOMmJLOWhLeFNTNl9yTEgwaVRUWThKMUJRdGM2UGZHb2xwakVWcmdEYUxmNE9ucmktZGx5aVMweG9SU1FfZndxLXNnVndCcUlNNThvYkFiZ20xMUdYWnRLTUkwVVZpMmQ1c2V1VnZ5OE4xTkpDY3FzdTJzd0VPNTBkbEcwUWpJSWIyNUFubVlWdFo5WHNWUGNN?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Masai Russell goes from 'taking the Ls' to world record holder and now wants sub-12: \"I don't know what is possible at this point\" - Olympics",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdlpBejRCYTR0c1ppNC0zV3ZlTnc4aTZzQjVuNTg4VWVEOTFEMUZwMnd0SER6NllZMkpGNlhESkh4X3l2cnNkSFBWYlE2U2ozbDRqeUZwOXNkNk9ra0FzZnRtejdDUGh1S0FTeFQ0dmNpYk9kMFh0R254dnJPUW5CMWxUaGRRXzV0MUN3bDhFSy1SV0YzYnNlRQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "What the MASAI Trial Correspondence in The Lancet Actually Says About AI Screening Evidence - The Clinical Trial Vanguard",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaHZrUUVfQncyTmtZSEVyNjJJbUU4N1FrYnBGLTZnWVJnSGx1dDdoTGYwdTdwbS1vOWxPR1B6dENOY2VUUkZja0NvUHBtOWY0SEtTOXNROXBuclFVRjZrUUpfNUZaakhfblF3ekZITjFwdjE5N1h0VVQzbE9nZEwwZEpueHR5TC1ud3hrRVE3dzNVd1BoUzZKdGZfRUI5ek9ZOXJDRXRfX25NZEh3UlpFYWlGbWRPZVE3S2w3OTFsV2JMVml2aDdPT0ZOLXl5cENoTktXSA?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Win a virtual meet & greet with Masai Russell - worldathletics.org",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV2sxYUU4QzkwNHVzYVlnQXJFM0xkUml3VEs2UHpkcENEZHhwdG1vWERQV29aRk5ycktFQ01jazVmVnVwUW9GRUVlMHNfMlVJb3ZQSE9yNG9WZy12Nzc3LU51dmVpMTlyZmtsYU52Wmt3Rl85Mk1CUTg1WDM5VFNsLUtWX05IZw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "How a Masai Mara safari gave us the perfect setting for mother-daughter bonding - Condé Nast Traveller Middle East",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVzVvSkFmODU1NzZGTlk3VjItdFZpSHdBSW5senVFRlgzZTJpQ3E2Q3ltUG9MU0RaT0l3REFJSHZ1X0Nsd05iWVItNkd6ck12UWI2VFE1aWpDb1MteXBBZk9SYkJqV1dtSkt6YndyRXFQQnA2WndXam9vSFFVWlRndzV5YVVpTUIxZXFIazYyMVVvRnVFcmQxdHJTQXdERXBlMnJSRVN4NWY1U0l1bnNCXzlUNXJyZw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Masai Ujiri: TIME100 Most Influential People in Sports 2026 - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MeHVHbkVRUHBtYVlxS29JRHdiUDc3ajhHV3FydFdoelNZNjk5clVZQXVTNzNnRElzcG94Sy1hY1hCSHRyTXZRamtncHNBMnJuUlZ6ZExHX0YtMEZmaTZsNnNGa2h1VkVhTC1oYg?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -292323,9 +292363,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 75"
+    },
+    {
+     "at": "2026-11-28T03:03:26+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 60: rejected (The role requires 3-5 years of experience, whereas Shlok has about 1.3 years. Additionally, it asks for hands-on P&L management, business strategy, growth, digital marketing, organic marketing, and sales experience which exceeds his background.)"
     }
    ],
-   "updated_at": "2026-11-27T15:53:17+05:30"
+   "updated_at": "2026-11-28T03:03:26+05:30",
+   "reject_reason": "The role requires 3-5 years of experience, whereas Shlok has about 1.3 years. Additionally, it asks for hands-on P&L management, business strategy, growth, digital marketing, organic marketing, and sales experience which exceeds his background."
   },
   {
    "id": "L2231",

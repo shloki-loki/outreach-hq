@@ -287013,8 +287013,8 @@
     "why": "LinkedIn rate limit; skipped this run"
    },
    "research_attempt": {
-    "at": "2026-11-27T14:29:01+05:30",
-    "why": "error: Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
+    "at": "2026-11-28T03:07:35+05:30",
+    "why": "could not open the posting: HTTP 429 for https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/4494998058",
     "by": "research-worker"
    }
   },

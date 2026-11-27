@@ -94819,9 +94819,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sayanta Ghosh"
+    },
+    {
+     "at": "2026-11-27T08:33:09+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Rajat Jain"
     }
    ],
-   "updated_at": "2026-11-27T08:09:09+05:30",
+   "updated_at": "2026-11-27T08:33:09+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

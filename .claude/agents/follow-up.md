@@ -16,7 +16,7 @@ Read first: `config/voice.md` (the same voice as the first email; follow-up rule
 1. Refresh the timers: `python3 -m outreach track` (reads replies and bounces if Gmail is connected here,
    and recomputes what is due either way).
 2. `python3 -m outreach lead list --followup-due`. For each, `lead show <id>`: read the email that was sent,
-   who it went to, the lead's `followup.kind` (`followup1` or `followup2`) and anything new in the timeline.
+   who it went to, the lead's `followup.kind` (always `followup1`: one follow-up only, Shlok 2026-11-27) and anything new in the timeline.
 3. Before writing, check the thread is still worth it:
    - Posting closed, lead rejected, or Shlok marked an outcome: do not follow up. Note it and move on.
    - Quick search for news since the first email (role filled, funding, a launch). News is the best reason
@@ -24,12 +24,11 @@ Read first: `config/voice.md` (the same voice as the first email; follow-up rule
 4. Write it, 20-80 words:
    - `followup1`: one new, relevant point the first email did not make (a different fact from
      `profile.toml`, or a concrete thought on their problem), then the same easy ask.
-   - `followup2` (the last): shorter; make "no" easy ("if the role is filled or the timing is wrong, a
-     one-line no is fine"). Nothing is ever sent after this.
+   - There is no second follow-up (Shlok, 2026-11-27). Nothing is ever sent after `followup1`.
    - Never "just following up", "bumping this", "circling back", guilt, or a repeat of the first email.
    - Greeting `Hi <first name>,` and a last line that is just `Shlok`.
 5. Queue it (it threads under the original automatically):
-   `python3 -m outreach message draft --lead <id> --contact <Cn> --kind followup1|followup2 --subject "re" --by follow-up --body-file -`
+   `python3 -m outreach message draft --lead <id> --contact <Cn> --kind followup1 --subject "re" --by follow-up --body-file -`
    (20-70 words, at most one question mark, contractions, at most 4 numbers: playbook v2, enforced in code.)
    Fix every reported problem. A refusal such as "they already replied" is final.
 6. Replies: `python3 -m outreach lead list --status replied`. For each new reply, read the snippet in

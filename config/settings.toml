@@ -22,9 +22,9 @@ max_contacts_per_company = 2    # people at one company who get a cold email for
 attach_resume = false         # links land in inboxes more reliably than attachments
 
 [followups]
-max_followups = 2
-first_after_business_days = 2   # Shlok, 2026-11-24: 2 days of no reply, then 2 more
-second_after_business_days = 2  # counted from the first follow-up
+max_followups = 1              # Shlok, 2026-11-27: one follow-up only; a second one annoys people and gets marked spam
+first_after_business_days = 2   # Shlok, 2026-11-24: 2 working days of no reply
+second_after_business_days = 2  # unused while max_followups = 1
 stop_on = ["replied", "bounced", "lead_closed", "unsubscribed"]
 
 [tracking]

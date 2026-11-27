@@ -337,7 +337,8 @@ def queue_followups(template_id: str = "followup-v1") -> dict[str, Any]:
                 quiet -= 3
             if "followup1" not in kinds and quiet >= cfg["first_after_business_days"]:
                 kind = "followup1"
-            elif "followup1" in kinds and "followup2" not in kinds and quiet >= cfg["second_after_business_days"]:
+            elif "followup1" in kinds and "followup2" not in kinds and cfg["max_followups"] >= 2 \
+                    and quiet >= cfg["second_after_business_days"]:
                 kind = "followup2"
             else:
                 continue

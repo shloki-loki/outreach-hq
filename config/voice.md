@@ -30,8 +30,8 @@ Never loosen a check to make a draft pass. Fix the draft.
 8. **Give them a reason to reply.** An idea, an observation about their operation, or an offer of a small
    piece of work. For Founder's Office roles in India the application *is* the email, and founders test
    for agency (did you start things yourself) and structured communication.
-9. **Follow up, briefly, with something new.** One follow-up adds a large share of all replies. Two at
-   most for a job search, the last one making it easy to say no.
+9. **Follow up once, briefly, with something new.** One follow-up adds a large share of all replies. Only
+   one (Shlok, 2026-11-27): a second one annoys people and gets the address marked as spam.
 10. **Real personalisation only.** Fake familiarity ("love what you're building") is spotted at once. If
     research found nothing specific and true, there is no email to write.
 
@@ -150,8 +150,7 @@ of 60 (see "Daily founder batch" in `SUPERVISOR.md`).
 
 - **First, 2 working days after the email with no reply (Shlok, 2026-11-24):** one new thing: a different result, or one specific thought about their problem.
   One soft question. Never "following up" or "bumping".
-- **Second and last, 2 working days after the first:** the easy out. "If the seat is filled or the timing is off, a one-word
-  no is fine. If it's open, I'd like to be in the running." Then nothing, ever.
+- **That is the only follow-up (Shlok, 2026-11-27).** No second one, ever. The code refuses to draft, queue or send one.
 
 ## LinkedIn (people at the company; Shlok sends these by hand)
 

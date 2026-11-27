@@ -1,17 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-25T04:32:06+05:30",
-   "agent": "people-finder",
-   "ok": true,
-   "summary": "2 companies searched on LinkedIn, 0 people added",
-   "stats": {
-    "leads": 2,
-    "people_added": 0,
-    "skipped": ""
-   }
-  },
-  {
    "at": "2026-11-25T04:35:00+05:30",
    "agent": "writer",
    "ok": true,
@@ -3435,6 +3424,19 @@
    "stats": {
     "sent": 7,
     "failed": 0
+   }
+  },
+  {
+   "at": "2026-11-27T19:05:21+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 1 bounces, 8 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 1,
+    "settled": 0,
+    "followups_due": 8
    }
   }
  ]

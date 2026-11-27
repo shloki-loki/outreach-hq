@@ -95245,9 +95245,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Kabir Nagral"
+    },
+    {
+     "at": "2026-11-27T08:36:07+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Deepit Patil"
     }
    ],
-   "updated_at": "2026-11-27T08:14:13+05:30",
+   "updated_at": "2026-11-27T08:36:07+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

@@ -194037,7 +194037,7 @@
    "key": "jiostar|manager revenue operations and digital transformation|india",
    "type": "job",
    "company": "JioStar",
-   "company_domain": "",
+   "company_domain": "jiostar.com",
    "company_url": "",
    "company_linkedin": "https://www.linkedin.com/company/jio-star",
    "company_note": "",
@@ -194045,7 +194045,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Mumbai Metropolitan Region",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4457247958",
    "source_url": "https://in.linkedin.com/jobs/view/manager-%E2%80%93-revenue-operations-digital-transformation-at-jiostar-4457247958",
@@ -194061,7 +194061,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Role Overview\n We are looking for a Manager – Revenue Operations & Business Systems to drive the transformation and continuous improvement of our Revenue Operations, Zoho ecosystem, automation, and AI capabilities.\nThe role will own the simplification, optimization, and scalability of CRM, Creator and Analytics applications, while identifying opportunities to automate processes, build AI-powered solutions, and improve the overall technology landscape supporting Revenue Operations.\n Key Responsibilities\n Own and continuously improve the Zoho CRM, Creator and related ecosystem, with a focus on simplification, scalability, data quality, and user experience.\n Review existing CRM/Creator architecture and redesign processes, forms, workflows, modules, and integrations where required.\n Build and enhance automation, workflows, APIs, custom functions and integrations using tools such as Deluge and other technologies.\n Identify and build AI Agents, GenAI and intelligent automation use cases to eliminate manual processes and improve productivity.\n Partner with business teams to understand pain points and convert them into technology-led solutions.\n Drive integration across Zoho and other enterprise systems to create a connected and efficient operating environment.\n Develop dashboards, reports, controls and data solutions to improve Revenue Operations visibility and decision-making.\n Evaluate new Zoho and emerging technology capabilities and proactively identify opportunities for improvement.\n Work closely with stakeholders and technology teams to drive implementation, adoption and continuous improvement.\n Experience & Skills\n 4–7 years of experience in Business Systems, Revenue Operations, Digital Transformation, Automation, CRM, or similar roles.\n Strong hands-on experience with Zoho CRM / Zoho Creator or comparable platforms.\n Good understanding of CRM architecture, workflows, APIs, integrations and databases.\n Hands-on coding experience in Deluge, SQL, Python, JavaScript or similar is strongly preferred.\n Experience building AI Agents, GenAI solutions, automation or intelligent workflows is a strong advantage.\n Strong problem-solving skills with the ability to simplify complex processes and systems.\n Ability to independently take a requirement from business problem → solution design → build → implementation.\n Strong stakeholder management and communication skills.\n Experience in Digital, Media, Advertising, SaaS or B2B environments is a plus.\nSeniority level Not Applicable | Employment type Full-time | Industries Entertainment Providers",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -194076,8 +194076,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 20,
+    "total": 34,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -194087,15 +194087,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Manager - RevOps at JioStar asks 4-7 yrs exp and Zoho CRM/Creator skills, exceeding your 3-year maximum threshold.",
+    "fit_notes": "Posting requires '4–7 years of experience in Business Systems, Revenue Operations, Digital Transformation, Automation, CRM, or similar roles' and strong hands-on experience with Zoho CRM / Zoho Creator. You have ~1.3 years of experience, which is below the 4-year minimum.",
+    "pay_notes": "Pay is not stated in the posting or provided sources.",
+    "culture_notes": "Culture concerns: JioStar reportedly initiated layoffs of around 150 employees in late November 2026 across teams due to cost-cutting pressure [S2, S5, S6].",
+    "hook": "JioStar is laying off around 150 employees this week amid a fresh cost-cutting drive.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOVg2aTNmM24wcDdXaTh3NHFTOWhxb1VRSU1lTC00MnNfTVhRLUVHbzJGNDNUTmcyS1E0dl9UTHo2VHk1ekFIMUp4eHVZcjJ0dGFqX2JnMkd1T252OWV5M2tWT3VwTXBfeHpjaVpVY0szR09MdXZOMm5MLWtMeE1OeXNxekp5UE1qYkJ6V2piOC1ZLXQ5NHlxd1pDbEJMQmIyX29MZEZ2R1dMaFJjaDZiUmJhVG5NTks2eElweVBKbmc1eXJlaHRTcEtZM0dOb3hMY0E?oc=5",
+    "researched_at": "2026-11-27T14:45:49+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "India's Zee escalates copyright fight against Reliance-Disney's JioStar - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWWZOQ0RvamJnZER2TG1xUGw1OGxUYXpZN0s1aDZWam1qSEJxNWZvRjdENlptZXJXNEpxZVdpMUZiSkkxRW5sUmZySVc5c3VMWWdpYU5CR3lqOWlMSDd2ZS14c21fdUJ6Q0dVdl9BazdGYkQ2M1VNUFNvY3haaWJpTU9KN29ZOWNudnFmQVNRWmdnZFp6dUVDV3pIWnFKWFZuQmt1c093dm5HZzFReHh1QXQxWkhHclR6?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "#e4mExclusive: JioStar to lay off around 150 employees this week amid fresh cost-cutting drive - Exchange4Media",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOVg2aTNmM24wcDdXaTh3NHFTOWhxb1VRSU1lTC00MnNfTVhRLUVHbzJGNDNUTmcyS1E0dl9UTHo2VHk1ekFIMUp4eHVZcjJ0dGFqX2JnMkd1T252OWV5M2tWT3VwTXBfeHpjaVpVY0szR09MdXZOMm5MLWtMeE1OeXNxekp5UE1qYkJ6V2piOC1ZLXQ5NHlxd1pDbEJMQmIyX29MZEZ2R1dMaFJjaDZiUmJhVG5NTks2eElweVBKbmc1eXJlaHRTcEtZM0dOb3hMY0E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Who reports to whom at JioStar now: the new structure explained - BMI",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQmVKOUkwWlhHZkxzYmZVSl9NWVpBSHg3UE40WmhXSnhEaTM3Y3BBSXJOdmIzTnR5Mjc5VUl2NXpRcEpkTGdOdlR1LTN6S3FjNkw3RVF1bTc2MXZOTnBpbjVYbXEwUVlzbzFPcmlnUUc4NVdhSHBCMjVaQWVIMXF1YjFHNlRicE9YNkdOOXVzSzlvRnlnQkU3cTBBY25CUEZ3T21RT21pX0JaYVFXWTNXSjh2cUFPRkhiLWfSAboBQVVfeXFMUEJlSjlJMFpYR2ZMc2JmVUpfTVlaQUh4N1BONFpoV0p4RGkzN2NwQUlyTnZiM050eTI3OVVJdjV6UXBKZExnTnZUdS0zektxYzZMN0VRdW03NjF2Tk5waW41WG1xMFFZc28xT3JpZ1FHODVXYUhwQjI1WkFlSDFxdWIxRzZUYnBPWDZHTjl1c0s5b0Z5Z0JFN3EwQWNuQlBGd09tUU9taV9CWmFRV1kzV0o4dnFBT0ZIYi1n?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ucFZmNFh3OWpGRXNoVUFXRlQ0aHVFa0pRNVJqUFo1eGx1RGZQMW94eXBXd3plYmtKSnI5SDFUUjVyUTdHb2xzUTZ3cVpFNGRweW5xd2N5Y0xya0VU?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "JioStar to lay off 150 employees across marketing, production, other teams: Report - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZTQ3NzFySng1aVMxYjl4d1dtSDVjdFI2bGVQTXNkckJKcGtqQWw0VTc1Z3NmR3ZRTEpQeWlycmJKRHVHcHVJSG1PdFlqaENLUUV4QXBDSEgzeDI2NGhCZEFRaUppcTFJMndiUkxQWm1leEJjY1lrZmJNUF85NnFnTjNVaUlpYl9YU0xtR0lnLW1YbkFrSVpKMUotOHRiT2lmWmFYZzkyVUltaEg5Z3BDVExHZjNYS1RicU1IQU8xdDJNVWxFby1wMGhRU2w?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "JioStar starts fresh layoffs as television business faces mounting pressure - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR1NFd1p3U3lHdWJ4OVotMFl3Q0V3TVZTSHpaZHlkTHQwVnRvbjNGN0hMaDJsdUpsSl9URjAyMXR5LXcxMkRrZlI3MkQ2RkswX2hJWmdoTnJnQUtCU3ZpWmE1WmhyeHNNX2QtZm5xOGJqY2tsNVNwTFNvN3pzdEZKZEFQUnd2d1lxTGlhMU9VdG11SVhhN2JwbWZRaDFUMktYby1pd1dnUkhCeUFSSWpnQkJRT3pwOVotaTEwT1EwbTdqNUpMQVB3WUR0ZVZwZ2U1VjN3VWs1a2NFV3RL0gHiAUFVX3lxTE1IQWNiR0dSQTBCb3ZudVVzX0lUZkFnU0JreHlaN3JBc0VsNkM2SjZFQnJkb2lhNnc4aGxkTnBGQWItcF90U2pWaURnZFBMMUJjWDZoanJ3ME5aclNXQlFvc0QwOHV0VGRWZnVSeGVoV0lSU251Q0RIZDQtV2RFMjUwLXEzd2Y4T0ZwM1J6ZDZSSkdXb0F5NlpneTMxM2VXeDctNUp1b2Rwam9KaklUS0N2OEhDV05KZnprQnJpRkVpbFluZndIeXdmX1pSUS1zajNYU193bEpZelZxa3JKMWNlRGc?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -194119,14 +194157,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-27T14:45:49+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 34: rejected (Asks for 4–7 years of experience, exceeding your 3-year maximum threshold, and requires specialized Zoho ecosystem experience.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-27T14:45:49+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Asks for 4–7 years of experience, exceeding your 3-year maximum threshold, and requires specialized Zoho ecosystem experience."
   },
   {
    "id": "L1425",

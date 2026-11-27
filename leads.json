@@ -95977,9 +95977,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Anubhav Mathur"
+    },
+    {
+     "at": "2026-11-27T09:27:33+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Tanmay Sagar"
     }
    ],
-   "updated_at": "2026-11-27T09:10:49+05:30",
+   "updated_at": "2026-11-27T09:27:33+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

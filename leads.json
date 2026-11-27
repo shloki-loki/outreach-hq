@@ -56302,9 +56302,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup2 email to Harsha Kadimisetty"
+    },
+    {
+     "at": "2026-11-27T18:00:56+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to Himavanth Chowdary Jasti"
     }
    ],
-   "updated_at": "2026-11-27T17:18:51+05:30",
+   "updated_at": "2026-11-27T18:00:56+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

@@ -97761,7 +97761,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-27T16:01:41+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -97816,9 +97816,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Prashant Kumar queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-27T16:01:41+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Avinash Saxena"
     }
    ],
-   "updated_at": "2026-11-26T17:25:24+05:30",
+   "updated_at": "2026-11-27T16:01:41+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

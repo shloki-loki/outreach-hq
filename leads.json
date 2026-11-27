@@ -292581,15 +292581,15 @@
    "key": "slice|business analyst credit risk strategy|bengaluru",
    "type": "job",
    "company": "slice",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "sliceit.com",
+   "company_url": "https://www.sliceit.com",
    "company_linkedin": "https://in.linkedin.com/company/sliceit",
    "company_note": "",
    "title": "Business Analyst - Credit Risk Strategy",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4495590707",
    "source_url": "https://in.linkedin.com/jobs/view/business-analyst-credit-risk-strategy-at-slice-4495590707",
@@ -292620,8 +292620,8 @@
    },
    "score": {
     "rules": 70,
-    "research": null,
-    "total": 70,
+    "research": 75,
+    "total": 73,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -292632,15 +292632,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Analyst at Slice in Bengaluru, asks 1-2 yrs; your SQL, data-driven execution, and business problem-solving map directly.",
+    "fit_notes": "The posting asks for \"1-2 years experience in analytics\" and \"Expertise in databases and scripting languages (Advanced SQL, Basic Python/R, Advanced Excel)\" and the \"Ability to draw conclusions from data and recommend actions.\" Your SQL and analytical problem-solving from your Ola Electric inventory/S&OP work answer this, though you don't have consulting or an MBA (neither is required here).",
+    "pay_notes": "Pay is not stated in the posting (\"Competitive salaries. Period.\"). At 1.3 years of experience, Rs 24.5 LPA fixed is a high bar for a Business Analyst role, but slice is well-funded ($100m in funding at $450m valuation [S1]) and known to pay competitively.",
+    "culture_notes": "Backed by Tiger Global, Insight Partners, Advent International [posting]. No direct Glassdoor ratings found in search evidence, but offers medical insurance, flexible working hours, and learning opportunities [posting].",
+    "hook": "India's slice recently raised $100m in funding at a $450m valuation to scale its new bank model [S1].",
+    "hook_source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTnVfWGwxNnJFNUtJTFJsUDRlcFdLb2VMbGNFa3NHdXJBbzYzbF9fWVYxVW94UGU0ZVp4QWZmUDg0NzA0enVId1ZlNjBISndOQXMzZEZCbEs0ZnA5WkJoWXVVbUVUX0VhcWF5ZHR2b0tKcTBLTG9BM3dMdmMxMkNrdUdlcEhQZVVEOTVETWlTeDIxckpFNTFyZEFTaHZDQmdicDhuMFJ0MzhIY3hhcHc?oc=5",
+    "researched_at": "2026-11-28T03:04:47+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "India's Slice reportedly raises $100m in funding at $450m valuation - FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTnVfWGwxNnJFNUtJTFJsUDRlcFdLb2VMbGNFa3NHdXJBbzYzbF9fWVYxVW94UGU0ZVp4QWZmUDg0NzA0enVId1ZlNjBISndOQXMzZEZCbEs0ZnA5WkJoWXVVbUVUX0VhcWF5ZHR2b0tKcTBLTG9BM3dMdmMxMkNrdUdlcEhQZVVEOTVETWlTeDIxckpFNTFyZEFTaHZDQmdicDhuMFJ0MzhIY3hhcHc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Optimized Ex Vivo Human Liver Slice Culture Maintains Extended Viability and Function for Hepatotoxicity Testing - Wiley & Sons",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94Z2hydlAtOHZLak1XWE9wNUY1MnVFX1ZZdFpXMWhkOWNVaXQ1U0l3cTlMYmVLbXBsbmQteDVWaHFIc2dxT0JlWjZidmNYZjVBRVJPV0o2WmtPaktSR05ZZTEtZmIyMmJmNnI0ZVVkejVQRTI4Nmc?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Core2Edge : a human glioblastoma organoid–brain slice model capturing infiltration and transcriptional heterogeneity from core to single-cell dispersion - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Uc2VVSkxFNnJWc3gzendtNDI2V2I5T3EweEg3SktkbUh2Q1NEMjRDRU1UNWZ5NFRyRmdhZmJLaUN3ZWRyMDZFTEFoM0pRbDNDVFhfeVBQLVJEbTBJcE5j?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Chef Hari Nayak brings a slice of coastal India to the capital - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2pQdWlLb1YyVDZxTlk2a2JKbXQ5LXh2clliQ2ZVUS1xM2ppSmEyTmpfZUFtOUUwQW1XenZ5cEhITHkyYk1DaWhPRUZQTnd2V180ZFNJdVZhSElCZ1A4N0xpUjhzR096SEpsSGMzVFlGaVJ3d21GUzBWa2lhZHBncTZMeHA3cnB0UTB6eV9EeElzVkxOWi04U1U2Ri00YmRaY0hITndsWWZRS1hCNW1uRDRzY2JBVTJGaThV?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Slice of History: The Rover That Refused to Quit - NASA Jet Propulsion Laboratory (JPL) (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXFCaFEtTElKMzQwLUR2Y1N1ekJybUJGbnFVc3A3OTNJMEtOMEEwNGJvVy00WDBkX2J2TzZWWWl3eGhMSDZhcEU4cVlBVHVfbW0tNDBkbHVJcGR4ZFRzU2NGMl8wdEc2V2VISTJiWGJXTjVHWW5VYURnVGZNNVVkZ0RsSy03aDg?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "JPMorgan, BlackRock Bid for Slice of $543 Billion Singapore Fund - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenB3UVNnVVFGc2lIMi1sZmF5NkRBdXMyWmltS3dSSnVQNmtjUUJjLWdvdW5uMXZ3dGJKbzBQTGFUV3BWNFFOQTZqSmpUNzhtUTByNzhDNDdLZEJ0RTlSMEt3ZVpNSmxFWnlJQm1TaWE0VV9JbnFQZkp0SmliSTBVcDVQMDUzckZoNXh5WERRMTh6WE9mREc1UHBjczc4TnRxWFpnRDdYTmlIem51TGhPVVM4MjZlMDg?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -292664,9 +292705,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 70"
+    },
+    {
+     "at": "2026-11-28T03:04:47+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 73: qualified"
     }
    ],
-   "updated_at": "2026-11-27T15:53:17+05:30"
+   "updated_at": "2026-11-28T03:04:47+05:30",
+   "reject_reason": null
   },
   {
    "id": "L2234",

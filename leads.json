@@ -294636,7 +294636,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Gurugram, Haryana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4495334118",
    "source_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-unicel-greens-4495334118",
@@ -294658,17 +294658,17 @@
    "exp_text": "Seniority level Executive Employment type Full-time Industries Services for Renewable Energy",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "50,000 per month",
     "min_lpa": null,
     "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
+    "basis": "stated",
+    "source": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-unicel-greens-4495334118",
     "fit": "Unknown"
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -294678,15 +294678,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Entrepreneur in Residence at Unicel Greens in Gurugram, but starts as a 2-month internship at Rs 50K/month.",
+    "fit_notes": "The posting asks for 'Experience in venture building, startup incubation, or entrepreneurial roles' and 'Ability to develop financial projections, unit economics, and investment cases'. Shlok's S&OP and inventory work ([sop], [rebalance]) maps to operational scaling, but the role explicitly mandates starting as an intern ('You will start as an intern for the first two months with a monthly stipend of -50,000 per month'). Location is Gurugram, India (onsite).",
+    "pay_notes": "Stated as a monthly stipend of Rs 50,000 for the first two months before any potential full-time offer, failing his Rs 24.5 LPA fixed pay requirement.",
+    "culture_notes": "No Glassdoor ratings or external reviews found; company is building India's circular battery economy with a dedicated LFP recycling plant.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T03:11:40+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "rebalance"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -294710,9 +294720,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-28T03:11:40+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The role requires starting as an intern for the first two months with a monthly stipend of Rs 50,000, which triggers the rejection rule for internships and falls well below his fixed pay requirement.)"
     }
    ],
-   "updated_at": "2026-11-28T02:03:29+05:30"
+   "updated_at": "2026-11-28T03:11:40+05:30",
+   "reject_reason": "The role requires starting as an intern for the first two months with a monthly stipend of Rs 50,000, which triggers the rejection rule for internships and falls well below his fixed pay requirement."
   },
   {
    "id": "L2251",

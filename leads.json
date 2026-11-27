@@ -200478,7 +200478,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Kozhikode, Kerala, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490221353",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-nexion-tiles-4490221353",
@@ -200494,7 +200494,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Company Description Nexion Tiles is an Indo-Italian company that brings a fresh perspective to tile design, focusing on beauty as a key contributor to well-being in everyday life. The company’s sintered surfaces blend aesthetics and performance, supporting a holistic vision of interior and architectural spaces. Each product is created by designers who draw inspiration from diverse sources, resulting in unique surfaces that enhance the personality of any environment. Nexion operates with a strong commitment to innovation and customer partnership, working closely with clients to ensure every surface reflects their vision. The company promotes a view of surfaces as integral elements of a complete spatial experience.\n Role Description This is a full-time, on-site Business Development Manager role based in Kozhikode. The Business Development Manager will identify and develop new business opportunities with architects, interior designers, builders, and dealers, while maintaining and growing existing relationships. Responsibilities include conducting market research, generating leads, managing the sales pipeline, preparing proposals, and negotiating commercial terms. The role also involves collaborating with design, marketing, and operations teams to align client requirements with product offerings, and representing Nexion Tiles at client meetings, industry events, and trade shows. The Business Development Manager will track performance metrics, prepare reports, and contribute to strategic initiatives to expand Nexion Tiles’ presence in the region.\n Qualifications\n Demonstrated skills in business development, sales, account management, and lead generation.\n Proficiency in client relationship management, stakeholder engagement, and customer service.\n Experience with market analysis, competitor research, and strategic planning.\n Strong communication, presentation, and negotiation skills.\n Ability to work independently, manage multiple opportunities, and meet revenue targets.\n Familiarity with the building materials, tiles, or interior design industry is an advantage.\n Bachelor’s degree in Business, Marketing, Management, or a related field, or equivalent practical experience.\n Comfort using CRM tools, spreadsheets, and standard office software to manage data and reporting.\n Willingness to travel within the region for client visits, site meetings, and events as required.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Wholesale Building Materials",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -200509,8 +200509,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 35,
+    "total": 43,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -200520,15 +200520,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at Nexion Tiles in Kozhikode, asks mid-senior level; outside Bengaluru and does not match your strategy profile.",
+    "fit_notes": "The posting asks for a 'Business Development Manager' at a mid-senior level to 'identify and develop new business opportunities with architects, interior designers, builders, and dealers' in Kozhikode, Kerala. It requires 'Demonstrated skills in business development, sales, account management, and lead generation' and 'Bachelor's degree in Business, Marketing, Management, or a related field, or equivalent practical experience.' No MBA or consulting is explicitly required. Shlok has no direct BD experience with architects/dealers or tile sales, though his sales and curation experience [alcheringa] involves ticketing and portal scaling. However, the location is on-site in Kozhikode (violating his Bengaluru or remote requirement), and his core supply chain and strategy facts ([msl], [o2d], [sop], [mrp], [ceo-coo]) do not map well to regional tile sales.",
+    "pay_notes": "Pay not stated in posting.",
+    "culture_notes": "No company website or reviews found in the provided evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T14:58:19+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -200552,14 +200559,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-27T14:58:19+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 43: rejected (Location is Kozhikode, Kerala (outside Bengaluru and not remote); pay is not stated and unlikely to meet the Rs 24.5 LPA fixed threshold for a regional building materials sales role; role requires field sales/BD with architects and builders rather than Shlok's strategy, S&OP, and supply chain profile.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-27T14:58:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Location is Kozhikode, Kerala (outside Bengaluru and not remote); pay is not stated and unlikely to meet the Rs 24.5 LPA fixed threshold for a regional building materials sales role; role requires field sales/BD with architects and builders rather than Shlok's strategy, S&OP, and supply chain profile."
   },
   {
    "id": "L1475",

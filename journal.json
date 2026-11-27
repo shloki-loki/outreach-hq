@@ -13445,6 +13445,15 @@
    "title": "Run failed",
    "detail": "inbox scan failed: TimeoutError: The read operation timed out",
    "ref": ""
+  },
+  {
+   "id": "J1495",
+   "at": "2026-11-27T05:45:15+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 48 follow-ups due",
+   "ref": ""
   }
  ]
 }

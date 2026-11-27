@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-25T13:36:09+05:30",
-   "agent": "lead-scout",
-   "ok": true,
-   "summary": "7 researched, 0 qualified, 7 rejected, 0 emails found; scrape skipped (ran 03:13 today), no Apify used; 7 already-closed postings and L1771 (no JD readable), L1895 OYO (Naukri blocked) left unresearched; stale re-verify and Monday company scan not done",
-   "stats": {}
-  },
-  {
    "at": "2026-11-25T13:39:21+05:30",
    "agent": "send-track/send",
    "ok": false,
@@ -3438,6 +3431,13 @@
     "settled": 0,
     "followups_due": 8
    }
+  },
+  {
+   "at": "2026-11-27T22:05:24+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 54 approved email(s) wait for the next run",
+   "stats": {}
   }
  ]
 }

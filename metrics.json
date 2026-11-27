@@ -720,14 +720,14 @@
    "leads_total": 2248,
    "by_status": {
     "applied": 26,
-    "contacted": 99,
+    "contacted": 100,
     "new": 1120,
     "rejected": 740,
     "replied": 13,
     "skipped": 4,
     "interview": 1,
     "qualified": 56,
-    "to_approve": 181,
+    "to_approve": 180,
     "followup_due": 8
    },
    "by_source": {
@@ -751,8 +751,8 @@
    "qualified_total": 94,
    "researched_total": 881,
    "with_email_total": 1025,
-   "emails_sent_total": 714,
-   "emails_sent_today": 77,
+   "emails_sent_total": 719,
+   "emails_sent_today": 82,
    "cold_sent_total": 471,
    "people_replied": 14,
    "bounces_total": 27,

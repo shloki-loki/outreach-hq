@@ -31645,6 +31645,34 @@
    "thread_parent": "<179541066975.1098.1522273096373070503@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1060",
+   "lead_id": "L0490",
+   "contact_id": "C2",
+   "to": "govinda@snef.co",
+   "to_name": "Govinda Das",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Govinda,\n\nOne more thing that may be useful: I implemented SAP MRP from scratch at Ola Electric, which cut stock-outs by 20% and raw material inventory by 25%.\n\nWould that kind of systems rollout help at Snef?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:10:43+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559794708.58994.6605080235439193629@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

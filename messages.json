@@ -32065,6 +32065,34 @@
    "thread_parent": "<179559453249.56875.7732706239992966366@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1075",
+   "lead_id": "L0519",
+   "contact_id": "C2",
+   "to": "akshay@getmaxim.ai",
+   "to_name": "Akshay Deo",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Akshay,\n\nOne more thing that may be useful: at InsuranceDekho I built a Flask API and a Chrome extension that autofilled forms and saved 30 minutes per case.\n\nWould that mix of ops and building help at Maxim?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:12:26+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559477317.56875.6213399228767806729@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

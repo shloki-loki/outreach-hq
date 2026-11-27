@@ -94825,9 +94825,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Rajat Jain"
+    },
+    {
+     "at": "2026-11-27T09:05:41+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Nikhil Ojha"
     }
    ],
-   "updated_at": "2026-11-27T08:33:09+05:30",
+   "updated_at": "2026-11-27T09:05:41+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

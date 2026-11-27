@@ -47450,9 +47450,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup2 to Komal Rathee queued (template)"
+    },
+    {
+     "at": "2026-11-27T17:13:26+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to Komal Rathee"
     }
    ],
-   "updated_at": "2026-11-27T00:05:24+05:30",
+   "updated_at": "2026-11-27T17:13:26+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-16T12:00:45+05:30",

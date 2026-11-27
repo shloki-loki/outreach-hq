@@ -69287,9 +69287,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup2 email to Preeti Shrimal"
+    },
+    {
+     "at": "2026-11-27T18:29:19+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to Harshit Surana"
     }
    ],
-   "updated_at": "2026-11-27T17:52:24+05:30",
+   "updated_at": "2026-11-27T18:29:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

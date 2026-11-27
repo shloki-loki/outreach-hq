@@ -75563,9 +75563,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C4",
+    "since": "2026-11-27T16:25:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -75676,9 +75677,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Ankur Pandey awaiting approval"
+    },
+    {
+     "at": "2026-11-27T16:25:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-27T16:10:37+05:30",
+   "updated_at": "2026-11-27T16:25:12+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -79879,9 +79886,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-27T16:25:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -79938,9 +79946,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Samik Sarkar awaiting approval"
+    },
+    {
+     "at": "2026-11-27T16:25:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-27T16:12:02+05:30",
+   "updated_at": "2026-11-27T16:25:12+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -80047,9 +80061,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-27T16:25:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -80106,9 +80121,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Vivek Kumar awaiting approval"
+    },
+    {
+     "at": "2026-11-27T16:25:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-27T16:12:08+05:30",
+   "updated_at": "2026-11-27T16:25:12+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -80215,9 +80236,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-27T16:25:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -80274,9 +80296,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Ashish Jindal awaiting approval"
+    },
+    {
+     "at": "2026-11-27T16:25:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-27T16:12:14+05:30",
+   "updated_at": "2026-11-27T16:25:12+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -81075,9 +81103,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-27T16:25:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -81134,9 +81163,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Manish Gupta awaiting approval"
+    },
+    {
+     "at": "2026-11-27T16:25:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-27T16:12:44+05:30",
+   "updated_at": "2026-11-27T16:25:12+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -81243,9 +81278,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-27T16:25:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -81302,9 +81338,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Himanshu Arora awaiting approval"
+    },
+    {
+     "at": "2026-11-27T16:25:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-27T16:12:50+05:30",
+   "updated_at": "2026-11-27T16:25:12+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -81411,9 +81453,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-27T16:25:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -81470,9 +81513,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Anuj Punjani awaiting approval"
+    },
+    {
+     "at": "2026-11-27T16:25:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-27T16:12:56+05:30",
+   "updated_at": "2026-11-27T16:25:12+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -81579,9 +81628,10 @@
    ],
    "referrals": [],
    "followup": {
-    "due": false,
-    "kind": null,
-    "since": null
+    "due": true,
+    "kind": "followup1",
+    "contact_id": "C2",
+    "since": "2026-11-27T16:25:12+05:30"
    },
    "notes": [],
    "timeline": [
@@ -81638,9 +81688,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Kshitij Chaudhary awaiting approval"
+    },
+    {
+     "at": "2026-11-27T16:25:12+05:30",
+     "actor": "follow-up",
+     "event": "followup_due",
+     "detail": "followup1 is due"
     }
    ],
-   "updated_at": "2026-11-27T16:13:02+05:30",
+   "updated_at": "2026-11-27T16:25:12+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

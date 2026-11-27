@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T23:45:18+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 83 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 83
-   }
-  },
-  {
    "at": "2026-11-24T23:45:28+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3391,6 +3378,19 @@
    "ok": true,
    "summary": "11 researched, 0 qualified, 11 rejected (7 postings removed/404, 3 hard-requirement or pay rejects, 1 pay), 0 emails found; Suguna L2222 and PwC L1618 left unresearched (page unreadable / rate-limited); Apify not used",
    "stats": {}
+  },
+  {
+   "at": "2026-11-27T11:22:43+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 48 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 1,
+    "followups_due": 48
+   }
   }
  ]
 }

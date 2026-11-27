@@ -13679,6 +13679,15 @@
    "title": "Naukri JDs unreadable by curl; WebFetch missing in scheduled run",
    "detail": "Naukri pages are JS-rendered so scheduled runs cannot verify Naukri leads (L2222, L2224). WebFetch tool was not available; only curl and WebSearch. Consider a Naukri-capable Apify actor or a rendering fetch.",
    "ref": "I0114"
+  },
+  {
+   "id": "J1521",
+   "at": "2026-11-27T11:22:43+05:30",
+   "by": "follow-up/track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 replies, 0 bounces, 48 follow-ups due",
+   "ref": ""
   }
  ]
 }

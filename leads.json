@@ -295715,7 +295715,12 @@
      "detail": "linkedin: rule score 59"
     }
    ],
-   "updated_at": "2026-11-28T02:03:29+05:30"
+   "updated_at": "2026-11-28T02:03:29+05:30",
+   "research_attempt": {
+    "at": "2026-11-28T03:13:29+05:30",
+    "why": "could not open the posting: HTTP 429 for https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/4478817095",
+    "by": "research-worker"
+   }
   },
   {
    "id": "L2260",

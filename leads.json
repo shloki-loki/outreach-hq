@@ -96372,9 +96372,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Vivek Vaidya"
+    },
+    {
+     "at": "2026-11-27T09:13:28+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Pankaj Rajan"
     }
    ],
-   "updated_at": "2026-11-27T08:46:38+05:30",
+   "updated_at": "2026-11-27T09:13:28+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

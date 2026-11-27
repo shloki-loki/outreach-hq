@@ -62165,9 +62165,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup2 to Kanika Singh Chopda queued (template)"
+    },
+    {
+     "at": "2026-11-27T17:01:27+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to Kanika Singh Chopda"
     }
    ],
-   "updated_at": "2026-11-27T00:05:24+05:30",
+   "updated_at": "2026-11-27T17:01:27+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

@@ -450,6 +450,12 @@
     "kartikeya@getsmylo.com"
    ],
    "pattern": "first"
+  },
+  "clicklabs.co": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

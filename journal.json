@@ -14120,6 +14120,15 @@
    "title": "Diagnosis: Sending M0919 failed",
    "detail": "Cause: Gmail SMTP dropped the connection mid-send (read timeout) at 12:03 on 27 Nov. M0919 (lalit@clearfeed.ai) is back to approved and unsent; the send-track/send run will retry it once the 60/day cap resets tomorrow. Same pattern as I0102-I0108. Nothing for Shlok to press; Retry on the Approvals page is optional.",
    "ref": "I0115"
+  },
+  {
+   "id": "J1570",
+   "at": "2026-11-27T20:12:09+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Sending M0921 failed",
+   "detail": "Cause: Gmail SMTP read timeout at 16:01 on 27 Nov, same as I0115. M0921 (sumit@neuraldefend.com) is back to approved, not sent, and will go on the next run after the daily cap resets. Recurring SMTP timeouts: consider a retry with backoff in the sender.",
+   "ref": "I0116"
   }
  ]
 }

@@ -1621,7 +1621,7 @@
    "opened_at": "2026-11-27T16:01:28+05:30",
    "last_seen": "2026-11-27T16:01:28+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: Gmail SMTP read timeout at 16:01 on 27 Nov, same as I0115. M0921 (sumit@neuraldefend.com) is back to approved, not sent, and will go on the next run after the daily cap resets. Recurring SMTP timeouts: consider a retry with backoff in the sender.",
    "resolved_at": null
   }
  ],

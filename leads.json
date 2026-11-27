@@ -99314,9 +99314,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Prashant Gupta"
+    },
+    {
+     "at": "2026-11-27T18:50:32+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Sridhar Sundaram"
     }
    ],
-   "updated_at": "2026-11-27T16:31:27+05:30",
+   "updated_at": "2026-11-27T18:50:32+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

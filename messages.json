@@ -32093,6 +32093,34 @@
    "thread_parent": "<179559477317.56875.6213399228767806729@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1076",
+   "lead_id": "L0520",
+   "contact_id": "C1",
+   "to": "hakim@usefini.com",
+   "to_name": "Hakim Khalafi",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Hakim,\n\nOne more thing that may be useful: at InsuranceDekho I built a Flask API and a Chrome extension that autofilled forms and saved 30 minutes per case.\n\nWould someone who can build and run ops be useful at Fini?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:12:32+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559489583.56875.14065870075310836461@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

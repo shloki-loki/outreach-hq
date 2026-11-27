@@ -98089,9 +98089,15 @@
      "actor": "follow-up",
      "event": "bounced",
      "detail": "avinash@roposo.com does not exist; needs a new address"
+    },
+    {
+     "at": "2026-11-27T16:13:42+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Prashant Kumar"
     }
    ],
-   "updated_at": "2026-11-27T16:03:02+05:30",
+   "updated_at": "2026-11-27T16:13:42+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

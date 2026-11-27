@@ -94872,7 +94872,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-27T08:10:45+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -94946,9 +94946,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Tanmay Juneja queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-27T08:10:45+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Sayan Sen"
     }
    ],
-   "updated_at": "2026-11-26T16:45:33+05:30",
+   "updated_at": "2026-11-27T08:10:45+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

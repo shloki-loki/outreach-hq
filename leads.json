@@ -12264,9 +12264,21 @@
      "actor": "email-finder",
      "event": "email_found",
      "detail": "Jeevesh Jain: jeevesh.jain@composio.dev (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-27T16:03:24+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Palash Kala: palash.kala@composio.dev (catch-all, 55)"
+    },
+    {
+     "at": "2026-11-27T16:03:24+05:30",
+     "actor": "email-finder",
+     "event": "email_found",
+     "detail": "Jeevesh Jain: jeevesh.jain@composio.dev (catch-all, 55)"
     }
    ],
-   "updated_at": "2026-11-26T16:24:04+05:30",
+   "updated_at": "2026-11-27T16:03:24+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "live",

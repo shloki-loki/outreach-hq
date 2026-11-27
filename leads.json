@@ -199922,7 +199922,7 @@
    "posted_at": "2026-11-10",
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-17",
-   "open": true,
+   "open": false,
    "jd": "We are seeking a motivated and results-driven Business Development Manager to join our team. The ideal candidate will be responsible for driving business growth through effective channel sales strategies and building strong relationships with CBA partners, referral partners, and brokers. This role requires a deep understanding of financial products, including mutual funds and insurance sales, to effectively communicate value propositions to potential clients. Key Responsibilities: - Develop and implement strategic business development plans to achieve sales targets and expand market presence. - Identify and engage with potential partners and clients to establish mutually beneficial relationships. - Conduct market research to identify new opportunities and trends in the financial products sector. - Collaborate with internal teams to ensure seamless execution of sales strategies and client onboarding processes. - Monitor and analyze sales performance metrics to refine strategies and improve outcomes. - Provide training and support to partners and brokers to enhance their sales capabilities and product knowledge. Required Skills: - Proven experience in business development and channel sales, preferably in the financial services industry. - Strong understanding of mutual funds, insurance products, and related financial offerings. - Excellent communication and interpersonal skills to build and maintain relationships with partners and clients. - Ability to work independently and as part of a team in a fast-paced environment. - Strong analytical skills to assess market trends and sales performance. If you are passionate about driving business growth and have a track record of success in sales, we encourage you to apply for this exciting opportunity.\nThis job is provided by Shine.com",
    "exp_min": null,
    "exp_max": null,
@@ -199981,13 +199981,24 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-27T14:55:57+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-27T14:55:57+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
+   },
+   "bin": {
+    "at": "2026-11-27T14:55:57+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "research-worker"
    }
   },
   {

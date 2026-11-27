@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T20:13:27+05:30",
-   "agent": "supervisor",
-   "ok": true,
-   "summary": "22 open issues (4 new diagnosed, 2 resolved today), reply rate 2.7%, bounce rate 4.9%",
-   "stats": {}
-  },
-  {
    "at": "2026-11-24T20:22:54+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3391,6 +3384,13 @@
     "alerts": 0,
     "open_work": 169
    }
+  },
+  {
+   "at": "2026-11-27T05:36:19+05:30",
+   "agent": "follow-up/track",
+   "ok": false,
+   "summary": "inbox scan failed: TimeoutError: The read operation timed out",
+   "stats": {}
   }
  ]
 }

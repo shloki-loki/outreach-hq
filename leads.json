@@ -99727,9 +99727,15 @@
      "actor": "follow-up",
      "event": "bounced",
      "detail": "bhavesh@tejasai.in does not exist; needs a new address"
+    },
+    {
+     "at": "2026-11-27T18:54:35+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Bhavesh Tolia"
     }
    ],
-   "updated_at": "2026-11-27T16:45:14+05:30",
+   "updated_at": "2026-11-27T18:54:35+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

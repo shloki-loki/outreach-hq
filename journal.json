@@ -13778,6 +13778,15 @@
    "title": "Ran",
    "detail": "0 emails drafted, 0 referral notes (no connections), 3 application kits (Meesho L2192/L2191/L2188, standard fields only); skipped: L0105, L1556, L0077 still catch-all after recheck and score under 80; L0063 Turing posting 404, L0077 Composio posting no longer on Ashby board",
    "ref": ""
+  },
+  {
+   "id": "J1532",
+   "at": "2026-11-27T16:13:54+05:30",
+   "by": "send-track/send",
+   "kind": "failed",
+   "title": "Run failed",
+   "detail": "sent 8, failed 2. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

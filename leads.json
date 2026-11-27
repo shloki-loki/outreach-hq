@@ -97740,9 +97740,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Gaurang Kuchhal"
+    },
+    {
+     "at": "2026-11-27T16:11:56+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Anand Yadav"
     }
    ],
-   "updated_at": "2026-11-27T12:18:54+05:30",
+   "updated_at": "2026-11-27T16:11:56+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

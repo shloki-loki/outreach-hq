@@ -97814,7 +97814,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "avinash@roposo.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 553 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -97852,9 +97852,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Avinash Saxena"
+    },
+    {
+     "at": "2026-11-27T16:03:02+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "avinash@roposo.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-27T16:01:41+05:30",
+   "updated_at": "2026-11-27T16:03:02+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

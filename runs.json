@@ -1,16 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-25T18:32:16+05:30",
-   "agent": "supervisor/check",
-   "ok": true,
-   "summary": "Deterministic checks passed",
-   "stats": {
-    "alerts": 0,
-    "open_work": 169
-   }
-  },
-  {
    "at": "2026-11-25T18:45:16+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3388,6 +3378,16 @@
    "ok": true,
    "summary": "outside the sending window; 130 approved email(s) wait for the next run",
    "stats": {}
+  },
+  {
+   "at": "2026-11-28T04:59:59+05:30",
+   "agent": "supervisor/check",
+   "ok": true,
+   "summary": "Deterministic checks passed",
+   "stats": {
+    "alerts": 0,
+    "open_work": 169
+   }
   }
  ]
 }

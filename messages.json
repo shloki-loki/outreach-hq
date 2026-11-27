@@ -31925,6 +31925,34 @@
    "thread_parent": "<179559916904.59999.5206590818395177596@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1070",
+   "lead_id": "L0510",
+   "contact_id": "C1",
+   "to": "nitin@zotok.ai",
+   "to_name": "Nitin Padmawar",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Nitin,\n\nOne more thing that may be useful: at InsuranceDekho I built a Flask API and a Chrome extension that autofilled forms and saved 30 minutes per case.\n\nWould someone who can build and run ops be useful at Zötok?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:11:49+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559933188.61161.1357919897035662496@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

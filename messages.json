@@ -32597,6 +32597,34 @@
    "thread_parent": "<179560018994.61161.3892640747574143151@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1094",
+   "lead_id": "L0552",
+   "contact_id": "C1",
+   "to": "shreya@guardrailsai.com",
+   "to_name": "Shreya Rajpal",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Shreya,\n\nOne more thing that may be useful: at InsuranceDekho I built a Flask API and a Chrome extension that autofilled forms and saved 30 minutes per case.\n\nWould someone who can build and run ops be useful at Guardrails AI?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:14:41+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179560053691.62172.6833354481842613394@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

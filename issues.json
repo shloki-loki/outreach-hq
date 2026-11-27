@@ -1581,6 +1581,20 @@
    "count": 1,
    "remedy": "Cause: the only 3 leads needing a draft (L0105, L1556, L0077) are catch-all addresses scoring under 80, and application kits are blocked because LinkedIn, Instahyre (403) and YC apply pages need a login. Remedy for Shlok: either approve drafting for the catch-all leads, or fill the application questions by hand for the top qualified leads; the send queue itself is not affected (founder-v2 emails keep going).",
    "resolved_at": null
+  },
+  {
+   "id": "I0114",
+   "key": "lead-scout:Naukri JDs unreadable by curl; WebFetch missing in scheduled run",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "Naukri JDs unreadable by curl; WebFetch missing in scheduled run",
+   "detail": "Naukri pages are JS-rendered so scheduled runs cannot verify Naukri leads (L2222, L2224). WebFetch tool was not available; only curl and WebSearch. Consider a Naukri-capable Apify actor or a rendering fetch.",
+   "status": "open",
+   "opened_at": "2026-11-27T09:30:34+05:30",
+   "last_seen": "2026-11-27T09:30:34+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

@@ -13670,6 +13670,15 @@
    "title": "Ran",
    "detail": "11 researched, 0 qualified, 11 rejected (7 postings removed/404, 3 hard-requirement or pay rejects, 1 pay), 0 emails found; Suguna L2222 and PwC L1618 left unresearched (page unreadable / rate-limited); Apify not used",
    "ref": ""
+  },
+  {
+   "id": "J1520",
+   "at": "2026-11-27T09:30:34+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "Naukri JDs unreadable by curl; WebFetch missing in scheduled run",
+   "detail": "Naukri pages are JS-rendered so scheduled runs cannot verify Naukri leads (L2222, L2224). WebFetch tool was not available; only curl and WebSearch. Consider a Naukri-capable Apify actor or a rendering fetch.",
+   "ref": "I0114"
   }
  ]
 }

@@ -99170,9 +99170,15 @@
      "actor": "follow-up",
      "event": "auto_reply",
      "detail": "rudrajeet@workapps.com: Re: Strategy and Ops role | Shlok Agrawal"
+    },
+    {
+     "at": "2026-11-27T18:48:56+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Shankar Dagadu Borate"
     }
    ],
-   "updated_at": "2026-11-27T16:45:14+05:30",
+   "updated_at": "2026-11-27T18:48:56+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

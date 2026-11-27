@@ -97368,9 +97368,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "template founder-v2 email to Lalit Indoria queued (approved in chat)"
+    },
+    {
+     "at": "2026-11-27T12:03:33+05:30",
+     "actor": "send-track",
+     "event": "send_failed",
+     "detail": "SMTPServerDisconnected: Connection unexpectedly closed: The read operation timed out"
     }
    ],
-   "updated_at": "2026-11-26T17:03:46+05:30",
+   "updated_at": "2026-11-27T12:03:33+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

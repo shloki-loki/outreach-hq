@@ -93077,7 +93077,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "achauhan@grainite.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 476 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -93127,9 +93127,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Abhishek Chauhan"
+    },
+    {
+     "at": "2026-11-27T17:25:13+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "achauhan@grainite.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-26T17:05:40+05:30",
+   "updated_at": "2026-11-27T17:25:13+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

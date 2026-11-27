@@ -285796,8 +285796,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 15,
+    "total": 39,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -285807,15 +285807,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Category Manager at Opptra (Bengaluru, global brand franchising), but it asks 5+ yrs incl. 2+ in eCommerce and electronics category experience.",
+    "fit_notes": "Hard experience gap; no matching facts.",
+    "pay_notes": "Not stated.",
+    "culture_notes": "Not researched; rejected on hard requirement.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T09:28:52+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -285839,14 +285841,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-27T09:28:52+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 39: rejected (Posting (read on LinkedIn today) asks 5+ years with 2+ in eCommerce and electronics category expertise; Shlok has 1.3 years and no category P&L ownership.)"
     }
    ],
-   "updated_at": "2026-11-27T02:15:28+05:30",
+   "updated_at": "2026-11-27T09:28:52+05:30",
    "research_attempt": {
     "at": "2026-11-27T03:28:54+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Posting (read on LinkedIn today) asks 5+ years with 2+ in eCommerce and electronics category expertise; Shlok has 1.3 years and no category P&L ownership."
   },
   {
    "id": "L2198",

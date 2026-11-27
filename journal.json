@@ -14687,6 +14687,15 @@
    "title": "Ran",
    "detail": "Deterministic checks passed",
    "ref": ""
+  },
+  {
+   "id": "J1633",
+   "at": "2026-11-28T05:15:00+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 130 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

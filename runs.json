@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-25T00:05:23+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 102 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 102
-   }
-  },
-  {
    "at": "2026-11-25T00:05:42+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3395,6 +3382,41 @@
     "live": 319,
     "binned": 12,
     "unknown": 1727
+   }
+  },
+  {
+   "at": "2026-11-27T14:59:01+05:30",
+   "agent": "research-worker",
+   "ok": true,
+   "summary": "23 researched (1 qualified, 22 rejected), 7 closed postings binned, 4 left for a person, 6 errors (first: Gemini HTTP 503: { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try agai)",
+   "stats": {
+    "researched": 23,
+    "qualified": 1,
+    "rejected": 22,
+    "binned": 7,
+    "left_for_a_person": 4,
+    "errors": 6,
+    "models": {
+     "research": [
+      "gemini-2.5-flash",
+      "gemini-3.8-flash"
+     ],
+     "judge": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite"
+     ],
+     "reader": [
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash"
+     ]
+    }
    }
   }
  ]

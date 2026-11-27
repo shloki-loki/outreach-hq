@@ -13715,6 +13715,15 @@
    "title": "Ran",
    "detail": "1370 postings checked: 319 live, 12 moved to the Bin, 1727 could not be checked",
    "ref": ""
+  },
+  {
+   "id": "J1525",
+   "at": "2026-11-27T14:59:01+05:30",
+   "by": "research-worker",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "23 researched (1 qualified, 22 rejected), 7 closed postings binned, 4 left for a person, 6 errors (first: Gemini HTTP 503: { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try agai)",
+   "ref": ""
   }
  ]
 }

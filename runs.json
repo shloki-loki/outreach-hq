@@ -1,16 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-25T17:30:45+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "sent 4, failed 0. daily cap of 60 speculative notes reached",
-   "stats": {
-    "sent": 4,
-    "failed": 0
-   }
-  },
-  {
    "at": "2026-11-25T17:45:15+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3380,6 +3370,17 @@
       "gemini-3.5-flash"
      ]
     }
+   }
+  },
+  {
+   "at": "2026-11-28T03:14:13+05:30",
+   "agent": "people-finder",
+   "ok": true,
+   "summary": "0 companies searched on LinkedIn, 0 people added; stopped: Apify spend this month is $3.55; one more run (up to $0.06) would pass the $3.50 cap",
+   "stats": {
+    "leads": 0,
+    "people_added": 0,
+    "skipped": "Apify spend this month is $3.55; one more run (up to $0.06) would pass the $3.50 cap"
    }
   }
  ]

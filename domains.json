@@ -456,6 +456,12 @@
     "first"
    ],
    "confirmed": []
+  },
+  "roposo.com": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

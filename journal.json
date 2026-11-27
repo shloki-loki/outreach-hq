@@ -14138,6 +14138,15 @@
    "title": "Checked M0919/M0921 and send state 27 Nov",
    "detail": "Both failed sends (SMTP read timeout, 12:03 and 16:01) are back to approved and unsent; no message is stuck in sending and none is in failed state. Message counts: sent 719, approved 54 (waiting for the 60/day cap, reached 18:56), draft 157, bounced 29, replied 18, skipped 139. Run at 16:13 showed 'failed 2' because of these two.",
    "ref": ""
+  },
+  {
+   "id": "J1572",
+   "at": "2026-11-27T20:12:15+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Inbox scan timeouts 27 Nov",
+   "detail": "follow-up/track failed at 05:36 and 06:51 with 'inbox scan failed: TimeoutError: read operation timed out'; the next run 9-14 min later succeeded each time, and every later track run (to 20:05) is ok. Transient Gmail IMAP slowness, covered by I0106; no replies were missed (later runs found them: 1 reply at 18:25).",
+   "ref": ""
   }
  ]
 }

@@ -14093,6 +14093,15 @@
    "title": "Ran",
    "detail": "0 replies, 0 bounces, 8 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J1567",
+   "at": "2026-11-27T20:05:22+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 0, failed 0. daily cap of 60 speculative notes reached",
+   "ref": ""
   }
  ]
 }

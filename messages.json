@@ -31869,6 +31869,34 @@
    "thread_parent": "<179559896710.59999.1370292265115341799@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1068",
+   "lead_id": "L0508",
+   "contact_id": "C3",
+   "to": "varun@oakter.com",
+   "to_name": "Varun Gupta",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Varun,\n\nOne more thing that may be useful: I drove production planning for the Bharat Cell launch at Ola Electric, and cell yield went from 42% to 67% in two months.\n\nWould someone who has ramped hardware production help at Oakter?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:11:34+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179541121615.2973.16931337740161836466@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

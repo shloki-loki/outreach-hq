@@ -14039,6 +14039,15 @@
    "title": "Spam check 27 Nov: no spam blocks found",
    "detail": "Read-only scan of the sending inbox since 20 Nov: 40 bounce notices, none for spam or reputation. 17 address does not exist, 6 dead domains, 1 mailbox full, the rest delays/timeouts at dead mail servers, 2 Microsoft 550 5.4.1 'recipient address rejected: access denied' (address not in their directory). No Gmail sending-limit or suspension notices. Bounce rate 3.7%, reply rate 3.1% (15 people). Two Google alerts on 26 Nov ('someone else may be trying to access your Google Account data') for Shlok to check. Recipients' spam folders cannot be seen from here.",
    "ref": ""
+  },
+  {
+   "id": "J1561",
+   "at": "2026-11-27T19:07:41+05:30",
+   "by": "claude",
+   "kind": "debug",
+   "title": "Spam test: 9.6/10 on mail-tester",
+   "detail": "With Shlok's OK, sent one copy of a real cold email (M1017, greeting changed to 'Hi there') to mail-tester.com. Score 9.6/10: SPF, DKIM and DMARC pass, not on any blocklist, no risky links. Only real deduction: -0.55 because the address starts with numbers (111shlokagrawal); fixing it needs a new sending address. Plain text and no List-Unsubscribe are noted but fine for one-to-one mail. This scores the email itself; it does not measure Gmail or Outlook inbox placement, which also depends on recipients' reactions.",
+   "ref": ""
   }
  ]
 }

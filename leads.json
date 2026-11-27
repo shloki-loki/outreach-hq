@@ -86542,10 +86542,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C2",
-    "since": "2026-11-26T17:03:40+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -86632,9 +86631,15 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-27T08:20:59+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Richard ichard Kibbey"
     }
    ],
-   "updated_at": "2026-11-26T17:03:40+05:30",
+   "updated_at": "2026-11-27T08:20:59+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

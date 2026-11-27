@@ -132012,9 +132012,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup2 to Kapil Makhija queued (template)"
+    },
+    {
+     "at": "2026-11-27T17:12:09+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to Kapil Makhija"
     }
    ],
-   "updated_at": "2026-11-27T00:05:24+05:30",
+   "updated_at": "2026-11-27T17:12:09+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

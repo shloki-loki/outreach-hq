@@ -1623,6 +1623,20 @@
    "count": 1,
    "remedy": "Cause: Gmail SMTP read timeout at 16:01 on 27 Nov, same as I0115. M0921 (sumit@neuraldefend.com) is back to approved, not sent, and will go on the next run after the daily cap resets. Recurring SMTP timeouts: consider a retry with backoff in the sender.",
    "resolved_at": null
+  },
+  {
+   "id": "I0117",
+   "key": "source-empty:naukri",
+   "agent": "lead-scout",
+   "severity": "warn",
+   "title": "Source 'naukri' returned no jobs",
+   "detail": "naukri: Apify spend this month is $3.55; one more run (up to $0.03) would pass the $3.50 cap",
+   "status": "open",
+   "opened_at": "2026-11-28T02:03:35+05:30",
+   "last_seen": "2026-11-28T02:03:35+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

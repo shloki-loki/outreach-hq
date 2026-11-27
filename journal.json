@@ -14534,6 +14534,15 @@
    "title": "Ran",
    "detail": "6819 jobs read, 305 passed rules, 26 new leads",
    "ref": ""
+  },
+  {
+   "id": "J1616",
+   "at": "2026-11-28T02:03:35+05:30",
+   "by": "lead-scout",
+   "kind": "issue",
+   "title": "Source 'naukri' returned no jobs",
+   "detail": "naukri: Apify spend this month is $3.55; one more run (up to $0.03) would pass the $3.50 cap",
+   "ref": "I0117"
   }
  ]
 }

@@ -292052,15 +292052,15 @@
    "key": "zamp|founder s office strategy and operations|bengaluru",
    "type": "job",
    "company": "Zamp",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "zamp.ai",
+   "company_url": "https://zamp.ai",
    "company_linkedin": "https://www.linkedin.com/company/zamp-ai",
    "company_note": "",
    "title": "Founder's Office - Strategy & Operations",
    "tier": "1 - Strategy & Ops",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4495075470",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-strategy-operations-at-zamp-4495075470",
@@ -292091,8 +292091,8 @@
    },
    "score": {
     "rules": 86,
-    "research": null,
-    "total": 86,
+    "research": 80,
+    "total": 82,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "Bengaluru (+20)",
@@ -292102,15 +292102,58 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Founder's Office at $22M seed-backed Zamp, asks 2-8 yrs exp; your S&Ops and direct CEO/COO work at Ola Electric maps directly.",
+    "fit_notes": "Posting asks 2-8 years in strategy, operations, sales, or startups (MBA is a plus, not required). Shlok's 1.3 years in Strategy & Ops working directly with the CEO/COO at Ola Electric [ceo-coo], running S&OP planning [sop], and optimizing fulfillment operations [o2d], [msl] directly satisfies the core requirements.",
+    "pay_notes": "Pay is not stated in the job posting and no verified compensation evidence was found for Zamp.",
+    "culture_notes": "Backed by a $22M seed round from Sequoia Capital and top tech CEOs; founded by Amit Jain (ex-Sequoia MD, ex-Uber APAC head). No Glassdoor or AmbitionBox ratings were present in the search data.",
+    "hook": "Zamp recently partnered with Commercial Bank of Dubai to power AI-driven operational transformation.",
+    "hook_source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc2VPU2hFQ3pKRzBST09JNjZPeGQ2MDBFRkJqQW01UW1JbVprNUpvOUJpaEN1VFBKeXhiX29rSWtvOHlPd25ycTNMY2g5emdlem8zMUduOHA3WGNSLU9PdU1TbmNyT1RuSlR1SWp6eUVNaTB3SGJPYXI2Rkg3ZTdNcEM2dEZoQ0lBVmtmS0lkLW9XRkJiTmpVQjdLbDlBZXU0bDc2UGJRNFBRQ3NHbUY4blZjbWJMOC1lQU4ycGF6Vm9mRDhXV2QwZU1uSEpWajZDY0FaMg?oc=5",
+    "researched_at": "2026-11-28T03:02:46+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "ZAMP: Revenue and Adjusted EBITDA grew strongly as net loss narrowed and all brands posted above-inflation sales - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQlpaZ295Wm5YUC1mZEo1aEpROUNQNk5GSUYxcWlRQ0NneDhBZVlkSHk1dVZ2UTZzcUw4VTcyZ2toQWh6bTljRTJwdnZaTGRPdTFWZmFJWVZQRExrZWZVMHpScUR2dXBxZ18yQkxWeDJoaG80VGxmUXZ4bk1MUlpPX2U1dDFDT1RDa3ZZemhMX28tUERpQmcxc1ZpZDhENDNfZm1MbE9aYjVuRjNMMDdlSTVSU1NBTW1XSG9MNFlvTjU4cUF3dzlsZXR0VlZOakpnQlo0MHpmc1UxU0k1MlVaelNaTkltOWEwVjhzMG1yVkRQczZrSUdMdTdtVkRObDBfQjdBOG5pV2pEZkZ4amlQN01fdFBzcjR4czJWX0xmMA?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Zamp S.A. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcFhUaUJiVzEwSWNBQ1huQU90cENiQThfTThPRnEtUUZlcS1CZUlFUTBYazZaSXdMQWMzTWVjQVM2eXBma3A4aXNzV2JKNVpKQUpzRGl3dnBtTGM5QWZPN2swbURnODRmdmdqUmhlUW5sLUZobDJQMWhlMGYxbWROdEpIa0daa3pBR2tVaGg2Tml0Zjg5cTMtZkdFS3BoMzZscjE3LXJPTHloclV1X1lCanZ5R3BUck80OHRSRmRGREQwMndZbUFwcmtpRG5DdkI0ZFc3MllfTzIwV1VScXVyM013?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Zamp Extends Its Fully Managed Sales Tax Service to Canada - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjMxcDVLd1RhVUtjZjRrSDRfVmtoYW5tVzQ5ci1rWWpGcWZxS1ktbHg0RXdQUE9SenNNRWt3UEh5VnRkbjVrcmczNV9jdHBhbWlQeE1GTnQ2SjZzbzV4U2czV0pHMkdBUkVaUHFHZno5d1BoSlI2SU0zUkE2UTgtYWtIOGlDeUZNZkl4U2lOeWxKSDZwX1pPYlZHX25kOUFKZXVCTUJvTy1IbVRVR3lyeEhrU1dQdw?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Zamp to Power AI-Driven Operational Transformation at Commercial Bank of Dubai (CBD) - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc2VPU2hFQ3pKRzBST09JNjZPeGQ2MDBFRkJqQW01UW1JbVprNUpvOUJpaEN1VFBKeXhiX29rSWtvOHlPd25ycTNMY2g5emdlem8zMUduOHA3WGNSLU9PdU1TbmNyT1RuSlR1SWp6eUVNaTB3SGJPYXI2Rkg3ZTdNcEM2dEZoQ0lBVmtmS0lkLW9XRkJiTmpVQjdLbDlBZXU0bDc2UGJRNFBRQ3NHbUY4blZjbWJMOC1lQU4ycGF6Vm9mRDhXV2QwZU1uSEpWajZDY0FaMg?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Zamp - AI Employees for Enterprise - yespress.io",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBld3Z5eWtFbUZKSmtHSTF6c3lvdHZfUkVnOHpBNVAtOVg3TUJFUklHelNoSnI5X25SR29rRA?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Zamp stock: Q3 revenue climbs 18.5% as EBITDA rises - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzU0bUQyOFFHbEY4Z1dwdlZldHluVjRYSEFCeEZwbXdyMVBILWE1Q2NSQmU0NGdyT0V2YXdacy16SEpURXhJY3UyVUs2NmpVWWp6LUxMZmNYRXFOREhyLXdLcHNFSDI0bWRRLTA1M0s3MmE3ZlhDRnlSM0FxdFFQTjI2NUxuZjhXTFhPT0UyS1VGZG1pMlNOTmxpQVR6WG12MjIwQXVLQ2xvQkhN?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "ceo-coo",
+     "sop",
+     "o2d",
+     "msl"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -292134,9 +292177,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 86"
+    },
+    {
+     "at": "2026-11-28T03:02:46+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 82: qualified"
     }
    ],
-   "updated_at": "2026-11-27T15:53:17+05:30"
+   "updated_at": "2026-11-28T03:02:46+05:30",
+   "reject_reason": null
   },
   {
    "id": "L2230",

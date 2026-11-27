@@ -13661,6 +13661,15 @@
    "title": "Naukri pages not readable; PwC LinkedIn rate-limited",
    "detail": "Naukri job pages are client-rendered so curl cannot read the JD (L2222 Suguna Manager-Strategy left unresearched, L2224 rejected on pay only). L1618 PwC returned HTTP 429; left unresearched. WebFetch tool not available in this session; used curl for public LinkedIn job pages. Apify not used.",
    "ref": ""
+  },
+  {
+   "id": "J1519",
+   "at": "2026-11-27T09:30:30+05:30",
+   "by": "lead-scout",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "11 researched, 0 qualified, 11 rejected (7 postings removed/404, 3 hard-requirement or pay rejects, 1 pay), 0 emails found; Suguna L2222 and PwC L1618 left unresearched (page unreadable / rate-limited); Apify not used",
+   "ref": ""
   }
  ]
 }

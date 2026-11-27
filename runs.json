@@ -1,41 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-25T04:31:49+05:30",
-   "agent": "research-worker",
-   "ok": true,
-   "summary": "24 researched (2 qualified, 22 rejected), 1 closed postings binned, 14 left for a person, 1 errors (first: Gemini unreachable: The read operation timed out)",
-   "stats": {
-    "researched": 24,
-    "qualified": 2,
-    "rejected": 22,
-    "binned": 1,
-    "left_for_a_person": 14,
-    "errors": 1,
-    "models": {
-     "research": [
-      "gemini-2.5-flash",
-      "gemini-3.8-flash"
-     ],
-     "judge": [
-      "gemini-3.8-flash",
-      "gemini-3.7-flash",
-      "gemini-3.6-flash",
-      "gemini-3.5-flash",
-      "gemini-3.5-flash-lite"
-     ],
-     "reader": [
-      "gemini-3.5-flash-lite",
-      "gemini-3.1-flash-lite",
-      "gemini-3.8-flash",
-      "gemini-3.7-flash",
-      "gemini-3.6-flash",
-      "gemini-3.5-flash"
-     ]
-    }
-   }
-  },
-  {
    "at": "2026-11-25T04:32:06+05:30",
    "agent": "people-finder",
    "ok": true,
@@ -3460,6 +3425,16 @@
     "bounces": 0,
     "settled": 0,
     "followups_due": 8
+   }
+  },
+  {
+   "at": "2026-11-27T18:56:17+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 7, failed 0. daily cap of 60 speculative notes reached",
+   "stats": {
+    "sent": 7,
+    "failed": 0
    }
   }
  ]

@@ -32401,6 +32401,34 @@
    "thread_parent": "<179559610217.57894.17569054341531811244@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1087",
+   "lead_id": "L0532",
+   "contact_id": "C1",
+   "to": "atul@ozonetel.com",
+   "to_name": "Atul Sharma",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Atul,\n\nOne more thing that may be useful: at InsuranceDekho I built a Flask API and a Chrome extension that autofilled forms and saved 30 minutes per case.\n\nWould someone who can build and run ops be useful at Ozonetel?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:13:48+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559620422.57894.18106301917989841249@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

@@ -294847,15 +294847,15 @@
    "key": "happiestminds|program manager insurance|bengaluru",
    "type": "job",
    "company": "Happiest Minds Technologies",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "happiestminds.com",
+   "company_url": "https://www.happiestminds.com",
    "company_linkedin": "https://in.linkedin.com/company/happiest-minds-technologies",
    "company_note": "",
    "title": "PROGRAM MANAGER - Insurance",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4495844506",
    "source_url": "https://in.linkedin.com/jobs/view/program-manager-insurance-at-happiest-minds-technologies-4495844506",
@@ -294871,7 +294871,7 @@
    "first_seen": "2026-11-28",
    "last_seen": "2026-11-28",
    "open": true,
-   "jd": "",
+   "jd": "Senior Program Manager - Insurance Technology\n Years of Experience: 15+ Years\n Job Summary: We are seeking a highly skilled Senior Program Manager with extensive experience in Insurance technology. The ideal candidate will have a strong background in New Business, Underwriting, Claims, Policy Administration, and Digital Transformation across APAC markets. This role requires proven expertise in leading large-scale transformation programs, particularly in underwriting modernization, straight-through processing (STP), policy administration, payment ecosystems, and customer servicing platforms.\n Responsibilities\n Lead and manage large-scale transformation programs within the Insurance sector, ensuring alignment with business objectives and stakeholder expectations.\n Oversee the implementation of technology solutions that enhance New Business, Underwriting, Claims, and Policy Administration processes.\n Drive digital transformation initiatives to improve customer experience and operational efficiency.\n Collaborate with cross-functional teams to develop and execute project plans, timelines, and budgets.\n Facilitate communication between stakeholders, ensuring transparency and alignment throughout the project lifecycle.\n Identify risks and develop mitigation strategies to ensure successful project delivery.\n Monitor project progress and performance, providing regular updates to senior management and stakeholders.\n Mentor and guide project teams, fostering a culture of continuous improvement and innovation.\n Mandatory Skills\n Strong Program Management knowledge with a focus on Life & Health Insurance technology.\n Proven experience in leading large-scale transformation programs.\n Expertise in underwriting modernization, straight-through processing (STP), and policy administration.\n Experience with payment ecosystems and customer servicing platforms.\n Exceptional project management skills, with a track record of delivering projects on time and within budget.\n Strong analytical and problem-solving abilities.\n Excellent communication and interpersonal skills, with the ability to engage and influence stakeholders at all levels.\n Preferred Skills\n Experience working in APAC markets.\n Familiarity with Agile methodologies and tools.\n Knowledge of regulatory requirements and compliance in the insurance industry.\n Experience with digital transformation strategies and technologies.\n Qualifications\n Bachelor's degree in Business Administration, Information Technology, or a related field. A Master's degree is a plus.\n Project Management Professional (PMP) certification or equivalent is highly desirable.\n 10-13 years of relevant experience in program and project management within the Life & Health Insurance sector.\n Insurance\nSeniority level Not Applicable | Employment type Full-time | Industries Information Technology & Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -294886,8 +294886,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 25,
+    "total": 39,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -294897,15 +294897,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Senior Program Manager for Insurance at Happiest Minds, asks 15+ yrs; your 1.3 yrs fall far short.",
+    "fit_notes": "The posting asks for '15+ Years' of experience and '10-13 years of relevant experience in program and project management within the Life & Health Insurance sector'. Shlok has about 1.3 years of experience in Strategy & Operations at Ola Electric [ceo-coo] and no background in insurance technology or program management.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Company: Happiest Minds Technologies. Recent news indicates the company, with AI, will grow by 12.5% [S2], and there has been news regarding a merger/takeover context involving ITC Infotech [S1, S3, S4, S5, S6]. Detailed culture ratings and employee review counts were not found in the evidence.",
+    "hook": "Happiest Minds, with AI, will grow by 12.5%, as noted in recent fintech and tech business reporting.",
+    "hook_source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmNtVHo2cm8wTUxhRlF1bFUzcGZNWjhqY3NLSGVTT0JvekpPeGx1d2I2cFdqd1J1ZlVuWFZGMk0wd2FhS29DYUNGRkhrQ1JFV3h4aDhEb1Nxa2wyTjNlRk53WlRNa3p4UElLcEhDMi1Cb3VqcDZaV1YxN3VneFdjUnhPcFVYemxwWVlKZVhfV25BdU0?oc=5",
+    "researched_at": "2026-11-28T03:12:41+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "The Happiest Minds-ITC Infotech merger explained - Finshots",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2dlT1VkTWdIMXJzc3ZWXzBzMmxlOHBSUno0ZFhYZDFGa3ZwNGVPOVc2OUdPd21ZQXlNLWhaQmhndktnc3lmZUNQVmdHemNCOENoRjdXWnprSWFDaHJNeEVnSTRXS09vaG52Rml5bkNhWjNDQzd3RU9XOW42S3plXzF1NGdvUQ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Happiest Minds, With AI, Will Grow By 12.5% - https://www.fintechbiznews.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmNtVHo2cm8wTUxhRlF1bFUzcGZNWjhqY3NLSGVTT0JvekpPeGx1d2I2cFdqd1J1ZlVuWFZGMk0wd2FhS29DYUNGRkhrQ1JFV3h4aDhEb1Nxa2wyTjNlRk53WlRNa3p4UElLcEhDMi1Cb3VqcDZaV1YxN3VneFdjUnhPcFVYemxwWVlKZVhfV25BdU0?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "ITC Infotech-Happiest Minds Merger Is a Warning Shot for India's Mid-Tier IT - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdWJhU0ItbG53ajVQVjkxSjdNSTBuVm9MUzZWWVNwcWVnLURHUmtQSGpQVU9leHJ4Y0dEYUZrUVNTWTRnWWtwaUpVcTJrQWFuYldjTk4teTNHeDVoZ1F5X2MxVXNzbVhrNVZ5RV85SGV4WGcwSHpNNkxXOERZRDREUHRwdjdDV0twT0ZaSldtU0Z0WE1CaTFCaGtSY0R5ZHQ3VEFuQWp4S1ExNjcyVzdpWDJvaUd5M1JE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Upon listing, Happiest Minds-ITC Infotech combo expected to be valued at ₹18,000 crore - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFhxWEt5Z2xFcVdpR2Fyc2VxaERaRXA1aldhVllPWHNBTFVTeGFCdEp5eXNqbTB3ckYwOHBYTFFzWExMTHBSdHU1ZGtQNmNfQThyTHZJeFFwRW12SnFJZG5VajJva0ItWEJQMGhTNFZJZGNlWmF2aXRUbExSWTdNYVk3NVhRWjBwX3JRRGtqWkdpVUJMWkJXVlQzc19vMEtyOHF0cmMtY0Nhb2V5Z2JCZnNldmxhQ1c2bzRBMnFtdDBBN0RYZXhxdjZSckxTc09iMnBUUzVPU3dnMEtqZ1dB0gHmAUFVX3lxTFB3cjFXMEg2RzZoUGVmV3d4RmFUY0Qxb2FqbTNSLWloTWZrelF4YWE2MzRJOC1mUXVQV25tSWlIZTJqX3lkQVpnLXJnaVZ4YnhielB2U29kOWxSN2oxUWNhYU9yZXNnVlRDZXQyVUlBaG5NTnVLeWo1aVdZZ2kxV0FuLWNSVlVtR3ZMWThRMi1PRVd6cl9XVjYzRVlOczNhMkRqamxtMmVsSVRyczBwNFN5ZUlfOXhzVGdfWE1FRzIzcnZqQjUwMXRDbHZXX184YVFWWERUeVZhM1M5b19CdEoxX3A2MGFR?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "The Happiest Minds-ITC Infotech deal will create a larger technology services player, with ITC Infotech holding nearly 74% of the combined entity. The merger values Happiest Minds at around ₹405, per share, with the combined company targeting $1 billion r - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFFaYXpWcDhDckRHU1RLLU9mTmhrd05DUzlKcFlvdE5rbnpJSl9Zd185ckxjWVZpN3hvRGJ1Wk8wcV9idkdxWnVuTEd4bWVHLUE2ZnBIMkpRYkZySjlDSnFCdkM2MFdVV0lzU1h0Q09LZXYzMHV4blY3QjYwQ2gxSm1SVE5ONWNTcE5UNmg5N3M2clZlTU1OX3hja3ZHcm9iX0VnQVFpTnljeFE?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "ITC Infotech Nears Happiest Minds Takeover: Rs 390-400 Deal, Delisting Likely - NiftyTrader",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUERMSUZRXzZrYU5RT2wzUU5EMGgzT2JxVkRYNnMtSVZOWGZ4R2tFUW5WN3U1Q29QMUgwVVU0LWFpOUxaNF95eDNURHVZeUNBRDY1ZGFvS18zaWYxdlUzRTZWTnF1aGNOMG5rdmlBckxyb2ZWc0tEeEtQZHBFcGVLLWozWjM?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -294929,9 +294967,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-28T03:12:41+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 39: rejected (The posting asks for 15+ years of experience and 10-13 years of relevant experience in insurance program management, which vastly exceeds Shlok's 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-28T02:03:29+05:30"
+   "updated_at": "2026-11-28T03:12:41+05:30",
+   "reject_reason": "The posting asks for 15+ years of experience and 10-13 years of relevant experience in insurance program management, which vastly exceeds Shlok's 1.3 years of experience."
   },
   {
    "id": "L2253",

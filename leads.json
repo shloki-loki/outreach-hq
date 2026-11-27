@@ -199536,7 +199536,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Guwahati, Assam, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4488509866",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-bakersville-india-pvt-ltd-4488509866",
@@ -199572,8 +199572,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 25,
+    "total": 37,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -199583,15 +199583,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "BDM at Bakersville (bakery ingredients), on-site in Rajasthan; field sales role unrelated to your supply chain/S&OP background.",
+    "fit_notes": "The posting asks for BD/sales experience within FMCG, food, or bakery sectors and willingness to travel within Rajasthan. Shlok's background is in S&OP planning, inventory algorithms, and supply chain operations at Ola Electric ([sop], [o2d], [mrp]), which does not match regional food ingredient sales.",
+    "pay_notes": "No pay stated in the posting and no company salary evidence found.",
+    "culture_notes": "No Glassdoor/AmbitionBox ratings or employee review data found in search.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T14:53:43+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Free Medicine Giveaway Coming to Bakersville October 23rd - WKYK",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVlQ2VTBNRGN5MmpodFFVdHZKUlh2TUFOVjN5NmdIWmNwQVp4OHZXMWNZWWdOaU5SVGFQekEwRXBXeW9KbmRXOVd6UEhZVjhPYm1SMFVPU20wUUFFWEhHLVZSUzFQMklpb01IbC1lSXRnLVVwUFRWWFhBYXJCTWZBaXhMclRNaWJqMlA0bHFQdnJnUFJjSVROR2Z0c0ktLW1iOXl2T25OZ1FQOVNocHc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Bakersville Homecoming set for Aug. 6-9 with tractor pulls, chicken barbecue and live music - Your Ohio News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZG12MVpkT2FYUjRTaXZhMmN3QWtUN1Z1bXFwNlVWSkJRWEdLMV9scVdWZ0V2SFlXbUtGMFNTSmp0NjBQZUp5SGxDeUNvdkNCR1FScWF0X2JhTnBrdllsd0NGcGtfMmhVd0NWQVhQY20wOTNTX0lJTkg2UEVKX0NXVUtaR2pqb2dBWDh5WXZPX1E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Generations return to the dirt for Bakersville’s tractor pull season - Coshocton Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd3N6aXRKc240R3ZLNTlQXy04VEtoQWVNM2VlU3pOampYcVcxd1hvc3BXaVFPS3ZvbjhlOEVpQ3ZhaXBaRWZuVFJtS0FNVnlwdmg5N1ZodmUweVZySmhPUHFKSHVlT0NPTHJuVUVKLWRTV0czSUZxQ2JZSFlwVzQwYkE3SC1YY0xCWDlMRVRRVDFHVXJ1OHpnTGJLQS1UUHhOeXhsYW8xejdQZXVZWFF0dENmWFZ1YVFZZ3VWeGlQR1AzcUNGMHlsdHB1YmpScU1oYlZ6R0xJNTQ0TC1DNWhoVmpSRnVCR0oydHpN?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Mitchell High School (Bakersville, NC) Football - MaxPreps",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVG9oZUhlV3p6N2NKNkFxdU1JeEVjU19Zd18wRmlQWS1RY3Y2Z01ydFpIeW94UjV1QUdUNVZTRHhaejN2TGl5dWgxWHdsSnVSRFA1ZU1aZlJqdkFzenMybHFQcEJURTdVTHRfclM5alUzSHZrS0NyQ3Fjaw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Frank \"Astor\" Watson Obituary (2026) - Bakersville, NC - Beam Tri-County Funeral & Cremation Services - Marion - Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHFNQTJpSl9KQkJsQVNxR29mVjJ2QzIwM3FnUUJaTE1Ldm15OUJsbEdJU0duaVBFamVyQVVyUzRoTVVkVzJyS1RqdGo4RVlqZ09lbGd4Rzg2YXdTTDYyanFSWTJsN3ZpdkFDQWZWN2JxdzhnUGxHaklRMnl4VExoUg?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Bakersville dual-language immersion debate sparks tense BOSC exchange - Manchester Ink Link",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2MxVzNodlhaWGt3ZlBoNUtNRHRCb1ctRl9iV3NOV1Z5Um9SMDF5bTdmbERERE5raUJQUW92X0FCR0ZkNmliN1pPaVdhUEIwLVByemg2SHNRR0w3RkNqa0cyU19PUk5lM2x4WEpmR0xrU3Z1bDl2Z0tQRFlEMURtX1YxcnBYNU1QMUtkZ3ZZTzJ4UGxJXzY5YVlya1pRcW1iSlczMQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -199615,14 +199653,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-27T14:53:43+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 37: rejected (The role is an on-site field sales role in Rajasthan/Guwahati for bakery ingredients, requiring domain experience in food/confectionery sectors and regional travel; it is not Bengaluru or remote and does not align with Shlok's tech and supply chain background.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-27T14:53:43+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role is an on-site field sales role in Rajasthan/Guwahati for bakery ingredients, requiring domain experience in food/confectionery sectors and regional travel; it is not Bengaluru or remote and does not align with Shlok's tech and supply chain background."
   },
   {
    "id": "L1467",

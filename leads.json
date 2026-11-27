@@ -284677,7 +284677,7 @@
    "posted_at": "2026-11-26",
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-26",
-   "open": true,
+   "open": false,
    "jd": "",
    "exp_min": null,
    "exp_max": null,
@@ -284736,13 +284736,24 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-27T14:29:04+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-26T15:46:46+05:30",
+   "updated_at": "2026-11-27T14:29:04+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
+   },
+   "bin": {
+    "at": "2026-11-27T14:29:04+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "research-worker"
    }
   },
   {

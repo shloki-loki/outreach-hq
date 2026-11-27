@@ -285545,8 +285545,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 20,
+    "total": 42,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -285556,15 +285556,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Strategy & Special Projects at Piramal Pharma Solutions (Mumbai), but it requires an MBA and 2+ yrs pharma strategy or consulting, which you lack.",
+    "fit_notes": "Requirement for MBA stated in the posting; no pay stated.",
+    "pay_notes": "Not stated, no evidence checked.",
+    "culture_notes": "Not researched; rejected on hard requirement.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T09:28:47+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -285588,14 +285590,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-27T09:28:47+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 42: rejected (Posting (read on LinkedIn today) requires a B.Tech plus MBA from a reputed institute and 2+ years in pharma/chemical strategy, CEO's office or consulting; role is in Mumbai. Shlok has no MBA and no consulting.)"
     }
    ],
-   "updated_at": "2026-11-27T02:15:28+05:30",
+   "updated_at": "2026-11-27T09:28:47+05:30",
    "research_attempt": {
     "at": "2026-11-27T03:28:21+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Posting (read on LinkedIn today) requires a B.Tech plus MBA from a reputed institute and 2+ years in pharma/chemical strategy, CEO's office or consulting; role is in Mumbai. Shlok has no MBA and no consulting."
   },
   {
    "id": "L2196",

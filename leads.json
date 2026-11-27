@@ -98537,7 +98537,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "s.markovich@descope.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 557 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -98588,9 +98588,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Slavik Markovich"
+    },
+    {
+     "at": "2026-11-27T16:45:14+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "s.markovich@descope.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-27T16:27:32+05:30",
+   "updated_at": "2026-11-27T16:45:14+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -98726,9 +98732,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Rudrajeet Siddharth Desai"
+    },
+    {
+     "at": "2026-11-27T16:45:14+05:30",
+     "actor": "follow-up",
+     "event": "auto_reply",
+     "detail": "rudrajeet@workapps.com: Re: Strategy and Ops role | Shlok Agrawal"
     }
    ],
-   "updated_at": "2026-11-27T16:29:40+05:30",
+   "updated_at": "2026-11-27T16:45:14+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -99221,7 +99233,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "bhavesh@tejasai.in",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 566 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -99259,9 +99271,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Gaurav Luhariwala"
+    },
+    {
+     "at": "2026-11-27T16:45:14+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "bhavesh@tejasai.in does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-27T16:36:24+05:30",
+   "updated_at": "2026-11-27T16:45:14+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

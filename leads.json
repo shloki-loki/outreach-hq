@@ -61009,9 +61009,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup2 email to Narinder Kumar"
+    },
+    {
+     "at": "2026-11-27T17:25:39+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to Raman Mittal"
     }
    ],
-   "updated_at": "2026-11-27T16:59:25+05:30",
+   "updated_at": "2026-11-27T17:25:39+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

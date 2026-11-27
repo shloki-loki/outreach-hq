@@ -14174,6 +14174,15 @@
    "title": "Daily review 2026-11-27",
    "detail": "Ran today: lead-scout (09:30, 11 researched, 0 qualified) and scrape (15:53, 22 new leads), research-worker 14:59 (23 researched, 1 qualified, 6 Gemini 503 errors), writer 15:00 (0 drafts, Gemini free quota spent), send-track 16:04 (3 Meesho kits), follow-up 16:15 (48 follow-ups drafted), follow-up/track and send every 20 min, live-check 13:52, digest 17:09, supervisor/check 18:02. Not run: nothing missing. Problems today: Naukri unreadable I0114 (diagnosed), SMTP timeouts M0919 I0115 and M0921 I0116 (diagnosed, both back to approved), two inbox-scan timeouts (I0106, recovered). Changes made by others: max_followups=1 (PR 21, 19:06) after 126 second follow-ups went out on 26-27 Nov; spam check found no blocks; mail-tester 9.6/10. I changed no code. Funnel: 2248 leads, 94 qualified total, 28 applied, 130 contacted, 15 people replied, 1 interview, 0 offers. 766 emails sent (129 today, daily cap of 60 speculative notes reached 18:56), reply rate 3.1%, bounce rate 3.8% (29), under the 5% line. Verifier: Reoon only, no credit count available from CLI. Open issues 35, 0 resolved today; many older ones (Reoon 401, git exit 128, quota) are likely fixed by PR 17 and need a verifying GitHub run before resolving. Needs Shlok: rotate the leaked Reoon key (I0025), check the two Google security alerts from 26 Nov, approve the 157 drafts, decide on a Naukri/Instahyre reader.",
    "ref": ""
+  },
+  {
+   "id": "J1576",
+   "at": "2026-11-27T20:12:34+05:30",
+   "by": "supervisor",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "35 open issues, 0 fixed, 3 diagnosed today, reply rate 3.1%, bounce rate 3.8%",
+   "ref": ""
   }
  ]
 }

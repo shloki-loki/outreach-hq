@@ -294528,7 +294528,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Indore, Madhya Pradesh, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493023122",
    "source_url": "https://in.linkedin.com/jobs/view/founder-s-office-associate-at-hub-of-creators-4493023122",
@@ -294559,8 +294559,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 42,
+    "total": 49,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -294570,15 +294570,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Founder's Office Associate at Hub Of Creators in Indore; location is outside Bengaluru and pay is unknown.",
+    "fit_notes": "The posting asks for a sharp individual to 'join our Founder's Office team' working on 'strategy, operations, and the day-to-day decisions' with no specific years of experience, MBA, or consulting required. While his experience in strategy and operations at Ola Electric [ceo-coo] matches the general scope, the location is Indore, Madhya Pradesh, which fails his location rule (Bengaluru or remote first).",
+    "pay_notes": "Pay is not stated in the posting, and no evidence or salary benchmarks were found in the research notes for Hub Of Creators.",
+    "culture_notes": "No company website, reviews, or news found in the search evidence.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T03:11:23+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -294602,9 +294611,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-28T03:11:23+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 49: rejected (Location is Indore, India (not Bengaluru or remote-first), and pay is not stated with no evidence of reaching the Rs 24.5 LPA threshold.)"
     }
    ],
-   "updated_at": "2026-11-28T02:03:29+05:30"
+   "updated_at": "2026-11-28T03:11:23+05:30",
+   "reject_reason": "Location is Indore, India (not Bengaluru or remote-first), and pay is not stated with no evidence of reaching the Rs 24.5 LPA threshold."
   },
   {
    "id": "L2250",

@@ -478,6 +478,12 @@
     "adarsh@ctrlb.ai"
    ],
    "pattern": "first"
+  },
+  "demisto.com": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

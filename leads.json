@@ -10011,6 +10011,11 @@
      "at": "2026-11-25T13:34:08+05:30",
      "by": "send-track",
      "text": "Send-track 25 Nov: Greenhouse API returns 404 for this posting; likely closed. No application kit made."
+    },
+    {
+     "at": "2026-11-27T16:04:51+05:30",
+     "by": "send-track",
+     "text": "Greenhouse posting 404 on 27 Nov: likely closed; check before drafting."
     }
    ],
    "timeline": [
@@ -10033,7 +10038,7 @@
      "detail": "no longer on the company's job board"
     }
    ],
-   "updated_at": "2026-11-25T13:34:08+05:30",
+   "updated_at": "2026-11-27T16:04:51+05:30",
    "live_check": {
     "at": "2026-11-18T13:05:37+05:30",
     "state": "live",

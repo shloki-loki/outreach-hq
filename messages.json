@@ -31337,6 +31337,34 @@
    "thread_parent": null,
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1049",
+   "lead_id": "L0387",
+   "contact_id": "C1",
+   "to": "anand@leena.ai",
+   "to_name": "Anand Prajapati",
+   "kind": "followup1",
+   "subject": "Re: Ops and strategy help at Leena AI",
+   "body": "Hi Anand,\n\nOne more thing that may be useful: at InsuranceDekho I built a Flask API and a Chrome extension that autofilled forms and saved 30 minutes per case.\n\nWould someone who can build and also run operations be useful at Leena AI?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:08:00+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179558058949.50437.12167661842632620526@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

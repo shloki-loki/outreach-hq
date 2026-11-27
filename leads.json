@@ -69353,7 +69353,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-21T15:59:22+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-27T18:25:15+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -69479,9 +69479,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup2 email to Adarsh Srivastava"
+    },
+    {
+     "at": "2026-11-27T18:25:15+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "adarsh@ctrlb.ai: Please do not spam ________________________________ From: Shlok Agrawal <111shlokagrawal@gmail.com> Sent: 27 November 2026 5:53 PM To: Adarsh Srivastava <adarsh"
     }
    ],
-   "updated_at": "2026-11-27T17:53:51+05:30",
+   "updated_at": "2026-11-27T18:25:15+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

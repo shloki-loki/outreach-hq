@@ -284439,15 +284439,15 @@
    "key": "jookebox|business development associate|bengaluru",
    "type": "job",
    "company": "Jookebox",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "jookebox.com",
+   "company_url": "https://jookebox.com",
    "company_linkedin": "https://in.linkedin.com/company/jookebox",
    "company_note": "",
    "title": "Business Development Associate",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493483918",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-associate-at-jookebox-4493483918",
@@ -284463,23 +284463,23 @@
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-26",
    "open": true,
-   "jd": "",
+   "jd": "Business Development Associate \n Company: Jookebox.com \n Location: Bangalore \n Job Type: Full-time \n Salary - 4L-6L \n About us \n Jookebox is a leading music technology company in the B2B space that specialises in providing innovative solutions for businesses in the horeca and retail industry. We understand the power of music in creating memorable experiences and driving customer engagement. With our cutting-edge technology and curated music library, we offer businesses a comprehensive and customisable music platform that enhances brand identity, atmosphere, and customer satisfaction. \n Job Description: \n As a Business Development Associate at Jookebox, you will play a pivotal role in driving the growth and expansion of our business within the music industry. You will be responsible for identifying new business opportunities, establishing strategic partnerships, and implementing effective sales strategies to maximise revenue and market presence. Your expertise and passion for music, combined with strong business acumen, will contribute to the success of our company. \n HOSPITALITY & RETAIL BACKGROUND PREFERRED. \n Responsibilities: \n l Identify and pursue new business opportunities \n l Build and maintain relationships with key industry partners and decision-makers to foster strategic alliances and drive revenue growth. \n l Develop and implement sales strategies to meet and exceed revenue targets. \n l Conduct market research to identify trends, opportunities, and potential areas for expansion. \n l Analyze market data and competitor activities to develop competitive strategies and differentiate our services. \n l Attend industry events, conferences, and networking functions to represent the company and identify new leads. \n l Stay up-to-date with industry developments, emerging technologies, and trends to identify potential business opportunities. \n Requirement \n l Bachelors degree in Business Administration, Marketing, or a related field. \n l Proven track record of success in business development, preferably within the Horeca & Retail industry. \n l Strong network and existing relationships within the Horeca & Retail industry. \n l Excellent communication, negotiation, and presentation skills. \n l Ability to think strategically and identify innovative solutions to business challenges. \n l Self-motivated and results-oriented, with the ability to work independently and in a team environment. \n l Proficiency in using CRM software and other sales tools. \n If you are passionate about the music industry and want to be part of a dynamic team, we invite you to apply for the Business Development Associate position at Jookebox.com \n We look forward to reviewing your application and potentially welcoming you to our passionate and talented team at Jookebox.\nSeniority level Entry level | Employment type Internship | Industries Musicians",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "stated": "Salary - 4L-6L",
+    "min_lpa": 4.0,
+    "max_lpa": 6.0,
+    "basis": "stated",
+    "source": "posting",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -284489,15 +284489,24 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "B2B music tech BD role at Jookebox, but stated pay is only Rs 4-6 LPA versus your Rs 24.5 LPA target.",
+    "fit_notes": "The posting asks for a Business Development Associate to drive B2B partnerships in the Horeca and retail industries, requiring a 'Bachelors degree in Business Administration, Marketing, or a related field' and proficiency in CRM tools. While Shlok has commercial and leadership experience from Alcheringa [alcheringa], the role is an entry-level sales job with pay stated at Rs 4-6 LPA.",
+    "pay_notes": "The posting explicitly lists salary as '4L-6L' (Rs 4-6 LPA), which is far below Shlok's target of Rs 24.5 LPA.",
+    "culture_notes": "No Glassdoor reviews, company website, or news found in public searches.",
+    "hook": "Jookebox provides curated music tech platforms and solutions specifically tailored for businesses in the Horeca and retail sectors.",
+    "hook_source": "https://in.linkedin.com/jobs/view/business-development-associate-at-jookebox-4493483918",
+    "researched_at": "2026-11-27T14:27:55+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "alcheringa"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -284521,14 +284530,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-27T14:27:55+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (Stated pay of Rs 4-6 LPA is far below Shlok's minimum threshold of Rs 24.5 LPA (violates the under Rs 15 LPA rule).)"
     }
    ],
-   "updated_at": "2026-11-26T15:46:46+05:30",
+   "updated_at": "2026-11-27T14:27:55+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Stated pay of Rs 4-6 LPA is far below Shlok's minimum threshold of Rs 24.5 LPA (violates the under Rs 15 LPA rule)."
   },
   {
    "id": "L2184",

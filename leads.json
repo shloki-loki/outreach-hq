@@ -67370,9 +67370,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup2 email to Abhijeet Saxena"
+    },
+    {
+     "at": "2026-11-27T18:11:50+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to Karan Singla"
     }
    ],
-   "updated_at": "2026-11-27T17:36:10+05:30",
+   "updated_at": "2026-11-27T18:11:50+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

@@ -282138,15 +282138,15 @@
    "key": "amazon|category manager personal computing and iot|bengaluru",
    "type": "job",
    "company": "Amazon",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "amazon.in",
+   "company_url": "https://www.amazon.in",
    "company_linkedin": "https://www.linkedin.com/company/amazon",
    "company_note": "",
    "title": "Category Manager, Personal Computing and IOT",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4479001154",
    "source_url": "https://in.linkedin.com/jobs/view/category-manager-personal-computing-and-iot-at-amazon-4479001154",
@@ -282162,7 +282162,7 @@
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-28",
    "open": true,
-   "jd": "",
+   "jd": "Description\n About the Role:\nAs a Category Manager, you will focus on delivering 5 core focus areas for the brand: Selection, demand generation, catalogue quality, business advice and availability.\nThe person who joins the leadership team in this position must share our passion and commitment for serving our customers. This ideal candidate should have experience in forging and building brand relationships. Some understanding of planning product cycles and selling online is preferred. The right candidate will be flexible, action and results oriented, self-starting and have strong analytical skills. He or she must have a proven track record in taking ownership, driving results and moving with speed to implement ideas in a fast-paced environment. He should be entrepreneurial with the confidence to make independent, data-driven decisions. The candidate must demonstrate the ability to succeed at: planning and forecasting, and driving an online business. The candidate must be an effective communicator in working with some of Amazon’s most important partners and vendors, as well as with internal colleagues and groups.\nKey job responsibilities\n This Person Will Have Responsibility For\n Building selection: Identify selection gaps. Track brand’s offline catalogue to ensure all relevant selection is present on Amazon.\nDemand generation: Responsible for demand generation. This includes working with other members on the category management team to create a marketing calendar based on vendor's objectives\nBusiness Advice: Support participation of brand in Amazon programs\nAvailability: Ensuring continuous availability of products\nCatalogue Quality on Amazon: Ensuring the best input from brand is updated for customer interface on Amazon Detail Pages through perfect Images, Product descriptions, etc.\n Basic Qualifications\n 3+ years of with Excel experience\n 5+ years of retail, operations, product or program management, or business management/consulting with negotiations and delivering results experience\n Experience with financial analysis and P&L ownership\n Bachelor's degree in management, business administration, economics, engineering, marketing\n Preferred Qualifications\n Experience managing large data sets and utilizing to drive performance and process improvements\n Experience in vendor negotiations, pricing and promotion, inventory management, and product development\n Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\nnull\n Company - ASSPL - Karnataka\nJob ID: A10576696\nSeniority level Mid-Senior level | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -282177,8 +282177,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 35,
+    "total": 45,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -282188,15 +282188,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Category Manager at Amazon, asks 5+ yrs experience and P&L ownership; your experience is 1.3 yrs.",
+    "fit_notes": "The posting asks for '5+ years of retail, operations, product or program management, or business management/consulting with negotiations and delivering results experience' and 'Experience with financial analysis and P&L ownership'. While Shlok has operations and S&OP planning experience ([sop], [ceo-coo]), he has only about 1.3 years of total experience, which falls short of the 5+ years minimum requirement.",
+    "pay_notes": "Pay not stated in the posting, and no specific compensation figure for this role is provided in the evidence.",
+    "culture_notes": "Amazon headcount and ratings were not found in the search evidence; flag noted regarding water conservation steps in India amid data centre scrutiny [S3].",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T03:06:21+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "YouTube Shopping Creators can now tag Amazon products - blog.youtube",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOThsdTdVT1hwNy1HSXliRXZoWmdWdWoxMElBUjE4TXZ6WnAyQktvRjhtZ3U4ekxlcWJwWnNwcE9WZi0yX2paMGtpRmJhaFZnZGd3LUdyUGVRa3AxcHlUcG1VbE1QUkRpSU5OWEpXSUdjS3dKclpPVU5WY0IycDQzeWc5allIR1E?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Amazon points to water conservation steps in India amid data centre scrutiny - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXIyRTE5NU9hVTA0ZXhQQ0tsQUF5bjdRUkZYUjg2OE9lbzMtdGJ2d3Vfa3lnMkZaamg3Q3FXdnpiTUk4Nm1YLUdWdTdSaFdiTDVSNHZpcVplQ3p2WDdFV2FoOW5hOFBnYk5ZQUFKUU9KQ0ViekFOcEcwQVUtRnhGLVo4cjdZU2pFVzZOMkVVWWdmZms3TGw3c1kwR0drd0xuUzFPYjNMYmpxV0ctRm1TS2cxMEFXMG9MUmc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "MCP Auto-Execution: From Git Clone to Cloud Compromise in Amazon Q VS Code Extension - wiz.io",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMnY3X1VtaTFaZ3ZJQzdnaHU1ejN5TVUzTy1Ya0RlN25vVmJERUppa2Z3bzdXbEZuSVg3VkRMcFdxdVhVZk5wYk8zSlNkZEd4LS1oeGw0dFRXZw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "The Amazon can be saved — with concerted action inside and outside Brazil - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Mbl8tTTBlQUo0VmRuX1RlLXFLSVBiMHk0LXBPaERKQlBHT3BHM09xTGNYTmEzNFhYR1FrU2ZsbHNDcE1vY3FkVmcxam12NHY5X0dSWm83anZ4RjdpWUR3?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Amazon to invest additional $13 billion in India cloud, AI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjc3RVFRSkZPMUtsVDFNeXp3cFl5dnZ0LVVSd0x6VjlrdXdWUkxmZ1RsQUN4ZTZnbVlSb2w5bDd1UGhoOTBxcXlaS2Y5QkJJNWJJTDVoZkFXYUlLRl85MWhkcUFTcjVLT0VvbVlhaElvZFRqWWU1aXBYV1QzLW1fdnl6RnRXc05qeEZsRGVwYzFydzg?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -282220,9 +282258,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-28T03:06:21+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 45: rejected (The posting requires 5+ years of retail, operations, product/program management or business management/consulting experience, but Shlok has only about 1.3 years of experience.)"
     }
    ],
-   "updated_at": "2026-11-26T02:20:42+05:30",
+   "updated_at": "2026-11-28T03:06:21+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -282232,7 +282276,8 @@
     "at": "2026-11-27T03:35:41+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "The posting requires 5+ years of retail, operations, product/program management or business management/consulting experience, but Shlok has only about 1.3 years of experience."
   },
   {
    "id": "L2143",

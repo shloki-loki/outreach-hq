@@ -32205,6 +32205,34 @@
    "thread_parent": "<179559522369.56875.7196707703673469308@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1080",
+   "lead_id": "L0524",
+   "contact_id": "C1",
+   "to": "apunjani@branceit.com",
+   "to_name": "Anuj Punjani",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Anuj,\n\nOne more thing that may be useful: I designed Ola Electric's Minimum Stock Limit program, which moved us from make-to-order to stock-and-sell and reached 70% serviceability.\n\nWould that kind of inventory design help at Brance?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:12:56+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559533936.56875.2070761200364070534@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

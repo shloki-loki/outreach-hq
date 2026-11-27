@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T22:25:24+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "outside the sending window; 63 approved email(s) wait for the next run",
-   "stats": {}
-  },
-  {
    "at": "2026-11-24T22:45:20+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3381,6 +3374,16 @@
     "bounces": 0,
     "settled": 0,
     "followups_due": 48
+   }
+  },
+  {
+   "at": "2026-11-27T08:21:07+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "stats": {
+    "sent": 10,
+    "failed": 0
    }
   }
  ]

@@ -285267,15 +285267,15 @@
    "key": "valleymedicalcenterclinics|sales operations analyst sales development|bengaluru",
    "type": "job",
    "company": "Valley Medical Center & Clinics",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "linkedin.com",
+   "company_url": "https://in.linkedin.com/jobs/view/sales-operations-analyst-sales-development-at-valley-medical-center-clinics-4495251478",
    "company_linkedin": "https://www.linkedin.com/company/valley-medical-center",
    "company_note": "",
    "title": "Sales Operations Analyst - Sales Development",
    "tier": "3 - APM / Analyst",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4495251478",
    "source_url": "https://in.linkedin.com/jobs/view/sales-operations-analyst-sales-development-at-valley-medical-center-clinics-4495251478",
@@ -285306,8 +285306,8 @@
    },
    "score": {
     "rules": 64,
-    "research": null,
-    "total": 64,
+    "research": 45,
+    "total": 53,
     "reasons": [
      "3 - APM / Analyst role (+18)",
      "Bengaluru (+20)",
@@ -285317,15 +285317,31 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Sales Operations Analyst at LinkedIn (listed under Valley Medical), asks 2+ yrs; your 1.3 yrs falls short.",
+    "fit_notes": "The posting asks for a 'Bachelor's degree in Business, Economics, Engineering, Computer Science, Analytics, Operations, or related field' (which Shlok's B.Tech fits) and '2+ years of experience in Sales Operations, Business Operations, Revenue Operations, or Sales Development'. Shlok has about 1.3 years of total experience at Ola Electric. His SQL skills match the SQL requirement.",
+    "pay_notes": "Pay not stated in the job posting.",
+    "culture_notes": "Company culture and ratings not found in the provided evidence for this specific entity context.",
+    "hook": "Valley Medical Center & Clinics recently joined TPC Membership in October 2026.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZml2Y0JpX3dsSjVtVHI3Ql9MUEtfb09wcWNkTkNKcEtoNVBtMy1CaXIxR2R3OFFlVnN1Q01sSEt0OTdVTXN4dUVvZk0wbHdsMzJGTEtOdXFtYXQwQ0twNTItVjRBNVBUbFB3dUZrRWhpa0FLSHJCdDdGdERjb3NaazZHTmV1Y2p0ay00cnNDZVltTVFQQmFIeHpyb0cyQnhNMXM1UkFCdzM3amtVcmY2T1pCcjZjWXhrTnZOaXJJdTE2ZkxOcGI2VnNoYw?oc=5",
+    "researched_at": "2026-11-28T03:05:04+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Valley Medical Center & Clinics Joins TPC Membership - 425 Business",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZml2Y0JpX3dsSjVtVHI3Ql9MUEtfb09wcWNkTkNKcEtoNVBtMy1CaXIxR2R3OFFlVnN1Q01sSEt0OTdVTXN4dUVvZk0wbHdsMzJGTEtOdXFtYXQwQ0twNTItVjRBNVBUbFB3dUZrRWhpa0FLSHJCdDdGdERjb3NaazZHTmV1Y2p0ay00cnNDZVltTVFQQmFIeHpyb0cyQnhNMXM1UkFCdzM3amtVcmY2T1pCcjZjWXhrTnZOaXJJdTE2ZkxOcGI2VnNoYw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -285349,9 +285365,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 64"
+    },
+    {
+     "at": "2026-11-28T03:05:04+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 53: rejected (The role asks for 2+ years of experience in Sales Operations, Business Operations, Revenue Operations, or Sales Development, but Shlok has only about 1.3 years of total experience.)"
     }
    ],
-   "updated_at": "2026-11-26T15:46:46+05:30",
+   "updated_at": "2026-11-28T03:05:04+05:30",
    "research_attempt": {
     "at": "2026-11-27T03:31:19+05:30",
     "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
@@ -285361,7 +285383,8 @@
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role asks for 2+ years of experience in Sales Operations, Business Operations, Revenue Operations, or Sales Development, but Shlok has only about 1.3 years of total experience."
   },
   {
    "id": "L2170",

@@ -294737,15 +294737,15 @@
    "key": "materialdepot|program manager retail|bengaluru",
    "type": "job",
    "company": "Material Depot",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "materialdepot.in",
+   "company_url": "https://materialdepot.in",
    "company_linkedin": "https://in.linkedin.com/company/materialdepot",
    "company_note": "",
    "title": "Program Manager - Retail",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4495311153",
    "source_url": "https://in.linkedin.com/jobs/view/program-manager-retail-at-material-depot-4495311153",
@@ -294761,7 +294761,7 @@
    "first_seen": "2026-11-28",
    "last_seen": "2026-11-28",
    "open": true,
-   "jd": "",
+   "jd": "Program Manager – Retail\nWhat you'll do\nRetail excellence & governance\n Define, document and roll out SOPs for every customer-facing process, from walk-in to order to follow-up.\n Run the operating cadence: daily performance tracking, weekly reviews with centre leadership and monthly business reviews.\n Run compliance audits and service-standard checks across centres, and drive the fixes to closure.\n Track issues and actions from every review, with owners and deadlines, until they are resolved.\n Performance management\n Build and own the retail KPI framework (revenue, footfall, conversion, order value, productivity) and the dashboards leadership uses to run the business.\n Produce the weekly and monthly business review packs: what moved, why it moved and what to do next.\n Track profitability for each centre (gross margin, operating costs, contribution) and build turnaround plans for centres that are underperforming.\n Planning & incentives\n Run annual, quarterly and monthly target setting with leadership, broken down to each centre and each salesperson.\n Design sales incentive schemes that reward the right behaviours, model what they will cost, and own the monthly payout process with Finance and HR.\n Customer experience\n Own customer experience metrics (NPS, feedback, complaints). Find the root causes and fix them at the process level.\n Drive CRM adoption and data discipline so every lead gets a timely, high-quality follow-up.\n Strategic initiatives\n Find, pilot and scale initiatives that improve conversion, productivity or customer experience.\n Lead retail-tech projects (CRM enhancements, call tracking, AI-led conversation insights, in-store analytics) through business case, vendor selection, pilot, rollout and adoption.\n Work with category, marketing and supply chain teams on high-margin category growth, footfall programs and clearing blockers on the floor.\n Who you are\n 2–4 years in program management, retail operations or business ops, ideally in multi-location retail, omnichannel or consumer businesses.\n You use AI tools to automate reporting, analyse data and build trackers and workflows. You get leverage from AI, not just help writing emails.\n Comfortable with data: spreadsheets and dashboards are second nature. SQL is a plus.\n You handle stakeholders across centre teams, leadership and central functions, and you are as comfortable on the shop floor as in a review meeting.\n Structured problem-solver with a strong bias to action and follow-through.\n Location: Bengaluru. Travel to Experience Centres expected.\nSeniority level Not Applicable | Employment type Full-time | Industries Retail",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -294776,8 +294776,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 72,
+    "total": 67,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -294787,15 +294787,26 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Program Manager - Retail at Material Depot in Bengaluru, asks 2-4 yrs; your S&OP and fulfillment operations work maps directly.",
+    "fit_notes": "The posting asks for \"2–4 years in program management, retail operations or business ops, ideally in multi-location retail, omnichannel or consumer businesses\" and mentions \"SQL is a plus\". Shlok has about 1.3 years of experience, which is just below the 2-year lower bound, but his heavy ownership of S&OP, inventory governance, dashboards, and retail-tech projects at Ola Electric closely matches the retail operations and program management requirements. No MBA or consulting required.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "No company reviews or ratings found.",
+    "hook": "Defining, documenting, and rolling out SOPs for customer-facing processes from walk-in to order to follow-up as outlined in your Program Manager - Retail role.",
+    "hook_source": "https://in.linkedin.com/jobs/view/program-manager-retail-at-material-depot-4495311153",
+    "researched_at": "2026-11-28T03:12:16+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "rebalance"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "qualified",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -294819,9 +294830,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-28T03:12:16+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 67: qualified"
     }
    ],
-   "updated_at": "2026-11-28T02:03:29+05:30"
+   "updated_at": "2026-11-28T03:12:16+05:30",
+   "reject_reason": null
   },
   {
    "id": "L2252",

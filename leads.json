@@ -199683,7 +199683,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489871602",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-violet-info-4489871602",
@@ -199699,7 +199699,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-20",
    "open": true,
-   "jd": "",
+   "jd": "We are seeking a dynamic and results-driven Business Development Manager to join our team in Maharashtra. The ideal candidate will be responsible for driving business growth and expanding our market presence in the region. This role requires a strategic thinker with a strong background in enterprise sales and a passion for building relationships with clients. Key Responsibilities: - Develop and implement effective business development strategies to achieve sales targets. - Identify and pursue new business opportunities within the education technology sector, focusing on platforms such as Disprz, Tenneo, G-Cube, and others. - Build and maintain strong relationships with key stakeholders and clients to foster long-term partnerships. - Conduct market research to identify trends and opportunities for growth. - Collaborate with cross-functional teams to ensure alignment in sales strategies and customer satisfaction. - Prepare and deliver compelling presentations to potential clients, showcasing our solutions and value proposition. - Monitor and report on sales performance metrics, adjusting strategies as necessary to meet objectives. Required Skills: - Proven experience in business development or sales management, preferably in the education technology sector. - Strong understanding of enterprise sales processes and methodologies. - Excellent communication and interpersonal skills, with the ability to engage and influence stakeholders at all levels. - Ability to work independently and as part of a team in a fast-paced environment. - Proficiency in using CRM software and sales analytics tools. If you are a motivated professional with a passion for driving business success and a desire to make an impact in the education technology space, we encourage you to apply for this exciting opportunity.\nThis job is provided by Shine.com\nSeniority level Not Applicable | Employment type Full-time | Industries Staffing and Recruiting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -199714,8 +199714,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -199725,15 +199725,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "BD Manager at Violet Info in Mumbai; requires enterprise EdTech sales experience that Shlok lacks, and is based outside Bengaluru.",
+    "fit_notes": "The posting asks for 'Proven experience in business development or sales management, preferably in the education technology sector' and 'Strong understanding of enterprise sales processes'. Shlok's 1.3 years of experience is in Strategy & Operations/Supply Chain ([sop], [ceo-coo], [msl]) without B2B enterprise software/EdTech sales background.",
+    "pay_notes": "No pay details provided in posting or evidence.",
+    "culture_notes": "No verified employee reviews or ratings found for Violet Info.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T14:55:51+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -199757,14 +199764,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-27T14:55:51+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (Requires proven B2B enterprise sales experience in the EdTech sector which Shlok lacks, and is located in Mumbai rather than Bengaluru or Remote.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-27T14:55:51+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Requires proven B2B enterprise sales experience in the EdTech sector which Shlok lacks, and is located in Mumbai rather than Bengaluru or Remote."
   },
   {
    "id": "L1468",

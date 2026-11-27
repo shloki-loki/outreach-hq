@@ -31701,6 +31701,34 @@
    "thread_parent": "<179559813771.59999.12889971889231292680@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1062",
+   "lead_id": "L0495",
+   "contact_id": "C1",
+   "to": "mayank.sharma@unomer.com",
+   "to_name": "Mayank Sharma",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Mayank,\n\nOne more thing that may be useful: I implemented SAP MRP from scratch at Ola Electric, which cut stock-outs by 20% and raw material inventory by 25%.\n\nWould that kind of supply-side work help at Unomer?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:10:54+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559834818.59999.2016958407371188885@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

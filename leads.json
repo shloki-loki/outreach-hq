@@ -67708,9 +67708,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup2 email to Alok Thakur"
+    },
+    {
+     "at": "2026-11-27T18:20:54+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to Vinay Singh"
     }
    ],
-   "updated_at": "2026-11-27T18:13:51+05:30",
+   "updated_at": "2026-11-27T18:20:54+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

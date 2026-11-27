@@ -68712,9 +68712,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup2 email to Kuldip Ghosh"
+    },
+    {
+     "at": "2026-11-27T18:25:43+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup2 email to Indraneel Chakravarty"
     }
    ],
-   "updated_at": "2026-11-27T17:47:05+05:30",
+   "updated_at": "2026-11-27T18:25:43+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

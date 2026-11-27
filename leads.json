@@ -289219,8 +289219,8 @@
     "why": "LinkedIn rate limit; skipped this run"
    },
    "research_attempt": {
-    "at": "2026-11-27T14:36:42+05:30",
-    "why": "error: Gemini unreachable: The read operation timed out",
+    "at": "2026-11-28T03:08:16+05:30",
+    "why": "model answer failed the checks: hook_source must be exactly the posting URL or one of the numbered source URLs",
     "by": "research-worker"
    }
   },

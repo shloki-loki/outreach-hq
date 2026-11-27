@@ -14147,6 +14147,15 @@
    "title": "Inbox scan timeouts 27 Nov",
    "detail": "follow-up/track failed at 05:36 and 06:51 with 'inbox scan failed: TimeoutError: read operation timed out'; the next run 9-14 min later succeeded each time, and every later track run (to 20:05) is ok. Transient Gmail IMAP slowness, covered by I0106; no replies were missed (later runs found them: 1 reply at 18:25).",
    "ref": ""
+  },
+  {
+   "id": "J1573",
+   "at": "2026-11-27T20:12:18+05:30",
+   "by": "supervisor",
+   "kind": "note",
+   "title": "Gemini free quota used up by 15:00 on 27 Nov",
+   "detail": "The writer stopped early at 15:00: free quota used on gemini-3.5 to 3.8-flash, 0 new drafts. research-worker at 14:59 had 6 errors with Gemini 503. 157 drafts are already waiting for approval, so nothing is starved, but new drafting will wait until the quota resets.",
+   "ref": ""
   }
  ]
 }

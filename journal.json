@@ -14156,6 +14156,15 @@
    "title": "Gemini free quota used up by 15:00 on 27 Nov",
    "detail": "The writer stopped early at 15:00: free quota used on gemini-3.5 to 3.8-flash, 0 new drafts. research-worker at 14:59 had 6 errors with Gemini 503. 157 drafts are already waiting for approval, so nothing is starved, but new drafting will wait until the quota resets.",
    "ref": ""
+  },
+  {
+   "id": "J1574",
+   "at": "2026-11-27T20:12:22+05:30",
+   "by": "supervisor",
+   "kind": "note",
+   "title": "Workflows 27 Nov healthy",
+   "detail": "gh run list: all 15 latest runs success (Founder emails, Supervisor checks, Morning digest, Track and send 14m39s at 11:28 UTC, Lead scout, Research and write, Live check, Tests for PR 21). Data branch log shows no repair commits and no interleaved same-second commits; claim/sent pairs are 2 s apart, normal. Not run: no scheduled-run Apify, so linkedin_post lead source did not refresh.",
+   "ref": ""
   }
  ]
 }

@@ -13751,6 +13751,15 @@
    "title": "Ran",
    "detail": "6817 jobs read, 315 passed rules, 22 new leads",
    "ref": ""
+  },
+  {
+   "id": "J1529",
+   "at": "2026-11-27T16:01:28+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "Sending M0921 failed",
+   "detail": "SMTPServerDisconnected: Connection unexpectedly closed: The read operation timed out",
+   "ref": "I0116"
   }
  ]
 }

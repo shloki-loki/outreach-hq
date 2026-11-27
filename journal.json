@@ -13697,6 +13697,15 @@
    "title": "Template founder-v2: 4 emails queued",
    "detail": "1412 addresses left after today; refused 0",
    "ref": "M1045"
+  },
+  {
+   "id": "J1523",
+   "at": "2026-11-27T12:03:39+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "Sending M0919 failed",
+   "detail": "SMTPServerDisconnected: Connection unexpectedly closed: The read operation timed out",
+   "ref": "I0115"
   }
  ]
 }

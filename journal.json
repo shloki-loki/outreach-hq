@@ -14021,6 +14021,15 @@
    "title": "Ran",
    "detail": "sent 0, failed 0. daily cap of 60 speculative notes reached",
    "ref": ""
+  },
+  {
+   "id": "J1559",
+   "at": "2026-11-27T19:06:14+05:30",
+   "by": "claude",
+   "kind": "update",
+   "title": "One follow-up only",
+   "detail": "Shlok asked for a single follow-up per person (a second one annoys people). max_followups = 1. Second follow-ups can no longer be queued, drafted or sent; an approved one is skipped at send time. 126 second follow-ups had already gone out on 26-27 Nov under the old setting. Merged PR 21, shared folder pulled.",
+   "ref": "aa9785cd"
   }
  ]
 }

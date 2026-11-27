@@ -1607,7 +1607,7 @@
    "opened_at": "2026-11-27T12:03:39+05:30",
    "last_seen": "2026-11-27T12:03:39+05:30",
    "count": 1,
-   "remedy": "",
+   "remedy": "Cause: Gmail SMTP dropped the connection mid-send (read timeout) at 12:03 on 27 Nov. M0919 (lalit@clearfeed.ai) is back to approved and unsent; the send-track/send run will retry it once the 60/day cap resets tomorrow. Same pattern as I0102-I0108. Nothing for Shlok to press; Retry on the Approvals page is optional.",
    "resolved_at": null
   },
   {

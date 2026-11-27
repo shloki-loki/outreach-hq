@@ -14111,6 +14111,15 @@
    "title": "Diagnosis: Naukri JDs unreadable by curl; WebFetch missing in scheduled run",
    "detail": "Cause: Naukri pages render in the browser with JavaScript, so curl in a scheduled session sees no job text, and WebFetch is not offered in scheduled runs (same root cause as I0012, I0039, I0112). Remedy for Shlok: either let the scout read Naukri through the built-in browser, or approve a small Apify Naukri actor within the 3.50 USD cap. Until then Naukri leads (L2222 Suguna) stay unresearched; no harm.",
    "ref": "I0114"
+  },
+  {
+   "id": "J1569",
+   "at": "2026-11-27T20:12:06+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Sending M0919 failed",
+   "detail": "Cause: Gmail SMTP dropped the connection mid-send (read timeout) at 12:03 on 27 Nov. M0919 (lalit@clearfeed.ai) is back to approved and unsent; the send-track/send run will retry it once the 60/day cap resets tomorrow. Same pattern as I0102-I0108. Nothing for Shlok to press; Retry on the Approvals page is optional.",
+   "ref": "I0115"
   }
  ]
 }

@@ -32261,6 +32261,34 @@
    "thread_parent": "<179559543800.56875.9378229347965756431@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1082",
+   "lead_id": "L0527",
+   "contact_id": "C1",
+   "to": "ambuj@simbian.ai",
+   "to_name": "Ambuj Kumar",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Ambuj,\n\nOne more thing that may be useful: at InsuranceDekho I built a Flask API and a Chrome extension that autofilled forms and saved 30 minutes per case.\n\nWould someone who can build and run ops be useful at Simbian?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:13:09+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559573556.57894.4178230830300745366@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

@@ -292450,9 +292450,11 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Why this role (cover note)": "Building autonomous operations for enterprise finance and banking processes requires turning messy workflows into dependable execution. That's the work I've spent the past year doing in strategy and operations at Ola Electric, partnering directly with the CEO and COO on fulfilment. When scooter dispatches were slipping, order-to-delivery took 32 days; I designed the algorithm grouping truck dispatches into lots, bringing it down to 14. With Zamp recently partnering with Commercial Bank of Dubai to power AI-driven operational transformation, I'd bring that same ground-level rigor to customer implementation and process delivery."
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -292476,9 +292478,15 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 82: qualified"
+    },
+    {
+     "at": "2026-11-28T03:16:18+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-28T03:02:46+05:30",
+   "updated_at": "2026-11-28T03:16:18+05:30",
    "reject_reason": null
   },
   {

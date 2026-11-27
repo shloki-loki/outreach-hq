@@ -277038,7 +277038,7 @@
    "posted_at": "2026-11-25",
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-27",
-   "open": true,
+   "open": false,
    "jd": "Location: Mumbai\n Experience: 0–1 year / Freshers welcome\n Work Mode: On-site\n About the Role\n We’re looking for a Founder’s Office who is proactive, organised, and eager to learn. You’ll work closely with the founder and core team across business, operations, research, and strategic projects, gaining exposure to how a fast-growing company operates.\n Key Responsibilities\n Assist the Founder and core team with day-to-day tasks and strategic projects .\n Conduct research on brands, competitors, markets, and industry trends.\n Prepare presentations, reports, trackers, and business documents.\n Coordinate with internal teams and follow up on important tasks.\n Track project timelines, deliverables, and action items.\n Assist with meetings, including taking notes and tracking follow-ups.\n Support business development and new growth initiatives.\n Help identify opportunities for improving internal processes.\n Handle ad-hoc tasks and projects assigned by the Founder’s Office.\n What We’re Looking For\n Strong communication and organisational skills .\n Proactive attitude with the ability to take ownership.\n Good research and analytical skills.\n Strong attention to detail.\n Comfortable working in a fast-paced environment.\n Good knowledge of Google Sheets, Docs, and PowerPoint/Canva .\n Ability to multitask and manage deadlines.\n Someone who is curious, adaptable, and willing to learn.",
    "exp_min": null,
    "exp_max": null,
@@ -277109,11 +277109,17 @@
      "actor": "lead-scout",
      "event": "reopened",
      "detail": "posting is live again"
+    },
+    {
+     "at": "2026-11-28T03:05:33+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-27T15:53:17+05:30",
+   "updated_at": "2026-11-28T03:05:33+05:30",
    "bin": {
-    "at": "2026-11-26T03:42:23+05:30",
+    "at": "2026-11-28T03:05:33+05:30",
     "reason": "the posting says \"No longer accepting applications\"",
     "by": "research-worker"
    }

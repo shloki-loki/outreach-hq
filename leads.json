@@ -287110,7 +287110,7 @@
    "key": "one97communications|business operations manager telco|india",
    "type": "job",
    "company": "One97 Communications Limited",
-   "company_domain": "",
+   "company_domain": "paytm.com",
    "company_url": "",
    "company_linkedin": "https://in.linkedin.com/company/one97-communications-limited",
    "company_note": "",
@@ -287118,7 +287118,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Noida, Uttar Pradesh, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4433586509",
    "source_url": "https://in.linkedin.com/jobs/view/business-operations-manager-telco-at-one97-communications-limited-4433586509",
@@ -287134,7 +287134,7 @@
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27",
    "open": true,
-   "jd": "",
+   "jd": "About the Role: \n We are seeking a Business Operations Manager to drive end-to-end operations for our Telecom Value-Added Services (VAS) business. The role will be responsible for ensuring seamless execution of telecom operations, managing operator relationships, coordinating with cross-functional teams, and driving operational excellence across business initiatives. \n Key Responsibilities: \n - Own and manage end-to-end business operations for Telecom VAS products and services. \n - Act as the primary point of contact for telecom operator partners and ensure smooth execution of day-to-day operations. \n - Build and maintain strong relationships with key stakeholders across telecom operators and internal teams. \n - Monitor operational performance, identify issues proactively, and drive timely resolution. \n - Coordinate with Product, Technology, Content, Finance, and other cross-functional teams to ensure seamless service delivery. \n - Manage operator onboarding, service launches, and ongoing operational requirements. \n - Track business KPIs, prepare operational reports, and provide actionable insights to leadership. \n - Drive process improvements to enhance operational efficiency and customer experience. \n - Ensure adherence to SLAs, governance frameworks, and business commitments. \n - Support revenue growth initiatives by working closely with business and partnership teams. \n Qualifications & Experience: \n - Bachelor's degree in Business, Engineering, Telecommunications, or a related field. \n - 7+ years of overall experience with at least 3 years of relevant experience in Telecom VAS, Telecom Operations, Business Operations, or Account Management. \n - Proven experience in managing telecom operator relationships and business operations. \n - Strong understanding of Telecom Value-Added Services (CRBT, Digital Content, Subscription Services, or related telecom products). \n - Experience working with multiple stakeholders in a fast-paced business environment. \n Required Skills: \n - Business Operations ManagementTelecom VAS Domain Knowledge \n - Stakeholder & Client Management \n - Account ManagementService Delivery & Operations Excellence \n - Problem Solving & Analytical Thinking \n - Cross-functional Collaboration \n - Reporting & Performance Monitoring \n - Excellent Communication and Relationship Management Skills \n Preferred Experience: \n - Experience working with telecom operators and managing operator-led business initiatives. \n - Exposure to CRBT and other digital telecom service ecosystems. \n - Experience handling large-scale operational programs and business-critical deployments. \n What Success Looks Like: \n - Smooth and efficient execution of telecom business operations. \n - Strong stakeholder relationships and operator satisfaction. \n - Timely delivery of operational commitments and service launches. \n - Continuous improvement in operational performance and business outcomes. \n We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\nSeniority level Not Applicable | Employment type Full-time | Industries Technology, Information and Internet",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -287149,8 +287149,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 20,
+    "total": 36,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -287160,15 +287160,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Business Operations Manager at Paytm (One97) in Noida; asks 7+ years experience, exceeding your 3-year threshold.",
+    "fit_notes": "The posting requires '7+ years of overall experience with at least 3 years of relevant experience in Telecom VAS, Telecom Operations, Business Operations'. While Shlok has operations experience [sop, ceo-coo], 7+ years minimum experience triggers an immediate reject under his strict 3-year cap rule.",
+    "pay_notes": "Pay is not stated in the job posting and no company-specific salary evidence was provided.",
+    "culture_notes": " culture ratings or reviews were provided in the search evidence.",
+    "hook": "One97 Communications originally started in 2000 as a telecom value-added services company founded by Vijay Shekhar Sharma before expanding into digital payments.",
+    "hook_source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYURjcU9kLWZGeXFDaFgwS000SzFMdXAwZUlmNW9LbWRYN19yc3J4RnZUVEN4MF81aDNmYzN0RVNXNi1hd2Zqb1M4OENYekxxeUdESjZ5RlVtTFVxaVRQSkJXRmdzYjBKeEN6WmJCekR2NmRzbnM2enpsNWRpVmpyLVVoTnpRLXdaTWtTYTRCdE1HLVJBTldpN0tqa3E1M0VpSjA1T0FWYmlOWG1fb3FTSjl6MV9LbDZMWTVkQw?oc=5",
+    "researched_at": "2026-11-27T14:38:10+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "One97 Communications to infuse ₹100 cr in wealth tech arm Paytm Money - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHNyM2ljMUxfR05ZODhyTkl3aVAyai1KUjluNlpBZWl3QjlUTjEwZ3RfYy1FYW5qcUJ5ZzJkOTZHazdwN0YxZ09kNHEtZUhKdF9JdHkyNnowQjA4d1AzNGFIV3NMaE9Xa2RnOVAtMjd3NFpLQnZXeURNaGEwOURIZENHSmNVTjV2Rjg0TUU0LWltRVREN2l0djVKTWpXcFhQZTdzLUJlbTRvWU1FaV9Ca1VzNDYwTzFiWmJZUlAwSmtrLUJBR2dkeVVYblRXNWtzUGJj0gHYAUFVX3lxTE1OTk0xS0lEVDd2TVRtME8ta3ZJRjFMc3FPT1ZzUEdxVlJFaHhWb3B0Z1BxTC1jMXBuYnFIV3ZDVnFfVnhjNjE3RG5sVk8zUUtzbU11R3pObWhMM21UWkswa01xNzV1SmlkaU9aSGhIcTBWX2FYVEwxSjVKTFYyMkVDbGUwWTd4QkFNOUMteHlPQXE4LXdTN2pCaXd6NlRkc3pQd3pTa2pQU0dNRjB4eUJCdTBjOGRGcDAtdUc3NTBraDlqMksyRkdvdlBXdWp5NnlwV29LWl85ag?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "CAM Advises Elevation Capital and SAIF on One97 Communications Block Sale | SCC Times - SCC Online",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3Q2VjlydjVnZU5Ib1BaSVpCelFSM2EzTGJZV0xjVEdTaXp3cWlXM1Nod19yV01reVNPX2hiOVEtcFFyb0VBdmVYUTB3aXdrVENIbllNSHNVbzhxMWJZdmFudldqbGltbVZUcmdoOW5NQm51dmZ0NHowVnRMY3hlRWpIVVZ0eDNES1I2cGRjaEZvMk9nSldIakFKWFNxbVRpdmoyLXR6TG91R1VkQUNaQzl2MHZmVEVTSmdpSDlJRFFWRVY4QU8w?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "One97 Communications Limited (PAYTM.NS) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Vay1JbzVQZGtlY1JzOWNHRXVlb3hJWVBpUlZLWU80d0lVSmVYTTRPWUlqbUl1X084akRwcHBsOV9XV3dfYzNaNVZxVHgyQ2tweFRzTkFlQ20zSkdIeEp2dmpCeVdpbnc?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "One97 Communications Q2 2027 Earnings Call Is Live - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUtuWFpYREFRU3VYeVZHWlJnLXNqVFhfRk9MT2dudktLeFJoT1c2Z1NldXhfUm4wOVhGdHRDc2hEUWs5WFRmdFNqWVU4dVdpV09FeDY2S1I5Y3FDd3ozOWhjbTl1TXB1aXdqWW1yUHNmZndfSzh2ZFRvZVQ3ODN6SFhieW1yTVNCWjdacks1M1ZjQndnQ1FvZlhjTHo5QldXLUZlWnhQUnZsS2ZsbXlpZk5jWHBNLV9HYjUw?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Long before QR codes became ubiquitous across Indian streets, Vijay Shekhar Sharma was laying the groundwork for the country’s mobile and digital ecosystem. In 2000, he founded One97 Communications—a telecom value-added services company that w - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYURjcU9kLWZGeXFDaFgwS000SzFMdXAwZUlmNW9LbWRYN19yc3J4RnZUVEN4MF81aDNmYzN0RVNXNi1hd2Zqb1M4OENYekxxeUdESjZ5RlVtTFVxaVRQSkJXRmdzYjBKeEN6WmJCekR2NmRzbnM2enpsNWRpVmpyLVVoTnpRLXdaTWtTYTRCdE1HLVJBTldpN0tqa3E1M0VpSjA1T0FWYmlOWG1fb3FTSjl6MV9LbDZMWTVkQw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "One97 Communications Limited Reports Earnings Results for the First Quarter Ended June 30, 2026 - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNnNZQ3RQbkw1VnFqZGtMRnd0c25ERXM3Q1hONEltcnFFTTFEOURBWHhKeTZ2ZEwzNGw4anNlY1BUXzQ5dGRaWno1bld2VGsxWWdwZ3Q0eGxrejNlR2F5UWxTYXozU1RLdEp1QnRwOUZuem5RclhpQUxpcTkwZ3ZjazNVd3RkMFhxaXFvOHNESjI4M090WXpnbjlCelRyVHV5TGpyZktZTjYyUVEtUWJJbnpCNnBOejVIN09uM3B5allNWnYyNlVaOGVUMTlzNzVqSkFuVUlTUllfTm05enVzZw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -287192,14 +287233,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-27T14:38:10+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 36: rejected (Requires 7+ years of overall experience, which far exceeds Shlok's maximum threshold of 3 years.)"
     }
    ],
-   "updated_at": "2026-11-27T02:15:28+05:30",
+   "updated_at": "2026-11-27T14:38:10+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Requires 7+ years of overall experience, which far exceeds Shlok's maximum threshold of 3 years."
   },
   {
    "id": "L2206",

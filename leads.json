@@ -95664,9 +95664,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sanjay Jain"
+    },
+    {
+     "at": "2026-11-27T09:25:29+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Mainak Trivedi"
     }
    ],
-   "updated_at": "2026-11-27T09:09:09+05:30",
+   "updated_at": "2026-11-27T09:25:29+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

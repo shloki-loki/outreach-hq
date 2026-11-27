@@ -293021,7 +293021,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4495082693",
    "source_url": "https://in.linkedin.com/jobs/view/d2c-city-growth-manager-at-rapro-solutions-4495082693",
@@ -293037,23 +293037,23 @@
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27",
    "open": true,
-   "jd": "",
+   "jd": "D2C City Growth Manager \n 📍 Location: Bangalore (Field + Hub-Based)\n 💼 Experience: 5-10 Years\n 🏢 Industry: D2C Dairy / Food / Quick Commerce / FMCG\n 🎓 Qualification: Graduate (MBA Preferred) \n 💰 CTC - Up to 10 LPA\n About the Role \n We are looking for a highly driven D2C City Growth Manager to lead subscriber acquisition, customer retention, community activations, and city-level growth initiatives in Bangalore. The role combines on-ground execution with data-driven decision-making and requires ownership of customer acquisition, subscription growth, and revenue generation. \n Key Responsibilities \n Manage subscription operations, delivery tracking, route scheduling, and customer lifecycle management. \n Plan and execute weekend sampling activities and community engagement programs at residential societies and gated communities. \n Build relationships with RWAs and housing communities to drive large-scale customer acquisition. \n Manage prepaid wallet systems, customer balances, renewals, and retention initiatives. \n Monitor customer cohorts, churn trends, and subscription performance metrics. \n Execute hyperlocal digital marketing campaigns, referral programs, and micro-influencer engagement activities. \n Track customer acquisition costs (CPA), campaign effectiveness, and conversion ratios to optimize growth. \n Provide actionable market and customer insights to leadership for continuous business improvement. \n Product Portfolio Exposure Candidates should be comfortable promoting and selling a broad portfolio of products, including: \n Fresh dairy products\n Ghee and value-added dairy products\n Cold-pressed oils\n Health and wellness products\n Grocery and millet-based products\n Subscription-based consumer products \n Required Skills Hard Skills \n Subscription business operations\n Last-mile delivery and route management\n Customer retention and churn management\n WhatsApp Business tools and customer engagement\n Community marketing and BTL activations\n Digital and hyperlocal marketing campaigns\n CPA and ROI tracking\n Product storytelling and consultative selling \n Soft Skills \n Strong ownership mindset\n Revenue and growth orientation\n Excellent communication and negotiation skills\n Customer-centric approach\n Ability to work independently in field-heavy environments\n Analytical and problem-solving mindset\n Adaptability and execution focus \n Preferred Background \n Experience with D2C dairy brands, subscription commerce, quick commerce, food-tech, or consumer startups.\n Hands-on experience in field sales, community marketing, customer acquisition, and retention.\n Prior exposure to apartment community activations, RWAs, or hyperlocal growth campaigns will be an advantage. \n Work Style \n Extensive field engagement across Bangalore.\n Weekend community activations and customer engagement activities are part of the role.\n Combination of ground-level execution and performance tracking through operational dashboards\nSeniority level Mid-Senior level | Employment type Full-time | Industries Business Consulting and Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
    "stretch": false,
    "pay": {
-    "stated": null,
+    "stated": "Up to 10 LPA",
     "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "max_lpa": 10.0,
+    "basis": "stated",
+    "source": "https://in.linkedin.com/jobs/view/d2c-city-growth-manager-at-rapro-solutions-4495082693",
+    "fit": "Below range (stated)"
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 15,
+    "total": 33,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -293063,15 +293063,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "D2C City Growth Manager at RAPRO Solutions asks 5-10 yrs and offers up to 10 LPA, well below your pay floor.",
+    "fit_notes": "The posting asks for '5-10 Years' of experience, an 'MBA Preferred' qualification, and a background in 'D2C dairy brands, subscription commerce, quick commerce, food-tech'. While his operational planning and supply chain facts ([sop], [ceo-coo]) touch on fulfillment and logistics, the role requires field sales, community marketing, and BTL activations rather than his core strategy and operations background, and it massively exceeds his maximum experience limit while falling short of his pay floor.",
+    "pay_notes": "Stated as 'Up to 10 LPA', which is significantly below Shlok's Rs 24.5 LPA fixed floor.",
+    "culture_notes": "No company website, ratings, or culture reviews found in web search.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T03:08:59+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -293095,9 +293102,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-28T03:08:59+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 33: rejected (The posting asks for 5-10 years of experience, which violates Shlok's strict 3-year maximum limit, and the stated CTC is up to 10 LPA, well below his Rs 24.5 LPA floor.)"
     }
    ],
-   "updated_at": "2026-11-27T15:53:17+05:30"
+   "updated_at": "2026-11-28T03:08:59+05:30",
+   "reject_reason": "The posting asks for 5-10 years of experience, which violates Shlok's strict 3-year maximum limit, and the stated CTC is up to 10 LPA, well below his Rs 24.5 LPA floor."
   },
   {
    "id": "L2235",

@@ -14102,6 +14102,15 @@
    "title": "Ran",
    "detail": "sent 0, failed 0. daily cap of 60 speculative notes reached",
    "ref": ""
+  },
+  {
+   "id": "J1568",
+   "at": "2026-11-27T20:12:02+05:30",
+   "by": "supervisor",
+   "kind": "debug",
+   "title": "Diagnosis: Naukri JDs unreadable by curl; WebFetch missing in scheduled run",
+   "detail": "Cause: Naukri pages render in the browser with JavaScript, so curl in a scheduled session sees no job text, and WebFetch is not offered in scheduled runs (same root cause as I0012, I0039, I0112). Remedy for Shlok: either let the scout read Naukri through the built-in browser, or approve a small Apify Naukri actor within the 3.50 USD cap. Until then Naukri leads (L2222 Suguna) stay unresearched; no harm.",
+   "ref": "I0114"
   }
  ]
 }

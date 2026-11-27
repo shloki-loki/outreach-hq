@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T21:25:22+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "1 replies, 0 bounces, 83 follow-ups due",
-   "stats": {
-    "replies": 1,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 83
-   }
-  },
-  {
    "at": "2026-11-24T21:25:32+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3382,6 +3369,19 @@
    "ok": false,
    "summary": "inbox scan failed: TimeoutError: The read operation timed out",
    "stats": {}
+  },
+  {
+   "at": "2026-11-27T07:05:11+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 48 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 48
+   }
   }
  ]
 }

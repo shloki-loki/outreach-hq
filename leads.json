@@ -285822,9 +285822,20 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Full name": "Shlok Agrawal",
+     "Email": "111shlokagrawal@gmail.com",
+     "Phone": "+91-9343806463",
+     "Current location": "Bengaluru",
+     "Current company": "Beltech Artificial Intelligence Pvt Ltd (Founder's Office - Business Strategy)",
+     "LinkedIn URL": "https://www.linkedin.com/in/shlok-agrawal-iitg/",
+     "Portfolio URL": "https://shlokagrawal-portfolio.vercel.app",
+     "Resume/CV": "Attach resume from https://shlokagrawal-portfolio.vercel.app/resume",
+     "Naukri URL": "NEEDS SHLOK",
+     "GitHub URL": "NEEDS SHLOK"
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -285848,9 +285859,21 @@
      "actor": "research-worker",
      "event": "researched",
      "detail": "score 69: qualified"
+    },
+    {
+     "at": "2026-11-27T16:04:44+05:30",
+     "actor": "send-track",
+     "event": "apply",
+     "detail": "kit_ready"
+    },
+    {
+     "at": "2026-11-27T16:04:44+05:30",
+     "actor": "send-track",
+     "event": "apply_kit",
+     "detail": "application answers prepared"
     }
    ],
-   "updated_at": "2026-11-27T03:24:02+05:30",
+   "updated_at": "2026-11-27T16:04:44+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",

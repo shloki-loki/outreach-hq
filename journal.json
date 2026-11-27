@@ -13724,6 +13724,15 @@
    "title": "Ran",
    "detail": "23 researched (1 qualified, 22 rejected), 7 closed postings binned, 4 left for a person, 6 errors (first: Gemini HTTP 503: { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try agai)",
    "ref": ""
+  },
+  {
+   "id": "J1526",
+   "at": "2026-11-27T14:59:09+05:30",
+   "by": "people-finder",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "1 companies searched on LinkedIn, 0 people added",
+   "ref": ""
   }
  ]
 }

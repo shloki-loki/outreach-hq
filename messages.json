@@ -31477,6 +31477,34 @@
    "thread_parent": "<179559370631.50437.12919557125561570372@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1054",
+   "lead_id": "L0394",
+   "contact_id": "C2",
+   "to": "anurag.jain@girnarsoft.com",
+   "to_name": "Anurag Jain",
+   "kind": "followup1",
+   "subject": "Re: Ops and strategy help at Girnar Finserv",
+   "body": "Hi Anurag,\n\nOne more thing that may be useful: I built a lotting algorithm for truck dispatches at Ola Electric that cut order-to-delivery from 32 days to 14.\n\nIs there a slow process at Girnar Finserv you'd want someone to own?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-27T16:09:57+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559378509.50437.13443940652603336409@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

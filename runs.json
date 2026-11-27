@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-24T21:05:34+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "outside the sending window; 63 approved email(s) wait for the next run",
-   "stats": {}
-  },
-  {
    "at": "2026-11-24T21:25:22+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3381,6 +3374,13 @@
    "agent": "send-track/send",
    "ok": true,
    "summary": "outside the sending window; 130 approved email(s) wait for the next run",
+   "stats": {}
+  },
+  {
+   "at": "2026-11-27T06:51:55+05:30",
+   "agent": "follow-up/track",
+   "ok": false,
+   "summary": "inbox scan failed: TimeoutError: The read operation timed out",
    "stats": {}
   }
  ]

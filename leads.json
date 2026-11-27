@@ -288394,16 +288394,16 @@
    "stretch": false,
    "pay": {
     "stated": null,
-    "min_lpa": null,
-    "max_lpa": null,
-    "basis": "unknown",
-    "source": "",
-    "fit": "Unknown"
+    "min_lpa": 4,
+    "max_lpa": 14,
+    "basis": "estimate",
+    "source": "AmbitionBox Urban Company Category Manager, ~514 salaries, total not confirmed fixed",
+    "fit": "Below range (estimate)"
    },
    "score": {
     "rules": 80,
-    "research": null,
-    "total": 80,
+    "research": 30,
+    "total": 50,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -288414,15 +288414,17 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Category Manager ATL/Operations at Urban Company, Bengaluru, asks 1-3 yrs and SQL; but AmbitionBox pay is about Rs 4-14 LPA, far below your Rs 24.5 LPA.",
+    "fit_notes": "SQL and analytics fit; role is category/ops, not strategy. Posting page could not be rendered, so not verified beyond the scraped listing.",
+    "pay_notes": "Source read via search snippet only, page not opened.",
+    "culture_notes": "AmbitionBox company rating 3.3 (2117 reviews, from scraper note); category managers rate salary 2.9/5 (73 reviews, snippet).",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T09:28:57+05:30",
+    "by": "lead-scout"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -288446,14 +288448,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "naukri: rule score 80"
+    },
+    {
+     "at": "2026-11-27T09:28:57+05:30",
+     "actor": "lead-scout",
+     "event": "researched",
+     "detail": "score 50: rejected (Pay far below target: AmbitionBox shows Urban Company Category Manager at about Rs 4-14 LPA (514 salaries, via search snippet); even Senior Category Manager is Rs 8-24 LPA (131 salaries). Could not open the Naukri posting body (client-rendered); stored JD asks 6 months-2 yrs and Excel/SQL/Tableau.)"
     }
    ],
-   "updated_at": "2026-11-27T02:15:28+05:30",
+   "updated_at": "2026-11-27T09:28:57+05:30",
    "research_attempt": {
     "at": "2026-11-27T03:17:44+05:30",
     "why": "the posting page has no readable description",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "Pay far below target: AmbitionBox shows Urban Company Category Manager at about Rs 4-14 LPA (514 salaries, via search snippet); even Senior Category Manager is Rs 8-24 LPA (131 salaries). Could not open the Naukri posting body (client-rendered); stored JD asks 6 months-2 yrs and Excel/SQL/Tableau."
   },
   {
    "id": "L2225",

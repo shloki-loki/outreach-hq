@@ -200346,6 +200346,11 @@
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
+   },
+   "research_attempt": {
+    "at": "2026-11-27T14:57:33+05:30",
+    "why": "could not open the posting: HTTP 429 for https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/4487104046",
+    "by": "research-worker"
    }
   },
   {

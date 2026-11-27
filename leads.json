@@ -295912,15 +295912,15 @@
    "key": "akamai|associate product operations analyst|bengaluru",
    "type": "job",
    "company": "Akamai Technologies",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "akamai.com",
+   "company_url": "https://www.akamai.com",
    "company_linkedin": "https://www.linkedin.com/company/akamai-technologies",
    "company_note": "",
    "title": "Associate Product Operations Analyst",
    "tier": "2 - Product / Program / BD",
    "location": "Bengaluru, Karnataka, India",
    "location_bucket": "bengaluru",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4495818877",
    "source_url": "https://in.linkedin.com/jobs/view/associate-product-operations-analyst-at-akamai-technologies-4495818877",
@@ -295936,7 +295936,7 @@
    "first_seen": "2026-11-28",
    "last_seen": "2026-11-28",
    "open": true,
-   "jd": "",
+   "jd": "Job Description\n Are you a fast learner who is fascinated by technology?\n Do you like collaborating across teams to deliver\noperational excellence?\n Join our Product Operations Team!\n The Product Operations Team manages the product lifecycle, collaborates with teams, and updates product catalogs. Resources are optimized when customers discontinue services. The team prioritizes operational excellence in a dynamic environment.\n Partner with the best\n We are seeking a versatile Product Operations Analyst with good analytical and communication skills to solve complex business problems. This role requires coordinating between technical and business teams and partnering with Product, Finance, and IT stakeholders.\nAs a Product Operations Analyst Associate, you will be responsible for:\n Understanding Akamai internal systems, data sources, and processes\n Analyzing data from Akamai Product Catalog and related systems to identify issues or gaps\n Updating and maintaining the Product Catalog and Product Pricing along with their related systems per the set cadence\n Building and maintaining relationships with stakeholders across the organization\n Acting as the key SME and contact point between IT and PDG organization to solve launch issues\n Do What You Love\n To be successful in this role you will:\n Have Bachelors or a Master's Degree and 1 year experience\n Be familiar with Product Lifecycle Management (PLM), Project Management, Scrum methodologies, and tools like the Atlassian suite (JIRA, Confluence).\n Detail- and action-oriented self-starter with excellent verbal/written communication, interpersonal, and organizational skills.\n Have problem-solving and analytical abilities, backed by advanced Microsoft Office skillsspecifically Excel (complex pivot tables, formulas, basic macros).\n Have experience with SQL, Python, or AI automations and understanding of business metrics, operations, and process automation.\n About Us\n At Akamai, we make life better for billions of people, trillions of times a day.\nWhether you're streaming live events, scrolling social media, watching your favorite series, or managing your savings, we're the engine behind the scenes. We provide the world's most distributed platform from Cloud to Edge to help the giants of the digital world work faster and stay more secure, making the internet a better experience for everyone.\n Our Focus Is Simple\n Cloud and Edge: Running apps closer to users for instant performance.\n Security : Neutralizing threats before they ever reach your data.\n Content Delivery : Scaling the world's biggest moments without a glitch.\n AI : Enabling our customers to build, secure, and scale AI apps on the world's most distributed cloud platform.\nAt Akamai, we don't just support the internet; we power and protect it, because behind every great digital experience is a massive hidden challenge. And we're the ones who solve it. When millions of people hit play or pay, Akamai ensures it just works.\n Benefits at Akamai: We support your health, well-being, finances, and life beyond work. See our benefits.\n FlexBase adapts to your job's needs\n Akamai's FlexBase program is yet another way we show our commitment to providing employees with an exceptional workplace experience. It's not about telling employees where to work; it's about supporting employees to do their best work.\nWe trust our incredible employees to work in ways that suit them best: at home, in an office, or a combination of both.\nConnect with us on social and see what life at Akamai is like!\nSeniority level Not Applicable | Employment type Full-time | Industries Technology, Information and Internet",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -295951,8 +295951,8 @@
    },
    "score": {
     "rules": 59,
-    "research": null,
-    "total": 59,
+    "research": 45,
+    "total": 51,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "Bengaluru (+20)",
@@ -295962,15 +295962,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Associate Product Operations Analyst at Akamai Technologies, asks 1 year; your SAP and operations work is a fit, but pay is unproven.",
+    "fit_notes": "The posting asks for 'Bachelors or a Master’s Degree and 1 year experience' and familiarity with 'Product Lifecycle Management (PLM), Project Management, Scrum methodologies... Excel... SQL, Python'. Shlok has about 1.3 years of experience and strong SQL/Python skills, but the role is junior and does not offer evidence of meeting his Rs 24.5 LPA floor.",
+    "pay_notes": "No pay stated in the posting, and no company-specific pay evidence was found in the search results.",
+    "culture_notes": "Akamai Technologies is a major global content delivery network and cloud services provider. No ratings or culture flags were found in the provided evidence.",
+    "hook": "At Akamai, we make life better for billions of people, trillions of times a day.",
+    "hook_source": "https://in.linkedin.com/jobs/view/associate-product-operations-analyst-at-akamai-technologies-4495818877",
+    "researched_at": "2026-11-28T03:13:47+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "Critical Remote Code Execution Vulnerabilities in PHP Core - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkhLQTU0TWp5c0Y0MW96SkRqTFcyNzZqQVRFclJBclZNZHlFZGdrdzZ2anoydmU0Z0RuSE83UGdWZ05SbVIxTHJCa19CU3YzNDFqd1JXZVJRYm1OUkNlbEZ6OUVIUU1Kd1gwREtWT3U0RHdzazJSYThxbjczbklUMTI0QmcxMU9XYW1POTNwbkZXclV4MXBiamhibU5fd0M2VzlZ?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Understanding PHP2Shell: Everything You Need to Know - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZW1XcDhPckNPTDRHVHJPRWJNWjllU2hXMnNCS21JSnBOOGNENFk5czdEa0xHRVFNN2REdF8xN3hqWmE0aEx3am1TR2dpbTZNYnJwVl9jYklTQ3g2aWtPa3lSS0xNbUFmQTU4Q2hzU3poWDRXd29vd21NNWFtNHl5d1pjbFBDZ2NGMVdsaExmODBWVDNxbUgya0dkeWJ5UQ?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "The New MCP Specification: What Security Teams Must Prepare For - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXhQaUo0QWtIX1ptSVNzU1c3OW9WZnllTUxkUmUzTzlqT3ZtSGlQSmcxVTE1YjAyNm45amt0aXBvWnVCUXRfOENuNHJUUmtXak1wdHNTczlRMWI4NWk3dHFtVVpGQjkzU2FrOFhlTlh0R0xhTmY0NnRJUGpQSzJ1eWtmZFNZeV9DTWxyVndqa29BZzQtMkdDSEJxQQ?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "How Akamai Defended an Indian Bank Against Record-Breaking DDoS Attacks - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZjZKSkxURzdoNkJ6ODg2Y1JhUFJVbVJzdENLcDU2VTdZdGZqdXd2Slo2eDg5TU9uOWowelRCVW1mWjV1SXJnVUNYM2t3d05xZlhPTkdZektiV3dsd3RLZDlVbDN1R0h6ZkJjQUJyRko0cklONW9vT0lqRWF4QUVqUnlqb0RQSWl5YkxqUlB2UG1iNUxFM05OOA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Introducing More Granular Controls for AI Bot Traffic - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSU5UdDRDLXpmOEtuY3ZjbzNoRkRMU0t4eXV3ajNHS0pZRmtwcHg1WnBiQU93eTRYUnJnNkhhdHFUZWtoa0FDWDhUeDhBa3g0STEteklmRi1QQjBKa2V1U1pBd2dTa2lkV2pfOTktX0s1dTUwNkJ4eGU1QWI3QlBSYk5mR0w0ajVmT0twOHJ6aw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "CVE-2026-98432: A Remote Use-After-Free in the Linux Kernel’s TCP Stack - Akamai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWI2NHo0cjBRc3lyTlhrbnZmMVp2c0wwbjdPNF8yeWtzbUtHMk5qU0VCdFREOGhWd05lampOTDluM2dOSGpvcnRJamtUSU5xa1NaN2Q1Z1pTQkNLNW1zQUpWdUM5YWN4YS1fUXNybnZWZXdsUHhIbU94UWdXWmlaSFgtQTlYQ3BHT095Z3VZWjhTdlVHbUpxc1VsYw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "mrp",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -295994,9 +296035,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 59"
+    },
+    {
+     "at": "2026-11-28T03:13:47+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (Pay is not stated or evidenced to meet the Rs 24.5 LPA threshold, and the role is a junior product operations analyst position (asking '1 year experience' and 'Bachelors or a Master’s Degree') which typically falls well below his fixed pay requirement.)"
     }
    ],
-   "updated_at": "2026-11-28T02:03:29+05:30"
+   "updated_at": "2026-11-28T03:13:47+05:30",
+   "reject_reason": "Pay is not stated or evidenced to meet the Rs 24.5 LPA threshold, and the role is a junior product operations analyst position (asking '1 year experience' and 'Bachelors or a Master’s Degree') which typically falls well below his fixed pay requirement."
   },
   {
    "id": "L2263",

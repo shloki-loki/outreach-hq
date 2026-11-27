@@ -95733,7 +95733,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "samar@clicklabs.co",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 527 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -95765,9 +95765,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Samar Singla"
+    },
+    {
+     "at": "2026-11-27T09:05:13+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "samar@clicklabs.co does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-27T08:39:24+05:30",
+   "updated_at": "2026-11-27T09:05:13+05:30",
    "live_check": {
     "at": "2026-11-26T13:41:50+05:30",
     "state": "unknown",

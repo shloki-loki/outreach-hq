@@ -74743,9 +74743,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Arko Dhar awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Arko Dhar queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:10:03+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -74954,9 +74960,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Simranjit Singh awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Bharath Bhat queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:10:13+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -75284,9 +75296,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Mayank Agarwal awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Spiros Xanthos queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:10:19+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -75464,9 +75482,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Shashank Gupta awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Sanjay Agarwal queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:10:31+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -75601,9 +75625,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Manu George awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Manu George queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:38:26+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -75848,9 +75878,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Dhruv Agrawal awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Himanshu Gupta queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:08:07+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -75983,10 +76019,9 @@
    ],
    "referrals": [],
    "followup": {
-    "due": true,
-    "kind": "followup1",
-    "contact_id": "C4",
-    "since": "2026-11-27T16:25:12+05:30"
+    "due": false,
+    "kind": null,
+    "since": null
    },
    "notes": [],
    "timeline": [
@@ -76103,9 +76138,27 @@
      "actor": "follow-up",
      "event": "followup_due",
      "detail": "followup1 is due"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ankit Ratan queued (template)"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ankur Pandey queued (template)"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Anveet Mehta queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:25:12+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -76283,9 +76336,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Govinda Das awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Akshay Bhardwaj queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:10:43+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -76420,9 +76479,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Raghubir Gupta awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Raghubir Gupta queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:38:50+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -76570,9 +76635,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Anubhav Sharma awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Anubhav Sharma queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:38:55+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -76750,9 +76821,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Sanjeev Goel awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ankur Aggarwal queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:10:49+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -77147,9 +77224,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Mayank Sharma awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Vinay Bapna queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:10:54+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -77284,9 +77367,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Aseem Khanduja awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Aseem Khanduja queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:39:36+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -77464,9 +77553,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Rajarshi Mukhopadhyay awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Vikas Singhal queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:11:01+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -77601,9 +77696,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Vishnu Raned awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Vishnu Raned queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:39:48+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -77781,9 +77882,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Manmohan Gupta awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Varun Kohli queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:11:07+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -78010,9 +78117,21 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Ramakant Vempati awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Jo Aggarwal queued (template)"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ramakant Vempati queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:11:16+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -78385,9 +78504,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Dharmik Bapodara awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Dharmik Bapodara queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:40:07+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -78647,9 +78772,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Dilip Dubey awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Dilip Dubey queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:40:13+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -78778,9 +78909,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Ravi Khandelwal awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ravi Khandelwal queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:40:18+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -78952,9 +79089,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Sanchit awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Devesh Trivedi queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:11:22+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -79139,9 +79282,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Ajay Gupta awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Mohit Gulyani queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:11:28+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -79350,9 +79499,21 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Varun Gupta awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Shishir Gupta queued (template)"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Varun Gupta queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:11:34+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -79524,9 +79685,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Sidhartha Kumar Bhimania awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Anuj Jain queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:11:40+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -79729,9 +79896,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Nitin Padmawar awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Girish Kasliwal queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:11:49+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -79860,9 +80033,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Manish Gupta awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Manish Gupta queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:40:55+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -80004,9 +80183,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Arpana Shahi awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Arpana Shahi queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:41:01+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -82325,9 +82510,21 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Viswesh Ananthakrishnan awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Liang Li queued (template)"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Viswesh Ananthakrishnan queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:31:30+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -82499,9 +82696,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Ambuj Kumar awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Alankrit Chona queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:13:09+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -82673,9 +82876,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Mansi Jain awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Rajesh Jain queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:13:15+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -83271,9 +83480,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Atul Sharma awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Chaitanya Chokkareddy queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:13:48+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -83470,9 +83685,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Ankit Shrivastava awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Divij Goyal queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:14:05+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -83781,9 +84002,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Vinay Goel awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ritesh Ahuja queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:14:17+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -84566,9 +84793,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Allwyn Sequeira awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Debashis Basak queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:14:29+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -84777,9 +85010,21 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Rajat Jain awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ashwini Kumar queued (template)"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Apoorv Gupta queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:14:35+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -84908,9 +85153,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Mohit Kinra awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Mohit Kinra queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:42:06+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -85076,9 +85327,21 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Arti Khanna awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Kapil Singhal queued (template)"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Arti Khanna queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:31:39+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -85207,9 +85470,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Rajiv Khemani awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Rajiv Khemani queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:42:17+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -85482,9 +85751,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Harshdeep Singh awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Harshdeep Singh queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:42:23+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -85626,9 +85901,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Rohit Chand awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Rohit Chand queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:42:29+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -85757,9 +86038,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Nipun Goyal awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Nipun Goyal queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:42:35+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -85888,9 +86175,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Supriyo Roy awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Supriyo Roy queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:42:41+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -86019,9 +86312,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Saurabh Bhatia awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Saurabh Bhatia queued (template)"
     }
    ],
-   "updated_at": "2026-11-25T13:42:47+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -86150,9 +86449,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Prateek Sharma awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Prateek Sharma queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:31:44+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -86281,9 +86586,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Uday Kiran Chaka awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Uday Kiran Chaka queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:31:48+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -87023,9 +87334,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Sameer Sadana awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Sameer Sadana queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:31:53+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -87210,9 +87527,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Srikumar Nair"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Manas Gupta queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T08:19:40+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -87465,9 +87788,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Abhishek Kumar Jha awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Abhishek Kumar Jha queued (template)"
     }
    ],
-   "updated_at": "2026-11-27T16:14:53+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -87627,9 +87956,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Ayush Srivastava awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ayush Srivastava queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:32:10+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -87758,9 +88093,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Pritam Roy awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Pritam Roy queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:32:15+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -87889,9 +88230,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Ajay Trehan awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ajay Trehan queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:32:20+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -88020,9 +88367,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Sajjad Ahmad Akhtar awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Sajjad Ahmad Akhtar queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:32:25+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -88182,9 +88535,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Umair Mohammed awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Umair Mohammed queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:32:31+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -88313,9 +88672,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Ankur Goyal awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ankur Goyal queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:32:35+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -88444,9 +88809,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Raghav Saraf awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Raghav Saraf queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:32:40+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -88631,9 +89002,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Pranav Chopra awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Pranav Chopra queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:32:45+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -88762,9 +89139,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Kapil Nakra awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Kapil Nakra queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:32:50+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -89074,9 +89457,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Suparn Goel awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Suparn Goel queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:32:55+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -89380,9 +89769,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Vipin Vindal awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Vipin Vindal queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:33:01+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -89741,9 +90136,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Ravi Choudhary awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Ravi Choudhary queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:33:13+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -89897,9 +90298,15 @@
      "actor": "follow-up",
      "event": "drafted",
      "detail": "followup1 email to Prabudh Kakkar awaiting approval"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Prabudh Kakkar queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:33:18+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -90053,9 +90460,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Vaibhav Gupta"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Kalyan Kumar queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:34:08+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -90234,9 +90647,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Vinay Saini"
+    },
+    {
+     "at": "2026-11-28T00:05:19+05:30",
+     "actor": "campaign",
+     "event": "drafted",
+     "detail": "followup1 to Niken Patel queued (template)"
     }
    ],
-   "updated_at": "2026-11-26T16:55:52+05:30",
+   "updated_at": "2026-11-28T00:05:19+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

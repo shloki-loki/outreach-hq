@@ -14597,6 +14597,15 @@
    "title": "Ran",
    "detail": "outside the sending window; 130 approved email(s) wait for the next run",
    "ref": ""
+  },
+  {
+   "id": "J1623",
+   "at": "2026-11-28T03:08:27+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "outside the sending window; 130 approved email(s) wait for the next run",
+   "ref": ""
   }
  ]
 }

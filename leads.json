@@ -194179,15 +194179,15 @@
    "key": "blackbaud|revenue operations analyst|india",
    "type": "job",
    "company": "Blackbaud India",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "blackbaud.com",
+   "company_url": "https://www.blackbaud.com",
    "company_linkedin": "https://in.linkedin.com/company/blackbaud-india",
    "company_note": "",
    "title": "Revenue Operations Analyst",
    "tier": "2 - Product / Program / BD",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4472556592",
    "source_url": "https://in.linkedin.com/jobs/view/revenue-operations-analyst-at-blackbaud-india-4472556592",
@@ -194203,7 +194203,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "We’re looking for a detail-oriented, analytical, and customer-focused Revenue Operations Analyst to support critical order-to-cash processes that help power exceptional customer experiences. In this role, you’ll work across Sales, Customer Success, Finance, Legal, and other business teams to process contracts, billing activities, and operational requests while ensuring accuracy, compliance, and efficiency. As you build expertise across contract management, billing operations, systems administration, and revenue processes, you’ll have opportunities to grow your career, contribute to continuous improvement initiatives, and leverage data and emerging technologies, including artificial intelligence, to help drive operational excellence that supports purpose-driven organizations around the world.\n What You'll Do\n Support accurate and timely order-to-cash operations by processing contracts, invoices, billing transactions, and subscription-related activities while maintaining compliance with established controls and service level expectations.\n Partner with Sales, Customer Success, Finance, Legal, and other stakeholders to facilitate contract requests, resolve operational questions, and deliver an outstanding internal customer experience.\n Manage customer subscription and renewal information within business systems, helping ensure customers receive the products and services they purchase and that account records remain accurate.\n Review contract adjustments, invoice corrections, and credit requests by validating order history, billing details, and supporting documentation in accordance with company policies.\n Administer and process opportunities, quotes, contracts, and related transactions within Salesforce and Workday while maintaining data integrity and operational efficiency.\n Contribute to continuous improvement by identifying process enhancements, supporting cross-functional initiatives, and participating in training related to artificial intelligence, Lean methodologies, root cause analysis, and operational excellence.\n What You'll Bring\n 2+ years of professional experience in revenue operations, order management, billing, finance operations, customer support operations, or a related business function.\n Knowledge of contract administration and order-to-cash processes, including invoicing, billing activities, subscription management, and revenue operations workflows.\n Understanding of operational controls and data accuracy requirements, with the ability to review transactions, identify discrepancies, and resolve routine issues using established procedures.\n Experience working with customer relationship management, billing, or financial systems, preferably Salesforce, Salesforce CPQ, Workday Financials, or similar enterprise platforms.\n Bachelor’s degree in Finance, Accounting, Business Administration, or a related field preferred, or an equivalent combination of education and relevant professional experience; proficiency with Microsoft Excel, Outlook, Word, and PowerPoint required.\n Stay up to date on everything Blackbaud, follow us on Linkedin, X, Instagram, Facebook and YouTube \nBlackbaud powers social impact through purpose‑driven technology and responsible AI. Guided by our Intelligence for Good® vision, we’re building a culture where innovation, trust, and human expertise come together to help organizations make a greater difference in the world.\nBlackbaud is proud to be an equal opportunity employer and is committed to maintaining an inclusive work environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.\nSeniority level Not Applicable | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -194218,8 +194218,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 25,
+    "total": 37,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -194229,15 +194229,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Revenue Operations Analyst in Hyderabad asks 2+ yrs exp; focuses on order-to-cash billing and contract admin in Salesforce, outside your S&OP background.",
+    "fit_notes": "Posting asks for '2+ years of professional experience in revenue operations, order management, billing, finance operations', contract administration, order-to-cash processes, and tools like Salesforce/Workday. None of Shlok's facts map to SaaS RevOps or billing operations (his experience is in manufacturing supply chain, inventory, and S&OP).",
+    "pay_notes": "No salary details provided in the job posting or evidence.",
+    "culture_notes": "No company ratings or culture evidence provided.",
+    "hook": "Blackbaud recently expanded its India operations by opening a second facility in Hyderabad.",
+    "hook_source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVk85YUNTM2hOVEprUkJvX053U2dPRDFubGcyM0FocjV4d2I1TXh6SXhIOTN0eVlJVnhhSktPdGJneTFzc0x0TlJzcFRpWXVvTVUyWUQzZVNrbGRMc2pobXhPSExYNlJtb1NnZTlING9UeFA0dGNCRDZya1JvT0E4S1I0dGg2WGViOGprOW9qUWdOWFFvYnpaVDl1TdIBmwFBVV95cUxQVk85YUNTM2hOVEprUkJvX053U2dPRDFubGcyM0FocjV4d2I1TXh6SXhIOTN0eVlJVnhhSktPdGJneTFzc0x0TlJzcFRpWXVvTVUyWUQzZVNrbGRMc2pobXhPSExYNlJtb1NnZTlING9UeFA0dGNCRDZya1JvT0E4S1I0dGg2WGViOGprOW9qUWdOWFFvYnpaVDl1TQ?oc=5",
+    "researched_at": "2026-11-27T14:47:25+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "U.S. firm Blackbaud plans second Hyderabad office, eyes 1,000 headcount - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ2w3clRTdXI0TVhZa1hTdUNVQ25ydDJlOXRSbUJHVGtOdjdWd0lwYUZMN1phbmEybHM0LWJMNjRuaGExOTk4Rkl1azJZcXBkSmxHeGVyTGtvQlBTYUlmZ1FfQ1hreDQ1VnMzazNoYUZfdzRFdDY5c09GSk90bWJPTGhkbXNLTVFfVDhlbU1fajdmSGNkS200d01XdlFhWUhwaExjU1BBQ1ZWVy1wZ2Z5N3Nsd1ZldHB3MDlmZ0RWYlFQd09TQVFhSlNyb19kNUnSAdYBQVVfeXFMTi1weHo4RjVhZGcyNGNHZy1WNzBxU0luYkdOR2pxZ3FRaUZaMGRTNEFyRkJmaGtSOU1IbXBTYXpmZ1E4REQ5Z0pEUFRmVUZ5V1lwU3I3M1lYWEhiR09BMHN0YVFCT1NHUXRHbTJoNnJSNkpkRzZUTVFuUEJYeUFQdU9ldkVheVVmbTlTUk0xOE5RSGxmNGpNVWFyTTRGNHZCeFZEOC1jeVVWdmVLLVdlNGxmbHhfS0hCY1k1RXdoMnJUS0VZYUhaTHd6ZzFLR2NMVjJOYVZHdw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Blackbaud CEO backs geospatial firm NGS as it shifts to software - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQzFtaFZjR3UwcnlVdnRmMmtNeDk1UG1iQ0NzQzlITEJINHpmbVpTVHVRX3UtMXpuYW5lbTlxX2hTZ0c5c3g2bDZjSDN6MFFWelZtc3dwSkVMN1Y2V0Fxb1pVb1Rla0EweWFrbG5WT0tJUjk3TE02LUdNU2J3Nk00bjkwVVhIa25zQV90S2NJNXJIcGhHUGtzODB6SWdMT2s?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Blackbaud Deepens Hyderabad Bet With Second Facility - BW People",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFBXaFVEREl1UFZtRlEwMVQ4UzJDYnVjbGkxdlAxelQ5SnJNdEMtUXRxX1FKUGtucWlQM01rRUMxQ3NNeHk3Q3B4cUtpSVJvMzlmTGotVW04RHAtbXRma05PUy1ETnNfUWF2WFloc1prNFJsUHBtOUZoSGJwQ1BuVjY0RWRBbGNKazdod3hLSGtoM1lFTUE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Blackbaud Announces Winners of First India Social Good Startup Program - Machine Maker",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb0UxQ3B1a04wbG9SUmxhZTZGSFRmMmg5UC01SGxkSzhlNjduYzQ5YUFFemFTUDFRT0xZbDRIcHJsOXBVZnUxUWZOdGc1aWd5SUZKTUVEbjlOQ0tUQWplZWJJYkloOVhEbElKNnFqUnRKbWZsZ0N0eTltWjFEaW1wRjJvUnE4dUFvUmdwc2tJVUxkcFV6dk9HVmNLT29sNWdfTzYzaFhGMA?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "Blackbaud expands India operations with 2nd facility in Hyderabad - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa2k5dmVTdlUtcW5peWVxT3N6TTZsVFI0WW1Gb2tkXzJmRnhGYXFKQlJIdU84QjlrLTlUaEtfVjJ6VlhpbmUtSEp0OWNWV1BqajF3QzFTbi1JN3plN3o0SUs4bjhQa3hZMmxvNEVGUnczWkJTWHpIRGFYVXNTUTFza2dIaVRULXVYc2kta3NNYk5IZkhnOHJEd1BfVXhRVVdRLURBVFdiYTM4cGZFN3BDcFp1VzlFc21tMF9BWWhTdjNFalI3MXU0aWpFZ1pmU2Z1dG1ZTXZrczdNZ9IB3wFBVV95cUxOOHVfRktSV0djVzQtRVg3Ym1KODVuaGRlckI2X2tVNmxtVkVXbDRjYW5kT2JuUmNqMzh6MkdPQXB1bXhmUXN3Y2JfTU9IMmh6OU93VVBKRi14M09MZHZiTHV3ZHNUMlV4dUJUQkJxN0hWYlhkWFhxcHktQmFCNHk0bmNZdUhZT1V4Y01mbDFrcGdDUmhRaFNlS1pSNS1vbThsSjExM251QUNkc1Bubk9ZRFVJamUzU3FsNDJzQmZUTC1lSDA1NkZxLWdpbmN5WmdhRHU5NjJSSDEwdlVQRUQw?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Blackbaud Opens Second Hyderabad Office, Expands India Technology And Customer Operations - CIOL",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVk85YUNTM2hOVEprUkJvX053U2dPRDFubGcyM0FocjV4d2I1TXh6SXhIOTN0eVlJVnhhSktPdGJneTFzc0x0TlJzcFRpWXVvTVUyWUQzZVNrbGRMc2pobXhPSExYNlJtb1NnZTlING9UeFA0dGNCRDZya1JvT0E4S1I0dGg2WGViOGprOW9qUWdOWFFvYnpaVDl1TdIBmwFBVV95cUxQVk85YUNTM2hOVEprUkJvX053U2dPRDFubGcyM0FocjV4d2I1TXh6SXhIOTN0eVlJVnhhSktPdGJneTFzc0x0TlJzcFRpWXVvTVUyWUQzZVNrbGRMc2pobXhPSExYNlJtb1NnZTlING9UeFA0dGNCRDZya1JvT0E4S1I0dGg2WGViOGprOW9qUWdOWFFvYnpaVDl1TQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -194261,14 +194299,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-27T14:47:25+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 37: rejected (The role focuses on order-to-cash billing, subscription renewals, and contract administration in Salesforce/Workday, which does not align with Shlok's S&OP/logistics background, does not leverage any of his facts, and is located in Hyderabad.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-27T14:47:25+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role focuses on order-to-cash billing, subscription renewals, and contract administration in Salesforce/Workday, which does not align with Shlok's S&OP/logistics background, does not leverage any of his facts, and is located in Hyderabad."
   },
   {
    "id": "L1426",

@@ -194321,15 +194321,15 @@
    "key": "clearwateranalytics|data analyst revenue operations|india",
    "type": "job",
    "company": "Clearwater Analytics",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "clearwateranalytics.com",
+   "company_url": "https://clearwateranalytics.com",
    "company_linkedin": "https://www.linkedin.com/company/clearwateranalytics",
    "company_note": "",
    "title": "Data Analyst - Revenue Operations",
    "tier": "2 - Product / Program / BD",
    "location": "Noida, Uttar Pradesh, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4478696031",
    "source_url": "https://in.linkedin.com/jobs/view/data-analyst-revenue-operations-at-clearwater-analytics-4478696031",
@@ -194345,7 +194345,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Job Description\n Data Analyst - Revenue Operations\n Location: Noida Type: Full-time\n About The Role\n We are seeking a motivated Data Analyst to join our Revenue Operations data and reporting team. This position is well suited to an individual who wishes to build a career in revenue operations, sales analytics, and go-to-market (GTM) systems. The successful candidate will support the Revenue Operations center of excellence by maintaining data integrity, preparing reports, and enabling the sales organization to operate with discipline and clarity.\nThis role is well suited to an early-career professional who is detail-oriented, intellectually curious about data, and eager to develop proficiency in the sales technology stack within a fast-growing, global SaaS/fintech environment.\n Key Responsibilities\n Data Hygiene: Assist in maintaining data quality and accuracy within Salesforce by identifying inconsistencies and supporting data-cleansing initiatives across accounts, opportunities, and territories.\n Secondary Research: Assist in building and maintaining account- and contact-level data within Salesforce.\n Sales Process Support: Support the day-to-day execution of sales process discipline, including the tracking of pipeline stages, funnel movement, and basic forecasting inputs.\n Ad Hoc Analysis: Extract and organize data sets to address inquiries from the Revenue Operations Leader or sales leadership, translating raw data into clear and concise summaries.\n Process Documentation: Assist in documenting workflows, definitions, and reporting logic to ensure the team's processes remain consistent and readily transferable or scalable.\n Cross-Team Collaboration: Collaborate closely with senior Data Analysts and Sales Tool Analysts to learn best practices in territory routing and CRM administration.\n Qualifications\n Master’s degree in business, Economics, or a related field\n Two years of experience in data, secondary research, or reporting role\n Proficient in Microsoft Excel, including formulas and pivot tables\n Basic familiarity with CRM systems (Salesforce preferred, though not required).\n Strong attention to detail and a willingness to verify work thoroughly prior to submission.\n Intellectual curiosity regarding data, together with an interest in the evolving role of artificial intelligence in Revenue Operations.\n Strong written and verbal communication skills, with the ability to convey data findings clearly and accessibly.\n Highly organized and dependable, with the ability to manage multiple small projects concurrently.\n What You Will Gain\n Direct mentorship from a Revenue Operations Leader, together with exposure to senior sales leadership.\n Hands-on training in Salesforce administration and sales reporting.\n Experience with the modern sales technology stack, including Clari, Gong, Highspot, and AI-driven reporting platforms.\n A defined pathway for professional growth into a senior Data Analyst, Sales Tool Analyst, or broader Revenue Operations role as experience is gained.\n Exposure to how a global, high-growth SaaS company runs its sales operations end-to-end.\nSeniority level Not Applicable | Employment type Full-time | Industries Software Development",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -194360,8 +194360,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 35,
+    "total": 43,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -194371,15 +194371,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "RevOps Data Analyst at Clearwater Analytics in Noida, asks 2 yrs exp & Master's degree; requires Salesforce CRM hygiene work outside Shlok's S&OP focus.",
+    "fit_notes": "The posting asks for a 'Master’s degree in business, Economics, or a related field' and 'Two years of experience in data, secondary research, or reporting role' with proficiency in Excel and Salesforce CRM data cleansing/hygiene. Shlok holds a B.Tech (no Master's) and his experience is in S&OP supply chain planning and logistics [sop, ceo-coo, msl] rather than Revenue Operations or CRM administration. Location is Noida (not Bengaluru or remote).",
+    "pay_notes": "No salary details provided in the posting or available in compensation evidence for this role/location.",
+    "culture_notes": "Clearwater Analytics is being taken private by Permira & Warburg Pincus at an $8.4B valuation (Sep 2026). No specific glassdoor rating data provided in evidence block.",
+    "hook": "Clearwater Analytics was recently slated to be taken private by Permira and Warburg Pincus in an $8.4B deal.",
+    "hook_source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXVSOWIwMm5uaVQtZERaQ1Bya0s1TmZ1dElFMTV2aVh4ZTVYUmw4ekt6N3ZvbVg0SnhJU3p5QTdjRjVVOVpxT2VVWFBCc3VveUR6dkl2cnl3WW1ZdlRZZUswTG1JMFNHVUlWQmhyNjFTY0xYMFdueE51UHVTM1gzc3RLTkpfWHlyUUpHMVZTZGZqWVZpN0RUWHJZMTdBWTZ0TDNz?oc=5",
+    "researched_at": "2026-11-27T14:48:55+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "PREPAR-VIE selects Clearwater Analytics - Asset Servicing Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN01kMWN5RjFhMVJhVEczRXBiMXphLWhKTmNlSVdtODNEUkVrbDNYNHA0dU1iSFNpYWtZYWRNNGRTd1FZOEpFYmxscUFyUGRVMkpTbjhLa1hXNkt3TUhYb1prSkxPTXZxQ1EtOE50amJydWFvWE5nN2pQeVJGVVhvdTdDQWkwSElYY3VOZkZocG9MXzFO?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Clearwater Analytics taken private in $8.4bn investor-led deal - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXVSOWIwMm5uaVQtZERaQ1Bya0s1TmZ1dElFMTV2aVh4ZTVYUmw4ekt6N3ZvbVg0SnhJU3p5QTdjRjVVOVpxT2VVWFBCc3VveUR6dkl2cnl3WW1ZdlRZZUswTG1JMFNHVUlWQmhyNjFTY0xYMFdueE51UHVTM1gzc3RLTkpfWHlyUUpHMVZTZGZqWVZpN0RUWHJZMTdBWTZ0TDNz?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "NFU Mutual Selects Bloomberg and Clearwater Analytics for Front-to-Back Investment Management Workflow - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVnJQWGdJS19JRmRLTFNRMHNkQXZPbGQ1dHQ0WUw5YnFsbHQ1WC1ncHlsMURHTnRqWk9fYjlJQWVUNExBVUFScmVsVWRjYWFMV3BUMVYtTXhudzlGd3h4aWNmMlRjNjBKUEw5TEJ1SHZQTWNTcGtqVDNkNFQ5WVZWa2ZOOEo4NXJiX3RiMFhPYUF5Z1hoT3RDY0hnbE1ISGphdXRNUzEtcHlJOEN0cVpsYS12MzBESklQSWZpSWp6QURuemMyR0hrUjZPZm1iX24ycG5qMDdpQWdGbUk?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "Clearwater Analytics Appoints Sheetal Sharma as Head of Total Rewards - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUxEbGFLVDlXZEZraDBwV3luN2VId2toUUVuNHlNZk1faFdIaHZvUEx2d3Y4WVMxSm9SSUVRMnVsTnpuWGZYVDBYX2ZsanFObWYtX1lMR01nOUZrQkFFRVN3anJlZzVZcGpneEJYNFJXbFZ3S1dVV05Mc2V3M3o5SkhRQXdIYzVvbVlpR0Z6VEJMREE?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "AI Reshapes Asset Managers’ Client Relationships: Clearwater Analytics - Traders Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmJUU3BHSjZlLVRFNHViZWpHYnlEZjJuNnZvMVdNeDJrcG9XZlBaWjlhOENjVkpXdHFMSmFseGg1YURRY1ZRdXdkdFNwUFRueE00QlZLbTlSeU11OE5UTi10ZUMwLUw0aGo5SHBKMDI2bFdkZ2dGZnhtRGJoOVFXckozTEp3TWwyc0NHaC1qcURzRlVOdUsxcHBmc0RkM0NYeURGNkxIWQ?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Permira & Warburg Pincus to take Clearwater Analytics private at ~$8.4B - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXNZb3RmdUY5V19feGt6LVFoMUd4NUI0RkdNLW1QVzJEQlkwZ1lha1JvRlVSdGk5akVVemdMa2Vqc1duRGZ4TUFQY2hXSUdrT25ScjdpWGpJVEk1YVNYS3Z0Q05lcmFmbjBWbVJzbWdrVE4yTUlqcWpoQzhrbVFoZVZPcEVpSEhwSEQ2ZlVDSzNWYUpTdVVlVGlEMm0yMjBBbGxF?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -194403,14 +194441,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-27T14:48:55+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 43: rejected (Requires a Master's degree in business/economics (Shlok has B.Tech), is based in Noida (outside preferred Bengaluru/remote), and focuses on Salesforce CRM data hygiene rather than Strategy & Operations.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-27T14:48:55+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Requires a Master's degree in business/economics (Shlok has B.Tech), is based in Noida (outside preferred Bengaluru/remote), and focuses on Salesforce CRM data hygiene rather than Strategy & Operations."
   },
   {
    "id": "L1427",

@@ -195539,7 +195539,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4487160208",
    "source_url": "https://in.linkedin.com/jobs/view/digital-growth-manager-at-galenta-interiors-4487160208",
@@ -195555,7 +195555,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Galenta Interiors is looking for a hands-on Digital Growth Manager to build and scale our digital marketing and customer acquisition function from scratch. This role is ideal for someone with a startup mentality, strong problem-solving ability and the drive to take ownership rather than wait for instructions.\n Build Galenta Interiors' digital growth engine from the ground up across performance marketing, SEO, SEM and digital lead generation.\n Plan, execute and optimize Google Ads, Meta Ads, remarketing and other paid acquisition channels, with ownership of budgets and performance. Build and execute the SEO/SEM strategy, including keyword research, technical/on-page SEO, local SEO, content opportunities and high-intent search acquisition.\n Create and continuously optimize landing pages, messaging, creatives, audiences and conversion journeys through structured experimentation. Set up and maintain accurate tracking using GA4, Google Tag Manager, Search Console, Meta Pixel and other relevant tools.\n Work hands-on and independently—investigate problems, find solutions, test ideas and execute quickly instead of depending entirely on agencies or external teams.\n Bring a builder/startup mindset: be comfortable with ambiguity, create processes where none exist and find smart, practical and cost-effective solutions.\n Prior experience in interior design, home interiors, home improvement or a similar consumer business is strongly preferred. Candidates without interiors experience should have strong demonstrated expertise in performance marketing, SEO/SEM and digital customer acquisition.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Interior Design",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -195570,8 +195570,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -195581,15 +195581,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Digital Growth Manager in Hyderabad requires performance marketing and SEO/SEM expertise, which does not map to your S&Ops background.",
+    "fit_notes": "The posting asks for hands-on execution of Google/Meta Ads, SEO/SEM, landing page optimization, and GA4/GTM tracking. Shlok's background is in S&OP and operations ([sop], [ceo-coo], [mrp]); he has no experience in performance marketing or digital customer acquisition.",
+    "pay_notes": "Pay is not stated in the posting, and no third-party compensation evidence was found.",
+    "culture_notes": "No reviews or culture information found for Galenta Interiors.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-27T14:49:33+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -195613,14 +195620,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-27T14:49:33+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (The role requires hands-on performance marketing, SEO/SEM, and paid acquisition expertise that Shlok lacks, and is based in Hyderabad.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-27T14:49:33+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The role requires hands-on performance marketing, SEO/SEM, and paid acquisition expertise that Shlok lacks, and is based in Hyderabad."
   },
   {
    "id": "L1435",

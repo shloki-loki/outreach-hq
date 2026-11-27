@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-25T05:02:56+05:30",
-   "agent": "follow-up/track",
-   "ok": false,
-   "summary": "inbox scan failed: abort: socket error: [SYS] unknown error (_ssl.c:2406)",
-   "stats": {}
-  },
-  {
    "at": "2026-11-25T05:18:29+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3422,6 +3415,19 @@
    "stats": {
     "sent": 0,
     "failed": 0
+   }
+  },
+  {
+   "at": "2026-11-27T19:45:15+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 0 bounces, 8 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 0,
+    "settled": 0,
+    "followups_due": 8
    }
   }
  ]

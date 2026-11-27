@@ -465,6 +465,12 @@
   },
   "tejasai.in": {
    "confirmed": []
+  },
+  "descope.com": {
+   "bounced_patterns": [
+    "f.last"
+   ],
+   "confirmed": []
   }
  }
 }

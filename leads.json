@@ -292480,7 +292480,7 @@
    "tier": "1 - Strategy & Ops",
    "location": "Hyderabad, Telangana, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4493880505",
    "source_url": "https://in.linkedin.com/jobs/view/operations-strategy-analyst-at-samarthya-financial-services-pvt-ltd-4493880505",
@@ -292511,8 +292511,8 @@
    },
    "score": {
     "rules": 74,
-    "research": null,
-    "total": 74,
+    "research": 35,
+    "total": 51,
     "reasons": [
      "1 - Strategy & Ops role (+40)",
      "India, outside Bengaluru (+8)",
@@ -292522,15 +292522,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Operations & Strategy Analyst at Samarthya Financial Services in Hyderabad, but requires onsite Hyderabad and pays unstated.",
+    "fit_notes": "The posting asks for '0–2 years (freshers welcome)' and 'Pursuing or having recently completed a degree in BBA, B.Com, MBA or a related field'. Shlok has an Electrical and Electronics Engineering degree from IIT Guwahati and 1.3 years of experience. While his data analysis and operations skills from facts [sop] and [ceo-coo] map to analytical needs, the location is Hyderabad (onsite), pay is unknown, and the target is a debt recovery operations role below his pay threshold.",
+    "pay_notes": "Pay is not stated in the posting. Given it is an operations and strategy analyst role at a financial services firm in Hyderabad, it is unlikely to meet Shlok's Rs 24.5 LPA fixed requirement.",
+    "culture_notes": "No company reviews, ratings, or culture data found in web search.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T03:03:33+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "sop",
+     "ceo-coo"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -292554,9 +292564,16 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 74"
+    },
+    {
+     "at": "2026-11-28T03:03:33+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 51: rejected (The role requires being based in Hyderabad (onsite), whereas Shlok wants Bengaluru or remote first. Additionally, the pay is unstated and likely far below his Rs 24.5 LPA threshold for a debt recovery operations role, and the requirements explicitly list pursuing or having completed a degree in BBA, B.Com, MBA or a related field.)"
     }
    ],
-   "updated_at": "2026-11-27T15:53:17+05:30"
+   "updated_at": "2026-11-28T03:03:33+05:30",
+   "reject_reason": "The role requires being based in Hyderabad (onsite), whereas Shlok wants Bengaluru or remote first. Additionally, the pay is unstated and likely far below his Rs 24.5 LPA threshold for a debt recovery operations role, and the requirements explicitly list pursuing or having completed a degree in BBA, B.Com, MBA or a related field."
   },
   {
    "id": "L2233",

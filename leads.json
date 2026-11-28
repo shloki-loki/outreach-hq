@@ -104138,9 +104138,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Anand Agrawal"
+    },
+    {
+     "at": "2026-11-28T16:20:51+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Shubham Goel"
     }
    ],
-   "updated_at": "2026-11-28T13:57:02+05:30",
+   "updated_at": "2026-11-28T16:20:51+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

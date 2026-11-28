@@ -232179,15 +232179,15 @@
    "key": "cornerstoneondemand|technical program manager|india",
    "type": "job",
    "company": "Cornerstone OnDemand",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "cornerstoneondemand.com",
+   "company_url": "https://www.cornerstoneondemand.com",
    "company_linkedin": "https://www.linkedin.com/company/cornerstoneondemand",
    "company_note": "",
    "title": "Technical Program Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Pune Division, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "hybrid",
    "source": "linkedin",
    "source_id": "4462818232",
    "source_url": "https://in.linkedin.com/jobs/view/technical-program-manager-at-cornerstone-ondemand-4462818232",
@@ -232208,7 +232208,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "We're looking for a Technical Program Manager This role is Office Based, Pune Office \n Technical Program Manager | Hybrid | Pune or Hyderabad \n Role Overview\n This individual will play a key role in managing product release logistics, driving program excellence, and leading strategic process improvement projects. The PMO will apply customer-centric operating practices, ensuring programs and products are designed with clear customer outcomes in mind and that initiatives deliver tangible value to stakeholders.\n In This Role You Will\n Product Release Management\n Oversee logistics for product releases, including process management, deployment planning, and stakeholder alignment.\nLeverage key performance indicators and analytics to inform decision-making, proactively identify areas for improvement, and ensure release strategies are optimized based on data-driven insights.\nConduct regular program review meetings to assess progress, address obstacles, and maintain alignment across teams.\nCompile and share weekly reports, sprint closure narratives, and other key program updates.\nManage release calendars and monitor adherence to established processes throughout the product lifecycle.\nServe as stakeholder liaison for release schedules, requirements, and review/sign-off processes.\n Customer-Centric Initiative Leadership\n Champion a customer-first approach to program and product delivery by beginning each initiative with a clear definition of intended outcomes and customer value.\nGuide teams through the creation of vision documents, such as draft press releases and FAQs, before development work begins, ensuring alignment around problem statements, expected experience, and value proposition.\nIncorporate customer narratives and feedback into program reviews, strategic project planning, and process improvement efforts.\nLead the development and adoption of operating mechanisms that prioritize stakeholder and end-user perspectives at every stage of the program lifecycle.\n Strategic Projects & Process Improvement\n Lead root cause analysis and process redesign initiatives, establishing sustainable mechanisms for increased efficiency and self-sufficiency, and overseeing adoption and scaling of improvements across teams through structured change management.\nCollaborate with cross-functional teams to identify opportunities for automation and operational excellence, aligning process enhancements with enterprise priorities to reduce risk and increase delivery predictability.\nEstablish and promote standardized frameworks, best practices, and governance models to drive consistent, effective project delivery.\nLeverage key performance indicators, dashboards, and outcome measures to quantify success and continuously monitor impact of improvements.\nReport progress, data-driven outcomes, and strategic recommendations to senior leadership and stakeholders, ensuring transparency and alignment with organizational goals.\n You Have Got What It Takes If You Have\n Analytical problem-solver with the ability to diagnose issues and propose actionable solutions.\nProactive leader, demonstrating operational discipline and drive for outcomes.\nSkilled in juggling multiple priorities and adapting to a dynamic organization.\nAble to inspire alignment and collaboration across technical and business teams.\n Our Culture\n Spark Greatness. Shatter Boundaries. Share Success. Are you ready? Because here, right now – is where the future of work is happening. Where curious disruptors and change innovators like you are helping communities and customers enable everyone – anywhere – to learn, grow and advance. To be better tomorrow than they are today.\n Who We Are\n Cornerstone powers the potential of organizations and their people to thrive in a changing world. Cornerstone Galaxy, the complete AI-powered workforce agility platform, meets organizations where they are. With Galaxy, organizations can identify skills gaps and development opportunities, retain and engage top talent, and provide multimodal learning experiences to meet the diverse needs of the modern workforce. More than 7,000 organizations and 100 million+ users in 180+ countries and in nearly 50 languages use Cornerstone Galaxy to build high-performing, future-ready organizations and people today.\nCheck us out on LinkedIn , Comparably , Glassdoor , and Facebook !\nSeniority level Mid-Senior level | Employment type Full-time | Industries Software Development, Human Resources Services, and IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -232223,8 +232223,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 35,
+    "total": 43,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -232234,15 +232234,42 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Technical Program Manager at Cornerstone OnDemand in Pune/Hyderabad; location violates your Bengaluru/remote rule.",
+    "fit_notes": "The posting asks for a Technical Program Manager to handle product release logistics and process improvement, requiring cross-functional leadership. Shlok has strong operational background [sop, ceo-coo] and process implementation experience [mrp], but the role is located in Pune or Hyderabad rather than Bengaluru or remote-first, and pay is not stated.",
+    "pay_notes": "Pay not stated in posting, and no concrete salary figures for this role were found in search evidence.",
+    "culture_notes": "Company ratings and detailed culture reviews not found in the provided evidence.",
+    "hook": "Cornerstone OnDemand recently cut database diagnosis by 78% using Amazon Bedrock.",
+    "hook_source": "https://in.linkedin.com/jobs/view/technical-program-manager-at-cornerstone-ondemand-4462818232",
+    "researched_at": "2026-11-28T14:23:39+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "The Future of Work: AI, Workforce Intelligence & Human Potential - Cornerstone OnDemand",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXpIdTNGdkFBb1JqMzZCUU5vNk5XaVNTNTMxUHdTNEs2Y1I1NjktZXdfNGlZQXcwdjRBVkVYU1FrT0xORVJRN0VWbGlKeTJnNTdlampjTE1wZF9aSmhfOHVIbHNRUUlvemFpWVMwOWhvWUNaVWswMWxKSmlWVjAxNVJQMGd5b1Npdk54d3BsN3FCRkE0eUNkdWMtYjBNUDVL?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORjhSc0hud1VfWDVZSXlSSnRxdDFJUUVIM0dHOVc4YUR2Vm9GUUxydzBjWDM0ZGNNeDliRm1VeE1SWnlGNzVSbUVrc2R3SGJrOHVTbDlVTnpSVmxCUTh2b1pqcXdIS2x5VGJBemZDNUlrTWhvSWRNS0FFbGJfcHVEY0pLM0t0aHBYNVNQR1VZYVBDRWRpaERyb3F0U0I0RDVFenI4ZXNFaUNZakkyY0FGUDFvQmdTQVhRXzdfSw?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Anna R. Goldberg Steps into VP of AI Product Management Role at Cornerstone OnDemand - KARV Tech Insider",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkczSWVBcHNVazlaRi16R3B1RDRpMXJIendDbzFxN21iTG53ZlZjTld1TnZocVFtMVZLeUtuMzJsUE1nY2hxN21yTXV5akRxTzhBNHBFc01uMlloNWoxakxQd001Z1c3WElJR0hyMlFUNWVQNmF1eDk3V0lqOFBDUEtienptZHYyNTVBQ3hMQ3hEYjdkYXZVNVYwazlwVjh0Umswc0FaX2dUdzFLVWljYzBwUm9ta1IyYXRRTWF0LU5adw?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "sop",
+     "ceo-coo",
+     "mrp"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -232266,14 +232293,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:23:39+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 43: rejected (Location is Pune or Hyderabad (not Bengaluru or remote-first), and the pay is unknown.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30",
+   "updated_at": "2026-11-28T14:23:39+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Location is Pune or Hyderabad (not Bengaluru or remote-first), and the pay is unknown."
   },
   {
    "id": "L1712",

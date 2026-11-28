@@ -15074,6 +15074,15 @@
    "title": "Ran",
    "detail": "0 replies, 0 bounces, 1 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J1676",
+   "at": "2026-11-28T15:00:29+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

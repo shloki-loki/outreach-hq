@@ -202914,7 +202914,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Coimbatore, Tamil Nadu, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489527277",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-galaxy-health-insurance-company%C2%A0limited-4489527277",
@@ -202930,7 +202930,7 @@
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
    "open": true,
-   "jd": "",
+   "jd": "Company Description Galaxy Health Insurance Company Limited, formerly known as Galaxy Health and Allied Insurance Company Limited, is an IRDAI-licensed standalone health insurer focused on transforming the Indian insurance landscape. Following its IRDAI license acquisition in March 2024, the company is positioned for rapid growth and innovation in health insurance. Galaxy Health Insurance plans to offer comprehensive Health, Personal Accident, and Travel insurance products designed to address the evolving needs of Indian customers. The organization emphasizes agility, customer-centric solutions, and responsible risk management as it expands its presence. Prospective team members can expect to join a dynamic environment with opportunities to shape new offerings and contribute to long-term market impact.\n Role Description The Business Development Manager is a full-time, on-site role based in Coimbatore. The individual in this role will identify and develop new business opportunities, build and manage relationships with corporate clients, intermediaries, and distribution partners, and drive sales of health, personal accident, and travel insurance products. Day-to-day tasks include prospecting and qualifying leads, presenting product solutions, negotiating commercial terms, and closing deals in line with company targets. The role also involves market analysis, competitor tracking, and contributing to local sales strategies that support growth and brand visibility. The Business Development Manager will collaborate with underwriting, marketing, and operations teams to ensure smooth onboarding of clients and high levels of customer satisfaction.\n Qualifications \n Strong business development and sales skills, including lead generation, pipeline management, negotiation, and deal closure.\n Experience in relationship management, stakeholder engagement, and partnership development within insurance or financial services.\n Knowledge of health insurance products, regulatory environment (IRDAI), and basic risk and pricing concepts is highly beneficial.\n Excellent communication, presentation, and interpersonal skills, with the ability to explain complex products in a clear and customer-friendly\n Proven ability to work towards targets, prioritize multiple opportunities, and operate effectively in a fast-growing, evolving organization.\n Bachelor’s degree in Business, Marketing, Finance, or a related field; a postgraduate qualification or relevant certifications in insurance are an advantage.\n Prior experience in health insurance or general insurance sales in the Coimbatore region or nearby markets is preferred.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Insurance",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -202945,8 +202945,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -202956,15 +202956,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "On-site BDM role in Coimbatore for regional health insurance sales; requires local insurance sales experience you do not have.",
+    "fit_notes": "The role requires local health/general insurance sales experience, lead generation, and distribution management in the Coimbatore region. None of Shlok's facts ([sop], [ceo-coo], [msl]) match regional insurance field sales, and the role requires full-time on-site presence in Coimbatore.",
+    "pay_notes": "No salary specified in posting or web sources. Regional insurance BDM roles typically do not meet the Rs 24.5 LPA target.",
+    "culture_notes": "Company acquired its IRDAI license in March 2024; limited public culture or review data available.",
+    "hook": "Galaxy Health Insurance acquired its IRDAI standalone health insurer license in March 2024 to expand across India.",
+    "hook_source": "https://in.linkedin.com/jobs/view/business-development-manager-at-galaxy-health-insurance-company%C2%A0limited-4489527277",
+    "researched_at": "2026-11-28T14:04:47+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -202988,9 +202995,15 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:04:47+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (On-site role in Coimbatore requiring regional health insurance sales experience; does not align with Shlok's location preference (Bengaluru/Remote) or S&Ops/Product career direction.)"
     }
    ],
-   "updated_at": "2026-11-15T13:09:51+05:30",
+   "updated_at": "2026-11-28T14:04:47+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
@@ -203000,7 +203013,8 @@
     "at": "2026-11-27T14:58:58+05:30",
     "why": "could not open the posting: HTTP 429 for https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/4489527277",
     "by": "research-worker"
-   }
+   },
+   "reject_reason": "On-site role in Coimbatore requiring regional health insurance sales experience; does not align with Shlok's location preference (Bengaluru/Remote) or S&Ops/Product career direction."
   },
   {
    "id": "L1476",

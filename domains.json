@@ -516,7 +516,8 @@
   },
   "updraft.com": {
    "bounced_patterns": [
-    "first"
+    "first",
+    "first.last"
    ],
    "confirmed": []
   },

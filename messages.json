@@ -1700,7 +1700,7 @@
    "kind": "cold",
    "subject": "Ops and strategy help at ZILLSKILL",
    "body": "Hi Animesh,\n\nI'm Shlok, an IIT Guwahati grad who spent a year in strategy and operations at Ola Electric, working directly with the CEO and COO.\n\nThe work I'm proudest of: I ran production planning over Rs 200 Cr of inventory and cut working capital by 40% in two and a half months. I also built a dispatch algorithm that took order-to-delivery from 32 days to 14.\n\nI'd like to do the same kind of work at ZILLSKILL, taking planning, operations or special projects off your plate in a Founder's Office or strategy role.\n\nIs a hire like this on your mind in the next few months?\n\nShlok\n",
-   "status": "sent",
+   "status": "replied",
    "email_status": "verified",
    "speculative": true,
    "hook": "",
@@ -1719,7 +1719,13 @@
    "message_id": "<179516987118.72880.9109468179407214492@gmail.com>",
    "thread_parent": null,
    "error": null,
-   "reply": null
+   "reply": {
+    "at": "2026-11-28T15:05:14+05:30",
+    "from": "animesh@zillskill.com",
+    "subject": "Re: Ops and strategy help at ZILLSKILL",
+    "date": "Sat, 28 Nov 2026 14:47:28 +0530",
+    "snippet": "What kind of companies and roles are you looking for? On Fri, 20 Nov 2026 at 15:47, Shlok Agrawal <111shlokagrawal@gmail.com> wrote:"
+   }
   },
   {
    "id": "M0061",
@@ -12136,7 +12142,12 @@
    "message_id": "<179540980184.1098.10132775391260742341@gmail.com>",
    "thread_parent": null,
    "error": null,
-   "reply": null
+   "reply": null,
+   "auto_reply": {
+    "at": "2026-11-28T15:05:14+05:30",
+    "subject": "Automatic reply: Strategy and Ops role | Shlok Agrawal",
+    "snippet": "Out of Office: Nov 25 - Nov 29 I'm away from Nov 25 - Nov 29. Expect delayed responses during this time. Thanks for your patience."
+   }
   },
   {
    "id": "M0402",

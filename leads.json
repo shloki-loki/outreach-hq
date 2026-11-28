@@ -96881,7 +96881,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "sanjay.jain@i2chain.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 526 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -96975,9 +96975,15 @@
      "actor": "follow-up",
      "event": "bounced",
      "detail": "mainak.trivedi@i2chain.com does not exist; needs a new address"
+    },
+    {
+     "at": "2026-11-28T12:45:16+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "sanjay.jain@i2chain.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-28T11:51:21+05:30",
+   "updated_at": "2026-11-28T12:45:16+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

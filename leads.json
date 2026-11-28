@@ -76274,9 +76274,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "followup1 email to Ankit Ratan"
+    },
+    {
+     "at": "2026-11-28T15:05:38+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup1 email to Ankur Pandey"
     }
    ],
-   "updated_at": "2026-11-28T14:11:50+05:30",
+   "updated_at": "2026-11-28T15:05:38+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

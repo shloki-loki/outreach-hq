@@ -209180,7 +209180,7 @@
    "posted_at": "2026-11-09",
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-16",
-   "open": true,
+   "open": false,
    "jd": "Company Description ChillSwap is a wearable climate infrastructure company focused on helping people perform, recover, and live better in extreme heat conditions. By combining modular cooling technology with scalable deployment systems, ChillSwap delivers practical solutions for personal thermal regulation in real-world environments.\n Role Description The Sales & Business Development Manager is a full-time, on-site role based in Vasant Vihar, New Delhi. The position is responsible for identifying and qualifying new business opportunities, building and managing a robust sales pipeline, and closing strategic deals across target sectors such as industrial operations, logistics and outdoor workforces . Day-to-day responsibilities include meeting with prospective clients, conducting product demos, developing proposals, negotiating contracts, and maintaining strong relationships with existing partners. This position requires a proactive, data-informed approach to sales execution and business growth.\n Qualifications \n Proven experience in sales and business development, including prospecting, pipeline management, and closing B2B deals.\n Strong skills in relationship-building, stakeholder management, and customer engagement across multiple levels of an organization.\n Ability to develop and execute go-to-market plans, including market research, segmentation, and account planning.\n Competence in sales analytics, forecasting, and use of CRM tools to track activities and performance.\n Excellent communication, presentation, and negotiation skills, with the ability to explain technical products in clear, practical terms.\n Experience in multi-industry sales, PPE or industrial/occupational safety sectors is an advantage. \n Comfort working in a fast-paced startup environment, with a hands-on, outcome-oriented mindset.\n Bachelor’s degree in Business, Engineering, Marketing, or a related field; an advanced degree or relevant certifications are a plus.\n Ability to work on-site in New Delhi and travel as needed for client meetings and industry events.",
    "exp_min": null,
    "exp_max": null,
@@ -209239,13 +209239,24 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:08:37+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-15T23:35:42+05:30",
+   "updated_at": "2026-11-28T14:08:37+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
+   },
+   "bin": {
+    "at": "2026-11-28T14:08:37+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "research-worker"
    }
   },
   {

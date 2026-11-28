@@ -14822,6 +14822,15 @@
    "title": "Ran",
    "detail": "0 researched, 0 qualified, 0 rejected, 0 emails found; top leads (L2222 Suguna, L1895 OYO, L1640 FinAgg) postings unreadable (Naukri/Instahyre 403); no qualifying without verification; Apify not used",
    "ref": ""
+  },
+  {
+   "id": "J1648",
+   "at": "2026-11-28T11:31:25+05:30",
+   "by": "send-track",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 emails drafted, 0 referral notes, 0 application kits; 3 skipped (L0105 Zamp, L1556 Nat Habit, L0077 Composio: catch-all addresses, score under 80, recheck hung)",
+   "ref": ""
   }
  ]
 }

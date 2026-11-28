@@ -98697,7 +98697,7 @@
     "notes": "",
     "answers": {}
    },
-   "first_contacted_at": null,
+   "first_contacted_at": "2026-11-28T13:16:42+05:30",
    "replied_at": null,
    "contacts": [
     {
@@ -98739,9 +98739,15 @@
      "actor": "send-track",
      "event": "send_failed",
      "detail": "SMTPServerDisconnected: Connection unexpectedly closed: The read operation timed out"
+    },
+    {
+     "at": "2026-11-28T13:16:42+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Lalit Indoria"
     }
    ],
-   "updated_at": "2026-11-27T12:03:33+05:30",
+   "updated_at": "2026-11-28T13:16:42+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

@@ -1,13 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-25T21:05:34+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "outside the sending window; 59 approved email(s) wait for the next run",
-   "stats": {}
-  },
-  {
    "at": "2026-11-25T21:25:18+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3361,6 +3354,13 @@
     "settled": 0,
     "followups_due": 7
    }
+  },
+  {
+   "at": "2026-11-28T11:56:47+05:30",
+   "agent": "follow-up",
+   "ok": true,
+   "summary": "6 follow-ups drafted (second founders at Rustorange, CashBook, Onato, Aviconn, Dimensionless, Brance; first-contact drafts already queued 27 Nov), 1 reply newly flagged (CtrlB: 'please do not spam'), 0 bounces handled; L0525 30 Sundays skipped: its second contact Anuj Punjani already has a Brance follow-up draft; track run saw 3 bounces, not worked",
+   "stats": {}
   }
  ]
 }

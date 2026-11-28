@@ -297683,6 +297683,11 @@
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
+   },
+   "research_attempt": {
+    "at": "2026-11-28T13:54:30+05:30",
+    "why": "error: Gemini unreachable: The read operation timed out",
+    "by": "research-worker"
    }
   },
   {

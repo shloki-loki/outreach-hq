@@ -77672,9 +77672,15 @@
      "actor": "campaign",
      "event": "drafted",
      "detail": "followup1 to Vikas Singhal queued (template)"
+    },
+    {
+     "at": "2026-11-28T14:25:42+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "followup1 email to Vikas Singhal"
     }
    ],
-   "updated_at": "2026-11-28T00:05:19+05:30",
+   "updated_at": "2026-11-28T14:25:42+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

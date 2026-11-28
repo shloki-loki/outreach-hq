@@ -35638,6 +35638,34 @@
    "thread_parent": "<179559969267.61161.10976989125566096198@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1195",
+   "lead_id": "L0516",
+   "contact_id": "C2",
+   "to": "vedant@onato.in",
+   "to_name": "Vedant Katiyar",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Vedant,\n\nOne more thing that may be relevant: at Ola Electric I built an algorithm that groups truck dispatches into lots, and order-to-delivery time fell from 32 days to 14. Would a dispatch problem like that help at Onato?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-28T11:55:16+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559978387.61161.14202035479212765740@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

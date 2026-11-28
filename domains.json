@@ -484,6 +484,12 @@
     "first"
    ],
    "confirmed": []
+  },
+  "i2chain.com": {
+   "bounced_patterns": [
+    "first.last"
+   ],
+   "confirmed": []
   }
  }
 }

@@ -100699,9 +100699,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sowmya Balendiran"
+    },
+    {
+     "at": "2026-11-28T12:47:45+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Sri Sailaja Nori"
     }
    ],
-   "updated_at": "2026-11-28T12:14:30+05:30",
+   "updated_at": "2026-11-28T12:47:45+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

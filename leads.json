@@ -100624,7 +100624,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "sri@sea6energy.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "Other Funded startup row 38 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -100705,9 +100705,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sri Sailaja Nori"
+    },
+    {
+     "at": "2026-11-28T13:05:14+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "sri@sea6energy.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-28T12:47:45+05:30",
+   "updated_at": "2026-11-28T13:05:14+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

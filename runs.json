@@ -1,31 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-26T02:20:47+05:30",
-   "agent": "lead-scout/scrape",
-   "ok": true,
-   "summary": "6965 jobs read, 316 passed rules, 33 new leads",
-   "stats": {
-    "fetched": 6965,
-    "passed_rules": 316,
-    "new": 33,
-    "updated": 266,
-    "closed": 3,
-    "by_source": {
-     "alerts": 51,
-     "greenhouse": 3689,
-     "lever": 103,
-     "ashby": 2025,
-     "linkedin": 650,
-     "instahyre": 219,
-     "yc": 128,
-     "naukri": 115,
-     "wellfound": 0,
-     "hiringcafe": 0
-    }
-   }
-  },
-  {
    "at": "2026-11-26T02:23:47+05:30",
    "agent": "follow-up/track",
    "ok": true,
@@ -3457,6 +3432,16 @@
   },
   {
    "at": "2026-11-28T16:28:31+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 2, failed 0. daily cap of 60 speculative notes reached",
+   "stats": {
+    "sent": 2,
+    "failed": 0
+   }
+  },
+  {
+   "at": "2026-11-28T16:28:54+05:30",
    "agent": "send-track/send",
    "ok": true,
    "summary": "sent 2, failed 0. daily cap of 60 speculative notes reached",

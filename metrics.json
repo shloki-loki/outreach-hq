@@ -770,15 +770,15 @@
    "leads_total": 2274,
    "by_status": {
     "applied": 26,
-    "contacted": 130,
-    "new": 1119,
+    "contacted": 136,
+    "new": 1117,
     "rejected": 764,
     "replied": 14,
     "skipped": 4,
     "interview": 1,
     "qualified": 59,
-    "to_approve": 150,
-    "followup_due": 7
+    "to_approve": 152,
+    "followup_due": 1
    },
    "by_source": {
     "linkedin_post": 58,
@@ -801,19 +801,19 @@
    "qualified_total": 97,
    "researched_total": 908,
    "with_email_total": 1025,
-   "emails_sent_total": 766,
-   "emails_sent_today": 0,
-   "cold_sent_total": 477,
+   "emails_sent_total": 782,
+   "emails_sent_today": 16,
+   "cold_sent_total": 493,
    "people_replied": 15,
-   "bounces_total": 29,
-   "reply_rate": 0.031,
-   "bounce_rate": 0.038,
+   "bounces_total": 32,
+   "reply_rate": 0.03,
+   "bounce_rate": 0.041,
    "applied_total": 28,
    "referrals_sent": 0,
    "interviews": 1,
    "offers": 0,
-   "to_approve": 88,
-   "followups_due": 7,
+   "to_approve": 94,
+   "followups_due": 1,
    "new_leads_7d": 434
   }
  }

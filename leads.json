@@ -103346,9 +103346,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ankit Agarwal"
+    },
+    {
+     "at": "2026-11-28T13:35:02+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Sharth Mandan"
     }
    ],
-   "updated_at": "2026-11-28T13:21:55+05:30",
+   "updated_at": "2026-11-28T13:35:02+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

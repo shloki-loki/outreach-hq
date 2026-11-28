@@ -104921,9 +104921,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Saurabh Tripathi"
+    },
+    {
+     "at": "2026-11-28T16:27:09+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Ankur Bhardwaj"
     }
    ],
-   "updated_at": "2026-11-28T13:47:00+05:30",
+   "updated_at": "2026-11-28T16:27:09+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

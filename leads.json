@@ -103028,9 +103028,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Libin V Babu"
+    },
+    {
+     "at": "2026-11-28T13:19:47+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Kirti Jangra"
     }
    ],
-   "updated_at": "2026-11-28T13:12:39+05:30",
+   "updated_at": "2026-11-28T13:19:47+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

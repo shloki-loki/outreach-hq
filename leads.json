@@ -103352,9 +103352,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sharth Mandan"
+    },
+    {
+     "at": "2026-11-28T13:55:48+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Sugandha Sharma"
     }
    ],
-   "updated_at": "2026-11-28T13:35:02+05:30",
+   "updated_at": "2026-11-28T13:55:48+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

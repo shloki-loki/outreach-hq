@@ -209502,7 +209502,7 @@
    "posted_at": "2026-11-16",
    "first_seen": "2026-11-16",
    "last_seen": "2026-11-16",
-   "open": true,
+   "open": false,
    "jd": "Company Description Exim Service Hub is focused on helping businesses grow by providing dedicated support for their operational and service needs. The organization works closely with clients to streamline processes, improve efficiency, and enable sustainable expansion. By offering reliable, structured solutions, Exim Service Hub aims to be a trusted partner in business development. The company values practical problem-solving, clear communication, and long-term client relationships. Team members are encouraged to contribute ideas that enhance performance and client satisfaction.\n Role Description The Operations Manager is a full-time, on-site role based in Karad, responsible for overseeing day-to-day business operations and ensuring smooth service delivery. This role includes planning and monitoring workflows, managing resources, coordinating with internal teams and external partners, and resolving operational issues promptly. The Operations Manager will track key performance metrics, prepare regular reports, and implement process improvements to support business growth. The role also involves supervising staff, supporting their development, and fostering a collaborative, compliant, and customer-focused work environment. Close collaboration with leadership is expected to align operations with company objectives and client expectations.\n Qualifications\n Experience in operations management, including process planning, workflow optimization, and performance monitoring.\n Strong organizational and time-management skills, with the ability to handle multiple priorities and meet deadlines.\n Effective communication and interpersonal skills for coordinating with teams, clients, and vendors.\n Demonstrated problem-solving and decision-making abilities, with a focus on practical, data-informed solutions.\n Experience leading or supervising teams, including coaching, delegation, and conflict resolution.\n Comfort with basic business software and tools (e.g., spreadsheets, documentation, communication platforms).\n Understanding of general business practices, service operations, and basic financial or budgeting concepts.\n Bachelor’s degree in Business, Operations Management, or a related field, or equivalent practical experience.\n Ability to work on-site in Karad and maintain consistent, reliable attendance.\n Commitment to ethical conduct, inclusive collaboration, and continuous improvement.",
    "exp_min": null,
    "exp_max": null,
@@ -209561,13 +209561,24 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:08:40+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-16T10:01:49+05:30",
+   "updated_at": "2026-11-28T14:08:40+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
+   },
+   "bin": {
+    "at": "2026-11-28T14:08:40+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "research-worker"
    }
   },
   {

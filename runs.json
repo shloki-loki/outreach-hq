@@ -1,17 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-26T03:47:22+05:30",
-   "agent": "people-finder",
-   "ok": true,
-   "summary": "5 companies searched on LinkedIn, 0 people added",
-   "stats": {
-    "leads": 5,
-    "people_added": 0,
-    "skipped": ""
-   }
-  },
-  {
    "at": "2026-11-26T03:50:10+05:30",
    "agent": "writer",
    "ok": true,
@@ -3438,6 +3427,16 @@
     "bounces": 0,
     "settled": 0,
     "followups_due": 1
+   }
+  },
+  {
+   "at": "2026-11-28T18:25:24+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "sent 0, failed 0. daily cap of 60 speculative notes reached",
+   "stats": {
+    "sent": 0,
+    "failed": 0
    }
   }
  ]

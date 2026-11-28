@@ -101663,9 +101663,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Sheelika Ravishankar"
+    },
+    {
+     "at": "2026-11-28T13:08:56+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Sameer Joshi"
     }
    ],
-   "updated_at": "2026-11-28T12:52:28+05:30",
+   "updated_at": "2026-11-28T13:08:56+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

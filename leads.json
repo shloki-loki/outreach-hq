@@ -228264,15 +228264,15 @@
    "key": "leybold|business development manager vin|india",
    "type": "job",
    "company": "Leybold",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "leybold.com",
+   "company_url": "https://www.leybold.com",
    "company_linkedin": "https://de.linkedin.com/company/leybold-vacuum",
    "company_note": "",
    "title": "Business Development Manager-VIN",
    "tier": "2 - Product / Program / BD",
    "location": "Pune/Pimpri-Chinchwad Area",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490450191",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-vin-at-leybold-4490450191",
@@ -228288,7 +228288,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "",
+   "jd": "The Role\n Identify, target, and convert new business opportunities in the rough vacuum industrial markets across India, Bangladesh, and Sri Lanka, through direct engagement as well as via consultants and channel partners.\n Drive market penetration and revenue growth by developing and executing long‑term sales and business strategies for identified target market sectors.\n Build, develop, and expand channel partners and distributors in unexplored and emerging territories.\n Promote leading‑edge vacuum products, including dry vacuum solutions and energy‑efficient pumps, aligned with the company’s brand mission of enabling solutions for a better future.\n Strengthen market presence and increase market share by identifying new applications and customer segments within the industrial vacuum sector.\n Conduct market research and competitor analysis to track industry trends, assess competitive activities, and formulate effective go‑to‑market strategies.\n Maintain a strong technical understanding of industrial vacuum products and applications to support customer consultations and solution positioning.\n Work closely with sales, marketing, and product development teams to align strategies, share market feedback, and support sustainable and profitable business growth.\n Collaborate with the Business Line Manager on key support functions including product selection, pricing strategy, and contract negotiations.\n Prepare and deliver customer and internal sales presentations, supporting both account growth and new customer acquisition.\n Provide structured marketing and sales support to maximize market and customer share, with focused development of existing customers, dealers, and new prospects.\n What you can expect from us?\n Have multiple interactions with different stakeholders internally and externally\n A culture known for respectful interaction, ethical behaviour and integrity where sustainability matters\n Potential to see your ideas realized and to make an impact on technically interesting projects\n New challenges and new things to learn every day\n Plenty of opportunities to grow and develop\n Global job opportunities, as part of the Atlas Copco Group\n What we expect of you?\n Educational Qualification: Bachelor of Mechanical Engineering and MBA\n Relevant Previous experience : Minimum 7 years of proven experience in sales and business development, preferably in Vacuum Industry.\n Knowledge areas/Skills: Good knowledge in Excel/Word file/Power point, In-depth understanding of the India & Middle East market, including key industries and competitors\n Other requirements: Good command English/Hindi language , Willing to travel.\n City- Bangalore\n About Leybold\n Leybold employs people on four continents. Many of them have a scientific or technical focus. Their knowledge, creativity and experience are essential for our success.\nThe demands of the high-tech industry and the cultural diversity in our globally active company also contributes to an attractive and stimulating working environment at Leybold. Technical knowledge is important to us, as are personal soft skills and the willingness to work in international project teams.\nLeybold is part of the Vacuum Technique Business area of the Atlas Copco Group. The Group's sustainable approach also determines our visions and values. A wide range of training and further education programs are available, to enhance technical know-how and systematically expand skills. Because only great ideas accelerate innovation.\nSeniority level Not Applicable | Employment type Full-time | Industries Machinery Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -228303,8 +228303,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -228314,15 +228314,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at Leybold, asks 7+ yrs and an MBA; your 1.3 yrs and lack of MBA are hard blocks.",
+    "fit_notes": "The posting asks for \"Bachelor of Mechanical Engineering and MBA\" and \"Minimum 7 years of proven experience in sales and business development, preferably in Vacuum Industry.\" Shlok has a B.Tech in Electrical and Electronics Engineering, about 1.3 years of experience, no MBA, and no vacuum industry background. None of his facts match this heavy industrial sales requirement.",
+    "pay_notes": "Pay not stated in the posting.",
+    "culture_notes": "Leybold is part of the Atlas Copco Group, known for respectful interaction and ethical behavior.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T14:22:49+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -228346,14 +228353,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:22:49+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (The posting requires an MBA and a minimum of 7 years of relevant experience, both of which exceed Shlok's background and profile.)"
     }
    ],
-   "updated_at": "2026-11-18T01:45:23+05:30",
+   "updated_at": "2026-11-28T14:22:49+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting requires an MBA and a minimum of 7 years of relevant experience, both of which exceed Shlok's background and profile."
   },
   {
    "id": "L1680",

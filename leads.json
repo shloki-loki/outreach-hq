@@ -104307,9 +104307,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Aman Jain"
+    },
+    {
+     "at": "2026-11-28T16:25:27+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Jainesh Sinha"
     }
    ],
-   "updated_at": "2026-11-28T13:38:47+05:30",
+   "updated_at": "2026-11-28T16:25:27+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

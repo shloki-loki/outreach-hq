@@ -490,6 +490,12 @@
     "first.last"
    ],
    "confirmed": []
+  },
+  "markovml.com": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

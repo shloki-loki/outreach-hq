@@ -232723,7 +232723,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Ahmedabad, Gujarat, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490856967",
    "source_url": "https://in.linkedin.com/jobs/view/franchise-business-operations-manager-4490856967",
@@ -232739,7 +232739,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Company Description Helly and Chilly Foods Private Limited is a growing food business focused on delivering quality products and consistent customer experiences. The company operates through franchise outlets and aims to expand its presence in key markets. It emphasizes operational excellence, standardized processes, and strong brand representation across locations. Team members are encouraged to contribute ideas that improve performance, customer satisfaction, and efficiency.\n Role Description This is a full-time, on-site role based in Ahmedabad for a Franchise Business & Operations Manager. The role involves overseeing day-to-day operations of franchise outlets, ensuring adherence to company standards, operating procedures, and quality guidelines. The manager will monitor sales performance, inventory levels, and cost controls, and support franchise partners with training, process improvements, and problem resolution. Responsibilities include coordinating audits, implementing operational policies, supporting new franchise openings, and maintaining strong relationships with franchise owners. The role also includes preparing performance reports, analyzing outlet data, and working with leadership to drive growth and operational efficiency across the franchise network.\n Qualifications \n Candidates should possess strong franchise and retail operations skills, including outlet management, process implementation, and performance monitoring.\n Candidates should possess business and commercial skills such as basic financial analysis, sales tracking, and understanding of P&L for franchise units.\n Candidates should possess stakeholder management skills, including relationship building with franchise owners, vendors, and internal teams.\n Candidates should possess organizational and problem-solving skills, with the ability to prioritize tasks, resolve operational issues, and manage multiple outlets.\n Candidates should possess clear written and verbal communication skills and the ability to deliver training and guidance to franchise staff.\n Experience in food & beverage, QSR, or retail franchise environments is highly beneficial.\n A bachelor’s degree in business, management, hospitality, or a related field is preferred.\n Willingness to work on-site in Ahmedabad, with flexibility to travel to franchise locations as needed. \n handling calls to close new franchise deals.\nSeniority level Mid-Senior level | Employment type Full-time",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -232754,8 +232754,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -232765,15 +232765,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Franchise Operations Manager at Helly and Chilly Foods in Ahmedabad, but outside Shlok's Bengaluru or remote-first rule.",
+    "fit_notes": "The posting asks for 'strong franchise and retail operations skills, including outlet management, process implementation, and performance monitoring' and 'experience in food & beverage, QSR, or retail franchise environments'. While Shlok has supply chain and operational planning experience like [sop] and [ceo-coo], the role requires on-site work in Ahmedabad, Gujarat, which violates his location preference.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "No company website or employee reviews found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T14:23:49+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -232797,14 +232804,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:23:49+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (Role is located in Ahmedabad and requires on-site work, violating Shlok's Bengaluru or remote-first rule.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30",
+   "updated_at": "2026-11-28T14:23:49+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Role is located in Ahmedabad and requires on-site work, violating Shlok's Bengaluru or remote-first rule."
   },
   {
    "id": "L1716",

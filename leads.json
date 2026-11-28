@@ -220937,15 +220937,15 @@
    "key": "sleep|assistant product manager|india",
    "type": "job",
    "company": "The Sleep Company",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "thesleepcompany.in",
+   "company_url": "https://thesleepcompany.in",
    "company_linkedin": "https://in.linkedin.com/company/the-sleep-company-official",
    "company_note": "",
    "title": "Assistant Product Manager",
    "tier": "2 - Product / Program / BD",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491107387",
    "source_url": "https://in.linkedin.com/jobs/view/assistant-product-manager-at-the-sleep-company-4491107387",
@@ -220961,7 +220961,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-24",
    "open": true,
-   "jd": "",
+   "jd": "The Role \n We are looking for an Assistant Product Manager – SAP who can bridge the gap between business teams and technology , owning SAP-related product requirements and driving improvements across core business processes.\n You will work closely with teams across Finance, Supply Chain, Procurement, Manufacturing, Warehousing, Sales and Operations , translating business requirements into scalable SAP solutions and ensuring smooth implementation and adoption.\n What You’ll Own \n Own and manage the SAP product roadmap for assigned business functions and processes.\n Understand business workflows and identify opportunities to improve them through SAP and technology.\n Work closely with business stakeholders to gather, analyse and document requirements.\n Translate business requirements into BRDs, user stories, functional requirements and process flows .\n Partner with SAP functional/technical teams, vendors and internal engineering teams for solution design and implementation.\n Drive SAP enhancements, integrations, automation and process improvements from requirement gathering through UAT and go-live.\n Manage prioritisation of SAP requirements based on business impact, urgency and feasibility.\n Coordinate UAT, defect resolution, release planning and stakeholder sign-offs.\n Monitor existing SAP processes and identify gaps, inefficiencies and opportunities for automation.\n Ensure smooth integration between SAP and other enterprise systems such as OMS, WMS, CRM, e-commerce and 3PL platforms .\n Track product adoption, issues and business impact post implementation.\n Create and maintain process documentation, SOPs and functional specifications.\n Work with cross-functional teams to drive change management and ensure successful adoption of new solutions.\n What We’re Looking For \n 2–5 years of experience in SAP Product Management, SAP Business Analysis, SAP Functional Consulting or Enterprise Applications .\n Strong understanding of SAP business processes and modules such as MM, SD, PP, FI/CO or related areas.\n Experience in gathering business requirements and converting them into functional/product requirements.\n Good understanding of end-to-end business processes , particularly across supply chain, procurement, inventory, manufacturing or finance.\n Experience working with cross-functional stakeholders and technology teams.\n Exposure to SAP integrations with other enterprise systems will be an advantage.\n Strong analytical and problem-solving skills with the ability to understand complex business processes.\n Experience working in a retail, D2C, e-commerce, consumer, manufacturing or supply-chain environment is preferred.\n Strong communication, stakeholder management and execution skills.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Furniture and Home Furnishings Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -220976,8 +220976,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 55,
+    "total": 55,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -220987,15 +220987,56 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Assistant Product Manager (SAP) at The Sleep Company asks 2-5 yrs exp; your hands-on SAP MRP rollout at Ola Electric maps directly.",
+    "fit_notes": "The role asks for 2–5 years in SAP Product Management, Business Analysis, or Enterprise Applications, with knowledge of SAP MM/PP modules and supply chain workflows. Shlok implemented SAP MRP from scratch at Ola Electric [mrp] and managed S&OP production planning [sop] with SAP ERP (MM, PP) background.",
+    "pay_notes": "No salary details mentioned in the job description or evidence.",
+    "culture_notes": "PE-backed consumer company targeting EBITDA profitability by FY27; no Glassdoor ratings found in evidence.",
+    "hook": "The Sleep Company recently partnered with Unicommerce to streamline its multi-channel e-commerce and warehouse operations.",
+    "hook_source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XS3M3R0tMQjlZOGlOLTFYTFozaHpFc1NPYlJxOTlOSERpeW9kVlQ1aWFUdWhVTEw4NlNwV2tqUnQ0OFBMQ2Q3X3EzSlF0OW5JNlM5NHpUMngyYUVFM3R4MnhSYkg3UUEwSG5HeWUwSGU1Mm04dWc?oc=5",
+    "researched_at": "2026-11-28T14:20:40+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "The Sleep Company Startup Deep Dive: Funding, Model, Risks - Indian Startup Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2hTOXRHaFdHeUt1aFVQd29BdUFWWVYzWC1XNXAtdWtyc3prRGNZMUFfb1ZvMGhkXzhMNDZ5MXh5S1NIVmo3WWx4enVXOU9pTi1NXzMzQ0lvUFRKVUI4Wkw3azdoMWcxaXEtRWJyc2RSOGNROExvUzNvc1hFdld5WkU4OUVPeFJn?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "PE-backed The Sleep Company targets revenue growth, EBITDA profitability in FY27 - VCCircle",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSldzeWM5Smc5ZHNPMjJPcmlFb0FxRTkxYkQ2WWxCVzNLd01QTHo3SURmdHJqZWk5Wnp3RFVDenlMbkxmdDZtV1V5elZ5OFEzMGlBVHR1VDJkT3FfcHZSNFZkamo5MUtnblhMQmRQTF9DaUZYQndsdDlsOG9EZ19pQkpaSUt4MkQtYXRNejZKemhFUVd2b1RwVzJkONIBowFBVV95cUxPUmtJRnhHUlJwblhOdUw4cFhXOEZVcVNxcTBtVjJiUkhQR0ZSYk85WUdRWXFEX3paaWtlejM4QThYeXc5R1JBT1J3YTM1VlVBTjlPRTBfcHhhSkFCQ1NuWk9VZHFYQUdDeXhSRXlBaUxWc2J5VUJJYTR5QjlmUWJtdzVJVC1KNHZ2YnNES19zdzd2bXo5dS01ZUdJa2lEd3F5WXpN?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "The Sleep Company opens new experience store in Maharashtra at Vihang Ventura - India Retailing",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTJMX2hRUWJkcXlFbFpJQjJGMjcxbVA1U3Q0eTR4WGNSNTJ6SlRNY0d3THBJM3JOU2ZtcHJOQTBJMDk0ZHhXSDd0MFdVY0hXZlJzQ2ZENnJMSW1NM0RHZDg4TElxOFdIdkVtYzFvUjUwSXJrOGllRlZDbDQ1MUVfdkZ2dGlHTE9OaGkzckFGMm9hb0ZpN2ZCUmdHNUthdjFwYjFNVGQyZVVGVElO?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "The Sleep Company partners with Unicommerce for e-commerce operations - MediaBrief",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XS3M3R0tMQjlZOGlOLTFYTFozaHpFc1NPYlJxOTlOSERpeW9kVlQ1aWFUdWhVTEw4NlNwV2tqUnQ0OFBMQ2Q3X3EzSlF0OW5JNlM5NHpUMngyYUVFM3R4MnhSYkg3UUEwSG5HeWUwSGU1Mm04dWc?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "The Sleep Company partners with Unicommerce - Adgully",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTlpV01jU3dLaGVEcGNIbm1UczBGeXFoSFBVY0ZkVGVQZ2UtSzFZREJqa3RzS1lYczR0cGx4c295bVNMajdxMzA5a0ZWZHYzY1F2eTc3RzUyRGViUjJCU24wYzh3aENBN21VbVc1bVFtWEtvOXU4LXFKcXhGUkdseHZVUDI?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "The Sleep Company’s Insight into Demand for Smart Comfort Solutions - MarkHub24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVBjZjNNZE9KOC1EbUtPYnhpRHFfNk8xQ3FUbjI1QUY5a0stYjh0TkxNRWlSSW5mRWFkMWsxMkF3XzdRSXEwWnhkM0tJQlpXZDBLNEJWNFVwNmlhNzdfV25obzBzZXNKMTkwbWhnNGZZcEo0N05QR1FzYmVRNXp3YUFnOEhYUi1zUlNwWDc2aGlmR2FYc0JhX3ZUNm9jSmc?oc=5"
+     }
+    ],
+    "matched_facts": [
+     "mrp",
+     "sop"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -221019,14 +221060,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:20:40+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 55: rejected (score 55 is under 60)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30",
+   "updated_at": "2026-11-28T14:20:40+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "score 55 is under 60"
   },
   {
    "id": "L1621",

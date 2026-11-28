@@ -223130,7 +223130,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "New Delhi, Delhi, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4491116380",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-vifin-4491116380",
@@ -223146,7 +223146,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "Company Description ViFin (Vizza Fintech Private Limited) is an innovator in financial technology, focused on transforming the healthcare and insurance sectors. The company is building a common platform that connects industry participants and end customers, simplifying access to insurance services. By leveraging advanced technology, ViFin aims to streamline processes, improve transparency, and make insurance interactions more seamless. Its mission is to enhance user experience, drive efficiency, and deliver greater satisfaction for all stakeholders across the insurance ecosystem.\n Role Description The Business Development Manager is a full-time, on-site role based in New Delhi, Jaipur & Chandigarh . This position is responsible for identifying and pursuing new business opportunities, building and maintaining relationships with partners and clients, and expanding ViFin’s presence within the healthcare and insurance technology markets. Day-to-day activities include prospecting and qualifying leads, conducting client meetings and presentations, negotiating contracts, and collaborating with internal teams to align solutions with client needs. The role also involves market research, tracking industry trends, preparing sales forecasts and reports, and contributing to strategic planning to support revenue growth and long-term partnerships.\n Qualifications \n Strong business development and sales skills, including lead generation, pipeline management, and negotiation.\n Experience in relationship management, account management, and stakeholder engagement.\n Knowledge of fintech, insurance, or healthcare domains, with the ability to understand and communicate technical and product concepts.\n Solid analytical and research skills for market analysis, competitor assessment, and opportunity identification.\n Effective communication and presentation skills, with proficiency in preparing proposals, pitches, and reports.\n Proven ability to work collaboratively with cross-functional teams such as product, marketing, and operations.\n Bachelor’s degree in Business, Finance, Marketing, or a related field; an MBA or equivalent postgraduate qualification is an advantage.\n Prior experience in business development or sales within fintech, insurance, or related industries is highly desirable.\n Self-motivated, goal-oriented, and comfortable working in a fast-paced, evolving environment.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Financial Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -223161,8 +223161,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 25,
+    "total": 37,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -223172,15 +223172,25 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "BD Manager at ViFin in New Delhi (onsite); requires B2B sales and lead gen experience that does not align with your ops background.",
+    "fit_notes": "The posting asks for hands-on business development and sales skills (lead generation, pipeline management, client presentations, contract negotiations) and fintech/insurance domain knowledge. Shlok's core facts ([sop], [mrp], [ceo-coo], [cell], [o2d]) focus on supply chain, production planning, and operations at Ola Electric, with no full-time B2B sales or account management experience.",
+    "pay_notes": "Pay is not stated in the posting and no salary data was found for this company.",
+    "culture_notes": "ViFin (Vizza Fintech Private Limited); no employee reviews or culture data found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T14:22:35+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [
+     "alcheringa",
+     "idekho"
+    ],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -223204,14 +223214,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:22:35+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 37: rejected (Onsite BD role requiring B2B sales, pipeline management, and contract negotiation experience in fintech/insurance, which does not match Shlok's full-time operations and supply chain background.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30",
+   "updated_at": "2026-11-28T14:22:35+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Onsite BD role requiring B2B sales, pipeline management, and contract negotiation experience in fintech/insurance, which does not match Shlok's full-time operations and supply chain background."
   },
   {
    "id": "L1639",

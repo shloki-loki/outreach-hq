@@ -233420,7 +233420,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Mumbai, Maharashtra, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490312232",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-fmcg-at-arigo-hr-solutions-4490312232",
@@ -233436,7 +233436,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "We're Hiring | Business Development Manager – FMCG / Luxury\n 📍 Locations: Mumbai\n 💼 Experience: 4–6 Years\n 🏢 Work Mode: Work from Office + Client Meetings\n ⚡ Preference: Immediate Joiners\n About the Company\n A fast-growing health-tech startup is redefining hydration through science-backed Functional Hydration solutions. By combining innovation, technology, and everyday wellness, the company is building a new category in preventive health and creating exciting opportunities in India's evolving wellness market.\n The Role\n We are looking for a highly driven and polished Business Development Manager with a strong background in B2B sales, FMCG or luxury product sales. The ideal candidate should have a proven track record of driving revenue, acquiring premium clients, and building strategic business relationships.\n Key Responsibilities\n Identify, develop, and acquire new B2B business opportunities.\n Drive corporate sales, premium accounts, and strategic partnerships.\n Build and manage relationships with senior decision-makers and key stakeholders.\n Lead client meetings, deliver impactful product presentations, negotiate, and close deals.\n Consistently achieve and exceed revenue and sales targets.\n Manage the sales pipeline and drive market expansion initiatives.\n Conduct regular field visits and client meetings across assigned markets.\n What We're Looking For\n 4–6 years of experience in B2B Sales, Corporate Sales, FMCG or Luxury Product Sales.\n Strong exposure to premium accounts, Modern Trade, HoReCa, Luxury Retail or Corporate Gifting will be an advantage.\n Demonstrated track record of consistent sales target achievement.\n Excellent negotiation, presentation, and relationship-building skills.\n Strong spoken English and confidence in engaging with senior decision-makers.\n A proactive, well-presented, and result-oriented sales professional.\n Comfortable with extensive field sales and client travel.\n Why Join?\n Be part of an innovative, fast-growing health-tech startup.\n Opportunity to build a new category in Functional Hydration.\n High ownership and direct exposure to leadership.\n Work with an innovation-led, science-backed product.\n 📩 Interested? Share your updated resume at vinay.kumar@arigohrsolution.com or apply directly through LinkedIn.\n Immediate joiners preferred.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Human Resources Services",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -233451,8 +233451,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -233462,15 +233462,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "Business Development Manager at Arigo HR Solutions (for a health-tech startup), but asks 4-6 yrs while you have 1.3 yrs.",
+    "fit_notes": "The posting asks for \"4–6 years of experience in B2B Sales, Corporate Sales, FMCG or Luxury Product Sales\". Shlok has about 1.3 years of experience. No MBA or consulting is required, but the experience gap is a hard blocker under Shlok's rules.",
+    "pay_notes": "Pay is not stated in the job posting.",
+    "culture_notes": "The hiring company is Arigo HR Solutions (an agency), hiring for an unnamed health-tech startup. No company website, Glassdoor ratings, or culture reviews found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T14:24:18+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -233494,14 +233501,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:24:18+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (The posting requires 4-6 years of experience in B2B/FMCG sales, whereas Shlok has about 1.3 years.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30",
+   "updated_at": "2026-11-28T14:24:18+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting requires 4-6 years of experience in B2B/FMCG sales, whereas Shlok has about 1.3 years."
   },
   {
    "id": "L1722",

@@ -4284,7 +4284,7 @@
    "kind": "cold",
    "subject": "Application: Chief of Staff",
    "body": "Hi Satish,\n\nI saw that you're hiring for the Chief of Staff role at AiSteth, and I'd like to apply.\n\nI'm Shlok, an IIT Guwahati grad who spent a year in strategy and operations at Ola Electric, working directly with the CEO and COO. I ran production planning over Rs 200 Cr of inventory and cut working capital by 40% in two and a half months, and I built a dispatch algorithm that took order-to-delivery from 32 days to 14.\n\nMy resume is on my portfolio, linked below. Could we find 15 minutes this week to talk?\n\nShlok\n",
-   "status": "sent",
+   "status": "replied",
    "email_status": "published",
    "speculative": false,
    "hook": "",
@@ -4303,7 +4303,13 @@
    "message_id": "<179517311200.2200.4590943149865400580@gmail.com>",
    "thread_parent": null,
    "error": null,
-   "reply": null
+   "reply": {
+    "at": "2026-11-28T13:25:13+05:30",
+    "from": "satish.sj@aihighway.org",
+    "subject": "=?utf-8?B?UmU6IEFwcGxpY2F0aW9uOiBDaGllZiBvZiBTdGFmZg==?=",
+    "date": "28 Nov 2026 07:52:56 -0000",
+    "snippet": "Hi Shlok,&nbsp; Let's connect on WhatsApp - +91 94804 90148 / text me to coordinate.&nbsp; Regards,&nbsp;Satish Dr (Maj) Satish S Jeevannavar Founder/CEO&nbsp; +91 9480490148&nbsp; |&nbsp;https://aisteth.com/ Your Story&nbsp; |&nbsp; LinkedIn&nbsp; |&nbsp; Youtube&nbsp; |&nbsp; Instagram&nbsp;| NDTV Disclaimer: This email (including any attachments) contains information, which is confidential and "
+   }
   },
   {
    "id": "M0146",
@@ -31338,7 +31344,7 @@
    "kind": "cold",
    "subject": "Strategy and Ops role | Shlok Agrawal",
    "body": "Hi Laxmikant,\n\nI'm looking for a Strategy and Ops or Founder's Office role, and I'd like to be considered at Uni Cards.\n\nOver the last year at Ola Electric, I ran production planning for Rs 200 Cr of inventory and cut working capital by 40% in under three months. I also built a dispatch system that took order-to-delivery from 32 days to 14.\n\nAt Uni Cards, I can take planning, ops reviews and special projects off your plate, so you have more time for the work only you can do.\n\nAre you hiring for a role like this, now or in the next few months? If yes, I'd love a 15-minute call to share more.\n\nShlok\n",
-   "status": "sent",
+   "status": "bounced",
    "email_status": "verified",
    "speculative": true,
    "hook": "",

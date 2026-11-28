@@ -14086,7 +14086,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-20T16:41:55+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-28T13:25:13+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -14095,7 +14095,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "satish.sj@aihighway.org",
-     "email_status": "published",
+     "email_status": "verified",
      "email_source": "stated in the posting",
      "confidence": 0,
      "why": "Role reports to him; he wrote the hiring post and asks for CVs at this address",
@@ -14163,9 +14163,15 @@
      "actor": "recheck",
      "event": "rejected",
      "detail": "senior title and no stated experience"
+    },
+    {
+     "at": "2026-11-28T13:25:13+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "satish.sj@aihighway.org: Hi Shlok,&nbsp; Let's connect on WhatsApp - +91 94804 90148 / text me to coordinate.&nbsp; Regards,&nbsp;Satish Dr (Maj) Satish S Jeevannavar Founder/CEO&nbsp; "
     }
    ],
-   "updated_at": "2026-11-23T18:09:15+05:30",
+   "updated_at": "2026-11-28T13:25:13+05:30",
    "reject_reason": "senior title and no stated experience",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
@@ -103121,7 +103127,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "laxmikant@uni.club",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "Other Funded startup row 45 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -103153,9 +103159,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Laxmikant Vyas"
+    },
+    {
+     "at": "2026-11-28T13:25:13+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "laxmikant@uni.club does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-28T13:14:28+05:30",
+   "updated_at": "2026-11-28T13:25:13+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

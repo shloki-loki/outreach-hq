@@ -15029,6 +15029,15 @@
    "title": "Ran",
    "detail": "23 researched (0 qualified, 23 rejected), 8 closed postings binned, 3 left for a person, 6 errors (first: Gemini HTTP 503: { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try agai)",
    "ref": ""
+  },
+  {
+   "id": "J1671",
+   "at": "2026-11-28T14:24:30+05:30",
+   "by": "people-finder",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "0 companies searched on LinkedIn, 0 people added; stopped: Apify spend this month is $3.55; one more run (up to $0.06) would pass the $3.50 cap",
+   "ref": ""
   }
  ]
 }

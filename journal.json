@@ -14930,6 +14930,15 @@
    "title": "Ran",
    "detail": "1344 postings checked: 301 live, 5 moved to the Bin, 1787 could not be checked",
    "ref": ""
+  },
+  {
+   "id": "J1660",
+   "at": "2026-11-28T13:22:00+05:30",
+   "by": "send-track/send",
+   "kind": "run",
+   "title": "Ran",
+   "detail": "sent 10, failed 0. run limit of 10 reached; the rest go on the next run",
+   "ref": ""
   }
  ]
 }

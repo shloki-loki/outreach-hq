@@ -104693,7 +104693,7 @@
     "answers": {}
    },
    "first_contacted_at": "2026-11-28T13:48:28+05:30",
-   "replied_at": null,
+   "replied_at": "2026-11-28T14:25:17+05:30",
    "contacts": [
     {
      "id": "C1",
@@ -104753,9 +104753,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Saurabh Nagpal"
+    },
+    {
+     "at": "2026-11-28T14:25:17+05:30",
+     "actor": "follow-up",
+     "event": "replied",
+     "detail": "s@loankuber.com: Hi Shlok, Thanks for eaching out. Lets have a call early next ( how about Tue noon). Are you willing to relocate to Delhi ? On Sat, Nov 28, 2026 at 1:48 PM Shlo"
     }
    ],
-   "updated_at": "2026-11-28T13:48:28+05:30",
+   "updated_at": "2026-11-28T14:25:17+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

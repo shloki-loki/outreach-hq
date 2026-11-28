@@ -14804,6 +14804,15 @@
    "title": "Ran",
    "detail": "0 replies, 0 bounces, 7 follow-ups due",
    "ref": ""
+  },
+  {
+   "id": "J1646",
+   "at": "2026-11-28T11:31:17+05:30",
+   "by": "send-track",
+   "kind": "issue",
+   "title": "send-track 28 Nov: no draftable leads, recheck hangs",
+   "detail": "Only L0105, L1556, L0077 needed drafts; all have catch-all addresses and score under 80. find-email --recheck hung past 100s on L0105 (verifier quota exhausted) so none could be verified. No referral matches (0 leads with connections). Application forms: Ashby page is JS-rendered, LinkedIn needs login; no questions readable, so no kits written.",
+   "ref": "I0118"
   }
  ]
 }

@@ -1637,6 +1637,20 @@
    "count": 1,
    "remedy": "",
    "resolved_at": null
+  },
+  {
+   "id": "I0118",
+   "key": "send-track:send-track 28 Nov: no draftable leads, recheck hangs",
+   "agent": "send-track",
+   "severity": "warn",
+   "title": "send-track 28 Nov: no draftable leads, recheck hangs",
+   "detail": "Only L0105, L1556, L0077 needed drafts; all have catch-all addresses and score under 80. find-email --recheck hung past 100s on L0105 (verifier quota exhausted) so none could be verified. No referral matches (0 leads with connections). Application forms: Ashby page is JS-rendered, LinkedIn needs login; no questions readable, so no kits written.",
+   "status": "open",
+   "opened_at": "2026-11-28T11:31:17+05:30",
+   "last_seen": "2026-11-28T11:31:17+05:30",
+   "count": 1,
+   "remedy": "",
+   "resolved_at": null
   }
  ],
  "checked_at": "2026-11-12T15:57:46.254Z"

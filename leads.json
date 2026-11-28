@@ -232826,15 +232826,15 @@
    "key": "wipro|delivery operations manager l2|india",
    "type": "job",
    "company": "Wipro",
-   "company_domain": "",
-   "company_url": "",
+   "company_domain": "wipro.com",
+   "company_url": "https://www.wipro.com",
    "company_linkedin": "https://in.linkedin.com/company/wipro",
    "company_note": "",
    "title": "DELIVERY OPERATIONS MANAGER L2",
    "tier": "2 - Product / Program / BD",
    "location": "Ahmedabad, Gujarat, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4489922612",
    "source_url": "https://in.linkedin.com/jobs/view/delivery-operations-manager-l2-at-wipro-4489922612",
@@ -232850,7 +232850,7 @@
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "open": true,
-   "jd": "",
+   "jd": "Job description:\nJob Description The position is with the Communication BU and you would be responsible for supporting our business operations and sales analysis. The role demands sales business intelligence, reporting and analytics skill. Through sales reporting and analytics, the team provides visibility into the BU s sales pipeline, integrating information from sales, customer and financial sources for a complete and detailed overview of the sales performance. \n͏ Role description \n Driving BU initiatives across the entire spectrum of internal operations. \n Analyze internal operations metrics and proactively project findings to the BU leadership team along with strategy/guideline for reigning in the outliers. \n Executing the above guidelines/strategies to better adherence to business processes. \n Interpreting financial and operational reports and providing a consolidated view of the business trajectory for the quarter. \n Help empower customer relationships by ensuring profitable performance of business operations and driving excellence in internal processes.\n Execute cost benefit interpretation of internal programs. \n Mentoring, managing and leading the sales operations team. Competencies \n Ability to work collaboratively across business functions and leadership role. \n Ability to negotiate within a matrixed organizational structure.\n Strong Program Management experience \n Ability to manage and lead to connect with senior management team\n ͏ Education and Experience: -\n Previous program management and business operations exposure. - Should have strong execution & analytical skills. - Education qualifications - Engineer / MBA. team. - Ability\n͏ ͏ \n Mandatory Skills: Delivery Management\n.\n Experience: >10 YEARS\n.\n Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA - as the world around us changes, so do we. Join a business powered by purpose and a place that empowers you to design your own reinvention.\nSeniority level Not Applicable | Employment type Full-time | Industries IT Services and IT Consulting",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -232865,8 +232865,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 25,
+    "total": 37,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -232876,15 +232876,53 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
-    "hook": "",
-    "hook_source": "",
-    "researched_at": null
+    "done": true,
+    "headline": "Delivery Operations Manager L2 at Wipro in Ahmedabad, but asks >10 years experience and an MBA.",
+    "fit_notes": "The posting asks for 'Previous program management and business operations exposure' and 'Experience: >10 YEARS' as well as 'Education qualifications - Engineer / MBA'. While he has strong business operations experience at Ola Electric ([sop], [ceo-coo]), he only has ~1.3 years of experience, failing the 10-year minimum requirement.",
+    "pay_notes": "Pay not stated in the posting; no reliable estimate available for this specific L2 delivery operations band at Wipro.",
+    "culture_notes": "Wipro is a major IT services and consulting firm; no specific culture flags found in the provided evidence.",
+    "hook": "Wipro recently opened an AI center for Anthropic's Claude in Bengaluru and partnered with bp to build finance operations.",
+    "hook_source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEgwWWJtTEVFcVhjb1E4bzlsNFhHelZFTHd5N2VjcmNZVEt1cGhtdklRcENkdnM2VmRyeFZGalB2ZzNGcGVPTTAwLVpjZ2RPVG5WUHlDY1NKRFhJOWxWZHNmUnRRVXY4eVlrZ1B6dTFPRFd0QTh6R2VQY0lCZHU0d09JM0hJcERQMUtDQW95aFdtNWR2RzBnRnJGcWlmb3VqemJ3ZVg5UQ?oc=5",
+    "researched_at": "2026-11-28T14:24:07+05:30",
+    "by": "research-worker",
+    "sources": [
+     {
+      "id": "S1",
+      "title": "bp signs strategic partnership with Wipro to build best-in-class finance operations - bp global",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc3BzRjUzSjdURUUxQjlEWWd1Q3JTdno0X1JrWnh3N3FKWkhOYVRXbE9Pa1pWT0FkWHZUbUFSczdsLU5vVkoyVjlLZ1I3N1U1dmVCbk43dmZaV0JNbmdnUnprbzVHbVMxNzlvemtRdmdLdnNEdTZKeUpxZXlETnJPYmNoOWx3UDBLZ1M5UVVnVXNPUnhFWXl0Q1pKRjVQeGlpYUVONlhWSktMQ2RrOWF3QkstbnJfc3NnTzZORC0zSnExZUo2Zzc3RmhUaHdjVUZhUzdWckg1Yw?oc=5"
+     },
+     {
+      "id": "S2",
+      "title": "Wipro Q2 FY27 Press Conference Results and Earnings Highlights - Wipro",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOalh2dFpsQVpxaVdtSmtkNXo4dURHcXBNNEoxQW93bUgyNmxGUEl3cWhmZXloRy1PamFWNVdwTzNzdFZZazFTTU4tM2ZCcDRHWE9RdFlsREFROENETjZSa0Q1aU05TmRPYVJYWjVRV1hkUWtZTEZHeURMSEdmU3g3WndZX29OS29EVnNfVGp5LWhfRURh?oc=5"
+     },
+     {
+      "id": "S3",
+      "title": "Infosys, TCS and Wipro scale Microsoft 365 Copilot to over 300,000 employees - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOG4zc2VVWGtUTllEdVFnd1BLVm9aRFlkM3EtU2dWQ2hMcTdqYUtIREFvdnZ1b2tTdEQxbkI0NmVfNmptNmEtanZqUmRkYTd3bGxRMkYyVHZmMjdkMzBRRGRqX2RGVUwxbmw2cGd1Q0NFMks3cWFqM0hiZXNiWTVlQXN5bW9YcXcwN2pBeUlLeG5uTFNiR19KUjVjWGVPanNDZlpvNnNSNWVwdGJMeHgyTWJVSGlucUlsUHZvdXQyRXQtRVE?oc=5"
+     },
+     {
+      "id": "S4",
+      "title": "India's Wipro opens AI center for Anthropic's Claude in Bengaluru - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEgwWWJtTEVFcVhjb1E4bzlsNFhHelZFTHd5N2VjcmNZVEt1cGhtdklRcENkdnM2VmRyeFZGalB2ZzNGcGVPTTAwLVpjZ2RPVG5WUHlDY1NKRFhJOWxWZHNmUnRRVXY4eVlrZ1B6dTFPRFd0QTh6R2VQY0lCZHU0d09JM0hJcERQMUtDQW95aFdtNWR2RzBnRnJGcWlmb3VqemJ3ZVg5UQ?oc=5"
+     },
+     {
+      "id": "S5",
+      "title": "#WATCH | A massive crowd of job seekers was seen outside Wipro's campus in Hyderabad as the IT major conducted multiple walk-in recruitment drives, with visuals from the hiring process triggering conversations around competition for jobs. Wipro has listed - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTW1lejdnSVg2X3hYOVYxSzBFQUdZT2JIbE1RbGJPMFFwcV9DOWlWM0dVN214VGxTcXVLM21sTFRob2xfRHlvN3RwRExOYlhfaEIzNDJzZlhleHF5dzVHSnYxMWVEZUU5N244SUtEOHE0eEQwZHRqVm8teFF4M25IMjNxdHpsT1lGQUVyQWlXclhyU0dPNkEtUlhn?oc=5"
+     },
+     {
+      "id": "S6",
+      "title": "Wipro to take over bp finance operations workforce of 3,000 across three countries - CRN Asia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaTRlYi1JeU5tRnFsdExYM0J3WlYydHhYOGFIaFQ3c0g2UUZycEJhTmxzcXBSdXZwOVhUb3pSbEVXNTlhMGlLMFVXdmNxa2p5YjZvVTFrSXpKeXJTY0xMYU1ma1FzWGpNT0IwSXIxNDl0NXpqb1Z3dTFadllPVHhNTFRWWkV1RUNrUkZnOGtpYjRvd2NPaVJjbkotVTJFb2JEeTJaYmpHSmcyZGVPaWdrazQ1bXVHa2pRUmhaa1VrTQ?oc=5"
+     }
+    ],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "fetched (website + Google News; no web search)"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -232908,14 +232946,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:24:07+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 37: rejected (The posting explicitly requires >10 YEARS of experience, far exceeding his ~1.3 years, and also requires an MBA/Engineering background alongside deep delivery management.)"
     }
    ],
-   "updated_at": "2026-11-18T14:43:01+05:30",
+   "updated_at": "2026-11-28T14:24:07+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "The posting explicitly requires >10 YEARS of experience, far exceeding his ~1.3 years, and also requires an MBA/Engineering background alongside deep delivery management."
   },
   {
    "id": "L1717",

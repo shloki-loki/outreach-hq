@@ -222794,7 +222794,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Ahmedabad, Gujarat, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490187587",
    "source_url": "https://in.linkedin.com/jobs/view/international-business-development-manager-latam-market-at-aliyan-pharmaceuticals-4490187587",
@@ -222810,7 +222810,7 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
    "open": true,
-   "jd": "",
+   "jd": "Job Summary \n The International Business Development Manager will be responsible for developing and managing the pharmaceutical\n business in the assigned international markets. The role involves achieving sales targets,\n appointing and managing distributors, coordinating product registrations, and expanding\n market presence.\n Key Responsibilities \n  Develop business in assigned international markets.\n  Appoint and manage distributors and customers.\n  Achieve sales and collection targets.\n  Coordinate with the Regulatory Affairs team for product registrations.\n  Identify new business opportunities and market expansion plans.\n  Monitor market trends and competitor activities.\n  Prepare sales forecasts and business reports.\n  Coordinate with internal teams for order execution and customer support.\n Qualification, Experience & Skills \n  Bachelor's Degree in Pharmacy, Life Sciences, Science, Business Administration, or a\n related field (MBA preferred).\n  5+ years of experience in Pharmaceutical Export Sales, International Business, or\n Business Development.\n  E xperience in handling LATAM, CIS, Africa, Vietnam, Ghana, or other international pharmaceutical. \n  Strong knowledge of pharmaceutical exports, distributor management, and\n international business operations.\n  Excellent communication, negotiation, presentation, and relationship management\n skills.operations\n  Ability to identify new business opportunities and achieve sales targets.\n  Knowledge of Spanish and Russian is an additional advantage.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Pharmaceutical Manufacturing",
    "exp_min": null,
    "exp_max": null,
    "exp_text": "",
@@ -222825,8 +222825,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -222836,15 +222836,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "International BD Manager at Aliyan Pharmaceuticals asks 5+ yrs in pharma export sales; exceeds 3-yr limit and is based in Ahmedabad.",
+    "fit_notes": "The posting asks for '5+ years of experience in Pharmaceutical Export Sales, International Business, or Business Development' and experience in LATAM/international pharma markets. Shlok has 1.3 years of experience total and no pharmaceutical export background.",
+    "pay_notes": "Pay is not stated in the job posting and no compensation evidence was found.",
+    "culture_notes": "No public company reviews or culture details found.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T14:21:41+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -222868,14 +222875,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:21:41+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (Requires a minimum of 5 years of experience in pharmaceutical export sales (exceeds 3-year limit) and is an onsite role in Ahmedabad.)"
     }
    ],
-   "updated_at": "2026-11-17T15:24:29+05:30",
+   "updated_at": "2026-11-28T14:21:41+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Requires a minimum of 5 years of experience in pharmaceutical export sales (exceeds 3-year limit) and is an onsite role in Ahmedabad."
   },
   {
    "id": "L1636",

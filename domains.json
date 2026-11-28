@@ -513,6 +513,12 @@
    "confirmed": [
     "satish.sj@aihighway.org"
    ]
+  },
+  "updraft.com": {
+   "bounced_patterns": [
+    "first"
+   ],
+   "confirmed": []
   }
  }
 }

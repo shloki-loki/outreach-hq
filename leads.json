@@ -101458,9 +101458,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Ajay Goel"
+    },
+    {
+     "at": "2026-11-28T12:20:05+05:30",
+     "actor": "send-track",
+     "event": "sent",
+     "detail": "cold email to Chetan Maini"
     }
    ],
-   "updated_at": "2026-11-28T12:12:52+05:30",
+   "updated_at": "2026-11-28T12:20:05+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

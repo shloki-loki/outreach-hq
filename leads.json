@@ -282557,9 +282557,11 @@
    "outcome": null,
    "applied_at": null,
    "apply": {
-    "status": "not_started",
+    "status": "kit_ready",
     "notes": "",
-    "answers": {}
+    "answers": {
+     "Why this role (cover note)": "FRND crossing Rs 367 crore in revenue while scaling ad spend shows massive momentum, and supporting that scale needs rapid iteration on user funnels. I'm Shlok, an IIT Guwahati graduate with a year in operations at Ola Electric. As a product intern at InsuranceDekho, I built a Flask API with a Chrome extension that automated form filling, cutting response times by 40%. At FRND, I can own features end-to-end, translate data into simple workflows, and ship tools that improve user retention."
+    }
    },
    "first_contacted_at": null,
    "replied_at": null,
@@ -282589,9 +282591,15 @@
      "actor": "people-finder",
      "event": "people",
      "detail": "0 people found on LinkedIn"
+    },
+    {
+     "at": "2026-11-28T14:25:37+05:30",
+     "actor": "writer",
+     "event": "apply_kit",
+     "detail": "application note written (free model)"
     }
    ],
-   "updated_at": "2026-11-26T03:46:52+05:30",
+   "updated_at": "2026-11-28T14:25:37+05:30",
    "reject_reason": null,
    "people_searched_at": "2026-11-26T03:46:52+05:30",
    "live_check": {

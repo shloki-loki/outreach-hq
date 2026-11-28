@@ -104071,7 +104071,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "david@updraft.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "Other Funded startup row 54 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -104166,9 +104166,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to David Yalland"
+    },
+    {
+     "at": "2026-11-28T14:05:16+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "david@updraft.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-28T13:45:31+05:30",
+   "updated_at": "2026-11-28T14:05:16+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",

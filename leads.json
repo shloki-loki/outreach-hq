@@ -209610,7 +209610,7 @@
    "posted_at": "2026-11-14",
    "first_seen": "2026-11-16",
    "last_seen": "2026-11-18",
-   "open": true,
+   "open": false,
    "jd": "Company Description Evolve Energy Group is a premium provider of end-to-end solar power solutions, focused on accelerating India’s transition to clean, reliable, and sustainable energy. The company delivers long-term solar investments designed to perform consistently over a project life of up to 25 years. Evolve combines deep industry expertise, advanced technology, and quality-driven solutions to help commercial and industrial customers maximize returns from solar energy. The team partners closely with businesses to design thoughtful, high-performance installations that support their sustainability and cost-saving goals. Think 25. Think Solar. Think Evolve.\n Role Description The Business Development Manager – C&I is a full-time, on-site role based in Chennai. This role is responsible for identifying and developing new business opportunities in the commercial and industrial (C&I) segment, including prospecting, qualifying leads, and managing the sales pipeline. The Business Development Manager will conduct client meetings and presentations, prepare proposals, coordinate technical and financial evaluations with internal teams, and negotiate contracts to closure. The role involves monitoring market trends, competitor activities, and policy developments, and translating these insights into actionable sales strategies. The individual will collaborate closely with engineering, operations, and finance teams to ensure smooth project handover and strong client relationships throughout the sales and delivery cycle.\n Qualifications\n Strong business development and B2B sales skills, including lead generation, pipeline management, and contract negotiation in the C&I or renewable energy sector.\n Ability to build and maintain long-term client relationships, conduct needs assessments, and deliver clear, persuasive presentations to diverse stakeholders.\n Solid understanding of solar power solutions, basic technical and financial concepts (e.g., ROI, payback, tariffs), and the renewable energy market landscape.\n Excellent communication, analytical, and problem-solving skills, with the capacity to work cross-functionally with technical, commercial, and operations teams.\n Bachelor’s degree in Engineering, Business, or a related field; an MBA or relevant postgraduate qualification is an advantage.\n Prior experience in solar, energy, infrastructure, or related industries, particularly in C&I segments, is highly beneficial.\n Comfort with CRM tools, MS Office (Excel, PowerPoint, Word), and data-driven decision-making.\n Willingness to travel for client meetings and site visits as required.",
    "exp_min": null,
    "exp_max": null,
@@ -209669,13 +209669,24 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:08:42+05:30",
+     "actor": "research-worker",
+     "event": "posting_closed",
+     "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
     }
    ],
-   "updated_at": "2026-11-16T10:01:49+05:30",
+   "updated_at": "2026-11-28T14:08:42+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
+   },
+   "bin": {
+    "at": "2026-11-28T14:08:42+05:30",
+    "reason": "the posting says \"No longer accepting applications\"",
+    "by": "research-worker"
    }
   },
   {

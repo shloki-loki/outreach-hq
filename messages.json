@@ -35610,6 +35610,34 @@
    "thread_parent": "<179559957152.61161.12061883299992319084@gmail.com>",
    "error": null,
    "reply": null
+  },
+  {
+   "id": "M1194",
+   "lead_id": "L0515",
+   "contact_id": "C2",
+   "to": "ashutosh@cashbookapp.in",
+   "to_name": "Ashutosh Pathak",
+   "kind": "followup1",
+   "subject": "Re: Strategy and Ops role | Shlok Agrawal",
+   "body": "Hi Ashutosh,\n\nOne more thing that may be relevant: as Raw Material Manager at Ola Electric I set up SAP MRP from scratch, and stock-outs fell 20%. I'd bring that systems habit to CashBook's operations. Is there a process there that needs it?\n\nShlok\n",
+   "status": "draft",
+   "email_status": "verified",
+   "speculative": true,
+   "hook": "",
+   "hook_source": "",
+   "play": null,
+   "promise": "",
+   "playbook": "v2",
+   "attach_resume": false,
+   "created_at": "2026-11-28T11:55:11+05:30",
+   "created_by": "follow-up",
+   "approved_at": null,
+   "sending_at": null,
+   "sent_at": null,
+   "message_id": null,
+   "thread_parent": "<179559969267.61161.10976989125566096198@gmail.com>",
+   "error": null,
+   "reply": null
   }
  ]
 }

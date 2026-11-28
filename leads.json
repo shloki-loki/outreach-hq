@@ -209054,7 +209054,7 @@
    "tier": "2 - Product / Program / BD",
    "location": "Chandigarh, India",
    "location_bucket": "india",
-   "work_mode": "",
+   "work_mode": "onsite",
    "source": "linkedin",
    "source_id": "4490206852",
    "source_url": "https://in.linkedin.com/jobs/view/business-development-manager-at-vessence-luxe-4490206852",
@@ -209085,8 +209085,8 @@
    },
    "score": {
     "rules": 54,
-    "research": null,
-    "total": 54,
+    "research": 15,
+    "total": 31,
     "reasons": [
      "2 - Product / Program / BD role (+28)",
      "India, outside Bengaluru (+8)",
@@ -209096,15 +209096,22 @@
     ]
    },
    "research": {
-    "done": false,
-    "fit_notes": "",
-    "pay_notes": "",
-    "culture_notes": "",
+    "done": true,
+    "headline": "On-site BD Manager in Chandigarh for luxury fragrances, asks luxury/beauty sales background you lack; pay unknown.",
+    "fit_notes": "Posting asks for proven BD, sales, and account management experience preferably in luxury goods or beauty, based on-site in Chandigarh. Shlok's experience is in supply chain, S&OP, and operations at Ola Electric [sop, ceo-coo] and product/tech [idekho]. He lacks luxury/beauty industry BD experience and prefers Bengaluru or remote roles.",
+    "pay_notes": "No pay stated in posting; no salary data found for Vessence Luxe.",
+    "culture_notes": "No public reviews or company rating found on Glassdoor/AmbitionBox.",
     "hook": "",
     "hook_source": "",
-    "researched_at": null
+    "researched_at": "2026-11-28T14:08:34+05:30",
+    "by": "research-worker",
+    "sources": [],
+    "matched_facts": [],
+    "review": "pending",
+    "model": "gemini-3.8-flash",
+    "evidence_model": "gemini-2.5-flash"
    },
-   "stage": "new",
+   "stage": "rejected",
    "outcome": null,
    "applied_at": null,
    "apply": {
@@ -209128,14 +209135,21 @@
      "actor": "lead-scout",
      "event": "found",
      "detail": "linkedin: rule score 54"
+    },
+    {
+     "at": "2026-11-28T14:08:34+05:30",
+     "actor": "research-worker",
+     "event": "researched",
+     "detail": "score 31: rejected (Role requires on-site presence in Chandigarh in luxury/beauty business development, which does not match Shlok's S&OP/operations facts or location preference (Bengaluru/Remote).)"
     }
    ],
-   "updated_at": "2026-11-15T23:35:42+05:30",
+   "updated_at": "2026-11-28T14:08:34+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "unknown",
     "why": "LinkedIn rate limit; skipped this run"
-   }
+   },
+   "reject_reason": "Role requires on-site presence in Chandigarh in luxury/beauty business development, which does not match Shlok's S&OP/operations facts or location preference (Bengaluru/Remote)."
   },
   {
    "id": "L1528",

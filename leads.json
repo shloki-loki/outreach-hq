@@ -96858,7 +96858,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "ajay.jotwani@i2chain.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 530 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -96871,7 +96871,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "mainak.trivedi@i2chain.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 547 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -96927,9 +96927,21 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Mainak Trivedi"
+    },
+    {
+     "at": "2026-11-28T11:51:21+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "ajay.jotwani@i2chain.com does not exist; needs a new address"
+    },
+    {
+     "at": "2026-11-28T11:51:21+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "mainak.trivedi@i2chain.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-27T09:25:29+05:30",
+   "updated_at": "2026-11-28T11:51:21+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",
@@ -97609,7 +97621,7 @@
      "role_type": "founder",
      "linkedin_url": "",
      "email": "pankaj@markovml.com",
-     "email_status": "verified",
+     "email_status": "bounced",
      "email_source": "AI Startup row 535 | Prior address check confirmed by Shlok (2026-11-15); method and check date unspecified.",
      "confidence": 0,
      "why": "",
@@ -97653,9 +97665,15 @@
      "actor": "send-track",
      "event": "sent",
      "detail": "cold email to Pankaj Rajan"
+    },
+    {
+     "at": "2026-11-28T11:51:21+05:30",
+     "actor": "follow-up",
+     "event": "bounced",
+     "detail": "pankaj@markovml.com does not exist; needs a new address"
     }
    ],
-   "updated_at": "2026-11-27T09:13:28+05:30",
+   "updated_at": "2026-11-28T11:51:21+05:30",
    "live_check": {
     "at": "2026-11-27T13:52:18+05:30",
     "state": "unknown",

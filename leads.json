@@ -8429,7 +8429,7 @@
    ],
    "posted_at": "2026-11-03",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "open": true,
    "jd": "About the Role: \n We are looking for a Program Manager at Leap. You will work on charters which can have an orbit-change impact on Leap’s trajectory.\n The charter for this role will include: \n Working on transformation projects for the company. You will do multiple ‘Strategize - Build - Operate - Transfer’ projects in a year.\n Augmenting the business unit leaders in solving key problems. You will act as a consultant to help multiple business lines and plug any gaps needed for the business to succeed.\n Work on open ended projects such as market research, opportunity sizing, user research, identifying M&A opportunities.\n Do whatever else is critical for the business to win.\n Ideal Persona would: \n Have 3-5 years of experience in a high growth startup, ideally exposed to the 0-1 and 1-100 journeys.\n Have experience with 0 -> 1 phase of company building (rapid experimentation, hypothesis testing, MVP, user research).\n Have experience with 1->100 phases of company building (process design, hiring, team management, scaling complexities).\n Have great stakeholder management skills and be extremely influential.\n Be a ninja at building alignment by influence (not by authority).\n Have strong first principle thinking, ability to navigate from ambiguity to clarity, should ask the right questions and get to answers fast.\n Be well network and know how to learn fast from the right people by asking the right questions.",
    "exp_min": 3,
@@ -10516,7 +10516,7 @@
    "posted_at": "2026-10-16T12:44:06.067000+00:00",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-28",
-   "open": false,
+   "open": true,
    "jd": "What you will do\nAnalysis, customer interviews, user research, competition analysis and other qualitative/quantitative techniques.\n Problem Identification & Prioritization: Adopt a structured approach to identify what problems need to be solved and break them down into smaller chunks. Prioritize what problems need to be solved now vs. later.\n Solution Discovery: Facilitate a process to come up with the best technology-led ideas to solve the prioritised problems. Harness the creativity of not just yourself but of other teams such as design, engineering., business, etc Be willing to experiment with multiple solution ideas and test them using MVPs, prototypes, etc.\n Product Delivery: Define detailed product requirements and work collaboratively with a cross-functional team (design, engg. business, analytics, etc.) to bring a product to life. Ensure high product quality through processes such as user acceptance testing, dogfooding, etc.\n Go-to-Market Planning: Create a go-to-market plan working with business/marketing stakeholders to maximize product adoption and success.\n Adoption & Metrics: Define product metrics for your area, and track them continuously. Identify usage patterns and come up with action plans to move metrics in the right direction.\n Roadmap Creation: Create a product roadmap for your area that has at least a 3-month forward-looking view of key customer/business problems to be solved.\nWhat you will need \nOverall experience of 3+ yrs with at least 1+ yrs in product management in a tech-led company (consumer internet space is preferred).\n Exceptional problem-solving skills based on first principles of thinking.\n Good understanding of technology, and comfort with product management processes such as A/B experimentation, writing product requirement documents, managing product backlogs, and creating roadmaps.\n Good communication and stakeholder management skills to get work done across different functions and drive product development.",
    "exp_min": 1,
    "exp_max": null,
@@ -10727,9 +10727,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the job board says the posting no longer exists (HTTP 404)"
+    },
+    {
+     "at": "2026-11-28T15:03:56+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-28T13:12:52+05:30",
+   "updated_at": "2026-11-28T15:03:56+05:30",
    "reject_reason": "Asks 3+ years overall incl. 1+ year as a PM; Shlok has 1.3 years and no full-time PM role.",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
@@ -12460,7 +12466,7 @@
    "posted_at": "2026-04-17T19:17:20.479+00:00",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-28",
-   "open": false,
+   "open": true,
    "jd": "About Sarvam\n\nSarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.\n\n \n\nAbout the Role\n\nWe are hiring a Model Product Manager to own charters for Automatic Speech Recognition (ASR), Text-to-Speech (TTS), and model evaluation pipelines. You will work closely with research and engineering teams to define roadmaps, run training and evaluation cycles, and ship models that directly improve product experience and reliability.\n\n \n\nWhat You'll Do\n\n• Define and drive roadmaps for ASR, TTS, and evaluation systems.\n\n• Partner with engineering and research teams on data collection, training cycles, and model release planning.\n\n• Set up and own evaluation frameworks and quality metrics covering accuracy, latency, MOS, and robustness.\n\n• Run structured experiments — offline tests, A/Bs, and human evaluations — to quantify model improvements.\n\n• Ensure scalable deployment and monitoring of models in collaboration with infra and data teams.\n\n• Translate user and business needs into measurable model goals.\n\n• Communicate priorities, timelines, and trade-offs clearly across stakeholders.\n\n \n\nWhat We're Looking For\n\n• 3+ years of experience building AI, applied AI, ML products, or model training pipelines.\n\n• Familiarity with the model lifecycle: training, fine-tuning, deployment, and monitoring.\n\n• Strong analytical skills and comfort with data-driven decision making.\n\n• Ability to collaborate effectively across research, engineering, and product teams.\n\n \n\nBonus Points\n\n• Exposure to speech technologies (ASR, TTS) or evaluation pipelines.\n\n• Experience with quality metrics such as WER, CER, MOS, or latency tracking.\n\n• Hands-on familiarity with SQL, Python, or ML toolkits.\n\n \n\nWhy Sarvam?\n\nSarvam is a fast-moving, high talent-density team building full-stack AI for India, working on problems that push the frontiers of AI with real population-scale impact.\n\n• Work alongside researchers, engineers, builders, and business leaders who move fast and hold each other to a very high bar\n\n• High ownership and high impact, from day one\n\n• Everything we do is AI-first, from the way we build and ship to the way we think about problems\n\n• You can work on problems that could change how an entire country learns, works, and communicates\n\nIf you want to work on problems at the frontier of AI in India, Sarvam is the place to be.",
    "exp_min": 3,
    "exp_max": null,
@@ -12658,9 +12664,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: no longer on the company's Ashby job board"
+    },
+    {
+     "at": "2026-11-28T15:03:56+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-28T13:12:52+05:30",
+   "updated_at": "2026-11-28T15:03:56+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "closed",
@@ -13511,7 +13523,7 @@
    "posted_at": "2026-10-27T10:27:25.628+00:00",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-28",
-   "open": false,
+   "open": true,
    "jd": "About SpotDraft\nSpotDraft is on a mission to help legal and business teams move faster, together. Our AI-powered contracting platform is redefining how companies manage contracts, and our story deserves to be told in creative, human, and memorable ways.\n\n\n\nTop Outcomes:\n\nThis role sits in the core workflow legal and business teams use every day to get a contract from draft to signature: collaborative editing and redlining, negotiating with counterparties, routing for approval, and signing. It’s one of the highest-usage parts of the product, used by nearly every customer on nearly every contract, and it doesn’t have a single owner today.\n\nScope is flexible and will be shaped around the person we hire, calibrated to their experience during the process rather than fixed in this posting. Part of the job either way is imposing a single prioritised roadmap on an area that today gets pulled in different directions by different stakeholders, rather than treating each piece in isolation.\n\n\n\nDay to Day:\n\n - Own discovery for your area. Run customer and prospect conversations every week, and turn what you learn into a clear view of who you're building for and why it matters to them.\n\n - Make evidence-based calls. Instrument what you ship, state your confidence level upfront, and track whether you were right so your judgment keeps improving.\n\n - Partner through the build, not just at kickoff. Work with engineering and design end to end, and give everyone a release affects, support, sales, whoever’s downstream, a real briefing instead of a surprise.\n\n - De-risk before you build. Test your riskiest assumptions before you commit engineering time to them.\n\n - Prioritise ruthlessly. Keep one ranked backlog sized against real customer demand, and be ready to defend the business case and trade-off behind every roadmap call.\n\n - Ship iteratively. Deliver a working increment every sprint, each one tied to a real outcome or a learning.\n\nWhat success looks like\n\n - A clear, prioritised roadmap for the area you own, with an explicit plan for how scope grows from there.\n\n - Measurable reduction in time and friction from “ready to negotiate” to “signed” within your area.\n\n - Issues resolved through the product, not through a standing support escalation queue.\n\n\n\nRequirements:\n\n - Product management experience owning a feature or workflow end to end to a measurable outcome. Years of experience matter less than the scope you’ve handled: tell us what you’ve owned and we’ll calibrate the role to it.\n\n - Comfortable working in a high-usage, multi-stakeholder area where prioritisation itself is a core skill, not just execution.\n\n - Background in document collaboration, e-signature, contract/legal tech, or workflow automation products is a strong plus.\n\n - Comfortable ramping quickly in a legal or contract-heavy domain if you don’t already have that background.\n\n\n\nNice to have\n\n - Prior experience in a regulated domain where explainability/audit was a hard requirement rather th…",
    "exp_min": null,
    "exp_max": null,
@@ -13645,9 +13657,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: no longer on the company's Ashby job board"
+    },
+    {
+     "at": "2026-11-28T15:03:56+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-28T13:12:52+05:30",
+   "updated_at": "2026-11-28T15:03:56+05:30",
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
     "state": "closed",
@@ -14716,7 +14734,7 @@
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-28",
-   "open": false,
+   "open": true,
    "jd": "As a Manager in the Founder's Office, you will work directly with leadership to strategize, manage, and execute diverse high-impact projects across multiple business functions. This is a unique opportunity to gain exposure to all aspects of business operations while working in a dynamic, fast-paced environment. The ideal candidate is a self-starter with strong analytical, project management, and communication skills, coupled with a collaborative and ownership-driven mindset.\n Must-Have Skills: \n - Project Management: Strong organizational and time management ski ls to handle multiple tasks and priorities effectively.\n - Analytical Ability: Data-driven mindset to analyze complex business problems.\n - Execution-Oriented: Ability to execute tasks with precision and efficiency.\n - Business Acumen: Basic understanding of financial metrics, business strategy, and market dynamics.\n - Strong Written and Verbal Communication Skills: Ability to convey ideas clearly and effectively to diverse stakeholders.\n - Proficiency in Microsoft Office Suite and Canva: Expertise in Word, Excel, PowerPoint, Outlook, and Canva for creating high-quality outputs.\n Personality Traits: \n - Proactive, self-motivated and a Multi-Tasker: Thrives in a fast-paced environment, managing multiple priorities efficiently.\n - Ability to Work Independently and as Part of a Team: Flexible and adaptive to collaborate effectively or work autonomously as required.\n - Displays Ownership: Takes complete responsibility for projects and sees them through to completion.\n - Detail-Oriented: Ensures quality and accuracy in all deliverables.\n - Resilient: Adapts to changing priorities and remains focused under pressure.\n - Curious Learner: Constantly seeks opportunities to learn, grow, and enhance ski ls.\n Qualifications \n - Education: Mandatory Bachelor's degree in Business Administration, Management, or a related field. Preferred Master's.\n - Experience: (Mandatory) 1-3 years of relevant experience in project management, Founder's Office, or similar roles (preferably in fast-paced start-ups)",
    "exp_min": 1,
    "exp_max": 3,
@@ -14960,9 +14978,15 @@
      "actor": "live-check",
      "event": "posting_closed",
      "detail": "moved to the Bin: the posting says \"No longer accepting applications\""
+    },
+    {
+     "at": "2026-11-28T15:03:56+05:30",
+     "actor": "lead-scout",
+     "event": "reopened",
+     "detail": "posting is live again"
     }
    ],
-   "updated_at": "2026-11-28T13:12:52+05:30",
+   "updated_at": "2026-11-28T15:03:56+05:30",
    "reject_reason": null,
    "live_check": {
     "at": "2026-11-28T13:12:52+05:30",
@@ -20518,11 +20542,16 @@
      "source": "linkedin",
      "url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-30-sundays-4490305149",
      "seen": "2026-11-12"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-30-sundays-4495300494",
+     "seen": "2026-11-28"
     }
    ],
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-28",
    "open": true,
    "jd": "About 30 Sundays \n 30 Sundays is a travel company based in Gurugram that specializes in creating unforgettable vacations exclusively for couples. We Founded by alumni from Apple, BCG, University of Michigan, IIT, and IIM. We are Backed by investors like Bessemer Venture Partners and InfoEdge Ventures.\n Location: Gurugram\n Role Overview - EIR Operations \n This is a chance to work directly with the leadership on key operations excellence projects.\n Our goal is to have the best customer experience in the travel Industry and this role will help build the foundation. You will operate at the intersection of strategy and execution, analysing data, identifying gaps and directly driving improvements. To succeed in this role you should have exceptional executional skills and be great at leveraging new age AI tools like Claude.\n Key Responsibilities \n Own multiple projects to improve customer experience\n Build analytical data streams to identify key areas for improvement\n Leverage AI to build Proof of Concept tools to improve productivity, efficiency and accuracy\n Work with product and tech to turn successful POCs into scalable deployed systems\n Define and improve SOPs and Processes; work with cross-functional teams to drive implementation\n Preferred Background \n 2+ years of experience in consulting, analytics or a high growth organisation\n High on energy, Willing to go above and beyond whenever needed\n Undergraduate degree from top Tier 1 IITs/ NITS/ Bits Pilani or Delhi University colleges (e.g., LSR, SRCC, St. Stephen’s)\nSeniority level Mid-Senior level | Employment type Full-time | Industries Travel Arrangements",
    "exp_min": null,
@@ -27579,7 +27608,7 @@
    ],
    "posted_at": "2026-11-06",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-28",
    "open": true,
    "jd": "Come work at a place where innovation and teamwork come together to support the most exciting missions in the world!\n Job Description\n We are looking for an enthusiastic and committed Vulnerability Management Product Manager to join our dynamic team. This role will blend aspects of product management and cybersecurity analysis to ensure the delivery of high-quality security solutions to our customers.\n Key Responsibilities\n Assist in market research to identify new opportunities and customer needs specific to cybersecurity.\nPerform vulnerability assessments and threat analysis to inform product development.\nGenerate vulnerability management reports for customers.\nCollaborate with engineering teams to define product requirements and specifications.\nAssist in developing product roadmaps and feature prioritization.\nHelp prepare product collateral, including user guides, FAQs, and datasheets.\nMonitor and report on product performance and cybersecurity metrics.\nStay updated with the latest industry trends and regulatory requirements related to cybersecurity.\n Qualifications\n Bachelor’s degree in Computer Science, Information Security, Business, or related field.\nBasic understanding of cybersecurity concepts such as vulnerability management, patch management, and asset management.\nStrong analytical skills with the ability to collect, organize, and analyze significant amounts of information.\nExcellent communication skills, both written and verbal.\nSeniority level Not Applicable | Employment type Full-time | Industries Computer and Network Security",
    "exp_min": null,
@@ -239383,6 +239412,11 @@
      "source": "linkedin",
      "url": "https://in.linkedin.com/jobs/view/founder-s-office-at-trail-4492411172",
      "seen": "2026-11-19"
+    },
+    {
+     "source": "linkedin",
+     "url": "https://www.linkedin.com/jobs/view/4492411172/",
+     "seen": "2026-11-28"
     }
    ],
    "posted_at": "2026-11-19",
@@ -278867,7 +278901,7 @@
    ],
    "posted_at": "2026-11-25",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "open": true,
    "jd": "Location: Mumbai, Maharashtra\n Reporting to: Chief Executive Officer (CEO)\n About Viceroy Properties \n Viceroy Properties is a luxury real estate developer committed to creating exceptional spaces through meticulous planning, aesthetic design and impeccable craftsmanship.\n With 13 international awards, 1.2 million sq. ft. delivered and 3.3 million sq. ft. in the pipeline, Viceroy is expanding its presence across residential, commercial and retail real estate.\n About the Role \n What if you could fast-track your career by learning how a business is actually built, run and scaled, directly from the CEO? \n We are looking for a sharp, ambitious and commercially curious professional to join our CEO’s Office and contribute to strategic initiatives, business performance and organisational priorities.\n This is a high-impact role offering direct exposure to the CEO, senior leadership, strategic decision-making and cross-functional business operations.\n The ideal candidate is someone who combines strong analytical capabilities with business acumen, intellectual curiosity and a willingness to take ownership and drive execution.\n Key Responsibilities \n Business Analysis & Performance \n Analyse financial, sales and operational performance to identify trends, opportunities and areas for improvement.\n Translate complex data into actionable business insights and recommendations.\n Prepare business reports, presentations and decision-support material for the CEO.\n Strategy & Business Initiatives \n Support the CEO in driving strategic initiatives and high-priority business projects.\n Conduct market research, evaluate business opportunities and assess their commercial implications.\n Structure complex business problems and contribute to developing practical solutions.\n Leadership & Cross-functional Coordination \n Participate in key leadership and business review meetings.\n Capture critical decisions, action points and business priorities.\n Coordinate with department heads to ensure timely execution of leadership commitments.\n Track progress across strategic initiatives and drive effective follow-through.\n Qualifications & Experience \n Prior experience in the real estate industry is mandatory.\n Early-career professional with experience in business strategy, business analysis, consulting, operations or related functions.\n MBA from an IIM or another leading business school is preferred, but not mandatory.\n Strong understanding of financial and commercial business fundamentals.\n Proficiency in Microsoft Excel and PowerPoint.\n Strong analytical, research, communication and presentation skills.\n Ability to engage confidently with senior leadership and manage multiple priorities.\n Who We Are Looking For \n A sharp analytical thinker who can connect the dots.\n A commercially curious individual who understands how businesses create value.\n A proactive, resourceful self-starter with a strong sense of ownership.\n Someone comfortable challenging assumptions and solving complex problems.\n An ambitious professional with the aspiration to grow into a future business leader.\n Why Join Viceroy? \n Work directly with the CEO and senior leadership.\n Gain exceptional exposure to strategic business decisions.\n Develop a holistic understanding of how a growing real estate business operates.\n Contribute to high-impact projects across multiple business functions.\n Accelerate your professional growth through hands-on learning, ownership and execution.\n Most professionals spend years working towards exposure to the decisions that drive a business. Here, you will be part of those conversations from day one.\n If you are ambitious, intellectually curious and looking for an opportunity that goes beyond a conventional corporate role, we would love to hear from you.\nSeniority level Mid-Senior level | Employment type Full-time | Industries Real Estate",
    "exp_min": null,
@@ -282344,7 +282378,7 @@
    ],
    "posted_at": "2026-11-25",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "open": true,
    "jd": "Role Objective \n To provide executive, administrative and operational support to the CEO and facilitate the smooth functioning of NICE – Centre for Entrepreneurship. The role will involve coordinating incubation activities, supporting entrepreneurship development initiatives, managing stakeholder communication and ensuring effective execution of the CEO's priorities. \n The incumbent will act as a coordination link between the CEO, SOIL management, startup founders, mentors, investors, industry partners and other stakeholders, contributing to the development and growth of the Centre's entrepreneurial ecosystem. \n Key Responsibilities \n 1. CEO's Office & Executive Support \n Manage the CEO's calendar, schedule meetings, coordinate appointments and facilitate travel arrangements whenever required. \n Prepare meeting agendas, presentations, briefing notes, reports and official correspondence. \n Record meeting minutes, maintain action points and follow up with relevant stakeholders for timely execution. \n Coordinate with internal departments to facilitate the implementation of the CEO's instructions and initiatives. \n Maintain organised records and ensure confidentiality of institutional information and official communications. \n 2. Incubation Centre Operations \n Support the planning and execution of NICE's incubation, pre-incubation, acceleration and entrepreneurship development programmes. \n Coordinate the onboarding and engagement of entrepreneurs, innovators and startup founders. \n Facilitate interactions between startups, mentors, industry experts, investors and other ecosystem partners. \n Track startup activities, programme milestones, deliverables and progress. \n Maintain updated databases of startups, entrepreneurs, mentors, investors and institutional partners. \n Assist in identifying potential startups, entrepreneurial opportunities and relevant incubation initiatives. \n 3. Stakeholder Engagement & Partnership Coordination \n Coordinate with corporates, industry representatives, government agencies, funding organisations, investors and ecosystem partners. \n Support the CEO in developing and maintaining institutional and industry relationships. \n Assist in coordinating MoUs, partnership proposals, collaborations and follow-up communications. \n Facilitate networking and engagement opportunities between startup founders and relevant stakeholders. \n Represent NICE in meetings and external engagements whenever delegated by the CEO. \n 4. Programme & Event Management \n Coordinate entrepreneurship workshops, startup boot camps, pitch sessions, investor interactions, mentoring sessions and networking events. \n Manage event logistics, invitations, registrations, communication and documentation. \n Coordinate with internal teams and external agencies to ensure smooth execution of programmes and events. \n Document programme outcomes, participant feedback and key achievements. \n 5. Research, Documentation & Reporting \n Conduct research on startup ecosystems, entrepreneurship trends, funding opportunities, government schemes and incubation practices. \n Assist in preparing proposals, concept notes, project reports, presentations and institutional submissions. \n Identify relevant government initiatives, grants and potential funding opportunities. \n Maintain records of incubation activities, startup achievements, partnerships and programme outcomes. \n Prepare periodic progress reports and management updates for the CEO. \n 6. Communication & Institutional Outreach \n Coordinate communication related to NICE's programmes, activities and initiatives. \n Assist in developing content for newsletters, institutional updates, social media and promotional material. \n Support outreach initiatives to engage aspiring entrepreneurs, students, startups, mentors and industry partners. \n Contribute to strengthening the Centre's visibility and positioning within the entrepreneurship ecosystem. \n 7. General Administration & Coordination \n Ensure smooth day-to-day coordination of the CEO's office and incubation centre operations. \n Maintain systematic records, databases, files and official documentation. \n Coordinate with Finance, HR, Administration and Academic teams as required. \n Undertake additional responsibilities and special assignments entrusted by the CEO. \n Key Skills & Competencies \n Excellent verbal and written communication skills. \n Strong organisational, planning and coordination abilities. \n Proficiency in MS Office, particularly PowerPoint, Excel and Word. \n Ability to prepare professional presentations, reports and official correspondence. \n Strong interpersonal, networking and stakeholder management skills. \n Good research, analytical and problem-solving abilities. \n Ability to manage multiple assignments and meet deadlines. \n Professionalism, discretion and ability to handle confidential information. \n Interest in entrepreneurship, startups, innovation and business development. \n Ability to work independently and collaborate effectively with cross-functional teams. \n Requirements \n Graduate or postgraduate degree in Management, Business Administration, Commerce, Economics, Entrepreneurship or a relevant discipline. \n MBA/PGDM or postgraduate qualification in Management, Entrepreneurship, Innovation or a related field will be preferred. \n 1–3 years of relevant experience in executive assistance, office administration, programme coordination, business development, institutional operations or startup/incubation management. \n Fresh graduates with strong communication, organisational and coordination skills may also be considered. \n Prior experience working with senior management, founders, entrepreneurs or institutional leadership will be an added advantage. \n What Success Looks Like \n Effective day-to-day coordination and smooth functioning of the CEO's office. \n Timely execution and follow-up of the CEO's priorities and assigned responsibilities. \n Efficient coordination of incubation programmes, events, meetings and stakeholder engagements. \n Accurate documentation, reporting and maintenance of institutional records. \n Strong communication and relationship management with internal and external stakeholders. \n Consistent operational support towards the growth and development of NICE – Centre for Entrepreneurship.",
    "exp_min": 1.0,
@@ -294542,7 +294576,7 @@
    ],
    "posted_at": "2026-11-27",
    "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "open": true,
    "jd": "We're Hiring: Operations & Strategy Analyst \n Samarthya Financial Services is growing, and we're looking for an Operations & Strategy Analyst to join our Data & Strategy team in Hyderabad. If you enjoy working with data, solving problems and want hands-on exposure to AI-driven operations, we'd love to hear from you!\n • Role: Operations & Strategy Analyst\n • Company: Samarthya Financial Services Pvt. Ltd.\n • Department: Data & Strategy\n • Employment type: Full-time\n • Location: Begumpet, Hyderabad, Telangana\n • Experience: 0–2 years (freshers welcome)\n • Joining: Immediate joiners preferred\n • Languages: Fluency in English and Hindi is mandatory\n About the role \n We are looking for a proactive and analytical Operations & Strategy Analyst to support our AI-driven debt recovery operations. You will contribute to campaign execution, operational performance monitoring, portfolio analysis, market research, client coordination and process improvement.\n The role needs strong analytical and communication skills, and the ability to manage ongoing operations on our platform. \n Key responsibilities \n • BOT campaign management: Execute and manage BOT calling campaigns, including uploading case data, configuring campaigns, monitoring execution and tracking batch completion.\n • Operations monitoring: Monitor day-to-day operational activities, track workflow progress, identify execution gaps and support timely resolution of operational issues.\n • Tracking metrics: Track connectivity rate, PTP generation, payment commitment fulfilment, call duration, campaign completion and outcomes. Prepare daily reports and management summaries in Excel and Google Sheets.\n • Portfolio analysis: Analyze loan and delinquency portfolios across DPD buckets, customer segments, product categories and client accounts. Track portfolio movement, collection performance, allocation, resolution trends and key operational KPIs, and highlight risks and suggest improvement opportunities.\n • Market research and vendor evaluation: Identify vendors relevant to our use case and prepare concise summaries of the offerings to support business planning and operational strategy.\n • Campaign and data analysis: Compare campaign performance across batches and customer segments to support BOT strategies. Interpret trends, identify performance gaps and present actionable findings.\n • Process improvement: Identify operational bottlenecks, evaluate process efficiency and recommend improvements to boost productivity.\n • Vendor/Client coordination: Coordinate with vendors/clients on product updates, business requirements, performance reviews, data clarifications and issue resolution. Follow up with vendors/clients to ensure agreed deliverables are met on time.\n • Quality monitoring: Review BOT call outcomes and conversation records to identify recurring issues, customer concerns, process deviations and ways to improve BOT performance.\n • Cross-functional coordination: Work closely with operations, technology, sales and other internal teams to resolve campaign issues, implement process changes and ensure smooth execution.\n Requirements \n • Fluency in English (mandatory): Excellent spoken and written English.\n • Fluency in Hindi (mandatory): Excellent spoken Hindi.\n • Pursuing or having recently completed a degree in BBA, B.Com, MBA or a related field.\n • Strong analytical, problem-solving, logical reasoning and research skills.\n • Good written and verbal communication, with the confidence to speak clearly and professionally with clients and internal stakeholders.\n • Proficiency in MS Excel or Google Sheets; knowledge of pivot tables, lookup formulas, data analysis and dashboards is preferred.\n • Ability to interpret operational and portfolio data and turn findings into actionable insights.\n • Good interpersonal, coordination, presentation and time-management skills, with strong attention to detail and ownership.\n • Interest in AI, automation, financial services, business operations and strategy.\n Preferred skills \n • Good client-facing communication, coordination and stakeholder management skills.\n • Familiarity with AI voice bots, CRM systems, loan portfolios or campaign management platforms.\n • Experience in, or academic exposure to, market research, business analysis, reporting or operational projects.\n What you will learn \n • Hands-on experience managing AI-driven calling campaigns and operational workflows.\n • Practical exposure to portfolio analytics, market research, client coordination and operational strategy.\n • Experience working with large datasets, dashboards, business KPIs and performance reports.\n • How AI automation and data-driven decisions improve business processes and operational efficiency.\n How to apply \n Send your CV to career@samarthyaenterprise.com with the subject line \" Application – Operations & Strategy Analyst \".",
    "exp_min": 0.0,
@@ -299204,6 +299238,282 @@
     "state": "live",
     "why": ""
    }
+  },
+  {
+   "id": "L2275",
+   "legacy_id": null,
+   "key": "snabbit|business analyst|bengaluru",
+   "type": "job",
+   "company": "Snabbit",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "",
+   "company_note": "",
+   "title": "Business Analyst",
+   "tier": "3 - APM / Analyst",
+   "location": "Bangalore Urban",
+   "location_bucket": "bengaluru",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4495274693",
+   "source_url": "https://www.linkedin.com/jobs/view/4495274693/",
+   "apply_url": "https://www.linkedin.com/jobs/view/4495274693/",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://www.linkedin.com/jobs/view/4495274693/",
+     "seen": "2026-11-28"
+    }
+   ],
+   "posted_at": "2026-11-28T04:05:23+00:00",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "open": true,
+   "jd": "Business Analyst | Snabbit \n About Snabbit \n Snabbit is India’s first Quick-Service App delivering home services in just 10 minutes through a hyperlocal network of trained and verified professionals. Backed by Elevation Capital, Nexus Venture Partners, and Lightspeed, Snabbit is redefining the home services space by combining speed, quality, and trust.\n Founded by Aayush Agarwal, Snabbit aims to make home services as seamless and instant as ordering groceries.\n About the Role \n We are looking for an analytical and data-driven Business Analyst to drive product insights and improve consumer experience at Snabbit.\n You will work closely with Product, Engineering, and Business teams to analyse user behaviour, optimise consumer funnels, identify conversion drop-offs, and improve engagement and retention.\n Key Responsibilities \n Analyse end-to-end consumer journeys across app engagement, service discovery, booking, conversion, and retention.\n Identify funnel drop-offs and recommend improvements to optimise conversion rates and user experience.\n Track key product metrics such as DAU, MAU, retention, engagement, feature adoption, and repeat usage.\n Conduct cohort analysis, customer segmentation, and behavioural analysis.\n Use Mixpanel or similar tools to track user journeys and product performance.\n Work on A/B testing and experiments to measure the impact of product changes.\n Use SQL and Python for data extraction, analysis, and automation.\n Build dashboards and reports to monitor product performance.\n Partner with Product and Engineering teams to convert insights into actionable improvements.\n Analyze business and operational data to identify trends, inefficiencies, and opportunities\n What We're Looking For \n Bachelor's degree in Engineering, Economics, Statistics, Mathematics, or a related discipline.\n 2–4 years of experience in Business Analytics / Strategy / Consulting / Operations\n Experience in e-commerce, quick commerce, consumer internet, or marketplace businesses.\n Strong proficiency in SQL and working knowledge of Python .\n Hands-on experience with Mixpanel, Amplitude, or similar product analytics tools .\n Strong understanding of consumer funnels, user journeys, and conversion optimisation.\n Experience with funnel analysis, cohort analysis, retention, and A/B testing.\n Ability to translate data into actionable product and business insights.\n Strong analytical skills, ownership, and ability to work in a fast-paced environment.\n Apply Here : https://forms.gle/j9MSiXthoVpSzm3Z",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Associate Employment type Full-time Industries Technology, Information and Media",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 49,
+    "research": null,
+    "total": 49,
+    "reasons": [
+     "3 - APM / Analyst role (+18)",
+     "Bengaluru (+20)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-28T15:03:56+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 49"
+    }
+   ],
+   "updated_at": "2026-11-28T15:03:56+05:30"
+  },
+  {
+   "id": "L2276",
+   "legacy_id": null,
+   "key": "credresolve|entrepreneur in residence|india",
+   "type": "job",
+   "company": "CredResolve",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/credresolve",
+   "company_note": "",
+   "title": "Entrepreneur in Residence",
+   "tier": "1 - Strategy & Ops",
+   "location": "Gurgaon, Haryana, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4495367225",
+   "source_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-credresolve-4495367225",
+   "apply_url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-credresolve-4495367225",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-credresolve-4495367225",
+     "seen": "2026-11-28"
+    }
+   ],
+   "posted_at": "2026-11-28",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "open": true,
+   "jd": "Entrepreneur in Residence (EIR) Company: CredResolve\n Location: Gurugram, Haryana, India\n Workplace Type: On-site\n Employment Type: Full-time\n Experience: 2–8 Years\nAbout CredResolve CredResolve is building next-generation recovery infrastructure for India's collections ecosystem, leveraging AI-driven intelligence, automation, and an integrated field force to transform the debt recovery landscape.\n We are looking for an ambitious, entrepreneurial individual to join our founding team and build a new business vertical from the ground up.\nThe Opportunity This is not a conventional management role. You will operate like a founder within the organisation, taking a high-impact business opportunity from idea to execution.\n From identifying the problem and validating the opportunity to building an MVP, acquiring early customers, and scaling operations, you will own the entire journey.\n You will have direct exposure to the founders and significant autonomy in shaping the business.\nKey Responsibilities Identify and evaluate new business opportunities.\n Build and launch new products/business verticals from 0 to 1.\n Own product strategy, MVP development, and product-market fit.\n Develop and execute go-to-market strategies.\n Drive customer acquisition and strategic partnerships.\n Own business performance, revenue, costs, and P&L.\n Build processes, hire teams, and scale operations.\n Work closely with founders on strategic business initiatives.\n Who Should Apply? 2–8 years of professional experience.\n B.Tech/B.E. from a Tier-1 institute (IIT/NIT/BITS).\n Experience as a founder, early-stage startup operator, or primary owner of a 0-to-1 initiative.\n Demonstrated ability to take an idea from conceptualisation to execution.\n Strong analytical, problem-solving, and business acumen.\n Comfortable with ambiguity and capable of making independent decisions.\n High ownership mindset with a strong bias for action.\n What We Offer Founding-team-level ESOPs.\n Competitive fixed compensation.\n Significant autonomy and decision-making authority.\n Direct mentorship from experienced founders.\n Opportunity to build, own, and eventually lead an independent business vertical.\n Why CredResolve? If you want to move beyond executing someone else's vision and build something of your own, this is your opportunity.\n You won't just be joining a company; you'll be building a business within one.\n Location: Gurugram | Work From Office\n Employment Type: Full-time",
+   "exp_min": 2.0,
+   "exp_max": 8.0,
+   "exp_text": "Seniority level Executive Employment type Full-time Industries Financial Services",
+   "stretch": false,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 74,
+    "research": null,
+    "total": 74,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience fits: asks 2+ years (+15)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-28T15:03:56+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 74"
+    }
+   ],
+   "updated_at": "2026-11-28T15:03:56+05:30"
+  },
+  {
+   "id": "L2277",
+   "legacy_id": null,
+   "key": "uptye|technology and ai strategy lead founders office|india",
+   "type": "job",
+   "company": "UpTye",
+   "company_domain": "",
+   "company_url": "",
+   "company_linkedin": "https://in.linkedin.com/company/uptye",
+   "company_note": "",
+   "title": "Technology & AI Strategy Lead – Founder’s Office",
+   "tier": "1 - Strategy & Ops",
+   "location": "Mumbai, Maharashtra, India",
+   "location_bucket": "india",
+   "work_mode": "",
+   "source": "linkedin",
+   "source_id": "4493887508",
+   "source_url": "https://in.linkedin.com/jobs/view/technology-ai-strategy-lead-%E2%80%93-founder%E2%80%99s-office-at-uptye-4493887508",
+   "apply_url": "https://in.linkedin.com/jobs/view/technology-ai-strategy-lead-%E2%80%93-founder%E2%80%99s-office-at-uptye-4493887508",
+   "sources": [
+    {
+     "source": "linkedin",
+     "url": "https://in.linkedin.com/jobs/view/technology-ai-strategy-lead-%E2%80%93-founder%E2%80%99s-office-at-uptye-4493887508",
+     "seen": "2026-11-28"
+    }
+   ],
+   "posted_at": "2026-11-28",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "open": true,
+   "jd": "We are looking for an experienced technology and business professional to work closely with our Founder, a serial entrepreneur building and scaling ventures across different industries.\n This is not a conventional coding role. We need an entrepreneurial problem-solver who combines strong technical expertise, deep AI exposure, product thinking, commercial understanding, and independent execution.\nKey Responsibilities Work as an extension of the Founder, translating ideas into structured strategies and executable plans.\n Independently lead technology, AI, product, and business initiatives from concept to execution.\n Identify practical applications of generative AI, LLMs, AI agents, and automation.\n Understand business processes and recommend technology-led improvements.\n Support the development and scaling of customer-centric SaaS and digital products.\n Evaluate technologies, platforms, vendors, and solution architectures.\n Act as a liaison between the Founder, technical teams, customers, partners, and other stakeholders.\n Research new industries, business models, and market opportunities.\n Challenge assumptions, identify risks, and provide well-reasoned recommendations.\nIdeal Candidate Strong background in technology, product, SaaS, AI, or digital transformation.\n Proven experience building or scaling customer-centric products.\n Deep practical understanding of AI and emerging technologies.\n Strong business judgement, commercial awareness, and product thinking.\n Comfortable communicating with both technical and non-technical stakeholders.\n Entrepreneurial, proactive, resourceful, and highly independent.\n Able to understand unfamiliar industries and complex problems quickly.\n Experience working with founders, CXOs, or senior leadership is preferred.\n This role is ideal for someone who can think like a technologist, product leader, business strategist, and entrepreneur - not someone looking for a narrowly defined coding position.",
+   "exp_min": null,
+   "exp_max": null,
+   "exp_text": "Seniority level Executive Employment type Full-time Industries Business Consulting and Services",
+   "stretch": true,
+   "pay": {
+    "stated": null,
+    "min_lpa": null,
+    "max_lpa": null,
+    "basis": "unknown",
+    "source": "",
+    "fit": "Unknown"
+   },
+   "score": {
+    "rules": 59,
+    "research": null,
+    "total": 59,
+    "reasons": [
+     "1 - Strategy & Ops role (+40)",
+     "India, outside Bengaluru (+8)",
+     "Experience not stated (+0)",
+     "Pay not stated; needs evidence (+6)",
+     "Posted in the last week (+5)"
+    ]
+   },
+   "research": {
+    "done": false,
+    "fit_notes": "",
+    "pay_notes": "",
+    "culture_notes": "",
+    "hook": "",
+    "hook_source": "",
+    "researched_at": null
+   },
+   "stage": "new",
+   "outcome": null,
+   "applied_at": null,
+   "apply": {
+    "status": "not_started",
+    "notes": "",
+    "answers": {}
+   },
+   "first_contacted_at": null,
+   "replied_at": null,
+   "contacts": [],
+   "referrals": [],
+   "followup": {
+    "due": false,
+    "kind": null,
+    "since": null
+   },
+   "notes": [],
+   "timeline": [
+    {
+     "at": "2026-11-28T15:03:56+05:30",
+     "actor": "lead-scout",
+     "event": "found",
+     "detail": "linkedin: rule score 59"
+    }
+   ],
+   "updated_at": "2026-11-28T15:03:56+05:30"
   }
  ]
 }

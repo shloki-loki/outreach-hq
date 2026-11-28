@@ -1,19 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-25T21:05:18+05:30",
-   "agent": "follow-up/track",
-   "ok": true,
-   "summary": "0 replies, 0 bounces, 9 follow-ups due",
-   "stats": {
-    "replies": 0,
-    "auto_replies": 0,
-    "bounces": 0,
-    "settled": 0,
-    "followups_due": 9
-   }
-  },
-  {
    "at": "2026-11-25T21:05:34+05:30",
    "agent": "send-track/send",
    "ok": true,
@@ -3361,6 +3348,19 @@
    "ok": true,
    "summary": "0 emails drafted, 0 referral notes, 0 application kits; 3 skipped (L0105 Zamp, L1556 Nat Habit, L0077 Composio: catch-all addresses, score under 80, recheck hung)",
    "stats": {}
+  },
+  {
+   "at": "2026-11-28T11:54:00+05:30",
+   "agent": "follow-up/track",
+   "ok": true,
+   "summary": "0 replies, 3 bounces, 7 follow-ups due",
+   "stats": {
+    "replies": 0,
+    "auto_replies": 0,
+    "bounces": 3,
+    "settled": 0,
+    "followups_due": 7
+   }
   }
  ]
 }

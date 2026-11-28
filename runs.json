@@ -1,16 +1,6 @@
 {
  "runs": [
   {
-   "at": "2026-11-25T20:05:55+05:30",
-   "agent": "send-track/send",
-   "ok": true,
-   "summary": "sent 0, failed 0. daily cap of 60 speculative notes reached",
-   "stats": {
-    "sent": 0,
-    "failed": 0
-   }
-  },
-  {
    "at": "2026-11-25T20:12:47+05:30",
    "agent": "supervisor",
    "ok": true,
@@ -3366,6 +3356,13 @@
   },
   {
    "at": "2026-11-28T07:17:20+05:30",
+   "agent": "send-track/send",
+   "ok": true,
+   "summary": "outside the sending window; 130 approved email(s) wait for the next run",
+   "stats": {}
+  },
+  {
+   "at": "2026-11-28T07:31:50+05:30",
    "agent": "send-track/send",
    "ok": true,
    "summary": "outside the sending window; 130 approved email(s) wait for the next run",
